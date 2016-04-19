@@ -1,0 +1,66 @@
+{
+  "id": 185742851,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-116.35381,43.703811,-116.35381,43.703811",
+    "geom:latitude":43.703811,
+    "geom:longitude":-116.35381,
+    "iso:country":"US",
+    "sg:address":"966 N Eagle Rd",
+    "sg:city":"Eagle",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Fire Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 939 6463",
+    "sg:postcode":"83616",
+    "sg:province":"ID",
+    "sg:tags":[
+        "department"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85937923,
+        102086087,
+        85876351
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6IhhzGQQX7i0fyCKITFFif_43.703811_-116.353810@1294099250"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"740d46cdafdd5aed5ce8f72a08b8945e",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086087,
+            "locality_id":85937923,
+            "neighbourhood_id":85876351,
+            "region_id":85688657,
+            "venue_id":185742851
+        }
+    ],
+    "wof:id":185742851,
+    "wof:lastmodified":1449006709,
+    "wof:name":"Eagle Fire Dept",
+    "wof:parent_id":85876351,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "department"
+    ]
+},
+  "bbox": [-116.35381,43.703811,-116.35381,43.703811],
+  "geometry": {"coordinates":[-116.35381,43.703811],"type":"Point"}
+}

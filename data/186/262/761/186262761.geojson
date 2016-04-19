@@ -1,0 +1,66 @@
+{
+  "id": 186262761,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-116.238424,43.603524,-116.238424,43.603524",
+    "geom:latitude":43.603524,
+    "geom:longitude":-116.238424,
+    "iso:country":"US",
+    "sg:address":"20 S Garden St",
+    "sg:city":"Boise",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 344 6791",
+    "sg:postcode":"83705",
+    "sg:province":"ID",
+    "sg:tags":[
+        "wrecker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85937923,
+        102086087,
+        85876311
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4FJWq7vuhZ50DKAXG2QNwI_43.603524_-116.238424@1294099250"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"e03051821b299b95284e2d4885ed7023",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086087,
+            "locality_id":85937923,
+            "neighbourhood_id":85876311,
+            "region_id":85688657,
+            "venue_id":186262761
+        }
+    ],
+    "wof:id":186262761,
+    "wof:lastmodified":1449052028,
+    "wof:name":"Boise Towing Svc",
+    "wof:parent_id":85876311,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "wrecker"
+    ]
+},
+  "bbox": [-116.238424,43.603524,-116.238424,43.603524],
+  "geometry": {"coordinates":[-116.238424,43.603524],"type":"Point"}
+}

@@ -1,0 +1,80 @@
+{
+  "id": 320525157,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-117.001985,46.403927,-117.001985,46.403927",
+    "geom:latitude":46.403927,
+    "geom:longitude":-117.001985,
+    "iso:country":"US",
+    "sg:address":"1617 21st St",
+    "sg:city":"Lewiston",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 746 2391",
+    "sg:postcode":"83501",
+    "sg:province":"ID",
+    "sg:tags":[
+        "car",
+        "used",
+        "leasing",
+        "truck",
+        "new"
+    ],
+    "sg:website":"http://www.joehallnissan.com/",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85937743,
+        102086039,
+        85837769
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0V0pg1hr1wMgWvJ1GRIEcn_46.403927_-117.001985@1303263095"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"982c5670925b1ed2e15db67c7de0f77c",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086039,
+            "locality_id":85937743,
+            "neighbourhood_id":85837769,
+            "region_id":85688657,
+            "venue_id":320525157
+        }
+    ],
+    "wof:id":320525157,
+    "wof:lastmodified":1449014189,
+    "wof:name":"Joe Hall Nissan",
+    "wof:parent_id":85837769,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "car",
+        "used",
+        "leasing",
+        "truck",
+        "new"
+    ]
+},
+  "bbox": [-117.001985,46.403927,-117.001985,46.403927],
+  "geometry": {"coordinates":[-117.001985,46.403927],"type":"Point"}
+}

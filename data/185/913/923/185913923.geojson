@@ -1,0 +1,67 @@
+{
+  "id": 185913923,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-111.91716,43.672114,-111.91716,43.672114",
+    "geom:latitude":43.672114,
+    "geom:longitude":-111.91716,
+    "iso:country":"US",
+    "sg:address":"129 W Main St",
+    "sg:city":"Rigby",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Medical Lab",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 745 7469",
+    "sg:postcode":"83442",
+    "sg:province":"ID",
+    "sg:tags":[
+        "laboratory",
+        "dental"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85938121,
+        102086033
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1N6UCfSH1tocMIAcWZErF6_43.672114_-111.917160@1294099250"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"deda7b07c458101e439a592562843d5e",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086033,
+            "locality_id":85938121,
+            "neighbourhood_id":-1,
+            "region_id":85688657,
+            "venue_id":185913923
+        }
+    ],
+    "wof:id":185913923,
+    "wof:lastmodified":1449007238,
+    "wof:name":"Eastside Lab",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "laboratory",
+        "dental"
+    ]
+},
+  "bbox": [-111.91716,43.672114,-111.91716,43.672114],
+  "geometry": {"coordinates":[-111.91716,43.672114],"type":"Point"}
+}

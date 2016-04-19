@@ -1,0 +1,67 @@
+{
+  "id": 186308825,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-112.452755,42.864019,-112.452755,42.864019",
+    "geom:latitude":42.864019,
+    "geom:longitude":-112.452755,
+    "iso:country":"US",
+    "sg:address":"352 N Main St",
+    "sg:city":"Pocatello",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Bicycles & Sporting Goods",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 232 3666",
+    "sg:postcode":"83204",
+    "sg:province":"ID",
+    "sg:tags":[
+        "gun",
+        "gunsmith"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85937925,
+        102086113
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0cyjIZS1wMryxHKmaFuRrS_42.864019_-112.452755@1294099250"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"a715f6efddb027fa639669a20bfbf107",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086113,
+            "locality_id":85937925,
+            "neighbourhood_id":-1,
+            "region_id":85688657,
+            "venue_id":186308825
+        }
+    ],
+    "wof:id":186308825,
+    "wof:lastmodified":1449053089,
+    "wof:name":"Big D's",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "gun",
+        "gunsmith"
+    ]
+},
+  "bbox": [-112.452755,42.864019,-112.452755,42.864019],
+  "geometry": {"coordinates":[-112.452755,42.864019],"type":"Point"}
+}

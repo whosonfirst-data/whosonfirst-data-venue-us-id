@@ -1,0 +1,71 @@
+{
+  "id": 186261647,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-116.501439,43.893629,-116.501439,43.893629",
+    "geom:latitude":43.893629,
+    "geom:longitude":-116.501439,
+    "iso:country":"US",
+    "sg:address":"398 E Idaho Blvd",
+    "sg:city":"Emmett",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"",
+            "type":"Services"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Animal Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 398 9850",
+    "sg:postcode":"83617",
+    "sg:province":"ID",
+    "sg:tags":[
+        "pet",
+        "boarding",
+        "sitting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633793,
+        85688657
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7ezrY8CWQFRJJqAZJtAUYN_43.893629_-116.501439@1294099250"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"71cecef4fb38d9ea8045eeddbe6dfe66",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "locality_id":-1,
+            "neighbourhood_id":-1,
+            "region_id":85688657,
+            "venue_id":186261647
+        }
+    ],
+    "wof:id":186261647,
+    "wof:lastmodified":1449050303,
+    "wof:name":"Angels Pet Sitting",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pet",
+        "boarding",
+        "sitting"
+    ]
+},
+  "bbox": [-116.501439,43.893629,-116.501439,43.893629],
+  "geometry": {"coordinates":[-116.501439,43.893629],"type":"Point"}
+}

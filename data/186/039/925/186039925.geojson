@@ -1,0 +1,73 @@
+{
+  "id": 186039925,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-116.204455,43.597605,-116.204455,43.597605",
+    "geom:latitude":43.597605,
+    "geom:longitude":-116.204455,
+    "iso:country":"US",
+    "sg:address":"1843 W Boise Ave",
+    "sg:city":"Boise",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Agent",
+            "type":"Services"
+        },
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 343 9800",
+    "sg:postcode":"83706",
+    "sg:province":"ID",
+    "sg:tags":[
+        "manager",
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85937923,
+        102086087,
+        85876303
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3XVB08Cew5DqhPGpEbACIC_43.597605_-116.204455@1294099250"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"20403731f506ba21f1453ab84f2daaea",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086087,
+            "locality_id":85937923,
+            "neighbourhood_id":85876303,
+            "region_id":85688657,
+            "venue_id":186039925
+        }
+    ],
+    "wof:id":186039925,
+    "wof:lastmodified":1449052678,
+    "wof:name":"Eagle Pointe Apartments",
+    "wof:parent_id":85876303,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "manager",
+        "apartment"
+    ]
+},
+  "bbox": [-116.204455,43.597605,-116.204455,43.597605],
+  "geometry": {"coordinates":[-116.204455,43.597605],"type":"Point"}
+}

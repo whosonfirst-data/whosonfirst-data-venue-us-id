@@ -1,0 +1,67 @@
+{
+  "id": 185815297,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-113.879218,42.244943,-113.879218,42.244943",
+    "geom:latitude":42.244943,
+    "geom:longitude":-113.879218,
+    "iso:country":"US",
+    "sg:address":"275 E Poplar St",
+    "sg:city":"Oakley",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 862 3462",
+    "sg:postcode":"83346",
+    "sg:province":"ID",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85937827,
+        102086095
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3ho03aPOTWDHZ6dU279fF3_42.244943_-113.879218@1294099250"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"8335e9ba5d3fe8a15b6c6cb2c838e1a3",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086095,
+            "locality_id":85937827,
+            "neighbourhood_id":-1,
+            "region_id":85688657,
+            "venue_id":185815297
+        }
+    ],
+    "wof:id":185815297,
+    "wof:lastmodified":1449007406,
+    "wof:name":"B & B Repair",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [-113.879218,42.244943,-113.879218,42.244943],
+  "geometry": {"coordinates":[-113.879218,42.244943],"type":"Point"}
+}

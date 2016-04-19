@@ -1,0 +1,78 @@
+{
+  "id": 185973081,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-116.978138,46.382211,-116.978138,46.382211",
+    "geom:latitude":46.382211,
+    "geom:longitude":-116.978138,
+    "iso:country":"US",
+    "sg:address":"1027 Linden Ave",
+    "sg:city":"Lewiston",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Car Wash",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 746 0464",
+    "sg:postcode":"83501",
+    "sg:province":"ID",
+    "sg:tags":[
+        "polishing",
+        "washing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85937743,
+        102086039,
+        85837769,
+        85830385
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0aCVPx5dX79WhUqqMeDSA5_46.382211_-116.978138@1294099250"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"702127032475c63c71306737b93bf0a7",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086039,
+            "locality_id":85937743,
+            "neighbourhood_id":85837769,
+            "region_id":85688657,
+            "venue_id":185973081
+        },
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086039,
+            "locality_id":85937743,
+            "neighbourhood_id":85830385,
+            "region_id":85688657,
+            "venue_id":185973081
+        }
+    ],
+    "wof:id":185973081,
+    "wof:lastmodified":1449007576,
+    "wof:name":"Grumpy's Car Wash",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "polishing",
+        "washing"
+    ]
+},
+  "bbox": [-116.978138,46.382211,-116.978138,46.382211],
+  "geometry": {"coordinates":[-116.978138,46.382211],"type":"Point"}
+}

@@ -1,0 +1,66 @@
+{
+  "id": 185807253,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-116.243533,43.608787,-116.243533,43.608787",
+    "geom:latitude":43.608787,
+    "geom:longitude":-116.243533,
+    "iso:country":"US",
+    "sg:address":"413 N Orchard St",
+    "sg:city":"Boise",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 658 0644",
+    "sg:postcode":"83706",
+    "sg:province":"ID",
+    "sg:tags":[
+        "market"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85937923,
+        102086087,
+        85876311
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3BzSrfABJXhz6Q40Ja1wHi_43.608787_-116.243533@1294099250"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"ef1bcc1861c65b9075e92eb336809d74",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086087,
+            "locality_id":85937923,
+            "neighbourhood_id":85876311,
+            "region_id":85688657,
+            "venue_id":185807253
+        }
+    ],
+    "wof:id":185807253,
+    "wof:lastmodified":1449007018,
+    "wof:name":"Campos Market",
+    "wof:parent_id":85876311,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "market"
+    ]
+},
+  "bbox": [-116.243533,43.608787,-116.243533,43.608787],
+  "geometry": {"coordinates":[-116.243533,43.608787],"type":"Point"}
+}

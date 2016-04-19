@@ -1,0 +1,67 @@
+{
+  "id": 186483263,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-116.89449,47.728039,-116.89449,47.728039",
+    "geom:latitude":47.728039,
+    "geom:longitude":-116.89449,
+    "iso:country":"US",
+    "sg:address":"2241 State Hwy 41",
+    "sg:city":"Post Falls",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 773 1584",
+    "sg:postcode":"83854",
+    "sg:province":"ID",
+    "sg:tags":[
+        "hauling",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        102086085,
+        85833263
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0nS8wtiAZcHg1M7OiLWu26_47.728039_-116.894490@1294099250"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"3db379c807ea27bffc96d91b0a1ef392",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086085,
+            "locality_id":-1,
+            "neighbourhood_id":85833263,
+            "region_id":85688657,
+            "venue_id":186483263
+        }
+    ],
+    "wof:id":186483263,
+    "wof:lastmodified":1449052439,
+    "wof:name":"Richardson Trucking Inc",
+    "wof:parent_id":85833263,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "hauling",
+        "trucking"
+    ]
+},
+  "bbox": [-116.89449,47.728039,-116.89449,47.728039],
+  "geometry": {"coordinates":[-116.89449,47.728039],"type":"Point"}
+}

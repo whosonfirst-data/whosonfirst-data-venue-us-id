@@ -1,0 +1,68 @@
+{
+  "id": 185864909,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-116.327216,43.61107,-116.327216,43.61107",
+    "geom:latitude":43.61107,
+    "geom:longitude":-116.327216,
+    "iso:country":"US",
+    "sg:address":"11477 President Dr",
+    "sg:city":"Boise",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 322 4844",
+    "sg:postcode":"83713",
+    "sg:province":"ID",
+    "sg:tags":[
+        "plumbing",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85937915,
+        102086087,
+        85805083
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2VPTNZXzqYCKALl5sHBuKv_43.611070_-116.327216@1294099250"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"0869cabf2816a755c79891a057143221",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086087,
+            "locality_id":85937915,
+            "neighbourhood_id":85805083,
+            "region_id":85688657,
+            "venue_id":185864909
+        }
+    ],
+    "wof:id":185864909,
+    "wof:lastmodified":1449008234,
+    "wof:name":"De Best Plumbing",
+    "wof:parent_id":85805083,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "plumbing",
+        "contractor"
+    ]
+},
+  "bbox": [-116.327216,43.61107,-116.327216,43.61107],
+  "geometry": {"coordinates":[-116.327216,43.61107],"type":"Point"}
+}

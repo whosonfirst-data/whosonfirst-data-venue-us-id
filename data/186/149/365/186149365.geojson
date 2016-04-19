@@ -1,0 +1,68 @@
+{
+  "id": 186149365,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-116.193759,43.58931,-116.193759,43.58931",
+    "geom:latitude":43.58931,
+    "geom:longitude":-116.193759,
+    "iso:country":"US",
+    "sg:address":"1961 Broadway Ave",
+    "sg:city":"Boise",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 345 7717",
+    "sg:postcode":"83706",
+    "sg:province":"ID",
+    "sg:tags":[
+        "spa",
+        "day"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85937923,
+        102086087,
+        85876343
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3u8pPqcXdwkGPFL0yhWUKS_43.589310_-116.193759@1294099250"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"9ffddd556b81e08a0cc432453cfeb99d",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086087,
+            "locality_id":85937923,
+            "neighbourhood_id":85876343,
+            "region_id":85688657,
+            "venue_id":186149365
+        }
+    ],
+    "wof:id":186149365,
+    "wof:lastmodified":1449050260,
+    "wof:name":"Clearwater Spa",
+    "wof:parent_id":85876343,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "spa",
+        "day"
+    ]
+},
+  "bbox": [-116.193759,43.58931,-116.193759,43.58931],
+  "geometry": {"coordinates":[-116.193759,43.58931],"type":"Point"}
+}

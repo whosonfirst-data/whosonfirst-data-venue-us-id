@@ -1,0 +1,76 @@
+{
+  "id": 169847191,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-116.776362,47.712493,-116.776362,47.712493",
+    "geom:latitude":47.712493,
+    "geom:longitude":-116.776362,
+    "iso:country":"US",
+    "sg:address":"770 E Gregory Ln",
+    "sg:city":"Coeur D Alene",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Books",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 664 3480",
+    "sg:postcode":"83815",
+    "sg:province":"ID",
+    "sg:tags":[
+        "dealer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85938163,
+        102086085,
+        85806325,
+        85821457
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6e4c6d1wtlkwwF1b9ZlIhy_47.712493_-116.776362@1294099250"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"80308bc719ed388b76e99a9821dcc318",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086085,
+            "locality_id":85938163,
+            "neighbourhood_id":85806325,
+            "region_id":85688657,
+            "venue_id":169847191
+        },
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086085,
+            "locality_id":-1,
+            "neighbourhood_id":85821457,
+            "region_id":85688657,
+            "venue_id":169847191
+        }
+    ],
+    "wof:id":169847191,
+    "wof:lastmodified":1449033889,
+    "wof:name":"LDS Books-The Book Shoppe",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dealer"
+    ]
+},
+  "bbox": [-116.776362,47.712493,-116.776362,47.712493],
+  "geometry": {"coordinates":[-116.776362,47.712493],"type":"Point"}
+}

@@ -1,0 +1,86 @@
+{
+  "id": 169860307,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-116.990419,46.391208,-116.990419,46.391208",
+    "geom:latitude":46.391208,
+    "geom:longitude":-116.990419,
+    "iso:country":"US",
+    "sg:address":"102 Thain Rd",
+    "sg:city":"Lewiston",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 743 8550",
+    "sg:postcode":"83501",
+    "sg:province":"ID",
+    "sg:tags":[
+        "renting",
+        "truck",
+        "leasing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85937743,
+        102086039,
+        85837769,
+        85830385
+    ],
+    "wof:brand_id":420573923,
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_56pSGIDcxFJpRnaHR0eyQT_46.391208_-116.990419@1294099250"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"9b1418a357f520b16c37bb1f9762239f",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086039,
+            "locality_id":85937743,
+            "neighbourhood_id":85837769,
+            "region_id":85688657,
+            "venue_id":169860307
+        },
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086039,
+            "locality_id":85937743,
+            "neighbourhood_id":85830385,
+            "region_id":85688657,
+            "venue_id":169860307
+        }
+    ],
+    "wof:id":169860307,
+    "wof:lastmodified":1457207923,
+    "wof:name":"Budget Truck Rental",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "renting",
+        "truck",
+        "leasing"
+    ]
+},
+  "bbox": [
+    -116.990419,
+    46.391208,
+    -116.990419,
+    46.391208
+],
+  "geometry": {"coordinates":[-116.990419,46.391208],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 186288933,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-116.268465,43.569114,-116.268465,43.569114",
+    "geom:latitude":43.569114,
+    "geom:longitude":-116.268465,
+    "iso:country":"US",
+    "sg:address":"6534 W Diamond St",
+    "sg:city":"Boise",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"Dance Studio",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 362 9911",
+    "sg:postcode":"83709",
+    "sg:province":"ID",
+    "sg:tags":[
+        "square",
+        "caller"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85937923,
+        102086087,
+        85825393
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4y7Gy9TqSwTCqU99hVmyAF_43.569114_-116.268465@1294099250"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"91c68886927bfb74fb280753c276579c",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086087,
+            "locality_id":85937923,
+            "neighbourhood_id":85825393,
+            "region_id":85688657,
+            "venue_id":186288933
+        }
+    ],
+    "wof:id":186288933,
+    "wof:lastmodified":1449050527,
+    "wof:name":"Square Dance Ctr",
+    "wof:parent_id":85825393,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "square",
+        "caller"
+    ]
+},
+  "bbox": [-116.268465,43.569114,-116.268465,43.569114],
+  "geometry": {"coordinates":[-116.268465,43.569114],"type":"Point"}
+}

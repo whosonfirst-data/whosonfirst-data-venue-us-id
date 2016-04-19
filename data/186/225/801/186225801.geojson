@@ -1,0 +1,75 @@
+{
+  "id": 186225801,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-116.296029,43.676386,-116.296029,43.676386",
+    "geom:latitude":43.676386,
+    "geom:longitude":-116.296029,
+    "iso:country":"US",
+    "sg:address":"8959 W State St",
+    "sg:city":"Boise",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 853 2879",
+    "sg:postcode":"83714",
+    "sg:province":"ID",
+    "sg:tags":[
+        "renting",
+        "truck",
+        "leasing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        102086087,
+        85876315
+    ],
+    "wof:brand_id":420573755,
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2fxFI1YoxixFhphgJ4IZmd_43.676386_-116.296029@1294099250"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"c286b86b20cabcf69d802af46c4243e1",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086087,
+            "locality_id":-1,
+            "neighbourhood_id":85876315,
+            "region_id":85688657,
+            "venue_id":186225801
+        }
+    ],
+    "wof:id":186225801,
+    "wof:lastmodified":1457207083,
+    "wof:name":"U-Haul Co",
+    "wof:parent_id":85876315,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "renting",
+        "truck",
+        "leasing"
+    ]
+},
+  "bbox": [
+    -116.296029,
+    43.676386,
+    -116.296029,
+    43.676386
+],
+  "geometry": {"coordinates":[-116.296029,43.676386],"type":"Point"}
+}

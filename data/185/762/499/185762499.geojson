@@ -1,0 +1,68 @@
+{
+  "id": 185762499,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-116.223356,43.635163,-116.223356,43.635163",
+    "geom:latitude":43.635163,
+    "geom:longitude":-116.223356,
+    "iso:country":"US",
+    "sg:address":"1601 N 28th St",
+    "sg:city":"Boise",
+    "sg:classifiers":[
+        {
+            "category":"Recreation",
+            "subcategory":"",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 384 4486",
+    "sg:postcode":"83703",
+    "sg:province":"ID",
+    "sg:tags":[
+        "pool",
+        "swimming"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85937923,
+        102086087,
+        85876313
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4QKRw8lVuDHZPxtnrQict0_43.635163_-116.223356@1294099250"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"5f3f28b135a5b396fdc4592df7fa49fc",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086087,
+            "locality_id":85937923,
+            "neighbourhood_id":85876313,
+            "region_id":85688657,
+            "venue_id":185762499
+        }
+    ],
+    "wof:id":185762499,
+    "wof:lastmodified":1449007737,
+    "wof:name":"Lowell Pool",
+    "wof:parent_id":85876313,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pool",
+        "swimming"
+    ]
+},
+  "bbox": [-116.223356,43.635163,-116.223356,43.635163],
+  "geometry": {"coordinates":[-116.223356,43.635163],"type":"Point"}
+}

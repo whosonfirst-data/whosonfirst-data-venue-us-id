@@ -1,0 +1,67 @@
+{
+  "id": 169633555,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-116.998097,47.711935,-116.998097,47.711935",
+    "geom:latitude":47.711935,
+    "geom:longitude":-116.998097,
+    "iso:country":"US",
+    "sg:address":"3875 W 5th Ave",
+    "sg:city":"Post Falls",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Car Wash",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 773 2121",
+    "sg:postcode":"83854",
+    "sg:province":"ID",
+    "sg:tags":[
+        "truck",
+        "cleaning"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        102086085,
+        85833263
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6MB3JEPkSFnwPE0aczRJim_47.711935_-116.998097@1294099250"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"55214604a2ba1a24a0b41657217efade",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086085,
+            "locality_id":-1,
+            "neighbourhood_id":85833263,
+            "region_id":85688657,
+            "venue_id":169633555
+        }
+    ],
+    "wof:id":169633555,
+    "wof:lastmodified":1449035939,
+    "wof:name":"Splash-N-Dash Truck Wash",
+    "wof:parent_id":85833263,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "truck",
+        "cleaning"
+    ]
+},
+  "bbox": [-116.998097,47.711935,-116.998097,47.711935],
+  "geometry": {"coordinates":[-116.998097,47.711935],"type":"Point"}
+}

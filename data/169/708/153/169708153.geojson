@@ -1,0 +1,70 @@
+{
+  "id": 169708153,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-116.222873,43.63144,-116.222873,43.63144",
+    "geom:latitude":43.63144,
+    "geom:longitude":-116.222873,
+    "iso:country":"US",
+    "sg:address":"2711 W State St",
+    "sg:city":"Boise",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Animal Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 331 5028",
+    "sg:postcode":"83702",
+    "sg:province":"ID",
+    "sg:tags":[
+        "pet",
+        "grooming",
+        "washing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85937923,
+        102086087,
+        85876313
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2t7VYU7RRBJfScoUsefV8U_43.631440_-116.222873@1294099250"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"b1650a8c5054ab2d3d5e381cc9a7f1e0",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086087,
+            "locality_id":85937923,
+            "neighbourhood_id":85876313,
+            "region_id":85688657,
+            "venue_id":169708153
+        }
+    ],
+    "wof:id":169708153,
+    "wof:lastmodified":1449033210,
+    "wof:name":"Doggie-Do Pet Grooming",
+    "wof:parent_id":85876313,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pet",
+        "grooming",
+        "washing"
+    ]
+},
+  "bbox": [-116.222873,43.63144,-116.222873,43.63144],
+  "geometry": {"coordinates":[-116.222873,43.63144],"type":"Point"}
+}

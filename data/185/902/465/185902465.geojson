@@ -1,0 +1,67 @@
+{
+  "id": 185902465,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-116.316397,48.687453,-116.316397,48.687453",
+    "geom:latitude":48.687453,
+    "geom:longitude":-116.316397,
+    "iso:country":"US",
+    "sg:address":"6878 Main St",
+    "sg:city":"Bonners Ferry",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 267 7481",
+    "sg:postcode":"83805",
+    "sg:province":"ID",
+    "sg:tags":[
+        "automobile",
+        "lubrication"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85937953,
+        102085203
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0Ua2msCHU8aY7Sf2rQa5fP_48.687453_-116.316397@1294099250"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"07992c7d811040777cf6a14bab6afaad",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085203,
+            "locality_id":85937953,
+            "neighbourhood_id":-1,
+            "region_id":85688657,
+            "venue_id":185902465
+        }
+    ],
+    "wof:id":185902465,
+    "wof:lastmodified":1449007792,
+    "wof:name":"B F Quick Lube",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automobile",
+        "lubrication"
+    ]
+},
+  "bbox": [-116.316397,48.687453,-116.316397,48.687453],
+  "geometry": {"coordinates":[-116.316397,48.687453],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 185669663,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-116.513042,43.606171,-116.513042,43.606171",
+    "geom:latitude":43.606171,
+    "geom:longitude":-116.513042,
+    "iso:country":"US",
+    "sg:address":"16114 Can-Ada Rd",
+    "sg:city":"Nampa",
+    "sg:classifiers":[
+        {
+            "category":"Recreation",
+            "subcategory":"",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 442 3232",
+    "sg:postcode":"83687",
+    "sg:province":"ID",
+    "sg:tags":[
+        "ticket"
+    ],
+    "sg:website":"www.idahocenter.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85938009,
+        102085081,
+        85827787
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4MpLv7ADw6LNfdn0EXwI4z_43.606171_-116.513042@1294099250"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"d650a6e73526cd862edecf9131e5dbb4",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085081,
+            "locality_id":85938009,
+            "neighbourhood_id":85827787,
+            "region_id":85688657,
+            "venue_id":185669663
+        }
+    ],
+    "wof:id":185669663,
+    "wof:lastmodified":1449006790,
+    "wof:name":"Idaho Center Box Office",
+    "wof:parent_id":85827787,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "ticket"
+    ]
+},
+  "bbox": [-116.513042,43.606171,-116.513042,43.606171],
+  "geometry": {"coordinates":[-116.513042,43.606171],"type":"Point"}
+}

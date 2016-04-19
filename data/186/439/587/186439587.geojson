@@ -1,0 +1,67 @@
+{
+  "id": 186439587,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-112.002777,43.50759,-112.002777,43.50759",
+    "geom:latitude":43.50759,
+    "geom:longitude":-112.002777,
+    "iso:country":"US",
+    "sg:address":"1550 Jones St",
+    "sg:city":"Idaho Falls",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"Dance Studio",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 525 3229",
+    "sg:postcode":"83401",
+    "sg:province":"ID",
+    "sg:tags":[
+        "instruction",
+        "dancing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85937963,
+        102085163
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_08FK4L4Zh5AUqKbu0usDD9_43.507590_-112.002777@1294099250"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"b21603c2d9521b3cbf3a26fe41d94c6b",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085163,
+            "locality_id":85937963,
+            "neighbourhood_id":-1,
+            "region_id":85688657,
+            "venue_id":186439587
+        }
+    ],
+    "wof:id":186439587,
+    "wof:lastmodified":1449051125,
+    "wof:name":"Dance Tech",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "instruction",
+        "dancing"
+    ]
+},
+  "bbox": [-112.002777,43.50759,-112.002777,43.50759],
+  "geometry": {"coordinates":[-112.002777,43.50759],"type":"Point"}
+}

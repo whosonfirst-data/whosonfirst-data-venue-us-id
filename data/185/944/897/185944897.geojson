@@ -1,0 +1,70 @@
+{
+  "id": 185944897,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-116.218125,43.620693,-116.218125,43.620693",
+    "geom:latitude":43.620693,
+    "geom:longitude":-116.218125,
+    "iso:country":"US",
+    "sg:address":"2222 Fairview Ave",
+    "sg:city":"Boise",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 344 6060",
+    "sg:postcode":"83702",
+    "sg:province":"ID",
+    "sg:tags":[
+        "automobile",
+        "top",
+        "upholstery"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85937923,
+        102086087,
+        85876355
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1dbtwNkoxzakyKh0UerLUh_43.620693_-116.218125@1294099250"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"f100ca2f4936696b07c8234156567c60",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086087,
+            "locality_id":85937923,
+            "neighbourhood_id":85876355,
+            "region_id":85688657,
+            "venue_id":185944897
+        }
+    ],
+    "wof:id":185944897,
+    "wof:lastmodified":1449007437,
+    "wof:name":"Boise Car Upholstery",
+    "wof:parent_id":85876355,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automobile",
+        "top",
+        "upholstery"
+    ]
+},
+  "bbox": [-116.218125,43.620693,-116.218125,43.620693],
+  "geometry": {"coordinates":[-116.218125,43.620693],"type":"Point"}
+}

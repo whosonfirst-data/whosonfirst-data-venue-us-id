@@ -1,0 +1,68 @@
+{
+  "id": 185722165,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-116.319846,43.60307,-116.319846,43.60307",
+    "geom:latitude":43.60307,
+    "geom:longitude":-116.319846,
+    "iso:country":"US",
+    "sg:address":"11216 W Edgehill Dr",
+    "sg:city":"Boise",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 761 6242",
+    "sg:postcode":"83709",
+    "sg:province":"ID",
+    "sg:tags":[
+        "concrete",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85937915,
+        102086087,
+        85805083
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5ffKqO0p5MfjjO5L5XdYNq_43.603070_-116.319846@1294099250"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"b848a3b89e725ef6ada47a20a97d9cc6",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086087,
+            "locality_id":85937915,
+            "neighbourhood_id":85805083,
+            "region_id":85688657,
+            "venue_id":185722165
+        }
+    ],
+    "wof:id":185722165,
+    "wof:lastmodified":1449007155,
+    "wof:name":"Division III Concrete Constr",
+    "wof:parent_id":85805083,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "concrete",
+        "contractor"
+    ]
+},
+  "bbox": [-116.319846,43.60307,-116.319846,43.60307],
+  "geometry": {"coordinates":[-116.319846,43.60307],"type":"Point"}
+}

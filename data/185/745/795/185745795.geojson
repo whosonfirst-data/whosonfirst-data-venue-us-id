@@ -1,0 +1,67 @@
+{
+  "id": 185745795,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-116.813389,43.669483,-116.813389,43.669483",
+    "geom:latitude":43.669483,
+    "geom:longitude":-116.813389,
+    "iso:country":"US",
+    "sg:address":"21048 Main St",
+    "sg:city":"Greenleaf",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 459 2181",
+    "sg:postcode":"83626",
+    "sg:province":"ID",
+    "sg:tags":[
+        "fabricator",
+        "metal"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85938011,
+        102085081
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6KwvJVkKBSnG1i8S47PzRs_43.669483_-116.813389@1294099250"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"03097f5338f57b611b1b07aa11b20c4c",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085081,
+            "locality_id":85938011,
+            "neighbourhood_id":-1,
+            "region_id":85688657,
+            "venue_id":185745795
+        }
+    ],
+    "wof:id":185745795,
+    "wof:lastmodified":1449008125,
+    "wof:name":"Mike's Metal Fabrication",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "fabricator",
+        "metal"
+    ]
+},
+  "bbox": [-116.813389,43.669483,-116.813389,43.669483],
+  "geometry": {"coordinates":[-116.813389,43.669483],"type":"Point"}
+}

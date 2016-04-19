@@ -1,0 +1,67 @@
+{
+  "id": 186556057,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-113.896104,45.1753,-113.896104,45.1753",
+    "geom:latitude":45.1753,
+    "geom:longitude":-113.896104,
+    "iso:country":"US",
+    "sg:address":"206 S Saint Charles St",
+    "sg:city":"Salmon",
+    "sg:classifiers":[
+        {
+            "category":"Local Transit",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 756 2191",
+    "sg:postcode":"83467",
+    "sg:province":"ID",
+    "sg:tags":[
+        "bus",
+        "line"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85938133,
+        102085123
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2YxG29DuOw3ldd15HBlLI2_45.175300_-113.896104@1294099250"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"dfd91a8a6ef664da30677499c3fb7209",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085123,
+            "locality_id":85938133,
+            "neighbourhood_id":-1,
+            "region_id":85688657,
+            "venue_id":186556057
+        }
+    ],
+    "wof:id":186556057,
+    "wof:lastmodified":1449051055,
+    "wof:name":"Cart Transportation",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "bus",
+        "line"
+    ]
+},
+  "bbox": [-113.896104,45.1753,-113.896104,45.1753],
+  "geometry": {"coordinates":[-113.896104,45.1753],"type":"Point"}
+}

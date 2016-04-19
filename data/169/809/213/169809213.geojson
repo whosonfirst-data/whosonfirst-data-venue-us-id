@@ -1,0 +1,70 @@
+{
+  "id": 169809213,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-116.52564,43.550957,-116.52564,43.550957",
+    "geom:latitude":43.550957,
+    "geom:longitude":-116.52564,
+    "iso:country":"US",
+    "sg:address":"3417 E Brenan Dr",
+    "sg:city":"Nampa",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 465 7462",
+    "sg:postcode":"83686",
+    "sg:province":"ID",
+    "sg:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85938009,
+        102085081,
+        85827787
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0WiAyT7OhiwwM7fn8eeVxI_43.550957_-116.525640@1294099250"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"32a1a24b14b146cff18dc13ee01e24fe",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085081,
+            "locality_id":85938009,
+            "neighbourhood_id":85827787,
+            "region_id":85688657,
+            "venue_id":169809213
+        }
+    ],
+    "wof:id":169809213,
+    "wof:lastmodified":1449035369,
+    "wof:name":"Jerry Horrace Trucking",
+    "wof:parent_id":85827787,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ]
+},
+  "bbox": [-116.52564,43.550957,-116.52564,43.550957],
+  "geometry": {"coordinates":[-116.52564,43.550957],"type":"Point"}
+}

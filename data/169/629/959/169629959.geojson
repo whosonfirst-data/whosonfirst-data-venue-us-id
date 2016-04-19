@@ -1,0 +1,69 @@
+{
+  "id": 169629959,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-116.209269,43.632074,-116.209269,43.632074",
+    "geom:latitude":43.632074,
+    "geom:longitude":-116.209269,
+    "iso:country":"US",
+    "sg:address":"1666 Ridenbaugh St",
+    "sg:city":"Boise",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Clinic",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 375 7079",
+    "sg:postcode":"83702",
+    "sg:province":"ID",
+    "sg:tags":[
+        "organization",
+        "medical",
+        "surgical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85937923,
+        102086087
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5FChFBuzN02UHNtP2FBbo4_43.632074_-116.209269@1294099250"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"ccb7ea0ffbfae3767581fab88fb7a1bd",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086087,
+            "locality_id":85937923,
+            "neighbourhood_id":-1,
+            "region_id":85688657,
+            "venue_id":169629959
+        }
+    ],
+    "wof:id":169629959,
+    "wof:lastmodified":1449035185,
+    "wof:name":"Ada County Paramedics",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "organization",
+        "medical",
+        "surgical"
+    ]
+},
+  "bbox": [-116.209269,43.632074,-116.209269,43.632074],
+  "geometry": {"coordinates":[-116.209269,43.632074],"type":"Point"}
+}

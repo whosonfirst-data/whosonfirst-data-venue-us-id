@@ -1,0 +1,67 @@
+{
+  "id": 169682513,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-113.801315,42.538009,-113.801315,42.538009",
+    "geom:latitude":42.538009,
+    "geom:longitude":-113.801315,
+    "iso:country":"US",
+    "sg:address":"725 W Main St",
+    "sg:city":"Burley",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 678 6047",
+    "sg:postcode":"83318",
+    "sg:province":"ID",
+    "sg:tags":[
+        "car",
+        "dealer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85937773,
+        102086095
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6ARPpb59zuJiUBF0q7JY5n_42.538009_-113.801315@1294099250"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"a3a4aeaa20150d08ee3d57320961c6f0",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086095,
+            "locality_id":85937773,
+            "neighbourhood_id":-1,
+            "region_id":85688657,
+            "venue_id":169682513
+        }
+    ],
+    "wof:id":169682513,
+    "wof:lastmodified":1449033267,
+    "wof:name":"B & K Auto",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "car",
+        "dealer"
+    ]
+},
+  "bbox": [-113.801315,42.538009,-113.801315,42.538009],
+  "geometry": {"coordinates":[-113.801315,42.538009],"type":"Point"}
+}

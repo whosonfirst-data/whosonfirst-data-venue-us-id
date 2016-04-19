@@ -1,0 +1,67 @@
+{
+  "id": 185824259,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-112.476253,42.891327,-112.476253,42.891327",
+    "geom:latitude":42.891327,
+    "geom:longitude":-112.476253,
+    "iso:country":"US",
+    "sg:address":"1185 W Alameda Rd",
+    "sg:city":"Pocatello",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 237 5775",
+    "sg:postcode":"83201",
+    "sg:province":"ID",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85937925,
+        102086113
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3Mr6Ucw8fXv8P8ASsHt5vs_42.891327_-112.476253@1294099250"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"cd479af462a6d1f182a2ae87da5db930",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086113,
+            "locality_id":85937925,
+            "neighbourhood_id":-1,
+            "region_id":85688657,
+            "venue_id":185824259
+        }
+    ],
+    "wof:id":185824259,
+    "wof:lastmodified":1449007156,
+    "wof:name":"Alameda Automotive",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [-112.476253,42.891327,-112.476253,42.891327],
+  "geometry": {"coordinates":[-112.476253,42.891327],"type":"Point"}
+}

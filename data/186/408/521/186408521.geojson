@@ -1,0 +1,68 @@
+{
+  "id": 186408521,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-116.392199,43.619089,-116.392199,43.619089",
+    "geom:latitude":43.619089,
+    "geom:longitude":-116.392199,
+    "iso:country":"US",
+    "sg:address":"43 E Fairview Ave",
+    "sg:city":"Meridian",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 888 6635",
+    "sg:postcode":"83642",
+    "sg:province":"ID",
+    "sg:tags":[
+        "home",
+        "builder"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85937923,
+        102086087,
+        85811491
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7f7WQWYwCr02gBG6o1CXiJ_43.619089_-116.392199@1294099250"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"72949998f3e35699b9204add5bb14d87",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086087,
+            "locality_id":85937923,
+            "neighbourhood_id":85811491,
+            "region_id":85688657,
+            "venue_id":186408521
+        }
+    ],
+    "wof:id":186408521,
+    "wof:lastmodified":1449050626,
+    "wof:name":"Hepper Homes",
+    "wof:parent_id":85811491,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "home",
+        "builder"
+    ]
+},
+  "bbox": [-116.392199,43.619089,-116.392199,43.619089],
+  "geometry": {"coordinates":[-116.392199,43.619089],"type":"Point"}
+}

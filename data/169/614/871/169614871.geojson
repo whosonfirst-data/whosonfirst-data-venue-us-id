@@ -1,0 +1,68 @@
+{
+  "id": 169614871,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-116.524396,43.488241,-116.524396,43.488241",
+    "geom:latitude":43.488241,
+    "geom:longitude":-116.524396,
+    "iso:country":"US",
+    "sg:address":"6615 Kuna Rd",
+    "sg:city":"Kuna",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 345 6972",
+    "sg:postcode":"83634",
+    "sg:province":"ID",
+    "sg:tags":[
+        "electric",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85938009,
+        102085081,
+        85827787
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_32VXGtpb7WRokgbdnsEV6Y_43.488241_-116.524396@1294099250"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"457abaa15d4ec4829f721d60c4d5b4c8",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085081,
+            "locality_id":85938009,
+            "neighbourhood_id":85827787,
+            "region_id":85688657,
+            "venue_id":169614871
+        }
+    ],
+    "wof:id":169614871,
+    "wof:lastmodified":1449036058,
+    "wof:name":"Western Electric Svc",
+    "wof:parent_id":85827787,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electric",
+        "contractor"
+    ]
+},
+  "bbox": [-116.524396,43.488241,-116.524396,43.488241],
+  "geometry": {"coordinates":[-116.524396,43.488241],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 169684481,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-116.86218,47.63677,-116.86218,47.63677",
+    "geom:latitude":47.63677,
+    "geom:longitude":-116.86218,
+    "iso:country":"US",
+    "sg:address":"5803 W Presley Rd",
+    "sg:city":"Coeur D Alene",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 765 9355",
+    "sg:postcode":"83814",
+    "sg:province":"ID",
+    "sg:tags":[
+        "heating",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        102086085,
+        85821457
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3U4B3d6iEWtCXXP4lURTgs_47.636770_-116.862180@1294099250"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"9fef2ace42658ac38be72c34765cdaad",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086085,
+            "locality_id":-1,
+            "neighbourhood_id":85821457,
+            "region_id":85688657,
+            "venue_id":169684481
+        }
+    ],
+    "wof:id":169684481,
+    "wof:lastmodified":1449033509,
+    "wof:name":"High-Tech Heating & Cooling",
+    "wof:parent_id":85821457,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "heating",
+        "contractor"
+    ]
+},
+  "bbox": [-116.86218,47.63677,-116.86218,47.63677],
+  "geometry": {"coordinates":[-116.86218,47.63677],"type":"Point"}
+}

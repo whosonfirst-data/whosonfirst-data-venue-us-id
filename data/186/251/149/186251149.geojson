@@ -1,0 +1,68 @@
+{
+  "id": 186251149,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-116.294963,43.662814,-116.294963,43.662814",
+    "geom:latitude":43.662814,
+    "geom:longitude":-116.294963,
+    "iso:country":"US",
+    "sg:address":"8781 W Atwater Dr",
+    "sg:city":"Boise",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"Dance Studio",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 345 3225",
+    "sg:postcode":"83714",
+    "sg:province":"ID",
+    "sg:tags":[
+        "instruction",
+        "dancing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85937923,
+        102086087,
+        85876357
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_39XSRxdr0i4AB3eQIcdvnw_43.662814_-116.294963@1294099250"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"2a179079c7176b10ffea17d49266e2e1",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086087,
+            "locality_id":85937923,
+            "neighbourhood_id":85876357,
+            "region_id":85688657,
+            "venue_id":186251149
+        }
+    ],
+    "wof:id":186251149,
+    "wof:lastmodified":1449050311,
+    "wof:name":"Dance Pros",
+    "wof:parent_id":85876357,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "instruction",
+        "dancing"
+    ]
+},
+  "bbox": [-116.294963,43.662814,-116.294963,43.662814],
+  "geometry": {"coordinates":[-116.294963,43.662814],"type":"Point"}
+}

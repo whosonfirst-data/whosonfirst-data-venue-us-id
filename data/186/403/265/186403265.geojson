@@ -1,0 +1,69 @@
+{
+  "id": 186403265,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-116.786286,47.698228,-116.786286,47.698228",
+    "geom:latitude":47.698228,
+    "geom:longitude":-116.786286,
+    "iso:country":"US",
+    "sg:address":"2201 N Government Way",
+    "sg:city":"Coeur D Alene",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Medical Lab",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 664 6299",
+    "sg:postcode":"83814",
+    "sg:province":"ID",
+    "sg:tags":[
+        "detection",
+        "equipment",
+        "drug"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        102086085,
+        85821457
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_21QjBTbs0pgAOPwkxirT16_47.698228_-116.786286@1294099250"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"3d119065911101b49474160dbd2910c4",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086085,
+            "locality_id":-1,
+            "neighbourhood_id":85821457,
+            "region_id":85688657,
+            "venue_id":186403265
+        }
+    ],
+    "wof:id":186403265,
+    "wof:lastmodified":1449052643,
+    "wof:name":"Global Drug Testing Svc",
+    "wof:parent_id":85821457,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "detection",
+        "equipment",
+        "drug"
+    ]
+},
+  "bbox": [-116.786286,47.698228,-116.786286,47.698228],
+  "geometry": {"coordinates":[-116.786286,47.698228],"type":"Point"}
+}

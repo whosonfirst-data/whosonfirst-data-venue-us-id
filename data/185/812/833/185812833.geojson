@@ -1,0 +1,69 @@
+{
+  "id": 185812833,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-112.127807,43.37786,-112.127807,43.37786",
+    "geom:latitude":43.37786,
+    "geom:longitude":-112.127807,
+    "iso:country":"US",
+    "sg:address":"244 W Locust St",
+    "sg:city":"Shelley",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 357 3491",
+    "sg:postcode":"83274",
+    "sg:province":"ID",
+    "sg:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85938005,
+        102086105
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3ohiRXzdMnFafiq7EorRA9_43.377860_-112.127807@1294099250"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"eea6a93a046bf5cb96bc1f62c1641494",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086105,
+            "locality_id":85938005,
+            "neighbourhood_id":-1,
+            "region_id":85688657,
+            "venue_id":185812833
+        }
+    ],
+    "wof:id":185812833,
+    "wof:lastmodified":1449006623,
+    "wof:name":"L & M Body Shop",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ]
+},
+  "bbox": [-112.127807,43.37786,-112.127807,43.37786],
+  "geometry": {"coordinates":[-112.127807,43.37786],"type":"Point"}
+}

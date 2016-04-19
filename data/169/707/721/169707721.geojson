@@ -1,0 +1,78 @@
+{
+  "id": 169707721,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-116.786599,47.711227,-116.786599,47.711227",
+    "geom:latitude":47.711227,
+    "geom:longitude":-116.786599,
+    "iso:country":"US",
+    "sg:address":"3615 N Government Way",
+    "sg:city":"Coeur D Alene",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Specialty",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 665 5938",
+    "sg:postcode":"83815",
+    "sg:province":"ID",
+    "sg:tags":[
+        "tea",
+        "coffee"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85938163,
+        102086085,
+        85806325,
+        85821457
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_57oKGBvnyi1pDyyh84pyuA_47.711227_-116.786599@1294099250"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"5291b778d277bad7893e9bf2f0ffa052",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086085,
+            "locality_id":85938163,
+            "neighbourhood_id":85806325,
+            "region_id":85688657,
+            "venue_id":169707721
+        },
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086085,
+            "locality_id":-1,
+            "neighbourhood_id":85821457,
+            "region_id":85688657,
+            "venue_id":169707721
+        }
+    ],
+    "wof:id":169707721,
+    "wof:lastmodified":1449035442,
+    "wof:name":"Your Daily Fix Espresso",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "tea",
+        "coffee"
+    ]
+},
+  "bbox": [-116.786599,47.711227,-116.786599,47.711227],
+  "geometry": {"coordinates":[-116.786599,47.711227],"type":"Point"}
+}

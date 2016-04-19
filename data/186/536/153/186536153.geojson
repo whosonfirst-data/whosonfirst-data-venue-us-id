@@ -1,0 +1,76 @@
+{
+  "id": 186536153,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-116.794885,47.722803,-116.794885,47.722803",
+    "geom:latitude":47.722803,
+    "geom:longitude":-116.794885,
+    "iso:country":"US",
+    "sg:address":"625 W Dalton Ave",
+    "sg:city":"Coeur D Alene",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 667 2330",
+    "sg:postcode":"83815",
+    "sg:province":"ID",
+    "sg:tags":[
+        "wrecker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85938163,
+        102086085,
+        85806325,
+        85821457
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6x0xiWiRx5xMw2Cmr6fgHE_47.722803_-116.794885@1294099250"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"1b710b64c6890d19286f7210278dce0d",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086085,
+            "locality_id":85938163,
+            "neighbourhood_id":85806325,
+            "region_id":85688657,
+            "venue_id":186536153
+        },
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086085,
+            "locality_id":-1,
+            "neighbourhood_id":85821457,
+            "region_id":85688657,
+            "venue_id":186536153
+        }
+    ],
+    "wof:id":186536153,
+    "wof:lastmodified":1449051971,
+    "wof:name":"Schaffer's Towing",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "wrecker"
+    ]
+},
+  "bbox": [-116.794885,47.722803,-116.794885,47.722803],
+  "geometry": {"coordinates":[-116.794885,47.722803],"type":"Point"}
+}

@@ -1,0 +1,66 @@
+{
+  "id": 169600381,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-117.007971,46.410067,-117.007971,46.410067",
+    "geom:latitude":46.410067,
+    "geom:longitude":-117.007971,
+    "iso:country":"US",
+    "sg:address":"1028 17th St",
+    "sg:city":"Lewiston",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 743 2201",
+    "sg:postcode":"83501",
+    "sg:province":"ID",
+    "sg:tags":[
+        "grocer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85937743,
+        102086039,
+        85837769
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3tIpO5OJa20Xnxo4oUuKQ7_46.410067_-117.007971@1294099250"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"b1db45f52839a8ccc73a87b83aa7b521",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086039,
+            "locality_id":85937743,
+            "neighbourhood_id":85837769,
+            "region_id":85688657,
+            "venue_id":169600381
+        }
+    ],
+    "wof:id":169600381,
+    "wof:lastmodified":1449032969,
+    "wof:name":"Dairy Mart",
+    "wof:parent_id":85837769,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "grocer"
+    ]
+},
+  "bbox": [-117.007971,46.410067,-117.007971,46.410067],
+  "geometry": {"coordinates":[-117.007971,46.410067],"type":"Point"}
+}

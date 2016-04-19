@@ -1,0 +1,67 @@
+{
+  "id": 169611733,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-112.047188,43.496258,-112.047188,43.496258",
+    "geom:latitude":43.496258,
+    "geom:longitude":-112.047188,
+    "iso:country":"US",
+    "sg:address":"850 Denver St",
+    "sg:city":"Idaho Falls",
+    "sg:classifiers":[
+        {
+            "category":"Local Transit",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 522 2278",
+    "sg:postcode":"83402",
+    "sg:province":"ID",
+    "sg:tags":[
+        "bus",
+        "line"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85937963,
+        102085163
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5COKW7oHvb9kpalcg23XiD_43.496258_-112.047188@1294099250"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"9a45b5df1d5d4a42f73f0fb1a4a64c87",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085163,
+            "locality_id":85937963,
+            "neighbourhood_id":-1,
+            "region_id":85688657,
+            "venue_id":169611733
+        }
+    ],
+    "wof:id":169611733,
+    "wof:lastmodified":1449035261,
+    "wof:name":"Cart Transportation",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "bus",
+        "line"
+    ]
+},
+  "bbox": [-112.047188,43.496258,-112.047188,43.496258],
+  "geometry": {"coordinates":[-112.047188,43.496258],"type":"Point"}
+}

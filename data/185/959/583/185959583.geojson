@@ -1,0 +1,68 @@
+{
+  "id": 185959583,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-116.215564,43.575879,-116.215564,43.575879",
+    "geom:latitude":43.575879,
+    "geom:longitude":-116.215564,
+    "iso:country":"US",
+    "sg:address":"2883 S Ladera Pl",
+    "sg:city":"Boise",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 333 8550",
+    "sg:postcode":"83705",
+    "sg:province":"ID",
+    "sg:tags":[
+        "broker",
+        "mortgage"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85937923,
+        102086087,
+        85876343
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6h4CHkZNKynVWGZ8fsB2yY_43.575879_-116.215564@1294099250"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"4e23c3e3a6e0d7828d68be180f03e295",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086087,
+            "locality_id":85937923,
+            "neighbourhood_id":85876343,
+            "region_id":85688657,
+            "venue_id":185959583
+        }
+    ],
+    "wof:id":185959583,
+    "wof:lastmodified":1449008063,
+    "wof:name":"Mortgage Design",
+    "wof:parent_id":85876343,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "broker",
+        "mortgage"
+    ]
+},
+  "bbox": [-116.215564,43.575879,-116.215564,43.575879],
+  "geometry": {"coordinates":[-116.215564,43.575879],"type":"Point"}
+}

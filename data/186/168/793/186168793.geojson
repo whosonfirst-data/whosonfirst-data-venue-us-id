@@ -1,0 +1,68 @@
+{
+  "id": 186168793,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-116.264312,43.637679,-116.264312,43.637679",
+    "geom:latitude":43.637679,
+    "geom:longitude":-116.264312,
+    "iso:country":"US",
+    "sg:address":"219 Murray St",
+    "sg:city":"Boise",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"Special Training",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 376 4717",
+    "sg:postcode":"83714",
+    "sg:province":"ID",
+    "sg:tags":[
+        "school",
+        "language"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85937919,
+        102086087,
+        85876349
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2BoPsEHMokoI1gDGjc5EFj_43.637679_-116.264312@1294099250"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"00e3b065a24d95494ba39ec32e08e7a5",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086087,
+            "locality_id":85937919,
+            "neighbourhood_id":85876349,
+            "region_id":85688657,
+            "venue_id":186168793
+        }
+    ],
+    "wof:id":186168793,
+    "wof:lastmodified":1449051774,
+    "wof:name":"Academia De LA Americas",
+    "wof:parent_id":85876349,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "school",
+        "language"
+    ]
+},
+  "bbox": [-116.264312,43.637679,-116.264312,43.637679],
+  "geometry": {"coordinates":[-116.264312,43.637679],"type":"Point"}
+}

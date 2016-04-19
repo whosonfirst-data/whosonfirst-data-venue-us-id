@@ -1,0 +1,69 @@
+{
+  "id": 185610539,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-111.312817,42.317637,-111.312817,42.317637",
+    "geom:latitude":42.317637,
+    "geom:longitude":-111.312817,
+    "iso:country":"US",
+    "sg:address":"1110 Washington St",
+    "sg:city":"Montpelier",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 847 1280",
+    "sg:postcode":"83254",
+    "sg:province":"ID",
+    "sg:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85937803,
+        102085071
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4B2YksIwNQFUryS2qFJD3Q_42.317637_-111.312817@1294099250"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"93b1520d63c51389d357f7d6fc06dca1",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085071,
+            "locality_id":85937803,
+            "neighbourhood_id":-1,
+            "region_id":85688657,
+            "venue_id":185610539
+        }
+    ],
+    "wof:id":185610539,
+    "wof:lastmodified":1449008168,
+    "wof:name":"Nussbaum Auto Body",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ]
+},
+  "bbox": [-111.312817,42.317637,-111.312817,42.317637],
+  "geometry": {"coordinates":[-111.312817,42.317637],"type":"Point"}
+}

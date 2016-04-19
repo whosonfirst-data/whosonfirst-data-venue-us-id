@@ -1,0 +1,67 @@
+{
+  "id": 185818447,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-116.781138,47.676278,-116.781138,47.676278",
+    "geom:latitude":47.676278,
+    "geom:longitude":-116.781138,
+    "iso:country":"US",
+    "sg:address":"411 N 4th St",
+    "sg:city":"Coeur D Alene",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 667 8065",
+    "sg:postcode":"83814",
+    "sg:province":"ID",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        102086085,
+        85821457
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_53P0oXono6eqPFuA3caYpj_47.676278_-116.781138@1294099250"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"d94bfc96b84e3997a8e0619c2a0ea747",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086085,
+            "locality_id":-1,
+            "neighbourhood_id":85821457,
+            "region_id":85688657,
+            "venue_id":185818447
+        }
+    ],
+    "wof:id":185818447,
+    "wof:lastmodified":1449007411,
+    "wof:name":"Alert Muffler",
+    "wof:parent_id":85821457,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [-116.781138,47.676278,-116.781138,47.676278],
+  "geometry": {"coordinates":[-116.781138,47.676278],"type":"Point"}
+}

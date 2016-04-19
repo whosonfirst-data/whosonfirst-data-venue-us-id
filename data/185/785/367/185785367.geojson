@@ -1,0 +1,67 @@
+{
+  "id": 185785367,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-116.794783,47.744756,-116.794783,47.744756",
+    "geom:latitude":47.744756,
+    "geom:longitude":-116.794783,
+    "iso:country":"US",
+    "sg:address":"8257 N Cornerstone Dr",
+    "sg:city":"Hayden Lake",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Health Practitioner",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 762 0881",
+    "sg:postcode":"83835",
+    "sg:province":"ID",
+    "sg:tags":[
+        "therapist",
+        "physical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        102086085,
+        85821457
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_73Gmf2GrhT6WK5j0nGfUrW_47.744756_-116.794783@1294099250"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"3bb449c0250ab2d22baa17b7038d5b0f",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086085,
+            "locality_id":-1,
+            "neighbourhood_id":85821457,
+            "region_id":85688657,
+            "venue_id":185785367
+        }
+    ],
+    "wof:id":185785367,
+    "wof:lastmodified":1449007958,
+    "wof:name":"Physical Therapy Ctr-Hayden",
+    "wof:parent_id":85821457,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "therapist",
+        "physical"
+    ]
+},
+  "bbox": [-116.794783,47.744756,-116.794783,47.744756],
+  "geometry": {"coordinates":[-116.794783,47.744756],"type":"Point"}
+}

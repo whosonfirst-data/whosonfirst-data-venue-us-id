@@ -1,0 +1,68 @@
+{
+  "id": 186300317,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-116.553169,43.572937,-116.553169,43.572937",
+    "geom:latitude":43.572937,
+    "geom:longitude":-116.553169,
+    "iso:country":"US",
+    "sg:address":"1924 2nd St S",
+    "sg:city":"Nampa",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 466 7402",
+    "sg:postcode":"83651",
+    "sg:province":"ID",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85938009,
+        102085081,
+        85827787
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0yaT30WK70n2ewTBhxinMH_43.572937_-116.553169@1294099250"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"cab02a6389d10e872d387733644d0ec9",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085081,
+            "locality_id":85938009,
+            "neighbourhood_id":85827787,
+            "region_id":85688657,
+            "venue_id":186300317
+        }
+    ],
+    "wof:id":186300317,
+    "wof:lastmodified":1449051893,
+    "wof:name":"Max's Auto Clinic",
+    "wof:parent_id":85827787,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [-116.553169,43.572937,-116.553169,43.572937],
+  "geometry": {"coordinates":[-116.553169,43.572937],"type":"Point"}
+}

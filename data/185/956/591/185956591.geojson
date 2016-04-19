@@ -1,0 +1,67 @@
+{
+  "id": 185956591,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-116.257039,43.65458,-116.257039,43.65458",
+    "geom:latitude":43.65458,
+    "geom:longitude":-116.257039,
+    "iso:country":"US",
+    "sg:address":"5521 W State St",
+    "sg:city":"Boise",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Health Practitioner",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 853 6220",
+    "sg:postcode":"83703",
+    "sg:province":"ID",
+    "sg:tags":[
+        "therapist",
+        "physical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        102086087,
+        85811879
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5lalISbgaYjcYNB96hIUhl_43.654580_-116.257039@1294099250"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"aeb1b1780c41f2f12b691f5b61879bc7",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086087,
+            "locality_id":-1,
+            "neighbourhood_id":85811879,
+            "region_id":85688657,
+            "venue_id":185956591
+        }
+    ],
+    "wof:id":185956591,
+    "wof:lastmodified":1449006884,
+    "wof:name":"Intermountain Physical Therapy",
+    "wof:parent_id":85811879,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "therapist",
+        "physical"
+    ]
+},
+  "bbox": [-116.257039,43.65458,-116.257039,43.65458],
+  "geometry": {"coordinates":[-116.257039,43.65458],"type":"Point"}
+}

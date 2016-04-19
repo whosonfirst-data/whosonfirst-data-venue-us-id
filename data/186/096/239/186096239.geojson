@@ -1,0 +1,78 @@
+{
+  "id": 186096239,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-116.786436,47.705362,-116.786436,47.705362",
+    "geom:latitude":47.705362,
+    "geom:longitude":-116.786436,
+    "iso:country":"US",
+    "sg:address":"3025 N Government Way",
+    "sg:city":"Coeur D Alene",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 765 3667",
+    "sg:postcode":"83815",
+    "sg:province":"ID",
+    "sg:tags":[
+        "automobile",
+        "customizing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85938163,
+        102086085,
+        85806325,
+        85821457
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0svXF1G5SZG8cFFWhNqE1x_47.705362_-116.786436@1294099250"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"5e9648ebe5f9eab24a975b2ac668cff4",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086085,
+            "locality_id":85938163,
+            "neighbourhood_id":85806325,
+            "region_id":85688657,
+            "venue_id":186096239
+        },
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086085,
+            "locality_id":-1,
+            "neighbourhood_id":85821457,
+            "region_id":85688657,
+            "venue_id":186096239
+        }
+    ],
+    "wof:id":186096239,
+    "wof:lastmodified":1449051254,
+    "wof:name":"Interlock Northwest",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automobile",
+        "customizing"
+    ]
+},
+  "bbox": [-116.786436,47.705362,-116.786436,47.705362],
+  "geometry": {"coordinates":[-116.786436,47.705362],"type":"Point"}
+}

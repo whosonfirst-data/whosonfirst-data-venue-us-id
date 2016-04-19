@@ -1,0 +1,67 @@
+{
+  "id": 186333331,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-116.245675,43.664515,-116.245675,43.664515",
+    "geom:latitude":43.664515,
+    "geom:longitude":-116.245675,
+    "iso:country":"US",
+    "sg:address":"5011 Wildrye Dr",
+    "sg:city":"Boise",
+    "sg:classifiers":[
+        {
+            "category":"Travel",
+            "subcategory":"Campground",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 345 7003",
+    "sg:postcode":"83703",
+    "sg:province":"ID",
+    "sg:tags":[
+        "camp"
+    ],
+    "sg:website":"www.campcrescendo.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85937923,
+        102086087,
+        85876323
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2D4b8BneUIFn8n20jHp9Rp_43.664515_-116.245675@1294099250"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"5161d1cd2ca1b5be1f1cd58392d955f5",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086087,
+            "locality_id":85937923,
+            "neighbourhood_id":85876323,
+            "region_id":85688657,
+            "venue_id":186333331
+        }
+    ],
+    "wof:id":186333331,
+    "wof:lastmodified":1449052843,
+    "wof:name":"Camp Crescendo",
+    "wof:parent_id":85876323,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "camp"
+    ]
+},
+  "bbox": [-116.245675,43.664515,-116.245675,43.664515],
+  "geometry": {"coordinates":[-116.245675,43.664515],"type":"Point"}
+}

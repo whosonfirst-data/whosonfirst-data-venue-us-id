@@ -1,0 +1,65 @@
+{
+  "id": 186000991,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-111.448292,44.0714,-111.448292,44.0714",
+    "geom:latitude":44.0714,
+    "geom:longitude":-111.448292,
+    "iso:country":"US",
+    "sg:address":"520 Main St",
+    "sg:city":"Ashton",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 652 7283",
+    "sg:postcode":"83420",
+    "sg:province":"ID",
+    "sg:tags":[
+        "dentist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85937767,
+        102085125
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0fFzwuG6WZb5DB10q47ID5_44.071400_-111.448292@1294099250"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"0447c58a7f97000f5c5982adbd398325",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085125,
+            "locality_id":85937767,
+            "neighbourhood_id":-1,
+            "region_id":85688657,
+            "venue_id":186000991
+        }
+    ],
+    "wof:id":186000991,
+    "wof:lastmodified":1449050832,
+    "wof:name":"Stephen W Rees DDS",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dentist"
+    ]
+},
+  "bbox": [-111.448292,44.0714,-111.448292,44.0714],
+  "geometry": {"coordinates":[-111.448292,44.0714],"type":"Point"}
+}

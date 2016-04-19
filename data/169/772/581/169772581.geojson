@@ -1,0 +1,70 @@
+{
+  "id": 169772581,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-116.227398,43.584122,-116.227398,43.584122",
+    "geom:latitude":43.584122,
+    "geom:longitude":-116.227398,
+    "iso:country":"US",
+    "sg:address":"2027 S Pacific St",
+    "sg:city":"Boise",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 342 8751",
+    "sg:postcode":"83705",
+    "sg:province":"ID",
+    "sg:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85937923,
+        102086087,
+        85825393
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3ukHSYvX0DZdClGMYabYDY_43.584122_-116.227398@1294099250"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"f2131b7ee70f7b20da57ef84437e3f54",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086087,
+            "locality_id":85937923,
+            "neighbourhood_id":85825393,
+            "region_id":85688657,
+            "venue_id":169772581
+        }
+    ],
+    "wof:id":169772581,
+    "wof:lastmodified":1449034151,
+    "wof:name":"Bradley Trucking",
+    "wof:parent_id":85825393,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ]
+},
+  "bbox": [-116.227398,43.584122,-116.227398,43.584122],
+  "geometry": {"coordinates":[-116.227398,43.584122],"type":"Point"}
+}

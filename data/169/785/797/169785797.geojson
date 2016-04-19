@@ -1,0 +1,68 @@
+{
+  "id": 169785797,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-116.119035,47.538358,-116.119035,47.538358",
+    "geom:latitude":47.538358,
+    "geom:longitude":-116.119035,
+    "iso:country":"US",
+    "sg:address":"4 W Cameron Ave",
+    "sg:city":"Kellogg",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Veterinary Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 784 1381",
+    "sg:postcode":"83837",
+    "sg:province":"ID",
+    "sg:tags":[
+        "hospital",
+        "animal"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85937825,
+        102086103,
+        85849049
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5h7xPndTlnnsk4fwx8n7H1_47.538358_-116.119035@1294099250"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"5e900efd007ce1c6231252a41e9c9d5e",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086103,
+            "locality_id":85937825,
+            "neighbourhood_id":85849049,
+            "region_id":85688657,
+            "venue_id":169785797
+        }
+    ],
+    "wof:id":169785797,
+    "wof:lastmodified":1449035399,
+    "wof:name":"Kellogg Animal Hospital",
+    "wof:parent_id":85849049,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "hospital",
+        "animal"
+    ]
+},
+  "bbox": [-116.119035,47.538358,-116.119035,47.538358],
+  "geometry": {"coordinates":[-116.119035,47.538358],"type":"Point"}
+}

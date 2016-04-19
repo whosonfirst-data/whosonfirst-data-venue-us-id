@@ -1,0 +1,68 @@
+{
+  "id": 185993743,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-116.420514,43.595132,-116.420514,43.595132",
+    "geom:latitude":43.595132,
+    "geom:longitude":-116.420514,
+    "iso:country":"US",
+    "sg:address":"2150 Verbena Dr",
+    "sg:city":"Meridian",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 888 9512",
+    "sg:postcode":"83642",
+    "sg:province":"ID",
+    "sg:tags":[
+        "machine",
+        "sewing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85937915,
+        102086087,
+        85805083
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3XNcDwA0RAoQpCzI58Fvyb_43.595132_-116.420514@1294099250"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"5efe73a692d779d5aa0a27aafce12971",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086087,
+            "locality_id":85937915,
+            "neighbourhood_id":85805083,
+            "region_id":85688657,
+            "venue_id":185993743
+        }
+    ],
+    "wof:id":185993743,
+    "wof:lastmodified":1449007328,
+    "wof:name":"J D's In-Home Svc",
+    "wof:parent_id":85805083,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "machine",
+        "sewing"
+    ]
+},
+  "bbox": [-116.420514,43.595132,-116.420514,43.595132],
+  "geometry": {"coordinates":[-116.420514,43.595132],"type":"Point"}
+}

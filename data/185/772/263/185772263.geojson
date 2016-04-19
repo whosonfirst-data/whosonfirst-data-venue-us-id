@@ -1,0 +1,68 @@
+{
+  "id": 185772263,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-116.567119,43.582341,-116.567119,43.582341",
+    "geom:latitude":43.582341,
+    "geom:longitude":-116.567119,
+    "iso:country":"US",
+    "sg:address":"207 6th Ave S",
+    "sg:city":"Nampa",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 466 7786",
+    "sg:postcode":"83651",
+    "sg:province":"ID",
+    "sg:tags":[
+        "heating",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85938009,
+        102085081,
+        85827787
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_17bbgE7IpbeGxRAKJlNeCj_43.582341_-116.567119@1294099250"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"b6a5849c6a039b7b2043db2bbd5a5a14",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085081,
+            "locality_id":85938009,
+            "neighbourhood_id":85827787,
+            "region_id":85688657,
+            "venue_id":185772263
+        }
+    ],
+    "wof:id":185772263,
+    "wof:lastmodified":1449007340,
+    "wof:name":"Chuck & Del's Heating & AC",
+    "wof:parent_id":85827787,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "heating",
+        "contractor"
+    ]
+},
+  "bbox": [-116.567119,43.582341,-116.567119,43.582341],
+  "geometry": {"coordinates":[-116.567119,43.582341],"type":"Point"}
+}

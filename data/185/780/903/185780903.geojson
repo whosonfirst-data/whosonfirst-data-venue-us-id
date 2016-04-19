@@ -1,0 +1,68 @@
+{
+  "id": 185780903,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-116.531425,43.546855,-116.531425,43.546855",
+    "geom:latitude":43.546855,
+    "geom:longitude":-116.531425,
+    "iso:country":"US",
+    "sg:address":"3112 E Greenhurst Rd",
+    "sg:city":"Nampa",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Specialty",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 467 2914",
+    "sg:postcode":"83686",
+    "sg:province":"ID",
+    "sg:tags":[
+        "tea",
+        "coffee"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85938009,
+        102085081,
+        85827787
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7kW6WpkVQfrUS40sqLbFZM_43.546855_-116.531425@1294099250"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"8e5ffa23f2a6e9d63ec9b392bc8f01b4",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085081,
+            "locality_id":85938009,
+            "neighbourhood_id":85827787,
+            "region_id":85688657,
+            "venue_id":185780903
+        }
+    ],
+    "wof:id":185780903,
+    "wof:lastmodified":1449007809,
+    "wof:name":"Morning Cup",
+    "wof:parent_id":85827787,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "tea",
+        "coffee"
+    ]
+},
+  "bbox": [-116.531425,43.546855,-116.531425,43.546855],
+  "geometry": {"coordinates":[-116.531425,43.546855],"type":"Point"}
+}

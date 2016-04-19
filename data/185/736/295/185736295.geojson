@@ -1,0 +1,68 @@
+{
+  "id": 185736295,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-116.51609,43.703296,-116.51609,43.703296",
+    "geom:latitude":43.703296,
+    "geom:longitude":-116.51609,
+    "iso:country":"US",
+    "sg:address":"6282 Stump Ln",
+    "sg:city":"Star",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 286 7543",
+    "sg:postcode":"83669",
+    "sg:province":"ID",
+    "sg:tags":[
+        "concrete",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85938009,
+        102085081,
+        85835387
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2z7SsIQMQx7aHz2CwyOHrB_43.703296_-116.516090@1294099250"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"d2ea2aff9124d77242b204d242535ddd",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085081,
+            "locality_id":85938009,
+            "neighbourhood_id":85835387,
+            "region_id":85688657,
+            "venue_id":185736295
+        }
+    ],
+    "wof:id":185736295,
+    "wof:lastmodified":1449008168,
+    "wof:name":"Van's Concrete Contractors Inc",
+    "wof:parent_id":85835387,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "concrete",
+        "contractor"
+    ]
+},
+  "bbox": [-116.51609,43.703296,-116.51609,43.703296],
+  "geometry": {"coordinates":[-116.51609,43.703296],"type":"Point"}
+}

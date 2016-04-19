@@ -1,0 +1,75 @@
+{
+  "id": 320528147,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-116.669014,43.648135,-116.669014,43.648135",
+    "geom:latitude":43.648135,
+    "geom:longitude":-116.669014,
+    "iso:country":"US",
+    "sg:address":"2420 E Linden St",
+    "sg:city":"Caldwell",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Fuel & Gas Station",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Manufacturing",
+            "subcategory":"Food",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 454 0754",
+    "sg:postcode":"83605",
+    "sg:province":"ID",
+    "sg:tags":[
+        "product"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85938017,
+        102085081
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5czZYZFENa08Dqk09i1Oqi_43.648135_-116.669014@1303263095"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"c38394cf71f4bda2212e831b8d8109e9",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085081,
+            "locality_id":85938017,
+            "neighbourhood_id":-1,
+            "region_id":85688657,
+            "venue_id":320528147
+        }
+    ],
+    "wof:id":320528147,
+    "wof:lastmodified":1449012258,
+    "wof:name":"Jackson's Store",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "product"
+    ]
+},
+  "bbox": [-116.669014,43.648135,-116.669014,43.648135],
+  "geometry": {"coordinates":[-116.669014,43.648135],"type":"Point"}
+}

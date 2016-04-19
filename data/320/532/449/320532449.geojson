@@ -1,0 +1,86 @@
+{
+  "id": 320532449,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-116.932364,43.617771,-116.932364,43.617771",
+    "geom:latitude":43.617771,
+    "geom:longitude":-116.932364,
+    "iso:country":"US",
+    "sg:address":"108 E Idaho Ave",
+    "sg:city":"Homedale",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        },
+        {
+            "category":"Health Services",
+            "subcategory":"Clinic",
+            "type":"Services"
+        },
+        {
+            "category":"Community Center",
+            "subcategory":"",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 337 3189",
+    "sg:postcode":"83628",
+    "sg:province":"ID",
+    "sg:tags":[
+        "physician",
+        "family",
+        "medical",
+        "practice",
+        "surgeons",
+        "medicine"
+    ],
+    "sg:website":"http://www.trhs.org",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85938065,
+        102086017
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5MNKrtbcjCW42Rxea4v59l_43.617771_-116.932364@1303263095"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"2bcb58bdd21669f85f92b0dcb3666331",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086017,
+            "locality_id":85938065,
+            "neighbourhood_id":-1,
+            "region_id":85688657,
+            "venue_id":320532449
+        }
+    ],
+    "wof:id":320532449,
+    "wof:lastmodified":1449012529,
+    "wof:name":"Homedale Clinic",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "family",
+        "medical",
+        "practice",
+        "surgeons",
+        "medicine"
+    ]
+},
+  "bbox": [-116.932364,43.617771,-116.932364,43.617771],
+  "geometry": {"coordinates":[-116.932364,43.617771],"type":"Point"}
+}

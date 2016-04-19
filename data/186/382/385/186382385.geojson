@@ -1,0 +1,67 @@
+{
+  "id": 186382385,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-116.253039,43.652466,-116.253039,43.652466",
+    "geom:latitude":43.652466,
+    "geom:longitude":-116.253039,
+    "iso:country":"US",
+    "sg:address":"5102 W State St",
+    "sg:city":"Boise",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 853 6637",
+    "sg:postcode":"83703",
+    "sg:province":"ID",
+    "sg:tags":[
+        "car",
+        "dealer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        102086087,
+        85811879
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_652xnDzOowcCYUbxx478XM_43.652466_-116.253039@1294099250"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"86d10167df1bd022a2bf575bdb6e5d48",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086087,
+            "locality_id":-1,
+            "neighbourhood_id":85811879,
+            "region_id":85688657,
+            "venue_id":186382385
+        }
+    ],
+    "wof:id":186382385,
+    "wof:lastmodified":1449051097,
+    "wof:name":"Nw Auto Wholesalers",
+    "wof:parent_id":85811879,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "car",
+        "dealer"
+    ]
+},
+  "bbox": [-116.253039,43.652466,-116.253039,43.652466],
+  "geometry": {"coordinates":[-116.253039,43.652466],"type":"Point"}
+}

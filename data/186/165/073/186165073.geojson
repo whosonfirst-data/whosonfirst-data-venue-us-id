@@ -1,0 +1,76 @@
+{
+  "id": 186165073,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-116.786404,47.707239,-116.786404,47.707239",
+    "geom:latitude":47.707239,
+    "geom:longitude":-116.786404,
+    "iso:country":"US",
+    "sg:address":"3115 N Government Way",
+    "sg:city":"Coeur D Alene",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Accounting & Tax Preparation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 667 9208",
+    "sg:postcode":"83815",
+    "sg:province":"ID",
+    "sg:tags":[
+        "billing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85938163,
+        102086085,
+        85806325,
+        85821457
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_29hkkppyhC0sdPqiI7EK4y_47.707239_-116.786404@1294099250"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"6b537b33723d700dd9cbb42335230194",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086085,
+            "locality_id":85938163,
+            "neighbourhood_id":85806325,
+            "region_id":85688657,
+            "venue_id":186165073
+        },
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086085,
+            "locality_id":-1,
+            "neighbourhood_id":85821457,
+            "region_id":85688657,
+            "venue_id":186165073
+        }
+    ],
+    "wof:id":186165073,
+    "wof:lastmodified":1449053033,
+    "wof:name":"Western Medical Assoc Inc",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "billing"
+    ]
+},
+  "bbox": [-116.786404,47.707239,-116.786404,47.707239],
+  "geometry": {"coordinates":[-116.786404,47.707239],"type":"Point"}
+}

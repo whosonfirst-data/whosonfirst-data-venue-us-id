@@ -1,0 +1,67 @@
+{
+  "id": 186177431,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-112.45143,42.89143,-112.45143,42.89143",
+    "geom:latitude":42.89143,
+    "geom:longitude":-112.45143,
+    "iso:country":"US",
+    "sg:address":"1055 Yellowstone Ave",
+    "sg:city":"Pocatello",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 232 0787",
+    "sg:postcode":"83201",
+    "sg:province":"ID",
+    "sg:tags":[
+        "automobile",
+        "lubrication"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85937925,
+        102086113
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1s5PehYAFPRM0KOtqik3yU_42.891430_-112.451430@1294099250"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"4f717f11a280ce58a3917081d790d4fb",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086113,
+            "locality_id":85937925,
+            "neighbourhood_id":-1,
+            "region_id":85688657,
+            "venue_id":186177431
+        }
+    ],
+    "wof:id":186177431,
+    "wof:lastmodified":1449053023,
+    "wof:name":"Grease Monkey",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automobile",
+        "lubrication"
+    ]
+},
+  "bbox": [-112.45143,42.89143,-112.45143,42.89143],
+  "geometry": {"coordinates":[-112.45143,42.89143],"type":"Point"}
+}

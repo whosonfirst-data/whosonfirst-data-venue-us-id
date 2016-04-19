@@ -1,0 +1,67 @@
+{
+  "id": 186191049,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-116.799873,47.822354,-116.799873,47.822354",
+    "geom:latitude":47.822354,
+    "geom:longitude":-116.799873,
+    "iso:country":"US",
+    "sg:address":"16554 N Spur St",
+    "sg:city":"Rathdrum",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 687 1726",
+    "sg:postcode":"83858",
+    "sg:province":"ID",
+    "sg:tags":[
+        "electric",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        102086085,
+        85821457
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5gq6W13Hyuwc1CRpVhFCiw_47.822354_-116.799873@1294099250"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"335ac4ba5189b4f217bdd1bf9b19a19f",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086085,
+            "locality_id":-1,
+            "neighbourhood_id":85821457,
+            "region_id":85688657,
+            "venue_id":186191049
+        }
+    ],
+    "wof:id":186191049,
+    "wof:lastmodified":1449051987,
+    "wof:name":"Kimball Electric",
+    "wof:parent_id":85821457,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electric",
+        "contractor"
+    ]
+},
+  "bbox": [-116.799873,47.822354,-116.799873,47.822354],
+  "geometry": {"coordinates":[-116.799873,47.822354],"type":"Point"}
+}

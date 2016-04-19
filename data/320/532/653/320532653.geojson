@@ -1,0 +1,75 @@
+{
+  "id": 320532653,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-116.92873,43.617771,-116.92873,43.617771",
+    "geom:latitude":43.617771,
+    "geom:longitude":-116.92873,
+    "iso:country":"US",
+    "sg:address":"334 E Idaho Ave",
+    "sg:city":"Homedale",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Auto Supplies",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 337 5992",
+    "sg:postcode":"83628",
+    "sg:province":"ID",
+    "sg:tags":[
+        "automobile",
+        "part",
+        "truck"
+    ],
+    "sg:website":"http://clickserve.dartsearch.net/link/click?lid=43000000313870995&ds_s_kwgid=58000000006820725&ds_e_matchtype={MatchType}&ds_e_kwdid={OrderItemId}&ds_e_adid={AdId}&ds_url_v=2",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85938065,
+        102086017
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4HJRfqYn9ZP7QZifIykaYC_43.617771_-116.928730@1303263095"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"997773e30879120ebadfa1534002bab6",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086017,
+            "locality_id":85938065,
+            "neighbourhood_id":-1,
+            "region_id":85688657,
+            "venue_id":320532653
+        }
+    ],
+    "wof:id":320532653,
+    "wof:lastmodified":1449012526,
+    "wof:name":"Perfection Repair",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automobile",
+        "part",
+        "truck"
+    ]
+},
+  "bbox": [-116.92873,43.617771,-116.92873,43.617771],
+  "geometry": {"coordinates":[-116.92873,43.617771],"type":"Point"}
+}

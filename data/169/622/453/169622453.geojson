@@ -1,0 +1,67 @@
+{
+  "id": 169622453,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-116.930955,44.025296,-116.930955,44.025296",
+    "geom:latitude":44.025296,
+    "geom:longitude":-116.930955,
+    "iso:country":"US",
+    "sg:address":"1300 NW 16th St",
+    "sg:city":"Fruitland",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 452 2323",
+    "sg:postcode":"83619",
+    "sg:province":"ID",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85937909,
+        102086023
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7anPnE9ZRm9nzwprI2Hic6_44.025296_-116.930955@1294099250"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"ca066b22f46d506519ee093e2df053da",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086023,
+            "locality_id":85937909,
+            "neighbourhood_id":-1,
+            "region_id":85688657,
+            "venue_id":169622453
+        }
+    ],
+    "wof:id":169622453,
+    "wof:lastmodified":1449035368,
+    "wof:name":"Sinus Center-Idaho",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [-116.930955,44.025296,-116.930955,44.025296],
+  "geometry": {"coordinates":[-116.930955,44.025296],"type":"Point"}
+}

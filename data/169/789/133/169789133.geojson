@@ -1,0 +1,66 @@
+{
+  "id": 169789133,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-116.396958,43.619129,-116.396958,43.619129",
+    "geom:latitude":43.619129,
+    "geom:longitude":-116.396958,
+    "iso:country":"US",
+    "sg:address":"317 W Cherry Ln",
+    "sg:city":"Meridian",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 888 2055",
+    "sg:postcode":"83642",
+    "sg:province":"ID",
+    "sg:tags":[
+        "dentist"
+    ],
+    "sg:website":"www.willowtreedental.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85937915,
+        102086087
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_19vB6H1ayzU5SEI8eOHLhC_43.619129_-116.396958@1294099250"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"bc3635c0fde0fa07e8fab1a4025a6f6a",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086087,
+            "locality_id":85937915,
+            "neighbourhood_id":-1,
+            "region_id":85688657,
+            "venue_id":169789133
+        }
+    ],
+    "wof:id":169789133,
+    "wof:lastmodified":1449034161,
+    "wof:name":"Willow Tree Dental",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dentist"
+    ]
+},
+  "bbox": [-116.396958,43.619129,-116.396958,43.619129],
+  "geometry": {"coordinates":[-116.396958,43.619129],"type":"Point"}
+}

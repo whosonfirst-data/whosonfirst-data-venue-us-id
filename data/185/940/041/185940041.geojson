@@ -1,0 +1,68 @@
+{
+  "id": 185940041,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-116.192161,43.597299,-116.192161,43.597299",
+    "geom:latitude":43.597299,
+    "geom:longitude":-116.192161,
+    "iso:country":"US",
+    "sg:address":"1212 Longmont Ave",
+    "sg:city":"Boise",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"Adult Care",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 343 0832",
+    "sg:postcode":"83706",
+    "sg:province":"ID",
+    "sg:tags":[
+        "home",
+        "residential"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85937923,
+        102086087,
+        85876345
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3q3R5y7JdDn7Ym1Pdms7mO_43.597299_-116.192161@1294099250"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"24b464b19545ef4fd0dceea35f246631",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086087,
+            "locality_id":85937923,
+            "neighbourhood_id":85876345,
+            "region_id":85688657,
+            "venue_id":185940041
+        }
+    ],
+    "wof:id":185940041,
+    "wof:lastmodified":1449007010,
+    "wof:name":"Parkcenter Place Residential",
+    "wof:parent_id":85876345,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "home",
+        "residential"
+    ]
+},
+  "bbox": [-116.192161,43.597299,-116.192161,43.597299],
+  "geometry": {"coordinates":[-116.192161,43.597299],"type":"Point"}
+}

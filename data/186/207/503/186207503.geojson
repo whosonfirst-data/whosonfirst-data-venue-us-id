@@ -1,0 +1,73 @@
+{
+  "id": 186207503,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-116.258439,43.608983,-116.258439,43.608983",
+    "geom:latitude":43.608983,
+    "geom:longitude":-116.258439,
+    "iso:country":"US",
+    "sg:address":"6027 Clinton St",
+    "sg:city":"Boise",
+    "sg:classifiers":[
+        {
+            "category":"Insurance",
+            "subcategory":"Hazard Insurance",
+            "type":"Services"
+        },
+        {
+            "category":"Insurance",
+            "subcategory":"Insurance Agent",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 322 8313",
+    "sg:postcode":"83704",
+    "sg:province":"ID",
+    "sg:tags":[
+        "fidelity",
+        "bond"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85937923,
+        102086087,
+        85876311
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6ktqDAdcFCZhRP81YbT2h7_43.608983_-116.258439@1294099250"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"48adc0567e206dd12432c6494c14fa0d",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086087,
+            "locality_id":85937923,
+            "neighbourhood_id":85876311,
+            "region_id":85688657,
+            "venue_id":186207503
+        }
+    ],
+    "wof:id":186207503,
+    "wof:lastmodified":1449052239,
+    "wof:name":"Interstate Truckers Insurance",
+    "wof:parent_id":85876311,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "fidelity",
+        "bond"
+    ]
+},
+  "bbox": [-116.258439,43.608983,-116.258439,43.608983],
+  "geometry": {"coordinates":[-116.258439,43.608983],"type":"Point"}
+}

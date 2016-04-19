@@ -1,0 +1,70 @@
+{
+  "id": 186528779,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-116.367984,43.681816,-116.367984,43.681816",
+    "geom:latitude":43.681816,
+    "geom:longitude":-116.367984,
+    "iso:country":"US",
+    "sg:address":"837 W Two Rivers Ln",
+    "sg:city":"Eagle",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 854 1313",
+    "sg:postcode":"83616",
+    "sg:province":"ID",
+    "sg:tags":[
+        "machine",
+        "teller",
+        "automated"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85937923,
+        102086087,
+        85876351
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7MZHJYjS5KqmGSn5AhgF4H_43.681816_-116.367984@1294099250"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"b3d8910ac414e6735c10ee520371a29d",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086087,
+            "locality_id":85937923,
+            "neighbourhood_id":85876351,
+            "region_id":85688657,
+            "venue_id":186528779
+        }
+    ],
+    "wof:id":186528779,
+    "wof:lastmodified":1449051100,
+    "wof:name":"ATM Placement Co",
+    "wof:parent_id":85876351,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "machine",
+        "teller",
+        "automated"
+    ]
+},
+  "bbox": [-116.367984,43.681816,-116.367984,43.681816],
+  "geometry": {"coordinates":[-116.367984,43.681816],"type":"Point"}
+}

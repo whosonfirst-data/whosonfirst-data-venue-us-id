@@ -1,0 +1,67 @@
+{
+  "id": 169606281,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-116.68577,43.664131,-116.68577,43.664131",
+    "geom:latitude":43.664131,
+    "geom:longitude":-116.68577,
+    "iso:country":"US",
+    "sg:address":"1017 Arthur St",
+    "sg:city":"Caldwell",
+    "sg:classifiers":[
+        {
+            "category":"Local Transit",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 459 2816",
+    "sg:postcode":"83605",
+    "sg:province":"ID",
+    "sg:tags":[
+        "bus",
+        "line"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85938017,
+        102085081
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0PZWqgbAUG0FGQAyl1eYHE_43.664131_-116.685770@1294099250"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"e6f36ea1b3e18d2ce91f7b0497346c63",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085081,
+            "locality_id":85938017,
+            "neighbourhood_id":-1,
+            "region_id":85688657,
+            "venue_id":169606281
+        }
+    ],
+    "wof:id":169606281,
+    "wof:lastmodified":1449033202,
+    "wof:name":"Boise-Winnemucca/Trailways Inc",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "bus",
+        "line"
+    ]
+},
+  "bbox": [-116.68577,43.664131,-116.68577,43.664131],
+  "geometry": {"coordinates":[-116.68577,43.664131],"type":"Point"}
+}

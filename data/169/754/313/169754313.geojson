@@ -1,0 +1,66 @@
+{
+  "id": 169754313,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-116.221529,43.617507,-116.221529,43.617507",
+    "geom:latitude":43.617507,
+    "geom:longitude":-116.221529,
+    "iso:country":"US",
+    "sg:address":"1700 Shoreline Dr",
+    "sg:city":"Boise",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Groceries",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 338 0700",
+    "sg:postcode":"83702",
+    "sg:province":"ID",
+    "sg:tags":[
+        "grocer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85937923,
+        102086087,
+        85876355
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3Gdmaz2Cv5Rqj3X2ixsQfh_43.617507_-116.221529@1294099250"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"30816c1a941d4ba9bf7f10365d5c4f7f",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086087,
+            "locality_id":85937923,
+            "neighbourhood_id":85876355,
+            "region_id":85688657,
+            "venue_id":169754313
+        }
+    ],
+    "wof:id":169754313,
+    "wof:lastmodified":1449034846,
+    "wof:name":"Cash & Carry",
+    "wof:parent_id":85876355,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "grocer"
+    ]
+},
+  "bbox": [-116.221529,43.617507,-116.221529,43.617507],
+  "geometry": {"coordinates":[-116.221529,43.617507],"type":"Point"}
+}

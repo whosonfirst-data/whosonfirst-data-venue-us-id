@@ -1,0 +1,66 @@
+{
+  "id": 186209531,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-116.31564,43.619368,-116.31564,43.619368",
+    "geom:latitude":43.619368,
+    "geom:longitude":-116.31564,
+    "iso:country":"US",
+    "sg:address":"10611 Fairview Ave",
+    "sg:city":"Boise",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Auto Supplies",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 322 7701",
+    "sg:postcode":"83713",
+    "sg:province":"ID",
+    "sg:tags":[
+        "tire"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85937923,
+        102086087,
+        85811491
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3GMFmF7ct3Z2fHpXO7CePf_43.619368_-116.315640@1294099250"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"f8f17daed84e3dd63d3be805aa922e4f",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086087,
+            "locality_id":85937923,
+            "neighbourhood_id":85811491,
+            "region_id":85688657,
+            "venue_id":186209531
+        }
+    ],
+    "wof:id":186209531,
+    "wof:lastmodified":1449052732,
+    "wof:name":"Boise Tire #2",
+    "wof:parent_id":85811491,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "tire"
+    ]
+},
+  "bbox": [-116.31564,43.619368,-116.31564,43.619368],
+  "geometry": {"coordinates":[-116.31564,43.619368],"type":"Point"}
+}

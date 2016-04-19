@@ -1,0 +1,66 @@
+{
+  "id": 185689885,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-116.203496,43.616599,-116.203496,43.616599",
+    "geom:latitude":43.616599,
+    "geom:longitude":-116.203496,
+    "iso:country":"US",
+    "sg:address":"855 W Idaho St",
+    "sg:city":"Boise",
+    "sg:classifiers":[
+        {
+            "category":"Parking",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 336 1068",
+    "sg:postcode":"83702",
+    "sg:province":"ID",
+    "sg:tags":[
+        "garage"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85937923,
+        102086087,
+        85876297
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1vbwtKzVvp7TTFtdrKPAcv_43.616599_-116.203496@1294099250"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"424a3aa5b5bc672891c0c98258641f2f",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086087,
+            "locality_id":85937923,
+            "neighbourhood_id":85876297,
+            "region_id":85688657,
+            "venue_id":185689885
+        }
+    ],
+    "wof:id":185689885,
+    "wof:lastmodified":1449007965,
+    "wof:name":"Republic Parking Northwest",
+    "wof:parent_id":85876297,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "garage"
+    ]
+},
+  "bbox": [-116.203496,43.616599,-116.203496,43.616599],
+  "geometry": {"coordinates":[-116.203496,43.616599],"type":"Point"}
+}

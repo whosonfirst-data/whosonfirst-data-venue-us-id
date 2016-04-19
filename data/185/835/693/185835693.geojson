@@ -1,0 +1,70 @@
+{
+  "id": 185835693,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-116.250968,43.624146,-116.250968,43.624146",
+    "geom:latitude":43.624146,
+    "geom:longitude":-116.250968,
+    "iso:country":"US",
+    "sg:address":"2024 Amber St",
+    "sg:city":"Boise",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"Special Training",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 323 2343",
+    "sg:postcode":"83706",
+    "sg:province":"ID",
+    "sg:tags":[
+        "aid",
+        "instruction",
+        "first"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85937923,
+        102086087,
+        85876311
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0O600WuUVsvcOIjHMMIo7r_43.624146_-116.250968@1294099250"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"871e7435b0cba23dba7ecaf456235c43",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086087,
+            "locality_id":85937923,
+            "neighbourhood_id":85876311,
+            "region_id":85688657,
+            "venue_id":185835693
+        }
+    ],
+    "wof:id":185835693,
+    "wof:lastmodified":1449006836,
+    "wof:name":"ABC Lifeline",
+    "wof:parent_id":85876311,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "aid",
+        "instruction",
+        "first"
+    ]
+},
+  "bbox": [-116.250968,43.624146,-116.250968,43.624146],
+  "geometry": {"coordinates":[-116.250968,43.624146],"type":"Point"}
+}

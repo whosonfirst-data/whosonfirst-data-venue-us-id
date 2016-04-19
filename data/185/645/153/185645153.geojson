@@ -1,0 +1,65 @@
+{
+  "id": 185645153,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-116.970221,44.247234,-116.970221,44.247234",
+    "geom:latitude":44.247234,
+    "geom:longitude":-116.970221,
+    "iso:country":"US",
+    "sg:address":"55 W Court St",
+    "sg:city":"Weiser",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Fire Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 414 1483",
+    "sg:postcode":"83672",
+    "sg:province":"ID",
+    "sg:tags":[
+        "department"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85937739,
+        102085079
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1EFuWsPdjIouhI8ORJSbIV_44.247234_-116.970221@1294099250"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"5e00a89913918aa417d5ffaebc34ea2e",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085079,
+            "locality_id":85937739,
+            "neighbourhood_id":-1,
+            "region_id":85688657,
+            "venue_id":185645153
+        }
+    ],
+    "wof:id":185645153,
+    "wof:lastmodified":1449006776,
+    "wof:name":"Weiser Fire Dept",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "department"
+    ]
+},
+  "bbox": [-116.970221,44.247234,-116.970221,44.247234],
+  "geometry": {"coordinates":[-116.970221,44.247234],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 185783577,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-116.655663,43.654631,-116.655663,43.654631",
+    "geom:latitude":43.654631,
+    "geom:longitude":-116.655663,
+    "iso:country":"US",
+    "sg:address":"1507 Industrial Way",
+    "sg:city":"Caldwell",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Boat Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 459 2225",
+    "sg:postcode":"83605",
+    "sg:province":"ID",
+    "sg:tags":[
+        "dealer",
+        "sales"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85938017,
+        102085081
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_78Xa3b3NHOiskhACv8Fg7A_43.654631_-116.655663@1294099250"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"91e9726d2445c77c95b496867e39b3f0",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085081,
+            "locality_id":85938017,
+            "neighbourhood_id":-1,
+            "region_id":85688657,
+            "venue_id":185783577
+        }
+    ],
+    "wof:id":185783577,
+    "wof:lastmodified":1449006633,
+    "wof:name":"Gilbert Lake Marine",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dealer",
+        "sales"
+    ]
+},
+  "bbox": [-116.655663,43.654631,-116.655663,43.654631],
+  "geometry": {"coordinates":[-116.655663,43.654631],"type":"Point"}
+}

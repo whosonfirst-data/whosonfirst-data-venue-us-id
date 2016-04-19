@@ -1,0 +1,70 @@
+{
+  "id": 186051045,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-116.193313,43.612989,-116.193313,43.612989",
+    "geom:latitude":43.612989,
+    "geom:longitude":-116.193313,
+    "iso:country":"US",
+    "sg:address":"190 E Bannock St",
+    "sg:city":"Boise",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Hospital",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 381 2138",
+    "sg:postcode":"83712",
+    "sg:province":"ID",
+    "sg:tags":[
+        "home",
+        "general",
+        "care"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85937923,
+        102086087,
+        85876345
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6SHsAQdtQKZdhefk8j2QHG_43.612989_-116.193313@1294099250"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"0db9e5f5b63abb4b40479d0d92894a87",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086087,
+            "locality_id":85937923,
+            "neighbourhood_id":85876345,
+            "region_id":85688657,
+            "venue_id":186051045
+        }
+    ],
+    "wof:id":186051045,
+    "wof:lastmodified":1449052024,
+    "wof:name":"Saint Lukes Home Care",
+    "wof:parent_id":85876345,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "home",
+        "general",
+        "care"
+    ]
+},
+  "bbox": [-116.193313,43.612989,-116.193313,43.612989],
+  "geometry": {"coordinates":[-116.193313,43.612989],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 185797717,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-116.28424,43.611084,-116.28424,43.611084",
+    "geom:latitude":43.611084,
+    "geom:longitude":-116.28424,
+    "iso:country":"US",
+    "sg:address":"633 N Milwaukee St",
+    "sg:city":"Boise",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Department Store",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 375 3275",
+    "sg:postcode":"83704",
+    "sg:province":"ID",
+    "sg:website":"www.target.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85937923,
+        102086087,
+        85841319
+    ],
+    "wof:brand_id":420574115,
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0cvMYRYlxkbBBIqivi2uVF_43.611084_-116.284240@1294099250"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"b93c61f2da0a6dfae0f2274859c84179",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086087,
+            "locality_id":85937923,
+            "neighbourhood_id":85841319,
+            "region_id":85688657,
+            "venue_id":185797717
+        }
+    ],
+    "wof:id":185797717,
+    "wof:lastmodified":1457208501,
+    "wof:name":"Target",
+    "wof:parent_id":85841319,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -116.28424,
+    43.611084,
+    -116.28424,
+    43.611084
+],
+  "geometry": {"coordinates":[-116.28424,43.611084],"type":"Point"}
+}

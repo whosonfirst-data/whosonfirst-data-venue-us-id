@@ -1,0 +1,68 @@
+{
+  "id": 169860949,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-116.241443,43.644219,-116.241443,43.644219",
+    "geom:latitude":43.644219,
+    "geom:longitude":-116.241443,
+    "iso:country":"US",
+    "sg:address":"4106 W State St",
+    "sg:city":"Boise",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 343 3100",
+    "sg:postcode":"83703",
+    "sg:province":"ID",
+    "sg:tags":[
+        "lock",
+        "locksmith"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85937923,
+        102086087,
+        85876339
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_28r4je99AiiOT1fksWlAHo_43.644219_-116.241443@1294099250"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"35b8378e1f7ce38e5e519006187172ea",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086087,
+            "locality_id":85937923,
+            "neighbourhood_id":85876339,
+            "region_id":85688657,
+            "venue_id":169860949
+        }
+    ],
+    "wof:id":169860949,
+    "wof:lastmodified":1449034139,
+    "wof:name":"A & B Lock & Key",
+    "wof:parent_id":85876339,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "lock",
+        "locksmith"
+    ]
+},
+  "bbox": [-116.241443,43.644219,-116.241443,43.644219],
+  "geometry": {"coordinates":[-116.241443,43.644219],"type":"Point"}
+}

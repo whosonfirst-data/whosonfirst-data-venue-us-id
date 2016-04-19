@@ -1,0 +1,80 @@
+{
+  "id": 185676239,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-116.967576,46.374889,-116.967576,46.374889",
+    "geom:latitude":46.374889,
+    "geom:longitude":-116.967576,
+    "iso:country":"US",
+    "sg:address":"1233 Cedar Ave",
+    "sg:city":"Lewiston",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Animal Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 743 3397",
+    "sg:postcode":"83501",
+    "sg:province":"ID",
+    "sg:tags":[
+        "pet",
+        "grooming",
+        "washing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85937743,
+        102086039,
+        85837769,
+        85830385
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5N1Fz7qNP4EoOGbju8x8I7_46.374889_-116.967576@1294099250"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"a654dedfad29c6a5369eefc2af88d668",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086039,
+            "locality_id":85937743,
+            "neighbourhood_id":85837769,
+            "region_id":85688657,
+            "venue_id":185676239
+        },
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086039,
+            "locality_id":85937743,
+            "neighbourhood_id":85830385,
+            "region_id":85688657,
+            "venue_id":185676239
+        }
+    ],
+    "wof:id":185676239,
+    "wof:lastmodified":1449007623,
+    "wof:name":"Ruff Cuts Dog Grooming",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pet",
+        "grooming",
+        "washing"
+    ]
+},
+  "bbox": [-116.967576,46.374889,-116.967576,46.374889],
+  "geometry": {"coordinates":[-116.967576,46.374889],"type":"Point"}
+}

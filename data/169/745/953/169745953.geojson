@@ -1,0 +1,68 @@
+{
+  "id": 169745953,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-115.992873,47.503285,-115.992873,47.503285",
+    "geom:latitude":47.503285,
+    "geom:longitude":-115.992873,
+    "iso:country":"US",
+    "sg:address":"801 E Mullan Ave",
+    "sg:city":"Osburn",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 556 4803",
+    "sg:postcode":"83849",
+    "sg:province":"ID",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85937825,
+        102086103,
+        85849049
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1E2RWEMjm6OmJ7G42RWuzS_47.503285_-115.992873@1294099250"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"22567efa99214654779d06929a3f2df7",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086103,
+            "locality_id":85937825,
+            "neighbourhood_id":85849049,
+            "region_id":85688657,
+            "venue_id":169745953
+        }
+    ],
+    "wof:id":169745953,
+    "wof:lastmodified":1449035811,
+    "wof:name":"Osburn Family Medicine",
+    "wof:parent_id":85849049,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [-115.992873,47.503285,-115.992873,47.503285],
+  "geometry": {"coordinates":[-115.992873,47.503285],"type":"Point"}
+}

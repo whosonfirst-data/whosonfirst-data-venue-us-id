@@ -1,0 +1,67 @@
+{
+  "id": 169625153,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-112.412652,43.193924,-112.412652,43.193924",
+    "geom:latitude":43.193924,
+    "geom:longitude":-112.412652,
+    "iso:country":"US",
+    "sg:address":"17 S 585 W",
+    "sg:city":"Blackfoot",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Building Materials",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 684 3453",
+    "sg:postcode":"83221",
+    "sg:province":"ID",
+    "sg:tags":[
+        "woodworker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633793,
+        85688657
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0FsnNUb97vtAjXx9A3b19y_43.193924_-112.412652@1294099250"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"952b9d00e42c0bf59d70028248faf390",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "locality_id":-1,
+            "neighbourhood_id":-1,
+            "region_id":85688657,
+            "venue_id":169625153
+        }
+    ],
+    "wof:id":169625153,
+    "wof:lastmodified":1449036025,
+    "wof:name":"Dave's Woodworks Inc",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "woodworker"
+    ]
+},
+  "bbox": [-112.412652,43.193924,-112.412652,43.193924],
+  "geometry": {"coordinates":[-112.412652,43.193924],"type":"Point"}
+}

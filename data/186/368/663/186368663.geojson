@@ -1,0 +1,76 @@
+{
+  "id": 186368663,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-116.970345,46.37584,-116.970345,46.37584",
+    "geom:latitude":46.37584,
+    "geom:longitude":-116.970345,
+    "iso:country":"US",
+    "sg:address":"3509 12th St",
+    "sg:city":"Lewiston",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 743 7911",
+    "sg:postcode":"83501",
+    "sg:province":"ID",
+    "sg:tags":[
+        "dentist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85937743,
+        102086039,
+        85837769,
+        85830385
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1amisPEaq5hsN3hDjyR329_46.375840_-116.970345@1294099250"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"eee9163d0ca73fe63873cc0325d6612c",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086039,
+            "locality_id":85937743,
+            "neighbourhood_id":85837769,
+            "region_id":85688657,
+            "venue_id":186368663
+        },
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086039,
+            "locality_id":85937743,
+            "neighbourhood_id":85830385,
+            "region_id":85688657,
+            "venue_id":186368663
+        }
+    ],
+    "wof:id":186368663,
+    "wof:lastmodified":1449051020,
+    "wof:name":"Paul A Eke DDS",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dentist"
+    ]
+},
+  "bbox": [-116.970345,46.37584,-116.970345,46.37584],
+  "geometry": {"coordinates":[-116.970345,46.37584],"type":"Point"}
+}

@@ -1,0 +1,66 @@
+{
+  "id": 185928033,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-116.923188,44.081959,-116.923188,44.081959",
+    "geom:latitude":44.081959,
+    "geom:longitude":-116.923188,
+    "iso:country":"US",
+    "sg:address":"501 N 16th St",
+    "sg:city":"Payette",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 642 8906",
+    "sg:postcode":"83661",
+    "sg:province":"ID",
+    "sg:tags":[
+        "dentist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85937905,
+        102086023,
+        85840959
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5b1nunBmng4kKbwx5XSfrH_44.081959_-116.923188@1294099250"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"6caefd1669f6fb95804200d1d1efe841",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086023,
+            "locality_id":85937905,
+            "neighbourhood_id":85840959,
+            "region_id":85688657,
+            "venue_id":185928033
+        }
+    ],
+    "wof:id":185928033,
+    "wof:lastmodified":1449007992,
+    "wof:name":"Payette Family Dentistry",
+    "wof:parent_id":85840959,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dentist"
+    ]
+},
+  "bbox": [-116.923188,44.081959,-116.923188,44.081959],
+  "geometry": {"coordinates":[-116.923188,44.081959],"type":"Point"}
+}

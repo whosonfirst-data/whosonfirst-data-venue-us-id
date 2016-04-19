@@ -1,0 +1,68 @@
+{
+  "id": 186191465,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-116.23536,43.648396,-116.23536,43.648396",
+    "geom:latitude":43.648396,
+    "geom:longitude":-116.23536,
+    "iso:country":"US",
+    "sg:address":"3110 Woody Dr",
+    "sg:city":"Boise",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 342 1299",
+    "sg:postcode":"83703",
+    "sg:province":"ID",
+    "sg:tags":[
+        "plumbing",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85937923,
+        102086087,
+        85876339
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2VAbjJmNI0RB3skIydBKwc_43.648396_-116.235360@1294099250"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"57fccfca9fe9635a0f04b7ef1b3cb1fc",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086087,
+            "locality_id":85937923,
+            "neighbourhood_id":85876339,
+            "region_id":85688657,
+            "venue_id":186191465
+        }
+    ],
+    "wof:id":186191465,
+    "wof:lastmodified":1449051987,
+    "wof:name":"City Plumbing & Heating Co",
+    "wof:parent_id":85876339,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "plumbing",
+        "contractor"
+    ]
+},
+  "bbox": [-116.23536,43.648396,-116.23536,43.648396],
+  "geometry": {"coordinates":[-116.23536,43.648396],"type":"Point"}
+}

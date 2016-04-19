@@ -1,0 +1,68 @@
+{
+  "id": 169698725,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-117.004117,46.416868,-117.004117,46.416868",
+    "geom:latitude":46.416868,
+    "geom:longitude":-117.004117,
+    "iso:country":"US",
+    "sg:address":"1909 Main St",
+    "sg:city":"Lewiston",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 746 4555",
+    "sg:postcode":"83501",
+    "sg:province":"ID",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85937743,
+        102086039,
+        85837769
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3PKUM53lcAHmAAFPsLsdl0_46.416868_-117.004117@1294099250"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"a27cc386bbcf824e97c4d7ab75a1f3ca",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086039,
+            "locality_id":85937743,
+            "neighbourhood_id":85837769,
+            "region_id":85688657,
+            "venue_id":169698725
+        }
+    ],
+    "wof:id":169698725,
+    "wof:lastmodified":1449035755,
+    "wof:name":"Uhlenkott Well Drilling & Pump",
+    "wof:parent_id":85837769,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [-117.004117,46.416868,-117.004117,46.416868],
+  "geometry": {"coordinates":[-117.004117,46.416868],"type":"Point"}
+}

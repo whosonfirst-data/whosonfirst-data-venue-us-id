@@ -1,0 +1,84 @@
+{
+  "id": 320523873,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-116.998891,46.402899,-116.998891,46.402899",
+    "geom:latitude":46.402899,
+    "geom:longitude":-116.998891,
+    "iso:country":"US",
+    "sg:address":"1718 23rd St",
+    "sg:city":"Lewiston",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 746 5650",
+    "sg:postcode":"83501",
+    "sg:province":"ID",
+    "sg:tags":[
+        "wheel",
+        "body",
+        "automobile",
+        "servicing-automotive",
+        "balancing",
+        "axle",
+        "wheels-aligning",
+        "alignment-frame",
+        "painting",
+        "repairing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85937743,
+        102086039,
+        85837769
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3HeX01U37GRpxg60AN8Dm4_46.402899_-116.998891@1303263095"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"7f10ee2d584d25df4de7c34b7e8f0f80",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086039,
+            "locality_id":85937743,
+            "neighbourhood_id":85837769,
+            "region_id":85688657,
+            "venue_id":320523873
+        }
+    ],
+    "wof:id":320523873,
+    "wof:lastmodified":1449013413,
+    "wof:name":"Lewiston Auto Body",
+    "wof:parent_id":85837769,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "wheel",
+        "body",
+        "automobile",
+        "servicing-automotive",
+        "balancing",
+        "axle",
+        "wheels-aligning",
+        "alignment-frame",
+        "painting",
+        "repairing"
+    ]
+},
+  "bbox": [-116.998891,46.402899,-116.998891,46.402899],
+  "geometry": {"coordinates":[-116.998891,46.402899],"type":"Point"}
+}

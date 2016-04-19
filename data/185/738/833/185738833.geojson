@@ -1,0 +1,68 @@
+{
+  "id": 185738833,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-116.26428,43.645634,-116.26428,43.645634",
+    "geom:latitude":43.645634,
+    "geom:longitude":-116.26428,
+    "iso:country":"US",
+    "sg:address":"5089 Alworth St",
+    "sg:city":"Boise",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 321 0048",
+    "sg:postcode":"83714",
+    "sg:province":"ID",
+    "sg:tags":[
+        "general",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85937919,
+        102086087,
+        85876349
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1pFy9nUU8HzOClf5d3tyTZ_43.645634_-116.264280@1294099250"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"3444b8b198a9529ab64874e5a1e987ba",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086087,
+            "locality_id":85937919,
+            "neighbourhood_id":85876349,
+            "region_id":85688657,
+            "venue_id":185738833
+        }
+    ],
+    "wof:id":185738833,
+    "wof:lastmodified":1449007765,
+    "wof:name":"A C Construction",
+    "wof:parent_id":85876349,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "general",
+        "contractor"
+    ]
+},
+  "bbox": [-116.26428,43.645634,-116.26428,43.645634],
+  "geometry": {"coordinates":[-116.26428,43.645634],"type":"Point"}
+}

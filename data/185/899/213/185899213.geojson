@@ -1,0 +1,65 @@
+{
+  "id": 185899213,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-116.916074,47.708211,-116.916074,47.708211",
+    "geom:latitude":47.708211,
+    "geom:longitude":-116.916074,
+    "iso:country":"US",
+    "sg:address":"1909 E 3rd Ave",
+    "sg:city":"Post Falls",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Car Wash",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 457 1965",
+    "sg:postcode":"83854",
+    "sg:province":"ID",
+    "sg:tags":[
+        "carwash"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        102086085,
+        85833263
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0RUI7KuvH9olqngEhYjYuP_47.708211_-116.916074@1294099250"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"0d114f26a11159c9c3266cbaea5541a0",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086085,
+            "locality_id":-1,
+            "neighbourhood_id":85833263,
+            "region_id":85688657,
+            "venue_id":185899213
+        }
+    ],
+    "wof:id":185899213,
+    "wof:lastmodified":1449008113,
+    "wof:name":"Have Wash Will Travel",
+    "wof:parent_id":85833263,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "carwash"
+    ]
+},
+  "bbox": [-116.916074,47.708211,-116.916074,47.708211],
+  "geometry": {"coordinates":[-116.916074,47.708211],"type":"Point"}
+}

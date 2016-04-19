@@ -1,0 +1,70 @@
+{
+  "id": 169735387,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-116.276881,43.634002,-116.276881,43.634002",
+    "geom:latitude":43.634002,
+    "geom:longitude":-116.276881,
+    "iso:country":"US",
+    "sg:address":"7449 Ustick Rd",
+    "sg:city":"Boise",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 322 4099",
+    "sg:postcode":"83704",
+    "sg:province":"ID",
+    "sg:tags":[
+        "automobile",
+        "testing",
+        "emission"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85937919,
+        102086087,
+        85876349
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1RFdfssI44dGLMpaXi8lyx_43.634002_-116.276881@1294099250"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"95b2588b38b5ea8dc6a5ac6c38dbf7f1",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086087,
+            "locality_id":85937919,
+            "neighbourhood_id":85876349,
+            "region_id":85688657,
+            "venue_id":169735387
+        }
+    ],
+    "wof:id":169735387,
+    "wof:lastmodified":1449035892,
+    "wof:name":"M & L Emission Testing",
+    "wof:parent_id":85876349,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automobile",
+        "testing",
+        "emission"
+    ]
+},
+  "bbox": [-116.276881,43.634002,-116.276881,43.634002],
+  "geometry": {"coordinates":[-116.276881,43.634002],"type":"Point"}
+}

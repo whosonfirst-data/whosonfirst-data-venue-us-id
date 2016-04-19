@@ -1,0 +1,68 @@
+{
+  "id": 169659273,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-116.258719,43.580659,-116.258719,43.580659",
+    "geom:latitude":43.580659,
+    "geom:longitude":-116.258719,
+    "iso:country":"US",
+    "sg:address":"2403 S Empire Way",
+    "sg:city":"Boise",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 362 9845",
+    "sg:postcode":"83709",
+    "sg:province":"ID",
+    "sg:tags":[
+        "paving",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85937923,
+        102086087,
+        85825393
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_49PW6JKOxb50Y1xUmnco6v_43.580659_-116.258719@1294099250"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"d4caef59370a180b155b7fcd7b95121d",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086087,
+            "locality_id":85937923,
+            "neighbourhood_id":85825393,
+            "region_id":85688657,
+            "venue_id":169659273
+        }
+    ],
+    "wof:id":169659273,
+    "wof:lastmodified":1449033030,
+    "wof:name":"Capital Paving Co",
+    "wof:parent_id":85825393,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "paving",
+        "contractor"
+    ]
+},
+  "bbox": [-116.258719,43.580659,-116.258719,43.580659],
+  "geometry": {"coordinates":[-116.258719,43.580659],"type":"Point"}
+}

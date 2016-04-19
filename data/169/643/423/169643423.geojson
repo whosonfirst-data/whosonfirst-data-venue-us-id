@@ -1,0 +1,69 @@
+{
+  "id": 169643423,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-116.24349,43.629363,-116.24349,43.629363",
+    "geom:latitude":43.629363,
+    "geom:longitude":-116.24349,
+    "iso:country":"US",
+    "sg:address":"111 E 39th St",
+    "sg:city":"Boise",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 343 4360",
+    "sg:postcode":"83714",
+    "sg:province":"ID",
+    "sg:tags":[
+        "recreational",
+        "vehicle"
+    ],
+    "sg:website":"www.seventhheavenrec.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85937923,
+        102086087,
+        85876301
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2SNzUM7LZWj2MjXUN8cdPC_43.629363_-116.243490@1294099250"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"22800e9034f072658132b17a749afdd5",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086087,
+            "locality_id":85937923,
+            "neighbourhood_id":85876301,
+            "region_id":85688657,
+            "venue_id":169643423
+        }
+    ],
+    "wof:id":169643423,
+    "wof:lastmodified":1449035522,
+    "wof:name":"Seventh Heaven Recreation",
+    "wof:parent_id":85876301,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "recreational",
+        "vehicle"
+    ]
+},
+  "bbox": [-116.24349,43.629363,-116.24349,43.629363],
+  "geometry": {"coordinates":[-116.24349,43.629363],"type":"Point"}
+}

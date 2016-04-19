@@ -1,0 +1,68 @@
+{
+  "id": 186102043,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-116.284263,43.655822,-116.284263,43.655822",
+    "geom:latitude":43.655822,
+    "geom:longitude":-116.284263,
+    "iso:country":"US",
+    "sg:address":"5815 Coffey St",
+    "sg:city":"Boise",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"Adult Care",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 377 9980",
+    "sg:postcode":"83714",
+    "sg:province":"ID",
+    "sg:tags":[
+        "home",
+        "residential"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85937919,
+        102086087,
+        85876349
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_52Mbrvgr72cf5O9cu4e2Ms_43.655822_-116.284263@1294099250"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"080d2cb0af360480f12c2ee38051587c",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086087,
+            "locality_id":85937919,
+            "neighbourhood_id":85876349,
+            "region_id":85688657,
+            "venue_id":186102043
+        }
+    ],
+    "wof:id":186102043,
+    "wof:lastmodified":1449052829,
+    "wof:name":"Rosewind House",
+    "wof:parent_id":85876349,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "home",
+        "residential"
+    ]
+},
+  "bbox": [-116.284263,43.655822,-116.284263,43.655822],
+  "geometry": {"coordinates":[-116.284263,43.655822],"type":"Point"}
+}

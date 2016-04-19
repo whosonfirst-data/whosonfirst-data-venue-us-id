@@ -1,0 +1,70 @@
+{
+  "id": 186277891,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-116.265403,43.64271,-116.265403,43.64271",
+    "geom:latitude":43.64271,
+    "geom:longitude":-116.265403,
+    "iso:country":"US",
+    "sg:address":"4911 Bradley St",
+    "sg:city":"Boise",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 377 5291",
+    "sg:postcode":"83714",
+    "sg:province":"ID",
+    "sg:tags":[
+        "machine",
+        "automobile",
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85937919,
+        102086087,
+        85876349
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0R5nYG5WQRbMFVTH20xpDW_43.642710_-116.265403@1294099250"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"ec83fc0707f61fbf7869d3c08ba9b58a",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086087,
+            "locality_id":85937919,
+            "neighbourhood_id":85876349,
+            "region_id":85688657,
+            "venue_id":186277891
+        }
+    ],
+    "wof:id":186277891,
+    "wof:lastmodified":1449050553,
+    "wof:name":"Valley Crankshaft Inc",
+    "wof:parent_id":85876349,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "machine",
+        "automobile",
+        "shop"
+    ]
+},
+  "bbox": [-116.265403,43.64271,-116.265403,43.64271],
+  "geometry": {"coordinates":[-116.265403,43.64271],"type":"Point"}
+}

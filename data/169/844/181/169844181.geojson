@@ -1,0 +1,68 @@
+{
+  "id": 169844181,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-116.495262,43.576043,-116.495262,43.576043",
+    "geom:latitude":43.576043,
+    "geom:longitude":-116.495262,
+    "iso:country":"US",
+    "sg:address":"6200 E Powerline Rd",
+    "sg:city":"Nampa",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 467 4747",
+    "sg:postcode":"83687",
+    "sg:province":"ID",
+    "sg:tags":[
+        "plumbing",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85938009,
+        102085081,
+        85827787
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5bJ2VSuOkCx4qoLgnuCqYa_43.576043_-116.495262@1294099250"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"36ffb339fef161cc563479eec91b31d4",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085081,
+            "locality_id":85938009,
+            "neighbourhood_id":85827787,
+            "region_id":85688657,
+            "venue_id":169844181
+        }
+    ],
+    "wof:id":169844181,
+    "wof:lastmodified":1449034079,
+    "wof:name":"Rob Rogers Plumbing Inc",
+    "wof:parent_id":85827787,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "plumbing",
+        "contractor"
+    ]
+},
+  "bbox": [-116.495262,43.576043,-116.495262,43.576043],
+  "geometry": {"coordinates":[-116.495262,43.576043],"type":"Point"}
+}

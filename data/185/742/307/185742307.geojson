@@ -1,0 +1,68 @@
+{
+  "id": 185742307,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-116.347308,43.695808,-116.347308,43.695808",
+    "geom:latitude":43.695808,
+    "geom:longitude":-116.347308,
+    "iso:country":"US",
+    "sg:address":"125 N Stierman Way",
+    "sg:city":"Eagle",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 939 4880",
+    "sg:postcode":"83616",
+    "sg:province":"ID",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85937923,
+        102086087,
+        85876351
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1Z7gwEoDAJPDaBDnia0NY1_43.695808_-116.347308@1294099250"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"5e362acc0677956651b8e80821098c55",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086087,
+            "locality_id":85937923,
+            "neighbourhood_id":85876351,
+            "region_id":85688657,
+            "venue_id":185742307
+        }
+    ],
+    "wof:id":185742307,
+    "wof:lastmodified":1449006707,
+    "wof:name":"Eagle Pediatrics",
+    "wof:parent_id":85876351,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [-116.347308,43.695808,-116.347308,43.695808],
+  "geometry": {"coordinates":[-116.347308,43.695808],"type":"Point"}
+}

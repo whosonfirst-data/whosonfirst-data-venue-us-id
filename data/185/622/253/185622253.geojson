@@ -1,0 +1,78 @@
+{
+  "id": 185622253,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-116.796436,47.697768,-116.796436,47.697768",
+    "geom:latitude":47.697768,
+    "geom:longitude":-116.796436,
+    "iso:country":"US",
+    "sg:address":"2190 W Ironwood Center Dr",
+    "sg:city":"Coeur D Alene",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 667 1104",
+    "sg:postcode":"83814",
+    "sg:province":"ID",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85938163,
+        102086085,
+        85806325,
+        85821457
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0SZrsgBkWiNI9VEwTg864m_47.697768_-116.796436@1294099250"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"fee366abd7d69144d97a115ea397bf81",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086085,
+            "locality_id":85938163,
+            "neighbourhood_id":85806325,
+            "region_id":85688657,
+            "venue_id":185622253
+        },
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086085,
+            "locality_id":-1,
+            "neighbourhood_id":85821457,
+            "region_id":85688657,
+            "venue_id":185622253
+        }
+    ],
+    "wof:id":185622253,
+    "wof:lastmodified":1449007939,
+    "wof:name":"Pain Management Clinic",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [-116.796436,47.697768,-116.796436,47.697768],
+  "geometry": {"coordinates":[-116.796436,47.697768],"type":"Point"}
+}

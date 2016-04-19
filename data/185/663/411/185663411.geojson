@@ -1,0 +1,68 @@
+{
+  "id": 185663411,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-116.249691,43.598092,-116.249691,43.598092",
+    "geom:latitude":43.598092,
+    "geom:longitude":-116.249691,
+    "iso:country":"US",
+    "sg:address":"612 Scott St",
+    "sg:city":"Boise",
+    "sg:classifiers":[
+        {
+            "category":"Airport",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 344 6461",
+    "sg:postcode":"83705",
+    "sg:province":"ID",
+    "sg:tags":[
+        "aircraft",
+        "maintenance"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85937923,
+        102086087,
+        85876295
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_23iLu4UpthUkrvYm5kv52V_43.598092_-116.249691@1294099250"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"2d63d9af83b8f392a66f168bf282a9de",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086087,
+            "locality_id":85937923,
+            "neighbourhood_id":85876295,
+            "region_id":85688657,
+            "venue_id":185663411
+        }
+    ],
+    "wof:id":185663411,
+    "wof:lastmodified":1449007776,
+    "wof:name":"Aero Accessory Svc",
+    "wof:parent_id":85876295,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "aircraft",
+        "maintenance"
+    ]
+},
+  "bbox": [-116.249691,43.598092,-116.249691,43.598092],
+  "geometry": {"coordinates":[-116.249691,43.598092],"type":"Point"}
+}

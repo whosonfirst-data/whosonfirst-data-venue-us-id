@@ -1,0 +1,67 @@
+{
+  "id": 185610677,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-116.747499,47.78667,-116.747499,47.78667",
+    "geom:latitude":47.78667,
+    "geom:longitude":-116.747499,
+    "iso:country":"US",
+    "sg:address":"3081 E St James Ave",
+    "sg:city":"Hayden",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Retail Goods",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 772 8246",
+    "sg:postcode":"83835",
+    "sg:province":"ID",
+    "sg:tags":[
+        "product",
+        "mfg"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        102086085,
+        85821457
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1WAnIc1UG42NJMomvGtPQv_47.786670_-116.747499@1294099250"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"d3ddd517ece8172e35c19d012d6816bd",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086085,
+            "locality_id":-1,
+            "neighbourhood_id":85821457,
+            "region_id":85688657,
+            "venue_id":185610677
+        }
+    ],
+    "wof:id":185610677,
+    "wof:lastmodified":1449008166,
+    "wof:name":"D3 Industries",
+    "wof:parent_id":85821457,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "product",
+        "mfg"
+    ]
+},
+  "bbox": [-116.747499,47.78667,-116.747499,47.78667],
+  "geometry": {"coordinates":[-116.747499,47.78667],"type":"Point"}
+}

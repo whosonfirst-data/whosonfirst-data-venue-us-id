@@ -1,0 +1,67 @@
+{
+  "id": 186130187,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-116.788858,47.702624,-116.788858,47.702624",
+    "geom:latitude":47.702624,
+    "geom:longitude":-116.788858,
+    "iso:country":"US",
+    "sg:address":"110 W Haycraft Ave",
+    "sg:city":"Coeur D Alene",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 664 9542",
+    "sg:postcode":"83815",
+    "sg:province":"ID",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        102086085,
+        85821457
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7mPkcpuQVMDBdLw1953mgv_47.702624_-116.788858@1294099250"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"50e3ab6b45e16f5ef4d06a95199bff78",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086085,
+            "locality_id":-1,
+            "neighbourhood_id":85821457,
+            "region_id":85688657,
+            "venue_id":186130187
+        }
+    ],
+    "wof:id":186130187,
+    "wof:lastmodified":1449051314,
+    "wof:name":"Autotech NW",
+    "wof:parent_id":85821457,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [-116.788858,47.702624,-116.788858,47.702624],
+  "geometry": {"coordinates":[-116.788858,47.702624],"type":"Point"}
+}

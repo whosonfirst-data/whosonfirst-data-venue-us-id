@@ -1,0 +1,65 @@
+{
+  "id": 186001887,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-111.297748,42.316984,-111.297748,42.316984",
+    "geom:latitude":42.316984,
+    "geom:longitude":-111.297748,
+    "iso:country":"US",
+    "sg:address":"130 S 4th St",
+    "sg:city":"Montpelier",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 847 0662",
+    "sg:postcode":"83254",
+    "sg:province":"ID",
+    "sg:tags":[
+        "grocer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85937803,
+        102085071
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0dj3ztzPY4dnNRB93FQrr7_42.316984_-111.297748@1294099250"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"1dd3aae7e53fe3ed8db055d49770f6b1",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085071,
+            "locality_id":85937803,
+            "neighbourhood_id":-1,
+            "region_id":85688657,
+            "venue_id":186001887
+        }
+    ],
+    "wof:id":186001887,
+    "wof:lastmodified":1449051010,
+    "wof:name":"Broulim's Super Market",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "grocer"
+    ]
+},
+  "bbox": [-111.297748,42.316984,-111.297748,42.316984],
+  "geometry": {"coordinates":[-111.297748,42.316984],"type":"Point"}
+}

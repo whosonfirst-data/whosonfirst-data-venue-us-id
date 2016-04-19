@@ -1,0 +1,67 @@
+{
+  "id": 185612897,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-116.280268,43.550099,-116.280268,43.550099",
+    "geom:latitude":43.550099,
+    "geom:longitude":-116.280268,
+    "iso:country":"US",
+    "sg:address":"7951 Sagebrush Way",
+    "sg:city":"Boise",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 362 6627",
+    "sg:postcode":"83709",
+    "sg:province":"ID",
+    "sg:tags":[
+        "operator",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        102086087,
+        85876331
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3UAD6kh9PtVyBpeStelYxg_43.550099_-116.280268@1294099250"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"d6154f62b7e1a699fe017e3383e8bdc3",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086087,
+            "locality_id":-1,
+            "neighbourhood_id":85876331,
+            "region_id":85688657,
+            "venue_id":185612897
+        }
+    ],
+    "wof:id":185612897,
+    "wof:lastmodified":1449007321,
+    "wof:name":"Steven Rodgers",
+    "wof:parent_id":85876331,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "trucking"
+    ]
+},
+  "bbox": [-116.280268,43.550099,-116.280268,43.550099],
+  "geometry": {"coordinates":[-116.280268,43.550099],"type":"Point"}
+}

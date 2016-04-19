@@ -1,0 +1,69 @@
+{
+  "id": 169606491,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-116.334403,43.575748,-116.334403,43.575748",
+    "geom:latitude":43.575748,
+    "geom:longitude":-116.334403,
+    "iso:country":"US",
+    "sg:address":"3749 S Cloverdale Rd",
+    "sg:city":"Boise",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"Special Training",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 429 8530",
+    "sg:postcode":"83709",
+    "sg:province":"ID",
+    "sg:tags":[
+        "aid",
+        "instruction",
+        "first"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        102086087,
+        85876331
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5j0B5eDfvfiKbeUp0Ex3Yu_43.575748_-116.334403@1294099250"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"be12068ced9b9525781c1cfe28b732b8",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086087,
+            "locality_id":-1,
+            "neighbourhood_id":85876331,
+            "region_id":85688657,
+            "venue_id":169606491
+        }
+    ],
+    "wof:id":169606491,
+    "wof:lastmodified":1449033200,
+    "wof:name":"American Lifeline",
+    "wof:parent_id":85876331,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "aid",
+        "instruction",
+        "first"
+    ]
+},
+  "bbox": [-116.334403,43.575748,-116.334403,43.575748],
+  "geometry": {"coordinates":[-116.334403,43.575748],"type":"Point"}
+}

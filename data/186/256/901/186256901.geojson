@@ -1,0 +1,68 @@
+{
+  "id": 186256901,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-116.220901,43.63023,-116.220901,43.63023",
+    "geom:latitude":43.63023,
+    "geom:longitude":-116.220901,
+    "iso:country":"US",
+    "sg:address":"2501 W State St",
+    "sg:city":"Boise",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 424 1323",
+    "sg:postcode":"83702",
+    "sg:province":"ID",
+    "sg:tags":[
+        "shelter",
+        "homeless"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85937923,
+        102086087,
+        85876313
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_77D9FVGjP4K53moFerNrtN_43.630230_-116.220901@1294099250"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"dfed3da192450911cf56a4178e8c2d70",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086087,
+            "locality_id":85937923,
+            "neighbourhood_id":85876313,
+            "region_id":85688657,
+            "venue_id":186256901
+        }
+    ],
+    "wof:id":186256901,
+    "wof:lastmodified":1449052373,
+    "wof:name":"Serenity Womens Transitional",
+    "wof:parent_id":85876313,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shelter",
+        "homeless"
+    ]
+},
+  "bbox": [-116.220901,43.63023,-116.220901,43.63023],
+  "geometry": {"coordinates":[-116.220901,43.63023],"type":"Point"}
+}

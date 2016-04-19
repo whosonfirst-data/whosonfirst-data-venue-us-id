@@ -1,0 +1,67 @@
+{
+  "id": 185967565,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-116.302637,43.67705,-116.302637,43.67705",
+    "geom:latitude":43.67705,
+    "geom:longitude":-116.302637,
+    "iso:country":"US",
+    "sg:address":"9480 W Wakefield Ct",
+    "sg:city":"Boise",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 853 8707",
+    "sg:postcode":"83714",
+    "sg:province":"ID",
+    "sg:tags":[
+        "electrical",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        102086087,
+        85876315
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1r440iY7Al15eBZqY7sGEE_43.677050_-116.302637@1294099250"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"be66dabd2e51eee1ec59b945002fa27e",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086087,
+            "locality_id":-1,
+            "neighbourhood_id":85876315,
+            "region_id":85688657,
+            "venue_id":185967565
+        }
+    ],
+    "wof:id":185967565,
+    "wof:lastmodified":1449008101,
+    "wof:name":"R D S Electric",
+    "wof:parent_id":85876315,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electrical",
+        "contractor"
+    ]
+},
+  "bbox": [-116.302637,43.67705,-116.302637,43.67705],
+  "geometry": {"coordinates":[-116.302637,43.67705],"type":"Point"}
+}

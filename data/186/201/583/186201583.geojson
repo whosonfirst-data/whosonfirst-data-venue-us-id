@@ -1,0 +1,65 @@
+{
+  "id": 186201583,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-115.717269,43.128916,-115.717269,43.128916",
+    "geom:latitude":43.128916,
+    "geom:longitude":-115.717269,
+    "iso:country":"US",
+    "sg:address":"220 Elmcrest St",
+    "sg:city":"Mountain Home",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Veterinary Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 587 7941",
+    "sg:postcode":"83647",
+    "sg:province":"ID",
+    "sg:tags":[
+        "veterinarian"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85938027,
+        102086075
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4aJAjlBMvtoN1qvL5aRC7I_43.128916_-115.717269@1294099250"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"fddb9a7d729cfe74b6503b0c18828945",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086075,
+            "locality_id":85938027,
+            "neighbourhood_id":-1,
+            "region_id":85688657,
+            "venue_id":186201583
+        }
+    ],
+    "wof:id":186201583,
+    "wof:lastmodified":1449052661,
+    "wof:name":"Knight Veterinary Clinic",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "veterinarian"
+    ]
+},
+  "bbox": [-115.717269,43.128916,-115.717269,43.128916],
+  "geometry": {"coordinates":[-115.717269,43.128916],"type":"Point"}
+}

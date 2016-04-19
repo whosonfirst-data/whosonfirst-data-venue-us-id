@@ -1,0 +1,80 @@
+{
+  "id": 186540661,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-116.969983,46.376105,-116.969983,46.376105",
+    "geom:latitude":46.376105,
+    "geom:longitude":-116.969983,
+    "iso:country":"US",
+    "sg:address":"508 Thain Rd",
+    "sg:city":"Lewiston",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Clinic",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 798 4613",
+    "sg:postcode":"83501",
+    "sg:province":"ID",
+    "sg:tags":[
+        "banks",
+        "blood",
+        "center"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85937743,
+        102086039,
+        85837769,
+        85830385
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3XvQOtukZ92HSTjJifBBC3_46.376105_-116.969983@1294099250"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"b0b11f9ebb1714de1b7d4a4b41c0daea",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086039,
+            "locality_id":85937743,
+            "neighbourhood_id":85837769,
+            "region_id":85688657,
+            "venue_id":186540661
+        },
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086039,
+            "locality_id":85937743,
+            "neighbourhood_id":85830385,
+            "region_id":85688657,
+            "venue_id":186540661
+        }
+    ],
+    "wof:id":186540661,
+    "wof:lastmodified":1449051421,
+    "wof:name":"American Red Cross Blood Svc",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "banks",
+        "blood",
+        "center"
+    ]
+},
+  "bbox": [-116.969983,46.376105,-116.969983,46.376105],
+  "geometry": {"coordinates":[-116.969983,46.376105],"type":"Point"}
+}

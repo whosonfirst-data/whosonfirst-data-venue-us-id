@@ -1,0 +1,67 @@
+{
+  "id": 186018781,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-116.243392,43.605574,-116.243392,43.605574",
+    "geom:latitude":43.605574,
+    "geom:longitude":-116.243392,
+    "iso:country":"US",
+    "sg:address":"110 N Orchard St",
+    "sg:city":"Boise",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Veterinary Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 376 4433",
+    "sg:postcode":"83706",
+    "sg:province":"ID",
+    "sg:tags":[
+        "veterinarian"
+    ],
+    "sg:website":"www.orchardanimal.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85937923,
+        102086087,
+        85876311
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_31Rilq7Iv6TypOVfiq31cO_43.605574_-116.243392@1294099250"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"e0ebb7aab7f15efb93da703959669843",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086087,
+            "locality_id":85937923,
+            "neighbourhood_id":85876311,
+            "region_id":85688657,
+            "venue_id":186018781
+        }
+    ],
+    "wof:id":186018781,
+    "wof:lastmodified":1449051714,
+    "wof:name":"Orchard Animal Clinic",
+    "wof:parent_id":85876311,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "veterinarian"
+    ]
+},
+  "bbox": [-116.243392,43.605574,-116.243392,43.605574],
+  "geometry": {"coordinates":[-116.243392,43.605574],"type":"Point"}
+}

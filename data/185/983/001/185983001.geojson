@@ -1,0 +1,67 @@
+{
+  "id": 185983001,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-112.584576,42.900666,-112.584576,42.900666",
+    "geom:latitude":42.900666,
+    "geom:longitude":-112.584576,
+    "iso:country":"US",
+    "sg:address":"1384 Beechcraft Ave",
+    "sg:city":"Pocatello",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 233 6750",
+    "sg:postcode":"83204",
+    "sg:province":"ID",
+    "sg:tags":[
+        "grain",
+        "elevator"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85937925,
+        102086113
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7CoICSdIVY2bM4XfUjqFsL_42.900666_-112.584576@1294099250"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"063b7cd39b52bd1573ac98e002b6af50",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086113,
+            "locality_id":85937925,
+            "neighbourhood_id":-1,
+            "region_id":85688657,
+            "venue_id":185983001
+        }
+    ],
+    "wof:id":185983001,
+    "wof:lastmodified":1449008084,
+    "wof:name":"Mc Nabb Grain & Trucking",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "grain",
+        "elevator"
+    ]
+},
+  "bbox": [-112.584576,42.900666,-112.584576,42.900666],
+  "geometry": {"coordinates":[-112.584576,42.900666],"type":"Point"}
+}

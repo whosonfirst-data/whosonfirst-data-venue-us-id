@@ -1,0 +1,67 @@
+{
+  "id": 186139913,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-116.941716,43.784238,-116.941716,43.784238",
+    "geom:latitude":43.784238,
+    "geom:longitude":-116.941716,
+    "iso:country":"US",
+    "sg:address":"102 N 5th St",
+    "sg:city":"Parma",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 722 7429",
+    "sg:postcode":"83660",
+    "sg:province":"ID",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85938023,
+        102085081
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6mARb1XD3THiFbfHbaEwo9_43.784238_-116.941716@1294099250"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"b32b6965f72a79f7b15b28f30d1eee26",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085081,
+            "locality_id":85938023,
+            "neighbourhood_id":-1,
+            "region_id":85688657,
+            "venue_id":186139913
+        }
+    ],
+    "wof:id":186139913,
+    "wof:lastmodified":1449050493,
+    "wof:name":"Mikes Automotive",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [-116.941716,43.784238,-116.941716,43.784238],
+  "geometry": {"coordinates":[-116.941716,43.784238],"type":"Point"}
+}

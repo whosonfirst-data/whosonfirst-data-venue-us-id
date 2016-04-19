@@ -1,0 +1,84 @@
+{
+  "id": 320534651,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-116.620682,43.70649,-116.620682,43.70649",
+    "geom:latitude":43.70649,
+    "geom:longitude":-116.620682,
+    "iso:country":"US",
+    "sg:address":"210 E Main St",
+    "sg:city":"Middleton",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Non-durable Goods",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        },
+        {
+            "category":"Personal",
+            "subcategory":"Barber",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 585 2606",
+    "sg:postcode":"83644",
+    "sg:province":"ID",
+    "sg:tags":[
+        "equipment",
+        "manufacturer",
+        "supplies-wholesale",
+        "salons-equipment",
+        "supply"
+    ],
+    "sg:website":"http://www.zipweb.com/?businessname=maintamerssalon/",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85938013,
+        102085081
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_74InpUT9s4P82BZYM7ke9p_43.706490_-116.620682@1303263095"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"9b6730f0e9b288e3d074a35bf8e85406",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085081,
+            "locality_id":85938013,
+            "neighbourhood_id":-1,
+            "region_id":85688657,
+            "venue_id":320534651
+        }
+    ],
+    "wof:id":320534651,
+    "wof:lastmodified":1449012234,
+    "wof:name":"Main Tamers",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "equipment",
+        "manufacturer",
+        "supplies-wholesale",
+        "salons-equipment",
+        "supply"
+    ]
+},
+  "bbox": [-116.620682,43.70649,-116.620682,43.70649],
+  "geometry": {"coordinates":[-116.620682,43.70649],"type":"Point"}
+}

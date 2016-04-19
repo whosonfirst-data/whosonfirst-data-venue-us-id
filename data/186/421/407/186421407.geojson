@@ -1,0 +1,67 @@
+{
+  "id": 186421407,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-116.635573,43.628067,-116.635573,43.628067",
+    "geom:latitude":43.628067,
+    "geom:longitude":-116.635573,
+    "iso:country":"US",
+    "sg:address":"5617 Cleveland Blvd",
+    "sg:city":"Caldwell",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 453 1995",
+    "sg:postcode":"83607",
+    "sg:province":"ID",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85938017,
+        102085081
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3PlXP0f91YDG9HzDEmk75E_43.628067_-116.635573@1294099250"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"7b09daa59b48ec989891508e1a8902d5",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085081,
+            "locality_id":85938017,
+            "neighbourhood_id":-1,
+            "region_id":85688657,
+            "venue_id":186421407
+        }
+    ],
+    "wof:id":186421407,
+    "wof:lastmodified":1449052079,
+    "wof:name":"Dan & J's Truck & Auto Repair",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [-116.635573,43.628067,-116.635573,43.628067],
+  "geometry": {"coordinates":[-116.635573,43.628067],"type":"Point"}
+}

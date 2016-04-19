@@ -1,0 +1,68 @@
+{
+  "id": 169642777,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-116.401567,43.573136,-116.401567,43.573136",
+    "geom:latitude":43.573136,
+    "geom:longitude":-116.401567,
+    "iso:country":"US",
+    "sg:address":"3521 S Arcaro Ave",
+    "sg:city":"Meridian",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Landscaping Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 884 8036",
+    "sg:postcode":"83642",
+    "sg:province":"ID",
+    "sg:tags":[
+        "landscape",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85937915,
+        102086087,
+        85805083
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1OhxxBQQbqOlB9myzxxgFC_43.573136_-116.401567@1294099250"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"5e1a687fbb532ced0b813dfcc39fd9d0",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086087,
+            "locality_id":85937915,
+            "neighbourhood_id":85805083,
+            "region_id":85688657,
+            "venue_id":169642777
+        }
+    ],
+    "wof:id":169642777,
+    "wof:lastmodified":1449032878,
+    "wof:name":"Sunshine Landscape",
+    "wof:parent_id":85805083,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "landscape",
+        "contractor"
+    ]
+},
+  "bbox": [-116.401567,43.573136,-116.401567,43.573136],
+  "geometry": {"coordinates":[-116.401567,43.573136],"type":"Point"}
+}

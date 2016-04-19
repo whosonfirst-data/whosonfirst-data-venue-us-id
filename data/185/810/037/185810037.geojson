@@ -1,0 +1,67 @@
+{
+  "id": 185810037,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-116.203605,43.58068,-116.203605,43.58068",
+    "geom:latitude":43.58068,
+    "geom:longitude":-116.203605,
+    "iso:country":"US",
+    "sg:address":"2314 Annett St",
+    "sg:city":"Boise",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 345 0309",
+    "sg:postcode":"83705",
+    "sg:province":"ID",
+    "sg:tags":[
+        "automotive"
+    ],
+    "sg:website":"www.customcreate.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85937923,
+        102086087,
+        85876343
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5fS1Mn25V2QcacQf3ifR8m_43.580680_-116.203605@1294099250"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"bc3867080859780fbecbeab110671db6",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086087,
+            "locality_id":85937923,
+            "neighbourhood_id":85876343,
+            "region_id":85688657,
+            "venue_id":185810037
+        }
+    ],
+    "wof:id":185810037,
+    "wof:lastmodified":1449007084,
+    "wof:name":"Custom Creations",
+    "wof:parent_id":85876343,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automotive"
+    ]
+},
+  "bbox": [-116.203605,43.58068,-116.203605,43.58068],
+  "geometry": {"coordinates":[-116.203605,43.58068],"type":"Point"}
+}

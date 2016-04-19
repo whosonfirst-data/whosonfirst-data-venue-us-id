@@ -1,0 +1,69 @@
+{
+  "id": 186479281,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-116.203006,43.617717,-116.203006,43.617717",
+    "geom:latitude":43.617717,
+    "geom:longitude":-116.203006,
+    "iso:country":"US",
+    "sg:address":"816 W Bannock St",
+    "sg:city":"Boise",
+    "sg:classifiers":[
+        {
+            "category":"Communications",
+            "subcategory":"Television Station",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 331 0909",
+    "sg:postcode":"83702",
+    "sg:province":"ID",
+    "sg:tags":[
+        "broadcasting",
+        "co"
+    ],
+    "sg:website":"www.knin.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85937923,
+        102086087,
+        85876341
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2PKuEfhUkD0TTfPbTEIM68_43.617717_-116.203006@1294099250"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"dc964653b4bca35894bad0e2dd6242a5",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086087,
+            "locality_id":85937923,
+            "neighbourhood_id":85876341,
+            "region_id":85688657,
+            "venue_id":186479281
+        }
+    ],
+    "wof:id":186479281,
+    "wof:lastmodified":1449052209,
+    "wof:name":"KNIN",
+    "wof:parent_id":85876341,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "broadcasting",
+        "co"
+    ]
+},
+  "bbox": [-116.203006,43.617717,-116.203006,43.617717],
+  "geometry": {"coordinates":[-116.203006,43.617717],"type":"Point"}
+}

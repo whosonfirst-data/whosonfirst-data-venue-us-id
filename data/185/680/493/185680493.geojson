@@ -1,0 +1,69 @@
+{
+  "id": 185680493,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-112.04548,43.480902,-112.04548,43.480902",
+    "geom:latitude":43.480902,
+    "geom:longitude":-112.04548,
+    "iso:country":"US",
+    "sg:address":"591 W 19th St",
+    "sg:city":"Idaho Falls",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 522 8460",
+    "sg:postcode":"83402",
+    "sg:province":"ID",
+    "sg:tags":[
+        "repairing",
+        "automobile",
+        "radiator"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85937963,
+        102085163
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_74wAK26cg2E0FJ6efyECFx_43.480902_-112.045480@1294099250"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"e98fa7cad1f09cbc2bc35abda8d072f4",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085163,
+            "locality_id":85937963,
+            "neighbourhood_id":-1,
+            "region_id":85688657,
+            "venue_id":185680493
+        }
+    ],
+    "wof:id":185680493,
+    "wof:lastmodified":1449007724,
+    "wof:name":"Steve's Radiator Shop",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile",
+        "radiator"
+    ]
+},
+  "bbox": [-112.04548,43.480902,-112.04548,43.480902],
+  "geometry": {"coordinates":[-112.04548,43.480902],"type":"Point"}
+}

@@ -1,0 +1,66 @@
+{
+  "id": 169663955,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-116.219777,43.576786,-116.219777,43.576786",
+    "geom:latitude":43.576786,
+    "geom:longitude":-116.219777,
+    "iso:country":"US",
+    "sg:address":"2602 Kerr St",
+    "sg:city":"Boise",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 344 1676",
+    "sg:postcode":"83705",
+    "sg:province":"ID",
+    "sg:tags":[
+        "appliance"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85937923,
+        102086087,
+        85876343
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3oZMkjgsCe9B4ODGjDfpeR_43.576786_-116.219777@1294099250"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"0bfe699818e4845f2c999477721e2280",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086087,
+            "locality_id":85937923,
+            "neighbourhood_id":85876343,
+            "region_id":85688657,
+            "venue_id":169663955
+        }
+    ],
+    "wof:id":169663955,
+    "wof:lastmodified":1449035106,
+    "wof:name":"Able Appliance Repair",
+    "wof:parent_id":85876343,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "appliance"
+    ]
+},
+  "bbox": [-116.219777,43.576786,-116.219777,43.576786],
+  "geometry": {"coordinates":[-116.219777,43.576786],"type":"Point"}
+}

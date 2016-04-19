@@ -1,0 +1,64 @@
+{
+  "id": 185693009,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-114.128144,42.567863,-114.128144,42.567863",
+    "geom:latitude":42.567863,
+    "geom:longitude":-114.128144,
+    "iso:country":"US",
+    "sg:address":"1058 Airport Rd",
+    "sg:city":"Burley",
+    "sg:classifiers":[
+        {
+            "category":"Airport",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 678 0372",
+    "sg:postcode":"83335",
+    "sg:province":"ID",
+    "sg:tags":[
+        "aircraft",
+        "maintenance"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633793,
+        85688657
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3N1MBvJZbqjkCBTqJrlLPs_42.567863_-114.128144@1294099250"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"fe15b94d46e8acf2a2aa0aabdebcc52a",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "locality_id":-1,
+            "neighbourhood_id":-1,
+            "region_id":85688657,
+            "venue_id":185693009
+        }
+    ],
+    "wof:id":185693009,
+    "wof:lastmodified":1449006683,
+    "wof:name":"Flight Doctor",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "aircraft",
+        "maintenance"
+    ]
+},
+  "bbox": [-114.128144,42.567863,-114.128144,42.567863],
+  "geometry": {"coordinates":[-114.128144,42.567863],"type":"Point"}
+}

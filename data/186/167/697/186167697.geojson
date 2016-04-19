@@ -1,0 +1,67 @@
+{
+  "id": 186167697,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-116.255522,43.653538,-116.255522,43.653538",
+    "geom:latitude":43.653538,
+    "geom:longitude":-116.255522,
+    "iso:country":"US",
+    "sg:address":"3684 N Harbor Ln",
+    "sg:city":"Boise",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 853 4556",
+    "sg:postcode":"83703",
+    "sg:province":"ID",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        102086087,
+        85811879
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_25v1h6R6r31gfrEKVmlvea_43.653538_-116.255522@1294099250"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"587831bdbf162680eded84d5e07d53a5",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086087,
+            "locality_id":-1,
+            "neighbourhood_id":85811879,
+            "region_id":85688657,
+            "venue_id":186167697
+        }
+    ],
+    "wof:id":186167697,
+    "wof:lastmodified":1449051765,
+    "wof:name":"Lake Harbor Internal Medicine",
+    "wof:parent_id":85811879,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [-116.255522,43.653538,-116.255522,43.653538],
+  "geometry": {"coordinates":[-116.255522,43.653538],"type":"Point"}
+}

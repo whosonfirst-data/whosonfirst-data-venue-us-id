@@ -1,0 +1,68 @@
+{
+  "id": 185752441,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-116.54271,43.543788,-116.54271,43.543788",
+    "geom:latitude":43.543788,
+    "geom:longitude":-116.54271,
+    "iso:country":"US",
+    "sg:address":"2624 Aaron Dr",
+    "sg:city":"Nampa",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 466 0356",
+    "sg:postcode":"83686",
+    "sg:province":"ID",
+    "sg:tags":[
+        "electrical",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85938009,
+        102085081,
+        85827787
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5pJBziMKXokQjvb45w3GjC_43.543788_-116.542710@1294099250"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"a2400dacb01771c6aea7c7eb3e2b6176",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085081,
+            "locality_id":85938009,
+            "neighbourhood_id":85827787,
+            "region_id":85688657,
+            "venue_id":185752441
+        }
+    ],
+    "wof:id":185752441,
+    "wof:lastmodified":1449006878,
+    "wof:name":"D & M Electric",
+    "wof:parent_id":85827787,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electrical",
+        "contractor"
+    ]
+},
+  "bbox": [-116.54271,43.543788,-116.54271,43.543788],
+  "geometry": {"coordinates":[-116.54271,43.543788],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 186188451,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-117.022964,46.419049,-117.022964,46.419049",
+    "geom:latitude":46.419049,
+    "geom:longitude":-117.022964,
+    "iso:country":"US",
+    "sg:address":"856 F St",
+    "sg:city":"Lewiston",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 743 5721",
+    "sg:postcode":"83501",
+    "sg:province":"ID",
+    "sg:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85937743,
+        102086039,
+        85852537
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_373F8oBWT6O5ndCVLOrVNe_46.419049_-117.022964@1294099250"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"2978d21052420af396025cd04977cc81",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086039,
+            "locality_id":85937743,
+            "neighbourhood_id":85852537,
+            "region_id":85688657,
+            "venue_id":186188451
+        }
+    ],
+    "wof:id":186188451,
+    "wof:lastmodified":1449051709,
+    "wof:name":"Bob Jackson Body Repair",
+    "wof:parent_id":85852537,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ]
+},
+  "bbox": [-117.022964,46.419049,-117.022964,46.419049],
+  "geometry": {"coordinates":[-117.022964,46.419049],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 186290711,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-116.949477,47.724385,-116.949477,47.724385",
+    "geom:latitude":47.724385,
+    "geom:longitude":-116.949477,
+    "iso:country":"US",
+    "sg:address":"108 W 17th Ave",
+    "sg:city":"Post Falls",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        },
+        {
+            "category":"Shopping",
+            "subcategory":"Bicycles & Sporting Goods",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 777 2636",
+    "sg:postcode":"83854",
+    "sg:province":"ID",
+    "sg:tags":[
+        "sharpening",
+        "skate"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        102086085,
+        85833263
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6SRoUHDrm6qe8wGXlEh4tG_47.724385_-116.949477@1294099250"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"8b9c9babd36ff00996cca749f8c66775",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086085,
+            "locality_id":-1,
+            "neighbourhood_id":85833263,
+            "region_id":85688657,
+            "venue_id":186290711
+        }
+    ],
+    "wof:id":186290711,
+    "wof:lastmodified":1449051526,
+    "wof:name":"Blades n Wheels",
+    "wof:parent_id":85833263,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "sharpening",
+        "skate"
+    ]
+},
+  "bbox": [-116.949477,47.724385,-116.949477,47.724385],
+  "geometry": {"coordinates":[-116.949477,47.724385],"type":"Point"}
+}

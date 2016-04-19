@@ -1,0 +1,66 @@
+{
+  "id": 186185245,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-116.299708,43.601656,-116.299708,43.601656",
+    "geom:latitude":43.601656,
+    "geom:longitude":-116.299708,
+    "iso:country":"US",
+    "sg:address":"409 Old Quarry Way",
+    "sg:city":"Boise",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Agent",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 376 9600",
+    "sg:postcode":"83709",
+    "sg:province":"ID",
+    "sg:tags":[
+        "appraiser"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85937923,
+        102086087,
+        85876309
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_641zohCNxA8XngMCf2OsKQ_43.601656_-116.299708@1294099250"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"5f705bf80424cf24f985998e9fcdb93b",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086087,
+            "locality_id":85937923,
+            "neighbourhood_id":85876309,
+            "region_id":85688657,
+            "venue_id":186185245
+        }
+    ],
+    "wof:id":186185245,
+    "wof:lastmodified":1449050854,
+    "wof:name":"Intermountain Appraisal Svc",
+    "wof:parent_id":85876309,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "appraiser"
+    ]
+},
+  "bbox": [-116.299708,43.601656,-116.299708,43.601656],
+  "geometry": {"coordinates":[-116.299708,43.601656],"type":"Point"}
+}

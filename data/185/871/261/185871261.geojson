@@ -1,0 +1,67 @@
+{
+  "id": 185871261,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-113.777135,42.606815,-113.777135,42.606815",
+    "geom:latitude":42.606815,
+    "geom:longitude":-113.777135,
+    "iso:country":"US",
+    "sg:address":"502 E Clark St",
+    "sg:city":"Paul",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 438 8396",
+    "sg:postcode":"83347",
+    "sg:province":"ID",
+    "sg:tags":[
+        "plumbing",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85937781,
+        102085195
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5a31vsykc4wrNeW1miQqvl_42.606815_-113.777135@1294099250"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"98f1bac91c9cb14cd73a022d69c4b23d",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085195,
+            "locality_id":85937781,
+            "neighbourhood_id":-1,
+            "region_id":85688657,
+            "venue_id":185871261
+        }
+    ],
+    "wof:id":185871261,
+    "wof:lastmodified":1449007118,
+    "wof:name":"M Catmull Plumbing & Heating",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "plumbing",
+        "contractor"
+    ]
+},
+  "bbox": [-113.777135,42.606815,-113.777135,42.606815],
+  "geometry": {"coordinates":[-113.777135,42.606815],"type":"Point"}
+}

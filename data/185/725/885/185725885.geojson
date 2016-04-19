@@ -1,0 +1,67 @@
+{
+  "id": 185725885,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-112.446377,42.873655,-112.446377,42.873655",
+    "geom:latitude":42.873655,
+    "geom:longitude":-112.446377,
+    "iso:country":"US",
+    "sg:address":"716 N 8th Ave",
+    "sg:city":"Pocatello",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 234 1522",
+    "sg:postcode":"83201",
+    "sg:province":"ID",
+    "sg:tags":[
+        "electrical",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85937925,
+        102086113
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3huw6y4JtLBhJ7J8siqK3c_42.873655_-112.446377@1294099250"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"e182defe822a474e7534ca6a6cc7f319",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086113,
+            "locality_id":85937925,
+            "neighbourhood_id":-1,
+            "region_id":85688657,
+            "venue_id":185725885
+        }
+    ],
+    "wof:id":185725885,
+    "wof:lastmodified":1449007004,
+    "wof:name":"T & S Electric",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electrical",
+        "contractor"
+    ]
+},
+  "bbox": [-112.446377,42.873655,-112.446377,42.873655],
+  "geometry": {"coordinates":[-112.446377,42.873655],"type":"Point"}
+}

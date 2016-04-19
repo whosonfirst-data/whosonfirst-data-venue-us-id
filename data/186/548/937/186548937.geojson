@@ -1,0 +1,70 @@
+{
+  "id": 186548937,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-116.413699,43.610686,-116.413699,43.610686",
+    "geom:latitude":43.610686,
+    "geom:longitude":-116.413699,
+    "iso:country":"US",
+    "sg:address":"671 N Linder Rd",
+    "sg:city":"Meridian",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 888 3771",
+    "sg:postcode":"83642",
+    "sg:province":"ID",
+    "sg:tags":[
+        "repairing",
+        "automobile",
+        "radiator"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85937915,
+        102086087,
+        85805083
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6yO4CslDvbBO4ngQAG2Coq_43.610686_-116.413699@1294099250"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"e6ffde025b25f96c430993281c1c59da",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086087,
+            "locality_id":85937915,
+            "neighbourhood_id":85805083,
+            "region_id":85688657,
+            "venue_id":186548937
+        }
+    ],
+    "wof:id":186548937,
+    "wof:lastmodified":1449052222,
+    "wof:name":"City Radiator & Muffler",
+    "wof:parent_id":85805083,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile",
+        "radiator"
+    ]
+},
+  "bbox": [-116.413699,43.610686,-116.413699,43.610686],
+  "geometry": {"coordinates":[-116.413699,43.610686],"type":"Point"}
+}

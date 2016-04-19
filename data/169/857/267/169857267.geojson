@@ -1,0 +1,68 @@
+{
+  "id": 169857267,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-116.567309,43.541349,-116.567309,43.541349",
+    "geom:latitude":43.541349,
+    "geom:longitude":-116.567309,
+    "iso:country":"US",
+    "sg:address":"2809 S Juniper St",
+    "sg:city":"Nampa",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 461 3014",
+    "sg:postcode":"83686",
+    "sg:province":"ID",
+    "sg:tags":[
+        "general",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85938009,
+        102085081,
+        85827787
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4xY723M5bjJ9xpxSTRQg0X_43.541349_-116.567309@1294099250"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"d21eb402165e3e7d5b9de1587ff9ff33",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085081,
+            "locality_id":85938009,
+            "neighbourhood_id":85827787,
+            "region_id":85688657,
+            "venue_id":169857267
+        }
+    ],
+    "wof:id":169857267,
+    "wof:lastmodified":1449034826,
+    "wof:name":"Idaho Built",
+    "wof:parent_id":85827787,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "general",
+        "contractor"
+    ]
+},
+  "bbox": [-116.567309,43.541349,-116.567309,43.541349],
+  "geometry": {"coordinates":[-116.567309,43.541349],"type":"Point"}
+}

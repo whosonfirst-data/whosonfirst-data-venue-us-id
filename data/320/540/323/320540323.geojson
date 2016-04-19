@@ -1,0 +1,67 @@
+{
+  "id": 320540323,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-116.530499,43.588244,-116.530499,43.588244",
+    "geom:latitude":43.588244,
+    "geom:longitude":-116.530499,
+    "iso:country":"US",
+    "sg:address":"615 Barger Lane",
+    "sg:city":"Nampa",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Party Supplies",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 288 2208",
+    "sg:postcode":"83686",
+    "sg:province":"ID",
+    "sg:tags":[
+        "rental"
+    ],
+    "sg:website":"http://www.bouncinbin.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85938009,
+        102085081,
+        85827787
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_67C1icL3NllnOGvluLgDmL_43.588244_-116.530499@1303263095"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"97eea47ad2a20352af692d829add28d9",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085081,
+            "locality_id":85938009,
+            "neighbourhood_id":85827787,
+            "region_id":85688657,
+            "venue_id":320540323
+        }
+    ],
+    "wof:id":320540323,
+    "wof:lastmodified":1449012732,
+    "wof:name":"Bouncin Bins",
+    "wof:parent_id":85827787,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "rental"
+    ]
+},
+  "bbox": [-116.530499,43.588244,-116.530499,43.588244],
+  "geometry": {"coordinates":[-116.530499,43.588244],"type":"Point"}
+}

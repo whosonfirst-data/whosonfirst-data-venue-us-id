@@ -1,0 +1,73 @@
+{
+  "id": 320525895,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-116.921219,46.369634,-116.921219,46.369634",
+    "geom:latitude":46.369634,
+    "geom:longitude":-116.921219,
+    "iso:country":"US",
+    "sg:address":"2135 Powers Ave",
+    "sg:city":"Lewiston",
+    "sg:classifiers":[
+        {
+            "category":"Transit Center",
+            "subcategory":"Freight",
+            "type":"Transportation"
+        },
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 743 0463",
+    "sg:postcode":"83501",
+    "sg:province":"ID",
+    "sg:tags":[
+        "trucking-motor",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85937743,
+        102086039,
+        85837769
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3K38kuHeXCAm0mNyxYDeVj_46.369634_-116.921219@1303263095"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"f03e57be69b64b960c8b6a3c52401355",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086039,
+            "locality_id":85937743,
+            "neighbourhood_id":85837769,
+            "region_id":85688657,
+            "venue_id":320525895
+        }
+    ],
+    "wof:id":320525895,
+    "wof:lastmodified":1449014188,
+    "wof:name":"Keith W Baker",
+    "wof:parent_id":85837769,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "trucking-motor",
+        "trucking"
+    ]
+},
+  "bbox": [-116.921219,46.369634,-116.921219,46.369634],
+  "geometry": {"coordinates":[-116.921219,46.369634],"type":"Point"}
+}

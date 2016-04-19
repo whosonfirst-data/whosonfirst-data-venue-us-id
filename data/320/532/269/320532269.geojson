@@ -1,0 +1,82 @@
+{
+  "id": 320532269,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-116.928854,43.617771,-116.928854,43.617771",
+    "geom:latitude":43.617771,
+    "geom:longitude":-116.928854,
+    "iso:country":"US",
+    "sg:address":"321 E Idaho Ave",
+    "sg:city":"Homedale",
+    "sg:classifiers":[
+        {
+            "category":"Fast Food",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 337 5777",
+    "sg:postcode":"83628",
+    "sg:province":"ID",
+    "sg:tags":[
+        "shop",
+        "american",
+        "sandwich",
+        "take"
+    ],
+    "sg:website":"http://www.subway.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85938065,
+        102086017
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1nGdrIIAzL6SgrYwbVB2yN_43.617771_-116.928854@1303263095"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"ed6f9dbfdf742d1a3dfcbd748d48a296",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086017,
+            "locality_id":85938065,
+            "neighbourhood_id":-1,
+            "region_id":85688657,
+            "venue_id":320532269
+        }
+    ],
+    "wof:id":320532269,
+    "wof:lastmodified":1449012529,
+    "wof:name":"Subway",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop",
+        "american",
+        "sandwich",
+        "take"
+    ]
+},
+  "bbox": [-116.928854,43.617771,-116.928854,43.617771],
+  "geometry": {"coordinates":[-116.928854,43.617771],"type":"Point"}
+}

@@ -1,0 +1,66 @@
+{
+  "id": 185773483,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-116.265644,43.643904,-116.265644,43.643904",
+    "geom:latitude":43.643904,
+    "geom:longitude":-116.265644,
+    "iso:country":"US",
+    "sg:address":"5019 N Sawyer Ave",
+    "sg:city":"Boise",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Veterinary Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 375 1600",
+    "sg:postcode":"83714",
+    "sg:province":"ID",
+    "sg:tags":[
+        "veterinarian"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85937919,
+        102086087,
+        85876349
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7PeU7pRpsebm7wA4VwKDzZ_43.643904_-116.265644@1294099250"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"e77672d5fec9b920391be9ee8a535dc5",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086087,
+            "locality_id":85937919,
+            "neighbourhood_id":85876349,
+            "region_id":85688657,
+            "venue_id":185773483
+        }
+    ],
+    "wof:id":185773483,
+    "wof:lastmodified":1449006801,
+    "wof:name":"Idaho Veterinary Specialists",
+    "wof:parent_id":85876349,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "veterinarian"
+    ]
+},
+  "bbox": [-116.265644,43.643904,-116.265644,43.643904],
+  "geometry": {"coordinates":[-116.265644,43.643904],"type":"Point"}
+}

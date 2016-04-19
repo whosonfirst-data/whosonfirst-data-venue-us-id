@@ -1,0 +1,67 @@
+{
+  "id": 186559001,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-116.32717,43.636982,-116.32717,43.636982",
+    "geom:latitude":43.636982,
+    "geom:longitude":-116.32717,
+    "iso:country":"US",
+    "sg:address":"11587 W Ramrod Dr",
+    "sg:city":"Boise",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 323 8258",
+    "sg:postcode":"83713",
+    "sg:province":"ID",
+    "sg:tags":[
+        "loan"
+    ],
+    "sg:website":"www.communitylender.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85937923,
+        102086087,
+        85876357
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5LqN25QBXcOR6mkMn0FpQH_43.636982_-116.327170@1294099250"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"1b598df6ac70a22e62b1eb6e3dd5cccb",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086087,
+            "locality_id":85937923,
+            "neighbourhood_id":85876357,
+            "region_id":85688657,
+            "venue_id":186559001
+        }
+    ],
+    "wof:id":186559001,
+    "wof:lastmodified":1449052417,
+    "wof:name":"Community Lender",
+    "wof:parent_id":85876357,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "loan"
+    ]
+},
+  "bbox": [-116.32717,43.636982,-116.32717,43.636982],
+  "geometry": {"coordinates":[-116.32717,43.636982],"type":"Point"}
+}

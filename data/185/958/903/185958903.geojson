@@ -1,0 +1,65 @@
+{
+  "id": 185958903,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-112.449301,42.874477,-112.449301,42.874477",
+    "geom:latitude":42.874477,
+    "geom:longitude":-112.449301,
+    "iso:country":"US",
+    "sg:address":"911 N 7th Ave",
+    "sg:city":"Pocatello",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Police Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 234 6131",
+    "sg:postcode":"83201",
+    "sg:province":"ID",
+    "sg:tags":[
+        "department"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85937925,
+        102086113
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7i9OnylUZNaLhsC6TIOciJ_42.874477_-112.449301@1294099250"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"7d2a4449cc4a814a7eaec453db9311a0",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086113,
+            "locality_id":85937925,
+            "neighbourhood_id":-1,
+            "region_id":85688657,
+            "venue_id":185958903
+        }
+    ],
+    "wof:id":185958903,
+    "wof:lastmodified":1449007878,
+    "wof:name":"Pocatello Police-Training Ofc",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "department"
+    ]
+},
+  "bbox": [-112.449301,42.874477,-112.449301,42.874477],
+  "geometry": {"coordinates":[-112.449301,42.874477],"type":"Point"}
+}

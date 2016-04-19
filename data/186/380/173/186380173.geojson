@@ -1,0 +1,66 @@
+{
+  "id": 186380173,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-116.218318,43.604482,-116.218318,43.604482",
+    "geom:latitude":43.604482,
+    "geom:longitude":-116.218318,
+    "iso:country":"US",
+    "sg:address":"3130 Crescent Rim Dr",
+    "sg:city":"Boise",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Food",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 345 3459",
+    "sg:postcode":"83706",
+    "sg:province":"ID",
+    "sg:tags":[
+        "mfg"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85937923,
+        102086087,
+        85876325
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6EMK0skDmXVLQGop7ftcx2_43.604482_-116.218318@1294099250"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"53296a5138323c537bbee9af07a4bf22",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086087,
+            "locality_id":85937923,
+            "neighbourhood_id":85876325,
+            "region_id":85688657,
+            "venue_id":186380173
+        }
+    ],
+    "wof:id":186380173,
+    "wof:lastmodified":1449051617,
+    "wof:name":"Little Spuds From Idaho",
+    "wof:parent_id":85876325,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mfg"
+    ]
+},
+  "bbox": [-116.218318,43.604482,-116.218318,43.604482],
+  "geometry": {"coordinates":[-116.218318,43.604482],"type":"Point"}
+}

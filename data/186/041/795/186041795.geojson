@@ -1,0 +1,76 @@
+{
+  "id": 186041795,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-116.786595,47.711,-116.786595,47.711",
+    "geom:latitude":47.711,
+    "geom:longitude":-116.786595,
+    "iso:country":"US",
+    "sg:address":"3645 N Government Way",
+    "sg:city":"Coeur D Alene",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 765 3431",
+    "sg:postcode":"83815",
+    "sg:province":"ID",
+    "sg:tags":[
+        "transmission"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85938163,
+        102086085,
+        85806325,
+        85821457
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2ADbJ7J5WtXKI3q4weYkAP_47.711000_-116.786595@1294099250"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"0fc3da8551a8ba4c9a9321d337eae31f",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086085,
+            "locality_id":85938163,
+            "neighbourhood_id":85806325,
+            "region_id":85688657,
+            "venue_id":186041795
+        },
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086085,
+            "locality_id":-1,
+            "neighbourhood_id":85821457,
+            "region_id":85688657,
+            "venue_id":186041795
+        }
+    ],
+    "wof:id":186041795,
+    "wof:lastmodified":1449051356,
+    "wof:name":"Lake City Transmission",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "transmission"
+    ]
+},
+  "bbox": [-116.786595,47.711,-116.786595,47.711],
+  "geometry": {"coordinates":[-116.786595,47.711],"type":"Point"}
+}

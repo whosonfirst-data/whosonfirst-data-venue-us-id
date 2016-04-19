@@ -1,0 +1,77 @@
+{
+  "id": 186277061,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-116.490903,43.605041,-116.490903,43.605041",
+    "geom:latitude":43.605041,
+    "geom:longitude":-116.490903,
+    "iso:country":"US",
+    "sg:address":"4912 E Franklin Rd",
+    "sg:city":"Nampa",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Food",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Shopping",
+            "subcategory":"Gifts & Souvenirs",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 463 6620",
+    "sg:postcode":"83687",
+    "sg:province":"ID",
+    "sg:tags":[
+        "creamery",
+        "butter",
+        "product",
+        "dairy"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85938009,
+        102085081,
+        85827787
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6F2V2dIN0zUauFQAh8zubt_43.605041_-116.490903@1294099250"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"f8955f461d665b0485924d5a13ef9a4b",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085081,
+            "locality_id":85938009,
+            "neighbourhood_id":85827787,
+            "region_id":85688657,
+            "venue_id":186277061
+        }
+    ],
+    "wof:id":186277061,
+    "wof:lastmodified":1449050554,
+    "wof:name":"Swiss Village Cheese Cafe",
+    "wof:parent_id":85827787,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "creamery",
+        "butter",
+        "product",
+        "dairy"
+    ]
+},
+  "bbox": [-116.490903,43.605041,-116.490903,43.605041],
+  "geometry": {"coordinates":[-116.490903,43.605041],"type":"Point"}
+}

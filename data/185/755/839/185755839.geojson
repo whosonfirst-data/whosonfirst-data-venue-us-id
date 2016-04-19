@@ -1,0 +1,67 @@
+{
+  "id": 185755839,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-112.354542,43.193163,-112.354542,43.193163",
+    "geom:latitude":43.193163,
+    "geom:longitude":-112.354542,
+    "iso:country":"US",
+    "sg:address":"865 W Bridge St",
+    "sg:city":"Blackfoot",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Car Wash",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 785 7133",
+    "sg:postcode":"83221",
+    "sg:province":"ID",
+    "sg:tags":[
+        "polishing",
+        "washing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85938001,
+        102086105
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2aX1kvvcwk68k3J6WHywwm_43.193163_-112.354542@1294099250"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"763d706bfb5a8d165ebc8d4aae9802a4",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086105,
+            "locality_id":85938001,
+            "neighbourhood_id":-1,
+            "region_id":85688657,
+            "venue_id":185755839
+        }
+    ],
+    "wof:id":185755839,
+    "wof:lastmodified":1449007064,
+    "wof:name":"Super Wash",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "polishing",
+        "washing"
+    ]
+},
+  "bbox": [-112.354542,43.193163,-112.354542,43.193163],
+  "geometry": {"coordinates":[-112.354542,43.193163],"type":"Point"}
+}

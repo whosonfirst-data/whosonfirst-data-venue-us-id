@@ -1,0 +1,68 @@
+{
+  "id": 186210073,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-116.401756,43.579659,-116.401756,43.579659",
+    "geom:latitude":43.579659,
+    "geom:longitude":-116.401756,
+    "iso:country":"US",
+    "sg:address":"2769 S Denali Pl",
+    "sg:city":"Meridian",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 898 0689",
+    "sg:postcode":"83642",
+    "sg:province":"ID",
+    "sg:tags":[
+        "home",
+        "builder"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85937915,
+        102086087,
+        85805083
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1cN3NczaAYpFZIHLPyTHAe_43.579659_-116.401756@1294099250"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"a77433ef3685ac2d73e4b12dc783329d",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086087,
+            "locality_id":85937915,
+            "neighbourhood_id":85805083,
+            "region_id":85688657,
+            "venue_id":186210073
+        }
+    ],
+    "wof:id":186210073,
+    "wof:lastmodified":1449051299,
+    "wof:name":"FMCI Inc",
+    "wof:parent_id":85805083,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "home",
+        "builder"
+    ]
+},
+  "bbox": [-116.401756,43.579659,-116.401756,43.579659],
+  "geometry": {"coordinates":[-116.401756,43.579659],"type":"Point"}
+}

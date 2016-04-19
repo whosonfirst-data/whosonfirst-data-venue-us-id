@@ -1,0 +1,71 @@
+{
+  "id": 185634543,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-116.795401,47.715379,-116.795401,47.715379",
+    "geom:latitude":47.715379,
+    "geom:longitude":-116.795401,
+    "iso:country":"US",
+    "sg:address":"560 W Kathleen Ave",
+    "sg:city":"Coeur D Alene",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 765 0271",
+    "sg:postcode":"83815",
+    "sg:province":"ID",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85938163,
+        102086085,
+        85806325,
+        85821457
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2XW0yoXnGshY0FoTWcWj9K_47.715379_-116.795401@1294099250"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"681610fbdcb03b0fbbe3ed0f93b5e80b",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086085,
+            "locality_id":85938163,
+            "neighbourhood_id":85806325,
+            "region_id":85688657,
+            "venue_id":185634543
+        },
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086085,
+            "locality_id":-1,
+            "neighbourhood_id":85821457,
+            "region_id":85688657,
+            "venue_id":185634543
+        }
+    ],
+    "wof:id":185634543,
+    "wof:lastmodified":1449007387,
+    "wof:name":"Northwest Beauty Salon",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-116.795401,47.715379,-116.795401,47.715379],
+  "geometry": {"coordinates":[-116.795401,47.715379],"type":"Point"}
+}

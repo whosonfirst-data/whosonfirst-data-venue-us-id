@@ -1,0 +1,67 @@
+{
+  "id": 169759587,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-116.513535,48.309175,-116.513535,48.309175",
+    "geom:latitude":48.309175,
+    "geom:longitude":-116.513535,
+    "iso:country":"US",
+    "sg:address":"31829 Hwy 200",
+    "sg:city":"Kootenai",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 255 2039",
+    "sg:postcode":"83840",
+    "sg:province":"ID",
+    "sg:tags":[
+        "commercial",
+        "storage"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85937981,
+        102085145
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0A7WtdtYGuilPjv0V8Iqvg_48.309175_-116.513535@1294099250"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"fd702c5c6ef257410eea6ba0fc9c3ea1",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085145,
+            "locality_id":85937981,
+            "neighbourhood_id":-1,
+            "region_id":85688657,
+            "venue_id":169759587
+        }
+    ],
+    "wof:id":169759587,
+    "wof:lastmodified":1449036017,
+    "wof:name":"Kootenai Mini Storage",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "commercial",
+        "storage"
+    ]
+},
+  "bbox": [-116.513535,48.309175,-116.513535,48.309175],
+  "geometry": {"coordinates":[-116.513535,48.309175],"type":"Point"}
+}

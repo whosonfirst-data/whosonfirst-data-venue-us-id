@@ -1,0 +1,68 @@
+{
+  "id": 186444217,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-116.287386,43.619387,-116.287386,43.619387",
+    "geom:latitude":43.619387,
+    "geom:longitude":-116.287386,
+    "iso:country":"US",
+    "sg:address":"8511 Fairview Ave",
+    "sg:city":"Boise",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 375 0940",
+    "sg:postcode":"83704",
+    "sg:province":"ID",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85937923,
+        102086087,
+        85841319
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5ttUa4vTw2pDXHNhxqsG7V_43.619387_-116.287386@1294099250"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"926eeac8548750e8abc24533725f96b4",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086087,
+            "locality_id":85937923,
+            "neighbourhood_id":85841319,
+            "region_id":85688657,
+            "venue_id":186444217
+        }
+    ],
+    "wof:id":186444217,
+    "wof:lastmodified":1449052652,
+    "wof:name":"Al's Car Care Inc",
+    "wof:parent_id":85841319,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [-116.287386,43.619387,-116.287386,43.619387],
+  "geometry": {"coordinates":[-116.287386,43.619387],"type":"Point"}
+}

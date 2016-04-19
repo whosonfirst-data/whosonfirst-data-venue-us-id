@@ -1,0 +1,66 @@
+{
+  "id": 169672027,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-116.302771,43.639721,-116.302771,43.639721",
+    "geom:latitude":43.639721,
+    "geom:longitude":-116.302771,
+    "iso:country":"US",
+    "sg:address":"9663 Gurdon Dr",
+    "sg:city":"Boise",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Testing Lab",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 376 0070",
+    "sg:postcode":"83704",
+    "sg:province":"ID",
+    "sg:tags":[
+        "calibration"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85937923,
+        102086087,
+        85876357
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_35hV1ekMPIEGBJHMmWO8uZ_43.639721_-116.302771@1294099250"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"12d577514ecd1551bf67828aaee7462b",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086087,
+            "locality_id":85937923,
+            "neighbourhood_id":85876357,
+            "region_id":85688657,
+            "venue_id":169672027
+        }
+    ],
+    "wof:id":169672027,
+    "wof:lastmodified":1449032888,
+    "wof:name":"B & V Tank Calibration",
+    "wof:parent_id":85876357,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "calibration"
+    ]
+},
+  "bbox": [-116.302771,43.639721,-116.302771,43.639721],
+  "geometry": {"coordinates":[-116.302771,43.639721],"type":"Point"}
+}

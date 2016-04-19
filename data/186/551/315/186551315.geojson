@@ -1,0 +1,70 @@
+{
+  "id": 186551315,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-116.540758,43.531941,-116.540758,43.531941",
+    "geom:latitude":43.531941,
+    "geom:longitude":-116.540758,
+    "iso:country":"US",
+    "sg:address":"2518 E Locust Ln",
+    "sg:city":"Nampa",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 467 1029",
+    "sg:postcode":"83686",
+    "sg:province":"ID",
+    "sg:tags":[
+        "scooter",
+        "motorcycle",
+        "motor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85938009,
+        102085081,
+        85827787
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_53jm1DiXHPtNvoRmo2rqyX_43.531941_-116.540758@1294099250"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"845617ca7d0acc188f0b25c5760965ae",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085081,
+            "locality_id":85938009,
+            "neighbourhood_id":85827787,
+            "region_id":85688657,
+            "venue_id":186551315
+        }
+    ],
+    "wof:id":186551315,
+    "wof:lastmodified":1449050946,
+    "wof:name":"Ron's Motorcycle Repair",
+    "wof:parent_id":85827787,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "scooter",
+        "motorcycle",
+        "motor"
+    ]
+},
+  "bbox": [-116.540758,43.531941,-116.540758,43.531941],
+  "geometry": {"coordinates":[-116.540758,43.531941],"type":"Point"}
+}

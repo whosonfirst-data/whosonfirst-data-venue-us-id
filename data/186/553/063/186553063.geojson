@@ -1,0 +1,66 @@
+{
+  "id": 186553063,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-116.599585,43.603438,-116.599585,43.603438",
+    "geom:latitude":43.603438,
+    "geom:longitude":-116.599585,
+    "iso:country":"US",
+    "sg:address":"1528 Caldwell Blvd",
+    "sg:city":"Nampa",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 442 5397",
+    "sg:postcode":"83651",
+    "sg:province":"ID",
+    "sg:tags":[
+        "grocer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85938009,
+        102085081,
+        85827787
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2eW3WjbRAq6axPF6KgRN37_43.603438_-116.599585@1294099250"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"9ca6b0b39bd1461e0686961de7cc81ce",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085081,
+            "locality_id":85938009,
+            "neighbourhood_id":85827787,
+            "region_id":85688657,
+            "venue_id":186553063
+        }
+    ],
+    "wof:id":186553063,
+    "wof:lastmodified":1449050268,
+    "wof:name":"Grocery Outlet Inc",
+    "wof:parent_id":85827787,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "grocer"
+    ]
+},
+  "bbox": [-116.599585,43.603438,-116.599585,43.603438],
+  "geometry": {"coordinates":[-116.599585,43.603438],"type":"Point"}
+}

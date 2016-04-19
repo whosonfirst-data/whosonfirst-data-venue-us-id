@@ -1,0 +1,66 @@
+{
+  "id": 320543509,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-116.317304,43.609903,-116.317304,43.609903",
+    "geom:latitude":43.609903,
+    "geom:longitude":-116.317304,
+    "iso:country":"US",
+    "sg:address":"10830 W Executive Dr",
+    "sg:city":"Boise",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 685 0707",
+    "sg:postcode":"83713",
+    "sg:province":"ID",
+    "sg:tags":[
+        "truck"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85937923,
+        102086087,
+        85876309
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3YpU0RLq1LY8sQcwf6spRt_43.609903_-116.317304@1303263095"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"5fda7ddfc50cde545a95508ddeb92020",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086087,
+            "locality_id":85937923,
+            "neighbourhood_id":85876309,
+            "region_id":85688657,
+            "venue_id":320543509
+        }
+    ],
+    "wof:id":320543509,
+    "wof:lastmodified":1449011987,
+    "wof:name":"Boise Truck Service",
+    "wof:parent_id":85876309,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "truck"
+    ]
+},
+  "bbox": [-116.317304,43.609903,-116.317304,43.609903],
+  "geometry": {"coordinates":[-116.317304,43.609903],"type":"Point"}
+}

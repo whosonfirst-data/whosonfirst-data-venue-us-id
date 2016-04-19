@@ -1,0 +1,73 @@
+{
+  "id": 320532533,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-116.934288,43.617829,-116.934288,43.617829",
+    "geom:latitude":43.617829,
+    "geom:longitude":-116.934288,
+    "iso:country":"US",
+    "sg:address":"7 N Main St",
+    "sg:city":"Homedale",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Business Services",
+            "type":"Services"
+        },
+        {
+            "category":"Government",
+            "subcategory":"Post Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 337 3105",
+    "sg:postcode":"83628",
+    "sg:province":"ID",
+    "sg:tags":[
+        "mail",
+        "shipping"
+    ],
+    "sg:website":"http://www.usps.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85938065,
+        102086017
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3apQBuftP7B6MhXVy4EO2V_43.617829_-116.934288@1303263095"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"ddf34b480f0aff0df1a5ae8f88979416",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086017,
+            "locality_id":85938065,
+            "neighbourhood_id":-1,
+            "region_id":85688657,
+            "venue_id":320532533
+        }
+    ],
+    "wof:id":320532533,
+    "wof:lastmodified":1449012526,
+    "wof:name":"USPS - United States Post Office",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mail",
+        "shipping"
+    ]
+},
+  "bbox": [-116.934288,43.617829,-116.934288,43.617829],
+  "geometry": {"coordinates":[-116.934288,43.617829],"type":"Point"}
+}

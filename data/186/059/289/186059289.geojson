@@ -1,0 +1,66 @@
+{
+  "id": 186059289,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-116.567275,43.567381,-116.567275,43.567381",
+    "geom:latitude":43.567381,
+    "geom:longitude":-116.567275,
+    "iso:country":"US",
+    "sg:address":"223 S Juniper St",
+    "sg:city":"Nampa",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 466 2185",
+    "sg:postcode":"83686",
+    "sg:province":"ID",
+    "sg:tags":[
+        "delivery"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85938009,
+        102085081,
+        85827787
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1DaiEvzGpM5uVX27RfUYvO_43.567381_-116.567275@1294099250"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"f58d4e79e9e0f430c3f498492b604d7e",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085081,
+            "locality_id":85938009,
+            "neighbourhood_id":85827787,
+            "region_id":85688657,
+            "venue_id":186059289
+        }
+    ],
+    "wof:id":186059289,
+    "wof:lastmodified":1449051119,
+    "wof:name":"Jim's Courier Svc",
+    "wof:parent_id":85827787,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "delivery"
+    ]
+},
+  "bbox": [-116.567275,43.567381,-116.567275,43.567381],
+  "geometry": {"coordinates":[-116.567275,43.567381],"type":"Point"}
+}

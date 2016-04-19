@@ -1,0 +1,65 @@
+{
+  "id": 185909771,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-111.111426,43.61536,-111.111426,43.61536",
+    "geom:latitude":43.61536,
+    "geom:longitude":-111.111426,
+    "iso:country":"US",
+    "sg:address":"741 S 50 W",
+    "sg:city":"Victor",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 787 2323",
+    "sg:postcode":"83455",
+    "sg:province":"ID",
+    "sg:tags":[
+        "dentist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85937893,
+        102086021
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3NksuvQZQUMFC5UZKjdDAA_43.615360_-111.111426@1294099250"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"31973ececf4b1211a65685189c75075c",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086021,
+            "locality_id":85937893,
+            "neighbourhood_id":-1,
+            "region_id":85688657,
+            "venue_id":185909771
+        }
+    ],
+    "wof:id":185909771,
+    "wof:lastmodified":1449007819,
+    "wof:name":"Grand Teton Dental Care",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dentist"
+    ]
+},
+  "bbox": [-111.111426,43.61536,-111.111426,43.61536],
+  "geometry": {"coordinates":[-111.111426,43.61536],"type":"Point"}
+}

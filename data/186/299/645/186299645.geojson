@@ -1,0 +1,67 @@
+{
+  "id": 186299645,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-116.940322,47.715194,-116.940322,47.715194",
+    "geom:latitude":47.715194,
+    "geom:longitude":-116.940322,
+    "iso:country":"US",
+    "sg:address":"605 E 8th Ave",
+    "sg:city":"Post Falls",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Medical Equipment & Supplies",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 457 1460",
+    "sg:postcode":"83854",
+    "sg:province":"ID",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        102086085,
+        85833263
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3nQDSYJU12HdUPN9BGx5Np_47.715194_-116.940322@1294099250"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"6efdf8c9aa6476217e3a0c1ff12276c6",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086085,
+            "locality_id":-1,
+            "neighbourhood_id":85833263,
+            "region_id":85688657,
+            "venue_id":186299645
+        }
+    ],
+    "wof:id":186299645,
+    "wof:lastmodified":1449051076,
+    "wof:name":"Biomet",
+    "wof:parent_id":85833263,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [-116.940322,47.715194,-116.940322,47.715194],
+  "geometry": {"coordinates":[-116.940322,47.715194],"type":"Point"}
+}

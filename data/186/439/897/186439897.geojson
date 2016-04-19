@@ -1,0 +1,81 @@
+{
+  "id": 186439897,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-116.790908,47.727596,-116.790908,47.727596",
+    "geom:latitude":47.727596,
+    "geom:longitude":-116.790908,
+    "iso:country":"US",
+    "sg:address":"6160 N Sunshine St",
+    "sg:city":"Coeur D Alene",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Business Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 772 8595",
+    "sg:postcode":"83815",
+    "sg:province":"ID",
+    "sg:tags":[
+        "convention",
+        "meeting",
+        "facility"
+    ],
+    "sg:website":"www.silverlakemotel.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85938163,
+        102086085,
+        85806325,
+        85821457
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4tOF11xsMzymr8xS16rd6w_47.727596_-116.790908@1294099250"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"b57a09c7718598766f735bdb754030fd",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086085,
+            "locality_id":85938163,
+            "neighbourhood_id":85806325,
+            "region_id":85688657,
+            "venue_id":186439897
+        },
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086085,
+            "locality_id":-1,
+            "neighbourhood_id":85821457,
+            "region_id":85688657,
+            "venue_id":186439897
+        }
+    ],
+    "wof:id":186439897,
+    "wof:lastmodified":1449051129,
+    "wof:name":"Silver Lake Motel Convention",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "convention",
+        "meeting",
+        "facility"
+    ]
+},
+  "bbox": [-116.790908,47.727596,-116.790908,47.727596],
+  "geometry": {"coordinates":[-116.790908,47.727596],"type":"Point"}
+}

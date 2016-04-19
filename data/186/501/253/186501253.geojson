@@ -1,0 +1,67 @@
+{
+  "id": 186501253,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-116.222804,43.571079,-116.222804,43.571079",
+    "geom:latitude":43.571079,
+    "geom:longitude":-116.222804,
+    "iso:country":"US",
+    "sg:address":"3201 Airport Way",
+    "sg:city":"Boise",
+    "sg:classifiers":[
+        {
+            "category":"Bus Charters",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 342 7750",
+    "sg:postcode":"83705",
+    "sg:province":"ID",
+    "sg:tags":[
+        "rental"
+    ],
+    "sg:website":"www.sunvalleyexpress.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85937923,
+        102086087,
+        85876337
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1745uisilsu8XRFiWFBq0n_43.571079_-116.222804@1294099250"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"7c7d94490bd0a205a8508d9f9224a8f6",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086087,
+            "locality_id":85937923,
+            "neighbourhood_id":85876337,
+            "region_id":85688657,
+            "venue_id":186501253
+        }
+    ],
+    "wof:id":186501253,
+    "wof:lastmodified":1449053051,
+    "wof:name":"Sun Valley Express",
+    "wof:parent_id":85876337,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "rental"
+    ]
+},
+  "bbox": [-116.222804,43.571079,-116.222804,43.571079],
+  "geometry": {"coordinates":[-116.222804,43.571079],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 320533597,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-116.356456,43.597912,-116.356456,43.597912",
+    "geom:latitude":43.597912,
+    "geom:longitude":-116.356456,
+    "iso:country":"US",
+    "sg:address":"3090 E Gentry Way",
+    "sg:city":"Meridian",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Health Practitioner",
+            "type":"Services"
+        },
+        {
+            "category":"Health Services",
+            "subcategory":"Hospice",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 389 2276",
+    "sg:postcode":"83642",
+    "sg:province":"ID",
+    "sg:tags":[
+        "home"
+    ],
+    "sg:website":"http://www.heartsforhospice.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85937915,
+        102086087,
+        85805083
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6SyYfrWmz4my2Lii5HnjFc_43.597912_-116.356456@1303263095"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"5c2a1204672043479059a83c8a5a92c4",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086087,
+            "locality_id":85937915,
+            "neighbourhood_id":85805083,
+            "region_id":85688657,
+            "venue_id":320533597
+        }
+    ],
+    "wof:id":320533597,
+    "wof:lastmodified":1449011219,
+    "wof:name":"Hearts For Hospice",
+    "wof:parent_id":85805083,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "home"
+    ]
+},
+  "bbox": [-116.356456,43.597912,-116.356456,43.597912],
+  "geometry": {"coordinates":[-116.356456,43.597912],"type":"Point"}
+}

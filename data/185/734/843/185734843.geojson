@@ -1,0 +1,67 @@
+{
+  "id": 185734843,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-116.119543,45.927116,-116.119543,45.927116",
+    "geom:latitude":45.927116,
+    "geom:longitude":-116.119543,
+    "iso:country":"US",
+    "sg:address":"110 NW 2nd St",
+    "sg:city":"Grangeville",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 983 2626",
+    "sg:postcode":"83530",
+    "sg:province":"ID",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85937869,
+        102085053
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5r7VkppvhMPw83Jqsx8Hm9_45.927116_-116.119543@1294099250"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"897f5952b12fe9ce635b923970b0aee6",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085053,
+            "locality_id":85937869,
+            "neighbourhood_id":-1,
+            "region_id":85688657,
+            "venue_id":185734843
+        }
+    ],
+    "wof:id":185734843,
+    "wof:lastmodified":1449008017,
+    "wof:name":"Alpine Motors",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [-116.119543,45.927116,-116.119543,45.927116],
+  "geometry": {"coordinates":[-116.119543,45.927116],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 169864999,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-116.244776,43.611689,-116.244776,43.611689",
+    "geom:latitude":43.611689,
+    "geom:longitude":-116.244776,
+    "iso:country":"US",
+    "sg:address":"5120 Emerald St",
+    "sg:city":"Boise",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Scrap",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 375 2131",
+    "sg:postcode":"83706",
+    "sg:province":"ID",
+    "sg:tags":[
+        "recycling",
+        "center"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85937923,
+        102086087,
+        85876311
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4cD9RbORuj5xkvOQaCuA0N_43.611689_-116.244776@1294099250"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"ec8d60497f5116228cbe867040ca2bd4",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086087,
+            "locality_id":85937923,
+            "neighbourhood_id":85876311,
+            "region_id":85688657,
+            "venue_id":169864999
+        }
+    ],
+    "wof:id":169864999,
+    "wof:lastmodified":1449036011,
+    "wof:name":"Pacific Recycling",
+    "wof:parent_id":85876311,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "recycling",
+        "center"
+    ]
+},
+  "bbox": [-116.244776,43.611689,-116.244776,43.611689],
+  "geometry": {"coordinates":[-116.244776,43.611689],"type":"Point"}
+}

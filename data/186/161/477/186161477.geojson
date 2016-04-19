@@ -1,0 +1,68 @@
+{
+  "id": 186161477,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-116.17342,43.587749,-116.17342,43.587749",
+    "geom:latitude":43.587749,
+    "geom:longitude":-116.17342,
+    "iso:country":"US",
+    "sg:address":"1175 E Parkcenter Blvd",
+    "sg:city":"Boise",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 331 1888",
+    "sg:postcode":"83706",
+    "sg:province":"ID",
+    "sg:tags":[
+        "commercial",
+        "storage"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85937923,
+        102086087,
+        85876305
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_74J5J4KM74heEY89YnKaLP_43.587749_-116.173420@1294099250"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"f5ed16f47730594ed343536347708c26",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086087,
+            "locality_id":85937923,
+            "neighbourhood_id":85876305,
+            "region_id":85688657,
+            "venue_id":186161477
+        }
+    ],
+    "wof:id":186161477,
+    "wof:lastmodified":1449051425,
+    "wof:name":"Stor-It Rental Storages",
+    "wof:parent_id":85876305,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "commercial",
+        "storage"
+    ]
+},
+  "bbox": [-116.17342,43.587749,-116.17342,43.587749],
+  "geometry": {"coordinates":[-116.17342,43.587749],"type":"Point"}
+}

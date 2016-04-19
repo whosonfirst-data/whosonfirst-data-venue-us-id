@@ -1,0 +1,66 @@
+{
+  "id": 186262049,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-116.584504,43.59738,-116.584504,43.59738",
+    "geom:latitude":43.59738,
+    "geom:longitude":-116.584504,
+    "iso:country":"US",
+    "sg:address":"300 W Railroad St",
+    "sg:city":"Nampa",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Fire Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 468 5758",
+    "sg:postcode":"83687",
+    "sg:province":"ID",
+    "sg:tags":[
+        "department"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85938009,
+        102085081,
+        85827787
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2PcimQkbmCXpk3PFsAIhzH_43.597380_-116.584504@1294099250"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"bcd4d3aa94d9fafe2d59e027ebf05140",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085081,
+            "locality_id":85938009,
+            "neighbourhood_id":85827787,
+            "region_id":85688657,
+            "venue_id":186262049
+        }
+    ],
+    "wof:id":186262049,
+    "wof:lastmodified":1449052026,
+    "wof:name":"Nampa Fire Training Facility",
+    "wof:parent_id":85827787,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "department"
+    ]
+},
+  "bbox": [-116.584504,43.59738,-116.584504,43.59738],
+  "geometry": {"coordinates":[-116.584504,43.59738],"type":"Point"}
+}

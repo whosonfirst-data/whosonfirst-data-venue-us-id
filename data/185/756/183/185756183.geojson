@@ -1,0 +1,65 @@
+{
+  "id": 185756183,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-114.136804,42.596153,-114.136804,42.596153",
+    "geom:latitude":42.596153,
+    "geom:longitude":-114.136804,
+    "iso:country":"US",
+    "sg:address":"246 Main St",
+    "sg:city":"Hazelton",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Police Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 324 1911",
+    "sg:postcode":"83335",
+    "sg:province":"ID",
+    "sg:tags":[
+        "department"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85937785,
+        102086065
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4BXZqhQPVvqXF29Lrz0WRm_42.596153_-114.136804@1294099250"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"ecd27ac5b4a03cc191da2099e9151522",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086065,
+            "locality_id":85937785,
+            "neighbourhood_id":-1,
+            "region_id":85688657,
+            "venue_id":185756183
+        }
+    ],
+    "wof:id":185756183,
+    "wof:lastmodified":1449007574,
+    "wof:name":"Hazelton Police Dept",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "department"
+    ]
+},
+  "bbox": [-114.136804,42.596153,-114.136804,42.596153],
+  "geometry": {"coordinates":[-114.136804,42.596153],"type":"Point"}
+}

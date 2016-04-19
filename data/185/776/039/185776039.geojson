@@ -1,0 +1,68 @@
+{
+  "id": 185776039,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-116.247708,43.626634,-116.247708,43.626634",
+    "geom:latitude":43.626634,
+    "geom:longitude":-116.247708,
+    "iso:country":"US",
+    "sg:address":"214 W 39th St",
+    "sg:city":"Boise",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 336 8404",
+    "sg:postcode":"83714",
+    "sg:province":"ID",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85937923,
+        102086087,
+        85876301
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0vR5A6o3xieZ9iIoRVD76w_43.626634_-116.247708@1294099250"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"13d95576e64d566249d4e83217a5b9a9",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086087,
+            "locality_id":85937923,
+            "neighbourhood_id":85876301,
+            "region_id":85688657,
+            "venue_id":185776039
+        }
+    ],
+    "wof:id":185776039,
+    "wof:lastmodified":1449006971,
+    "wof:name":"Dr Floyd's Garage",
+    "wof:parent_id":85876301,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [-116.247708,43.626634,-116.247708,43.626634],
+  "geometry": {"coordinates":[-116.247708,43.626634],"type":"Point"}
+}

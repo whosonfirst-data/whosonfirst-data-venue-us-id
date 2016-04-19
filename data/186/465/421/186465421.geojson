@@ -1,0 +1,66 @@
+{
+  "id": 186465421,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-116.391152,43.611107,-116.391152,43.611107",
+    "geom:latitude":43.611107,
+    "geom:longitude":-116.391152,
+    "iso:country":"US",
+    "sg:address":"140 E Idaho Ave",
+    "sg:city":"Meridian",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Laundry & Dry Cleaning",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 888 4425",
+    "sg:postcode":"83642",
+    "sg:province":"ID",
+    "sg:tags":[
+        "cleaners"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85937915,
+        102086087,
+        85805083
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3LrBl7XvJ72BhWrAIrP95K_43.611107_-116.391152@1294099250"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"bc428bf25ccfd784e846299546a35bc8",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086087,
+            "locality_id":85937915,
+            "neighbourhood_id":85805083,
+            "region_id":85688657,
+            "venue_id":186465421
+        }
+    ],
+    "wof:id":186465421,
+    "wof:lastmodified":1449052173,
+    "wof:name":"Elite Cleaners",
+    "wof:parent_id":85805083,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cleaners"
+    ]
+},
+  "bbox": [-116.391152,43.611107,-116.391152,43.611107],
+  "geometry": {"coordinates":[-116.391152,43.611107],"type":"Point"}
+}

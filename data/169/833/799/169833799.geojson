@@ -1,0 +1,68 @@
+{
+  "id": 169833799,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-116.222486,43.573552,-116.222486,43.573552",
+    "geom:latitude":43.573552,
+    "geom:longitude":-116.222486,
+    "iso:country":"US",
+    "sg:address":"3232 Elder St",
+    "sg:city":"Boise",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 334 5747",
+    "sg:postcode":"83705",
+    "sg:province":"ID",
+    "sg:tags":[
+        "state",
+        "resource"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85937923,
+        102086087,
+        85876337
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0DLTu290B6QmofNsS5QvoZ_43.573552_-116.222486@1294099250"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"03e25cbd1a3dc7df81f86a5ebf84f357",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086087,
+            "locality_id":85937923,
+            "neighbourhood_id":85876337,
+            "region_id":85688657,
+            "venue_id":169833799
+        }
+    ],
+    "wof:id":169833799,
+    "wof:lastmodified":1449033107,
+    "wof:name":"Medicaid Administrative Div",
+    "wof:parent_id":85876337,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "state",
+        "resource"
+    ]
+},
+  "bbox": [-116.222486,43.573552,-116.222486,43.573552],
+  "geometry": {"coordinates":[-116.222486,43.573552],"type":"Point"}
+}

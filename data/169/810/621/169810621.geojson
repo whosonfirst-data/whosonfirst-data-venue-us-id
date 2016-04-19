@@ -1,0 +1,68 @@
+{
+  "id": 169810621,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-116.79421,47.744377,-116.79421,47.744377",
+    "geom:latitude":47.744377,
+    "geom:longitude":-116.79421,
+    "iso:country":"US",
+    "sg:address":"566 W Prairie Ave",
+    "sg:city":"Coeur D Alene",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 772 9110",
+    "sg:postcode":"83815",
+    "sg:province":"ID",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "sg:website":"www.nimcc.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        102086085,
+        85821457
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_78avoODswArzXUnopR1pvU_47.744377_-116.794210@1294099250"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"c17249e60cc4d3a4dfb4e11d2ca2df50",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086085,
+            "locality_id":-1,
+            "neighbourhood_id":85821457,
+            "region_id":85688657,
+            "venue_id":169810621
+        }
+    ],
+    "wof:id":169810621,
+    "wof:lastmodified":1449033646,
+    "wof:name":"North Idaho Medical Care Ctr",
+    "wof:parent_id":85821457,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [-116.79421,47.744377,-116.79421,47.744377],
+  "geometry": {"coordinates":[-116.79421,47.744377],"type":"Point"}
+}

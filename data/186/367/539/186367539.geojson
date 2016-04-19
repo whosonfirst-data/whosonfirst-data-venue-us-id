@@ -1,0 +1,68 @@
+{
+  "id": 186367539,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-116.242178,43.618916,-116.242178,43.618916",
+    "geom:latitude":43.618916,
+    "geom:longitude":-116.242178,
+    "iso:country":"US",
+    "sg:address":"4809 W Fairview Ave",
+    "sg:city":"Boise",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 378 8828",
+    "sg:postcode":"83706",
+    "sg:province":"ID",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85937923,
+        102086087,
+        85876301
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1NSqNs0k68Hn6FREkte8H7_43.618916_-116.242178@1294099250"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"d51747ded7954dbe74c057e4e9c0d45c",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086087,
+            "locality_id":85937923,
+            "neighbourhood_id":85876301,
+            "region_id":85688657,
+            "venue_id":186367539
+        }
+    ],
+    "wof:id":186367539,
+    "wof:lastmodified":1449051957,
+    "wof:name":"Mountain State Medical Group",
+    "wof:parent_id":85876301,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [-116.242178,43.618916,-116.242178,43.618916],
+  "geometry": {"coordinates":[-116.242178,43.618916],"type":"Point"}
+}

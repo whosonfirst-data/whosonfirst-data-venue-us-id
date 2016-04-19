@@ -1,0 +1,69 @@
+{
+  "id": 185798359,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-116.619636,43.706554,-116.619636,43.706554",
+    "geom:latitude":43.706554,
+    "geom:longitude":-116.619636,
+    "iso:country":"US",
+    "sg:address":"209 E Main St",
+    "sg:city":"Middleton",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Animal Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 585 3346",
+    "sg:postcode":"83644",
+    "sg:province":"ID",
+    "sg:tags":[
+        "pet",
+        "grooming",
+        "washing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85938013,
+        102085081
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0nD0jWprB8eiBT5O3AXgDK_43.706554_-116.619636@1294099250"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"fa6deeaf6a84631eb17f44614a131e6a",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085081,
+            "locality_id":85938013,
+            "neighbourhood_id":-1,
+            "region_id":85688657,
+            "venue_id":185798359
+        }
+    ],
+    "wof:id":185798359,
+    "wof:lastmodified":1449006917,
+    "wof:name":"Dog House",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pet",
+        "grooming",
+        "washing"
+    ]
+},
+  "bbox": [-116.619636,43.706554,-116.619636,43.706554],
+  "geometry": {"coordinates":[-116.619636,43.706554],"type":"Point"}
+}

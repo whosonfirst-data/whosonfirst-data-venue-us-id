@@ -1,0 +1,67 @@
+{
+  "id": 186533169,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-116.231364,47.542302,-116.231364,47.542302",
+    "geom:latitude":47.542302,
+    "geom:longitude":-116.231364,
+    "iso:country":"US",
+    "sg:address":"403 N 1st St",
+    "sg:city":"Pinehurst",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 682 2411",
+    "sg:postcode":"83850",
+    "sg:province":"ID",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85937817,
+        102086103
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2jvhvwkA6SfdTpGIkBSsab_47.542302_-116.231364@1294099250"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"d9b95870d452423678ed92dc9b950c75",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086103,
+            "locality_id":85937817,
+            "neighbourhood_id":-1,
+            "region_id":85688657,
+            "venue_id":186533169
+        }
+    ],
+    "wof:id":186533169,
+    "wof:lastmodified":1449050211,
+    "wof:name":"Swan's Auto Repair Inc",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [-116.231364,47.542302,-116.231364,47.542302],
+  "geometry": {"coordinates":[-116.231364,47.542302],"type":"Point"}
+}

@@ -1,0 +1,65 @@
+{
+  "id": 185693725,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-111.686375,43.955657,-111.686375,43.955657",
+    "geom:latitude":43.955657,
+    "geom:longitude":-111.686375,
+    "iso:country":"US",
+    "sg:address":"1075 S Yellowstone Hwy",
+    "sg:city":"St Anthony",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Veterinary Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 624 7218",
+    "sg:postcode":"83445",
+    "sg:province":"ID",
+    "sg:tags":[
+        "veterinarian"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85937757,
+        102085125
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7dsv4QRNayRCpLFyzqrFqP_43.955657_-111.686375@1294099250"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"5bb5838462dfbe685a11f341b4d1d5ef",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085125,
+            "locality_id":85937757,
+            "neighbourhood_id":-1,
+            "region_id":85688657,
+            "venue_id":185693725
+        }
+    ],
+    "wof:id":185693725,
+    "wof:lastmodified":1449006682,
+    "wof:name":"Fremont Veterinary Clinic",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "veterinarian"
+    ]
+},
+  "bbox": [-111.686375,43.955657,-111.686375,43.955657],
+  "geometry": {"coordinates":[-111.686375,43.955657],"type":"Point"}
+}

@@ -1,0 +1,66 @@
+{
+  "id": 185742957,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-116.667135,43.466508,-116.667135,43.466508",
+    "geom:latitude":43.466508,
+    "geom:longitude":-116.667135,
+    "iso:country":"US",
+    "sg:address":"13750 Surrey Ln",
+    "sg:city":"Nampa",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Food",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 467 1200",
+    "sg:postcode":"83686",
+    "sg:province":"ID",
+    "sg:tags":[
+        "winery"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85938009,
+        102085081,
+        85827787
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0ZkLL65r6sNjPzydiw0z11_43.466508_-116.667135@1294099250"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"24fb6a703ad3b9ec54e70803fce3f5c4",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085081,
+            "locality_id":85938009,
+            "neighbourhood_id":85827787,
+            "region_id":85688657,
+            "venue_id":185742957
+        }
+    ],
+    "wof:id":185742957,
+    "wof:lastmodified":1449006709,
+    "wof:name":"Sawtooth Winery",
+    "wof:parent_id":85827787,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "winery"
+    ]
+},
+  "bbox": [-116.667135,43.466508,-116.667135,43.466508],
+  "geometry": {"coordinates":[-116.667135,43.466508],"type":"Point"}
+}

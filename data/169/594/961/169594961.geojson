@@ -1,0 +1,68 @@
+{
+  "id": 169594961,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-116.300263,43.656372,-116.300263,43.656372",
+    "geom:latitude":43.656372,
+    "geom:longitude":-116.300263,
+    "iso:country":"US",
+    "sg:address":"9700 Chinden Blvd",
+    "sg:city":"Boise",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 376 2000",
+    "sg:postcode":"83714",
+    "sg:province":"ID",
+    "sg:tags":[
+        "commercial",
+        "storage"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85937923,
+        102086087,
+        85876357
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5onQGKGO1RFPXsGCb00aee_43.656372_-116.300263@1294099250"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"089f6f05dcfa9e2113646f60aa4abd24",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086087,
+            "locality_id":85937923,
+            "neighbourhood_id":85876357,
+            "region_id":85688657,
+            "venue_id":169594961
+        }
+    ],
+    "wof:id":169594961,
+    "wof:lastmodified":1449033165,
+    "wof:name":"Republic Storage",
+    "wof:parent_id":85876357,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "commercial",
+        "storage"
+    ]
+},
+  "bbox": [-116.300263,43.656372,-116.300263,43.656372],
+  "geometry": {"coordinates":[-116.300263,43.656372],"type":"Point"}
+}

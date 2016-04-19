@@ -1,0 +1,66 @@
+{
+  "id": 169766087,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-116.393614,43.618704,-116.393614,43.618704",
+    "geom:latitude":43.618704,
+    "geom:longitude":-116.393614,
+    "iso:country":"US",
+    "sg:address":"1649 N Meridian Rd",
+    "sg:city":"Meridian",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Bicycles & Sporting Goods",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 888 2806",
+    "sg:postcode":"83642",
+    "sg:province":"ID",
+    "sg:tags":[
+        "repair"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85937923,
+        102086087,
+        85811491
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0YMixbAZYifs1zmgKcJbRo_43.618704_-116.393614@1294099250"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"1e9973fbdd11d2112069a64019eea780",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086087,
+            "locality_id":85937923,
+            "neighbourhood_id":85811491,
+            "region_id":85688657,
+            "venue_id":169766087
+        }
+    ],
+    "wof:id":169766087,
+    "wof:lastmodified":1449032639,
+    "wof:name":"Westby's Bicycles",
+    "wof:parent_id":85811491,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repair"
+    ]
+},
+  "bbox": [-116.393614,43.618704,-116.393614,43.618704],
+  "geometry": {"coordinates":[-116.393614,43.618704],"type":"Point"}
+}

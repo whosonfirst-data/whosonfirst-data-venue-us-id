@@ -1,0 +1,67 @@
+{
+  "id": 186231865,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-116.569462,48.286096,-116.569462,48.286096",
+    "geom:latitude":48.286096,
+    "geom:longitude":-116.569462,
+    "iso:country":"US",
+    "sg:address":"1305 Huckleberry Ave",
+    "sg:city":"Sandpoint",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Clinic",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 265 3587",
+    "sg:postcode":"83864",
+    "sg:province":"ID",
+    "sg:tags":[
+        "specialty",
+        "outpatient"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85937975,
+        102085145
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4gc3LWUChdBiJjyMDzEZnD_48.286096_-116.569462@1294099250"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"f3a9040100ec4a3a4af12b2621cdbb85",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085145,
+            "locality_id":85937975,
+            "neighbourhood_id":-1,
+            "region_id":85688657,
+            "venue_id":186231865
+        }
+    ],
+    "wof:id":186231865,
+    "wof:lastmodified":1449051740,
+    "wof:name":"Alternative Therapies",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "specialty",
+        "outpatient"
+    ]
+},
+  "bbox": [-116.569462,48.286096,-116.569462,48.286096],
+  "geometry": {"coordinates":[-116.569462,48.286096],"type":"Point"}
+}

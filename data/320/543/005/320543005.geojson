@@ -1,0 +1,90 @@
+{
+  "id": 320543005,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-116.271437,43.575615,-116.271437,43.575615",
+    "geom:latitude":43.575615,
+    "geom:longitude":-116.271437,
+    "iso:country":"US",
+    "sg:address":"7200 W Victory Rd",
+    "sg:city":"Boise",
+    "sg:classifiers":[
+        {
+            "category":"Insurance",
+            "subcategory":"Insurance Agent",
+            "type":"Services"
+        },
+        {
+            "category":"Insurance",
+            "subcategory":"Hazard Insurance",
+            "type":"Services"
+        },
+        {
+            "category":"Insurance",
+            "subcategory":"Title Insurance",
+            "type":"Services"
+        },
+        {
+            "category":"Insurance",
+            "subcategory":"Life Insurance",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 367 1900",
+    "sg:postcode":"83709",
+    "sg:province":"ID",
+    "sg:tags":[
+        "business",
+        "auto",
+        "commercial",
+        "homeowner",
+        "motorcycle",
+        "renter"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        102086087,
+        85876321
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5ivwteM5DcG0i0Dvz8V9rf_43.575615_-116.271437@1303263095"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"fc38a03247ea16f8d8dc49522cb4c06d",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086087,
+            "locality_id":-1,
+            "neighbourhood_id":85876321,
+            "region_id":85688657,
+            "venue_id":320543005
+        }
+    ],
+    "wof:id":320543005,
+    "wof:lastmodified":1449011989,
+    "wof:name":"Allstate Insurance Company - Matthew Foley",
+    "wof:parent_id":85876321,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "business",
+        "auto",
+        "commercial",
+        "homeowner",
+        "motorcycle",
+        "renter"
+    ]
+},
+  "bbox": [-116.271437,43.575615,-116.271437,43.575615],
+  "geometry": {"coordinates":[-116.271437,43.575615],"type":"Point"}
+}

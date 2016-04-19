@@ -1,0 +1,65 @@
+{
+  "id": 186236763,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-116.888177,47.707589,-116.888177,47.707589",
+    "geom:latitude":47.707589,
+    "geom:longitude":-116.888177,
+    "iso:country":"US",
+    "sg:address":"4300 E Seltice Way",
+    "sg:city":"Post Falls",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 773 1671",
+    "sg:postcode":"83854",
+    "sg:province":"ID",
+    "sg:tags":[
+        "truck"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        102086085,
+        85821457
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2G4VPwEUo6xL8WdHQnkINF_47.707589_-116.888177@1294099250"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"43ec68477b3800a838148408162d68f0",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086085,
+            "locality_id":-1,
+            "neighbourhood_id":85821457,
+            "region_id":85688657,
+            "venue_id":186236763
+        }
+    ],
+    "wof:id":186236763,
+    "wof:lastmodified":1449050534,
+    "wof:name":"Ross Point Truck Repair",
+    "wof:parent_id":85821457,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "truck"
+    ]
+},
+  "bbox": [-116.888177,47.707589,-116.888177,47.707589],
+  "geometry": {"coordinates":[-116.888177,47.707589],"type":"Point"}
+}

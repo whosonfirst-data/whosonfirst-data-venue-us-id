@@ -1,0 +1,69 @@
+{
+  "id": 186252701,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-112.463572,42.880649,-112.463572,42.880649",
+    "geom:latitude":42.880649,
+    "geom:longitude":-112.463572,
+    "iso:country":"US",
+    "sg:address":"2233 Garrett Way",
+    "sg:city":"Pocatello",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 232 2055",
+    "sg:postcode":"83201",
+    "sg:province":"ID",
+    "sg:tags":[
+        "machine",
+        "automobile",
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85937925,
+        102086113
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4hntu3nOkzfBgeLQmA3iLr_42.880649_-112.463572@1294099250"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"c3876bb3161546598c648ad3eeafa1cd",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086113,
+            "locality_id":85937925,
+            "neighbourhood_id":-1,
+            "region_id":85688657,
+            "venue_id":186252701
+        }
+    ],
+    "wof:id":186252701,
+    "wof:lastmodified":1449050661,
+    "wof:name":"Norm's Service Parts Co",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "machine",
+        "automobile",
+        "shop"
+    ]
+},
+  "bbox": [-112.463572,42.880649,-112.463572,42.880649],
+  "geometry": {"coordinates":[-112.463572,42.880649],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 185967807,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-116.271765,43.629249,-116.271765,43.629249",
+    "geom:latitude":43.629249,
+    "geom:longitude":-116.271765,
+    "iso:country":"US",
+    "sg:address":"2626 Eldorado St",
+    "sg:city":"Boise",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Water",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 375 0931",
+    "sg:postcode":"83704",
+    "sg:province":"ID",
+    "sg:tags":[
+        "company",
+        "sewage"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85937923,
+        102086087,
+        85841319
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_11C1hEgbysWwqzxQuZuHt0_43.629249_-116.271765@1294099250"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"79e86f0731e6e7138b5d83d3acf09413",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086087,
+            "locality_id":85937923,
+            "neighbourhood_id":85841319,
+            "region_id":85688657,
+            "venue_id":185967807
+        }
+    ],
+    "wof:id":185967807,
+    "wof:lastmodified":1449008099,
+    "wof:name":"Capitol Water Corp",
+    "wof:parent_id":85841319,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "company",
+        "sewage"
+    ]
+},
+  "bbox": [-116.271765,43.629249,-116.271765,43.629249],
+  "geometry": {"coordinates":[-116.271765,43.629249],"type":"Point"}
+}

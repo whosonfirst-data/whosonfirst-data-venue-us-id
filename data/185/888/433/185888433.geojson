@@ -1,0 +1,67 @@
+{
+  "id": 185888433,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-112.045809,43.510533,-112.045809,43.510533",
+    "geom:latitude":43.510533,
+    "geom:longitude":-112.045809,
+    "iso:country":"US",
+    "sg:address":"1270 Elmore Ave",
+    "sg:city":"Idaho Falls",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 522 2235",
+    "sg:postcode":"83402",
+    "sg:province":"ID",
+    "sg:tags":[
+        "lock",
+        "locksmith"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85937963,
+        102085163
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_60Pw4gJD3OUH7Zq22pKFSL_43.510533_-112.045809@1294099250"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"e1b3a87993a0ee0c7b16b4a7d8948d7d",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085163,
+            "locality_id":85937963,
+            "neighbourhood_id":-1,
+            "region_id":85688657,
+            "venue_id":185888433
+        }
+    ],
+    "wof:id":185888433,
+    "wof:lastmodified":1449007611,
+    "wof:name":"A-Bonded Locksmith Svc",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "lock",
+        "locksmith"
+    ]
+},
+  "bbox": [-112.045809,43.510533,-112.045809,43.510533],
+  "geometry": {"coordinates":[-112.045809,43.510533],"type":"Point"}
+}

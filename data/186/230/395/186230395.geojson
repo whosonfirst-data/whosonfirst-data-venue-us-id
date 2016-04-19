@@ -1,0 +1,67 @@
+{
+  "id": 186230395,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-116.578347,48.272675,-116.578347,48.272675",
+    "geom:latitude":48.272675,
+    "geom:longitude":-116.578347,
+    "iso:country":"US",
+    "sg:address":"2023 Sandpoint West Dr",
+    "sg:city":"Sandpoint",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 255 1523",
+    "sg:postcode":"83864",
+    "sg:province":"ID",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85937975,
+        102085145
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2ki5gvb3bL8JkgYOXJqPFP_48.272675_-116.578347@1294099250"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"9946a5335bc477f626b6af11431ad84c",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085145,
+            "locality_id":85937975,
+            "neighbourhood_id":-1,
+            "region_id":85688657,
+            "venue_id":186230395
+        }
+    ],
+    "wof:id":186230395,
+    "wof:lastmodified":1449052343,
+    "wof:name":"North Idaho Family Medicine",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [-116.578347,48.272675,-116.578347,48.272675],
+  "geometry": {"coordinates":[-116.578347,48.272675],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 185646229,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-111.111059,43.728635,-111.111059,43.728635",
+    "geom:latitude":43.728635,
+    "geom:longitude":-111.111059,
+    "iso:country":"US",
+    "sg:address":"310 N Main St",
+    "sg:city":"Driggs",
+    "sg:classifiers":[
+        {
+            "category":"Cinema",
+            "subcategory":"Movie Rental",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 354 8202",
+    "sg:postcode":"83422",
+    "sg:province":"ID",
+    "sg:tags":[
+        "leasing",
+        "video",
+        "disc",
+        "tape"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85937899,
+        102086021
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4WMgudpx6OgarY2nvrTsmJ_43.728635_-111.111059@1294099250"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"33a5e0ac9bafa5b9e60520a4dafb144f",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086021,
+            "locality_id":85937899,
+            "neighbourhood_id":-1,
+            "region_id":85688657,
+            "venue_id":185646229
+        }
+    ],
+    "wof:id":185646229,
+    "wof:lastmodified":1449006563,
+    "wof:name":"Video Magic",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "leasing",
+        "video",
+        "disc",
+        "tape"
+    ]
+},
+  "bbox": [-111.111059,43.728635,-111.111059,43.728635],
+  "geometry": {"coordinates":[-111.111059,43.728635],"type":"Point"}
+}

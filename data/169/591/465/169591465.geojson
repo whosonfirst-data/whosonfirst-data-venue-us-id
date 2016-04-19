@@ -1,0 +1,66 @@
+{
+  "id": 169591465,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-116.184177,43.558467,-116.184177,43.558467",
+    "geom:latitude":43.558467,
+    "geom:longitude":-116.184177,
+    "iso:country":"US",
+    "sg:address":"4719 Market St",
+    "sg:city":"Boise",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Groceries",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 422 2000",
+    "sg:postcode":"83705",
+    "sg:province":"ID",
+    "sg:tags":[
+        "grocer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85937923,
+        102086087,
+        85876329
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4NB3MsCUW0LIoRisRk4Boe_43.558467_-116.184177@1294099250"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"50af14a02ffcbfa816e1f0f4e6cbbc90",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086087,
+            "locality_id":85937923,
+            "neighbourhood_id":85876329,
+            "region_id":85688657,
+            "venue_id":169591465
+        }
+    ],
+    "wof:id":169591465,
+    "wof:lastmodified":1449034450,
+    "wof:name":"Associated Food Store",
+    "wof:parent_id":85876329,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "grocer"
+    ]
+},
+  "bbox": [-116.184177,43.558467,-116.184177,43.558467],
+  "geometry": {"coordinates":[-116.184177,43.558467],"type":"Point"}
+}

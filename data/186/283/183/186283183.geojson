@@ -1,0 +1,66 @@
+{
+  "id": 186283183,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-116.213765,43.589279,-116.213765,43.589279",
+    "geom:latitude":43.589279,
+    "geom:longitude":-116.213765,
+    "iso:country":"US",
+    "sg:address":"1653 Vista Ave",
+    "sg:city":"Boise",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Police Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 424 8240",
+    "sg:postcode":"83705",
+    "sg:province":"ID",
+    "sg:tags":[
+        "department"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85937923,
+        102086087,
+        85876343
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6Uu5CnX7vPAnj97iAQNgnW_43.589279_-116.213765@1294099250"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"c99e3153aec7521723a519bb9505cbf4",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086087,
+            "locality_id":85937923,
+            "neighbourhood_id":85876343,
+            "region_id":85688657,
+            "venue_id":186283183
+        }
+    ],
+    "wof:id":186283183,
+    "wof:lastmodified":1449051169,
+    "wof:name":"Boise Police Dept",
+    "wof:parent_id":85876343,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "department"
+    ]
+},
+  "bbox": [-116.213765,43.589279,-116.213765,43.589279],
+  "geometry": {"coordinates":[-116.213765,43.589279],"type":"Point"}
+}

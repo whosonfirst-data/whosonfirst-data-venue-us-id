@@ -1,0 +1,68 @@
+{
+  "id": 185897129,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-116.32186,43.628948,-116.32186,43.628948",
+    "geom:latitude":43.628948,
+    "geom:longitude":-116.32186,
+    "iso:country":"US",
+    "sg:address":"2581 Wildwood St",
+    "sg:city":"Boise",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Landscaping Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 323 0234",
+    "sg:postcode":"83713",
+    "sg:province":"ID",
+    "sg:tags":[
+        "landscape",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85937923,
+        102086087,
+        85811491
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2AAXG1wGCbD4m61hGrEc10_43.628948_-116.321860@1294099250"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"b7790fa2f822c4d56d2637dd6d077fef",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086087,
+            "locality_id":85937923,
+            "neighbourhood_id":85811491,
+            "region_id":85688657,
+            "venue_id":185897129
+        }
+    ],
+    "wof:id":185897129,
+    "wof:lastmodified":1449007973,
+    "wof:name":"Hydroseeding By Lawnco",
+    "wof:parent_id":85811491,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "landscape",
+        "contractor"
+    ]
+},
+  "bbox": [-116.32186,43.628948,-116.32186,43.628948],
+  "geometry": {"coordinates":[-116.32186,43.628948],"type":"Point"}
+}

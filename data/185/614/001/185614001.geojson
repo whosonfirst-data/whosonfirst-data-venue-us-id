@@ -1,0 +1,67 @@
+{
+  "id": 185614001,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-112.042429,43.483733,-112.042429,43.483733",
+    "geom:latitude":43.483733,
+    "geom:longitude":-112.042429,
+    "iso:country":"US",
+    "sg:address":"502 W 16th St",
+    "sg:city":"Idaho Falls",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 524 3191",
+    "sg:postcode":"83402",
+    "sg:province":"ID",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85937963,
+        102085163
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1vQmaJLs2kOh7U63jJSEiJ_43.483733_-112.042429@1294099250"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"68d44027f3fd333f7e1ad61c44627195",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085163,
+            "locality_id":85937963,
+            "neighbourhood_id":-1,
+            "region_id":85688657,
+            "venue_id":185614001
+        }
+    ],
+    "wof:id":185614001,
+    "wof:lastmodified":1449008268,
+    "wof:name":"Rod's Automotive",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [-112.042429,43.483733,-112.042429,43.483733],
+  "geometry": {"coordinates":[-112.042429,43.483733],"type":"Point"}
+}

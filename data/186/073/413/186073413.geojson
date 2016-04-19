@@ -1,0 +1,65 @@
+{
+  "id": 186073413,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-116.791735,47.692577,-116.791735,47.692577",
+    "geom:latitude":47.692577,
+    "geom:longitude":-116.791735,
+    "iso:country":"US",
+    "sg:address":"1800 Lincoln Way",
+    "sg:city":"Coeur D Alene",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 765 3322",
+    "sg:postcode":"83814",
+    "sg:province":"ID",
+    "sg:tags":[
+        "dentist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        102086085,
+        85821457
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5hqbxUGP3z0vZVMCecrtd3_47.692577_-116.791735@1294099250"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"2a718c953606d2c13fa77badee137764",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086085,
+            "locality_id":-1,
+            "neighbourhood_id":85821457,
+            "region_id":85688657,
+            "venue_id":186073413
+        }
+    ],
+    "wof:id":186073413,
+    "wof:lastmodified":1449050721,
+    "wof:name":"Associated Dentists",
+    "wof:parent_id":85821457,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dentist"
+    ]
+},
+  "bbox": [-116.791735,47.692577,-116.791735,47.692577],
+  "geometry": {"coordinates":[-116.791735,47.692577],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 169841163,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-116.897416,47.709913,-116.897416,47.709913",
+    "geom:latitude":47.709913,
+    "geom:longitude":-116.897416,
+    "iso:country":"US",
+    "sg:address":"3160 E Seltice Way",
+    "sg:city":"Post Falls",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Specialty",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 773 8554",
+    "sg:postcode":"83854",
+    "sg:province":"ID",
+    "sg:tags":[
+        "tea",
+        "coffee"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        102086085,
+        85833263
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2W1f2UJdxG0lz8tfD3UgNz_47.709913_-116.897416@1294099250"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"fb625e462b1b9ae7527cf33e6d3ffbc0",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086085,
+            "locality_id":-1,
+            "neighbourhood_id":85833263,
+            "region_id":85688657,
+            "venue_id":169841163
+        }
+    ],
+    "wof:id":169841163,
+    "wof:lastmodified":1449033379,
+    "wof:name":"Hot Shots Espresso",
+    "wof:parent_id":85833263,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "tea",
+        "coffee"
+    ]
+},
+  "bbox": [-116.897416,47.709913,-116.897416,47.709913],
+  "geometry": {"coordinates":[-116.897416,47.709913],"type":"Point"}
+}

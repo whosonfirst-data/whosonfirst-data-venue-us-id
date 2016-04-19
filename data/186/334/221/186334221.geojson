@@ -1,0 +1,66 @@
+{
+  "id": 186334221,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-116.251106,43.566324,-116.251106,43.566324",
+    "geom:latitude":43.566324,
+    "geom:longitude":-116.251106,
+    "iso:country":"US",
+    "sg:address":"4055 S Eagleson Rd",
+    "sg:city":"Boise",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Equipment Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 362 7587",
+    "sg:postcode":"83705",
+    "sg:province":"ID",
+    "sg:tags":[
+        "leasing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85937923,
+        102086087,
+        85825393
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3ipMHkUlIL50iBWnHvC52j_43.566324_-116.251106@1294099250"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"b653f19c71309c0b6b08eb4ed1f4f834",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086087,
+            "locality_id":85937923,
+            "neighbourhood_id":85825393,
+            "region_id":85688657,
+            "venue_id":186334221
+        }
+    ],
+    "wof:id":186334221,
+    "wof:lastmodified":1449051160,
+    "wof:name":"DESIGN Space Modular Buildings",
+    "wof:parent_id":85825393,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "leasing"
+    ]
+},
+  "bbox": [-116.251106,43.566324,-116.251106,43.566324],
+  "geometry": {"coordinates":[-116.251106,43.566324],"type":"Point"}
+}

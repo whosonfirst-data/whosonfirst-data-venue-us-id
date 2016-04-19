@@ -1,0 +1,68 @@
+{
+  "id": 185885401,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-116.585404,43.5616,-116.585404,43.5616",
+    "geom:latitude":43.5616,
+    "geom:longitude":-116.585404,
+    "iso:country":"US",
+    "sg:address":"521 Hawthorne St",
+    "sg:city":"Nampa",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 442 1637",
+    "sg:postcode":"83686",
+    "sg:province":"ID",
+    "sg:tags":[
+        "concrete",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85938009,
+        102085081,
+        85827787
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5MxZSZTCCNFhUDKTzqejvk_43.561600_-116.585404@1294099250"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"cd367713b26fbbcb6868a7253257422f",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085081,
+            "locality_id":85938009,
+            "neighbourhood_id":85827787,
+            "region_id":85688657,
+            "venue_id":185885401
+        }
+    ],
+    "wof:id":185885401,
+    "wof:lastmodified":1449007480,
+    "wof:name":"Bailey Concrete Construction",
+    "wof:parent_id":85827787,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "concrete",
+        "contractor"
+    ]
+},
+  "bbox": [-116.585404,43.5616,-116.585404,43.5616],
+  "geometry": {"coordinates":[-116.585404,43.5616],"type":"Point"}
+}

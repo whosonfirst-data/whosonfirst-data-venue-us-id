@@ -1,0 +1,68 @@
+{
+  "id": 169860479,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-116.572776,43.564556,-116.572776,43.564556",
+    "geom:latitude":43.564556,
+    "geom:longitude":-116.572776,
+    "iso:country":"US",
+    "sg:address":"404 12th Ave Rd",
+    "sg:city":"Nampa",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 466 7314",
+    "sg:postcode":"83686",
+    "sg:province":"ID",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85938009,
+        102085081,
+        85827787
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4CrVi8Z0eb6W81DT095atC_43.564556_-116.572776@1294099250"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"e98e5d13e392c857f8badcea8d4fd5a1",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085081,
+            "locality_id":85938009,
+            "neighbourhood_id":85827787,
+            "region_id":85688657,
+            "venue_id":169860479
+        }
+    ],
+    "wof:id":169860479,
+    "wof:lastmodified":1449034140,
+    "wof:name":"NAPA Autocare Ctr",
+    "wof:parent_id":85827787,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [-116.572776,43.564556,-116.572776,43.564556],
+  "geometry": {"coordinates":[-116.572776,43.564556],"type":"Point"}
+}

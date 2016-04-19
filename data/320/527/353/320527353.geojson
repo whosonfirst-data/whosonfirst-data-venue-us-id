@@ -1,0 +1,73 @@
+{
+  "id": 320527353,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-116.474929,46.240761,-116.474929,46.240761",
+    "geom:latitude":46.240761,
+    "geom:longitude":-116.474929,
+    "iso:country":"US",
+    "sg:address":"118 W Main St",
+    "sg:city":"Craigmont",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Business Services",
+            "type":"Services"
+        },
+        {
+            "category":"Government",
+            "subcategory":"Post Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 924 5781",
+    "sg:postcode":"83523",
+    "sg:province":"ID",
+    "sg:tags":[
+        "mail",
+        "shipping"
+    ],
+    "sg:website":"http://www.usps.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85938089,
+        102085051
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_46d5ZenqDe1DbOwQuEAtgr_46.240761_-116.474929@1303263095"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"832ebd8c7925bcf9ed0eb54efedf2a42",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085051,
+            "locality_id":85938089,
+            "neighbourhood_id":-1,
+            "region_id":85688657,
+            "venue_id":320527353
+        }
+    ],
+    "wof:id":320527353,
+    "wof:lastmodified":1449014190,
+    "wof:name":"Us Post Office",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mail",
+        "shipping"
+    ]
+},
+  "bbox": [-116.474929,46.240761,-116.474929,46.240761],
+  "geometry": {"coordinates":[-116.474929,46.240761],"type":"Point"}
+}

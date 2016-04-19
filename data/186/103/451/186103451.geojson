@@ -1,0 +1,71 @@
+{
+  "id": 186103451,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-116.198129,43.562402,-116.198129,43.562402",
+    "geom:latitude":43.562402,
+    "geom:longitude":-116.198129,
+    "iso:country":"US",
+    "sg:address":"900 Boeing St",
+    "sg:city":"Boise",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Tools & Machinery",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 338 1444",
+    "sg:postcode":"83705",
+    "sg:province":"ID",
+    "sg:tags":[
+        "fire",
+        "department",
+        "equipment"
+    ],
+    "sg:website":"www.bmefire.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85937923,
+        102086087,
+        85876337
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7H9cJ60fH68HBgWESbl52J_43.562402_-116.198129@1294099250"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"c9566475843ed31d45519dce4aaa8e4d",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086087,
+            "locality_id":85937923,
+            "neighbourhood_id":85876337,
+            "region_id":85688657,
+            "venue_id":186103451
+        }
+    ],
+    "wof:id":186103451,
+    "wof:lastmodified":1449052041,
+    "wof:name":"Boise Mobile Equipment",
+    "wof:parent_id":85876337,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "fire",
+        "department",
+        "equipment"
+    ]
+},
+  "bbox": [-116.198129,43.562402,-116.198129,43.562402],
+  "geometry": {"coordinates":[-116.198129,43.562402],"type":"Point"}
+}

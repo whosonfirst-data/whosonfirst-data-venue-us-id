@@ -1,0 +1,92 @@
+{
+  "id": 320533505,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-116.358109,43.599776,-116.358109,43.599776",
+    "geom:latitude":43.599776,
+    "geom:longitude":-116.358109,
+    "iso:country":"US",
+    "sg:address":"2947 E Magic View Dr",
+    "sg:city":"Meridian",
+    "sg:classifiers":[
+        {
+            "category":"Insurance",
+            "subcategory":"Insurance Agent",
+            "type":"Services"
+        },
+        {
+            "category":"Insurance",
+            "subcategory":"Hazard Insurance",
+            "type":"Services"
+        },
+        {
+            "category":"Insurance",
+            "subcategory":"Title Insurance",
+            "type":"Services"
+        },
+        {
+            "category":"Insurance",
+            "subcategory":"Life Insurance",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 884 5400",
+    "sg:postcode":"83642",
+    "sg:province":"ID",
+    "sg:tags":[
+        "business",
+        "auto",
+        "commercial",
+        "homeowner",
+        "flood",
+        "motorcycle"
+    ],
+    "sg:website":"http://boise-insurance.com/",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85937915,
+        102086087,
+        85805083
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2nfzhSeVcrsYJHbKOTLLcb_43.599776_-116.358109@1303263095"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"cec46bd41c5f4ebeedf274d032eb1cb4",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086087,
+            "locality_id":85937915,
+            "neighbourhood_id":85805083,
+            "region_id":85688657,
+            "venue_id":320533505
+        }
+    ],
+    "wof:id":320533505,
+    "wof:lastmodified":1449011216,
+    "wof:name":"Boise Insurance",
+    "wof:parent_id":85805083,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "business",
+        "auto",
+        "commercial",
+        "homeowner",
+        "flood",
+        "motorcycle"
+    ]
+},
+  "bbox": [-116.358109,43.599776,-116.358109,43.599776],
+  "geometry": {"coordinates":[-116.358109,43.599776],"type":"Point"}
+}

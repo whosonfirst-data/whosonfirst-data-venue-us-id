@@ -1,0 +1,73 @@
+{
+  "id": 320538675,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-116.981998,44.247835,-116.981998,44.247835",
+    "geom:latitude":44.247835,
+    "geom:longitude":-116.981998,
+    "iso:country":"US",
+    "sg:address":"815 W Idaho St",
+    "sg:city":"Weiser",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Veterinary Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 549 0944",
+    "sg:postcode":"83672",
+    "sg:province":"ID",
+    "sg:tags":[
+        "clinic",
+        "hospital",
+        "veterinarian",
+        "specialty",
+        "emergency"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85937739,
+        102085079
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5XZIqjwieNFK662JQzAuYI_44.247835_-116.981998@1303263095"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"89bdb0fd48b8655f15153dfe661c4df1",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085079,
+            "locality_id":85937739,
+            "neighbourhood_id":-1,
+            "region_id":85688657,
+            "venue_id":320538675
+        }
+    ],
+    "wof:id":320538675,
+    "wof:lastmodified":1449011719,
+    "wof:name":"Weiser Veterinary Clinic",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "clinic",
+        "hospital",
+        "veterinarian",
+        "specialty",
+        "emergency"
+    ]
+},
+  "bbox": [-116.981998,44.247835,-116.981998,44.247835],
+  "geometry": {"coordinates":[-116.981998,44.247835],"type":"Point"}
+}

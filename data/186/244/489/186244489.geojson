@@ -1,0 +1,66 @@
+{
+  "id": 186244489,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-116.353926,43.705874,-116.353926,43.705874",
+    "geom:latitude":43.705874,
+    "geom:longitude":-116.353926,
+    "iso:country":"US",
+    "sg:address":"1177 N Eagle Rd",
+    "sg:city":"Eagle",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 939 3010",
+    "sg:postcode":"83616",
+    "sg:province":"ID",
+    "sg:tags":[
+        "dentist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85937923,
+        102086087,
+        85876351
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4RqxKTfju0VIcHDT0TvPGU_43.705874_-116.353926@1294099250"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"0008a618d6c0c234ce81a63fe3c2b952",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086087,
+            "locality_id":85937923,
+            "neighbourhood_id":85876351,
+            "region_id":85688657,
+            "venue_id":186244489
+        }
+    ],
+    "wof:id":186244489,
+    "wof:lastmodified":1449051434,
+    "wof:name":"Lighthouse Dental",
+    "wof:parent_id":85876351,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dentist"
+    ]
+},
+  "bbox": [-116.353926,43.705874,-116.353926,43.705874],
+  "geometry": {"coordinates":[-116.353926,43.705874],"type":"Point"}
+}

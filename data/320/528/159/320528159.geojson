@@ -1,0 +1,80 @@
+{
+  "id": 320528159,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-116.696826,43.658832,-116.696826,43.658832",
+    "geom:latitude":43.658832,
+    "geom:longitude":-116.696826,
+    "iso:country":"US",
+    "sg:address":"1211 S Kimball Ave",
+    "sg:city":"Caldwell",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        },
+        {
+            "category":"Health Services",
+            "subcategory":"Dentist",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 454 2061",
+    "sg:postcode":"83605",
+    "sg:province":"ID",
+    "sg:tags":[
+        "dentists-oral",
+        "physician",
+        "maxillofacial",
+        "surgeons",
+        "surgery",
+        "oral"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85938017,
+        102085081
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2KKslG8WPzyXArVjDreaDM_43.658832_-116.696826@1303263095"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"72971a4bdebd434e29c7739cc4f80aba",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085081,
+            "locality_id":85938017,
+            "neighbourhood_id":-1,
+            "region_id":85688657,
+            "venue_id":320528159
+        }
+    ],
+    "wof:id":320528159,
+    "wof:lastmodified":1449012255,
+    "wof:name":"Jeffrey Larson",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dentists-oral",
+        "physician",
+        "maxillofacial",
+        "surgeons",
+        "surgery",
+        "oral"
+    ]
+},
+  "bbox": [-116.696826,43.658832,-116.696826,43.658832],
+  "geometry": {"coordinates":[-116.696826,43.658832],"type":"Point"}
+}

@@ -1,0 +1,85 @@
+{
+  "id": 186212049,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-116.179508,43.594925,-116.179508,43.594925",
+    "geom:latitude":43.594925,
+    "geom:longitude":-116.179508,
+    "iso:country":"US",
+    "sg:address":"1509 Tyrell Ln",
+    "sg:city":"Boise",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        },
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 424 1027",
+    "sg:postcode":"83706",
+    "sg:province":"ID",
+    "sg:tags":[
+        "product",
+        "management",
+        "supply",
+        "energy",
+        "well",
+        "system",
+        "water",
+        "drilling"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85937923,
+        102086087,
+        85876305
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7RxZzOWbTDaDwqIkXmpbgj_43.594925_-116.179508@1294099250"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"28c267ad32e403c281f94f8f7e6d797e",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086087,
+            "locality_id":85937923,
+            "neighbourhood_id":85876305,
+            "region_id":85688657,
+            "venue_id":186212049
+        }
+    ],
+    "wof:id":186212049,
+    "wof:lastmodified":1449052109,
+    "wof:name":"US Geothermal Inc",
+    "wof:parent_id":85876305,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "product",
+        "management",
+        "supply",
+        "energy",
+        "well",
+        "system",
+        "water",
+        "drilling"
+    ]
+},
+  "bbox": [-116.179508,43.594925,-116.179508,43.594925],
+  "geometry": {"coordinates":[-116.179508,43.594925],"type":"Point"}
+}

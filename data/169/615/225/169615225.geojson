@@ -1,0 +1,68 @@
+{
+  "id": 169615225,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-116.266697,43.643095,-116.266697,43.643095",
+    "geom:latitude":43.643095,
+    "geom:longitude":-116.266697,
+    "iso:country":"US",
+    "sg:address":"201 E 50th St",
+    "sg:city":"Boise",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Water",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 472 2930",
+    "sg:postcode":"83714",
+    "sg:province":"ID",
+    "sg:tags":[
+        "company",
+        "sewage"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85937919,
+        102086087,
+        85876349
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2yg36nSi0LGpyDkMeqo6nG_43.643095_-116.266697@1294099250"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"bcaeb7dc7d1efaabd5fc69760c317622",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086087,
+            "locality_id":85937919,
+            "neighbourhood_id":85876349,
+            "region_id":85688657,
+            "venue_id":169615225
+        }
+    ],
+    "wof:id":169615225,
+    "wof:lastmodified":1449033733,
+    "wof:name":"Garden City Water Dept",
+    "wof:parent_id":85876349,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "company",
+        "sewage"
+    ]
+},
+  "bbox": [-116.266697,43.643095,-116.266697,43.643095],
+  "geometry": {"coordinates":[-116.266697,43.643095],"type":"Point"}
+}

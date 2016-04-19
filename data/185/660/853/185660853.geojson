@@ -1,0 +1,67 @@
+{
+  "id": 185660853,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-116.443273,47.557856,-116.443273,47.557856",
+    "geom:latitude":47.557856,
+    "geom:longitude":-116.443273,
+    "iso:country":"US",
+    "sg:address":"12948 State Hwy 3",
+    "sg:city":"Cataldo",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Lumber",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 682 3307",
+    "sg:postcode":"83810",
+    "sg:province":"ID",
+    "sg:tags":[
+        "company",
+        "logging"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        102086085,
+        85821457
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7gHNCaoKsfrsMpO6wHNzOb_47.557856_-116.443273@1294099250"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"711afdc6f22ecd418dd5103837eaf58b",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086085,
+            "locality_id":-1,
+            "neighbourhood_id":85821457,
+            "region_id":85688657,
+            "venue_id":185660853
+        }
+    ],
+    "wof:id":185660853,
+    "wof:lastmodified":1449008054,
+    "wof:name":"Weingart Logging Inc",
+    "wof:parent_id":85821457,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "company",
+        "logging"
+    ]
+},
+  "bbox": [-116.443273,47.557856,-116.443273,47.557856],
+  "geometry": {"coordinates":[-116.443273,47.557856],"type":"Point"}
+}

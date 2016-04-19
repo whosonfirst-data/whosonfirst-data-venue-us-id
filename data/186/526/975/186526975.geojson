@@ -1,0 +1,82 @@
+{
+  "id": 186526975,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-116.790552,47.713564,-116.790552,47.713564",
+    "geom:latitude":47.713564,
+    "geom:longitude":-116.790552,
+    "iso:country":"US",
+    "sg:address":"296 W Sunset Ave",
+    "sg:city":"Coeur D Alene",
+    "sg:classifiers":[
+        {
+            "category":"Sports & Exercise",
+            "subcategory":"Gym",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 664 6213",
+    "sg:postcode":"83815",
+    "sg:province":"ID",
+    "sg:tags":[
+        "club",
+        "health",
+        "studio",
+        "gymnasium"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85938163,
+        102086085,
+        85806325,
+        85821457
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1tBGKwv7HzvPhkSbSmFZyW_47.713564_-116.790552@1294099250"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"4826a270349b9c30c09da6341982b83f",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086085,
+            "locality_id":85938163,
+            "neighbourhood_id":85806325,
+            "region_id":85688657,
+            "venue_id":186526975
+        },
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086085,
+            "locality_id":-1,
+            "neighbourhood_id":85821457,
+            "region_id":85688657,
+            "venue_id":186526975
+        }
+    ],
+    "wof:id":186526975,
+    "wof:lastmodified":1449051198,
+    "wof:name":"North Idaho Fitness",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "club",
+        "health",
+        "studio",
+        "gymnasium"
+    ]
+},
+  "bbox": [-116.790552,47.713564,-116.790552,47.713564],
+  "geometry": {"coordinates":[-116.790552,47.713564],"type":"Point"}
+}

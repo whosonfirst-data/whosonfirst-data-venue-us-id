@@ -1,0 +1,67 @@
+{
+  "id": 185856871,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-116.813921,47.759123,-116.813921,47.759123",
+    "geom:latitude":47.759123,
+    "geom:longitude":-116.813921,
+    "iso:country":"US",
+    "sg:address":"1841 W Hayden Ave",
+    "sg:city":"Hayden Lake",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Water",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 772 3619",
+    "sg:postcode":"83835",
+    "sg:province":"ID",
+    "sg:tags":[
+        "company",
+        "sewage"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        102086085,
+        85821457
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_47ce8Jzf1PeFLZiEO4BMv4_47.759123_-116.813921@1294099250"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"6617db57c4f0f3aab2ffd99170c7216e",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086085,
+            "locality_id":-1,
+            "neighbourhood_id":85821457,
+            "region_id":85688657,
+            "venue_id":185856871
+        }
+    ],
+    "wof:id":185856871,
+    "wof:lastmodified":1449007068,
+    "wof:name":"North Kootenai Water District",
+    "wof:parent_id":85821457,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "company",
+        "sewage"
+    ]
+},
+  "bbox": [-116.813921,47.759123,-116.813921,47.759123],
+  "geometry": {"coordinates":[-116.813921,47.759123],"type":"Point"}
+}

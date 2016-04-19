@@ -1,0 +1,67 @@
+{
+  "id": 185664009,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-114.492259,42.565672,-114.492259,42.565672",
+    "geom:latitude":42.565672,
+    "geom:longitude":-114.492259,
+    "iso:country":"US",
+    "sg:address":"589 Shoup Ave W",
+    "sg:city":"Twin Falls",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 734 8934",
+    "sg:postcode":"83301",
+    "sg:province":"ID",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85937881,
+        102085153
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5fEHHNQODyyB3CBDBKfufL_42.565672_-114.492259@1294099250"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"279ba066a94201503aa72a536de5cfc8",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085153,
+            "locality_id":85937881,
+            "neighbourhood_id":-1,
+            "region_id":85688657,
+            "venue_id":185664009
+        }
+    ],
+    "wof:id":185664009,
+    "wof:lastmodified":1449007198,
+    "wof:name":"Fitzhugh Vision Clinic",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [-114.492259,42.565672,-114.492259,42.565672],
+  "geometry": {"coordinates":[-114.492259,42.565672],"type":"Point"}
+}

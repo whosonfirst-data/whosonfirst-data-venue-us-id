@@ -1,0 +1,66 @@
+{
+  "id": 186127291,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-116.556457,43.57661,-116.556457,43.57661",
+    "geom:latitude":43.57661,
+    "geom:longitude":-116.556457,
+    "iso:country":"US",
+    "sg:address":"1518 1st St S",
+    "sg:city":"Nampa",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Beer",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 465 4742",
+    "sg:postcode":"83651",
+    "sg:province":"ID",
+    "sg:tags":[
+        "ale"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85938009,
+        102085081,
+        85827787
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2tC2uqw51f98ZseVlNHrw4_43.576610_-116.556457@1294099250"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"5f44b7f3ed8d684ae928627599490bab",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085081,
+            "locality_id":85938009,
+            "neighbourhood_id":85827787,
+            "region_id":85688657,
+            "venue_id":186127291
+        }
+    ],
+    "wof:id":186127291,
+    "wof:lastmodified":1449052805,
+    "wof:name":"Jim's Nampa Beverage",
+    "wof:parent_id":85827787,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "ale"
+    ]
+},
+  "bbox": [-116.556457,43.57661,-116.556457,43.57661],
+  "geometry": {"coordinates":[-116.556457,43.57661],"type":"Point"}
+}

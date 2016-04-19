@@ -1,0 +1,69 @@
+{
+  "id": 185929855,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-112.444903,42.867725,-112.444903,42.867725",
+    "geom:latitude":42.867725,
+    "geom:longitude":-112.444903,
+    "iso:country":"US",
+    "sg:address":"250 N 5th Ave",
+    "sg:city":"Pocatello",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Animal Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 232 1552",
+    "sg:postcode":"83201",
+    "sg:province":"ID",
+    "sg:tags":[
+        "pet",
+        "grooming",
+        "washing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85937925,
+        102086113
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_447lTisWmZ73zgxk8LDY8B_42.867725_-112.444903@1294099250"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"fa33da7b5ed9df6c7fc7ee9027027738",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086113,
+            "locality_id":85937925,
+            "neighbourhood_id":-1,
+            "region_id":85688657,
+            "venue_id":185929855
+        }
+    ],
+    "wof:id":185929855,
+    "wof:lastmodified":1449007228,
+    "wof:name":"Pretty Puppy",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pet",
+        "grooming",
+        "washing"
+    ]
+},
+  "bbox": [-112.444903,42.867725,-112.444903,42.867725],
+  "geometry": {"coordinates":[-112.444903,42.867725],"type":"Point"}
+}

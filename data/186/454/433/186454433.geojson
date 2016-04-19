@@ -1,0 +1,66 @@
+{
+  "id": 186454433,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-116.209967,43.597497,-116.209967,43.597497",
+    "geom:latitude":43.597497,
+    "geom:longitude":-116.209967,
+    "iso:country":"US",
+    "sg:address":"999 S Federal Way",
+    "sg:city":"Boise",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 367 1806",
+    "sg:postcode":"83705",
+    "sg:province":"ID",
+    "sg:tags":[
+        "delivery"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85937923,
+        102086087,
+        85876303
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0oGNv4dYFWqopwj1OLODKs_43.597497_-116.209967@1294099250"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"fdc8fb359dcf5e5b4d717009208f5086",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086087,
+            "locality_id":85937923,
+            "neighbourhood_id":85876303,
+            "region_id":85688657,
+            "venue_id":186454433
+        }
+    ],
+    "wof:id":186454433,
+    "wof:lastmodified":1449052769,
+    "wof:name":"Western Delivery Svc",
+    "wof:parent_id":85876303,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "delivery"
+    ]
+},
+  "bbox": [-116.209967,43.597497,-116.209967,43.597497],
+  "geometry": {"coordinates":[-116.209967,43.597497],"type":"Point"}
+}

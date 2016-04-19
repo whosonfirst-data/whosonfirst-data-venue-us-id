@@ -1,0 +1,65 @@
+{
+  "id": 185950123,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-112.124385,42.42966,-112.124385,42.42966",
+    "geom:latitude":42.42966,
+    "geom:longitude":-112.124385,
+    "iso:country":"US",
+    "sg:address":"79 N Main St",
+    "sg:city":"Downey",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 897 5600",
+    "sg:postcode":"83234",
+    "sg:province":"ID",
+    "sg:tags":[
+        "clinic"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85937933,
+        102086113
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5PF6ZsDXnLVb2Pl39fL1yD_42.429660_-112.124385@1294099250"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"0c36ad2e688e495a5ace7d1686ff6360",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086113,
+            "locality_id":85937933,
+            "neighbourhood_id":-1,
+            "region_id":85688657,
+            "venue_id":185950123
+        }
+    ],
+    "wof:id":185950123,
+    "wof:lastmodified":1449007246,
+    "wof:name":"Downey Medical Clinic",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "clinic"
+    ]
+},
+  "bbox": [-112.124385,42.42966,-112.124385,42.42966],
+  "geometry": {"coordinates":[-112.124385,42.42966],"type":"Point"}
+}

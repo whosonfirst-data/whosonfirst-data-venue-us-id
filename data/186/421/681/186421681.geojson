@@ -1,0 +1,65 @@
+{
+  "id": 186421681,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-116.176903,43.63127,-116.176903,43.63127",
+    "geom:latitude":43.63127,
+    "geom:longitude":-116.176903,
+    "iso:country":"US",
+    "sg:address":"1803 Claremont Dr",
+    "sg:city":"Boise",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 336 0687",
+    "sg:postcode":"83702",
+    "sg:province":"ID",
+    "sg:tags":[
+        "medical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        102086087,
+        85876291
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6eih50VvR2PSGHx5wWfyiB_43.631270_-116.176903@1294099250"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"469f0e19d717fd840e02b57b1bd475af",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086087,
+            "locality_id":-1,
+            "neighbourhood_id":85876291,
+            "region_id":85688657,
+            "venue_id":186421681
+        }
+    ],
+    "wof:id":186421681,
+    "wof:lastmodified":1449052078,
+    "wof:name":"Charles E Smith MD PA",
+    "wof:parent_id":85876291,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medical"
+    ]
+},
+  "bbox": [-116.176903,43.63127,-116.176903,43.63127],
+  "geometry": {"coordinates":[-116.176903,43.63127],"type":"Point"}
+}

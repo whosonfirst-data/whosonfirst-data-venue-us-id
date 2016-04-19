@@ -1,0 +1,69 @@
+{
+  "id": 186202007,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-116.616283,48.251781,-116.616283,48.251781",
+    "geom:latitude":48.251781,
+    "geom:longitude":-116.616283,
+    "iso:country":"US",
+    "sg:address":"401 Railroad Ave",
+    "sg:city":"Bovill",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 826 3319",
+    "sg:postcode":"83864",
+    "sg:province":"ID",
+    "sg:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85937989,
+        102085145
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0LByiWceOLDQ00AXGUqOEb_48.251781_-116.616283@1294099250"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"77a60eb098a57ca19b56813d73059a59",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085145,
+            "locality_id":85937989,
+            "neighbourhood_id":-1,
+            "region_id":85688657,
+            "venue_id":186202007
+        }
+    ],
+    "wof:id":186202007,
+    "wof:lastmodified":1449052666,
+    "wof:name":"Wendell Boyce Trucking",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ]
+},
+  "bbox": [-116.616283,48.251781,-116.616283,48.251781],
+  "geometry": {"coordinates":[-116.616283,48.251781],"type":"Point"}
+}

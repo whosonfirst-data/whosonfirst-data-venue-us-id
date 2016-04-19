@@ -1,0 +1,69 @@
+{
+  "id": 186271033,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-116.279826,43.653278,-116.279826,43.653278",
+    "geom:latitude":43.653278,
+    "geom:longitude":-116.279826,
+    "iso:country":"US",
+    "sg:address":"5561 Glenwood St",
+    "sg:city":"Boise",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 853 1203",
+    "sg:postcode":"83714",
+    "sg:province":"ID",
+    "sg:tags":[
+        "general",
+        "contractor"
+    ],
+    "sg:website":"www.devansconstruction.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85937919,
+        102086087,
+        85876349
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5QqlcDStEb51ogJkDGYa08_43.653278_-116.279826@1294099250"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"b991bbd02494fbd46c1a5f237c039bf8",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086087,
+            "locality_id":85937919,
+            "neighbourhood_id":85876349,
+            "region_id":85688657,
+            "venue_id":186271033
+        }
+    ],
+    "wof:id":186271033,
+    "wof:lastmodified":1449051776,
+    "wof:name":"Dave Evans Construction",
+    "wof:parent_id":85876349,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "general",
+        "contractor"
+    ]
+},
+  "bbox": [-116.279826,43.653278,-116.279826,43.653278],
+  "geometry": {"coordinates":[-116.279826,43.653278],"type":"Point"}
+}

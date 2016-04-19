@@ -1,0 +1,68 @@
+{
+  "id": 185945513,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-116.243529,43.610578,-116.243529,43.610578",
+    "geom:latitude":43.610578,
+    "geom:longitude":-116.243529,
+    "iso:country":"US",
+    "sg:address":"615 N Orchard St",
+    "sg:city":"Boise",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Household Appliances",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 376 8811",
+    "sg:postcode":"83706",
+    "sg:province":"ID",
+    "sg:tags":[
+        "cleaners",
+        "vacuum"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85937923,
+        102086087,
+        85876311
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1QbwaTr3QXXwg633JR0PoG_43.610578_-116.243529@1294099250"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"564e8fb001af33ab60d2ae2063288c11",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086087,
+            "locality_id":85937923,
+            "neighbourhood_id":85876311,
+            "region_id":85688657,
+            "venue_id":185945513
+        }
+    ],
+    "wof:id":185945513,
+    "wof:lastmodified":1449006742,
+    "wof:name":"All Makes Vacuum",
+    "wof:parent_id":85876311,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cleaners",
+        "vacuum"
+    ]
+},
+  "bbox": [-116.243529,43.610578,-116.243529,43.610578],
+  "geometry": {"coordinates":[-116.243529,43.610578],"type":"Point"}
+}

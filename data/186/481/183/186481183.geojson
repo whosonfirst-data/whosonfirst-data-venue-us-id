@@ -1,0 +1,68 @@
+{
+  "id": 186481183,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-116.246232,43.632172,-116.246232,43.632172",
+    "geom:latitude":43.632172,
+    "geom:longitude":-116.246232,
+    "iso:country":"US",
+    "sg:address":"303 E 41st St",
+    "sg:city":"Boise",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 342 0936",
+    "sg:postcode":"83714",
+    "sg:province":"ID",
+    "sg:tags":[
+        "commercial",
+        "storage"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85937923,
+        102086087,
+        85876339
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3eTzyZisCWjytCC6JJSVKd_43.632172_-116.246232@1294099250"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"863f27d9c7e31e2c18e55c17f4c22012",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086087,
+            "locality_id":85937923,
+            "neighbourhood_id":85876339,
+            "region_id":85688657,
+            "venue_id":186481183
+        }
+    ],
+    "wof:id":186481183,
+    "wof:lastmodified":1449052673,
+    "wof:name":"Big Bear Mini Storage",
+    "wof:parent_id":85876339,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "commercial",
+        "storage"
+    ]
+},
+  "bbox": [-116.246232,43.632172,-116.246232,43.632172],
+  "geometry": {"coordinates":[-116.246232,43.632172],"type":"Point"}
+}

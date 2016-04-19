@@ -1,0 +1,80 @@
+{
+  "id": 186291617,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-116.978479,46.378523,-116.978479,46.378523",
+    "geom:latitude":46.378523,
+    "geom:longitude":-116.978479,
+    "iso:country":"US",
+    "sg:address":"1024 Airway Ave",
+    "sg:city":"Lewiston",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 743 7294",
+    "sg:postcode":"83501",
+    "sg:province":"ID",
+    "sg:tags":[
+        "scooter",
+        "motorcycle",
+        "motor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85937743,
+        102086039,
+        85837769,
+        85830385
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1HH4aznkALQOVFZiOqbnib_46.378523_-116.978479@1294099250"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"902b52b134a27327fec9a9f4852a30ad",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086039,
+            "locality_id":85937743,
+            "neighbourhood_id":85837769,
+            "region_id":85688657,
+            "venue_id":186291617
+        },
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086039,
+            "locality_id":85937743,
+            "neighbourhood_id":85830385,
+            "region_id":85688657,
+            "venue_id":186291617
+        }
+    ],
+    "wof:id":186291617,
+    "wof:lastmodified":1449051199,
+    "wof:name":"G P Racing Suspension",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "scooter",
+        "motorcycle",
+        "motor"
+    ]
+},
+  "bbox": [-116.978479,46.378523,-116.978479,46.378523],
+  "geometry": {"coordinates":[-116.978479,46.378523],"type":"Point"}
+}

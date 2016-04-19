@@ -1,0 +1,77 @@
+{
+  "id": 320543287,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-116.260285,43.589989,-116.260285,43.589989",
+    "geom:latitude":43.589989,
+    "geom:longitude":-116.260285,
+    "iso:country":"US",
+    "sg:address":"6312 W Overland Rd",
+    "sg:city":"Boise",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Glass & Minerals",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 378 5819",
+    "sg:postcode":"83709",
+    "sg:province":"ID",
+    "sg:tags":[
+        "plate",
+        "window",
+        "windshield",
+        "glass-auto"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85937923,
+        102086087,
+        85876293
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4DTf7xqy9ly5hNZmNqVcIO_43.589989_-116.260285@1303263095"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"d5924045e2631008b761e43b0442b89e",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086087,
+            "locality_id":85937923,
+            "neighbourhood_id":85876293,
+            "region_id":85688657,
+            "venue_id":320543287
+        }
+    ],
+    "wof:id":320543287,
+    "wof:lastmodified":1449011986,
+    "wof:name":"SAFELITE AUTO GLASS",
+    "wof:parent_id":85876293,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "plate",
+        "window",
+        "windshield",
+        "glass-auto"
+    ]
+},
+  "bbox": [-116.260285,43.589989,-116.260285,43.589989],
+  "geometry": {"coordinates":[-116.260285,43.589989],"type":"Point"}
+}

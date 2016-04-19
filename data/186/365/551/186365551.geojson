@@ -1,0 +1,65 @@
+{
+  "id": 186365551,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-112.471163,42.881197,-112.471163,42.881197",
+    "geom:latitude":42.881197,
+    "geom:longitude":-112.471163,
+    "iso:country":"US",
+    "sg:address":"1920 N Harrison Ave",
+    "sg:city":"Pocatello",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 232 2209",
+    "sg:postcode":"83204",
+    "sg:province":"ID",
+    "sg:tags":[
+        "painter"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85937925,
+        102086113
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3z7oWR8vptjzIIqE6GKPfu_42.881197_-112.471163@1294099250"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"525ebbd7532b077d00684d1e0252bed9",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086113,
+            "locality_id":85937925,
+            "neighbourhood_id":-1,
+            "region_id":85688657,
+            "venue_id":186365551
+        }
+    ],
+    "wof:id":186365551,
+    "wof:lastmodified":1449050842,
+    "wof:name":"Bob's Painting & Sandblasting",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "painter"
+    ]
+},
+  "bbox": [-112.471163,42.881197,-112.471163,42.881197],
+  "geometry": {"coordinates":[-112.471163,42.881197],"type":"Point"}
+}

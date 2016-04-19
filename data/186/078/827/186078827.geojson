@@ -1,0 +1,68 @@
+{
+  "id": 186078827,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-116.2482,43.649242,-116.2482,43.649242",
+    "geom:latitude":43.649242,
+    "geom:longitude":-116.2482,
+    "iso:country":"US",
+    "sg:address":"4630 W State St",
+    "sg:city":"Boise",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 389 4053",
+    "sg:postcode":"83703",
+    "sg:province":"ID",
+    "sg:website":"www.wellsfargo.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85937923,
+        102086087,
+        85876323
+    ],
+    "wof:brand_id":420573867,
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0VwxwoVNG3XRIdiu60r7ib_43.649242_-116.248200@1294099250"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"81b315105b1982fa60c671d1c86e5396",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086087,
+            "locality_id":85937923,
+            "neighbourhood_id":85876323,
+            "region_id":85688657,
+            "venue_id":186078827
+        }
+    ],
+    "wof:id":186078827,
+    "wof:lastmodified":1457207727,
+    "wof:name":"Wells Fargo Bank",
+    "wof:parent_id":85876323,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -116.2482,
+    43.649242,
+    -116.2482,
+    43.649242
+],
+  "geometry": {"coordinates":[-116.2482,43.649242],"type":"Point"}
+}

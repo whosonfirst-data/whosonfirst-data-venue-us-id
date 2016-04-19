@@ -1,0 +1,66 @@
+{
+  "id": 169857799,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-116.395074,43.569995,-116.395074,43.569995",
+    "geom:latitude":43.569995,
+    "geom:longitude":-116.395074,
+    "iso:country":"US",
+    "sg:address":"3644 S Peoria Way",
+    "sg:city":"Meridian",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Cleaning & Sanitation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 887 3530",
+    "sg:postcode":"83642",
+    "sg:province":"ID",
+    "sg:tags":[
+        "maintenance"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85937915,
+        102086087,
+        85805083
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_38jdLAFiOWoSlwu6pWUqXV_43.569995_-116.395074@1294099250"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"fa76e0947e552b653ddb042a6566a0c4",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086087,
+            "locality_id":85937915,
+            "neighbourhood_id":85805083,
+            "region_id":85688657,
+            "venue_id":169857799
+        }
+    ],
+    "wof:id":169857799,
+    "wof:lastmodified":1449034826,
+    "wof:name":"Cnc Home Services",
+    "wof:parent_id":85805083,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "maintenance"
+    ]
+},
+  "bbox": [-116.395074,43.569995,-116.395074,43.569995],
+  "geometry": {"coordinates":[-116.395074,43.569995],"type":"Point"}
+}

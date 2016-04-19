@@ -1,0 +1,68 @@
+{
+  "id": 185761059,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-116.394116,43.606334,-116.394116,43.606334",
+    "geom:latitude":43.606334,
+    "geom:longitude":-116.394116,
+    "iso:country":"US",
+    "sg:address":"75 Taylor Ave",
+    "sg:city":"Meridian",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 884 5248",
+    "sg:postcode":"83642",
+    "sg:province":"ID",
+    "sg:tags":[
+        "equipment",
+        "medical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85937915,
+        102086087,
+        85805083
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2mFVJn9KGyQ9ve8zKTX5mF_43.606334_-116.394116@1294099250"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"06fb5c4c9687dc594e59dbb8a4468568",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086087,
+            "locality_id":85937915,
+            "neighbourhood_id":85805083,
+            "region_id":85688657,
+            "venue_id":185761059
+        }
+    ],
+    "wof:id":185761059,
+    "wof:lastmodified":1449007844,
+    "wof:name":"Idatech Inc",
+    "wof:parent_id":85805083,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "equipment",
+        "medical"
+    ]
+},
+  "bbox": [-116.394116,43.606334,-116.394116,43.606334],
+  "geometry": {"coordinates":[-116.394116,43.606334],"type":"Point"}
+}

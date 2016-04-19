@@ -1,0 +1,67 @@
+{
+  "id": 185985093,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-112.030355,43.499651,-112.030355,43.499651",
+    "geom:latitude":43.499651,
+    "geom:longitude":-112.030355,
+    "iso:country":"US",
+    "sg:address":"410 Northgate Mile",
+    "sg:city":"Idaho Falls",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 522 3722",
+    "sg:postcode":"83401",
+    "sg:province":"ID",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85937963,
+        102085163
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4Wj2YjLGcHKKznjXHtIBgg_43.499651_-112.030355@1294099250"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"df7b214de0b742bc5f361b300eb9d494",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085163,
+            "locality_id":85937963,
+            "neighbourhood_id":-1,
+            "region_id":85688657,
+            "venue_id":185985093
+        }
+    ],
+    "wof:id":185985093,
+    "wof:lastmodified":1449007424,
+    "wof:name":"Art's Muffler & Brake Ctr",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [-112.030355,43.499651,-112.030355,43.499651],
+  "geometry": {"coordinates":[-112.030355,43.499651],"type":"Point"}
+}

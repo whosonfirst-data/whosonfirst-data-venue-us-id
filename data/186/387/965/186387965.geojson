@@ -1,0 +1,68 @@
+{
+  "id": 186387965,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-116.394116,43.606334,-116.394116,43.606334",
+    "geom:latitude":43.606334,
+    "geom:longitude":-116.394116,
+    "iso:country":"US",
+    "sg:address":"75 Taylor Ave",
+    "sg:city":"Meridian",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Agent",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 887 0012",
+    "sg:postcode":"83642",
+    "sg:province":"ID",
+    "sg:tags":[
+        "agency",
+        "rental"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85937915,
+        102086087,
+        85805083
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0q1hEvGClRzMvv34O4FLNl_43.606334_-116.394116@1294099250"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"06fb5c4c9687dc594e59dbb8a4468568",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086087,
+            "locality_id":85937915,
+            "neighbourhood_id":85805083,
+            "region_id":85688657,
+            "venue_id":186387965
+        }
+    ],
+    "wof:id":186387965,
+    "wof:lastmodified":1449052655,
+    "wof:name":"Tate Rentals",
+    "wof:parent_id":85805083,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "agency",
+        "rental"
+    ]
+},
+  "bbox": [-116.394116,43.606334,-116.394116,43.606334],
+  "geometry": {"coordinates":[-116.394116,43.606334],"type":"Point"}
+}

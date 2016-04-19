@@ -1,0 +1,68 @@
+{
+  "id": 169729189,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-116.274301,43.633515,-116.274301,43.633515",
+    "geom:latitude":43.633515,
+    "geom:longitude":-116.274301,
+    "iso:country":"US",
+    "sg:address":"3075 N Cole Rd",
+    "sg:city":"Boise",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 323 9018",
+    "sg:postcode":"83704",
+    "sg:province":"ID",
+    "sg:tags":[
+        "equipment",
+        "video"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85937923,
+        102086087,
+        85841319
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3E2ocKOSFjjW7pjWUG43s4_43.633515_-116.274301@1294099250"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"34e1a8749050f01f0d711f4a578c6121",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086087,
+            "locality_id":85937923,
+            "neighbourhood_id":85841319,
+            "region_id":85688657,
+            "venue_id":169729189
+        }
+    ],
+    "wof:id":169729189,
+    "wof:lastmodified":1449034346,
+    "wof:name":"Video Pro",
+    "wof:parent_id":85841319,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "equipment",
+        "video"
+    ]
+},
+  "bbox": [-116.274301,43.633515,-116.274301,43.633515],
+  "geometry": {"coordinates":[-116.274301,43.633515],"type":"Point"}
+}

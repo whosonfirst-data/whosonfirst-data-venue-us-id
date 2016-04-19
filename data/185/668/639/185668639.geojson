@@ -1,0 +1,68 @@
+{
+  "id": 185668639,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-116.375789,43.611822,-116.375789,43.611822",
+    "geom:latitude":43.611822,
+    "geom:longitude":-116.375789,
+    "iso:country":"US",
+    "sg:address":"760 N Ralstin St",
+    "sg:city":"Meridian",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Tools & Machinery",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 887 3428",
+    "sg:postcode":"83642",
+    "sg:province":"ID",
+    "sg:tags":[
+        "machine",
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85937923,
+        102086087,
+        85811491
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4p0fTXb3ebMzYuTkeyArH1_43.611822_-116.375789@1294099250"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"2e1be51bc00aaa4cb56281cc57fb8f9e",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086087,
+            "locality_id":85937923,
+            "neighbourhood_id":85811491,
+            "region_id":85688657,
+            "venue_id":185668639
+        }
+    ],
+    "wof:id":185668639,
+    "wof:lastmodified":1449007715,
+    "wof:name":"Virtual Design & Machine Corp",
+    "wof:parent_id":85811491,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "machine",
+        "shop"
+    ]
+},
+  "bbox": [-116.375789,43.611822,-116.375789,43.611822],
+  "geometry": {"coordinates":[-116.375789,43.611822],"type":"Point"}
+}

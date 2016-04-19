@@ -1,0 +1,82 @@
+{
+  "id": 186077181,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-116.795031,47.722657,-116.795031,47.722657",
+    "geom:latitude":47.722657,
+    "geom:longitude":-116.795031,
+    "iso:country":"US",
+    "sg:address":"600 W Dalton Ave",
+    "sg:city":"Coeur D Alene",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Tools & Machinery",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 667 8093",
+    "sg:postcode":"83815",
+    "sg:province":"ID",
+    "sg:tags":[
+        "water",
+        "equipment",
+        "works",
+        "supply"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85938163,
+        102086085,
+        85806325,
+        85821457
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5oS2wWmk77d1K58McT6VyF_47.722657_-116.795031@1294099250"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"ead8176953d322505d667ab50014e5ec",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086085,
+            "locality_id":85938163,
+            "neighbourhood_id":85806325,
+            "region_id":85688657,
+            "venue_id":186077181
+        },
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086085,
+            "locality_id":-1,
+            "neighbourhood_id":85821457,
+            "region_id":85688657,
+            "venue_id":186077181
+        }
+    ],
+    "wof:id":186077181,
+    "wof:lastmodified":1449050827,
+    "wof:name":"FNW/Ferguson",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "water",
+        "equipment",
+        "works",
+        "supply"
+    ]
+},
+  "bbox": [-116.795031,47.722657,-116.795031,47.722657],
+  "geometry": {"coordinates":[-116.795031,47.722657],"type":"Point"}
+}

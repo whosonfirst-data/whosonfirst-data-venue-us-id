@@ -1,0 +1,68 @@
+{
+  "id": 169647603,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-116.237964,43.658035,-116.237964,43.658035",
+    "geom:latitude":43.658035,
+    "geom:longitude":-116.237964,
+    "iso:country":"US",
+    "sg:address":"4018 Whitehead St",
+    "sg:city":"Boise",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Tools & Machinery",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 336 0725",
+    "sg:postcode":"83703",
+    "sg:province":"ID",
+    "sg:tags":[
+        "metalworking",
+        "mfg"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85937923,
+        102086087,
+        85876323
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0AZRutHYQCoAKrftuRdl9W_43.658035_-116.237964@1294099250"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"87a1a632b939de4ad1a6283b10d96985",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086087,
+            "locality_id":85937923,
+            "neighbourhood_id":85876323,
+            "region_id":85688657,
+            "venue_id":169647603
+        }
+    ],
+    "wof:id":169647603,
+    "wof:lastmodified":1449034242,
+    "wof:name":"McCoy Machine Works Inc",
+    "wof:parent_id":85876323,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "metalworking",
+        "mfg"
+    ]
+},
+  "bbox": [-116.237964,43.658035,-116.237964,43.658035],
+  "geometry": {"coordinates":[-116.237964,43.658035],"type":"Point"}
+}

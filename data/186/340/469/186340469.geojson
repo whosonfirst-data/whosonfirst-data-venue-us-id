@@ -1,0 +1,67 @@
+{
+  "id": 186340469,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-116.800721,47.762255,-116.800721,47.762255",
+    "geom:latitude":47.762255,
+    "geom:longitude":-116.800721,
+    "iso:country":"US",
+    "sg:address":"9928 N Tessa Way",
+    "sg:city":"Hayden",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 772 3559",
+    "sg:postcode":"83835",
+    "sg:province":"ID",
+    "sg:tags":[
+        "heating",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        102086085,
+        85821457
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_02Kderf6Fqgh9EgT2ZCoKy_47.762255_-116.800721@1294099250"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"6a32a63112c191c9e7b63cc20ab84d9a",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086085,
+            "locality_id":-1,
+            "neighbourhood_id":85821457,
+            "region_id":85688657,
+            "venue_id":186340469
+        }
+    ],
+    "wof:id":186340469,
+    "wof:lastmodified":1449052397,
+    "wof:name":"Jack's Sheet Metal",
+    "wof:parent_id":85821457,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "heating",
+        "contractor"
+    ]
+},
+  "bbox": [-116.800721,47.762255,-116.800721,47.762255],
+  "geometry": {"coordinates":[-116.800721,47.762255],"type":"Point"}
+}

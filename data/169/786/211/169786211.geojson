@@ -1,0 +1,71 @@
+{
+  "id": 169786211,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-116.223878,43.571019,-116.223878,43.571019",
+    "geom:latitude":43.571019,
+    "geom:longitude":-116.223878,
+    "iso:country":"US",
+    "sg:address":"3647 Rickenbacker St",
+    "sg:city":"Boise",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Equipment Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 389 9906",
+    "sg:postcode":"83705",
+    "sg:province":"ID",
+    "sg:tags":[
+        "aircraft",
+        "leasing",
+        "charter"
+    ],
+    "sg:website":"www.accessair.net",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85937923,
+        102086087,
+        85876337
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4ELGUzEI5fsAistzyfsh0f_43.571019_-116.223878@1294099250"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"7902aedc0110558367b08e4e4223578d",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086087,
+            "locality_id":85937923,
+            "neighbourhood_id":85876337,
+            "region_id":85688657,
+            "venue_id":169786211
+        }
+    ],
+    "wof:id":169786211,
+    "wof:lastmodified":1449033115,
+    "wof:name":"Access Air",
+    "wof:parent_id":85876337,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "aircraft",
+        "leasing",
+        "charter"
+    ]
+},
+  "bbox": [-116.223878,43.571019,-116.223878,43.571019],
+  "geometry": {"coordinates":[-116.223878,43.571019],"type":"Point"}
+}

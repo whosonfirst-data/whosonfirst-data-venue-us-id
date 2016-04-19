@@ -1,0 +1,65 @@
+{
+  "id": 186003269,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-111.872884,42.08906,-111.872884,42.08906",
+    "geom:latitude":42.08906,
+    "geom:longitude":-111.872884,
+    "iso:country":"US",
+    "sg:address":"143 E 4th S",
+    "sg:city":"Preston",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 852 3917",
+    "sg:postcode":"83263",
+    "sg:province":"ID",
+    "sg:tags":[
+        "exhaust"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85938067,
+        102086097
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3wny4dbr5le44ZjY0YMGeB_42.089060_-111.872884@1294099250"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"384529a268146cdf86fc99ae83a2b780",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086097,
+            "locality_id":85938067,
+            "neighbourhood_id":-1,
+            "region_id":85688657,
+            "venue_id":186003269
+        }
+    ],
+    "wof:id":186003269,
+    "wof:lastmodified":1449052818,
+    "wof:name":"Stanger Automotive Exhaust",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "exhaust"
+    ]
+},
+  "bbox": [-111.872884,42.08906,-111.872884,42.08906],
+  "geometry": {"coordinates":[-111.872884,42.08906],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 185937001,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-116.207693,43.586309,-116.207693,43.586309",
+    "geom:latitude":43.586309,
+    "geom:longitude":-116.207693,
+    "iso:country":"US",
+    "sg:address":"2000 Spaulding St",
+    "sg:city":"Boise",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Tools & Machinery",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 342 7786",
+    "sg:postcode":"83705",
+    "sg:province":"ID",
+    "sg:tags":[
+        "control",
+        "mfg"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85937923,
+        102086087,
+        85876343
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0QwsewR6yIJfpFXGPj4ajy_43.586309_-116.207693@1294099250"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"77a697981dcc4af9fa949cdab2a598e6",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086087,
+            "locality_id":85937923,
+            "neighbourhood_id":85876343,
+            "region_id":85688657,
+            "venue_id":185937001
+        }
+    ],
+    "wof:id":185937001,
+    "wof:lastmodified":1449006925,
+    "wof:name":"Summit Technologies",
+    "wof:parent_id":85876343,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "control",
+        "mfg"
+    ]
+},
+  "bbox": [-116.207693,43.586309,-116.207693,43.586309],
+  "geometry": {"coordinates":[-116.207693,43.586309],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 185715069,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-116.179029,43.602361,-116.179029,43.602361",
+    "geom:latitude":43.602361,
+    "geom:longitude":-116.179029,
+    "iso:country":"US",
+    "sg:address":"1601 E Holly St",
+    "sg:city":"Boise",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 522 7166",
+    "sg:postcode":"83712",
+    "sg:province":"ID",
+    "sg:tags":[
+        "automobile",
+        "customizing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85937923,
+        102086087,
+        85876345
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5y12kPrTF28GBjC7Vx99TM_43.602361_-116.179029@1294099250"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"5efcccdf666c3031ca7b2476de186f77",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086087,
+            "locality_id":85937923,
+            "neighbourhood_id":85876345,
+            "region_id":85688657,
+            "venue_id":185715069
+        }
+    ],
+    "wof:id":185715069,
+    "wof:lastmodified":1449007896,
+    "wof:name":"Custom Auto",
+    "wof:parent_id":85876345,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automobile",
+        "customizing"
+    ]
+},
+  "bbox": [-116.179029,43.602361,-116.179029,43.602361],
+  "geometry": {"coordinates":[-116.179029,43.602361],"type":"Point"}
+}

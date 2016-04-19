@@ -1,0 +1,70 @@
+{
+  "id": 169635513,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-116.222749,43.618194,-116.222749,43.618194",
+    "geom:latitude":43.618194,
+    "geom:longitude":-116.222749,
+    "iso:country":"US",
+    "sg:address":"825 S 17th St",
+    "sg:city":"Boise",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 384 4492",
+    "sg:postcode":"83702",
+    "sg:province":"ID",
+    "sg:tags":[
+        "marking",
+        "maintenance",
+        "parking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85937923,
+        102086087,
+        85876355
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1LUgdRI78uTDrpLE9avPWg_43.618194_-116.222749@1294099250"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"f40a58be8ab449c37c18a309d946ff31",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086087,
+            "locality_id":85937923,
+            "neighbourhood_id":85876355,
+            "region_id":85688657,
+            "venue_id":169635513
+        }
+    ],
+    "wof:id":169635513,
+    "wof:lastmodified":1449034099,
+    "wof:name":"Boise Public Works Eqpt Svc",
+    "wof:parent_id":85876355,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "marking",
+        "maintenance",
+        "parking"
+    ]
+},
+  "bbox": [-116.222749,43.618194,-116.222749,43.618194],
+  "geometry": {"coordinates":[-116.222749,43.618194],"type":"Point"}
+}

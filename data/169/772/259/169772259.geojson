@@ -1,0 +1,68 @@
+{
+  "id": 169772259,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-116.49685,43.69563,-116.49685,43.69563",
+    "geom:latitude":43.69563,
+    "geom:longitude":-116.49685,
+    "iso:country":"US",
+    "sg:address":"11525 W 3rd St",
+    "sg:city":"Star",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"Adult Care",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 286 7873",
+    "sg:postcode":"83669",
+    "sg:province":"ID",
+    "sg:tags":[
+        "home",
+        "residential"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85937923,
+        102086087,
+        85876351
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_25kU8NUNE0oZGghkb2XjuY_43.695630_-116.496850@1294099250"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"cbea815f61de6c65315e8d28e77160f1",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086087,
+            "locality_id":85937923,
+            "neighbourhood_id":85876351,
+            "region_id":85688657,
+            "venue_id":169772259
+        }
+    ],
+    "wof:id":169772259,
+    "wof:lastmodified":1449034150,
+    "wof:name":"Markham Residential Care",
+    "wof:parent_id":85876351,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "home",
+        "residential"
+    ]
+},
+  "bbox": [-116.49685,43.69563,-116.49685,43.69563],
+  "geometry": {"coordinates":[-116.49685,43.69563],"type":"Point"}
+}

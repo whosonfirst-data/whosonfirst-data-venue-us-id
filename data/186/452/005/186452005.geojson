@@ -1,0 +1,66 @@
+{
+  "id": 186452005,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-112.468388,42.949587,-112.468388,42.949587",
+    "geom:latitude":42.949587,
+    "geom:longitude":-112.468388,
+    "iso:country":"US",
+    "sg:address":"12584 W Tyhee Rd",
+    "sg:city":"Pocatello",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Natural Gas",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 637 6400",
+    "sg:postcode":"83202",
+    "sg:province":"ID",
+    "sg:tags":[
+        "company"
+    ],
+    "sg:website":"www.intgas.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85938193,
+        102086113
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0VLGDRMzsCPDPw5ufH2I4R_42.949587_-112.468388@1294099250"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"25672adb7d52a91226b96c3c607a6ebe",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086113,
+            "locality_id":85938193,
+            "neighbourhood_id":-1,
+            "region_id":85688657,
+            "venue_id":186452005
+        }
+    ],
+    "wof:id":186452005,
+    "wof:lastmodified":1449051036,
+    "wof:name":"Intermountain Gas Co",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "company"
+    ]
+},
+  "bbox": [-112.468388,42.949587,-112.468388,42.949587],
+  "geometry": {"coordinates":[-112.468388,42.949587],"type":"Point"}
+}

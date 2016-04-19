@@ -1,0 +1,68 @@
+{
+  "id": 185624305,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-116.223431,43.620506,-116.223431,43.620506",
+    "geom:latitude":43.620506,
+    "geom:longitude":-116.223431,
+    "iso:country":"US",
+    "sg:address":"2537 Fairview Ave",
+    "sg:city":"Boise",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 322 8487",
+    "sg:postcode":"83702",
+    "sg:province":"ID",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85937923,
+        102086087,
+        85876355
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1ZwcHsbNueBvAZrOpdzsYL_43.620506_-116.223431@1294099250"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"f5e3723f0d28afca3dab0484864768a8",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086087,
+            "locality_id":85937923,
+            "neighbourhood_id":85876355,
+            "region_id":85688657,
+            "venue_id":185624305
+        }
+    ],
+    "wof:id":185624305,
+    "wof:lastmodified":1449007692,
+    "wof:name":"Bob's Auto Repair Inc",
+    "wof:parent_id":85876355,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [-116.223431,43.620506,-116.223431,43.620506],
+  "geometry": {"coordinates":[-116.223431,43.620506],"type":"Point"}
+}

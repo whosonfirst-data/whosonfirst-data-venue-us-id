@@ -1,0 +1,66 @@
+{
+  "id": 186276679,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-116.278746,43.646598,-116.278746,43.646598",
+    "geom:latitude":43.646598,
+    "geom:longitude":-116.278746,
+    "iso:country":"US",
+    "sg:address":"4519 Mountain View Dr",
+    "sg:city":"Boise",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Cleaning & Sanitation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 327 8903",
+    "sg:postcode":"83704",
+    "sg:province":"ID",
+    "sg:tags":[
+        "janitor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85937919,
+        102086087,
+        85876349
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5yZnBZJAB6JziLbUvkCMwR_43.646598_-116.278746@1294099250"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"98609e8adad4fa72e091c3a6a67fd864",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086087,
+            "locality_id":85937919,
+            "neighbourhood_id":85876349,
+            "region_id":85688657,
+            "venue_id":186276679
+        }
+    ],
+    "wof:id":186276679,
+    "wof:lastmodified":1449050371,
+    "wof:name":"A Plus Quick N Clean",
+    "wof:parent_id":85876349,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "janitor"
+    ]
+},
+  "bbox": [-116.278746,43.646598,-116.278746,43.646598],
+  "geometry": {"coordinates":[-116.278746,43.646598],"type":"Point"}
+}

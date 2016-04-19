@@ -1,0 +1,80 @@
+{
+  "id": 185914939,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-116.786635,47.725111,-116.786635,47.725111",
+    "geom:latitude":47.725111,
+    "geom:longitude":-116.786635,
+    "iso:country":"US",
+    "sg:address":"5968 N Government Way",
+    "sg:city":"Coeur D Alene",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 762 4786",
+    "sg:postcode":"83815",
+    "sg:province":"ID",
+    "sg:tags":[
+        "repairing",
+        "automobile",
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85938163,
+        102086085,
+        85806325,
+        85821457
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0zfPZsQ1eKbepq9TPQaF2O_47.725111_-116.786635@1294099250"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"bd358deff4eb6a21d6435686c73ec51a",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086085,
+            "locality_id":85938163,
+            "neighbourhood_id":85806325,
+            "region_id":85688657,
+            "venue_id":185914939
+        },
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086085,
+            "locality_id":-1,
+            "neighbourhood_id":85821457,
+            "region_id":85688657,
+            "venue_id":185914939
+        }
+    ],
+    "wof:id":185914939,
+    "wof:lastmodified":1449007223,
+    "wof:name":"Floyd's Auto",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile",
+        "general"
+    ]
+},
+  "bbox": [-116.786635,47.725111,-116.786635,47.725111],
+  "geometry": {"coordinates":[-116.786635,47.725111],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 185743339,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-116.259876,43.59897,-116.259876,43.59897",
+    "geom:latitude":43.59897,
+    "geom:longitude":-116.259876,
+    "iso:country":"US",
+    "sg:address":"6218 Tahoe Dr",
+    "sg:city":"Boise",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 377 4446",
+    "sg:postcode":"83709",
+    "sg:province":"ID",
+    "sg:tags":[
+        "electrical",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85937923,
+        102086087,
+        85876293
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3RsAJlViPhmU257g5Vm8bQ_43.598970_-116.259876@1294099250"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"be58de04f9350d6de59372f8af74add8",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086087,
+            "locality_id":85937923,
+            "neighbourhood_id":85876293,
+            "region_id":85688657,
+            "venue_id":185743339
+        }
+    ],
+    "wof:id":185743339,
+    "wof:lastmodified":1449008191,
+    "wof:name":"Wire Management",
+    "wof:parent_id":85876293,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electrical",
+        "contractor"
+    ]
+},
+  "bbox": [-116.259876,43.59897,-116.259876,43.59897],
+  "geometry": {"coordinates":[-116.259876,43.59897],"type":"Point"}
+}

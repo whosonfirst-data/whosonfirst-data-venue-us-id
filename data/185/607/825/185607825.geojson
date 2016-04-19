@@ -1,0 +1,70 @@
+{
+  "id": 185607825,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-116.195608,43.617284,-116.195608,43.617284",
+    "geom:latitude":43.617284,
+    "geom:longitude":-116.195608,
+    "iso:country":"US",
+    "sg:address":"472 W Washington St",
+    "sg:city":"Boise",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 334 0324",
+    "sg:postcode":"83702",
+    "sg:province":"ID",
+    "sg:tags":[
+        "govt",
+        "state",
+        "utility"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85937923,
+        102086087,
+        85876341
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7CTZurdzmmQMXo8qNU2Xtt_43.617284_-116.195608@1294099250"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"3f2c83c6b34cf3640480c571ac953708",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086087,
+            "locality_id":85937923,
+            "neighbourhood_id":85876341,
+            "region_id":85688657,
+            "venue_id":185607825
+        }
+    ],
+    "wof:id":185607825,
+    "wof:lastmodified":1449006816,
+    "wof:name":"Public Utilities",
+    "wof:parent_id":85876341,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "govt",
+        "state",
+        "utility"
+    ]
+},
+  "bbox": [-116.195608,43.617284,-116.195608,43.617284],
+  "geometry": {"coordinates":[-116.195608,43.617284],"type":"Point"}
+}

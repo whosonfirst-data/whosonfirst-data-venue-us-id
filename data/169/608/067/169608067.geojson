@@ -1,0 +1,66 @@
+{
+  "id": 169608067,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-116.24499,43.600982,-116.24499,43.600982",
+    "geom:latitude":43.600982,
+    "geom:longitude":-116.24499,
+    "iso:country":"US",
+    "sg:address":"5111 Peg St",
+    "sg:city":"Boise",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Cleaning & Sanitation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 338 8997",
+    "sg:postcode":"83705",
+    "sg:province":"ID",
+    "sg:tags":[
+        "maintenance"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85937923,
+        102086087,
+        85876295
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0J9p7Tg6TosnBMG63Rctq7_43.600982_-116.244990@1294099250"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"bb1e75632de996cbddf159e38b0fcf8c",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086087,
+            "locality_id":85937923,
+            "neighbourhood_id":85876295,
+            "region_id":85688657,
+            "venue_id":169608067
+        }
+    ],
+    "wof:id":169608067,
+    "wof:lastmodified":1449034081,
+    "wof:name":"Senco Cleaning",
+    "wof:parent_id":85876295,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "maintenance"
+    ]
+},
+  "bbox": [-116.24499,43.600982,-116.24499,43.600982],
+  "geometry": {"coordinates":[-116.24499,43.600982],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 186469725,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-114.75347,42.586633,-114.75347,42.586633",
+    "geom:latitude":42.586633,
+    "geom:longitude":-114.75347,
+    "iso:country":"US",
+    "sg:address":"948 Robertson St",
+    "sg:city":"Buhl",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 543 5827",
+    "sg:postcode":"83316",
+    "sg:province":"ID",
+    "sg:tags":[
+        "repairing",
+        "automotive",
+        "radiator",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85937891,
+        102085153
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_05Ki57bVblSlTVWLYCHRuk_42.586633_-114.753470@1294099250"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"d24649c634387bd913d01f908b4bf2f3",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085153,
+            "locality_id":85937891,
+            "neighbourhood_id":-1,
+            "region_id":85688657,
+            "venue_id":186469725
+        }
+    ],
+    "wof:id":186469725,
+    "wof:lastmodified":1449053083,
+    "wof:name":"Gene's Radiator Shop",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automotive",
+        "radiator",
+        "automobile"
+    ]
+},
+  "bbox": [-114.75347,42.586633,-114.75347,42.586633],
+  "geometry": {"coordinates":[-114.75347,42.586633],"type":"Point"}
+}

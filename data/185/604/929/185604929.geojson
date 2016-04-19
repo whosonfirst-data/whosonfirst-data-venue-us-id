@@ -1,0 +1,66 @@
+{
+  "id": 185604929,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-116.545266,43.543279,-116.545266,43.543279",
+    "geom:latitude":43.543279,
+    "geom:longitude":-116.545266,
+    "iso:country":"US",
+    "sg:address":"2205 Estates Dr",
+    "sg:city":"Nampa",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Car Wash",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 467 2554",
+    "sg:postcode":"83686",
+    "sg:province":"ID",
+    "sg:tags":[
+        "carwash"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85938009,
+        102085081,
+        85827787
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4UxQrnMTV3UJhSbIqmxb5M_43.543279_-116.545266@1294099250"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"ea474d0d71b568cee17d07f5c028ac28",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085081,
+            "locality_id":85938009,
+            "neighbourhood_id":85827787,
+            "region_id":85688657,
+            "venue_id":185604929
+        }
+    ],
+    "wof:id":185604929,
+    "wof:lastmodified":1449008036,
+    "wof:name":"Hefner Custom Car",
+    "wof:parent_id":85827787,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "carwash"
+    ]
+},
+  "bbox": [-116.545266,43.543279,-116.545266,43.543279],
+  "geometry": {"coordinates":[-116.545266,43.543279],"type":"Point"}
+}

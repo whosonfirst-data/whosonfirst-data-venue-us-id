@@ -1,0 +1,65 @@
+{
+  "id": 185997187,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-111.911417,43.673197,-111.911417,43.673197",
+    "geom:latitude":43.673197,
+    "geom:longitude":-111.911417,
+    "iso:country":"US",
+    "sg:address":"200 E Fremont Ave",
+    "sg:city":"Rigby",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Police Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 745 9210",
+    "sg:postcode":"83442",
+    "sg:province":"ID",
+    "sg:tags":[
+        "sheriff"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85938121,
+        102086033
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3HHOKYZfM2fuwQFYAh9sUx_43.673197_-111.911417@1294099250"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"b375dd4f113267dd776fcbaf71c7ca8d",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086033,
+            "locality_id":85938121,
+            "neighbourhood_id":-1,
+            "region_id":85688657,
+            "venue_id":185997187
+        }
+    ],
+    "wof:id":185997187,
+    "wof:lastmodified":1449007949,
+    "wof:name":"Jefferson County Sheriff",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "sheriff"
+    ]
+},
+  "bbox": [-111.911417,43.673197,-111.911417,43.673197],
+  "geometry": {"coordinates":[-111.911417,43.673197],"type":"Point"}
+}

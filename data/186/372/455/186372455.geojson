@@ -1,0 +1,67 @@
+{
+  "id": 186372455,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-112.248479,42.187664,-112.248479,42.187664",
+    "geom:latitude":42.187664,
+    "geom:longitude":-112.248479,
+    "iso:country":"US",
+    "sg:address":"105 Bannock St",
+    "sg:city":"Malad City",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 766 2238",
+    "sg:postcode":"83252",
+    "sg:province":"ID",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85938037,
+        102086077
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5PU2lmQjjdL8vHyBn2wK2P_42.187664_-112.248479@1294099250"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"3f0d0e5d50554318c3a98cd48e708dc6",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086077,
+            "locality_id":85938037,
+            "neighbourhood_id":-1,
+            "region_id":85688657,
+            "venue_id":186372455
+        }
+    ],
+    "wof:id":186372455,
+    "wof:lastmodified":1449051990,
+    "wof:name":"Robbins Repair",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [-112.248479,42.187664,-112.248479,42.187664],
+  "geometry": {"coordinates":[-112.248479,42.187664],"type":"Point"}
+}

@@ -1,0 +1,82 @@
+{
+  "id": 169636395,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-116.794354,47.707158,-116.794354,47.707158",
+    "geom:latitude":47.707158,
+    "geom:longitude":-116.794354,
+    "iso:country":"US",
+    "sg:address":"406 W Neider Ave",
+    "sg:city":"Coeur D Alene",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Department Store",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 676 1790",
+    "sg:postcode":"83815",
+    "sg:province":"ID",
+    "sg:tags":[
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85938163,
+        102086085,
+        85806325,
+        85821457
+    ],
+    "wof:brand_id":420573823,
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5i06A6oQFb67IcCII7ks6l_47.707158_-116.794354@1294099250"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"ee9afd976922606b6a5aad70b4e65581",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086085,
+            "locality_id":85938163,
+            "neighbourhood_id":85806325,
+            "region_id":85688657,
+            "venue_id":169636395
+        },
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086085,
+            "locality_id":-1,
+            "neighbourhood_id":85821457,
+            "region_id":85688657,
+            "venue_id":169636395
+        }
+    ],
+    "wof:id":169636395,
+    "wof:lastmodified":1457207556,
+    "wof:name":"Dollar Tree",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop"
+    ]
+},
+  "bbox": [
+    -116.794354,
+    47.707158,
+    -116.794354,
+    47.707158
+],
+  "geometry": {"coordinates":[-116.794354,47.707158],"type":"Point"}
+}

@@ -1,0 +1,79 @@
+{
+  "id": 186547909,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-116.792093,47.722696,-116.792093,47.722696",
+    "geom:latitude":47.722696,
+    "geom:longitude":-116.792093,
+    "iso:country":"US",
+    "sg:address":"351 W Dalton Ave",
+    "sg:city":"Coeur D Alene",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 664 8202",
+    "sg:postcode":"83815",
+    "sg:province":"ID",
+    "sg:tags":[
+        "car",
+        "dealer"
+    ],
+    "sg:website":"www.robideauxmotors.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85938163,
+        102086085,
+        85806325,
+        85821457
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_09zJRuSoWs1bolWKAV2C06_47.722696_-116.792093@1294099250"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"f32b3c176657644229694056095cf624",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086085,
+            "locality_id":85938163,
+            "neighbourhood_id":85806325,
+            "region_id":85688657,
+            "venue_id":186547909
+        },
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086085,
+            "locality_id":-1,
+            "neighbourhood_id":85821457,
+            "region_id":85688657,
+            "venue_id":186547909
+        }
+    ],
+    "wof:id":186547909,
+    "wof:lastmodified":1449050516,
+    "wof:name":"Robideaux Motors Co",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "car",
+        "dealer"
+    ]
+},
+  "bbox": [-116.792093,47.722696,-116.792093,47.722696],
+  "geometry": {"coordinates":[-116.792093,47.722696],"type":"Point"}
+}

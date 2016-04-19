@@ -1,0 +1,65 @@
+{
+  "id": 185897521,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-116.275829,43.590157,-116.275829,43.590157",
+    "geom:latitude":43.590157,
+    "geom:longitude":-116.275829,
+    "iso:country":"US",
+    "sg:address":"7709 Overland Rd",
+    "sg:city":"Boise",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Candy",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 658 0411",
+    "sg:postcode":"83709",
+    "sg:province":"ID",
+    "sg:tags":[
+        "confectionery"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        102086087,
+        85876321
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0ae1DivxEFarTfRww9ETCQ_43.590157_-116.275829@1294099250"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"387dd61fd8e0a94b95db56342a7b60ee",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086087,
+            "locality_id":-1,
+            "neighbourhood_id":85876321,
+            "region_id":85688657,
+            "venue_id":185897521
+        }
+    ],
+    "wof:id":185897521,
+    "wof:lastmodified":1449007977,
+    "wof:name":"Goody's Soda Fountain & Candy",
+    "wof:parent_id":85876321,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "confectionery"
+    ]
+},
+  "bbox": [-116.275829,43.590157,-116.275829,43.590157],
+  "geometry": {"coordinates":[-116.275829,43.590157],"type":"Point"}
+}

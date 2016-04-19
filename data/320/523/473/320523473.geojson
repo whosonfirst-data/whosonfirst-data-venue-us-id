@@ -1,0 +1,74 @@
+{
+  "id": 320523473,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-117.032392,46.418574,-117.032392,46.418574",
+    "geom:latitude":46.418574,
+    "geom:longitude":-117.032392,
+    "iso:country":"US",
+    "sg:address":"227 Snake River Ave",
+    "sg:city":"Lewiston",
+    "sg:classifiers":[
+        {
+            "category":"Recreation",
+            "subcategory":"Boat Charter",
+            "type":"Entertainment"
+        },
+        {
+            "category":"Marine",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 746 6276",
+    "sg:postcode":"83501",
+    "sg:province":"ID",
+    "sg:tags":[
+        "boat-rental",
+        "terminals-river"
+    ],
+    "sg:website":"http://www.snakeriveradventures.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85937743,
+        102086039,
+        85852537
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0KR5nsV1RLxbTnmuxavGRX_46.418574_-117.032392@1303263095"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"6860c23d0fd52d7f2bb791a04671bcf6",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086039,
+            "locality_id":85937743,
+            "neighbourhood_id":85852537,
+            "region_id":85688657,
+            "venue_id":320523473
+        }
+    ],
+    "wof:id":320523473,
+    "wof:lastmodified":1449013413,
+    "wof:name":"Snake River Adventures",
+    "wof:parent_id":85852537,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "boat-rental",
+        "terminals-river"
+    ]
+},
+  "bbox": [-117.032392,46.418574,-117.032392,46.418574],
+  "geometry": {"coordinates":[-117.032392,46.418574],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 186426355,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-116.786411,47.767515,-116.786411,47.767515",
+    "geom:latitude":47.767515,
+    "geom:longitude":-116.786411,
+    "iso:country":"US",
+    "sg:address":"10664 N Government Way",
+    "sg:city":"Hayden",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 762 6888",
+    "sg:postcode":"83835",
+    "sg:province":"ID",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        102086085,
+        85821457
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6Rw4n5Wv0BPoIOrlUZm7Ag_47.767515_-116.786411@1294099250"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"29c65e1e740ca652864ae80206eacc5d",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086085,
+            "locality_id":-1,
+            "neighbourhood_id":85821457,
+            "region_id":85688657,
+            "venue_id":186426355
+        }
+    ],
+    "wof:id":186426355,
+    "wof:lastmodified":1449050973,
+    "wof:name":"R C Transmissions",
+    "wof:parent_id":85821457,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [-116.786411,47.767515,-116.786411,47.767515],
+  "geometry": {"coordinates":[-116.786411,47.767515],"type":"Point"}
+}

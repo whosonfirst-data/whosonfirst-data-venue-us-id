@@ -1,0 +1,68 @@
+{
+  "id": 185744267,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-116.23646,43.623106,-116.23646,43.623106",
+    "geom:latitude":43.623106,
+    "geom:longitude":-116.23646,
+    "iso:country":"US",
+    "sg:address":"107 E 33rd St",
+    "sg:city":"Boise",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 345 1420",
+    "sg:postcode":"83714",
+    "sg:province":"ID",
+    "sg:tags":[
+        "automobile",
+        "suspension"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85937923,
+        102086087,
+        85876301
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0Q0ryYPI8ck7pcMPbEwk7j_43.623106_-116.236460@1294099250"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"2bdbb7ef94d56c6e2697cbc966438b58",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086087,
+            "locality_id":85937923,
+            "neighbourhood_id":85876301,
+            "region_id":85688657,
+            "venue_id":185744267
+        }
+    ],
+    "wof:id":185744267,
+    "wof:lastmodified":1449007176,
+    "wof:name":"Tompkins Auto Repair",
+    "wof:parent_id":85876301,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automobile",
+        "suspension"
+    ]
+},
+  "bbox": [-116.23646,43.623106,-116.23646,43.623106],
+  "geometry": {"coordinates":[-116.23646,43.623106],"type":"Point"}
+}

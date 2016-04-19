@@ -1,0 +1,68 @@
+{
+  "id": 186392059,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-116.264497,43.637524,-116.264497,43.637524",
+    "geom:latitude":43.637524,
+    "geom:longitude":-116.264497,
+    "iso:country":"US",
+    "sg:address":"204 Murray St",
+    "sg:city":"Boise",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 322 1499",
+    "sg:postcode":"83714",
+    "sg:province":"ID",
+    "sg:tags":[
+        "heating",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85937919,
+        102086087,
+        85876349
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1L97dDxxN6yN8aBDKuQA6y_43.637524_-116.264497@1294099250"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"d60e3b56236e39b79d9b0dec8bbd7c7f",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086087,
+            "locality_id":85937919,
+            "neighbourhood_id":85876349,
+            "region_id":85688657,
+            "venue_id":186392059
+        }
+    ],
+    "wof:id":186392059,
+    "wof:lastmodified":1449052476,
+    "wof:name":"Nu Mechanical",
+    "wof:parent_id":85876349,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "heating",
+        "contractor"
+    ]
+},
+  "bbox": [-116.264497,43.637524,-116.264497,43.637524],
+  "geometry": {"coordinates":[-116.264497,43.637524],"type":"Point"}
+}

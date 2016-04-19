@@ -1,0 +1,66 @@
+{
+  "id": 169824477,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-116.213614,43.59081,-116.213614,43.59081",
+    "geom:latitude":43.59081,
+    "geom:longitude":-116.213614,
+    "iso:country":"US",
+    "sg:address":"1504 Vista Ave",
+    "sg:city":"Boise",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Laundry & Dry Cleaning",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 342 3891",
+    "sg:postcode":"83705",
+    "sg:province":"ID",
+    "sg:tags":[
+        "cleaners"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85937923,
+        102086087,
+        85876343
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1BB0gdcjSpRohJ2SKbcFJ7_43.590810_-116.213614@1294099250"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"6684e1460d4542f3d4af8d8312f64466",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086087,
+            "locality_id":85937923,
+            "neighbourhood_id":85876343,
+            "region_id":85688657,
+            "venue_id":169824477
+        }
+    ],
+    "wof:id":169824477,
+    "wof:lastmodified":1449033865,
+    "wof:name":"Bairds Dry Cleaners",
+    "wof:parent_id":85876343,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cleaners"
+    ]
+},
+  "bbox": [-116.213614,43.59081,-116.213614,43.59081],
+  "geometry": {"coordinates":[-116.213614,43.59081],"type":"Point"}
+}

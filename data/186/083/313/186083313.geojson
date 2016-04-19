@@ -1,0 +1,67 @@
+{
+  "id": 186083313,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-116.786309,47.775987,-116.786309,47.775987",
+    "geom:latitude":47.775987,
+    "geom:longitude":-116.786309,
+    "iso:country":"US",
+    "sg:address":"11370 N Government Way",
+    "sg:city":"Hayden Lake",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 772 5379",
+    "sg:postcode":"83835",
+    "sg:province":"ID",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        102086085,
+        85821457
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5azZSvqo5UtgYTskiVzsLF_47.775987_-116.786309@1294099250"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"98448f24d53a2a0af1ec40898e20c7a7",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086085,
+            "locality_id":-1,
+            "neighbourhood_id":85821457,
+            "region_id":85688657,
+            "venue_id":186083313
+        }
+    ],
+    "wof:id":186083313,
+    "wof:lastmodified":1449051651,
+    "wof:name":"Hayden Lake Volks Repair",
+    "wof:parent_id":85821457,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [-116.786309,47.775987,-116.786309,47.775987],
+  "geometry": {"coordinates":[-116.786309,47.775987],"type":"Point"}
+}

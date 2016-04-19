@@ -1,0 +1,66 @@
+{
+  "id": 186104689,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-116.251685,43.606139,-116.251685,43.606139",
+    "geom:latitude":43.606139,
+    "geom:longitude":-116.251685,
+    "iso:country":"US",
+    "sg:address":"5475 Bethel St",
+    "sg:city":"Boise",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Medical Lab",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 367 6370",
+    "sg:postcode":"83706",
+    "sg:province":"ID",
+    "sg:tags":[
+        "laboratory"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85937923,
+        102086087,
+        85806577
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0ASOjFMrMnU4lskyDus61B_43.606139_-116.251685@1294099250"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"07abcf48a5a7a25e5e2bca73e9eeffff",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086087,
+            "locality_id":85937923,
+            "neighbourhood_id":85806577,
+            "region_id":85688657,
+            "venue_id":186104689
+        }
+    ],
+    "wof:id":186104689,
+    "wof:lastmodified":1449051482,
+    "wof:name":"Treasure Valley Laboratory",
+    "wof:parent_id":85806577,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "laboratory"
+    ]
+},
+  "bbox": [-116.251685,43.606139,-116.251685,43.606139],
+  "geometry": {"coordinates":[-116.251685,43.606139],"type":"Point"}
+}

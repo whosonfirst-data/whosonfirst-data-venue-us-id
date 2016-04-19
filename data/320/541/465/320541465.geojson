@@ -1,0 +1,88 @@
+{
+  "id": 320541465,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-116.263565,43.65875,-116.263565,43.65875",
+    "geom:latitude":43.65875,
+    "geom:longitude":-116.263565,
+    "iso:country":"US",
+    "sg:address":"5991 W State St Ste B",
+    "sg:city":"Boise",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Food",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Wholesale",
+            "subcategory":"Groceries",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Ice Cream",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 702 853 8575",
+    "sg:postcode":"83703",
+    "sg:province":"ID",
+    "sg:tags":[
+        "frozen",
+        "dessert",
+        "desserts-manufacturers",
+        "distributor",
+        "foods-wholesale"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        102086087,
+        85811879
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_59BIQWUKEIRwp87xGIbHju_43.658750_-116.263565@1303263095"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"c31dbf06ae1b271ab294a77db3318f97",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086087,
+            "locality_id":-1,
+            "neighbourhood_id":85811879,
+            "region_id":85688657,
+            "venue_id":320541465
+        }
+    ],
+    "wof:id":320541465,
+    "wof:lastmodified":1449011657,
+    "wof:name":"Matterhorn Group Inc",
+    "wof:parent_id":85811879,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "frozen",
+        "dessert",
+        "desserts-manufacturers",
+        "distributor",
+        "foods-wholesale"
+    ]
+},
+  "bbox": [-116.263565,43.65875,-116.263565,43.65875],
+  "geometry": {"coordinates":[-116.263565,43.65875],"type":"Point"}
+}

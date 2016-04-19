@@ -1,0 +1,72 @@
+{
+  "id": 337319457,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-112.119754,43.386368,-112.119754,43.386368",
+    "geom:latitude":43.386368,
+    "geom:longitude":-112.119754,
+    "iso:country":"US",
+    "sg:address":"370 N State St",
+    "sg:city":"Shelley",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Veterinary Services",
+            "type":"Services"
+        },
+        {
+            "category":"Education",
+            "subcategory":"Dance Studio",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 357 3401",
+    "sg:postcode":"83274",
+    "sg:province":"ID",
+    "sg:tags":[
+        "instruction",
+        "dancing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85938005,
+        102086105
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3bR5KXliESQ2jb49LAv8G0_43.386368_-112.119754@1294099250"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"72e8ccd1f80d5510781db67eb17ed3b2",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086105,
+            "locality_id":85938005,
+            "neighbourhood_id":-1,
+            "region_id":85688657,
+            "venue_id":337319457
+        }
+    ],
+    "wof:id":337319457,
+    "wof:lastmodified":1449027264,
+    "wof:name":"Higham Veterinary Clinic",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "instruction",
+        "dancing"
+    ]
+},
+  "bbox": [-112.119754,43.386368,-112.119754,43.386368],
+  "geometry": {"coordinates":[-112.119754,43.386368],"type":"Point"}
+}

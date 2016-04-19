@@ -1,0 +1,67 @@
+{
+  "id": 186285863,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-111.778007,43.836868,-111.778007,43.836868",
+    "geom:latitude":43.836868,
+    "geom:longitude":-111.778007,
+    "iso:country":"US",
+    "sg:address":"582 N 2nd E",
+    "sg:city":"Rexburg",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 359 0559",
+    "sg:postcode":"83440",
+    "sg:province":"ID",
+    "sg:tags":[
+        "automobile",
+        "lubrication"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85937903,
+        102086101
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3vpxvPMNLUlZcrrhkyhLhz_43.836868_-111.778007@1294099250"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"a95c8fbd001189f5b68843acd390f01a",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086101,
+            "locality_id":85937903,
+            "neighbourhood_id":-1,
+            "region_id":85688657,
+            "venue_id":186285863
+        }
+    ],
+    "wof:id":186285863,
+    "wof:lastmodified":1449050340,
+    "wof:name":"Grease Monkey",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automobile",
+        "lubrication"
+    ]
+},
+  "bbox": [-111.778007,43.836868,-111.778007,43.836868],
+  "geometry": {"coordinates":[-111.778007,43.836868],"type":"Point"}
+}

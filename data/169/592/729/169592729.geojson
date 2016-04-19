@@ -1,0 +1,66 @@
+{
+  "id": 169592729,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-116.314261,43.590577,-116.314261,43.590577",
+    "geom:latitude":43.590577,
+    "geom:longitude":-116.314261,
+    "iso:country":"US",
+    "sg:address":"1331 S Five Mile Rd",
+    "sg:city":"Boise",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 375 3754",
+    "sg:postcode":"83709",
+    "sg:province":"ID",
+    "sg:tags":[
+        "dentist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85937923,
+        102086087,
+        85876309
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0PtThTW1orhFN4pnKUoCNu_43.590577_-116.314261@1294099250"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"897d45579aaae581fdd5df506e2c7352",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086087,
+            "locality_id":85937923,
+            "neighbourhood_id":85876309,
+            "region_id":85688657,
+            "venue_id":169592729
+        }
+    ],
+    "wof:id":169592729,
+    "wof:lastmodified":1449034584,
+    "wof:name":"Douglas C Hymas DDS",
+    "wof:parent_id":85876309,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dentist"
+    ]
+},
+  "bbox": [-116.314261,43.590577,-116.314261,43.590577],
+  "geometry": {"coordinates":[-116.314261,43.590577],"type":"Point"}
+}

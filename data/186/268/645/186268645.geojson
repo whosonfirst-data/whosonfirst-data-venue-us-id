@@ -1,0 +1,71 @@
+{
+  "id": 186268645,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-113.887397,45.172975,-113.887397,45.172975",
+    "geom:latitude":45.172975,
+    "geom:longitude":-113.887397,
+    "iso:country":"US",
+    "sg:address":"1211 Main St",
+    "sg:city":"Salmon",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 940 0092",
+    "sg:postcode":"83467",
+    "sg:province":"ID",
+    "sg:tags":[
+        "repairing",
+        "light",
+        "truck",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85938133,
+        102085123
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_031UiiW81GRG3OqzmGbJCa_45.172975_-113.887397@1294099250"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"04bcac0da0e51f1c77954b10ed33d553",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085123,
+            "locality_id":85938133,
+            "neighbourhood_id":-1,
+            "region_id":85688657,
+            "venue_id":186268645
+        }
+    ],
+    "wof:id":186268645,
+    "wof:lastmodified":1449051904,
+    "wof:name":"Good News Garage",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "light",
+        "truck",
+        "automobile"
+    ]
+},
+  "bbox": [-113.887397,45.172975,-113.887397,45.172975],
+  "geometry": {"coordinates":[-113.887397,45.172975],"type":"Point"}
+}

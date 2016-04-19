@@ -1,0 +1,75 @@
+{
+  "id": 320539783,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-116.965204,44.250327,-116.965204,44.250327",
+    "geom:latitude":44.250327,
+    "geom:longitude":-116.965204,
+    "iso:country":"US",
+    "sg:address":"320 E Galloway Ave",
+    "sg:city":"Weiser",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"School",
+            "type":"Public Place"
+        },
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 414 2620",
+    "sg:postcode":"83672",
+    "sg:province":"ID",
+    "sg:tags":[
+        "parish",
+        "government-county",
+        "middle"
+    ],
+    "sg:website":"http://www.sd431.k12.id.us",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85937739,
+        102085079
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1iE36BHb9PGL6oQ2rrO3gW_44.250327_-116.965204@1303263095"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"97277a923eded8c7d3b07b07e66bf849",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085079,
+            "locality_id":85937739,
+            "neighbourhood_id":-1,
+            "region_id":85688657,
+            "venue_id":320539783
+        }
+    ],
+    "wof:id":320539783,
+    "wof:lastmodified":1449015040,
+    "wof:name":"Weiser Middle School",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "parish",
+        "government-county",
+        "middle"
+    ]
+},
+  "bbox": [-116.965204,44.250327,-116.965204,44.250327],
+  "geometry": {"coordinates":[-116.965204,44.250327],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 185694245,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-116.23625,43.624499,-116.23625,43.624499",
+    "geom:latitude":43.624499,
+    "geom:longitude":-116.23625,
+    "iso:country":"US",
+    "sg:address":"214 E 34th St",
+    "sg:city":"Boise",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 384 1888",
+    "sg:postcode":"83714",
+    "sg:province":"ID",
+    "sg:tags":[
+        "general",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85937923,
+        102086087,
+        85876301
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4tR62S6ExsH8AzodYjifTt_43.624499_-116.236250@1294099250"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"139be8b904ce290da5c9c5ec44f580cb",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086087,
+            "locality_id":85937923,
+            "neighbourhood_id":85876301,
+            "region_id":85688657,
+            "venue_id":185694245
+        }
+    ],
+    "wof:id":185694245,
+    "wof:lastmodified":1449007062,
+    "wof:name":"Gorringe Brothers Construction",
+    "wof:parent_id":85876301,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "general",
+        "contractor"
+    ]
+},
+  "bbox": [-116.23625,43.624499,-116.23625,43.624499],
+  "geometry": {"coordinates":[-116.23625,43.624499],"type":"Point"}
+}

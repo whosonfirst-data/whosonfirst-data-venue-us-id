@@ -1,0 +1,68 @@
+{
+  "id": 169720253,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-116.234181,43.557431,-116.234181,43.557431",
+    "geom:latitude":43.557431,
+    "geom:longitude":-116.234181,
+    "iso:country":"US",
+    "sg:address":"4040 W Guard St",
+    "sg:city":"Boise",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 389 5011",
+    "sg:postcode":"83705",
+    "sg:province":"ID",
+    "sg:tags":[
+        "military",
+        "division"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85937923,
+        102086087,
+        85825393
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7Aq916GKVbqYHqmsTG4kJX_43.557431_-116.234181@1294099250"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"8bbffb6277f1448f4ccf86130b834184",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086087,
+            "locality_id":85937923,
+            "neighbourhood_id":85825393,
+            "region_id":85688657,
+            "venue_id":169720253
+        }
+    ],
+    "wof:id":169720253,
+    "wof:lastmodified":1449033483,
+    "wof:name":"Military Idaho Division of",
+    "wof:parent_id":85825393,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "military",
+        "division"
+    ]
+},
+  "bbox": [-116.234181,43.557431,-116.234181,43.557431],
+  "geometry": {"coordinates":[-116.234181,43.557431],"type":"Point"}
+}

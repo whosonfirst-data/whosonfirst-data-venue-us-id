@@ -1,0 +1,67 @@
+{
+  "id": 186272681,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-116.547736,48.273932,-116.547736,48.273932",
+    "geom:latitude":48.273932,
+    "geom:longitude":-116.547736,
+    "iso:country":"US",
+    "sg:address":"111 N 1st Ave",
+    "sg:city":"Sandpoint",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Specialty",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 263 1650",
+    "sg:postcode":"83864",
+    "sg:province":"ID",
+    "sg:tags":[
+        "tea",
+        "coffee"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85937975,
+        102085145
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4vtyH6U3v0S2n2hdYozAKq_48.273932_-116.547736@1294099250"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"2a468e22570cf95deb2038bc2feb18ad",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085145,
+            "locality_id":85937975,
+            "neighbourhood_id":-1,
+            "region_id":85688657,
+            "venue_id":186272681
+        }
+    ],
+    "wof:id":186272681,
+    "wof:lastmodified":1449052847,
+    "wof:name":"That Place Espresso-Smoothies",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "tea",
+        "coffee"
+    ]
+},
+  "bbox": [-116.547736,48.273932,-116.547736,48.273932],
+  "geometry": {"coordinates":[-116.547736,48.273932],"type":"Point"}
+}

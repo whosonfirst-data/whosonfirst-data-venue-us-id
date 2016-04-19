@@ -1,0 +1,68 @@
+{
+  "id": 185846829,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-116.25432,43.593965,-116.25432,43.593965",
+    "geom:latitude":43.593965,
+    "geom:longitude":-116.25432,
+    "iso:country":"US",
+    "sg:address":"5877 Kootenai Ln",
+    "sg:city":"Boise",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 345 3490",
+    "sg:postcode":"83705",
+    "sg:province":"ID",
+    "sg:tags":[
+        "building",
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85937923,
+        102086087,
+        85876293
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2sIXKuAFiWY28tuUe4yTAy_43.593965_-116.254320@1294099250"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"af18de9932ed7df7ca1b3402df0872ae",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086087,
+            "locality_id":85937923,
+            "neighbourhood_id":85876293,
+            "region_id":85688657,
+            "venue_id":185846829
+        }
+    ],
+    "wof:id":185846829,
+    "wof:lastmodified":1449007877,
+    "wof:name":"Mather Capital",
+    "wof:parent_id":85876293,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "building",
+        "apartment"
+    ]
+},
+  "bbox": [-116.25432,43.593965,-116.25432,43.593965],
+  "geometry": {"coordinates":[-116.25432,43.593965],"type":"Point"}
+}

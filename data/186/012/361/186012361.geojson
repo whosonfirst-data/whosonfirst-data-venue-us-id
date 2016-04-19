@@ -1,0 +1,67 @@
+{
+  "id": 186012361,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-116.253857,43.664944,-116.253857,43.664944",
+    "geom:latitude":43.664944,
+    "geom:longitude":-116.253857,
+    "iso:country":"US",
+    "sg:address":"5275 W Elmer St",
+    "sg:city":"Boise",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Groceries",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 344 8725",
+    "sg:postcode":"83703",
+    "sg:province":"ID",
+    "sg:tags":[
+        "food",
+        "snack"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        102086087,
+        85811879
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2mytYdbY9oAlaH02RQhWir_43.664944_-116.253857@1294099250"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"1f0ebb84d91582e33a636899aa24e0f6",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086087,
+            "locality_id":-1,
+            "neighbourhood_id":85811879,
+            "region_id":85688657,
+            "venue_id":186012361
+        }
+    ],
+    "wof:id":186012361,
+    "wof:lastmodified":1449052753,
+    "wof:name":"Wilsons Distributors",
+    "wof:parent_id":85811879,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "food",
+        "snack"
+    ]
+},
+  "bbox": [-116.253857,43.664944,-116.253857,43.664944],
+  "geometry": {"coordinates":[-116.253857,43.664944],"type":"Point"}
+}

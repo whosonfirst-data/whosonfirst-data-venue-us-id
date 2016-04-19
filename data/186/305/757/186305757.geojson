@@ -1,0 +1,67 @@
+{
+  "id": 186305757,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-112.840302,42.788657,-112.840302,42.788657",
+    "geom:latitude":42.788657,
+    "geom:longitude":-112.840302,
+    "iso:country":"US",
+    "sg:address":"2831 Pocatello Ave",
+    "sg:city":"American Falls",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 226 2424",
+    "sg:postcode":"83211",
+    "sg:province":"ID",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85938107,
+        102085061
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3i0GeLaVSgDx4HtB2gShuo_42.788657_-112.840302@1294099250"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"cc4d8aad0df0ebac1b889312ab3bc9e5",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085061,
+            "locality_id":85938107,
+            "neighbourhood_id":-1,
+            "region_id":85688657,
+            "venue_id":186305757
+        }
+    ],
+    "wof:id":186305757,
+    "wof:lastmodified":1449050803,
+    "wof:name":"ABC Auto",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [-112.840302,42.788657,-112.840302,42.788657],
+  "geometry": {"coordinates":[-112.840302,42.788657],"type":"Point"}
+}

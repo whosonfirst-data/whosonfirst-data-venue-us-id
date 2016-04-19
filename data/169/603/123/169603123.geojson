@@ -1,0 +1,66 @@
+{
+  "id": 169603123,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-116.269467,43.59006,-116.269467,43.59006",
+    "geom:latitude":43.59006,
+    "geom:longitude":-116.269467,
+    "iso:country":"US",
+    "sg:address":"7005 Overland Rd",
+    "sg:city":"Boise",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Equipment Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 658 4577",
+    "sg:postcode":"83709",
+    "sg:province":"ID",
+    "sg:tags":[
+        "appliance"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85937923,
+        102086087,
+        85876293
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2gw3Tn5cswvipje4CtNTeh_43.590060_-116.269467@1294099250"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"6df5205d4ee15ee2af59692e99889d00",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086087,
+            "locality_id":85937923,
+            "neighbourhood_id":85876293,
+            "region_id":85688657,
+            "venue_id":169603123
+        }
+    ],
+    "wof:id":169603123,
+    "wof:lastmodified":1449035451,
+    "wof:name":"Central-Your Rental Purchase",
+    "wof:parent_id":85876293,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "appliance"
+    ]
+},
+  "bbox": [-116.269467,43.59006,-116.269467,43.59006],
+  "geometry": {"coordinates":[-116.269467,43.59006],"type":"Point"}
+}

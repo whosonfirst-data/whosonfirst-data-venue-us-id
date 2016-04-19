@@ -1,0 +1,68 @@
+{
+  "id": 186409325,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-116.24533,43.623008,-116.24533,43.623008",
+    "geom:latitude":43.623008,
+    "geom:longitude":-116.24533,
+    "iso:country":"US",
+    "sg:address":"107 W 37th St",
+    "sg:city":"Boise",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 342 6407",
+    "sg:postcode":"83714",
+    "sg:province":"ID",
+    "sg:tags":[
+        "boiler",
+        "cleaning"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85937923,
+        102086087,
+        85876301
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6OGFYKvfttaE7a2qxGZ241_43.623008_-116.245330@1294099250"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"1cba02bb4a3f4e5e71705491d471703e",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086087,
+            "locality_id":85937923,
+            "neighbourhood_id":85876301,
+            "region_id":85688657,
+            "venue_id":186409325
+        }
+    ],
+    "wof:id":186409325,
+    "wof:lastmodified":1449051479,
+    "wof:name":"Jones Boiler & Mechanical Inc",
+    "wof:parent_id":85876301,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "boiler",
+        "cleaning"
+    ]
+},
+  "bbox": [-116.24533,43.623008,-116.24533,43.623008],
+  "geometry": {"coordinates":[-116.24533,43.623008],"type":"Point"}
+}

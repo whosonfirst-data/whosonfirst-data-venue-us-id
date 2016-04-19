@@ -1,0 +1,66 @@
+{
+  "id": 185991517,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-116.492726,43.875637,-116.492726,43.875637",
+    "geom:latitude":43.875637,
+    "geom:longitude":-116.492726,
+    "iso:country":"US",
+    "sg:address":"501 E Main St",
+    "sg:city":"Emmett",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Police Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 365 6055",
+    "sg:postcode":"83617",
+    "sg:province":"ID",
+    "sg:tags":[
+        "department"
+    ],
+    "sg:website":"www.emmettpolice.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85937855,
+        102085095
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2c8OAIqhXM05w7hJrkIN7n_43.875637_-116.492726@1294099250"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"69519474110479e6738153b8b61a2a60",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085095,
+            "locality_id":85937855,
+            "neighbourhood_id":-1,
+            "region_id":85688657,
+            "venue_id":185991517
+        }
+    ],
+    "wof:id":185991517,
+    "wof:lastmodified":1449007107,
+    "wof:name":"Emmett Police Dept",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "department"
+    ]
+},
+  "bbox": [-116.492726,43.875637,-116.492726,43.875637],
+  "geometry": {"coordinates":[-116.492726,43.875637],"type":"Point"}
+}

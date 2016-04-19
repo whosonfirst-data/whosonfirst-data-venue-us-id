@@ -1,0 +1,68 @@
+{
+  "id": 169778211,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-116.237551,43.659907,-116.237551,43.659907",
+    "geom:latitude":43.659907,
+    "geom:longitude":-116.237551,
+    "iso:country":"US",
+    "sg:address":"4419 Ginzel St",
+    "sg:city":"Boise",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 385 9053",
+    "sg:postcode":"83703",
+    "sg:province":"ID",
+    "sg:tags":[
+        "hanging",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85937923,
+        102086087,
+        85876323
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5aaS48GTeWMSAhU8pY4ami_43.659907_-116.237551@1294099250"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"664ef0e4d7a6bfdeb5097549972d7dd0",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086087,
+            "locality_id":85937923,
+            "neighbourhood_id":85876323,
+            "region_id":85688657,
+            "venue_id":169778211
+        }
+    ],
+    "wof:id":169778211,
+    "wof:lastmodified":1449032749,
+    "wof:name":"Jeffs Custom Painting",
+    "wof:parent_id":85876323,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "hanging",
+        "contractor"
+    ]
+},
+  "bbox": [-116.237551,43.659907,-116.237551,43.659907],
+  "geometry": {"coordinates":[-116.237551,43.659907],"type":"Point"}
+}

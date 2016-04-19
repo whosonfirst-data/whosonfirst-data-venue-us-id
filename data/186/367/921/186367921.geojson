@@ -1,0 +1,67 @@
+{
+  "id": 186367921,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-116.787383,47.729841,-116.787383,47.729841",
+    "geom:latitude":47.729841,
+    "geom:longitude":-116.787383,
+    "iso:country":"US",
+    "sg:address":"274 W Hanley Ave",
+    "sg:city":"Coeur D Alene",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 772 6081",
+    "sg:postcode":"83815",
+    "sg:province":"ID",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        102086085,
+        85821457
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4lOtACtM7alzOFCoCaGssE_47.729841_-116.787383@1294099250"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"bf4a2a610e5cbf87fae3968cef9978e6",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086085,
+            "locality_id":-1,
+            "neighbourhood_id":85821457,
+            "region_id":85688657,
+            "venue_id":186367921
+        }
+    ],
+    "wof:id":186367921,
+    "wof:lastmodified":1449051954,
+    "wof:name":"Silverlake Automotive",
+    "wof:parent_id":85821457,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [-116.787383,47.729841,-116.787383,47.729841],
+  "geometry": {"coordinates":[-116.787383,47.729841],"type":"Point"}
+}

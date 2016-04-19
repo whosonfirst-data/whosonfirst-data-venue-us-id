@@ -1,0 +1,67 @@
+{
+  "id": 186091309,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-116.892329,47.714133,-116.892329,47.714133",
+    "geom:latitude":47.714133,
+    "geom:longitude":-116.892329,
+    "iso:country":"US",
+    "sg:address":"779 N Neufeld Ln",
+    "sg:city":"Post Falls",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 773 2008",
+    "sg:postcode":"83854",
+    "sg:province":"ID",
+    "sg:tags":[
+        "operator",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        102086085,
+        85833263
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7VRGtpKhjgJjGU6X3Sp4Lp_47.714133_-116.892329@1294099250"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"9382fb6b38c050ddaf2cebfc16b724fd",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086085,
+            "locality_id":-1,
+            "neighbourhood_id":85833263,
+            "region_id":85688657,
+            "venue_id":186091309
+        }
+    ],
+    "wof:id":186091309,
+    "wof:lastmodified":1449050508,
+    "wof:name":"Dan Rankin",
+    "wof:parent_id":85833263,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "trucking"
+    ]
+},
+  "bbox": [-116.892329,47.714133,-116.892329,47.714133],
+  "geometry": {"coordinates":[-116.892329,47.714133],"type":"Point"}
+}

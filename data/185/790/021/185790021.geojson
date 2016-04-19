@@ -1,0 +1,66 @@
+{
+  "id": 185790021,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-116.142777,47.539557,-116.142777,47.539557",
+    "geom:latitude":47.539557,
+    "geom:longitude":-116.142777,
+    "iso:country":"US",
+    "sg:address":"1007 McKinley Ave",
+    "sg:city":"Kellogg",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 786 9131",
+    "sg:postcode":"83837",
+    "sg:province":"ID",
+    "sg:tags":[
+        "city"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85937825,
+        102086103,
+        85849049
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_03locTwAAduhTc1tkPsCN0_47.539557_-116.142777@1294099250"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"1bdccd9cf6cd55e058b75b8aa31decfb",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086103,
+            "locality_id":85937825,
+            "neighbourhood_id":85849049,
+            "region_id":85688657,
+            "venue_id":185790021
+        }
+    ],
+    "wof:id":185790021,
+    "wof:lastmodified":1449007858,
+    "wof:name":"Kellogg City Clerk",
+    "wof:parent_id":85849049,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "city"
+    ]
+},
+  "bbox": [-116.142777,47.539557,-116.142777,47.539557],
+  "geometry": {"coordinates":[-116.142777,47.539557],"type":"Point"}
+}

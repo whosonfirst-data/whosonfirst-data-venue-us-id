@@ -1,0 +1,67 @@
+{
+  "id": 186550129,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-112.431125,42.87564,-112.431125,42.87564",
+    "geom:latitude":42.87564,
+    "geom:longitude":-112.431125,
+    "iso:country":"US",
+    "sg:address":"1950 E Clark St",
+    "sg:city":"Pocatello",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 232 8300",
+    "sg:postcode":"83201",
+    "sg:province":"ID",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85937925,
+        102086113
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1Q8dpF3tOp01GPdfDALBFK_42.875640_-112.431125@1294099250"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"74df0a431992e6c5cbcd2e9fcce39d80",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086113,
+            "locality_id":85937925,
+            "neighbourhood_id":-1,
+            "region_id":85688657,
+            "venue_id":186550129
+        }
+    ],
+    "wof:id":186550129,
+    "wof:lastmodified":1449051837,
+    "wof:name":"Michael J Gregson MD",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [-112.431125,42.87564,-112.431125,42.87564],
+  "geometry": {"coordinates":[-112.431125,42.87564],"type":"Point"}
+}

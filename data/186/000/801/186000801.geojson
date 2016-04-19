@@ -1,0 +1,65 @@
+{
+  "id": 186000801,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-116.313627,43.573038,-116.313627,43.573038",
+    "geom:latitude":43.573038,
+    "geom:longitude":-116.313627,
+    "iso:country":"US",
+    "sg:address":"10460 Roan Meadows Dr",
+    "sg:city":"Boise",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 362 9599",
+    "sg:postcode":"83709",
+    "sg:province":"ID",
+    "sg:tags":[
+        "delivery"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        102086087,
+        85876331
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5I1KF9II7Kn9dn4faT4zdc_43.573038_-116.313627@1294099250"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"7ceb12adb7d0d192e7beb79e6646710d",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086087,
+            "locality_id":-1,
+            "neighbourhood_id":85876331,
+            "region_id":85688657,
+            "venue_id":186000801
+        }
+    ],
+    "wof:id":186000801,
+    "wof:lastmodified":1449050842,
+    "wof:name":"Unishippers Association",
+    "wof:parent_id":85876331,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "delivery"
+    ]
+},
+  "bbox": [-116.313627,43.573038,-116.313627,43.573038],
+  "geometry": {"coordinates":[-116.313627,43.573038],"type":"Point"}
+}

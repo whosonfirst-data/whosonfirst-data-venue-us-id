@@ -1,0 +1,71 @@
+{
+  "id": 185907005,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-116.678727,47.828334,-116.678727,47.828334",
+    "geom:latitude":47.828334,
+    "geom:longitude":-116.678727,
+    "iso:country":"US",
+    "sg:address":"8010 E Ohio Match Rd",
+    "sg:city":"Hayden Lake",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 762 7771",
+    "sg:postcode":"83835",
+    "sg:province":"ID",
+    "sg:tags":[
+        "plumbing",
+        "drain",
+        "cleaning",
+        "sewer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        102086085,
+        85821457
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_700psho3hjZENoppDe7WQQ_47.828334_-116.678727@1294099250"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"375c40b4cbdc8ca4d6b05cc7ac46c8c0",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086085,
+            "locality_id":-1,
+            "neighbourhood_id":85821457,
+            "region_id":85688657,
+            "venue_id":185907005
+        }
+    ],
+    "wof:id":185907005,
+    "wof:lastmodified":1449008096,
+    "wof:name":"Ray's Plumbing & Heating",
+    "wof:parent_id":85821457,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "plumbing",
+        "drain",
+        "cleaning",
+        "sewer"
+    ]
+},
+  "bbox": [-116.678727,47.828334,-116.678727,47.828334],
+  "geometry": {"coordinates":[-116.678727,47.828334],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 169638227,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-116.261049,43.662645,-116.261049,43.662645",
+    "geom:latitude":43.662645,
+    "geom:longitude":-116.261049,
+    "iso:country":"US",
+    "sg:address":"5656 Peachtree St",
+    "sg:city":"Boise",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Chemicals & Compounds",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 853 0521",
+    "sg:postcode":"83703",
+    "sg:province":"ID",
+    "sg:tags":[
+        "mfg",
+        "industrial",
+        "organic",
+        "che",
+        "plastic"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        102086087,
+        85811879
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0wWnd3IU90GDgI18ddORPM_43.662645_-116.261049@1294099250"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"12fae644aac71362c4312aac4ecdb0a0",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086087,
+            "locality_id":-1,
+            "neighbourhood_id":85811879,
+            "region_id":85688657,
+            "venue_id":169638227
+        }
+    ],
+    "wof:id":169638227,
+    "wof:lastmodified":1449032864,
+    "wof:name":"Rohm and Haas Company",
+    "wof:parent_id":85811879,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mfg",
+        "industrial",
+        "organic",
+        "che",
+        "plastic"
+    ]
+},
+  "bbox": [-116.261049,43.662645,-116.261049,43.662645],
+  "geometry": {"coordinates":[-116.261049,43.662645],"type":"Point"}
+}

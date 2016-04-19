@@ -1,0 +1,75 @@
+{
+  "id": 186254993,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-117.00189,46.406991,-117.00189,46.406991",
+    "geom:latitude":46.406991,
+    "geom:longitude":-117.00189,
+    "iso:country":"US",
+    "sg:address":"1325 21st St",
+    "sg:city":"Lewiston",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 798 0627",
+    "sg:postcode":"83501",
+    "sg:province":"ID",
+    "sg:tags":[
+        "shop",
+        "coffee"
+    ],
+    "sg:website":"www.starbucks.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85937743,
+        102086039,
+        85837769
+    ],
+    "wof:brand_id":420573983,
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5At6yE3UTqWF0sAsN4mLoY_46.406991_-117.001890@1294099250"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"3dbfe48fc5341ad3968996fbf70c935a",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086039,
+            "locality_id":85937743,
+            "neighbourhood_id":85837769,
+            "region_id":85688657,
+            "venue_id":186254993
+        }
+    ],
+    "wof:id":186254993,
+    "wof:lastmodified":1457208073,
+    "wof:name":"Starbucks",
+    "wof:parent_id":85837769,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop",
+        "coffee"
+    ]
+},
+  "bbox": [
+    -117.00189,
+    46.406991,
+    -117.00189,
+    46.406991
+],
+  "geometry": {"coordinates":[-117.00189,46.406991],"type":"Point"}
+}

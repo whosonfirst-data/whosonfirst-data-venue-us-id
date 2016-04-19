@@ -1,0 +1,71 @@
+{
+  "id": 186100219,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-116.812032,47.707862,-116.812032,47.707862",
+    "geom:latitude":47.707862,
+    "geom:longitude":-116.812032,
+    "iso:country":"US",
+    "sg:address":"3404 E Fairway Dr",
+    "sg:city":"Coeur D Alene",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Agent",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 667 2167",
+    "sg:postcode":"83815",
+    "sg:province":"ID",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85938163,
+        102086085,
+        85806325,
+        85821457
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5YgPIG3MHyhYhIjxSaQ2UH_47.707862_-116.812032@1294099250"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"bf3ede3b1251346085e93294b0e08a0d",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086085,
+            "locality_id":85938163,
+            "neighbourhood_id":85806325,
+            "region_id":85688657,
+            "venue_id":186100219
+        },
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086085,
+            "locality_id":-1,
+            "neighbourhood_id":85821457,
+            "region_id":85688657,
+            "venue_id":186100219
+        }
+    ],
+    "wof:id":186100219,
+    "wof:lastmodified":1449052338,
+    "wof:name":"Lifestyle Real Estate",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-116.812032,47.707862,-116.812032,47.707862],
+  "geometry": {"coordinates":[-116.812032,47.707862],"type":"Point"}
+}

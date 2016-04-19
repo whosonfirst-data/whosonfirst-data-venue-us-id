@@ -1,0 +1,66 @@
+{
+  "id": 186258887,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-116.278286,43.612825,-116.278286,43.612825",
+    "geom:latitude":43.612825,
+    "geom:longitude":-116.278286,
+    "iso:country":"US",
+    "sg:address":"7677 Emerald St",
+    "sg:city":"Boise",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 377 1161",
+    "sg:postcode":"83704",
+    "sg:province":"ID",
+    "sg:tags":[
+        "dentist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85937923,
+        102086087,
+        85841319
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5LzpHxO4ntTNQJJg1m45yT_43.612825_-116.278286@1294099250"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"833acd26412777c8e150cf1dbf2e5c5e",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086087,
+            "locality_id":85937923,
+            "neighbourhood_id":85841319,
+            "region_id":85688657,
+            "venue_id":186258887
+        }
+    ],
+    "wof:id":186258887,
+    "wof:lastmodified":1449052458,
+    "wof:name":"Evan W Hathaway DDS",
+    "wof:parent_id":85841319,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dentist"
+    ]
+},
+  "bbox": [-116.278286,43.612825,-116.278286,43.612825],
+  "geometry": {"coordinates":[-116.278286,43.612825],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 169699701,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-116.239338,43.627331,-116.239338,43.627331",
+    "geom:latitude":43.627331,
+    "geom:longitude":-116.239338,
+    "iso:country":"US",
+    "sg:address":"213 E 37th St",
+    "sg:city":"Boise",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 343 1699",
+    "sg:postcode":"83714",
+    "sg:province":"ID",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85937923,
+        102086087,
+        85876301
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3aE97sPoysPARTOoYoWad7_43.627331_-116.239338@1294099250"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"73722b1a0266df936220ff698cb17c0f",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086087,
+            "locality_id":85937923,
+            "neighbourhood_id":85876301,
+            "region_id":85688657,
+            "venue_id":169699701
+        }
+    ],
+    "wof:id":169699701,
+    "wof:lastmodified":1449033139,
+    "wof:name":"Boise Auto Air",
+    "wof:parent_id":85876301,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [-116.239338,43.627331,-116.239338,43.627331],
+  "geometry": {"coordinates":[-116.239338,43.627331],"type":"Point"}
+}

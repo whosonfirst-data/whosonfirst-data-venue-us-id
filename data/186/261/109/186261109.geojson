@@ -1,0 +1,67 @@
+{
+  "id": 186261109,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-116.130188,45.932244,-116.130188,45.932244",
+    "geom:latitude":45.932244,
+    "geom:longitude":-116.130188,
+    "iso:country":"US",
+    "sg:address":"1105 Cunningham St",
+    "sg:city":"Grangeville",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 983 2005",
+    "sg:postcode":"83530",
+    "sg:province":"ID",
+    "sg:tags":[
+        "plumbing",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85937869,
+        102085053
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1g2cP6fFaAwwVOWelWU888_45.932244_-116.130188@1294099250"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"1818aef412ebc7867ecea66adb5612f2",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085053,
+            "locality_id":85937869,
+            "neighbourhood_id":-1,
+            "region_id":85688657,
+            "venue_id":186261109
+        }
+    ],
+    "wof:id":186261109,
+    "wof:lastmodified":1449050303,
+    "wof:name":"Williams Plumbing Co",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "plumbing",
+        "contractor"
+    ]
+},
+  "bbox": [-116.130188,45.932244,-116.130188,45.932244],
+  "geometry": {"coordinates":[-116.130188,45.932244],"type":"Point"}
+}

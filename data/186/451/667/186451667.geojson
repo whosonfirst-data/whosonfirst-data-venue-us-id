@@ -1,0 +1,80 @@
+{
+  "id": 186451667,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-116.790552,47.713564,-116.790552,47.713564",
+    "geom:latitude":47.713564,
+    "geom:longitude":-116.790552,
+    "iso:country":"US",
+    "sg:address":"296 W Sunset Ave",
+    "sg:city":"Coeur D Alene",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Sporting Goods",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 765 6876",
+    "sg:postcode":"83815",
+    "sg:province":"ID",
+    "sg:tags":[
+        "equipment",
+        "golf",
+        "supply"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85938163,
+        102086085,
+        85806325,
+        85821457
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7g2NOvaxmZMBNuKjvT8JBm_47.713564_-116.790552@1294099250"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"4826a270349b9c30c09da6341982b83f",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086085,
+            "locality_id":85938163,
+            "neighbourhood_id":85806325,
+            "region_id":85688657,
+            "venue_id":186451667
+        },
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086085,
+            "locality_id":-1,
+            "neighbourhood_id":85821457,
+            "region_id":85688657,
+            "venue_id":186451667
+        }
+    ],
+    "wof:id":186451667,
+    "wof:lastmodified":1449051544,
+    "wof:name":"PAR-Time Golf",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "equipment",
+        "golf",
+        "supply"
+    ]
+},
+  "bbox": [-116.790552,47.713564,-116.790552,47.713564],
+  "geometry": {"coordinates":[-116.790552,47.713564],"type":"Point"}
+}

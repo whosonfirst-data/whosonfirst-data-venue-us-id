@@ -1,0 +1,67 @@
+{
+  "id": 185921045,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-116.369708,43.609635,-116.369708,43.609635",
+    "geom:latitude":43.609635,
+    "geom:longitude":-116.369708,
+    "iso:country":"US",
+    "sg:address":"1953 E Commercial St",
+    "sg:city":"Meridian",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Equipment Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 884 1234",
+    "sg:postcode":"83642",
+    "sg:province":"ID",
+    "sg:tags":[
+        "contractor"
+    ],
+    "sg:website":"www.sunbeltrentals.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85937915,
+        102086087,
+        85805083
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1UfqAZ09Spnxr2PjXZC368_43.609635_-116.369708@1294099250"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"ce4e11758c4fe4efcff194f33caeda7e",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086087,
+            "locality_id":85937915,
+            "neighbourhood_id":85805083,
+            "region_id":85688657,
+            "venue_id":185921045
+        }
+    ],
+    "wof:id":185921045,
+    "wof:lastmodified":1449007632,
+    "wof:name":"Sunbelt Rentals Inc",
+    "wof:parent_id":85805083,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [-116.369708,43.609635,-116.369708,43.609635],
+  "geometry": {"coordinates":[-116.369708,43.609635],"type":"Point"}
+}

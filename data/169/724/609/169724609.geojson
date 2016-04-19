@@ -1,0 +1,67 @@
+{
+  "id": 169724609,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-114.491708,42.565781,-114.491708,42.565781",
+    "geom:latitude":42.565781,
+    "geom:longitude":-114.491708,
+    "iso:country":"US",
+    "sg:address":"562 Shoup Ave W",
+    "sg:city":"Twin Falls",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 734 3455",
+    "sg:postcode":"83301",
+    "sg:province":"ID",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85937881,
+        102085153
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_02reVuDSscUqp1cwI21017_42.565781_-114.491708@1294099250"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"adb853bbbe70c5961792f90db4a87ede",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085153,
+            "locality_id":85937881,
+            "neighbourhood_id":-1,
+            "region_id":85688657,
+            "venue_id":169724609
+        }
+    ],
+    "wof:id":169724609,
+    "wof:lastmodified":1449035899,
+    "wof:name":"Twin Falls Orthopaedic Assoc",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [-114.491708,42.565781,-114.491708,42.565781],
+  "geometry": {"coordinates":[-114.491708,42.565781],"type":"Point"}
+}

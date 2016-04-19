@@ -1,0 +1,67 @@
+{
+  "id": 185863273,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-116.817871,43.973908,-116.817871,43.973908",
+    "geom:latitude":43.973908,
+    "geom:longitude":-116.817871,
+    "iso:country":"US",
+    "sg:address":"325 Holly Ave",
+    "sg:city":"New Plymouth",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 278 3633",
+    "sg:postcode":"83655",
+    "sg:province":"ID",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85937907,
+        102086023
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2m3nQn6sR6AGkHWd6W3CEv_43.973908_-116.817871@1294099250"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"bdb35500e4053af1864701856915dc53",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086023,
+            "locality_id":85937907,
+            "neighbourhood_id":-1,
+            "region_id":85688657,
+            "venue_id":185863273
+        }
+    ],
+    "wof:id":185863273,
+    "wof:lastmodified":1449007701,
+    "wof:name":"Hooper Radiator & AC SVC",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [-116.817871,43.973908,-116.817871,43.973908],
+  "geometry": {"coordinates":[-116.817871,43.973908],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 186386747,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-111.985117,43.475966,-111.985117,43.475966",
+    "geom:latitude":43.475966,
+    "geom:longitude":-111.985117,
+    "iso:country":"US",
+    "sg:address":"2440 E 25th St",
+    "sg:city":"Idaho Falls",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 542 5000",
+    "sg:postcode":"83404",
+    "sg:province":"ID",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85937963,
+        102085163
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5t5pU4QZUUIpndoIYoxj2U_43.475966_-111.985117@1294099250"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"19b2f250dcd19479efd4534f1f5fbc7a",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085163,
+            "locality_id":85937963,
+            "neighbourhood_id":-1,
+            "region_id":85688657,
+            "venue_id":186386747
+        }
+    ],
+    "wof:id":186386747,
+    "wof:lastmodified":1449051779,
+    "wof:name":"Medical Imaging Assoc",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [-111.985117,43.475966,-111.985117,43.475966],
+  "geometry": {"coordinates":[-111.985117,43.475966],"type":"Point"}
+}

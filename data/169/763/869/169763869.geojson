@@ -1,0 +1,68 @@
+{
+  "id": 169763869,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-116.25378,43.575399,-116.25378,43.575399",
+    "geom:latitude":43.575399,
+    "geom:longitude":-116.25378,
+    "iso:country":"US",
+    "sg:address":"5906 W Victory Rd",
+    "sg:city":"Boise",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 362 9061",
+    "sg:postcode":"83709",
+    "sg:province":"ID",
+    "sg:tags":[
+        "electric",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85937923,
+        102086087,
+        85825393
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6zM7WKcdR4eo2Q9VdUNfZG_43.575399_-116.253780@1294099250"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"1da7ad560f4b25c07edaf430856c8713",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086087,
+            "locality_id":85937923,
+            "neighbourhood_id":85825393,
+            "region_id":85688657,
+            "venue_id":169763869
+        }
+    ],
+    "wof:id":169763869,
+    "wof:lastmodified":1449035958,
+    "wof:name":"A & B Electric",
+    "wof:parent_id":85825393,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electric",
+        "contractor"
+    ]
+},
+  "bbox": [-116.25378,43.575399,-116.25378,43.575399],
+  "geometry": {"coordinates":[-116.25378,43.575399],"type":"Point"}
+}

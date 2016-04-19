@@ -1,0 +1,70 @@
+{
+  "id": 185666995,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-116.241327,43.622564,-116.241327,43.622564",
+    "geom:latitude":43.622564,
+    "geom:longitude":-116.241327,
+    "iso:country":"US",
+    "sg:address":"112 W 35th St",
+    "sg:city":"Boise",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 344 1631",
+    "sg:postcode":"83714",
+    "sg:province":"ID",
+    "sg:tags":[
+        "repairing",
+        "automobile",
+        "radiator"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85937923,
+        102086087,
+        85876301
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_69bveXiQBaZfTtWWUkSO0w_43.622564_-116.241327@1294099250"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"40a1c4e396e5ddcd8fd982db377c3ec1",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086087,
+            "locality_id":85937923,
+            "neighbourhood_id":85876301,
+            "region_id":85688657,
+            "venue_id":185666995
+        }
+    ],
+    "wof:id":185666995,
+    "wof:lastmodified":1449007189,
+    "wof:name":"Mac's Idaho Radiator Works",
+    "wof:parent_id":85876301,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile",
+        "radiator"
+    ]
+},
+  "bbox": [-116.241327,43.622564,-116.241327,43.622564],
+  "geometry": {"coordinates":[-116.241327,43.622564],"type":"Point"}
+}

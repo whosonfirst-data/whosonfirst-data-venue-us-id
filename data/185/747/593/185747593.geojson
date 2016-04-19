@@ -1,0 +1,68 @@
+{
+  "id": 185747593,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-116.2808,43.621185,-116.2808,43.621185",
+    "geom:latitude":43.621185,
+    "geom:longitude":-116.2808,
+    "iso:country":"US",
+    "sg:address":"1755 N Westgate Dr",
+    "sg:city":"Boise",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 377 9191",
+    "sg:postcode":"83704",
+    "sg:province":"ID",
+    "sg:tags":[
+        "automobile",
+        "inspection"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85937923,
+        102086087,
+        85841319
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1FyzEaeMHsktB639iYk4jf_43.621185_-116.280800@1294099250"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"7671d55704d04c36cac299771dc63f13",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086087,
+            "locality_id":85937923,
+            "neighbourhood_id":85841319,
+            "region_id":85688657,
+            "venue_id":185747593
+        }
+    ],
+    "wof:id":185747593,
+    "wof:lastmodified":1449006907,
+    "wof:name":"Ada County Vehicle Emissions",
+    "wof:parent_id":85841319,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automobile",
+        "inspection"
+    ]
+},
+  "bbox": [-116.2808,43.621185,-116.2808,43.621185],
+  "geometry": {"coordinates":[-116.2808,43.621185],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 186551097,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-116.196666,43.546126,-116.196666,43.546126",
+    "geom:latitude":43.546126,
+    "geom:longitude":-116.196666,
+    "iso:country":"US",
+    "sg:address":"1245 Lake Hazel Ln",
+    "sg:city":"Boise",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 345 7839",
+    "sg:postcode":"83705",
+    "sg:province":"ID",
+    "sg:tags":[
+        "electrical",
+        "electric",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85937923,
+        102086087,
+        85876329
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1A7ggMThbeTyyw1hXBvv1A_43.546126_-116.196666@1294099250"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"635657e1f332f729861b769a0c12c126",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086087,
+            "locality_id":85937923,
+            "neighbourhood_id":85876329,
+            "region_id":85688657,
+            "venue_id":186551097
+        }
+    ],
+    "wof:id":186551097,
+    "wof:lastmodified":1449050943,
+    "wof:name":"Amber Electric Co",
+    "wof:parent_id":85876329,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electrical",
+        "electric",
+        "contractor"
+    ]
+},
+  "bbox": [-116.196666,43.546126,-116.196666,43.546126],
+  "geometry": {"coordinates":[-116.196666,43.546126],"type":"Point"}
+}

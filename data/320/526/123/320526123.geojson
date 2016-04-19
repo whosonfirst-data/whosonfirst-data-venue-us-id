@@ -1,0 +1,73 @@
+{
+  "id": 320526123,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-117.022227,46.418769,-117.022227,46.418769",
+    "geom:latitude":46.418769,
+    "geom:longitude":-117.022227,
+    "iso:country":"US",
+    "sg:address":"0141 9th St",
+    "sg:city":"Lewiston",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Nursing And Care Facility",
+            "type":"Services"
+        },
+        {
+            "category":"Health Services",
+            "subcategory":"Health Practitioner",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 746 3017",
+    "sg:postcode":"83501",
+    "sg:province":"ID",
+    "sg:tags":[
+        "home",
+        "eldercare-home"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85937743,
+        102086039,
+        85852537
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_22nvbz7UOp1L2GMirIbJM3_46.418769_-117.022227@1303263095"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"9da165b270e23e5f6a6d72451045cccd",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086039,
+            "locality_id":85937743,
+            "neighbourhood_id":85852537,
+            "region_id":85688657,
+            "venue_id":320526123
+        }
+    ],
+    "wof:id":320526123,
+    "wof:lastmodified":1449012415,
+    "wof:name":"Care Connection Home Care",
+    "wof:parent_id":85852537,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "home",
+        "eldercare-home"
+    ]
+},
+  "bbox": [-117.022227,46.418769,-117.022227,46.418769],
+  "geometry": {"coordinates":[-117.022227,46.418769],"type":"Point"}
+}

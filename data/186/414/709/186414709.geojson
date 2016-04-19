@@ -1,0 +1,69 @@
+{
+  "id": 186414709,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-116.226606,43.62273,-116.226606,43.62273",
+    "geom:latitude":43.62273,
+    "geom:longitude":-116.226606,
+    "iso:country":"US",
+    "sg:address":"2801 W Idaho St",
+    "sg:city":"Boise",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 389 4692",
+    "sg:postcode":"83702",
+    "sg:province":"ID",
+    "sg:tags":[
+        "repairing",
+        "automobile",
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85937923,
+        102086087
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3JmmeTvd7EMRm5wxMFn61e_43.622730_-116.226606@1294099250"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"81664707331d7d86b0f249f4aa9d573d",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086087,
+            "locality_id":85937923,
+            "neighbourhood_id":-1,
+            "region_id":85688657,
+            "venue_id":186414709
+        }
+    ],
+    "wof:id":186414709,
+    "wof:lastmodified":1449051634,
+    "wof:name":"Doug's Auto Repair",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile",
+        "general"
+    ]
+},
+  "bbox": [-116.226606,43.62273,-116.226606,43.62273],
+  "geometry": {"coordinates":[-116.226606,43.62273],"type":"Point"}
+}

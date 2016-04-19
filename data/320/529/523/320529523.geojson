@@ -1,0 +1,83 @@
+{
+  "id": 320529523,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-116.637077,43.62862,-116.637077,43.62862",
+    "geom:latitude":43.62862,
+    "geom:longitude":-116.637077,
+    "iso:country":"US",
+    "sg:address":"5801 Cleveland Blvd",
+    "sg:city":"Caldwell",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Auto Supplies",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Wholesale",
+            "subcategory":"Electrical",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 454 9058",
+    "sg:postcode":"83607",
+    "sg:province":"ID",
+    "sg:tags":[
+        "battery",
+        "automobile",
+        "part",
+        "accessory"
+    ],
+    "sg:website":"http://www.oreillyautoparts.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85938017,
+        102085081
+    ],
+    "wof:brand_id":420573989,
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6Lq5WJMfU8LRrT9swuiQl9_43.628620_-116.637077@1303263095"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"2778964b67a88f4bc5a517b43e004677",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085081,
+            "locality_id":85938017,
+            "neighbourhood_id":-1,
+            "region_id":85688657,
+            "venue_id":320529523
+        }
+    ],
+    "wof:id":320529523,
+    "wof:lastmodified":1457208081,
+    "wof:name":"O'Reilly Auto Parts",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "battery",
+        "automobile",
+        "part",
+        "accessory"
+    ]
+},
+  "bbox": [
+    -116.637077,
+    43.62862,
+    -116.637077,
+    43.62862
+],
+  "geometry": {"coordinates":[-116.63707700000001,43.62862],"type":"Point"}
+}

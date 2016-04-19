@@ -1,0 +1,73 @@
+{
+  "id": 320549399,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-116.999992,46.728052,-116.999992,46.728052",
+    "geom:latitude":46.728052,
+    "geom:longitude":-116.999992,
+    "iso:country":"US",
+    "sg:address":"804 S Washington St",
+    "sg:city":"Moscow",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 883 6123",
+    "sg:postcode":"83843",
+    "sg:province":"ID",
+    "sg:tags":[
+        "medicine",
+        "physician",
+        "practice",
+        "surgeons",
+        "family"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85937727,
+        102085077
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7cAw2nSC8jrVXD0ORcSmfU_46.728052_-116.999992@1303263095"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"fd4dd1e653f851ef0caad37717c99697",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085077,
+            "locality_id":85937727,
+            "neighbourhood_id":-1,
+            "region_id":85688657,
+            "venue_id":320549399
+        }
+    ],
+    "wof:id":320549399,
+    "wof:lastmodified":1449012284,
+    "wof:name":"Gritman Clinic",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medicine",
+        "physician",
+        "practice",
+        "surgeons",
+        "family"
+    ]
+},
+  "bbox": [-116.999992,46.728052,-116.999992,46.728052],
+  "geometry": {"coordinates":[-116.999992,46.728052],"type":"Point"}
+}

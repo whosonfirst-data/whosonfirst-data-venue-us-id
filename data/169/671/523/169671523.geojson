@@ -1,0 +1,70 @@
+{
+  "id": 169671523,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-116.406049,43.604893,-116.406049,43.604893",
+    "geom:latitude":43.604893,
+    "geom:longitude":-116.406049,
+    "iso:country":"US",
+    "sg:address":"84 NW 10th St",
+    "sg:city":"Meridian",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 888 2774",
+    "sg:postcode":"83642",
+    "sg:province":"ID",
+    "sg:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85937915,
+        102086087,
+        85805083
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7AHO2h8L5E2YGGucHJK4Zi_43.604893_-116.406049@1294099250"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"4fd92194bc867948c53ca42f35bb582d",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086087,
+            "locality_id":85937915,
+            "neighbourhood_id":85805083,
+            "region_id":85688657,
+            "venue_id":169671523
+        }
+    ],
+    "wof:id":169671523,
+    "wof:lastmodified":1449033453,
+    "wof:name":"Steinbach Auto Body",
+    "wof:parent_id":85805083,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ]
+},
+  "bbox": [-116.406049,43.604893,-116.406049,43.604893],
+  "geometry": {"coordinates":[-116.406049,43.604893],"type":"Point"}
+}

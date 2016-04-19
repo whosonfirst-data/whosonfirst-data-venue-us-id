@@ -1,0 +1,75 @@
+{
+  "id": 186205749,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-116.886971,47.70747,-116.886971,47.70747",
+    "geom:latitude":47.70747,
+    "geom:longitude":-116.886971,
+    "iso:country":"US",
+    "sg:address":"4565 E Seltice Way",
+    "sg:city":"Post Falls",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 777 9067",
+    "sg:postcode":"83854",
+    "sg:province":"ID",
+    "sg:tags":[
+        "renting",
+        "truck",
+        "leasing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        102086085,
+        85821457
+    ],
+    "wof:brand_id":420573923,
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6wUB9Bf1QTiU6Lc61ARF2j_47.707470_-116.886971@1294099250"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"c2cb1d8a88f8e62a0eea302c4ba06a88",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086085,
+            "locality_id":-1,
+            "neighbourhood_id":85821457,
+            "region_id":85688657,
+            "venue_id":186205749
+        }
+    ],
+    "wof:id":186205749,
+    "wof:lastmodified":1457207920,
+    "wof:name":"Budget Truck Rental",
+    "wof:parent_id":85821457,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "renting",
+        "truck",
+        "leasing"
+    ]
+},
+  "bbox": [
+    -116.886971,
+    47.70747,
+    -116.886971,
+    47.70747
+],
+  "geometry": {"coordinates":[-116.886971,47.70747],"type":"Point"}
+}

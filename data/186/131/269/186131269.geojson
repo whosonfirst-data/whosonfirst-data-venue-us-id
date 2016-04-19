@@ -1,0 +1,80 @@
+{
+  "id": 186131269,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-116.794676,47.722647,-116.794676,47.722647",
+    "geom:latitude":47.722647,
+    "geom:longitude":-116.794676,
+    "iso:country":"US",
+    "sg:address":"660 W Dalton Ave",
+    "sg:city":"Coeur D Alene",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Electrical",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 664 2178",
+    "sg:postcode":"83815",
+    "sg:province":"ID",
+    "sg:tags":[
+        "equipment",
+        "electric",
+        "supply"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85938163,
+        102086085,
+        85806325,
+        85821457
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2n5pRniJm0Wucc6eyN7Omg_47.722647_-116.794676@1294099250"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"40cf818c189db0fdeebdab11f02f5216",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086085,
+            "locality_id":85938163,
+            "neighbourhood_id":85806325,
+            "region_id":85688657,
+            "venue_id":186131269
+        },
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086085,
+            "locality_id":-1,
+            "neighbourhood_id":85821457,
+            "region_id":85688657,
+            "venue_id":186131269
+        }
+    ],
+    "wof:id":186131269,
+    "wof:lastmodified":1449051189,
+    "wof:name":"Platt Electric Supply Inc",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "equipment",
+        "electric",
+        "supply"
+    ]
+},
+  "bbox": [-116.794676,47.722647,-116.794676,47.722647],
+  "geometry": {"coordinates":[-116.794676,47.722647],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 169606023,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-115.990178,44.106711,-115.990178,44.106711",
+    "geom:latitude":44.106711,
+    "geom:longitude":-115.990178,
+    "iso:country":"US",
+    "sg:address":"15 Timber Ln",
+    "sg:city":"Garden Valley",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 462 3522",
+    "sg:postcode":"83622",
+    "sg:province":"ID",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85938177,
+        102085213
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6r2KoHu2bEecI2q02BA2KM_44.106711_-115.990178@1294099250"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"a244c95d83f9f5550c52bb565d350473",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085213,
+            "locality_id":85938177,
+            "neighbourhood_id":-1,
+            "region_id":85688657,
+            "venue_id":169606023
+        }
+    ],
+    "wof:id":169606023,
+    "wof:lastmodified":1449033204,
+    "wof:name":"Timber Lane Automotive",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [-115.990178,44.106711,-115.990178,44.106711],
+  "geometry": {"coordinates":[-115.990178,44.106711],"type":"Point"}
+}

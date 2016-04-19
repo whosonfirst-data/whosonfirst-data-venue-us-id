@@ -1,0 +1,70 @@
+{
+  "id": 320528217,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-116.659525,43.643741,-116.659525,43.643741",
+    "geom:latitude":43.643741,
+    "geom:longitude":-116.659525,
+    "iso:country":"US",
+    "sg:address":"3506 Cleveland Blvd",
+    "sg:city":"Caldwell",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Bakery",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Bakery",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 459 1452",
+    "sg:postcode":"83605",
+    "sg:province":"ID",
+    "sg:tags":[
+        "bakers-wholesale"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85938017,
+        102085081
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3rzW9pToMeAQhbmNF4zF7D_43.643741_-116.659525@1303263095"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"500657a5bd832f9efac9f003e5102dc4",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085081,
+            "locality_id":85938017,
+            "neighbourhood_id":-1,
+            "region_id":85688657,
+            "venue_id":320528217
+        }
+    ],
+    "wof:id":320528217,
+    "wof:lastmodified":1449012260,
+    "wof:name":"Eddy's Bakery",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "bakers-wholesale"
+    ]
+},
+  "bbox": [-116.659525,43.643741,-116.659525,43.643741],
+  "geometry": {"coordinates":[-116.659525,43.643741],"type":"Point"}
+}

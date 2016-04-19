@@ -1,0 +1,67 @@
+{
+  "id": 185685881,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-111.876694,42.094078,-111.876694,42.094078",
+    "geom:latitude":42.094078,
+    "geom:longitude":-111.876694,
+    "iso:country":"US",
+    "sg:address":"104 S State St",
+    "sg:city":"Preston",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Fuel & Gas Station",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 852 1187",
+    "sg:postcode":"83263",
+    "sg:province":"ID",
+    "sg:tags":[
+        "station",
+        "gasoline"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85938067,
+        102086097
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6ib0EkTNtVus5IdJyOADVT_42.094078_-111.876694@1294099250"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"a2d4741650b8dd7b979a3dd1635695ef",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086097,
+            "locality_id":85938067,
+            "neighbourhood_id":-1,
+            "region_id":85688657,
+            "venue_id":185685881
+        }
+    ],
+    "wof:id":185685881,
+    "wof:lastmodified":1449008145,
+    "wof:name":"Kelly 66",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "station",
+        "gasoline"
+    ]
+},
+  "bbox": [-111.876694,42.094078,-111.876694,42.094078],
+  "geometry": {"coordinates":[-111.876694,42.094078],"type":"Point"}
+}

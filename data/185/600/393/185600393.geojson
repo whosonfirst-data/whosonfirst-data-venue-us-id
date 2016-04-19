@@ -1,0 +1,68 @@
+{
+  "id": 185600393,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-116.250179,43.639539,-116.250179,43.639539",
+    "geom:latitude":43.639539,
+    "geom:longitude":-116.250179,
+    "iso:country":"US",
+    "sg:address":"501 E 45th St",
+    "sg:city":"Boise",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 321 7306",
+    "sg:postcode":"83714",
+    "sg:province":"ID",
+    "sg:tags":[
+        "car",
+        "dealer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85937923,
+        102086087,
+        85876339
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5bSM2CxGFPc12otP6fWVUk_43.639539_-116.250179@1294099250"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"bfa47ffafc28f127128ae73a328cd0ff",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086087,
+            "locality_id":85937923,
+            "neighbourhood_id":85876339,
+            "region_id":85688657,
+            "venue_id":185600393
+        }
+    ],
+    "wof:id":185600393,
+    "wof:lastmodified":1449006760,
+    "wof:name":"Autos Plus Inc",
+    "wof:parent_id":85876339,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "car",
+        "dealer"
+    ]
+},
+  "bbox": [-116.250179,43.639539,-116.250179,43.639539],
+  "geometry": {"coordinates":[-116.250179,43.639539],"type":"Point"}
+}

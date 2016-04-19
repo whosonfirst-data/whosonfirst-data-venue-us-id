@@ -1,0 +1,78 @@
+{
+  "id": 320541433,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-116.219658,43.621847,-116.219658,43.621847",
+    "geom:latitude":43.621847,
+    "geom:longitude":-116.219658,
+    "iso:country":"US",
+    "sg:address":"105 N 24th St",
+    "sg:city":"Boise",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Glass & Minerals",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 888 516 5344",
+    "sg:postcode":"83702",
+    "sg:province":"ID",
+    "sg:tags":[
+        "plate",
+        "window",
+        "windshield",
+        "glass-auto"
+    ],
+    "sg:website":"http://local.ingenio.com/Listings/Details.aspx?NUM=a%3a9247355%3a13%3a4859924%3a14%3a0%3a7",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85937923,
+        102086087,
+        85876355
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_01leXEY9MnHeiV2xzMlIIe_43.621847_-116.219658@1303263095"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"32b5ccbff4fb18a50a18a28d95f54205",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086087,
+            "locality_id":85937923,
+            "neighbourhood_id":85876355,
+            "region_id":85688657,
+            "venue_id":320541433
+        }
+    ],
+    "wof:id":320541433,
+    "wof:lastmodified":1449011656,
+    "wof:name":"Valley Glass",
+    "wof:parent_id":85876355,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "plate",
+        "window",
+        "windshield",
+        "glass-auto"
+    ]
+},
+  "bbox": [-116.219658,43.621847,-116.219658,43.621847],
+  "geometry": {"coordinates":[-116.219658,43.621847],"type":"Point"}
+}

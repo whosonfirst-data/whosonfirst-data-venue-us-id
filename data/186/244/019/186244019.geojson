@@ -1,0 +1,66 @@
+{
+  "id": 186244019,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-116.378405,43.634487,-116.378405,43.634487",
+    "geom:latitude":43.634487,
+    "geom:longitude":-116.378405,
+    "iso:country":"US",
+    "sg:address":"1271 E Summerplace St",
+    "sg:city":"Meridian",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 888 3801",
+    "sg:postcode":"83646",
+    "sg:province":"ID",
+    "sg:tags":[
+        "delivery"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85937923,
+        102086087,
+        85876351
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7QVjxawdGplT467WP7Tldl_43.634487_-116.378405@1294099250"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"ca1b7def0c23c92fd9aab761b46ad820",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086087,
+            "locality_id":85937923,
+            "neighbourhood_id":85876351,
+            "region_id":85688657,
+            "venue_id":186244019
+        }
+    ],
+    "wof:id":186244019,
+    "wof:lastmodified":1449051435,
+    "wof:name":"Hot Shots",
+    "wof:parent_id":85876351,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "delivery"
+    ]
+},
+  "bbox": [-116.378405,43.634487,-116.378405,43.634487],
+  "geometry": {"coordinates":[-116.378405,43.634487],"type":"Point"}
+}

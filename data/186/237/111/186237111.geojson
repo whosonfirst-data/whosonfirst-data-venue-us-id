@@ -1,0 +1,78 @@
+{
+  "id": 186237111,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-116.79718,47.702216,-116.79718,47.702216",
+    "geom:latitude":47.702216,
+    "geom:longitude":-116.79718,
+    "iso:country":"US",
+    "sg:address":"2705 N Howard St",
+    "sg:city":"Coeur D Alene",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 765 2607",
+    "sg:postcode":"83815",
+    "sg:province":"ID",
+    "sg:tags":[
+        "plumbing",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85938163,
+        102086085,
+        85806325,
+        85821457
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2NCHFjsCR0CclgmgnKuqMd_47.702216_-116.797180@1294099250"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"e6ca3a2ee2967c2ed978d0f23ea2ce1b",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086085,
+            "locality_id":85938163,
+            "neighbourhood_id":85806325,
+            "region_id":85688657,
+            "venue_id":186237111
+        },
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086085,
+            "locality_id":-1,
+            "neighbourhood_id":85821457,
+            "region_id":85688657,
+            "venue_id":186237111
+        }
+    ],
+    "wof:id":186237111,
+    "wof:lastmodified":1449050332,
+    "wof:name":"3-H Mechanical Inc",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "plumbing",
+        "contractor"
+    ]
+},
+  "bbox": [-116.79718,47.702216,-116.79718,47.702216],
+  "geometry": {"coordinates":[-116.79718,47.702216],"type":"Point"}
+}

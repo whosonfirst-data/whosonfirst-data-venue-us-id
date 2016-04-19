@@ -1,0 +1,78 @@
+{
+  "id": 169769319,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-116.835223,47.701672,-116.835223,47.701672",
+    "geom:latitude":47.701672,
+    "geom:longitude":-116.835223,
+    "iso:country":"US",
+    "sg:address":"3627 W Seltice Way",
+    "sg:city":"Coeur D Alene",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 773 4832",
+    "sg:postcode":"83814",
+    "sg:province":"ID",
+    "sg:tags":[
+        "plumbing",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85938163,
+        102086085,
+        85806325,
+        85821457
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4E4Ukty0JU087oLd5OwkV1_47.701672_-116.835223@1294099250"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"a3f2d0c5a30db5f6f02f843c7d16a1ec",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086085,
+            "locality_id":85938163,
+            "neighbourhood_id":85806325,
+            "region_id":85688657,
+            "venue_id":169769319
+        },
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086085,
+            "locality_id":-1,
+            "neighbourhood_id":85821457,
+            "region_id":85688657,
+            "venue_id":169769319
+        }
+    ],
+    "wof:id":169769319,
+    "wof:lastmodified":1449033783,
+    "wof:name":"Day & Night Plumbing & Drain",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "plumbing",
+        "contractor"
+    ]
+},
+  "bbox": [-116.835223,47.701672,-116.835223,47.701672],
+  "geometry": {"coordinates":[-116.835223,47.701672],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 185866275,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-116.564707,43.574783,-116.564707,43.574783",
+    "geom:latitude":43.574783,
+    "geom:longitude":-116.564707,
+    "iso:country":"US",
+    "sg:address":"620 12th Ave S",
+    "sg:city":"Nampa",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Mobile Phone",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 461 5789",
+    "sg:postcode":"83651",
+    "sg:province":"ID",
+    "sg:tags":[
+        "telephone",
+        "cellular"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85938009,
+        102085081,
+        85827787
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_34z4yPkfMkdTWz6N7gIU5z_43.574783_-116.564707@1294099250"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"5120c9257405cd600d22dfbe07403f65",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085081,
+            "locality_id":85938009,
+            "neighbourhood_id":85827787,
+            "region_id":85688657,
+            "venue_id":185866275
+        }
+    ],
+    "wof:id":185866275,
+    "wof:lastmodified":1449007384,
+    "wof:name":"Alert Cellular",
+    "wof:parent_id":85827787,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "telephone",
+        "cellular"
+    ]
+},
+  "bbox": [-116.564707,43.574783,-116.564707,43.574783],
+  "geometry": {"coordinates":[-116.564707,43.574783],"type":"Point"}
+}

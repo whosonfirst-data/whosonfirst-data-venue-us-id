@@ -1,0 +1,80 @@
+{
+  "id": 320542651,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-116.246395,43.61756,-116.246395,43.61756",
+    "geom:latitude":43.61756,
+    "geom:longitude":-116.246395,
+    "iso:country":"US",
+    "sg:address":"5237 W Kendall St",
+    "sg:city":"Boise",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Specialty",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Shopping",
+            "subcategory":"Catalog Store",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 376 3775",
+    "sg:postcode":"83706",
+    "sg:province":"ID",
+    "sg:tags":[
+        "shop",
+        "gourmet",
+        "order",
+        "mail",
+        "online"
+    ],
+    "sg:website":"http://www.hickoryfarms.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85937923,
+        102086087,
+        85876311
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6WoctLazHMjqaw2oG9DCHm_43.617560_-116.246395@1303263095"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"c0d1f7738d53df5a8f7a4e69c1596f4a",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086087,
+            "locality_id":85937923,
+            "neighbourhood_id":85876311,
+            "region_id":85688657,
+            "venue_id":320542651
+        }
+    ],
+    "wof:id":320542651,
+    "wof:lastmodified":1449014130,
+    "wof:name":"Hickory Farms",
+    "wof:parent_id":85876311,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop",
+        "gourmet",
+        "order",
+        "mail",
+        "online"
+    ]
+},
+  "bbox": [-116.246395,43.61756,-116.246395,43.61756],
+  "geometry": {"coordinates":[-116.246395,43.61756],"type":"Point"}
+}

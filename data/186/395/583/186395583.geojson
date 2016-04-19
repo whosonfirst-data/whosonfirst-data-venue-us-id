@@ -1,0 +1,68 @@
+{
+  "id": 186395583,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-116.239377,43.627506,-116.239377,43.627506",
+    "geom:latitude":43.627506,
+    "geom:longitude":-116.239377,
+    "iso:country":"US",
+    "sg:address":"206 E 37th St",
+    "sg:city":"Boise",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Agent",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 338 7879",
+    "sg:postcode":"83714",
+    "sg:province":"ID",
+    "sg:tags":[
+        "agency",
+        "rental"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85937923,
+        102086087,
+        85876301
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2h5KTxg9jyBDQc0Tru93k9_43.627506_-116.239377@1294099250"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"0e6e069e746407132484245f4d6c4337",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086087,
+            "locality_id":85937923,
+            "neighbourhood_id":85876301,
+            "region_id":85688657,
+            "venue_id":186395583
+        }
+    ],
+    "wof:id":186395583,
+    "wof:lastmodified":1449052618,
+    "wof:name":"Patient Care Svc Inc",
+    "wof:parent_id":85876301,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "agency",
+        "rental"
+    ]
+},
+  "bbox": [-116.239377,43.627506,-116.239377,43.627506],
+  "geometry": {"coordinates":[-116.239377,43.627506],"type":"Point"}
+}

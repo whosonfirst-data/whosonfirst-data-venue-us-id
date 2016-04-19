@@ -1,0 +1,67 @@
+{
+  "id": 186502679,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-116.78064,47.695821,-116.78064,47.695821",
+    "geom:latitude":47.695821,
+    "geom:longitude":-116.78064,
+    "iso:country":"US",
+    "sg:address":"2024 N 4th St",
+    "sg:city":"Coeur D Alene",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Electrical",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 664 4519",
+    "sg:postcode":"83814",
+    "sg:province":"ID",
+    "sg:tags":[
+        "electric",
+        "motor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        102086085,
+        85821457
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6univ8GbXxKq0aIZA8TFOy_47.695821_-116.780640@1294099250"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"718c6bb933985e846daca9bcb2fdbbc4",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086085,
+            "locality_id":-1,
+            "neighbourhood_id":85821457,
+            "region_id":85688657,
+            "venue_id":186502679
+        }
+    ],
+    "wof:id":186502679,
+    "wof:lastmodified":1449051598,
+    "wof:name":"Motor Electric",
+    "wof:parent_id":85821457,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electric",
+        "motor"
+    ]
+},
+  "bbox": [-116.78064,47.695821,-116.78064,47.695821],
+  "geometry": {"coordinates":[-116.78064,47.695821],"type":"Point"}
+}

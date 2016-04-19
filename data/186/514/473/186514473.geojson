@@ -1,0 +1,67 @@
+{
+  "id": 186514473,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-116.311875,43.590355,-116.311875,43.590355",
+    "geom:latitude":43.590355,
+    "geom:longitude":-116.311875,
+    "iso:country":"US",
+    "sg:address":"10500 Overland Rd",
+    "sg:city":"Boise",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 377 0932",
+    "sg:postcode":"83709",
+    "sg:province":"ID",
+    "sg:tags":[
+        "grocer"
+    ],
+    "sg:website":"www.albertsons.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85937923,
+        102086087,
+        85876309
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5WkYdSPR5CY2ot2edyOIWC_43.590355_-116.311875@1294099250"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"90ed42efdeb52d3d8198e9b837844eb0",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086087,
+            "locality_id":85937923,
+            "neighbourhood_id":85876309,
+            "region_id":85688657,
+            "venue_id":186514473
+        }
+    ],
+    "wof:id":186514473,
+    "wof:lastmodified":1449051719,
+    "wof:name":"Albertson's",
+    "wof:parent_id":85876309,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "grocer"
+    ]
+},
+  "bbox": [-116.311875,43.590355,-116.311875,43.590355],
+  "geometry": {"coordinates":[-116.311875,43.590355],"type":"Point"}
+}

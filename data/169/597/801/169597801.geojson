@@ -1,0 +1,66 @@
+{
+  "id": 169597801,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-116.274312,43.634606,-116.274312,43.634606",
+    "geom:latitude":43.634606,
+    "geom:longitude":-116.274312,
+    "iso:country":"US",
+    "sg:address":"3363 N Cole Rd",
+    "sg:city":"Boise",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Laundry & Dry Cleaning",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 378 7001",
+    "sg:postcode":"83704",
+    "sg:province":"ID",
+    "sg:tags":[
+        "cleaners"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85937919,
+        102086087,
+        85876349
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6FDPAXbaOAqzYdjaFfSoRi_43.634606_-116.274312@1294099250"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"ff7c366cccc31e09e42557ad33e772d7",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086087,
+            "locality_id":85937919,
+            "neighbourhood_id":85876349,
+            "region_id":85688657,
+            "venue_id":169597801
+        }
+    ],
+    "wof:id":169597801,
+    "wof:lastmodified":1449035924,
+    "wof:name":"On The Spot Cleaners & Laundry",
+    "wof:parent_id":85876349,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cleaners"
+    ]
+},
+  "bbox": [-116.274312,43.634606,-116.274312,43.634606],
+  "geometry": {"coordinates":[-116.274312,43.634606],"type":"Point"}
+}

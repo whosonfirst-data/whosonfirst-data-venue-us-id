@@ -1,0 +1,67 @@
+{
+  "id": 186074165,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-113.878962,45.169708,-113.878962,45.169708",
+    "geom:latitude":45.169708,
+    "geom:longitude":-113.878962,
+    "iso:country":"US",
+    "sg:address":"2005 Main St",
+    "sg:city":"Salmon",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 756 3567",
+    "sg:postcode":"83467",
+    "sg:province":"ID",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85938133,
+        102085123
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1Lm4V751l50Zq9LDyaZxJY_45.169708_-113.878962@1294099250"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"11191cdef2162b9950c8c6eed47b7a0d",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085123,
+            "locality_id":85938133,
+            "neighbourhood_id":-1,
+            "region_id":85688657,
+            "venue_id":186074165
+        }
+    ],
+    "wof:id":186074165,
+    "wof:lastmodified":1449051830,
+    "wof:name":"Arnold's Auto Svc",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [-113.878962,45.169708,-113.878962,45.169708],
+  "geometry": {"coordinates":[-113.878962,45.169708],"type":"Point"}
+}

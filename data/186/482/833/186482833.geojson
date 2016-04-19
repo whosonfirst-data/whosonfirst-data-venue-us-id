@@ -1,0 +1,67 @@
+{
+  "id": 186482833,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-116.252288,43.619123,-116.252288,43.619123",
+    "geom:latitude":43.619123,
+    "geom:longitude":-116.252288,
+    "iso:country":"US",
+    "sg:address":"5608 W Fairview Ave",
+    "sg:city":"Boise",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Bakery",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 377 5587",
+    "sg:postcode":"83706",
+    "sg:province":"ID",
+    "sg:tags":[
+        "baker"
+    ],
+    "sg:website":"www.greatharvest.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85937923,
+        102086087,
+        85876311
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2qU8S6ExdBiNndIQipszQ0_43.619123_-116.252288@1294099250"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"9e00b3c4424efe616cdff9302261d579",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086087,
+            "locality_id":85937923,
+            "neighbourhood_id":85876311,
+            "region_id":85688657,
+            "venue_id":186482833
+        }
+    ],
+    "wof:id":186482833,
+    "wof:lastmodified":1449051345,
+    "wof:name":"Great Harvest Bread Co",
+    "wof:parent_id":85876311,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "baker"
+    ]
+},
+  "bbox": [-116.252288,43.619123,-116.252288,43.619123],
+  "geometry": {"coordinates":[-116.252288,43.619123],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 185783003,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-116.656278,43.64447,-116.656278,43.64447",
+    "geom:latitude":43.64447,
+    "geom:longitude":-116.656278,
+    "iso:country":"US",
+    "sg:address":"3704 Arthur St",
+    "sg:city":"Caldwell",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 459 1614",
+    "sg:postcode":"83605",
+    "sg:province":"ID",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85938017,
+        102085081
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_64GpEC1XsfnxIuacGvNqMf_43.644470_-116.656278@1294099250"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"8059af3b1496f0236d3af0e17fbd4796",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085081,
+            "locality_id":85938017,
+            "neighbourhood_id":-1,
+            "region_id":85688657,
+            "venue_id":185783003
+        }
+    ],
+    "wof:id":185783003,
+    "wof:lastmodified":1449006633,
+    "wof:name":"Phil's Auto Repair",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [-116.656278,43.64447,-116.656278,43.64447],
+  "geometry": {"coordinates":[-116.656278,43.64447],"type":"Point"}
+}

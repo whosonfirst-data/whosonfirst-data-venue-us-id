@@ -1,0 +1,66 @@
+{
+  "id": 186206199,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-112.046365,43.481467,-112.046365,43.481467",
+    "geom:latitude":43.481467,
+    "geom:longitude":-112.046365,
+    "iso:country":"US",
+    "sg:address":"1870 S Yellowstone Hwy",
+    "sg:city":"Idaho Falls",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 523 0331",
+    "sg:postcode":"83402",
+    "sg:province":"ID",
+    "sg:tags":[
+        "truck"
+    ],
+    "sg:website":"www.napaonline.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85937963,
+        102085163
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5iDHmlgRWDTyImE5bI7fxF_43.481467_-112.046365@1294099250"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"3779705c404814e7faa95c3e448728ba",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085163,
+            "locality_id":85937963,
+            "neighbourhood_id":-1,
+            "region_id":85688657,
+            "venue_id":186206199
+        }
+    ],
+    "wof:id":186206199,
+    "wof:lastmodified":1449052196,
+    "wof:name":"Sage Creek Repair",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "truck"
+    ]
+},
+  "bbox": [-112.046365,43.481467,-112.046365,43.481467],
+  "geometry": {"coordinates":[-112.046365,43.481467],"type":"Point"}
+}

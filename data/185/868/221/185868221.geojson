@@ -1,0 +1,66 @@
+{
+  "id": 185868221,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-116.300866,43.590865,-116.300866,43.590865",
+    "geom:latitude":43.590865,
+    "geom:longitude":-116.300866,
+    "iso:country":"US",
+    "sg:address":"1555 S Timesquare Ln",
+    "sg:city":"Boise",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 672 8860",
+    "sg:postcode":"83709",
+    "sg:province":"ID",
+    "sg:tags":[
+        "dentist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85937923,
+        102086087,
+        85876309
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1ppFJb8I4qQ1sd37ODhnPt_43.590865_-116.300866@1294099250"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"2873f2b0eb30f0942d9c18772e26378e",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086087,
+            "locality_id":85937923,
+            "neighbourhood_id":85876309,
+            "region_id":85688657,
+            "venue_id":185868221
+        }
+    ],
+    "wof:id":185868221,
+    "wof:lastmodified":1449006649,
+    "wof:name":"Idaho Endodontics",
+    "wof:parent_id":85876309,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dentist"
+    ]
+},
+  "bbox": [-116.300866,43.590865,-116.300866,43.590865],
+  "geometry": {"coordinates":[-116.300866,43.590865],"type":"Point"}
+}

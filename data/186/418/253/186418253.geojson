@@ -1,0 +1,78 @@
+{
+  "id": 186418253,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-116.786788,47.727273,-116.786788,47.727273",
+    "geom:latitude":47.727273,
+    "geom:longitude":-116.786788,
+    "iso:country":"US",
+    "sg:address":"6125 N Government Way",
+    "sg:city":"Coeur D Alene",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 762 3446",
+    "sg:postcode":"83815",
+    "sg:province":"ID",
+    "sg:tags":[
+        "plumbing",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85938163,
+        102086085,
+        85806325,
+        85821457
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1G3AtBmWbZnft9m6yOIp3l_47.727273_-116.786788@1294099250"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"a42fc0c2ebf9c390dbda6ded91edb0f2",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086085,
+            "locality_id":85938163,
+            "neighbourhood_id":85806325,
+            "region_id":85688657,
+            "venue_id":186418253
+        },
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086085,
+            "locality_id":-1,
+            "neighbourhood_id":85821457,
+            "region_id":85688657,
+            "venue_id":186418253
+        }
+    ],
+    "wof:id":186418253,
+    "wof:lastmodified":1449052424,
+    "wof:name":"R L Jacobs Plumbing Inc",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "plumbing",
+        "contractor"
+    ]
+},
+  "bbox": [-116.786788,47.727273,-116.786788,47.727273],
+  "geometry": {"coordinates":[-116.786788,47.727273],"type":"Point"}
+}

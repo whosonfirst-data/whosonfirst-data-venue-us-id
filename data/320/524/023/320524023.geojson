@@ -1,0 +1,85 @@
+{
+  "id": 320524023,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-116.991486,46.38717,-116.991486,46.38717",
+    "geom:latitude":46.38717,
+    "geom:longitude":-116.991486,
+    "iso:country":"US",
+    "sg:address":"3206 8th St",
+    "sg:city":"Lewiston",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Laundry & Dry Cleaning",
+            "type":"Services"
+        },
+        {
+            "category":"Home & Garden",
+            "subcategory":"Carpets & Floor Coverings",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 743 0558",
+    "sg:postcode":"83501",
+    "sg:province":"ID",
+    "sg:tags":[
+        "cleaner",
+        "material",
+        "rug"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85937743,
+        102086039,
+        85837769,
+        85830385
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1DyygG2PrRkFylphpmyq6L_46.387170_-116.991486@1303263095"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"dc71fb025a7a716775c2e623b7131843",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086039,
+            "locality_id":85937743,
+            "neighbourhood_id":85837769,
+            "region_id":85688657,
+            "venue_id":320524023
+        },
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086039,
+            "locality_id":85937743,
+            "neighbourhood_id":85830385,
+            "region_id":85688657,
+            "venue_id":320524023
+        }
+    ],
+    "wof:id":320524023,
+    "wof:lastmodified":1449011223,
+    "wof:name":"Designer Carpet & Uphl Clg",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cleaner",
+        "material",
+        "rug"
+    ]
+},
+  "bbox": [-116.991486,46.38717,-116.991486,46.38717],
+  "geometry": {"coordinates":[-116.991486,46.38717],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 169604359,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-111.308502,42.312382,-111.308502,42.312382",
+    "geom:latitude":42.312382,
+    "geom:longitude":-111.308502,
+    "iso:country":"US",
+    "sg:address":"845 Adams St",
+    "sg:city":"Montpelier",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 847 2062",
+    "sg:postcode":"83254",
+    "sg:province":"ID",
+    "sg:tags":[
+        "plumbing",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85937803,
+        102085071
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5ZaxkAp0p6ODMzsjrNzlw4_42.312382_-111.308502@1294099250"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"b092cd13bcc89f1a9dca7fa3db2669c1",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085071,
+            "locality_id":85937803,
+            "neighbourhood_id":-1,
+            "region_id":85688657,
+            "venue_id":169604359
+        }
+    ],
+    "wof:id":169604359,
+    "wof:lastmodified":1449035568,
+    "wof:name":"Wrights Plumbing",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "plumbing",
+        "contractor"
+    ]
+},
+  "bbox": [-111.308502,42.312382,-111.308502,42.312382],
+  "geometry": {"coordinates":[-111.308502,42.312382],"type":"Point"}
+}

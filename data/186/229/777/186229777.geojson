@@ -1,0 +1,67 @@
+{
+  "id": 186229777,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-116.696783,43.65412,-116.696783,43.65412",
+    "geom:latitude":43.65412,
+    "geom:longitude":-116.696783,
+    "iso:country":"US",
+    "sg:address":"1819 Ellis Ave",
+    "sg:city":"Caldwell",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 459 3621",
+    "sg:postcode":"83605",
+    "sg:province":"ID",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85938017,
+        102085081
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_50tb8m4ouxIC1w3KBe6vUq_43.654120_-116.696783@1294099250"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"0c8606f423600c293638df93babdeef6",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085081,
+            "locality_id":85938017,
+            "neighbourhood_id":-1,
+            "region_id":85688657,
+            "venue_id":186229777
+        }
+    ],
+    "wof:id":186229777,
+    "wof:lastmodified":1449052470,
+    "wof:name":"Family Medical Clinic",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [-116.696783,43.65412,-116.696783,43.65412],
+  "geometry": {"coordinates":[-116.696783,43.65412],"type":"Point"}
+}

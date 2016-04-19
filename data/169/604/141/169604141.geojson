@@ -1,0 +1,67 @@
+{
+  "id": 169604141,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-116.334425,43.565295,-116.334425,43.565295",
+    "geom:latitude":43.565295,
+    "geom:longitude":-116.334425,
+    "iso:country":"US",
+    "sg:address":"4203 S Cloverdale Rd",
+    "sg:city":"Boise",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Rubber & Plastics",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 362 5205",
+    "sg:postcode":"83709",
+    "sg:province":"ID",
+    "sg:tags":[
+        "product",
+        "mfg"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        102086087,
+        85876331
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6tWkgWW5p0JwDuV5QHr17u_43.565295_-116.334425@1294099250"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"863e0205c8f6815053d3acc1bd2774a5",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086087,
+            "locality_id":-1,
+            "neighbourhood_id":85876331,
+            "region_id":85688657,
+            "venue_id":169604141
+        }
+    ],
+    "wof:id":169604141,
+    "wof:lastmodified":1449035571,
+    "wof:name":"Boise Plastics",
+    "wof:parent_id":85876331,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "product",
+        "mfg"
+    ]
+},
+  "bbox": [-116.334425,43.565295,-116.334425,43.565295],
+  "geometry": {"coordinates":[-116.334425,43.565295],"type":"Point"}
+}

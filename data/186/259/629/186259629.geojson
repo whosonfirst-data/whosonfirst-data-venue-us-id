@@ -1,0 +1,80 @@
+{
+  "id": 186259629,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-116.786308,47.70589,-116.786308,47.70589",
+    "geom:latitude":47.70589,
+    "geom:longitude":-116.786308,
+    "iso:country":"US",
+    "sg:address":"3110 N Government Way",
+    "sg:city":"Coeur D Alene",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 664 8610",
+    "sg:postcode":"83815",
+    "sg:province":"ID",
+    "sg:tags":[
+        "muffler",
+        "exhaust",
+        "system"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85938163,
+        102086085,
+        85806325,
+        85821457
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0KLqApHMSl4PSHsxxWro6K_47.705890_-116.786308@1294099250"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"ac3bdff927d6d7224841fd139d98dc80",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086085,
+            "locality_id":85938163,
+            "neighbourhood_id":85806325,
+            "region_id":85688657,
+            "venue_id":186259629
+        },
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086085,
+            "locality_id":-1,
+            "neighbourhood_id":85821457,
+            "region_id":85688657,
+            "venue_id":186259629
+        }
+    ],
+    "wof:id":186259629,
+    "wof:lastmodified":1449051017,
+    "wof:name":"Coeur D' Alene Muffler",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "muffler",
+        "exhaust",
+        "system"
+    ]
+},
+  "bbox": [-116.786308,47.70589,-116.786308,47.70589],
+  "geometry": {"coordinates":[-116.786308,47.70589],"type":"Point"}
+}

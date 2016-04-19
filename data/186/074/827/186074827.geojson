@@ -1,0 +1,68 @@
+{
+  "id": 186074827,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-116.929795,44.067599,-116.929795,44.067599",
+    "geom:latitude":44.067599,
+    "geom:longitude":-116.929795,
+    "iso:country":"US",
+    "sg:address":"1140 6th Ave S",
+    "sg:city":"Payette",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 642 5063",
+    "sg:postcode":"83661",
+    "sg:province":"ID",
+    "sg:tags":[
+        "building",
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85937905,
+        102086023,
+        85840959
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_58O8rxAjFHtQF4NWoeKR1v_44.067599_-116.929795@1294099250"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"7c68d1690ef9b65b3bf7de1fd481969e",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086023,
+            "locality_id":85937905,
+            "neighbourhood_id":85840959,
+            "region_id":85688657,
+            "venue_id":186074827
+        }
+    ],
+    "wof:id":186074827,
+    "wof:lastmodified":1449051829,
+    "wof:name":"Louise Garden Apartments",
+    "wof:parent_id":85840959,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "building",
+        "apartment"
+    ]
+},
+  "bbox": [-116.929795,44.067599,-116.929795,44.067599],
+  "geometry": {"coordinates":[-116.929795,44.067599],"type":"Point"}
+}

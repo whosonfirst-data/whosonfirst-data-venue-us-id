@@ -1,0 +1,69 @@
+{
+  "id": 186128461,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-116.178923,43.541283,-116.178923,43.541283",
+    "geom:latitude":43.541283,
+    "geom:longitude":-116.178923,
+    "iso:country":"US",
+    "sg:address":"6428 Business Way",
+    "sg:city":"Boise",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 343 5423",
+    "sg:postcode":"83716",
+    "sg:province":"ID",
+    "sg:tags":[
+        "heating",
+        "contractor"
+    ],
+    "sg:website":"www.hobsonfab.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85937923,
+        102086087,
+        85876329
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4BTH5PWvJXn81TAz4o84mo_43.541283_-116.178923@1294099250"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"a2db40364726130761c500653bc763b7",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086087,
+            "locality_id":85937923,
+            "neighbourhood_id":85876329,
+            "region_id":85688657,
+            "venue_id":186128461
+        }
+    ],
+    "wof:id":186128461,
+    "wof:lastmodified":1449051408,
+    "wof:name":"Hobson Fabricating Corp",
+    "wof:parent_id":85876329,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "heating",
+        "contractor"
+    ]
+},
+  "bbox": [-116.178923,43.541283,-116.178923,43.541283],
+  "geometry": {"coordinates":[-116.178923,43.541283],"type":"Point"}
+}

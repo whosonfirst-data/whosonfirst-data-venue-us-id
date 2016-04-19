@@ -1,0 +1,67 @@
+{
+  "id": 169819527,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-116.798844,47.696025,-116.798844,47.696025",
+    "geom:latitude":47.696025,
+    "geom:longitude":-116.798844,
+    "iso:country":"US",
+    "sg:address":"1101 W Ironwood Dr",
+    "sg:city":"Coeur D Alene",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Medical Equipment & Supplies",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 667 1195",
+    "sg:postcode":"83814",
+    "sg:province":"ID",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        102086085,
+        85821457
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5ytbHundBQkQzLiIvgYxl6_47.696025_-116.798844@1294099250"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"2629e2481a9ecd1f36f7ccac998dd502",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086085,
+            "locality_id":-1,
+            "neighbourhood_id":85821457,
+            "region_id":85688657,
+            "venue_id":169819527
+        }
+    ],
+    "wof:id":169819527,
+    "wof:lastmodified":1449033481,
+    "wof:name":"Preferred Medical Equipment",
+    "wof:parent_id":85821457,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [-116.798844,47.696025,-116.798844,47.696025],
+  "geometry": {"coordinates":[-116.798844,47.696025],"type":"Point"}
+}

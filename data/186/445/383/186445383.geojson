@@ -1,0 +1,69 @@
+{
+  "id": 186445383,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-116.26107,43.615651,-116.26107,43.615651",
+    "geom:latitude":43.615651,
+    "geom:longitude":-116.26107,
+    "iso:country":"US",
+    "sg:address":"1200 N Liberty St",
+    "sg:city":"Boise",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"College",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 377 8080",
+    "sg:postcode":"83704",
+    "sg:province":"ID",
+    "sg:tags":[
+        "academic",
+        "school"
+    ],
+    "sg:website":"www.apolloboise.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85937923,
+        102086087,
+        85876311
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2QOw1Bx3MGpwMjvp9kF9VY_43.615651_-116.261070@1294099250"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"cf8234456862271201de9e7332b7e178",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086087,
+            "locality_id":85937923,
+            "neighbourhood_id":85876311,
+            "region_id":85688657,
+            "venue_id":186445383
+        }
+    ],
+    "wof:id":186445383,
+    "wof:lastmodified":1449050689,
+    "wof:name":"Apollo College",
+    "wof:parent_id":85876311,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "academic",
+        "school"
+    ]
+},
+  "bbox": [-116.26107,43.615651,-116.26107,43.615651],
+  "geometry": {"coordinates":[-116.26107,43.615651],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 186390647,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-116.32862,43.595249,-116.32862,43.595249",
+    "geom:latitude":43.595249,
+    "geom:longitude":-116.32862,
+    "iso:country":"US",
+    "sg:address":"1196 Lizaso Ave",
+    "sg:city":"Boise",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 376 5521",
+    "sg:postcode":"83709",
+    "sg:province":"ID",
+    "sg:tags":[
+        "excavation",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85937915,
+        102086087,
+        85805083
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7n0nmR860OT9R7fJpID5X1_43.595249_-116.328620@1294099250"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"10cd506e9521263e6db974c7c56e5381",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086087,
+            "locality_id":85937915,
+            "neighbourhood_id":85805083,
+            "region_id":85688657,
+            "venue_id":186390647
+        }
+    ],
+    "wof:id":186390647,
+    "wof:lastmodified":1449053055,
+    "wof:name":"James W Barham Backhoe",
+    "wof:parent_id":85805083,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "excavation",
+        "contractor"
+    ]
+},
+  "bbox": [-116.32862,43.595249,-116.32862,43.595249],
+  "geometry": {"coordinates":[-116.32862,43.595249],"type":"Point"}
+}

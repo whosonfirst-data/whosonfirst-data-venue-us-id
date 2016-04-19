@@ -1,0 +1,65 @@
+{
+  "id": 185869837,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-116.780775,47.699543,-116.780775,47.699543",
+    "geom:latitude":47.699543,
+    "geom:longitude":-116.780775,
+    "iso:country":"US",
+    "sg:address":"2500 N 4th St",
+    "sg:city":"Coeur D Alene",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 664 6859",
+    "sg:postcode":"83814",
+    "sg:province":"ID",
+    "sg:tags":[
+        "taxidermist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        102086085,
+        85821457
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7e3i9BaEwQ4GyGzzdYZYfJ_47.699543_-116.780775@1294099250"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"b78b1691bfa591f10c9f3eae2f489548",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086085,
+            "locality_id":-1,
+            "neighbourhood_id":85821457,
+            "region_id":85688657,
+            "venue_id":185869837
+        }
+    ],
+    "wof:id":185869837,
+    "wof:lastmodified":1449008090,
+    "wof:name":"Coeur D'Alene Taxidermy",
+    "wof:parent_id":85821457,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "taxidermist"
+    ]
+},
+  "bbox": [-116.780775,47.699543,-116.780775,47.699543],
+  "geometry": {"coordinates":[-116.780775,47.699543],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 186005363,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-116.390396,43.619134,-116.390396,43.619134",
+    "geom:latitude":43.619134,
+    "geom:longitude":-116.390396,
+    "iso:country":"US",
+    "sg:address":"225 E Fairview Ave",
+    "sg:city":"Meridian",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 888 7797",
+    "sg:postcode":"83642",
+    "sg:province":"ID",
+    "sg:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85937923,
+        102086087,
+        85811491
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5Hd4sC9IFvquqgdxD8DeD3_43.619134_-116.390396@1294099250"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"06aba1c3336abda54d2035a57326138d",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086087,
+            "locality_id":85937923,
+            "neighbourhood_id":85811491,
+            "region_id":85688657,
+            "venue_id":186005363
+        }
+    ],
+    "wof:id":186005363,
+    "wof:lastmodified":1449052813,
+    "wof:name":"Rocky Mountain Collision",
+    "wof:parent_id":85811491,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ]
+},
+  "bbox": [-116.390396,43.619134,-116.390396,43.619134],
+  "geometry": {"coordinates":[-116.390396,43.619134],"type":"Point"}
+}

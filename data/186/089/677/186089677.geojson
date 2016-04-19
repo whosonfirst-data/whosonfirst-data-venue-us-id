@@ -1,0 +1,68 @@
+{
+  "id": 186089677,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-116.198412,43.579723,-116.198412,43.579723",
+    "geom:latitude":43.579723,
+    "geom:longitude":-116.198412,
+    "iso:country":"US",
+    "sg:address":"2519 S Federal Way",
+    "sg:city":"Boise",
+    "sg:classifiers":[
+        {
+            "category":"Local Transit",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 342 0809",
+    "sg:postcode":"83705",
+    "sg:province":"ID",
+    "sg:tags":[
+        "squad",
+        "rescue"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85937923,
+        102086087,
+        85876343
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1C8rWZpvEN8hq5C7sf6J9L_43.579723_-116.198412@1294099250"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"717f25bccb9bc1025c16d962363ef926",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086087,
+            "locality_id":85937923,
+            "neighbourhood_id":85876343,
+            "region_id":85688657,
+            "venue_id":186089677
+        }
+    ],
+    "wof:id":186089677,
+    "wof:lastmodified":1449050948,
+    "wof:name":"Idaho Mountain Search & Rescue",
+    "wof:parent_id":85876343,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "squad",
+        "rescue"
+    ]
+},
+  "bbox": [-116.198412,43.579723,-116.198412,43.579723],
+  "geometry": {"coordinates":[-116.198412,43.579723],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 186551589,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-117.002656,46.715626,-117.002656,46.715626",
+    "geom:latitude":46.715626,
+    "geom:longitude":-117.002656,
+    "iso:country":"US",
+    "sg:address":"97 E Palouse River Dr",
+    "sg:city":"Moscow",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 882 4953",
+    "sg:postcode":"83843",
+    "sg:province":"ID",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85937727,
+        102085077
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_37izYrIY7kxl3n2ljSg3FE_46.715626_-117.002656@1294099250"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"4ea0c6379343763c8500ceb80b98666d",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085077,
+            "locality_id":85937727,
+            "neighbourhood_id":-1,
+            "region_id":85688657,
+            "venue_id":186551589
+        }
+    ],
+    "wof:id":186551589,
+    "wof:lastmodified":1449050945,
+    "wof:name":"Auto Lab",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [-117.002656,46.715626,-117.002656,46.715626],
+  "geometry": {"coordinates":[-117.002656,46.715626],"type":"Point"}
+}

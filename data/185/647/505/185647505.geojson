@@ -1,0 +1,67 @@
+{
+  "id": 185647505,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-114.370439,43.683684,-114.370439,43.683684",
+    "geom:latitude":43.683684,
+    "geom:longitude":-114.370439,
+    "iso:country":"US",
+    "sg:address":"500 10th St",
+    "sg:city":"Ketchum",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 725 0332",
+    "sg:postcode":"83340",
+    "sg:province":"ID",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85937951,
+        102086031
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1BwvQIIGvRBHlsfM1ItDM7_43.683684_-114.370439@1294099250"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"d87f2344b56d65843a10a13fdbc72cfd",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086031,
+            "locality_id":85937951,
+            "neighbourhood_id":-1,
+            "region_id":85688657,
+            "venue_id":185647505
+        }
+    ],
+    "wof:id":185647505,
+    "wof:lastmodified":1449007381,
+    "wof:name":"Valley Auto Works",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [-114.370439,43.683684,-114.370439,43.683684],
+  "geometry": {"coordinates":[-114.370439,43.683684],"type":"Point"}
+}

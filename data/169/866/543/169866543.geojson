@@ -1,0 +1,68 @@
+{
+  "id": 169866543,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-116.413621,43.603353,-116.413621,43.603353",
+    "geom:latitude":43.603353,
+    "geom:longitude":-116.413621,
+    "iso:country":"US",
+    "sg:address":"115 S Linder Rd",
+    "sg:city":"Meridian",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 888 9413",
+    "sg:postcode":"83642",
+    "sg:province":"ID",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85937915,
+        102086087,
+        85805083
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5A6VM7Dke58cTBagcg7SVn_43.603353_-116.413621@1294099250"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"bb6ce377d1fa1fd236eea6d4c6ab3fd7",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086087,
+            "locality_id":85937915,
+            "neighbourhood_id":85805083,
+            "region_id":85688657,
+            "venue_id":169866543
+        }
+    ],
+    "wof:id":169866543,
+    "wof:lastmodified":1449034248,
+    "wof:name":"Cornerstone Auto Repair",
+    "wof:parent_id":85805083,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [-116.413621,43.603353,-116.413621,43.603353],
+  "geometry": {"coordinates":[-116.413621,43.603353],"type":"Point"}
+}

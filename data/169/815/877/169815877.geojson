@@ -1,0 +1,67 @@
+{
+  "id": 169815877,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-114.469759,42.555675,-114.469759,42.555675",
+    "geom:latitude":42.555675,
+    "geom:longitude":-114.469759,
+    "iso:country":"US",
+    "sg:address":"125 Main Ave E",
+    "sg:city":"Twin Falls",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Specialty",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 734 4457",
+    "sg:postcode":"83301",
+    "sg:province":"ID",
+    "sg:tags":[
+        "bars",
+        "espresso"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85937881,
+        102085153
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2ewPYlxfUSPh802OhcUQA3_42.555675_-114.469759@1294099250"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"5c9c9b05883d334b1e8bfdafee498586",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085153,
+            "locality_id":85937881,
+            "neighbourhood_id":-1,
+            "region_id":85688657,
+            "venue_id":169815877
+        }
+    ],
+    "wof:id":169815877,
+    "wof:lastmodified":1449034283,
+    "wof:name":"Metropolis Bakery Cafe",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "bars",
+        "espresso"
+    ]
+},
+  "bbox": [-114.469759,42.555675,-114.469759,42.555675],
+  "geometry": {"coordinates":[-114.469759,42.555675],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 185686279,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-116.867185,47.703775,-116.867185,47.703775",
+    "geom:latitude":47.703775,
+    "geom:longitude":-116.867185,
+    "iso:country":"US",
+    "sg:address":"6215 E Commerce Loop",
+    "sg:city":"Post Falls",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 765 7727",
+    "sg:postcode":"83854",
+    "sg:province":"ID",
+    "sg:tags":[
+        "heating",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        102086085,
+        85821457
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0oyUhMf85BAwlIVwW2YchC_47.703775_-116.867185@1294099250"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"5b763d12f9050f5279c1417be8f014b0",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086085,
+            "locality_id":-1,
+            "neighbourhood_id":85821457,
+            "region_id":85688657,
+            "venue_id":185686279
+        }
+    ],
+    "wof:id":185686279,
+    "wof:lastmodified":1449007836,
+    "wof:name":"D & D Heating Air Cond & Sheet",
+    "wof:parent_id":85821457,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "heating",
+        "contractor"
+    ]
+},
+  "bbox": [-116.867185,47.703775,-116.867185,47.703775],
+  "geometry": {"coordinates":[-116.867185,47.703775],"type":"Point"}
+}

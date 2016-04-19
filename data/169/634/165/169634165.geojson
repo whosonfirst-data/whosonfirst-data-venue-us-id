@@ -1,0 +1,67 @@
+{
+  "id": 169634165,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-116.330097,43.578296,-116.330097,43.578296",
+    "geom:latitude":43.578296,
+    "geom:longitude":-116.330097,
+    "iso:country":"US",
+    "sg:address":"11875 Tioga St",
+    "sg:city":"Boise",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 362 4460",
+    "sg:postcode":"83709",
+    "sg:province":"ID",
+    "sg:tags":[
+        "electric",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        102086087,
+        85876331
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0hLFoIqcm6Rjl2O0WI17Qa_43.578296_-116.330097@1294099250"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"6ecda8f9f0357c033705568901b3a30d",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086087,
+            "locality_id":-1,
+            "neighbourhood_id":85876331,
+            "region_id":85688657,
+            "venue_id":169634165
+        }
+    ],
+    "wof:id":169634165,
+    "wof:lastmodified":1449034257,
+    "wof:name":"Schaffeld Electrical Svc",
+    "wof:parent_id":85876331,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electric",
+        "contractor"
+    ]
+},
+  "bbox": [-116.330097,43.578296,-116.330097,43.578296],
+  "geometry": {"coordinates":[-116.330097,43.578296],"type":"Point"}
+}

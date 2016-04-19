@@ -1,0 +1,67 @@
+{
+  "id": 169772019,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-116.309652,43.571095,-116.309652,43.571095",
+    "geom:latitude":43.571095,
+    "geom:longitude":-116.309652,
+    "iso:country":"US",
+    "sg:address":"3750 Upland Ave",
+    "sg:city":"Boise",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 859 7544",
+    "sg:postcode":"83709",
+    "sg:province":"ID",
+    "sg:tags":[
+        "electric",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        102086087,
+        85876331
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4OkzpSD348yhvyNYvpH4ns_43.571095_-116.309652@1294099250"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"41c5248788e0961a3ea15ba3639a23b1",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086087,
+            "locality_id":-1,
+            "neighbourhood_id":85876331,
+            "region_id":85688657,
+            "venue_id":169772019
+        }
+    ],
+    "wof:id":169772019,
+    "wof:lastmodified":1449034152,
+    "wof:name":"Gunn Electric",
+    "wof:parent_id":85876331,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electric",
+        "contractor"
+    ]
+},
+  "bbox": [-116.309652,43.571095,-116.309652,43.571095],
+  "geometry": {"coordinates":[-116.309652,43.571095],"type":"Point"}
+}

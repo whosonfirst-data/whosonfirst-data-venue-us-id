@@ -1,0 +1,68 @@
+{
+  "id": 185940345,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-116.259561,43.563354,-116.259561,43.563354",
+    "geom:latitude":43.563354,
+    "geom:longitude":-116.259561,
+    "iso:country":"US",
+    "sg:address":"6241 W Gowen Rd",
+    "sg:city":"Boise",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 336 1868",
+    "sg:postcode":"83709",
+    "sg:province":"ID",
+    "sg:tags":[
+        "automobile",
+        "suspension"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85937923,
+        102086087,
+        85825393
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6ZfE4iw19cCEadIAQ0l61Y_43.563354_-116.259561@1294099250"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"0b0975f740373c9620c334c745c23ac0",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086087,
+            "locality_id":85937923,
+            "neighbourhood_id":85825393,
+            "region_id":85688657,
+            "venue_id":185940345
+        }
+    ],
+    "wof:id":185940345,
+    "wof:lastmodified":1449007011,
+    "wof:name":"Copperhead Racing",
+    "wof:parent_id":85825393,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automobile",
+        "suspension"
+    ]
+},
+  "bbox": [-116.259561,43.563354,-116.259561,43.563354],
+  "geometry": {"coordinates":[-116.259561,43.563354],"type":"Point"}
+}

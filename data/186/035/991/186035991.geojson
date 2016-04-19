@@ -1,0 +1,66 @@
+{
+  "id": 186035991,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-116.17439,43.589426,-116.17439,43.589426",
+    "geom:latitude":43.589426,
+    "geom:longitude":-116.17439,
+    "iso:country":"US",
+    "sg:address":"967 E Parkcenter Blvd",
+    "sg:city":"Boise",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 331 2900",
+    "sg:postcode":"83706",
+    "sg:province":"ID",
+    "sg:tags":[
+        "delivery"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85937923,
+        102086087,
+        85876305
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_22fR1q470FddcTXX40FdaE_43.589426_-116.174390@1294099250"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"18a30a624fd33b285eebe5903c3eab6b",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086087,
+            "locality_id":85937923,
+            "neighbourhood_id":85876305,
+            "region_id":85688657,
+            "venue_id":186035991
+        }
+    ],
+    "wof:id":186035991,
+    "wof:lastmodified":1449052495,
+    "wof:name":"Fast Freight Express",
+    "wof:parent_id":85876305,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "delivery"
+    ]
+},
+  "bbox": [-116.17439,43.589426,-116.17439,43.589426],
+  "geometry": {"coordinates":[-116.17439,43.589426],"type":"Point"}
+}

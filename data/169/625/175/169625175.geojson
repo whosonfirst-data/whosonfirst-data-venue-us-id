@@ -1,0 +1,70 @@
+{
+  "id": 169625175,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-116.2631,43.645447,-116.2631,43.645447",
+    "geom:latitude":43.645447,
+    "geom:longitude":-116.2631,
+    "iso:country":"US",
+    "sg:address":"4866 Alworth St",
+    "sg:city":"Boise",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 321 0411",
+    "sg:postcode":"83714",
+    "sg:province":"ID",
+    "sg:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85937919,
+        102086087,
+        85876349
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5Et7MIxBhABaP3oMYfzJXY_43.645447_-116.263100@1294099250"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"84a49789cc780375420b9f1af8d73d95",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086087,
+            "locality_id":85937919,
+            "neighbourhood_id":85876349,
+            "region_id":85688657,
+            "venue_id":169625175
+        }
+    ],
+    "wof:id":169625175,
+    "wof:lastmodified":1449036026,
+    "wof:name":"Pineda Trucking",
+    "wof:parent_id":85876349,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ]
+},
+  "bbox": [-116.2631,43.645447,-116.2631,43.645447],
+  "geometry": {"coordinates":[-116.2631,43.645447],"type":"Point"}
+}

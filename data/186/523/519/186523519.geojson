@@ -1,0 +1,68 @@
+{
+  "id": 186523519,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-116.314431,43.611256,-116.314431,43.611256",
+    "geom:latitude":43.611256,
+    "geom:longitude":-116.314431,
+    "iso:country":"US",
+    "sg:address":"683 N Five Mile Rd",
+    "sg:city":"Boise",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 375 7376",
+    "sg:postcode":"83713",
+    "sg:province":"ID",
+    "sg:tags":[
+        "electric",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85937923,
+        102086087,
+        85876309
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6TuB0xW4xCvljSPinV7bOz_43.611256_-116.314431@1294099250"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"5ab880be17f6e7a22eaea444520201f8",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086087,
+            "locality_id":85937923,
+            "neighbourhood_id":85876309,
+            "region_id":85688657,
+            "venue_id":186523519
+        }
+    ],
+    "wof:id":186523519,
+    "wof:lastmodified":1449051931,
+    "wof:name":"Superior Electrical",
+    "wof:parent_id":85876309,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electric",
+        "contractor"
+    ]
+},
+  "bbox": [-116.314431,43.611256,-116.314431,43.611256],
+  "geometry": {"coordinates":[-116.314431,43.611256],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 186318281,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-111.991188,43.48229,-111.991188,43.48229",
+    "geom:latitude":43.48229,
+    "geom:longitude":-111.991188,
+    "iso:country":"US",
+    "sg:address":"2139 E 17th St",
+    "sg:city":"Idaho Falls",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Specialty",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 552 5282",
+    "sg:postcode":"83404",
+    "sg:province":"ID",
+    "sg:tags":[
+        "eating",
+        "bars",
+        "espresso"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85937963,
+        102085163
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7HLfZjMrfGisPoVMREojs6_43.482290_-111.991188@1294099250"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"4408f23bdcc70d04daa8f770e5044811",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085163,
+            "locality_id":85937963,
+            "neighbourhood_id":-1,
+            "region_id":85688657,
+            "venue_id":186318281
+        }
+    ],
+    "wof:id":186318281,
+    "wof:lastmodified":1449050987,
+    "wof:name":"Java Express",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "eating",
+        "bars",
+        "espresso"
+    ]
+},
+  "bbox": [-111.991188,43.48229,-111.991188,43.48229],
+  "geometry": {"coordinates":[-111.991188,43.48229],"type":"Point"}
+}

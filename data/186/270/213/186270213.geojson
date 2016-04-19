@@ -1,0 +1,68 @@
+{
+  "id": 186270213,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-116.522798,43.546988,-116.522798,43.546988",
+    "geom:latitude":43.546988,
+    "geom:longitude":-116.522798,
+    "iso:country":"US",
+    "sg:address":"3900 E Greenhurst Rd",
+    "sg:city":"Nampa",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 353 2952",
+    "sg:postcode":"83686",
+    "sg:province":"ID",
+    "sg:tags":[
+        "roofing",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85938009,
+        102085081,
+        85827787
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5bHdm23baQxqNdUyv1qAMc_43.546988_-116.522798@1294099250"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"355dff23d5c4873c559811d39eac8dc0",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085081,
+            "locality_id":85938009,
+            "neighbourhood_id":85827787,
+            "region_id":85688657,
+            "venue_id":186270213
+        }
+    ],
+    "wof:id":186270213,
+    "wof:lastmodified":1449050895,
+    "wof:name":"Mountain View Roofing",
+    "wof:parent_id":85827787,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "roofing",
+        "contractor"
+    ]
+},
+  "bbox": [-116.522798,43.546988,-116.522798,43.546988],
+  "geometry": {"coordinates":[-116.522798,43.546988],"type":"Point"}
+}

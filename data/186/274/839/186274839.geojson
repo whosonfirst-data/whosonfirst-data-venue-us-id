@@ -1,0 +1,68 @@
+{
+  "id": 186274839,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-116.384242,43.619345,-116.384242,43.619345",
+    "geom:latitude":43.619345,
+    "geom:longitude":-116.384242,
+    "iso:country":"US",
+    "sg:address":"835 E Fairview Ave",
+    "sg:city":"Meridian",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Car Wash",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 884 8100",
+    "sg:postcode":"83642",
+    "sg:province":"ID",
+    "sg:tags":[
+        "polishing",
+        "washing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85937923,
+        102086087,
+        85811491
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5NSfoXRKtcmGeMMGECfkSL_43.619345_-116.384242@1294099250"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"2c008565e4d0990e54500374fd7fb61c",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086087,
+            "locality_id":85937923,
+            "neighbourhood_id":85811491,
+            "region_id":85688657,
+            "venue_id":186274839
+        }
+    ],
+    "wof:id":186274839,
+    "wof:lastmodified":1449050593,
+    "wof:name":"Ultra Touch Car Wash",
+    "wof:parent_id":85811491,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "polishing",
+        "washing"
+    ]
+},
+  "bbox": [-116.384242,43.619345,-116.384242,43.619345],
+  "geometry": {"coordinates":[-116.384242,43.619345],"type":"Point"}
+}

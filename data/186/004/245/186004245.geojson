@@ -1,0 +1,68 @@
+{
+  "id": 186004245,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-116.222362,43.620764,-116.222362,43.620764",
+    "geom:latitude":43.620764,
+    "geom:longitude":-116.222362,
+    "iso:country":"US",
+    "sg:address":"2618 Fairview Ave",
+    "sg:city":"Boise",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 367 0244",
+    "sg:postcode":"83702",
+    "sg:province":"ID",
+    "sg:tags":[
+        "car",
+        "dealer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85937923,
+        102086087,
+        85876355
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5wFtyHpD0vX3HMFz0fp1Fr_43.620764_-116.222362@1294099250"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"2a633a8ef90b2a886477c49e2bb708d3",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086087,
+            "locality_id":85937923,
+            "neighbourhood_id":85876355,
+            "region_id":85688657,
+            "venue_id":186004245
+        }
+    ],
+    "wof:id":186004245,
+    "wof:lastmodified":1449051366,
+    "wof:name":"Courtesy Motors",
+    "wof:parent_id":85876355,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "car",
+        "dealer"
+    ]
+},
+  "bbox": [-116.222362,43.620764,-116.222362,43.620764],
+  "geometry": {"coordinates":[-116.222362,43.620764],"type":"Point"}
+}

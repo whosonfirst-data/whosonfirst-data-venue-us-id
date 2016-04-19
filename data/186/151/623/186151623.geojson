@@ -1,0 +1,65 @@
+{
+  "id": 186151623,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-117.000149,46.731794,-117.000149,46.731794",
+    "geom:latitude":46.731794,
+    "geom:longitude":-117.000149,
+    "iso:country":"US",
+    "sg:address":"118 E 4th St",
+    "sg:city":"Moscow",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Police Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 882 2677",
+    "sg:postcode":"83843",
+    "sg:province":"ID",
+    "sg:tags":[
+        "department"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85937727,
+        102085077
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7RPPF3J7dDt6wM9VgvIocb_46.731794_-117.000149@1294099250"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"556c3d29237c991a4e1f43e2fadd66b0",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085077,
+            "locality_id":85937727,
+            "neighbourhood_id":-1,
+            "region_id":85688657,
+            "venue_id":186151623
+        }
+    ],
+    "wof:id":186151623,
+    "wof:lastmodified":1449050281,
+    "wof:name":"Moscow Police Dept",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "department"
+    ]
+},
+  "bbox": [-117.000149,46.731794,-117.000149,46.731794],
+  "geometry": {"coordinates":[-117.000149,46.731794],"type":"Point"}
+}

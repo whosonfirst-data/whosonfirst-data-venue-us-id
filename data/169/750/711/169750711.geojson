@@ -1,0 +1,66 @@
+{
+  "id": 169750711,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-116.280696,43.633997,-116.280696,43.633997",
+    "geom:latitude":43.633997,
+    "geom:longitude":-116.280696,
+    "iso:country":"US",
+    "sg:address":"7800 Ustick Rd",
+    "sg:city":"Boise",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 375 0572",
+    "sg:postcode":"83704",
+    "sg:province":"ID",
+    "sg:tags":[
+        "dentist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85937919,
+        102086087,
+        85876349
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_68yq2l2s5QmJhRcWIx7G6h_43.633997_-116.280696@1294099250"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"9727aee37aca5e4185b0c9c3045a04e1",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086087,
+            "locality_id":85937919,
+            "neighbourhood_id":85876349,
+            "region_id":85688657,
+            "venue_id":169750711
+        }
+    ],
+    "wof:id":169750711,
+    "wof:lastmodified":1449034676,
+    "wof:name":"Bay Pointe II Dental Ctr",
+    "wof:parent_id":85876349,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dentist"
+    ]
+},
+  "bbox": [-116.280696,43.633997,-116.280696,43.633997],
+  "geometry": {"coordinates":[-116.280696,43.633997],"type":"Point"}
+}

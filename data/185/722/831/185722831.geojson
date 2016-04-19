@@ -1,0 +1,68 @@
+{
+  "id": 185722831,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-116.25363,43.613444,-116.25363,43.613444",
+    "geom:latitude":43.613444,
+    "geom:longitude":-116.25363,
+    "iso:country":"US",
+    "sg:address":"1055 N Curtis Rd",
+    "sg:city":"Boise",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 367 2161",
+    "sg:postcode":"83706",
+    "sg:province":"ID",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85937923,
+        102086087,
+        85876311
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1zmFijusjFfF2QMzLXjIa2_43.613444_-116.253630@1294099250"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"65aec7e0781905773cc11afd4a2cbc0e",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086087,
+            "locality_id":85937923,
+            "neighbourhood_id":85876311,
+            "region_id":85688657,
+            "venue_id":185722831
+        }
+    ],
+    "wof:id":185722831,
+    "wof:lastmodified":1449007154,
+    "wof:name":"Gem State Radiology",
+    "wof:parent_id":85876311,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [-116.25363,43.613444,-116.25363,43.613444],
+  "geometry": {"coordinates":[-116.25363,43.613444],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 185919529,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-116.561277,43.353776,-116.561277,43.353776",
+    "geom:latitude":43.353776,
+    "geom:longitude":-116.561277,
+    "iso:country":"US",
+    "sg:address":"1326 Hill Rd",
+    "sg:city":"Melba",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 495 2306",
+    "sg:postcode":"83641",
+    "sg:province":"ID",
+    "sg:tags":[
+        "electric",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85938009,
+        102085081,
+        85827787
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7HE3gBgSmyXjS19s4PQ9QI_43.353776_-116.561277@1294099250"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"f4802b6ad32b0c31bf42e84c7743c878",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085081,
+            "locality_id":85938009,
+            "neighbourhood_id":85827787,
+            "region_id":85688657,
+            "venue_id":185919529
+        }
+    ],
+    "wof:id":185919529,
+    "wof:lastmodified":1449007831,
+    "wof:name":"Foreman Electric",
+    "wof:parent_id":85827787,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electric",
+        "contractor"
+    ]
+},
+  "bbox": [-116.561277,43.353776,-116.561277,43.353776],
+  "geometry": {"coordinates":[-116.561277,43.353776],"type":"Point"}
+}

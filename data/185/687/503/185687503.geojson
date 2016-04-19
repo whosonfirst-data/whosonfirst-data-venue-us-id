@@ -1,0 +1,68 @@
+{
+  "id": 185687503,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-116.425433,43.637099,-116.425433,43.637099",
+    "geom:latitude":43.637099,
+    "geom:longitude":-116.425433,
+    "iso:country":"US",
+    "sg:address":"2650 W Crossland Dr",
+    "sg:city":"Meridian",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 884 8827",
+    "sg:postcode":"83646",
+    "sg:province":"ID",
+    "sg:tags":[
+        "residential",
+        "commercial"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85937923,
+        102086087,
+        85876351
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6RkbTXGcgMaGz1HIQN3NOI_43.637099_-116.425433@1294099250"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"bba1be31328aaf0499f9f657ca6e112b",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086087,
+            "locality_id":85937923,
+            "neighbourhood_id":85876351,
+            "region_id":85688657,
+            "venue_id":185687503
+        }
+    ],
+    "wof:id":185687503,
+    "wof:lastmodified":1449007058,
+    "wof:name":"A Signature Company",
+    "wof:parent_id":85876351,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "residential",
+        "commercial"
+    ]
+},
+  "bbox": [-116.425433,43.637099,-116.425433,43.637099],
+  "geometry": {"coordinates":[-116.425433,43.637099],"type":"Point"}
+}

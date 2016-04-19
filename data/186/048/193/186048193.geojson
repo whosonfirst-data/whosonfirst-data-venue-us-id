@@ -1,0 +1,66 @@
+{
+  "id": 186048193,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-116.164817,43.561981,-116.164817,43.561981",
+    "geom:latitude":43.561981,
+    "geom:longitude":-116.164817,
+    "iso:country":"US",
+    "sg:address":"1907 E Pineridge Dr",
+    "sg:city":"Boise",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 338 6832",
+    "sg:postcode":"83716",
+    "sg:province":"ID",
+    "sg:tags":[
+        "used"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85937923,
+        102086087,
+        85876329
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_19VOUHmumRvYvaGXALTT56_43.561981_-116.164817@1294099250"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"6dd3a56cea3bf8b3991b14331c6bb86f",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086087,
+            "locality_id":85937923,
+            "neighbourhood_id":85876329,
+            "region_id":85688657,
+            "venue_id":186048193
+        }
+    ],
+    "wof:id":186048193,
+    "wof:lastmodified":1449051328,
+    "wof:name":"Express Auto Sales",
+    "wof:parent_id":85876329,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "used"
+    ]
+},
+  "bbox": [-116.164817,43.561981,-116.164817,43.561981],
+  "geometry": {"coordinates":[-116.164817,43.561981],"type":"Point"}
+}

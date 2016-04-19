@@ -1,0 +1,68 @@
+{
+  "id": 185935537,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-116.543879,43.541951,-116.543879,43.541951",
+    "geom:latitude":43.541951,
+    "geom:longitude":-116.543879,
+    "iso:country":"US",
+    "sg:address":"2308 E Harbor Grove Dr",
+    "sg:city":"Nampa",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"Adult Care",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 442 2756",
+    "sg:postcode":"83686",
+    "sg:province":"ID",
+    "sg:tags":[
+        "home",
+        "residential"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85938009,
+        102085081,
+        85827787
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0edhCkvDnqYLDorYOlassj_43.541951_-116.543879@1294099250"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"9b6039197502f810f04e263bd6faf9ed",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085081,
+            "locality_id":85938009,
+            "neighbourhood_id":85827787,
+            "region_id":85688657,
+            "venue_id":185935537
+        }
+    ],
+    "wof:id":185935537,
+    "wof:lastmodified":1449007943,
+    "wof:name":"Harbor House",
+    "wof:parent_id":85827787,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "home",
+        "residential"
+    ]
+},
+  "bbox": [-116.543879,43.541951,-116.543879,43.541951],
+  "geometry": {"coordinates":[-116.543879,43.541951],"type":"Point"}
+}

@@ -1,0 +1,76 @@
+{
+  "id": 185969563,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-116.816793,47.718571,-116.816793,47.718571",
+    "geom:latitude":47.718571,
+    "geom:longitude":-116.816793,
+    "iso:country":"US",
+    "sg:address":"2261 W Shawna Ave",
+    "sg:city":"Coeur D Alene",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Equipment Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 777 7368",
+    "sg:postcode":"83815",
+    "sg:province":"ID",
+    "sg:tags":[
+        "yard"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85938163,
+        102086085,
+        85806325,
+        85821457
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2H1pNywtFhbTa9eFN9mFp0_47.718571_-116.816793@1294099250"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"93d9d922ad01449997c82b970bd0c989",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086085,
+            "locality_id":85938163,
+            "neighbourhood_id":85806325,
+            "region_id":85688657,
+            "venue_id":185969563
+        },
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086085,
+            "locality_id":-1,
+            "neighbourhood_id":85821457,
+            "region_id":85688657,
+            "venue_id":185969563
+        }
+    ],
+    "wof:id":185969563,
+    "wof:lastmodified":1449006999,
+    "wof:name":"River City Rental & Repair",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "yard"
+    ]
+},
+  "bbox": [-116.816793,47.718571,-116.816793,47.718571],
+  "geometry": {"coordinates":[-116.816793,47.718571],"type":"Point"}
+}

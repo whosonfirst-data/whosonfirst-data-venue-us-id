@@ -1,0 +1,68 @@
+{
+  "id": 186559513,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-116.279328,43.647685,-116.279328,43.647685",
+    "geom:latitude":43.647685,
+    "geom:longitude":-116.279328,
+    "iso:country":"US",
+    "sg:address":"4725 Glenwood St",
+    "sg:city":"Boise",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Scrap",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 375 3225",
+    "sg:postcode":"83714",
+    "sg:province":"ID",
+    "sg:tags":[
+        "recycling",
+        "center"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85937919,
+        102086087,
+        85876349
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0YzSy8OeHwJhFT6fFf7h7u_43.647685_-116.279328@1294099250"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"095346ad53154bebf79d2a1709ebd3cd",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086087,
+            "locality_id":85937919,
+            "neighbourhood_id":85876349,
+            "region_id":85688657,
+            "venue_id":186559513
+        }
+    ],
+    "wof:id":186559513,
+    "wof:lastmodified":1449052416,
+    "wof:name":"Boise Recycling",
+    "wof:parent_id":85876349,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "recycling",
+        "center"
+    ]
+},
+  "bbox": [-116.279328,43.647685,-116.279328,43.647685],
+  "geometry": {"coordinates":[-116.279328,43.647685],"type":"Point"}
+}

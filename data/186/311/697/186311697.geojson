@@ -1,0 +1,66 @@
+{
+  "id": 186311697,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-116.599917,43.343923,-116.599917,43.343923",
+    "geom:latitude":43.343923,
+    "geom:longitude":-116.599917,
+    "iso:country":"US",
+    "sg:address":"1984 State Hwy 45",
+    "sg:city":"Melba",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 495 2507",
+    "sg:postcode":"83641",
+    "sg:province":"ID",
+    "sg:tags":[
+        "grocer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85938009,
+        102085081,
+        85827787
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0Ny9YjIOxMrWPgd8Y9p1Tx_43.343923_-116.599917@1294099250"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"fe3e89ab27e9a71bed8b715ba30d87fb",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085081,
+            "locality_id":85938009,
+            "neighbourhood_id":85827787,
+            "region_id":85688657,
+            "venue_id":186311697
+        }
+    ],
+    "wof:id":186311697,
+    "wof:lastmodified":1449051027,
+    "wof:name":"Dan's Ferry Svc",
+    "wof:parent_id":85827787,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "grocer"
+    ]
+},
+  "bbox": [-116.599917,43.343923,-116.599917,43.343923],
+  "geometry": {"coordinates":[-116.599917,43.343923],"type":"Point"}
+}

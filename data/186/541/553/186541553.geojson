@@ -1,0 +1,66 @@
+{
+  "id": 186541553,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-116.413549,43.612542,-116.413549,43.612542",
+    "geom:latitude":43.612542,
+    "geom:longitude":-116.413549,
+    "iso:country":"US",
+    "sg:address":"870 N Linder Rd",
+    "sg:city":"Meridian",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 888 3384",
+    "sg:postcode":"83642",
+    "sg:province":"ID",
+    "sg:tags":[
+        "dentist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85937915,
+        102086087,
+        85805083
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2kXLqyGI8I6G1mwlJc6seu_43.612542_-116.413549@1294099250"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"b97bb37e52d5d666978952224bd0112e",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086087,
+            "locality_id":85937915,
+            "neighbourhood_id":85805083,
+            "region_id":85688657,
+            "venue_id":186541553
+        }
+    ],
+    "wof:id":186541553,
+    "wof:lastmodified":1449050541,
+    "wof:name":"Basic Dental Care",
+    "wof:parent_id":85805083,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dentist"
+    ]
+},
+  "bbox": [-116.413549,43.612542,-116.413549,43.612542],
+  "geometry": {"coordinates":[-116.413549,43.612542],"type":"Point"}
+}

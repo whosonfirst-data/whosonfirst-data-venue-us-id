@@ -1,0 +1,79 @@
+{
+  "id": 186255645,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-116.789967,47.716552,-116.789967,47.716552",
+    "geom:latitude":47.716552,
+    "geom:longitude":-116.789967,
+    "iso:country":"US",
+    "sg:address":"4301 N Crown Ave",
+    "sg:city":"Coeur D Alene",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 676 0882",
+    "sg:postcode":"83815",
+    "sg:province":"ID",
+    "sg:tags":[
+        "car",
+        "dealer"
+    ],
+    "sg:website":"www.cdaautomall.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85938163,
+        102086085,
+        85806325,
+        85821457
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0TyXscIs99dGJ91SfHiCqv_47.716552_-116.789967@1294099250"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"9f1cc3fbe0278f21261b3a73317ca0b0",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086085,
+            "locality_id":85938163,
+            "neighbourhood_id":85806325,
+            "region_id":85688657,
+            "venue_id":186255645
+        },
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086085,
+            "locality_id":-1,
+            "neighbourhood_id":85821457,
+            "region_id":85688657,
+            "venue_id":186255645
+        }
+    ],
+    "wof:id":186255645,
+    "wof:lastmodified":1449051585,
+    "wof:name":"Coeur D'Alene Auto Mall",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "car",
+        "dealer"
+    ]
+},
+  "bbox": [-116.789967,47.716552,-116.789967,47.716552],
+  "geometry": {"coordinates":[-116.789967,47.716552],"type":"Point"}
+}

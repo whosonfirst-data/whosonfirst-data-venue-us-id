@@ -1,0 +1,67 @@
+{
+  "id": 169644685,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-116.104737,44.907969,-116.104737,44.907969",
+    "geom:latitude":44.907969,
+    "geom:longitude":-116.104737,
+    "iso:country":"US",
+    "sg:address":"705 Brown Ct",
+    "sg:city":"Mccall",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 634 1129",
+    "sg:postcode":"83638",
+    "sg:province":"ID",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85938113,
+        102086079
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3s8Tv5cD9ydsRfKaPnWGOt_44.907969_-116.104737@1294099250"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"f2a8f8c0934a8975968fc204ab28975c",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086079,
+            "locality_id":85938113,
+            "neighbourhood_id":-1,
+            "region_id":85688657,
+            "venue_id":169644685
+        }
+    ],
+    "wof:id":169644685,
+    "wof:lastmodified":1449034577,
+    "wof:name":"Cassens Auto Repair",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [-116.104737,44.907969,-116.104737,44.907969],
+  "geometry": {"coordinates":[-116.104737,44.907969],"type":"Point"}
+}

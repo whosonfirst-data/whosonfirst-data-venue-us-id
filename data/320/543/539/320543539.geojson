@@ -1,0 +1,91 @@
+{
+  "id": 320543539,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-116.325584,43.61948,-116.325584,43.61948",
+    "geom:latitude":43.61948,
+    "geom:longitude":-116.325584,
+    "iso:country":"US",
+    "sg:address":"11513 W Fairview Ave",
+    "sg:city":"Boise",
+    "sg:classifiers":[
+        {
+            "category":"Insurance",
+            "subcategory":"Insurance Agent",
+            "type":"Services"
+        },
+        {
+            "category":"Insurance",
+            "subcategory":"Hazard Insurance",
+            "type":"Services"
+        },
+        {
+            "category":"Insurance",
+            "subcategory":"Title Insurance",
+            "type":"Services"
+        },
+        {
+            "category":"Insurance",
+            "subcategory":"Life Insurance",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 376 6150",
+    "sg:postcode":"83713",
+    "sg:province":"ID",
+    "sg:tags":[
+        "business",
+        "auto",
+        "commercial",
+        "homeowner",
+        "motorcycle",
+        "renter"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85937923,
+        102086087,
+        85811491
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0eZT1DXql63FUyK5evhHbn_43.619480_-116.325584@1303263095"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"c4490501e5ac9364c085d7c72ad852bd",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086087,
+            "locality_id":85937923,
+            "neighbourhood_id":85811491,
+            "region_id":85688657,
+            "venue_id":320543539
+        }
+    ],
+    "wof:id":320543539,
+    "wof:lastmodified":1449011992,
+    "wof:name":"Allstate Insurance Company - Dennis Kuntz",
+    "wof:parent_id":85811491,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "business",
+        "auto",
+        "commercial",
+        "homeowner",
+        "motorcycle",
+        "renter"
+    ]
+},
+  "bbox": [-116.325584,43.61948,-116.325584,43.61948],
+  "geometry": {"coordinates":[-116.325584,43.61948],"type":"Point"}
+}

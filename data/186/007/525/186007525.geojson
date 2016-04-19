@@ -1,0 +1,68 @@
+{
+  "id": 186007525,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-117.001384,46.38063,-117.001384,46.38063",
+    "geom:latitude":46.38063,
+    "geom:longitude":-117.001384,
+    "iso:country":"US",
+    "sg:address":"607 Bryden Ave",
+    "sg:city":"Lewiston",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Specialty",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 746 6379",
+    "sg:postcode":"83501",
+    "sg:province":"ID",
+    "sg:tags":[
+        "bars",
+        "espresso"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85937743,
+        102086039,
+        85837769
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5GqNZDrJnQ560pdcljxLL5_46.380630_-117.001384@1294099250"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"555c6fabce537163dd114de2233874d6",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086039,
+            "locality_id":85937743,
+            "neighbourhood_id":85837769,
+            "region_id":85688657,
+            "venue_id":186007525
+        }
+    ],
+    "wof:id":186007525,
+    "wof:lastmodified":1449052549,
+    "wof:name":"Hot Shot Espresso",
+    "wof:parent_id":85837769,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "bars",
+        "espresso"
+    ]
+},
+  "bbox": [-117.001384,46.38063,-117.001384,46.38063],
+  "geometry": {"coordinates":[-117.001384,46.38063],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 186494789,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-111.98305,43.467967,-111.98305,43.467967",
+    "geom:latitude":43.467967,
+    "geom:longitude":-111.98305,
+    "iso:country":"US",
+    "sg:address":"2523 E Sunnyside Rd",
+    "sg:city":"Ammon",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 552 6683",
+    "sg:postcode":"83406",
+    "sg:province":"ID",
+    "sg:tags":[
+        "automobile",
+        "lubrication"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85937969,
+        102085163
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3MHeJCumB6Jh8zBgQkTV0G_43.467967_-111.983050@1294099250"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"9c18f6a61508f260028493f3103ea696",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085163,
+            "locality_id":85937969,
+            "neighbourhood_id":-1,
+            "region_id":85688657,
+            "venue_id":186494789
+        }
+    ],
+    "wof:id":186494789,
+    "wof:lastmodified":1449052727,
+    "wof:name":"Juffy Lube",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automobile",
+        "lubrication"
+    ]
+},
+  "bbox": [-111.98305,43.467967,-111.98305,43.467967],
+  "geometry": {"coordinates":[-111.98305,43.467967],"type":"Point"}
+}

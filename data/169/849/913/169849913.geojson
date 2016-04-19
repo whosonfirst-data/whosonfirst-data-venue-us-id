@@ -1,0 +1,72 @@
+{
+  "id": 169849913,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-116.125482,47.535741,-116.125482,47.535741",
+    "geom:latitude":47.535741,
+    "geom:longitude":-116.125482,
+    "iso:country":"US",
+    "sg:address":"327 McKinley Ave",
+    "sg:city":"Kellogg",
+    "sg:classifiers":[
+        {
+            "category":"Cinema",
+            "subcategory":"Movie Rental",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 786 7808",
+    "sg:postcode":"83837",
+    "sg:province":"ID",
+    "sg:tags":[
+        "leasing",
+        "video",
+        "disc",
+        "tape"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85937825,
+        102086103,
+        85849049
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2Re472nSuJHMOTt4qFCgEg_47.535741_-116.125482@1294099250"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"db889952c4450973d2cdb116cd9ca2fe",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086103,
+            "locality_id":85937825,
+            "neighbourhood_id":85849049,
+            "region_id":85688657,
+            "venue_id":169849913
+        }
+    ],
+    "wof:id":169849913,
+    "wof:lastmodified":1449033298,
+    "wof:name":"Box Office Entertainment",
+    "wof:parent_id":85849049,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "leasing",
+        "video",
+        "disc",
+        "tape"
+    ]
+},
+  "bbox": [-116.125482,47.535741,-116.125482,47.535741],
+  "geometry": {"coordinates":[-116.125482,47.535741],"type":"Point"}
+}

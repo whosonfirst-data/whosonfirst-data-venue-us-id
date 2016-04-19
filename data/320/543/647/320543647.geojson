@@ -1,0 +1,77 @@
+{
+  "id": 320543647,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-116.326115,43.611119,-116.326115,43.611119",
+    "geom:latitude":43.611119,
+    "geom:longitude":-116.326115,
+    "iso:country":"US",
+    "sg:address":"11575 W President Dr",
+    "sg:city":"Boise",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Glass & Minerals",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 321 7888",
+    "sg:postcode":"83713",
+    "sg:province":"ID",
+    "sg:tags":[
+        "plate",
+        "window",
+        "windshield",
+        "glass-auto"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85937915,
+        102086087,
+        85805083
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3JU4orxir14oEedKBBLCHu_43.611119_-116.326115@1303263095"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"018b5c34e84764c65f6ef3d4308c59fa",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086087,
+            "locality_id":85937915,
+            "neighbourhood_id":85805083,
+            "region_id":85688657,
+            "venue_id":320543647
+        }
+    ],
+    "wof:id":320543647,
+    "wof:lastmodified":1449011989,
+    "wof:name":"SAFELITE AUTO GLASS",
+    "wof:parent_id":85805083,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "plate",
+        "window",
+        "windshield",
+        "glass-auto"
+    ]
+},
+  "bbox": [-116.326115,43.611119,-116.326115,43.611119],
+  "geometry": {"coordinates":[-116.326115,43.611119],"type":"Point"}
+}

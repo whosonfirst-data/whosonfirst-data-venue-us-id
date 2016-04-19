@@ -1,0 +1,71 @@
+{
+  "id": 169630103,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-116.786722,47.714956,-116.786722,47.714956",
+    "geom:latitude":47.714956,
+    "geom:longitude":-116.786722,
+    "iso:country":"US",
+    "sg:address":"4045 N Government Way",
+    "sg:city":"Coeur D Alene",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 664 6161",
+    "sg:postcode":"83815",
+    "sg:province":"ID",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85938163,
+        102086085,
+        85806325,
+        85821457
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0oG49WTKHqtPXfPiSuo646_47.714956_-116.786722@1294099250"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"0e54ce94041a268f2a2488519d04c96f",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086085,
+            "locality_id":85938163,
+            "neighbourhood_id":85806325,
+            "region_id":85688657,
+            "venue_id":169630103
+        },
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086085,
+            "locality_id":-1,
+            "neighbourhood_id":85821457,
+            "region_id":85688657,
+            "venue_id":169630103
+        }
+    ],
+    "wof:id":169630103,
+    "wof:lastmodified":1449033869,
+    "wof:name":"Nosworthys Restaurant",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-116.786722,47.714956,-116.786722,47.714956],
+  "geometry": {"coordinates":[-116.786722,47.714956],"type":"Point"}
+}

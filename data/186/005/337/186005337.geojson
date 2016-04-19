@@ -1,0 +1,68 @@
+{
+  "id": 186005337,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-116.998944,46.415279,-116.998944,46.415279",
+    "geom:latitude":46.415279,
+    "geom:longitude":-116.998944,
+    "iso:country":"US",
+    "sg:address":"2207 Main St",
+    "sg:city":"Lewiston",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 798 4764",
+    "sg:postcode":"83501",
+    "sg:province":"ID",
+    "sg:tags":[
+        "general",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85937743,
+        102086039,
+        85837769
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7VqT1BjHaLOBZyablfDKDZ_46.415279_-116.998944@1294099250"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"e827a6575f295f55f69eb297772ca70d",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086039,
+            "locality_id":85937743,
+            "neighbourhood_id":85837769,
+            "region_id":85688657,
+            "venue_id":186005337
+        }
+    ],
+    "wof:id":186005337,
+    "wof:lastmodified":1449052809,
+    "wof:name":"Lewis Clark Building Contrctrs",
+    "wof:parent_id":85837769,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "general",
+        "contractor"
+    ]
+},
+  "bbox": [-116.998944,46.415279,-116.998944,46.415279],
+  "geometry": {"coordinates":[-116.998944,46.415279],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 185807017,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-112.451522,42.88244,-112.451522,42.88244",
+    "geom:latitude":42.88244,
+    "geom:longitude":-112.451522,
+    "iso:country":"US",
+    "sg:address":"495 Yellowstone Ave",
+    "sg:city":"Pocatello",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 478 7422",
+    "sg:postcode":"83201",
+    "sg:province":"ID",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85937925,
+        102086113
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4o09vxv5DUBQiEZFO9n6ft_42.882440_-112.451522@1294099250"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"2416f8c32a37f9430d6c3e12f6e01959",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086113,
+            "locality_id":85937925,
+            "neighbourhood_id":-1,
+            "region_id":85688657,
+            "venue_id":185807017
+        }
+    ],
+    "wof:id":185807017,
+    "wof:lastmodified":1449007019,
+    "wof:name":"Physicians Immediate Care Ctr",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [-112.451522,42.88244,-112.451522,42.88244],
+  "geometry": {"coordinates":[-112.451522,42.88244],"type":"Point"}
+}

@@ -1,0 +1,69 @@
+{
+  "id": 169667509,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-112.045644,43.487759,-112.045644,43.487759",
+    "geom:latitude":43.487759,
+    "geom:longitude":-112.045644,
+    "iso:country":"US",
+    "sg:address":"555 S Capital Ave",
+    "sg:city":"Idaho Falls",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 523 7775",
+    "sg:postcode":"83402",
+    "sg:province":"ID",
+    "sg:tags":[
+        "machine",
+        "automobile",
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85937963,
+        102085163
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_60D0Pz5JrwSgv6XXY33ZBl_43.487759_-112.045644@1294099250"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"33924eb050bd34387f26da998e5a38a4",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085163,
+            "locality_id":85937963,
+            "neighbourhood_id":-1,
+            "region_id":85688657,
+            "venue_id":169667509
+        }
+    ],
+    "wof:id":169667509,
+    "wof:lastmodified":1449034844,
+    "wof:name":"Performance Automotive Machine",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "machine",
+        "automobile",
+        "shop"
+    ]
+},
+  "bbox": [-112.045644,43.487759,-112.045644,43.487759],
+  "geometry": {"coordinates":[-112.045644,43.487759],"type":"Point"}
+}

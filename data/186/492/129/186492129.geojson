@@ -1,0 +1,65 @@
+{
+  "id": 186492129,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-116.554597,48.278108,-116.554597,48.278108",
+    "geom:latitude":48.278108,
+    "geom:longitude":-116.554597,
+    "iso:country":"US",
+    "sg:address":"511 Poplar St",
+    "sg:city":"Sandpoint",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Veterinary Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 263 7551",
+    "sg:postcode":"83864",
+    "sg:province":"ID",
+    "sg:tags":[
+        "veterinarian"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85937975,
+        102085145
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4fLFKOtHtTcOUTpyWf44WC_48.278108_-116.554597@1294099250"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"693e22582e99b1ef2febe4aa9cb1d888",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085145,
+            "locality_id":85937975,
+            "neighbourhood_id":-1,
+            "region_id":85688657,
+            "venue_id":186492129
+        }
+    ],
+    "wof:id":186492129,
+    "wof:lastmodified":1449050251,
+    "wof:name":"Bonner Animal Hospital",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "veterinarian"
+    ]
+},
+  "bbox": [-116.554597,48.278108,-116.554597,48.278108],
+  "geometry": {"coordinates":[-116.554597,48.278108],"type":"Point"}
+}

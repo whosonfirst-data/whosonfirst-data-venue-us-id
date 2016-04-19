@@ -1,0 +1,68 @@
+{
+  "id": 169807089,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-116.565903,43.581656,-116.565903,43.581656",
+    "geom:latitude":43.581656,
+    "geom:longitude":-116.565903,
+    "iso:country":"US",
+    "sg:address":"704 2nd St S",
+    "sg:city":"Nampa",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Bicycles & Sporting Goods",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 467 9201",
+    "sg:postcode":"83651",
+    "sg:province":"ID",
+    "sg:tags":[
+        "gun",
+        "gunsmith"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85938009,
+        102085081,
+        85827787
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_03zLSjOsadInvKBPxpymlX_43.581656_-116.565903@1294099250"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"524841de506f9d65027f09688b7e7acc",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085081,
+            "locality_id":85938009,
+            "neighbourhood_id":85827787,
+            "region_id":85688657,
+            "venue_id":169807089
+        }
+    ],
+    "wof:id":169807089,
+    "wof:lastmodified":1449033534,
+    "wof:name":"Larry's Sporting Goods",
+    "wof:parent_id":85827787,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "gun",
+        "gunsmith"
+    ]
+},
+  "bbox": [-116.565903,43.581656,-116.565903,43.581656],
+  "geometry": {"coordinates":[-116.565903,43.581656],"type":"Point"}
+}

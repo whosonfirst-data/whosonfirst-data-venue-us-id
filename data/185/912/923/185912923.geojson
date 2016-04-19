@@ -1,0 +1,68 @@
+{
+  "id": 185912923,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-116.220967,43.620747,-116.220967,43.620747",
+    "geom:latitude":43.620747,
+    "geom:longitude":-116.220967,
+    "iso:country":"US",
+    "sg:address":"2412 Fairview Ave",
+    "sg:city":"Boise",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 342 6600",
+    "sg:postcode":"83702",
+    "sg:province":"ID",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85937923,
+        102086087,
+        85876355
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6vjOQgUM0MPb7UInXyEufI_43.620747_-116.220967@1294099250"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"31c5ec9bf58ec0f96e082aff92d638a1",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086087,
+            "locality_id":85937923,
+            "neighbourhood_id":85876355,
+            "region_id":85688657,
+            "venue_id":185912923
+        }
+    ],
+    "wof:id":185912923,
+    "wof:lastmodified":1449007423,
+    "wof:name":"Dietz Automotive",
+    "wof:parent_id":85876355,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [-116.220967,43.620747,-116.220967,43.620747],
+  "geometry": {"coordinates":[-116.220967,43.620747],"type":"Point"}
+}

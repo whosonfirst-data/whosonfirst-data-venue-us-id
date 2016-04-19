@@ -1,0 +1,67 @@
+{
+  "id": 185966873,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-116.925631,47.710376,-116.925631,47.710376",
+    "geom:latitude":47.710376,
+    "geom:longitude":-116.925631,
+    "iso:country":"US",
+    "sg:address":"355 N Bay St",
+    "sg:city":"Post Falls",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 773 3396",
+    "sg:postcode":"83854",
+    "sg:province":"ID",
+    "sg:tags":[
+        "commercial",
+        "storage"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        102086085,
+        85833263
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_16jq3320SJR1u3puYoZ3Xx_47.710376_-116.925631@1294099250"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"8808dea1b27325aed55996e4817c5fbc",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086085,
+            "locality_id":-1,
+            "neighbourhood_id":85833263,
+            "region_id":85688657,
+            "venue_id":185966873
+        }
+    ],
+    "wof:id":185966873,
+    "wof:lastmodified":1449006604,
+    "wof:name":"Bay Street Storage",
+    "wof:parent_id":85833263,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "commercial",
+        "storage"
+    ]
+},
+  "bbox": [-116.925631,47.710376,-116.925631,47.710376],
+  "geometry": {"coordinates":[-116.925631,47.710376],"type":"Point"}
+}

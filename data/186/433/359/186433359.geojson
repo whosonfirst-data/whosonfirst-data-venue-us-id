@@ -1,0 +1,66 @@
+{
+  "id": 186433359,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-116.337951,43.660174,-116.337951,43.660174",
+    "geom:latitude":43.660174,
+    "geom:longitude":-116.337951,
+    "iso:country":"US",
+    "sg:address":"12501 W Explorer Dr",
+    "sg:city":"Boise",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Testing Lab",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 322 4595",
+    "sg:postcode":"83713",
+    "sg:province":"ID",
+    "sg:tags":[
+        "laboratory"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85937923,
+        102086087,
+        85876351
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_67lTmbg4wJZJqVZyDwnQ0r_43.660174_-116.337951@1294099250"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"66534a4417aa83a480bf5c12497d9ed8",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086087,
+            "locality_id":85937923,
+            "neighbourhood_id":85876351,
+            "region_id":85688657,
+            "venue_id":186433359
+        }
+    ],
+    "wof:id":186433359,
+    "wof:lastmodified":1449050555,
+    "wof:name":"QCI Testing Laboratories",
+    "wof:parent_id":85876351,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "laboratory"
+    ]
+},
+  "bbox": [-116.337951,43.660174,-116.337951,43.660174],
+  "geometry": {"coordinates":[-116.337951,43.660174],"type":"Point"}
+}

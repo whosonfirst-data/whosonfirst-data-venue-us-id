@@ -1,0 +1,66 @@
+{
+  "id": 169656833,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-116.313413,43.62083,-116.313413,43.62083",
+    "geom:latitude":43.62083,
+    "geom:longitude":-116.313413,
+    "iso:country":"US",
+    "sg:address":"10552 Garverdale Ct",
+    "sg:city":"Boise",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 336 4777",
+    "sg:postcode":"83704",
+    "sg:province":"ID",
+    "sg:tags":[
+        "dentist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85937923,
+        102086087,
+        85811491
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7jhgkoGpqELURdfb1mkEdv_43.620830_-116.313413@1294099250"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"8ac24b2b7cf2d2e2ba01097283c9e333",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086087,
+            "locality_id":85937923,
+            "neighbourhood_id":85811491,
+            "region_id":85688657,
+            "venue_id":169656833
+        }
+    ],
+    "wof:id":169656833,
+    "wof:lastmodified":1449034835,
+    "wof:name":"Wayne L Claiborne DDS",
+    "wof:parent_id":85811491,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dentist"
+    ]
+},
+  "bbox": [-116.313413,43.62083,-116.313413,43.62083],
+  "geometry": {"coordinates":[-116.313413,43.62083],"type":"Point"}
+}

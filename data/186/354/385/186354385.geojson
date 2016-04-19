@@ -1,0 +1,68 @@
+{
+  "id": 186354385,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-115.796833,47.471002,-115.796833,47.471002",
+    "geom:latitude":47.471002,
+    "geom:longitude":-115.796833,
+    "iso:country":"US",
+    "sg:address":"512 Earle St",
+    "sg:city":"Mullan",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 744 1645",
+    "sg:postcode":"83846",
+    "sg:province":"ID",
+    "sg:tags":[
+        "automobile",
+        "lubrication"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85937825,
+        102086103,
+        85849049
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2rsxs5HkGnAzoiE96dGhqH_47.471002_-115.796833@1294099250"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"cbb47586dc17bab5fc682bb1f290622d",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086103,
+            "locality_id":85937825,
+            "neighbourhood_id":85849049,
+            "region_id":85688657,
+            "venue_id":186354385
+        }
+    ],
+    "wof:id":186354385,
+    "wof:lastmodified":1449052722,
+    "wof:name":"Elliott's",
+    "wof:parent_id":85849049,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automobile",
+        "lubrication"
+    ]
+},
+  "bbox": [-115.796833,47.471002,-115.796833,47.471002],
+  "geometry": {"coordinates":[-115.796833,47.471002],"type":"Point"}
+}

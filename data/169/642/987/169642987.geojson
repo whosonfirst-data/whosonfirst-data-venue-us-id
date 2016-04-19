@@ -1,0 +1,78 @@
+{
+  "id": 169642987,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-116.795969,47.71554,-116.795969,47.71554",
+    "geom:latitude":47.71554,
+    "geom:longitude":-116.795969,
+    "iso:country":"US",
+    "sg:address":"505 W Kathleen Ave",
+    "sg:city":"Coeur D Alene",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 667 7718",
+    "sg:postcode":"83815",
+    "sg:province":"ID",
+    "sg:tags":[
+        "electric",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85938163,
+        102086085,
+        85806325,
+        85821457
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4BlFhGpcva3NIO3NsGvd90_47.715540_-116.795969@1294099250"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"29f6c0e3a96e6d1b888cdad5e1c8ff92",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086085,
+            "locality_id":85938163,
+            "neighbourhood_id":85806325,
+            "region_id":85688657,
+            "venue_id":169642987
+        },
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086085,
+            "locality_id":-1,
+            "neighbourhood_id":85821457,
+            "region_id":85688657,
+            "venue_id":169642987
+        }
+    ],
+    "wof:id":169642987,
+    "wof:lastmodified":1449032877,
+    "wof:name":"DEI Inc",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electric",
+        "contractor"
+    ]
+},
+  "bbox": [-116.795969,47.71554,-116.795969,47.71554],
+  "geometry": {"coordinates":[-116.795969,47.71554],"type":"Point"}
+}

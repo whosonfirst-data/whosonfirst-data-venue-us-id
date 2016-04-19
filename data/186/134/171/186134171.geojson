@@ -1,0 +1,71 @@
+{
+  "id": 186134171,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-116.788341,47.707307,-116.788341,47.707307",
+    "geom:latitude":47.707307,
+    "geom:longitude":-116.788341,
+    "iso:country":"US",
+    "sg:address":"155 W Neider Ave",
+    "sg:city":"Coeur D Alene",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 667 2700",
+    "sg:postcode":"83815",
+    "sg:province":"ID",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85938163,
+        102086085,
+        85806325,
+        85821457
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2VIpES108W3MGCCanw6t2I_47.707307_-116.788341@1294099250"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"90d5c9f7c176da14c2b5adb9291c8503",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086085,
+            "locality_id":85938163,
+            "neighbourhood_id":85806325,
+            "region_id":85688657,
+            "venue_id":186134171
+        },
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086085,
+            "locality_id":-1,
+            "neighbourhood_id":85821457,
+            "region_id":85688657,
+            "venue_id":186134171
+        }
+    ],
+    "wof:id":186134171,
+    "wof:lastmodified":1449052889,
+    "wof:name":"Cafe Chulo",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-116.788341,47.707307,-116.788341,47.707307],
+  "geometry": {"coordinates":[-116.788341,47.707307],"type":"Point"}
+}

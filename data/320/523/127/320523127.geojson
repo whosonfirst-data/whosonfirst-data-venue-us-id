@@ -1,0 +1,79 @@
+{
+  "id": 320523127,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-116.972752,46.378262,-116.972752,46.378262",
+    "geom:latitude":46.378262,
+    "geom:longitude":-116.972752,
+    "iso:country":"US",
+    "sg:address":"444 Thain Rd",
+    "sg:city":"Lewiston",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 750 7140",
+    "sg:postcode":"83501",
+    "sg:province":"ID",
+    "sg:tags":[
+        "saving",
+        "commercial"
+    ],
+    "sg:website":"http://www.sterlingsavingsbank.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85937743,
+        102086039,
+        85837769,
+        85830385
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3tlYt0Rd0E2xWMIHyVXvmd_46.378262_-116.972752@1303263095"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"b314f0376302a5ca0200a2f564bbe61a",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086039,
+            "locality_id":85937743,
+            "neighbourhood_id":85837769,
+            "region_id":85688657,
+            "venue_id":320523127
+        },
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086039,
+            "locality_id":85937743,
+            "neighbourhood_id":85830385,
+            "region_id":85688657,
+            "venue_id":320523127
+        }
+    ],
+    "wof:id":320523127,
+    "wof:lastmodified":1449013414,
+    "wof:name":"Sterling Savings Bank - Commercial Banking- Lewiston Orchards",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "saving",
+        "commercial"
+    ]
+},
+  "bbox": [-116.972752,46.378262,-116.972752,46.378262],
+  "geometry": {"coordinates":[-116.972752,46.378262],"type":"Point"}
+}

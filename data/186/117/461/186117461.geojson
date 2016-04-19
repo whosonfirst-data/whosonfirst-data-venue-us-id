@@ -1,0 +1,73 @@
+{
+  "id": 186117461,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-116.334379,43.648455,-116.334379,43.648455",
+    "geom:latitude":43.648455,
+    "geom:longitude":-116.334379,
+    "iso:country":"US",
+    "sg:address":"4700 N Cloverdale Rd",
+    "sg:city":"Boise",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        },
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 375 9333",
+    "sg:postcode":"83713",
+    "sg:province":"ID",
+    "sg:tags":[
+        "electrical",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85937923,
+        102086087,
+        85876351
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_77VhxrJbgD5fPk229yxiO0_43.648455_-116.334379@1294099250"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"8ccd69ffc230111d05827f45a0e101c7",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086087,
+            "locality_id":85937923,
+            "neighbourhood_id":85876351,
+            "region_id":85688657,
+            "venue_id":186117461
+        }
+    ],
+    "wof:id":186117461,
+    "wof:lastmodified":1449052194,
+    "wof:name":"Dns Electronics Llc",
+    "wof:parent_id":85876351,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electrical",
+        "contractor"
+    ]
+},
+  "bbox": [-116.334379,43.648455,-116.334379,43.648455],
+  "geometry": {"coordinates":[-116.334379,43.648455],"type":"Point"}
+}

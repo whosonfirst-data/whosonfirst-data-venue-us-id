@@ -1,0 +1,68 @@
+{
+  "id": 169763223,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-116.586098,43.547267,-116.586098,43.547267",
+    "geom:latitude":43.547267,
+    "geom:longitude":-116.586098,
+    "iso:country":"US",
+    "sg:address":"734 W Greenhurst Rd",
+    "sg:city":"Nampa",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 463 4443",
+    "sg:postcode":"83686",
+    "sg:province":"ID",
+    "sg:tags":[
+        "commercial",
+        "storage"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85938009,
+        102085081,
+        85827787
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7XwGo22A4r3xG8pj2kOx3Q_43.547267_-116.586098@1294099250"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"90c91dcbacf0dd27984b18c78a2ef4a9",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085081,
+            "locality_id":85938009,
+            "neighbourhood_id":85827787,
+            "region_id":85688657,
+            "venue_id":169763223
+        }
+    ],
+    "wof:id":169763223,
+    "wof:lastmodified":1449035954,
+    "wof:name":"Greenhurst Mini-Storage",
+    "wof:parent_id":85827787,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "commercial",
+        "storage"
+    ]
+},
+  "bbox": [-116.586098,43.547267,-116.586098,43.547267],
+  "geometry": {"coordinates":[-116.586098,43.547267],"type":"Point"}
+}

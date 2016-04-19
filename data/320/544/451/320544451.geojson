@@ -1,0 +1,73 @@
+{
+  "id": 320544451,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-116.928419,46.550563,-116.928419,46.550563",
+    "geom:latitude":46.550563,
+    "geom:longitude":-116.928419,
+    "iso:country":"US",
+    "sg:address":"110 W Walnut St",
+    "sg:city":"Genesee",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Business Services",
+            "type":"Services"
+        },
+        {
+            "category":"Government",
+            "subcategory":"Post Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 800 275 8777",
+    "sg:postcode":"83832",
+    "sg:province":"ID",
+    "sg:tags":[
+        "mail",
+        "shipping"
+    ],
+    "sg:website":"http://www.usps.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85937719,
+        102085077
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0qNrdC5oQXWJgo9Es0Iavx_46.550563_-116.928419@1303263095"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"c80dc47a18ca4be0f9f8239c8222a2d9",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085077,
+            "locality_id":85937719,
+            "neighbourhood_id":-1,
+            "region_id":85688657,
+            "venue_id":320544451
+        }
+    ],
+    "wof:id":320544451,
+    "wof:lastmodified":1449014961,
+    "wof:name":"USPS - United States Post Office - Genesee Main Office",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mail",
+        "shipping"
+    ]
+},
+  "bbox": [-116.928419,46.550563,-116.928419,46.550563],
+  "geometry": {"coordinates":[-116.928419,46.550563],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 320538701,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-116.968373,44.253722,-116.968373,44.253722",
+    "geom:latitude":44.253722,
+    "geom:longitude":-116.968373,
+    "iso:country":"US",
+    "sg:address":"1279 State St",
+    "sg:city":"Weiser",
+    "sg:classifiers":[
+        {
+            "category":"Travel",
+            "subcategory":"Hotels & Motels",
+            "type":"Entertainment"
+        },
+        {
+            "category":"Travel",
+            "subcategory":"Bed & Breakfast",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 414 1390",
+    "sg:postcode":"83672",
+    "sg:province":"ID",
+    "sg:tags":[
+        "inn"
+    ],
+    "sg:website":"http://www.statestreetmotel.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85937739,
+        102085079
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6Vok0b6K3Uepqod0XmA8x8_44.253722_-116.968373@1303263095"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"8435ac3f2173a85fa2de84493932490e",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085079,
+            "locality_id":85937739,
+            "neighbourhood_id":-1,
+            "region_id":85688657,
+            "venue_id":320538701
+        }
+    ],
+    "wof:id":320538701,
+    "wof:lastmodified":1449011720,
+    "wof:name":"State Street Motel",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "inn"
+    ]
+},
+  "bbox": [-116.968373,44.253722,-116.968373,44.253722],
+  "geometry": {"coordinates":[-116.968373,44.253722],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 186209063,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-116.970048,44.246095,-116.970048,44.246095",
+    "geom:latitude":44.246095,
+    "geom:longitude":-116.970048,
+    "iso:country":"US",
+    "sg:address":"433 State St",
+    "sg:city":"Weiser",
+    "sg:classifiers":[
+        {
+            "category":"Cinema",
+            "subcategory":"Movie Rental",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 549 0504",
+    "sg:postcode":"83672",
+    "sg:province":"ID",
+    "sg:tags":[
+        "leasing",
+        "video",
+        "disc",
+        "tape"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85937739,
+        102085079
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_61ghwY9vtHn9yQp2rVmpPO_44.246095_-116.970048@1294099250"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"76840343443e5968beba142afabbd22d",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085079,
+            "locality_id":85937739,
+            "neighbourhood_id":-1,
+            "region_id":85688657,
+            "venue_id":186209063
+        }
+    ],
+    "wof:id":186209063,
+    "wof:lastmodified":1449052730,
+    "wof:name":"Showtime Video",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "leasing",
+        "video",
+        "disc",
+        "tape"
+    ]
+},
+  "bbox": [-116.970048,44.246095,-116.970048,44.246095],
+  "geometry": {"coordinates":[-116.970048,44.246095],"type":"Point"}
+}

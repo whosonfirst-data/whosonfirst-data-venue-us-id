@@ -1,0 +1,67 @@
+{
+  "id": 186172391,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-111.321384,42.395542,-111.321384,42.395542",
+    "geom:latitude":42.395542,
+    "geom:longitude":-111.321384,
+    "iso:country":"US",
+    "sg:address":"384 N 1st E",
+    "sg:city":"Montpelier",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 847 2287",
+    "sg:postcode":"83254",
+    "sg:province":"ID",
+    "sg:tags":[
+        "excavation",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85938181,
+        102085071
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7ECnlw1VXoaeolsgX7p875_42.395542_-111.321384@1294099250"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"c50bde060c1700e0e5ed2d8cba565d07",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085071,
+            "locality_id":85938181,
+            "neighbourhood_id":-1,
+            "region_id":85688657,
+            "venue_id":186172391
+        }
+    ],
+    "wof:id":186172391,
+    "wof:lastmodified":1449051453,
+    "wof:name":"Burdick Excavation",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "excavation",
+        "contractor"
+    ]
+},
+  "bbox": [-111.321384,42.395542,-111.321384,42.395542],
+  "geometry": {"coordinates":[-111.321384,42.395542],"type":"Point"}
+}

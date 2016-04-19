@@ -1,0 +1,69 @@
+{
+  "id": 169753127,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-116.783266,47.776289,-116.783266,47.776289",
+    "geom:latitude":47.776289,
+    "geom:longitude":-116.783266,
+    "iso:country":"US",
+    "sg:address":"11500 N Shanley Ln",
+    "sg:city":"Hayden",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 772 2624",
+    "sg:postcode":"83835",
+    "sg:province":"ID",
+    "sg:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        102086085,
+        85821457
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5zLuGBJDxzoOBK4Blb3u21_47.776289_-116.783266@1294099250"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"0905fad571afaeb46ad8c799b9f2ca79",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086085,
+            "locality_id":-1,
+            "neighbourhood_id":85821457,
+            "region_id":85688657,
+            "venue_id":169753127
+        }
+    ],
+    "wof:id":169753127,
+    "wof:lastmodified":1449033072,
+    "wof:name":"Larry Kinsey",
+    "wof:parent_id":85821457,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ]
+},
+  "bbox": [-116.783266,47.776289,-116.783266,47.776289],
+  "geometry": {"coordinates":[-116.783266,47.776289],"type":"Point"}
+}

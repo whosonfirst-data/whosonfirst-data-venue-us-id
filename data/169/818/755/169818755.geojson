@@ -1,0 +1,79 @@
+{
+  "id": 169818755,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-116.616182,43.614097,-116.616182,43.614097",
+    "geom:latitude":43.614097,
+    "geom:longitude":-116.616182,
+    "iso:country":"US",
+    "sg:address":"2819 Caldwell Blvd",
+    "sg:city":"Nampa",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        },
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 467 1578",
+    "sg:postcode":"83651",
+    "sg:province":"ID",
+    "sg:tags":[
+        "mobile",
+        "storage",
+        "commercial",
+        "site",
+        "home"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85938009,
+        102085081,
+        85835387
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7fjh0mBx0p2aKz9OFZOuyc_43.614097_-116.616182@1294099250"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"ce1d7834b1f423fde788d3936adfcdfc",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085081,
+            "locality_id":85938009,
+            "neighbourhood_id":85835387,
+            "region_id":85688657,
+            "venue_id":169818755
+        }
+    ],
+    "wof:id":169818755,
+    "wof:lastmodified":1449034284,
+    "wof:name":"Evergreen Storage Units",
+    "wof:parent_id":85835387,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mobile",
+        "storage",
+        "commercial",
+        "site",
+        "home"
+    ]
+},
+  "bbox": [-116.616182,43.614097,-116.616182,43.614097],
+  "geometry": {"coordinates":[-116.616182,43.614097],"type":"Point"}
+}

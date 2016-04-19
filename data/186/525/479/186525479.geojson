@@ -1,0 +1,68 @@
+{
+  "id": 186525479,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-116.166506,43.573925,-116.166506,43.573925",
+    "geom:latitude":43.573925,
+    "geom:longitude":-116.166506,
+    "iso:country":"US",
+    "sg:address":"1330 E Carter St",
+    "sg:city":"Boise",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 345 9429",
+    "sg:postcode":"83706",
+    "sg:province":"ID",
+    "sg:tags":[
+        "hanging",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85937923,
+        102086087,
+        85876329
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_56rTPOzRzCujaDI9mK1H5p_43.573925_-116.166506@1294099250"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"04c6bd5809376cb5b723c04c41b61943",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086087,
+            "locality_id":85937923,
+            "neighbourhood_id":85876329,
+            "region_id":85688657,
+            "venue_id":186525479
+        }
+    ],
+    "wof:id":186525479,
+    "wof:lastmodified":1449052451,
+    "wof:name":"Harro Painting",
+    "wof:parent_id":85876329,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "hanging",
+        "contractor"
+    ]
+},
+  "bbox": [-116.166506,43.573925,-116.166506,43.573925],
+  "geometry": {"coordinates":[-116.166506,43.573925],"type":"Point"}
+}

@@ -1,0 +1,69 @@
+{
+  "id": 186425179,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-116.351639,43.602514,-116.351639,43.602514",
+    "geom:latitude":43.602514,
+    "geom:longitude":-116.351639,
+    "iso:country":"US",
+    "sg:address":"360 E Montvue Dr",
+    "sg:city":"Meridian",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 855 2900",
+    "sg:postcode":"83642",
+    "sg:province":"ID",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "sg:website":"www.spineidaho.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85937915,
+        102086087,
+        85805083
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2F7xvRYNjRHu8BZVJruBYj_43.602514_-116.351639@1294099250"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"9ad57abc3bb3d36c1da292903ded234c",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086087,
+            "locality_id":85937915,
+            "neighbourhood_id":85805083,
+            "region_id":85688657,
+            "venue_id":186425179
+        }
+    ],
+    "wof:id":186425179,
+    "wof:lastmodified":1449051341,
+    "wof:name":"Spine Institute Of Idaho",
+    "wof:parent_id":85805083,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [-116.351639,43.602514,-116.351639,43.602514],
+  "geometry": {"coordinates":[-116.351639,43.602514],"type":"Point"}
+}

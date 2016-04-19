@@ -1,0 +1,67 @@
+{
+  "id": 185864285,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-116.905906,47.711078,-116.905906,47.711078",
+    "geom:latitude":47.711078,
+    "geom:longitude":-116.905906,
+    "iso:country":"US",
+    "sg:address":"2655 E Seltice Way",
+    "sg:city":"Post Falls",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 773 7488",
+    "sg:postcode":"83854",
+    "sg:province":"ID",
+    "sg:tags":[
+        "commercial",
+        "storage"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        102086085,
+        85833263
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7T8YNfMgj76oCkwFQ1SmuP_47.711078_-116.905906@1294099250"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"95a0102910fa30cd9d66ca9ea07259f4",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086085,
+            "locality_id":-1,
+            "neighbourhood_id":85833263,
+            "region_id":85688657,
+            "venue_id":185864285
+        }
+    ],
+    "wof:id":185864285,
+    "wof:lastmodified":1449008230,
+    "wof:name":"ABC Storage Ctr",
+    "wof:parent_id":85833263,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "commercial",
+        "storage"
+    ]
+},
+  "bbox": [-116.905906,47.711078,-116.905906,47.711078],
+  "geometry": {"coordinates":[-116.905906,47.711078],"type":"Point"}
+}

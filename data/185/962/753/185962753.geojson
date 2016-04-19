@@ -1,0 +1,67 @@
+{
+  "id": 185962753,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-116.907329,48.179681,-116.907329,48.179681",
+    "geom:latitude":48.179681,
+    "geom:longitude":-116.907329,
+    "iso:country":"US",
+    "sg:address":"208 High St",
+    "sg:city":"Priest River",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 448 1458",
+    "sg:postcode":"83856",
+    "sg:province":"ID",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85937977,
+        102085145
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0NzQDTB5vHkZiutPMAbmMb_48.179681_-116.907329@1294099250"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"f12d082cade50ff77f4082d3ef43a46a",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085145,
+            "locality_id":85937977,
+            "neighbourhood_id":-1,
+            "region_id":85688657,
+            "venue_id":185962753
+        }
+    ],
+    "wof:id":185962753,
+    "wof:lastmodified":1449007561,
+    "wof:name":"Mike's Axle Wheel & Dffrntl",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [-116.907329,48.179681,-116.907329,48.179681],
+  "geometry": {"coordinates":[-116.907329,48.179681],"type":"Point"}
+}

@@ -1,0 +1,78 @@
+{
+  "id": 320524475,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-116.989041,46.394409,-116.989041,46.394409",
+    "geom:latitude":46.394409,
+    "geom:longitude":-116.989041,
+    "iso:country":"US",
+    "sg:address":"2975 Juniper Dr",
+    "sg:city":"Lewiston",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 743 4081",
+    "sg:postcode":"83501",
+    "sg:province":"ID",
+    "sg:tags":[
+        "hair",
+        "stylist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85937743,
+        102086039,
+        85837769,
+        85830385
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2FsYnhwwRkQzUefMoSrSH5_46.394409_-116.989041@1303263095"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"b108277ad8ce28cbaac4cb9e705950d8",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086039,
+            "locality_id":85937743,
+            "neighbourhood_id":85837769,
+            "region_id":85688657,
+            "venue_id":320524475
+        },
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086039,
+            "locality_id":85937743,
+            "neighbourhood_id":85830385,
+            "region_id":85688657,
+            "venue_id":320524475
+        }
+    ],
+    "wof:id":320524475,
+    "wof:lastmodified":1449011223,
+    "wof:name":"Jan's Hair Gallery",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "hair",
+        "stylist"
+    ]
+},
+  "bbox": [-116.989041,46.394409,-116.989041,46.394409],
+  "geometry": {"coordinates":[-116.989041,46.394409],"type":"Point"}
+}

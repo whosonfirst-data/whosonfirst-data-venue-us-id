@@ -1,0 +1,68 @@
+{
+  "id": 186039417,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-116.551311,43.579349,-116.551311,43.579349",
+    "geom:latitude":43.579349,
+    "geom:longitude":-116.551311,
+    "iso:country":"US",
+    "sg:address":"223 16th Ave N",
+    "sg:city":"Nampa",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 880 0879",
+    "sg:postcode":"83687",
+    "sg:province":"ID",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85938009,
+        102085081,
+        85827787
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6SAjxsrzYfmJ3Xmm0Wp9aH_43.579349_-116.551311@1294099250"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"17768c6f6375300cf9f2f7452dee935c",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085081,
+            "locality_id":85938009,
+            "neighbourhood_id":85827787,
+            "region_id":85688657,
+            "venue_id":186039417
+        }
+    ],
+    "wof:id":186039417,
+    "wof:lastmodified":1449052681,
+    "wof:name":"Dennis E Weiler MD",
+    "wof:parent_id":85827787,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [-116.551311,43.579349,-116.551311,43.579349],
+  "geometry": {"coordinates":[-116.551311,43.579349],"type":"Point"}
+}

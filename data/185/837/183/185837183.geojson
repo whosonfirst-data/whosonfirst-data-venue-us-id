@@ -1,0 +1,67 @@
+{
+  "id": 185837183,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-116.128292,45.926798,-116.128292,45.926798",
+    "geom:latitude":45.926798,
+    "geom:longitude":-116.128292,
+    "iso:country":"US",
+    "sg:address":"700 W Main St",
+    "sg:city":"Grangeville",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Specialty",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 983 1911",
+    "sg:postcode":"83530",
+    "sg:province":"ID",
+    "sg:tags":[
+        "bars",
+        "espresso"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85937869,
+        102085053
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4u3OCOWjsG6uIIqZodSJG0_45.926798_-116.128292@1294099250"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"9d2d82ffc1f9398866e1c30ce4808805",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085053,
+            "locality_id":85937869,
+            "neighbourhood_id":-1,
+            "region_id":85688657,
+            "venue_id":185837183
+        }
+    ],
+    "wof:id":185837183,
+    "wof:lastmodified":1449006865,
+    "wof:name":"Coffee Outlet",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "bars",
+        "espresso"
+    ]
+},
+  "bbox": [-116.128292,45.926798,-116.128292,45.926798],
+  "geometry": {"coordinates":[-116.128292,45.926798],"type":"Point"}
+}

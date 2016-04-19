@@ -1,0 +1,66 @@
+{
+  "id": 169862973,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-116.228418,43.610021,-116.228418,43.610021",
+    "geom:latitude":43.610021,
+    "geom:longitude":-116.228418,
+    "iso:country":"US",
+    "sg:address":"510 N Latah St",
+    "sg:city":"Boise",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 343 5851",
+    "sg:postcode":"83706",
+    "sg:province":"ID",
+    "sg:tags":[
+        "dentist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85937923,
+        102086087,
+        85876301
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4KkfjUy3Qa9r0wUHiL5879_43.610021_-116.228418@1294099250"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"6353a7c74746aee76330ec40287c2b3b",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086087,
+            "locality_id":85937923,
+            "neighbourhood_id":85876301,
+            "region_id":85688657,
+            "venue_id":169862973
+        }
+    ],
+    "wof:id":169862973,
+    "wof:lastmodified":1449036046,
+    "wof:name":"Smart Dental Care",
+    "wof:parent_id":85876301,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dentist"
+    ]
+},
+  "bbox": [-116.228418,43.610021,-116.228418,43.610021],
+  "geometry": {"coordinates":[-116.228418,43.610021],"type":"Point"}
+}

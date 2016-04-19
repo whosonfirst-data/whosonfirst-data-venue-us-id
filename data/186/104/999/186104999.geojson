@@ -1,0 +1,67 @@
+{
+  "id": 186104999,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-116.472805,47.538443,-116.472805,47.538443",
+    "geom:latitude":47.538443,
+    "geom:longitude":-116.472805,
+    "iso:country":"US",
+    "sg:address":"14820 S Queen St",
+    "sg:city":"Cataldo",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 665 7377",
+    "sg:postcode":"83810",
+    "sg:province":"ID",
+    "sg:tags":[
+        "car",
+        "dealer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        102086085,
+        85821457
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_53A9wxxaWi3eWkc8J22uBg_47.538443_-116.472805@1294099250"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"d7859192787fb028f3a41094fd2325a8",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086085,
+            "locality_id":-1,
+            "neighbourhood_id":85821457,
+            "region_id":85688657,
+            "venue_id":186104999
+        }
+    ],
+    "wof:id":186104999,
+    "wof:lastmodified":1449051483,
+    "wof:name":"Cody Motors",
+    "wof:parent_id":85821457,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "car",
+        "dealer"
+    ]
+},
+  "bbox": [-116.472805,47.538443,-116.472805,47.538443],
+  "geometry": {"coordinates":[-116.472805,47.538443],"type":"Point"}
+}

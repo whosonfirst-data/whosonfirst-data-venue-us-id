@@ -1,0 +1,66 @@
+{
+  "id": 169618669,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-116.248397,43.662221,-116.248397,43.662221",
+    "geom:latitude":43.662221,
+    "geom:longitude":-116.248397,
+    "iso:country":"US",
+    "sg:address":"4997 Collister Dr",
+    "sg:city":"Boise",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Cleaning & Sanitation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 429 6953",
+    "sg:postcode":"83703",
+    "sg:province":"ID",
+    "sg:tags":[
+        "maintenance"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85937923,
+        102086087,
+        85876323
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0cDkvNHP3R5kW5DF9J3Nli_43.662221_-116.248397@1294099250"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"b75f30ac64d8c0a5d7686697c9014f65",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086087,
+            "locality_id":85937923,
+            "neighbourhood_id":85876323,
+            "region_id":85688657,
+            "venue_id":169618669
+        }
+    ],
+    "wof:id":169618669,
+    "wof:lastmodified":1449034735,
+    "wof:name":"Western Window Cleaning",
+    "wof:parent_id":85876323,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "maintenance"
+    ]
+},
+  "bbox": [-116.248397,43.662221,-116.248397,43.662221],
+  "geometry": {"coordinates":[-116.248397,43.662221],"type":"Point"}
+}

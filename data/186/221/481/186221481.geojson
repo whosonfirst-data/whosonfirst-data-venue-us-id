@@ -1,0 +1,68 @@
+{
+  "id": 186221481,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-116.121353,47.53515,-116.121353,47.53515",
+    "geom:latitude":47.53515,
+    "geom:longitude":-116.121353,
+    "iso:country":"US",
+    "sg:address":"202 S Division St",
+    "sg:city":"Kellogg",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 786 0951",
+    "sg:postcode":"83837",
+    "sg:province":"ID",
+    "sg:tags":[
+        "commercial",
+        "storage"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85937825,
+        102086103,
+        85849049
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2KgtyJGSn0SkeINt84hfkp_47.535150_-116.121353@1294099250"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"8e5e75bc2dbc8efaea9aa726886b1e54",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086103,
+            "locality_id":85937825,
+            "neighbourhood_id":85849049,
+            "region_id":85688657,
+            "venue_id":186221481
+        }
+    ],
+    "wof:id":186221481,
+    "wof:lastmodified":1449051555,
+    "wof:name":"Pinehurst Storage",
+    "wof:parent_id":85849049,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "commercial",
+        "storage"
+    ]
+},
+  "bbox": [-116.121353,47.53515,-116.121353,47.53515],
+  "geometry": {"coordinates":[-116.121353,47.53515],"type":"Point"}
+}

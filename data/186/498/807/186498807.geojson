@@ -1,0 +1,69 @@
+{
+  "id": 186498807,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-116.287756,43.664692,-116.287756,43.664692",
+    "geom:latitude":43.664692,
+    "geom:longitude":-116.287756,
+    "iso:country":"US",
+    "sg:address":"4952 Riverfront Pl",
+    "sg:city":"Boise",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 853 0524",
+    "sg:postcode":"83714",
+    "sg:province":"ID",
+    "sg:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        102086087,
+        85876315
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5FgqSVtp8swFFFC9ywLi4J_43.664692_-116.287756@1294099250"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"f35d13c0b4d632454c4b99bfd25bfe52",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086087,
+            "locality_id":-1,
+            "neighbourhood_id":85876315,
+            "region_id":85688657,
+            "venue_id":186498807
+        }
+    ],
+    "wof:id":186498807,
+    "wof:lastmodified":1449052355,
+    "wof:name":"Diane Delivers",
+    "wof:parent_id":85876315,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ]
+},
+  "bbox": [-116.287756,43.664692,-116.287756,43.664692],
+  "geometry": {"coordinates":[-116.287756,43.664692],"type":"Point"}
+}

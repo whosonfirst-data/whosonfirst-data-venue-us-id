@@ -1,0 +1,67 @@
+{
+  "id": 186311369,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-116.281585,43.554026,-116.281585,43.554026",
+    "geom:latitude":43.554026,
+    "geom:longitude":-116.281585,
+    "iso:country":"US",
+    "sg:address":"7806 Desert Ave",
+    "sg:city":"Boise",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 362 4459",
+    "sg:postcode":"83709",
+    "sg:province":"ID",
+    "sg:tags":[
+        "carpentry",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        102086087,
+        85876331
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6g2rjunJcbnzVGDH10Cson_43.554026_-116.281585@1294099250"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"a48fe16cbf4e3778ee525de0ef86eb4b",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086087,
+            "locality_id":-1,
+            "neighbourhood_id":85876331,
+            "region_id":85688657,
+            "venue_id":186311369
+        }
+    ],
+    "wof:id":186311369,
+    "wof:lastmodified":1449051030,
+    "wof:name":"Bob Cormier Woodworking",
+    "wof:parent_id":85876331,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "carpentry",
+        "contractor"
+    ]
+},
+  "bbox": [-116.281585,43.554026,-116.281585,43.554026],
+  "geometry": {"coordinates":[-116.281585,43.554026],"type":"Point"}
+}

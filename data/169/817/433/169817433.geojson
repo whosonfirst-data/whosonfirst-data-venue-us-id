@@ -1,0 +1,66 @@
+{
+  "id": 169817433,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-116.348209,43.593011,-116.348209,43.593011",
+    "geom:latitude":43.593011,
+    "geom:longitude":-116.348209,
+    "iso:country":"US",
+    "sg:address":"1400 Jade Ave",
+    "sg:city":"Meridian",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 888 1408",
+    "sg:postcode":"83642",
+    "sg:province":"ID",
+    "sg:tags":[
+        "eating"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85937915,
+        102086087,
+        85805083
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_61dPgksYgev3tToNVCcOPQ_43.593011_-116.348209@1294099250"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"622b5ed377a2947ed4bc562a8ecf9b54",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086087,
+            "locality_id":85937915,
+            "neighbourhood_id":85805083,
+            "region_id":85688657,
+            "venue_id":169817433
+        }
+    ],
+    "wof:id":169817433,
+    "wof:lastmodified":1449035313,
+    "wof:name":"Johns Cafe",
+    "wof:parent_id":85805083,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "eating"
+    ]
+},
+  "bbox": [-116.348209,43.593011,-116.348209,43.593011],
+  "geometry": {"coordinates":[-116.348209,43.593011],"type":"Point"}
+}

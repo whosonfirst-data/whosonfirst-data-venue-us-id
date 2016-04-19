@@ -1,0 +1,68 @@
+{
+  "id": 185958037,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-116.173156,43.591244,-116.173156,43.591244",
+    "geom:latitude":43.591244,
+    "geom:longitude":-116.173156,
+    "iso:country":"US",
+    "sg:address":"727 E Riverpark Ln",
+    "sg:city":"Boise",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 433 9300",
+    "sg:postcode":"83706",
+    "sg:province":"ID",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85937923,
+        102086087,
+        85876305
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5opXgkrqVB8SU6CovwsMtz_43.591244_-116.173156@1294099250"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"801ea563bb1d71c6e5ff000589718c5a",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086087,
+            "locality_id":85937923,
+            "neighbourhood_id":85876305,
+            "region_id":85688657,
+            "venue_id":185958037
+        }
+    ],
+    "wof:id":185958037,
+    "wof:lastmodified":1449007883,
+    "wof:name":"Sinus Center-Idaho",
+    "wof:parent_id":85876305,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [-116.173156,43.591244,-116.173156,43.591244],
+  "geometry": {"coordinates":[-116.173156,43.591244],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 185649045,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-116.298032,43.593319,-116.298032,43.593319",
+    "geom:latitude":43.593319,
+    "geom:longitude":-116.298032,
+    "iso:country":"US",
+    "sg:address":"9050 W Barnes Dr",
+    "sg:city":"Boise",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Electronics",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 672 6000",
+    "sg:postcode":"83709",
+    "sg:province":"ID",
+    "sg:tags":[
+        "semiconductor",
+        "devices"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85937923,
+        102086087,
+        85876309
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_52sXP1fFjVgXrda23z5gA7_43.593319_-116.298032@1294099250"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"2d77f3cb4ab7064bebe810d46377b7b2",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086087,
+            "locality_id":85937923,
+            "neighbourhood_id":85876309,
+            "region_id":85688657,
+            "venue_id":185649045
+        }
+    ],
+    "wof:id":185649045,
+    "wof:lastmodified":1449007684,
+    "wof:name":"Tokyo Electron America",
+    "wof:parent_id":85876309,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "semiconductor",
+        "devices"
+    ]
+},
+  "bbox": [-116.298032,43.593319,-116.298032,43.593319],
+  "geometry": {"coordinates":[-116.298032,43.593319],"type":"Point"}
+}

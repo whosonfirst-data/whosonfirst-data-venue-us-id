@@ -1,0 +1,67 @@
+{
+  "id": 185629127,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-111.805371,43.807815,-111.805371,43.807815",
+    "geom:latitude":43.807815,
+    "geom:longitude":-111.805371,
+    "iso:country":"US",
+    "sg:address":"1298 S Yellowstone Hwy",
+    "sg:city":"Rexburg",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Electrical",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 356 3062",
+    "sg:postcode":"83440",
+    "sg:province":"ID",
+    "sg:tags":[
+        "electric",
+        "motor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85937903,
+        102086101
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5SCWyBpqxKKW21Na4Eadsn_43.807815_-111.805371@1294099250"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"867c9c64577904654703b36c9d1fe031",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086101,
+            "locality_id":85937903,
+            "neighbourhood_id":-1,
+            "region_id":85688657,
+            "venue_id":185629127
+        }
+    ],
+    "wof:id":185629127,
+    "wof:lastmodified":1449007855,
+    "wof:name":"Ricks Electric Motor Svc",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electric",
+        "motor"
+    ]
+},
+  "bbox": [-111.805371,43.807815,-111.805371,43.807815],
+  "geometry": {"coordinates":[-111.805371,43.807815],"type":"Point"}
+}

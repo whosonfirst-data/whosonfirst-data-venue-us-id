@@ -1,0 +1,67 @@
+{
+  "id": 186002177,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-116.316159,43.565682,-116.316159,43.565682",
+    "geom:latitude":43.565682,
+    "geom:longitude":-116.316159,
+    "iso:country":"US",
+    "sg:address":"11075 Reutzel Dr",
+    "sg:city":"Boise",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Landscaping Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 362 1685",
+    "sg:postcode":"83709",
+    "sg:province":"ID",
+    "sg:tags":[
+        "landscape",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        102086087,
+        85876331
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2zAbUFI38GcncJvoQksDlh_43.565682_-116.316159@1294099250"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"1b436b1544cd26a5d48b332af9c27193",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086087,
+            "locality_id":-1,
+            "neighbourhood_id":85876331,
+            "region_id":85688657,
+            "venue_id":186002177
+        }
+    ],
+    "wof:id":186002177,
+    "wof:lastmodified":1449052525,
+    "wof:name":"Alternative Borders",
+    "wof:parent_id":85876331,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "landscape",
+        "contractor"
+    ]
+},
+  "bbox": [-116.316159,43.565682,-116.316159,43.565682],
+  "geometry": {"coordinates":[-116.316159,43.565682],"type":"Point"}
+}

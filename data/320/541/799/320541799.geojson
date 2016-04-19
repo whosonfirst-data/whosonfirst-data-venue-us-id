@@ -1,0 +1,78 @@
+{
+  "id": 320541799,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-116.29686,43.619469,-116.29686,43.619469",
+    "geom:latitude":43.619469,
+    "geom:longitude":-116.29686,
+    "iso:country":"US",
+    "sg:address":"9213 W Fairview Ave",
+    "sg:city":"Boise",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Glass & Minerals",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 323 2000",
+    "sg:postcode":"83704",
+    "sg:province":"ID",
+    "sg:tags":[
+        "plate",
+        "window",
+        "windshield",
+        "glass-auto"
+    ],
+    "sg:website":"http://www.safelite.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85937923,
+        102086087,
+        85876309
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1x2yXfv5u7ACoLRnHSB9ho_43.619469_-116.296860@1303263095"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"f90c165fe46feaca95019d7f86184782",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086087,
+            "locality_id":85937923,
+            "neighbourhood_id":85876309,
+            "region_id":85688657,
+            "venue_id":320541799
+        }
+    ],
+    "wof:id":320541799,
+    "wof:lastmodified":1449011659,
+    "wof:name":"Safelite AutoGlass",
+    "wof:parent_id":85876309,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "plate",
+        "window",
+        "windshield",
+        "glass-auto"
+    ]
+},
+  "bbox": [-116.29686,43.619469,-116.29686,43.619469],
+  "geometry": {"coordinates":[-116.29686,43.619469],"type":"Point"}
+}

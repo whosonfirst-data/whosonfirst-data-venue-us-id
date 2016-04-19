@@ -1,0 +1,73 @@
+{
+  "id": 320530237,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-116.493997,43.875599,-116.493997,43.875599",
+    "geom:latitude":43.875599,
+    "geom:longitude":-116.493997,
+    "iso:country":"US",
+    "sg:address":"521 E Main St",
+    "sg:city":"Emmett",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Business Services",
+            "type":"Services"
+        },
+        {
+            "category":"Government",
+            "subcategory":"Post Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 365 2181",
+    "sg:postcode":"83617",
+    "sg:province":"ID",
+    "sg:tags":[
+        "mail",
+        "shipping"
+    ],
+    "sg:website":"http://www.usps.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85937855,
+        102085095
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5TkqY9soLCFhc4HkfTpZnR_43.875599_-116.493997@1303263095"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"8be9211c14b1fcfeceaf388ebf628a38",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085095,
+            "locality_id":85937855,
+            "neighbourhood_id":-1,
+            "region_id":85688657,
+            "venue_id":320530237
+        }
+    ],
+    "wof:id":320530237,
+    "wof:lastmodified":1449013249,
+    "wof:name":"Us Post Office",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mail",
+        "shipping"
+    ]
+},
+  "bbox": [-116.493997,43.875599,-116.493997,43.875599],
+  "geometry": {"coordinates":[-116.493997,43.875599],"type":"Point"}
+}

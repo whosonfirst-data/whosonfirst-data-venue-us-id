@@ -1,0 +1,68 @@
+{
+  "id": 186289401,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-115.993009,47.502244,-115.993009,47.502244",
+    "geom:latitude":47.502244,
+    "geom:longitude":-115.993009,
+    "iso:country":"US",
+    "sg:address":"820 E Garden Ave",
+    "sg:city":"Osburn",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 556 6026",
+    "sg:postcode":"83849",
+    "sg:province":"ID",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85937825,
+        102086103,
+        85849049
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7U0g4C3IDBTXKcPQ5Lem6g_47.502244_-115.993009@1294099250"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"2c9aeeaa4bdb750a99b28622a1419c17",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086103,
+            "locality_id":85937825,
+            "neighbourhood_id":85849049,
+            "region_id":85688657,
+            "venue_id":186289401
+        }
+    ],
+    "wof:id":186289401,
+    "wof:lastmodified":1449052563,
+    "wof:name":"Bakers Auto Repair",
+    "wof:parent_id":85849049,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [-115.993009,47.502244,-115.993009,47.502244],
+  "geometry": {"coordinates":[-115.993009,47.502244],"type":"Point"}
+}

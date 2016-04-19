@@ -1,0 +1,67 @@
+{
+  "id": 186509519,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-112.466108,42.889857,-112.466108,42.889857",
+    "geom:latitude":42.889857,
+    "geom:longitude":-112.466108,
+    "iso:country":"US",
+    "sg:address":"3058 Pole Line Rd",
+    "sg:city":"Pocatello",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 237 4550",
+    "sg:postcode":"83201",
+    "sg:province":"ID",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85937925,
+        102086113
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6QJodzapFrxQK6dqDlOhm9_42.889857_-112.466108@1294099250"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"bf03592050703f0b03a6f149b1413b28",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086113,
+            "locality_id":85937925,
+            "neighbourhood_id":-1,
+            "region_id":85688657,
+            "venue_id":186509519
+        }
+    ],
+    "wof:id":186509519,
+    "wof:lastmodified":1449050385,
+    "wof:name":"All Tran Automotive",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [-112.466108,42.889857,-112.466108,42.889857],
+  "geometry": {"coordinates":[-112.466108,42.889857],"type":"Point"}
+}

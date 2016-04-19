@@ -1,0 +1,73 @@
+{
+  "id": 186110725,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-116.529705,48.309149,-116.529705,48.309149",
+    "geom:latitude":48.309149,
+    "geom:longitude":-116.529705,
+    "iso:country":"US",
+    "sg:address":"31466 Hwy 200",
+    "sg:city":"Sandpoint",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 255 7909",
+    "sg:postcode":"83864",
+    "sg:province":"ID",
+    "sg:tags":[
+        "passenger",
+        "car"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85937979,
+        102085145
+    ],
+    "wof:brand_id":420574867,
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0jv9JJ5KPL6vqcS2NHcFAw_48.309149_-116.529705@1294099250"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"8c07f377da6b061d609116213a7400ab",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085145,
+            "locality_id":85937979,
+            "neighbourhood_id":-1,
+            "region_id":85688657,
+            "venue_id":186110725
+        }
+    ],
+    "wof:id":186110725,
+    "wof:lastmodified":1457209246,
+    "wof:name":"Thrifty Car Rental",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "passenger",
+        "car"
+    ]
+},
+  "bbox": [
+    -116.529705,
+    48.309149,
+    -116.529705,
+    48.309149
+],
+  "geometry": {"coordinates":[-116.52970500000001,48.309149],"type":"Point"}
+}

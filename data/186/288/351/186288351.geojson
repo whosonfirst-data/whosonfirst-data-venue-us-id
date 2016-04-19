@@ -1,0 +1,66 @@
+{
+  "id": 186288351,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-116.295101,43.611028,-116.295101,43.611028",
+    "geom:latitude":43.611028,
+    "geom:longitude":-116.295101,
+    "iso:country":"US",
+    "sg:address":"9140 Emerald St",
+    "sg:city":"Boise",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Veterinary Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 322 0033",
+    "sg:postcode":"83704",
+    "sg:province":"ID",
+    "sg:tags":[
+        "veterinarian"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85937923,
+        102086087,
+        85876309
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1aYf6sGf02IPyRD6Ks5HvA_43.611028_-116.295101@1294099250"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"6db3b7ec7ac9b5333c4c2ec8a2d134b6",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086087,
+            "locality_id":85937923,
+            "neighbourhood_id":85876309,
+            "region_id":85688657,
+            "venue_id":186288351
+        }
+    ],
+    "wof:id":186288351,
+    "wof:lastmodified":1449050528,
+    "wof:name":"All Valley Pet Clinic",
+    "wof:parent_id":85876309,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "veterinarian"
+    ]
+},
+  "bbox": [-116.295101,43.611028,-116.295101,43.611028],
+  "geometry": {"coordinates":[-116.295101,43.611028],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 169749547,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-117.017181,46.416707,-117.017181,46.416707",
+    "geom:latitude":46.416707,
+    "geom:longitude":-117.017181,
+    "iso:country":"US",
+    "sg:address":"1221 Idaho St",
+    "sg:city":"Lewiston",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Court House",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 799 3087",
+    "sg:postcode":"83501",
+    "sg:province":"ID",
+    "sg:tags":[
+        "county",
+        "counsel"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85937743,
+        102086039,
+        85837769
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1gI2sI9Vn5qSFZaKNH3JJZ_46.416707_-117.017181@1294099250"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"f5d582f8f66078908b4b14bda2ab1ccd",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086039,
+            "locality_id":85937743,
+            "neighbourhood_id":85837769,
+            "region_id":85688657,
+            "venue_id":169749547
+        }
+    ],
+    "wof:id":169749547,
+    "wof:lastmodified":1449033618,
+    "wof:name":"Nez Perce Prosecuting Attorney",
+    "wof:parent_id":85837769,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "county",
+        "counsel"
+    ]
+},
+  "bbox": [-117.017181,46.416707,-117.017181,46.416707],
+  "geometry": {"coordinates":[-117.017181,46.416707],"type":"Point"}
+}

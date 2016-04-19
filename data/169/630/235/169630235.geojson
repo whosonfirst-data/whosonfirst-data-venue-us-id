@@ -1,0 +1,65 @@
+{
+  "id": 169630235,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-116.780551,47.777794,-116.780551,47.777794",
+    "geom:latitude":47.777794,
+    "geom:longitude":-116.780551,
+    "iso:country":"US",
+    "sg:address":"11815 N Peridot Dr",
+    "sg:city":"Hayden",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Cleaning & Sanitation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 762 2121",
+    "sg:postcode":"83835",
+    "sg:province":"ID",
+    "sg:tags":[
+        "janitor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        102086085,
+        85821457
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5i4a1HDpYd3N92BgUsjoZj_47.777794_-116.780551@1294099250"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"578d99b1b199af4f1e7fd6bf49ac6c63",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086085,
+            "locality_id":-1,
+            "neighbourhood_id":85821457,
+            "region_id":85688657,
+            "venue_id":169630235
+        }
+    ],
+    "wof:id":169630235,
+    "wof:lastmodified":1449033867,
+    "wof:name":"Jim's Janitorial",
+    "wof:parent_id":85821457,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "janitor"
+    ]
+},
+  "bbox": [-116.780551,47.777794,-116.780551,47.777794],
+  "geometry": {"coordinates":[-116.780551,47.777794],"type":"Point"}
+}

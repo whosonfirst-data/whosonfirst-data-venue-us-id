@@ -1,0 +1,73 @@
+{
+  "id": 320524661,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-117.015762,46.41851,-117.015762,46.41851",
+    "geom:latitude":46.41851,
+    "geom:longitude":-117.015762,
+    "iso:country":"US",
+    "sg:address":"1301 Main St Ste 3B",
+    "sg:city":"Lewiston",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"",
+            "type":"Services"
+        },
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 756 3336",
+    "sg:postcode":"83501",
+    "sg:province":"ID",
+    "sg:tags":[
+        "government-united",
+        "state"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85937743,
+        102086039,
+        85837769
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2BNf0TgMg0xLqkcv4XpmCT_46.418510_-117.015762@1303263095"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"181149a5a89a0dabd8b43405f5333514",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086039,
+            "locality_id":85937743,
+            "neighbourhood_id":85837769,
+            "region_id":85688657,
+            "venue_id":320524661
+        }
+    ],
+    "wof:id":320524661,
+    "wof:lastmodified":1449011225,
+    "wof:name":"Health And Welfare",
+    "wof:parent_id":85837769,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "government-united",
+        "state"
+    ]
+},
+  "bbox": [-117.015762,46.41851,-117.015762,46.41851],
+  "geometry": {"coordinates":[-117.015762,46.41851],"type":"Point"}
+}

@@ -1,0 +1,66 @@
+{
+  "id": 186346649,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-116.593063,43.600683,-116.593063,43.600683",
+    "geom:latitude":43.600683,
+    "geom:longitude":-116.593063,
+    "iso:country":"US",
+    "sg:address":"1808 N Midland Blvd",
+    "sg:city":"Nampa",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Hospital",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 461 0111",
+    "sg:postcode":"83651",
+    "sg:province":"ID",
+    "sg:tags":[
+        "mental"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85938009,
+        102085081,
+        85827787
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6j1JnudDR3d6n5EDqkeuXJ_43.600683_-116.593063@1294099250"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"1e3e00e16db3a2d21aced4cb33f3b23c",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085081,
+            "locality_id":85938009,
+            "neighbourhood_id":85827787,
+            "region_id":85688657,
+            "venue_id":186346649
+        }
+    ],
+    "wof:id":186346649,
+    "wof:lastmodified":1449050241,
+    "wof:name":"New Life Mental Health Svc",
+    "wof:parent_id":85827787,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mental"
+    ]
+},
+  "bbox": [-116.593063,43.600683,-116.593063,43.600683],
+  "geometry": {"coordinates":[-116.593063,43.600683],"type":"Point"}
+}

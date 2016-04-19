@@ -1,0 +1,78 @@
+{
+  "id": 169660193,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-116.815531,47.7056,-116.815531,47.7056",
+    "geom:latitude":47.7056,
+    "geom:longitude":-116.815531,
+    "iso:country":"US",
+    "sg:address":"408 W Vista Dr",
+    "sg:city":"Coeur D Alene",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 667 0736",
+    "sg:postcode":"83815",
+    "sg:province":"ID",
+    "sg:tags":[
+        "roofing",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85938163,
+        102086085,
+        85806325,
+        85821457
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7lH5D9jHl87kVsbanYcivD_47.705600_-116.815531@1294099250"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"71492bb57bec210a2be5e221fb46da51",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086085,
+            "locality_id":85938163,
+            "neighbourhood_id":85806325,
+            "region_id":85688657,
+            "venue_id":169660193
+        },
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086085,
+            "locality_id":-1,
+            "neighbourhood_id":85821457,
+            "region_id":85688657,
+            "venue_id":169660193
+        }
+    ],
+    "wof:id":169660193,
+    "wof:lastmodified":1449035609,
+    "wof:name":"Kootenai Roofing",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "roofing",
+        "contractor"
+    ]
+},
+  "bbox": [-116.815531,47.7056,-116.815531,47.7056],
+  "geometry": {"coordinates":[-116.815531,47.7056],"type":"Point"}
+}

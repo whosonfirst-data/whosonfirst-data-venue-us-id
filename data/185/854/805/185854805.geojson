@@ -1,0 +1,76 @@
+{
+  "id": 185854805,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-116.985046,46.380469,-116.985046,46.380469",
+    "geom:latitude":46.380469,
+    "geom:longitude":-116.985046,
+    "iso:country":"US",
+    "sg:address":"931 Bryden Ave",
+    "sg:city":"Lewiston",
+    "sg:classifiers":[
+        {
+            "category":"Taxi",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 746 0257",
+    "sg:postcode":"83501",
+    "sg:province":"ID",
+    "sg:tags":[
+        "taxicab"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85937743,
+        102086039,
+        85837769,
+        85830385
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6M07XE0KU4V43bOffkonjg_46.380469_-116.985046@1294099250"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"ab912871b644484959a1fb99e225908b",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086039,
+            "locality_id":85937743,
+            "neighbourhood_id":85837769,
+            "region_id":85688657,
+            "venue_id":185854805
+        },
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086039,
+            "locality_id":85937743,
+            "neighbourhood_id":85830385,
+            "region_id":85688657,
+            "venue_id":185854805
+        }
+    ],
+    "wof:id":185854805,
+    "wof:lastmodified":1449008131,
+    "wof:name":"All-Ways Transportation",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "taxicab"
+    ]
+},
+  "bbox": [-116.985046,46.380469,-116.985046,46.380469],
+  "geometry": {"coordinates":[-116.985046,46.380469],"type":"Point"}
+}

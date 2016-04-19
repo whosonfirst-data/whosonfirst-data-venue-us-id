@@ -1,0 +1,70 @@
+{
+  "id": 169839173,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-116.173276,43.579838,-116.173276,43.579838",
+    "geom:latitude":43.579838,
+    "geom:longitude":-116.173276,
+    "iso:country":"US",
+    "sg:address":"2550 Apple St",
+    "sg:city":"Boise",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 342 2413",
+    "sg:postcode":"83706",
+    "sg:province":"ID",
+    "sg:tags":[
+        "automobile",
+        "testing",
+        "emission"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85937923,
+        102086087,
+        85876329
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4gw3j4nyyRnn9Jjego2cAv_43.579838_-116.173276@1294099250"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"4947d17a23b275cb8cf1f55765efb53a",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086087,
+            "locality_id":85937923,
+            "neighbourhood_id":85876329,
+            "region_id":85688657,
+            "venue_id":169839173
+        }
+    ],
+    "wof:id":169839173,
+    "wof:lastmodified":1449034665,
+    "wof:name":"Idaho Air",
+    "wof:parent_id":85876329,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automobile",
+        "testing",
+        "emission"
+    ]
+},
+  "bbox": [-116.173276,43.579838,-116.173276,43.579838],
+  "geometry": {"coordinates":[-116.173276,43.579838],"type":"Point"}
+}

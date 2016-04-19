@@ -1,0 +1,66 @@
+{
+  "id": 185598021,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-116.46402,43.691871,-116.46402,43.691871",
+    "geom:latitude":43.691871,
+    "geom:longitude":-116.46402,
+    "iso:country":"US",
+    "sg:address":"8552 W State St",
+    "sg:city":"Star",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 286 0353",
+    "sg:postcode":"83669",
+    "sg:province":"ID",
+    "sg:tags":[
+        "appliance"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85937923,
+        102086087,
+        85876351
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6TAKZHN5HOSF3W9V6is3dy_43.691871_-116.464020@1294099250"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"561dd6a339e26002689b0d2d2345d059",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086087,
+            "locality_id":85937923,
+            "neighbourhood_id":85876351,
+            "region_id":85688657,
+            "venue_id":185598021
+        }
+    ],
+    "wof:id":185598021,
+    "wof:lastmodified":1449006665,
+    "wof:name":"Dave's Appliance Svc",
+    "wof:parent_id":85876351,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "appliance"
+    ]
+},
+  "bbox": [-116.46402,43.691871,-116.46402,43.691871],
+  "geometry": {"coordinates":[-116.46402,43.691871],"type":"Point"}
+}

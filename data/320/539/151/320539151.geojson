@@ -1,0 +1,69 @@
+{
+  "id": 320539151,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-116.927391,44.249164,-116.927391,44.249164",
+    "geom:latitude":44.249164,
+    "geom:longitude":-116.927391,
+    "iso:country":"US",
+    "sg:address":"1505 Weiser River Rd",
+    "sg:city":"Weiser",
+    "sg:classifiers":[
+        {
+            "category":"Transit Center",
+            "subcategory":"Freight",
+            "type":"Transportation"
+        },
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 549 3289",
+    "sg:postcode":"83672",
+    "sg:province":"ID",
+    "sg:tags":[
+        "trucking-motor",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633793,
+        85688657
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3DJ6EHpPNGUqA7YWTyrHY8_44.249164_-116.927391@1303263095"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"01463bf8b4d6aa66dddce32a4eb48f00",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "locality_id":-1,
+            "neighbourhood_id":-1,
+            "region_id":85688657,
+            "venue_id":320539151
+        }
+    ],
+    "wof:id":320539151,
+    "wof:lastmodified":1449015041,
+    "wof:name":"Roger Davis",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "trucking-motor",
+        "trucking"
+    ]
+},
+  "bbox": [-116.927391,44.249164,-116.927391,44.249164],
+  "geometry": {"coordinates":[-116.927391,44.249164],"type":"Point"}
+}

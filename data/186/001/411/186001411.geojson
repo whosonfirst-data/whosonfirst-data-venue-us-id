@@ -1,0 +1,68 @@
+{
+  "id": 186001411,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-116.196017,43.585773,-116.196017,43.585773",
+    "geom:latitude":43.585773,
+    "geom:longitude":-116.196017,
+    "iso:country":"US",
+    "sg:address":"1112 Dundee St",
+    "sg:city":"Boise",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 331 2869",
+    "sg:postcode":"83706",
+    "sg:province":"ID",
+    "sg:tags":[
+        "programing",
+        "custom"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85937923,
+        102086087,
+        85876343
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1FGapwcvbHxj2LU2Vt8si2_43.585773_-116.196017@1294099250"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"e08d4686105980e1d156292897869555",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086087,
+            "locality_id":85937923,
+            "neighbourhood_id":85876343,
+            "region_id":85688657,
+            "venue_id":186001411
+        }
+    ],
+    "wof:id":186001411,
+    "wof:lastmodified":1449051006,
+    "wof:name":"Au Inc",
+    "wof:parent_id":85876343,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "programing",
+        "custom"
+    ]
+},
+  "bbox": [-116.196017,43.585773,-116.196017,43.585773],
+  "geometry": {"coordinates":[-116.196017,43.585773],"type":"Point"}
+}

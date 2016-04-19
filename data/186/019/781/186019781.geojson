@@ -1,0 +1,67 @@
+{
+  "id": 186019781,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-112.031111,43.500097,-112.031111,43.500097",
+    "geom:latitude":43.500097,
+    "geom:longitude":-112.031111,
+    "iso:country":"US",
+    "sg:address":"445 N Lee Ave",
+    "sg:city":"Idaho Falls",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 524 5887",
+    "sg:postcode":"83401",
+    "sg:province":"ID",
+    "sg:tags":[
+        "heating",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85937963,
+        102085163
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4pP5ag3uYIxKtmOh7sb2Ep_43.500097_-112.031111@1294099250"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"cad65d7b8f4a74a563793a2fccd36047",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085163,
+            "locality_id":85937963,
+            "neighbourhood_id":-1,
+            "region_id":85688657,
+            "venue_id":186019781
+        }
+    ],
+    "wof:id":186019781,
+    "wof:lastmodified":1449051921,
+    "wof:name":"Kent's Heating & Mfg",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "heating",
+        "contractor"
+    ]
+},
+  "bbox": [-112.031111,43.500097,-112.031111,43.500097],
+  "geometry": {"coordinates":[-112.031111,43.500097],"type":"Point"}
+}

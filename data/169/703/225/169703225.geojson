@@ -1,0 +1,68 @@
+{
+  "id": 169703225,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-116.365422,43.579343,-116.365422,43.579343",
+    "geom:latitude":43.579343,
+    "geom:longitude":-116.365422,
+    "iso:country":"US",
+    "sg:address":"2801 S Tagish Way",
+    "sg:city":"Meridian",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 466 6404",
+    "sg:postcode":"83642",
+    "sg:province":"ID",
+    "sg:tags":[
+        "lock",
+        "locksmith"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85937915,
+        102086087,
+        85805083
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5cqcTyPzH2gQHJCaF9zDZv_43.579343_-116.365422@1294099250"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"e14efaee2a8955323b62e43e6628f81b",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086087,
+            "locality_id":85937915,
+            "neighbourhood_id":85805083,
+            "region_id":85688657,
+            "venue_id":169703225
+        }
+    ],
+    "wof:id":169703225,
+    "wof:lastmodified":1449033688,
+    "wof:name":"AM-PM Lock & Key",
+    "wof:parent_id":85805083,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "lock",
+        "locksmith"
+    ]
+},
+  "bbox": [-116.365422,43.579343,-116.365422,43.579343],
+  "geometry": {"coordinates":[-116.365422,43.579343],"type":"Point"}
+}

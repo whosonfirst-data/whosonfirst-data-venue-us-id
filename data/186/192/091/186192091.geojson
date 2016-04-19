@@ -1,0 +1,66 @@
+{
+  "id": 186192091,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-116.562818,43.580726,-116.562818,43.580726",
+    "geom:latitude":43.580726,
+    "geom:longitude":-116.562818,
+    "iso:country":"US",
+    "sg:address":"923 1st St S",
+    "sg:city":"Nampa",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Fire Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 468 5771",
+    "sg:postcode":"83651",
+    "sg:province":"ID",
+    "sg:tags":[
+        "department"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85938009,
+        102085081,
+        85827787
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2oFdQjPDeMYFszHihgI4Qa_43.580726_-116.562818@1294099250"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"b6cf570e96fc98632e8fa147b0f1bbd0",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085081,
+            "locality_id":85938009,
+            "neighbourhood_id":85827787,
+            "region_id":85688657,
+            "venue_id":186192091
+        }
+    ],
+    "wof:id":186192091,
+    "wof:lastmodified":1449052252,
+    "wof:name":"Nampa Fire Dept",
+    "wof:parent_id":85827787,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "department"
+    ]
+},
+  "bbox": [-116.562818,43.580726,-116.562818,43.580726],
+  "geometry": {"coordinates":[-116.562818,43.580726],"type":"Point"}
+}

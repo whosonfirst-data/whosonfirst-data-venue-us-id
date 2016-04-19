@@ -1,0 +1,67 @@
+{
+  "id": 169718515,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-116.849115,47.705048,-116.849115,47.705048",
+    "geom:latitude":47.705048,
+    "geom:longitude":-116.849115,
+    "iso:country":"US",
+    "sg:address":"4697 W Seltice Way",
+    "sg:city":"Coeur D Alene",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Landscaping Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 765 0796",
+    "sg:postcode":"83814",
+    "sg:province":"ID",
+    "sg:tags":[
+        "landscape",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        102086085,
+        85821457
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2iEYsVBYDyWClJa7KLONuv_47.705048_-116.849115@1294099250"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"16823f9db20bba0f75768215ec624131",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086085,
+            "locality_id":-1,
+            "neighbourhood_id":85821457,
+            "region_id":85688657,
+            "venue_id":169718515
+        }
+    ],
+    "wof:id":169718515,
+    "wof:lastmodified":1449033396,
+    "wof:name":"CDF Landscape",
+    "wof:parent_id":85821457,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "landscape",
+        "contractor"
+    ]
+},
+  "bbox": [-116.849115,47.705048,-116.849115,47.705048],
+  "geometry": {"coordinates":[-116.849115,47.705048],"type":"Point"}
+}

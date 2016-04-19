@@ -1,0 +1,69 @@
+{
+  "id": 186470007,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-116.868511,47.703664,-116.868511,47.703664",
+    "geom:latitude":47.703664,
+    "geom:longitude":-116.868511,
+    "iso:country":"US",
+    "sg:address":"6220 E Commerce Loop",
+    "sg:city":"Post Falls",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 664 6635",
+    "sg:postcode":"83854",
+    "sg:province":"ID",
+    "sg:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        102086085,
+        85821457
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0Zd6fQivwRCFtTqDBMO9ne_47.703664_-116.868511@1294099250"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"fb4b7b714b5c3ef59013e6a035456f0e",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086085,
+            "locality_id":-1,
+            "neighbourhood_id":85821457,
+            "region_id":85688657,
+            "venue_id":186470007
+        }
+    ],
+    "wof:id":186470007,
+    "wof:lastmodified":1449051046,
+    "wof:name":"Northwest Paint & Body",
+    "wof:parent_id":85821457,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ]
+},
+  "bbox": [-116.868511,47.703664,-116.868511,47.703664],
+  "geometry": {"coordinates":[-116.868511,47.703664],"type":"Point"}
+}

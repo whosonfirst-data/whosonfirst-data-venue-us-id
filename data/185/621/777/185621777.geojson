@@ -1,0 +1,66 @@
+{
+  "id": 185621777,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-116.144974,43.555687,-116.144974,43.555687",
+    "geom:latitude":43.555687,
+    "geom:longitude":-116.144974,
+    "iso:country":"US",
+    "sg:address":"3288 Sweetwater Dr",
+    "sg:city":"Boise",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Agent",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 338 9144",
+    "sg:postcode":"83716",
+    "sg:province":"ID",
+    "sg:tags":[
+        "inspection"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85937923,
+        102086087,
+        85876329
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2VH4YJEHirVhMKnzM0lcKQ_43.555687_-116.144974@1294099250"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"38c44ea6981bcd005f241341f8c1d9fd",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086087,
+            "locality_id":85937923,
+            "neighbourhood_id":85876329,
+            "region_id":85688657,
+            "venue_id":185621777
+        }
+    ],
+    "wof:id":185621777,
+    "wof:lastmodified":1449008033,
+    "wof:name":"AAD Inspection Svc",
+    "wof:parent_id":85876329,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "inspection"
+    ]
+},
+  "bbox": [-116.144974,43.555687,-116.144974,43.555687],
+  "geometry": {"coordinates":[-116.144974,43.555687],"type":"Point"}
+}

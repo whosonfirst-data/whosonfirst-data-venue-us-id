@@ -1,0 +1,66 @@
+{
+  "id": 185731967,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-116.166469,43.576611,-116.166469,43.576611",
+    "geom:latitude":43.576611,
+    "geom:longitude":-116.166469,
+    "iso:country":"US",
+    "sg:address":"1366 Rayburn Ct",
+    "sg:city":"Boise",
+    "sg:classifiers":[
+        {
+            "category":"Taxi",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 866 7500",
+    "sg:postcode":"83706",
+    "sg:province":"ID",
+    "sg:tags":[
+        "taxicab"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85937923,
+        102086087,
+        85876329
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4fww8xjLl0CexcTrzIYxuz_43.576611_-116.166469@1294099250"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"de6edd35ce5adc40aa6f1a5e27db5c6c",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086087,
+            "locality_id":85937923,
+            "neighbourhood_id":85876329,
+            "region_id":85688657,
+            "venue_id":185731967
+        }
+    ],
+    "wof:id":185731967,
+    "wof:lastmodified":1449008041,
+    "wof:name":"River City Taxi",
+    "wof:parent_id":85876329,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "taxicab"
+    ]
+},
+  "bbox": [-116.166469,43.576611,-116.166469,43.576611],
+  "geometry": {"coordinates":[-116.166469,43.576611],"type":"Point"}
+}

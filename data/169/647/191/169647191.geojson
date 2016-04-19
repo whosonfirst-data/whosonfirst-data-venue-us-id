@@ -1,0 +1,68 @@
+{
+  "id": 169647191,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-116.220856,43.642578,-116.220856,43.642578",
+    "geom:latitude":43.642578,
+    "geom:longitude":-116.220856,
+    "iso:country":"US",
+    "sg:address":"2402 N 26th St",
+    "sg:city":"Boise",
+    "sg:classifiers":[
+        {
+            "category":"Ferry",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 338 9162",
+    "sg:postcode":"83702",
+    "sg:province":"ID",
+    "sg:tags":[
+        "river",
+        "trip"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85937923,
+        102086087,
+        85876339
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4UMiDDNhqCOfMjJZV2P1ce_43.642578_-116.220856@1294099250"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"9647432e5b065e494b001d89db184345",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086087,
+            "locality_id":85937923,
+            "neighbourhood_id":85876339,
+            "region_id":85688657,
+            "venue_id":169647191
+        }
+    ],
+    "wof:id":169647191,
+    "wof:lastmodified":1449034240,
+    "wof:name":"Middle Fork Rapid Transit",
+    "wof:parent_id":85876339,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "river",
+        "trip"
+    ]
+},
+  "bbox": [-116.220856,43.642578,-116.220856,43.642578],
+  "geometry": {"coordinates":[-116.220856,43.642578],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 320526985,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-116.668356,46.373979,-116.668356,46.373979",
+    "geom:latitude":46.373979,
+    "geom:longitude":-116.668356,
+    "iso:country":"US",
+    "sg:address":"902 Phinney St",
+    "sg:city":"Culdesac",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Business Services",
+            "type":"Services"
+        },
+        {
+            "category":"Government",
+            "subcategory":"Post Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 843 2252",
+    "sg:postcode":"83524",
+    "sg:province":"ID",
+    "sg:tags":[
+        "mail",
+        "shipping"
+    ],
+    "sg:website":"http://www.usps.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85937743,
+        102086039,
+        85837769
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5HdAWUfm7bfWeSxOCdm1NZ_46.373979_-116.668356@1303263095"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"da0d029b830f07a73a4069c0589f4f02",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086039,
+            "locality_id":85937743,
+            "neighbourhood_id":85837769,
+            "region_id":85688657,
+            "venue_id":320526985
+        }
+    ],
+    "wof:id":320526985,
+    "wof:lastmodified":1449012416,
+    "wof:name":"USPS - United States Post Office - Culdesac Main Office",
+    "wof:parent_id":85837769,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mail",
+        "shipping"
+    ]
+},
+  "bbox": [-116.668356,46.373979,-116.668356,46.373979],
+  "geometry": {"coordinates":[-116.668356,46.373979],"type":"Point"}
+}

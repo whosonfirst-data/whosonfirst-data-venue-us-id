@@ -1,0 +1,66 @@
+{
+  "id": 320524655,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-117.027975,46.421548,-117.027975,46.421548",
+    "geom:latitude":46.421548,
+    "geom:longitude":-117.027975,
+    "iso:country":"US",
+    "sg:address":"407 Main St",
+    "sg:city":"Lewiston",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        },
+        {
+            "category":"Personal",
+            "subcategory":"Nail Salon",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 746 3273",
+    "sg:postcode":"83501",
+    "sg:province":"ID",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85937743,
+        102086039,
+        85852537
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2gFHK9ym4IsFYWewBtBsm0_46.421548_-117.027975@1303263095"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"dfeb0e217b555328682d6463a2b273da",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086039,
+            "locality_id":85937743,
+            "neighbourhood_id":85852537,
+            "region_id":85688657,
+            "venue_id":320524655
+        }
+    ],
+    "wof:id":320524655,
+    "wof:lastmodified":1449011222,
+    "wof:name":"Moxie Salon Spa",
+    "wof:parent_id":85852537,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-117.027975,46.421548,-117.027975,46.421548],
+  "geometry": {"coordinates":[-117.027975,46.421548],"type":"Point"}
+}

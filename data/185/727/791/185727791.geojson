@@ -1,0 +1,66 @@
+{
+  "id": 185727791,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-116.294233,43.58722,-116.294233,43.58722",
+    "geom:latitude":43.58722,
+    "geom:longitude":-116.294233,
+    "iso:country":"US",
+    "sg:address":"1803 S Maple Grove Rd",
+    "sg:city":"Boise",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 658 8800",
+    "sg:postcode":"83709",
+    "sg:province":"ID",
+    "sg:tags":[
+        "church"
+    ],
+    "sg:website":"www.lifechurchboise.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        102086087,
+        85876321
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6vLz6b4FcIk4gsppZTuuDz_43.587220_-116.294233@1294099250"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"8199b0f2c0653999cb7a098fe2b370df",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086087,
+            "locality_id":-1,
+            "neighbourhood_id":85876321,
+            "region_id":85688657,
+            "venue_id":185727791
+        }
+    ],
+    "wof:id":185727791,
+    "wof:lastmodified":1449006854,
+    "wof:name":"Life Church",
+    "wof:parent_id":85876321,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "church"
+    ]
+},
+  "bbox": [-116.294233,43.58722,-116.294233,43.58722],
+  "geometry": {"coordinates":[-116.294233,43.58722],"type":"Point"}
+}

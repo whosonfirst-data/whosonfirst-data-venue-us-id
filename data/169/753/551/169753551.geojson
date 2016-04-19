@@ -1,0 +1,68 @@
+{
+  "id": 169753551,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-116.266322,43.607789,-116.266322,43.607789",
+    "geom:latitude":43.607789,
+    "geom:longitude":-116.266322,
+    "iso:country":"US",
+    "sg:address":"411 Allumbaugh St",
+    "sg:city":"Boise",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 322 1001",
+    "sg:postcode":"83704",
+    "sg:province":"ID",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85937923,
+        102086087,
+        85841319
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_64oBSBCw5z3AzB26O0zoro_43.607789_-116.266322@1294099250"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"a362c35d2855ebc1cba9e708b1ac262a",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086087,
+            "locality_id":85937923,
+            "neighbourhood_id":85841319,
+            "region_id":85688657,
+            "venue_id":169753551
+        }
+    ],
+    "wof:id":169753551,
+    "wof:lastmodified":1449033071,
+    "wof:name":"Intermountain Out Patient Clnc",
+    "wof:parent_id":85841319,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [-116.266322,43.607789,-116.266322,43.607789],
+  "geometry": {"coordinates":[-116.266322,43.607789],"type":"Point"}
+}

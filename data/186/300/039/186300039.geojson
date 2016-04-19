@@ -1,0 +1,66 @@
+{
+  "id": 186300039,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-116.43481,43.619251,-116.43481,43.619251",
+    "geom:latitude":43.619251,
+    "geom:longitude":-116.43481,
+    "iso:country":"US",
+    "sg:address":"3301 W Cherry Ln",
+    "sg:city":"Meridian",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 884 5471",
+    "sg:postcode":"83642",
+    "sg:province":"ID",
+    "sg:tags":[
+        "grocer"
+    ],
+    "sg:website":"www.albertsons.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85937915,
+        102086087
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3M1HgUii3Gva7DM88eEmbp_43.619251_-116.434810@1294099250"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"30ab055dad476f7ca09c17cfb107e2bb",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086087,
+            "locality_id":85937915,
+            "neighbourhood_id":-1,
+            "region_id":85688657,
+            "venue_id":186300039
+        }
+    ],
+    "wof:id":186300039,
+    "wof:lastmodified":1449051895,
+    "wof:name":"Albertson's",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "grocer"
+    ]
+},
+  "bbox": [-116.43481,43.619251,-116.43481,43.619251],
+  "geometry": {"coordinates":[-116.43481,43.619251],"type":"Point"}
+}

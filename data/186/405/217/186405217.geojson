@@ -1,0 +1,69 @@
+{
+  "id": 186405217,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-116.365012,43.60699,-116.365012,43.60699",
+    "geom:latitude":43.60699,
+    "geom:longitude":-116.365012,
+    "iso:country":"US",
+    "sg:address":"1854 Lanark St",
+    "sg:city":"Meridian",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 887 1401",
+    "sg:postcode":"83642",
+    "sg:province":"ID",
+    "sg:tags":[
+        "general",
+        "contractor"
+    ],
+    "sg:website":"www.rscigroup.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85937915,
+        102086087,
+        85805083
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5rStNU0qhYF1dxq7ElTDYx_43.606990_-116.365012@1294099250"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"c18a6f473534476a20a73a831203127f",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086087,
+            "locality_id":85937915,
+            "neighbourhood_id":85805083,
+            "region_id":85688657,
+            "venue_id":186405217
+        }
+    ],
+    "wof:id":186405217,
+    "wof:lastmodified":1449052799,
+    "wof:name":"RSCI",
+    "wof:parent_id":85805083,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "general",
+        "contractor"
+    ]
+},
+  "bbox": [-116.365012,43.60699,-116.365012,43.60699],
+  "geometry": {"coordinates":[-116.365012,43.60699],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 186546053,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-116.222975,43.631536,-116.222975,43.631536",
+    "geom:latitude":43.631536,
+    "geom:longitude":-116.222975,
+    "iso:country":"US",
+    "sg:address":"2703 W State St",
+    "sg:city":"Boise",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 658 5118",
+    "sg:postcode":"83702",
+    "sg:province":"ID",
+    "sg:tags":[
+        "car",
+        "dealer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85937923,
+        102086087,
+        85876313
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2rjO1tfHPV6xGWE9oFNdlG_43.631536_-116.222975@1294099250"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"f0e55d21c695a8fc47852d764d57e24a",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086087,
+            "locality_id":85937923,
+            "neighbourhood_id":85876313,
+            "region_id":85688657,
+            "venue_id":186546053
+        }
+    ],
+    "wof:id":186546053,
+    "wof:lastmodified":1449050242,
+    "wof:name":"King Auto Sales",
+    "wof:parent_id":85876313,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "car",
+        "dealer"
+    ]
+},
+  "bbox": [-116.222975,43.631536,-116.222975,43.631536],
+  "geometry": {"coordinates":[-116.222975,43.631536],"type":"Point"}
+}

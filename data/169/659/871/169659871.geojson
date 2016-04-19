@@ -1,0 +1,68 @@
+{
+  "id": 169659871,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-116.53159,43.333135,-116.53159,43.333135",
+    "geom:latitude":43.333135,
+    "geom:longitude":-116.53159,
+    "iso:country":"US",
+    "sg:address":"2709 Canyon Rd S",
+    "sg:city":"Melba",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 495 2207",
+    "sg:postcode":"83641",
+    "sg:province":"ID",
+    "sg:tags":[
+        "livestock",
+        "hauling"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85938009,
+        102085081,
+        85827787
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6hJx9HFooXku9lcyUsjfSM_43.333135_-116.531590@1294099250"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"ef2105f5b07d9506c7863636121bdb65",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085081,
+            "locality_id":85938009,
+            "neighbourhood_id":85827787,
+            "region_id":85688657,
+            "venue_id":169659871
+        }
+    ],
+    "wof:id":169659871,
+    "wof:lastmodified":1449033027,
+    "wof:name":"Joe Mihan Trucking",
+    "wof:parent_id":85827787,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "livestock",
+        "hauling"
+    ]
+},
+  "bbox": [-116.53159,43.333135,-116.53159,43.333135],
+  "geometry": {"coordinates":[-116.53159,43.333135],"type":"Point"}
+}

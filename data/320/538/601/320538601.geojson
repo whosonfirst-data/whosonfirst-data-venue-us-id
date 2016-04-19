@@ -1,0 +1,73 @@
+{
+  "id": 320538601,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-116.97123,44.246723,-116.97123,44.246723",
+    "geom:latitude":44.246723,
+    "geom:longitude":-116.97123,
+    "iso:country":"US",
+    "sg:address":"106 W Main St",
+    "sg:city":"Weiser",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Business Services",
+            "type":"Services"
+        },
+        {
+            "category":"Government",
+            "subcategory":"Post Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 800 275 8777",
+    "sg:postcode":"83672",
+    "sg:province":"ID",
+    "sg:tags":[
+        "mail",
+        "shipping"
+    ],
+    "sg:website":"http://www.usps.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85937739,
+        102085079
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_56m7gCabaKNcA1E6oUTZSV_44.246723_-116.971230@1303263095"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"55acaa66021e54ba8e3642d1fbfedcf0",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085079,
+            "locality_id":85937739,
+            "neighbourhood_id":-1,
+            "region_id":85688657,
+            "venue_id":320538601
+        }
+    ],
+    "wof:id":320538601,
+    "wof:lastmodified":1449011720,
+    "wof:name":"USPS - United States Post Office - Weiser Main Office",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mail",
+        "shipping"
+    ]
+},
+  "bbox": [-116.97123,44.246723,-116.97123,44.246723],
+  "geometry": {"coordinates":[-116.97123,44.246723],"type":"Point"}
+}

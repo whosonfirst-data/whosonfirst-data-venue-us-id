@@ -1,0 +1,80 @@
+{
+  "id": 186400807,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-116.80823,47.716664,-116.80823,47.716664",
+    "geom:latitude":47.716664,
+    "geom:longitude":-116.80823,
+    "iso:country":"US",
+    "sg:address":"4301 N Ramsey Rd",
+    "sg:city":"Coeur D Alene",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 755 1619",
+    "sg:postcode":"83815",
+    "sg:province":"ID",
+    "sg:tags":[
+        "repairing",
+        "lawn",
+        "mower"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85938163,
+        102086085,
+        85806325,
+        85821457
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6U2Kj54hC2ZHzoHpfuUlSn_47.716664_-116.808230@1294099250"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"c4bb85eef210afcfcd4ef6f6073fbb7d",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086085,
+            "locality_id":85938163,
+            "neighbourhood_id":85806325,
+            "region_id":85688657,
+            "venue_id":186400807
+        },
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086085,
+            "locality_id":-1,
+            "neighbourhood_id":85821457,
+            "region_id":85688657,
+            "venue_id":186400807
+        }
+    ],
+    "wof:id":186400807,
+    "wof:lastmodified":1449050502,
+    "wof:name":"American Mower & Saw",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "lawn",
+        "mower"
+    ]
+},
+  "bbox": [-116.80823,47.716664,-116.80823,47.716664],
+  "geometry": {"coordinates":[-116.80823,47.716664],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 169627053,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-116.999626,46.399813,-116.999626,46.399813",
+    "geom:latitude":46.399813,
+    "geom:longitude":-116.999626,
+    "iso:country":"US",
+    "sg:address":"2330 Nez Perce Dr",
+    "sg:city":"Lewiston",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 798 0125",
+    "sg:postcode":"83501",
+    "sg:province":"ID",
+    "sg:tags":[
+        "grocer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85937743,
+        102086039,
+        85837769
+    ],
+    "wof:brand_id":420574345,
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2CRHR0edHLtDPz01Ydfi4p_46.399813_-116.999626@1294099250"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"7542b009306cc6b1839b289ad99d608c",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086039,
+            "locality_id":85937743,
+            "neighbourhood_id":85837769,
+            "region_id":85688657,
+            "venue_id":169627053
+        }
+    ],
+    "wof:id":169627053,
+    "wof:lastmodified":1457208803,
+    "wof:name":"Safeway",
+    "wof:parent_id":85837769,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "grocer"
+    ]
+},
+  "bbox": [
+    -116.999626,
+    46.399813,
+    -116.999626,
+    46.399813
+],
+  "geometry": {"coordinates":[-116.99962600000001,46.399813],"type":"Point"}
+}

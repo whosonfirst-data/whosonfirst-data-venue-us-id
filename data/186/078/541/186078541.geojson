@@ -1,0 +1,65 @@
+{
+  "id": 186078541,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-116.624067,43.706401,-116.624067,43.706401",
+    "geom:latitude":43.706401,
+    "geom:longitude":-116.624067,
+    "iso:country":"US",
+    "sg:address":"18 W Main St",
+    "sg:city":"Middleton",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 585 3235",
+    "sg:postcode":"83644",
+    "sg:province":"ID",
+    "sg:tags":[
+        "dentist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85938013,
+        102085081
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5XclzWAsiYm0k2vRHgt5t0_43.706401_-116.624067@1294099250"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"f290467ab329115be8401f3dbbd4ae59",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085081,
+            "locality_id":85938013,
+            "neighbourhood_id":-1,
+            "region_id":85688657,
+            "venue_id":186078541
+        }
+    ],
+    "wof:id":186078541,
+    "wof:lastmodified":1449052585,
+    "wof:name":"Middleton Dental",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dentist"
+    ]
+},
+  "bbox": [-116.624067,43.706401,-116.624067,43.706401],
+  "geometry": {"coordinates":[-116.624067,43.706401],"type":"Point"}
+}

@@ -1,0 +1,66 @@
+{
+  "id": 185700341,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-116.248223,43.610622,-116.248223,43.610622",
+    "geom:latitude":43.610622,
+    "geom:longitude":-116.248223,
+    "iso:country":"US",
+    "sg:address":"5025 Fairmont St",
+    "sg:city":"Boise",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 375 3927",
+    "sg:postcode":"83706",
+    "sg:province":"ID",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85937923,
+        102086087,
+        85876311
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3llKzH52hEGmCbVasH7AYo_43.610622_-116.248223@1294099250"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"b8e998da50b53b93982c43094fc72fe8",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086087,
+            "locality_id":85937923,
+            "neighbourhood_id":85876311,
+            "region_id":85688657,
+            "venue_id":185700341
+        }
+    ],
+    "wof:id":185700341,
+    "wof:lastmodified":1449008079,
+    "wof:name":"Monte Hess Construction",
+    "wof:parent_id":85876311,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [-116.248223,43.610622,-116.248223,43.610622],
+  "geometry": {"coordinates":[-116.248223,43.610622],"type":"Point"}
+}

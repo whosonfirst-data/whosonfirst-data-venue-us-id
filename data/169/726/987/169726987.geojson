@@ -1,0 +1,71 @@
+{
+  "id": 169726987,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-114.460123,42.549979,-114.460123,42.549979",
+    "geom:latitude":42.549979,
+    "geom:longitude":-114.460123,
+    "iso:country":"US",
+    "sg:address":"128 Blue Lakes Blvd",
+    "sg:city":"Twin Falls",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 734 6425",
+    "sg:postcode":"83301",
+    "sg:province":"ID",
+    "sg:tags":[
+        "transmission"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85937881,
+        102085153
+    ],
+    "wof:brand_id":420574443,
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5A7WIzguIpt0X6IG9SWh9z_42.549979_-114.460123@1294099250"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"511249227d8d4f072b5a93f989ab2216",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085153,
+            "locality_id":85937881,
+            "neighbourhood_id":-1,
+            "region_id":85688657,
+            "venue_id":169726987
+        }
+    ],
+    "wof:id":169726987,
+    "wof:lastmodified":1457208900,
+    "wof:name":"AAMCO Transmissions",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "transmission"
+    ]
+},
+  "bbox": [
+    -114.460123,
+    42.549979,
+    -114.460123,
+    42.549979
+],
+  "geometry": {"coordinates":[-114.460123,42.549979],"type":"Point"}
+}

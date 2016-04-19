@@ -1,0 +1,67 @@
+{
+  "id": 186205031,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-116.780915,47.681809,-116.780915,47.681809",
+    "geom:latitude":47.681809,
+    "geom:longitude":-116.780915,
+    "iso:country":"US",
+    "sg:address":"845 N 4th St",
+    "sg:city":"Coeur D Alene",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 667 8545",
+    "sg:postcode":"83814",
+    "sg:province":"ID",
+    "sg:tags":[
+        "car",
+        "dealer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        102086085,
+        85821457
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1HEZfUx4w1WL8Q7k0IJ7EP_47.681809_-116.780915@1294099250"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"00ae2ae2619992fd239ce0afab7fa030",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086085,
+            "locality_id":-1,
+            "neighbourhood_id":85821457,
+            "region_id":85688657,
+            "venue_id":186205031
+        }
+    ],
+    "wof:id":186205031,
+    "wof:lastmodified":1449051979,
+    "wof:name":"Ponderosa Motors",
+    "wof:parent_id":85821457,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "car",
+        "dealer"
+    ]
+},
+  "bbox": [-116.780915,47.681809,-116.780915,47.681809],
+  "geometry": {"coordinates":[-116.780915,47.681809],"type":"Point"}
+}

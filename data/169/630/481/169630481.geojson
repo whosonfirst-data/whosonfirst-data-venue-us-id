@@ -1,0 +1,69 @@
+{
+  "id": 169630481,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-116.414162,43.619156,-116.414162,43.619156",
+    "geom:latitude":43.619156,
+    "geom:longitude":-116.414162,
+    "iso:country":"US",
+    "sg:address":"1663 W Cherry Ln",
+    "sg:city":"Meridian",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 898 0063",
+    "sg:postcode":"83642",
+    "sg:province":"ID",
+    "sg:tags":[
+        "automobile",
+        "testing",
+        "emission"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85937915,
+        102086087
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7VTPcJfjTuut69l2JvyuVt_43.619156_-116.414162@1294099250"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"dc0a9de2443fcd519891c1815bfb1bb1",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086087,
+            "locality_id":85937915,
+            "neighbourhood_id":-1,
+            "region_id":85688657,
+            "venue_id":169630481
+        }
+    ],
+    "wof:id":169630481,
+    "wof:lastmodified":1449033870,
+    "wof:name":"Buddy's Emission Testing",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automobile",
+        "testing",
+        "emission"
+    ]
+},
+  "bbox": [-116.414162,43.619156,-116.414162,43.619156],
+  "geometry": {"coordinates":[-116.414162,43.619156],"type":"Point"}
+}

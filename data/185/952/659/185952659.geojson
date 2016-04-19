@@ -1,0 +1,76 @@
+{
+  "id": 185952659,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-116.806121,47.715472,-116.806121,47.715472",
+    "geom:latitude":47.715472,
+    "geom:longitude":-116.806121,
+    "iso:country":"US",
+    "sg:address":"1322 W Kathleen Ave",
+    "sg:city":"Coeur D Alene",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 667 7461",
+    "sg:postcode":"83815",
+    "sg:province":"ID",
+    "sg:tags":[
+        "dentist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85938163,
+        102086085,
+        85806325,
+        85821457
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4fErEYEnFHmro0WYtUwYRS_47.715472_-116.806121@1294099250"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"c504e7ab4588b638f406b98a81f51dec",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086085,
+            "locality_id":85938163,
+            "neighbourhood_id":85806325,
+            "region_id":85688657,
+            "venue_id":185952659
+        },
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086085,
+            "locality_id":-1,
+            "neighbourhood_id":85821457,
+            "region_id":85688657,
+            "venue_id":185952659
+        }
+    ],
+    "wof:id":185952659,
+    "wof:lastmodified":1449007752,
+    "wof:name":"Coeur D'Alene Dental Clinic",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dentist"
+    ]
+},
+  "bbox": [-116.806121,47.715472,-116.806121,47.715472],
+  "geometry": {"coordinates":[-116.806121,47.715472],"type":"Point"}
+}

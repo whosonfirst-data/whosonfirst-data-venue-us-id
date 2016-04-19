@@ -1,0 +1,69 @@
+{
+  "id": 185764983,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-116.207704,43.56427,-116.207704,43.56427",
+    "geom:latitude":43.56427,
+    "geom:longitude":-116.207704,
+    "iso:country":"US",
+    "sg:address":"2471 Commerce Ave",
+    "sg:city":"Boise",
+    "sg:classifiers":[
+        {
+            "category":"Airline",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 344 4361",
+    "sg:postcode":"83705",
+    "sg:province":"ID",
+    "sg:tags":[
+        "helicopter",
+        "rental"
+    ],
+    "sg:website":"www.idahohelicopters.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85937923,
+        102086087,
+        85876337
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5KXP8CO577FRx1aUTsguBd_43.564270_-116.207704@1294099250"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"ab918a11bb5b6ac79e536323d6f1cf8f",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086087,
+            "locality_id":85937923,
+            "neighbourhood_id":85876337,
+            "region_id":85688657,
+            "venue_id":185764983
+        }
+    ],
+    "wof:id":185764983,
+    "wof:lastmodified":1449008122,
+    "wof:name":"Idaho Helicopters Inc",
+    "wof:parent_id":85876337,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "helicopter",
+        "rental"
+    ]
+},
+  "bbox": [-116.207704,43.56427,-116.207704,43.56427],
+  "geometry": {"coordinates":[-116.207704,43.56427],"type":"Point"}
+}

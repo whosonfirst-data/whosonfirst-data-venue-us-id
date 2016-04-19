@@ -1,0 +1,76 @@
+{
+  "id": 186005445,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-116.223873,43.619364,-116.223873,43.619364",
+    "geom:latitude":43.619364,
+    "geom:longitude":-116.223873,
+    "iso:country":"US",
+    "sg:address":"277 S 27th St",
+    "sg:city":"Boise",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 336 0300",
+    "sg:postcode":"83702",
+    "sg:province":"ID",
+    "sg:tags":[
+        "muffler",
+        "exhaust",
+        "system"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85937923,
+        102086087,
+        85876301
+    ],
+    "wof:brand_id":420574101,
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3q7a7GE7UsmiXFsEwcLQMP_43.619364_-116.223873@1294099250"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"c0ef7bd3eefe96045c17cd316f91b23d",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086087,
+            "locality_id":85937923,
+            "neighbourhood_id":85876301,
+            "region_id":85688657,
+            "venue_id":186005445
+        }
+    ],
+    "wof:id":186005445,
+    "wof:lastmodified":1457208478,
+    "wof:name":"Midas Auto Svc Experts",
+    "wof:parent_id":85876301,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "muffler",
+        "exhaust",
+        "system"
+    ]
+},
+  "bbox": [
+    -116.223873,
+    43.619364,
+    -116.223873,
+    43.619364
+],
+  "geometry": {"coordinates":[-116.223873,43.619364],"type":"Point"}
+}

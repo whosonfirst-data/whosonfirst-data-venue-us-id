@@ -1,0 +1,86 @@
+{
+  "id": 320550857,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-116.876612,48.635992,-116.876612,48.635992",
+    "geom:latitude":48.635992,
+    "geom:longitude":-116.876612,
+    "iso:country":"US",
+    "sg:address":"3492 Reeder Bay Rd",
+    "sg:city":"Nordman",
+    "sg:classifiers":[
+        {
+            "category":"Travel",
+            "subcategory":"Hotels & Motels",
+            "type":"Entertainment"
+        },
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Event Space",
+            "type":"Services"
+        },
+        {
+            "category":"Travel",
+            "subcategory":"Resort",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 443 2433",
+    "sg:postcode":"83848",
+    "sg:province":"ID",
+    "sg:tags":[
+        "facility",
+        "banquet",
+        "reception",
+        "lodging",
+        "hall"
+    ],
+    "sg:website":"http://www.grandview-priest-lake.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633793,
+        85688657
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5fIW29s70qc08axOi8h0UI_48.635992_-116.876612@1303263095"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"fa10cb9b1cc4b335ad6a386a82860edd",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "locality_id":-1,
+            "neighbourhood_id":-1,
+            "region_id":85688657,
+            "venue_id":320550857
+        }
+    ],
+    "wof:id":320550857,
+    "wof:lastmodified":1449013288,
+    "wof:name":"Grandview Resort",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "facility",
+        "banquet",
+        "reception",
+        "lodging",
+        "hall"
+    ]
+},
+  "bbox": [-116.876612,48.635992,-116.876612,48.635992],
+  "geometry": {"coordinates":[-116.876612,48.635992],"type":"Point"}
+}

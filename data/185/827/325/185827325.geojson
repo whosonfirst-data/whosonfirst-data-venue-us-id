@@ -1,0 +1,65 @@
+{
+  "id": 185827325,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-111.312784,42.317488,-111.312784,42.317488",
+    "geom:latitude":42.317488,
+    "geom:longitude":-111.312784,
+    "iso:country":"US",
+    "sg:address":"1115 Washington St",
+    "sg:city":"Montpelier",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Bakery",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 847 2004",
+    "sg:postcode":"83254",
+    "sg:province":"ID",
+    "sg:tags":[
+        "baker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85937803,
+        102085071
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4ESaUZ49PsuHkIzFioAFhj_42.317488_-111.312784@1294099250"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"e0c27e24bb39f02fd84975c2fb5d29e1",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085071,
+            "locality_id":85937803,
+            "neighbourhood_id":-1,
+            "region_id":85688657,
+            "venue_id":185827325
+        }
+    ],
+    "wof:id":185827325,
+    "wof:lastmodified":1449007166,
+    "wof:name":"Wonder Bread & Hostess Cakes",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "baker"
+    ]
+},
+  "bbox": [-111.312784,42.317488,-111.312784,42.317488],
+  "geometry": {"coordinates":[-111.312784,42.317488],"type":"Point"}
+}

@@ -1,0 +1,69 @@
+{
+  "id": 169720399,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-116.315089,43.633861,-116.315089,43.633861",
+    "geom:latitude":43.633861,
+    "geom:longitude":-116.315089,
+    "iso:country":"US",
+    "sg:address":"10787 Ustick Rd",
+    "sg:city":"Boise",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 378 8011",
+    "sg:postcode":"83713",
+    "sg:province":"ID",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "sg:website":"www.primaryhealth.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85937923,
+        102086087,
+        85876357
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6rqI4A0vX3Po9OIx048oGK_43.633861_-116.315089@1294099250"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"08986c880e7bd1da87948034a009547c",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086087,
+            "locality_id":85937923,
+            "neighbourhood_id":85876357,
+            "region_id":85688657,
+            "venue_id":169720399
+        }
+    ],
+    "wof:id":169720399,
+    "wof:lastmodified":1449033480,
+    "wof:name":"Primary Health West Boise",
+    "wof:parent_id":85876357,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [-116.315089,43.633861,-116.315089,43.633861],
+  "geometry": {"coordinates":[-116.315089,43.633861],"type":"Point"}
+}

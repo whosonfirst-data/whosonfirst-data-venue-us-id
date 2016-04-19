@@ -1,0 +1,68 @@
+{
+  "id": 185712811,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-116.268534,43.643269,-116.268534,43.643269",
+    "geom:latitude":43.643269,
+    "geom:longitude":-116.268534,
+    "iso:country":"US",
+    "sg:address":"5102 Chinden Blvd",
+    "sg:city":"Boise",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 672 1650",
+    "sg:postcode":"83714",
+    "sg:province":"ID",
+    "sg:tags":[
+        "renting",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85937919,
+        102086087,
+        85876349
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2vmg8Pk3PRklBP8unlfvec_43.643269_-116.268534@1294099250"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"9b582691ab1c245d0403306fd28d622a",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086087,
+            "locality_id":85937919,
+            "neighbourhood_id":85876349,
+            "region_id":85688657,
+            "venue_id":185712811
+        }
+    ],
+    "wof:id":185712811,
+    "wof:lastmodified":1449007300,
+    "wof:name":"Enterprise Rent-A-Car",
+    "wof:parent_id":85876349,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "renting",
+        "automobile"
+    ]
+},
+  "bbox": [-116.268534,43.643269,-116.268534,43.643269],
+  "geometry": {"coordinates":[-116.268534,43.643269],"type":"Point"}
+}

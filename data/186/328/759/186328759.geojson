@@ -1,0 +1,68 @@
+{
+  "id": 186328759,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-116.321607,43.639106,-116.321607,43.639106",
+    "geom:latitude":43.639106,
+    "geom:longitude":-116.321607,
+    "iso:country":"US",
+    "sg:address":"11312 Musket St",
+    "sg:city":"Boise",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 375 2102",
+    "sg:postcode":"83713",
+    "sg:province":"ID",
+    "sg:tags":[
+        "heating",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85937923,
+        102086087,
+        85876357
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0YazoQeSQNggJvmTJCxrkE_43.639106_-116.321607@1294099250"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"7917ac5e6ac419a8c2722ca9956e35db",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086087,
+            "locality_id":85937923,
+            "neighbourhood_id":85876357,
+            "region_id":85688657,
+            "venue_id":186328759
+        }
+    ],
+    "wof:id":186328759,
+    "wof:lastmodified":1449051949,
+    "wof:name":"Everett Heating & Air Cond",
+    "wof:parent_id":85876357,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "heating",
+        "contractor"
+    ]
+},
+  "bbox": [-116.321607,43.639106,-116.321607,43.639106],
+  "geometry": {"coordinates":[-116.321607,43.639106],"type":"Point"}
+}

@@ -1,0 +1,65 @@
+{
+  "id": 185908615,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-116.353693,43.561299,-116.353693,43.561299",
+    "geom:latitude":43.561299,
+    "geom:longitude":-116.353693,
+    "iso:country":"US",
+    "sg:address":"3290 E Amity Rd",
+    "sg:city":"Meridian",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Cleaning & Sanitation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 888 4696",
+    "sg:postcode":"83642",
+    "sg:province":"ID",
+    "sg:tags":[
+        "maintenance"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        102086087,
+        85876331
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0cC7jWDPZljLG6049AILlq_43.561299_-116.353693@1294099250"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"cb2c9b581eb6d32c2cfc25331ee270d8",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086087,
+            "locality_id":-1,
+            "neighbourhood_id":85876331,
+            "region_id":85688657,
+            "venue_id":185908615
+        }
+    ],
+    "wof:id":185908615,
+    "wof:lastmodified":1449007516,
+    "wof:name":"Jo Meyer",
+    "wof:parent_id":85876331,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "maintenance"
+    ]
+},
+  "bbox": [-116.353693,43.561299,-116.353693,43.561299],
+  "geometry": {"coordinates":[-116.353693,43.561299],"type":"Point"}
+}

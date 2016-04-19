@@ -1,0 +1,79 @@
+{
+  "id": 186230013,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-116.801022,47.700705,-116.801022,47.700705",
+    "geom:latitude":47.700705,
+    "geom:longitude":-116.801022,
+    "iso:country":"US",
+    "sg:address":"1112 W Appleway Ave",
+    "sg:city":"Coeur D Alene",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Machinery & Supplies",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 765 2315",
+    "sg:postcode":"83814",
+    "sg:province":"ID",
+    "sg:tags":[
+        "farm",
+        "equipment"
+    ],
+    "sg:website":"www.cdatractor.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85938163,
+        102086085,
+        85806325,
+        85821457
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_29HulRWdaRk8J1KuGDU5ge_47.700705_-116.801022@1294099250"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"b5883c60bca829515e56413d52c097c7",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086085,
+            "locality_id":85938163,
+            "neighbourhood_id":85806325,
+            "region_id":85688657,
+            "venue_id":186230013
+        },
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086085,
+            "locality_id":-1,
+            "neighbourhood_id":85821457,
+            "region_id":85688657,
+            "venue_id":186230013
+        }
+    ],
+    "wof:id":186230013,
+    "wof:lastmodified":1449052342,
+    "wof:name":"Coeur D'Alene Tractor Co",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "farm",
+        "equipment"
+    ]
+},
+  "bbox": [-116.801022,47.700705,-116.801022,47.700705],
+  "geometry": {"coordinates":[-116.801022,47.700705],"type":"Point"}
+}

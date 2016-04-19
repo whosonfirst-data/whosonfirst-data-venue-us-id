@@ -1,0 +1,68 @@
+{
+  "id": 186159111,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-116.509546,43.576042,-116.509546,43.576042",
+    "geom:latitude":43.576042,
+    "geom:longitude":-116.509546,
+    "iso:country":"US",
+    "sg:address":"5016 E Powerline Rd",
+    "sg:city":"Nampa",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 465 0990",
+    "sg:postcode":"83687",
+    "sg:province":"ID",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85938009,
+        102085081,
+        85827787
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6Kjg8MjI5K78eNki3O137h_43.576042_-116.509546@1294099250"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"feb98e873d8c7328021737e696722c96",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085081,
+            "locality_id":85938009,
+            "neighbourhood_id":85827787,
+            "region_id":85688657,
+            "venue_id":186159111
+        }
+    ],
+    "wof:id":186159111,
+    "wof:lastmodified":1449050591,
+    "wof:name":"Final Round Performance",
+    "wof:parent_id":85827787,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [-116.509546,43.576042,-116.509546,43.576042],
+  "geometry": {"coordinates":[-116.509546,43.576042],"type":"Point"}
+}

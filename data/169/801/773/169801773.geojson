@@ -1,0 +1,65 @@
+{
+  "id": 169801773,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-116.181401,43.584576,-116.181401,43.584576",
+    "geom:latitude":43.584576,
+    "geom:longitude":-116.181401,
+    "iso:country":"US",
+    "sg:address":"150 E Boise Ave",
+    "sg:city":"Boise",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 385 7500",
+    "sg:postcode":"83706",
+    "sg:province":"ID",
+    "sg:tags":[
+        "dentist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85937923,
+        102086087
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6hUjpcamlcUhFWxITZOPxg_43.584576_-116.181401@1294099250"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"f3ef26f899e616704092b915eab69acb",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086087,
+            "locality_id":85937923,
+            "neighbourhood_id":-1,
+            "region_id":85688657,
+            "venue_id":169801773
+        }
+    ],
+    "wof:id":169801773,
+    "wof:lastmodified":1449035377,
+    "wof:name":"Pennsylvania Dental",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dentist"
+    ]
+},
+  "bbox": [-116.181401,43.584576,-116.181401,43.584576],
+  "geometry": {"coordinates":[-116.181401,43.584576],"type":"Point"}
+}

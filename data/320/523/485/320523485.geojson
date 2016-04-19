@@ -1,0 +1,93 @@
+{
+  "id": 320523485,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-117.006331,46.400962,-117.006331,46.400962",
+    "geom:latitude":46.400962,
+    "geom:longitude":-117.006331,
+    "iso:country":"US",
+    "sg:address":"1808 19th Ave",
+    "sg:city":"Lewiston",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Mobile Phone",
+            "type":"Services"
+        },
+        {
+            "category":"Shopping",
+            "subcategory":"Mobile Phones",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Internet Cafe",
+            "subcategory":"None",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 799 0906",
+    "sg:postcode":"83501",
+    "sg:province":"ID",
+    "sg:tags":[
+        "supply",
+        "telephone",
+        "wireless",
+        "equipment",
+        "cellular",
+        "provider"
+    ],
+    "sg:website":"http://www.att.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85937743,
+        102086039,
+        85837769
+    ],
+    "wof:brand_id":420575297,
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2cPfHraxvQ0cH2zGCEFo1c_46.400962_-117.006331@1303263095"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"db6fef952a6e70b60392ec6854d9acf0",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086039,
+            "locality_id":85937743,
+            "neighbourhood_id":85837769,
+            "region_id":85688657,
+            "venue_id":320523485
+        }
+    ],
+    "wof:id":320523485,
+    "wof:lastmodified":1457209511,
+    "wof:name":"AT&T Wireless",
+    "wof:parent_id":85837769,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "supply",
+        "telephone",
+        "wireless",
+        "equipment",
+        "cellular",
+        "provider"
+    ]
+},
+  "bbox": [
+    -117.006331,
+    46.400962,
+    -117.006331,
+    46.400962
+],
+  "geometry": {"coordinates":[-117.006331,46.400962],"type":"Point"}
+}

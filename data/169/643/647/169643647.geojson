@@ -1,0 +1,68 @@
+{
+  "id": 169643647,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-116.223679,43.59187,-116.223679,43.59187",
+    "geom:latitude":43.59187,
+    "geom:longitude":-116.223679,
+    "iso:country":"US",
+    "sg:address":"1525 S Owyhee St",
+    "sg:city":"Boise",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 367 6910",
+    "sg:postcode":"83705",
+    "sg:province":"ID",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85937923,
+        102086087,
+        85825393
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5VeVEMG52oOlQsKWzl3YqG_43.591870_-116.223679@1294099250"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"7e366928267833ff9baddd9907d6610d",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086087,
+            "locality_id":85937923,
+            "neighbourhood_id":85825393,
+            "region_id":85688657,
+            "venue_id":169643647
+        }
+    ],
+    "wof:id":169643647,
+    "wof:lastmodified":1449035523,
+    "wof:name":"Saint Alphonsus Medical Group",
+    "wof:parent_id":85825393,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [-116.223679,43.59187,-116.223679,43.59187],
+  "geometry": {"coordinates":[-116.223679,43.59187],"type":"Point"}
+}

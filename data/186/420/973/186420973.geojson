@@ -1,0 +1,66 @@
+{
+  "id": 186420973,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-116.596416,43.587145,-116.596416,43.587145",
+    "geom:latitude":43.587145,
+    "geom:longitude":-116.596416,
+    "iso:country":"US",
+    "sg:address":"1023 Winther Blvd",
+    "sg:city":"Nampa",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 467 3478",
+    "sg:postcode":"83651",
+    "sg:province":"ID",
+    "sg:tags":[
+        "installation"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85938009,
+        102085081,
+        85827787
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_60iu04U8E96GOCT6XBtxfC_43.587145_-116.596416@1294099250"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"832d6cf123e97e5ed893d4cae4b51db2",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085081,
+            "locality_id":85938009,
+            "neighbourhood_id":85827787,
+            "region_id":85688657,
+            "venue_id":186420973
+        }
+    ],
+    "wof:id":186420973,
+    "wof:lastmodified":1449051665,
+    "wof:name":"Paul Davenport Installation",
+    "wof:parent_id":85827787,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "installation"
+    ]
+},
+  "bbox": [-116.596416,43.587145,-116.596416,43.587145],
+  "geometry": {"coordinates":[-116.596416,43.587145],"type":"Point"}
+}

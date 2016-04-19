@@ -1,0 +1,75 @@
+{
+  "id": 186343901,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-116.937769,46.449164,-116.937769,46.449164",
+    "geom:latitude":46.449164,
+    "geom:longitude":-116.937769,
+    "iso:country":"US",
+    "sg:address":"16052 Eaton Rd",
+    "sg:city":"Lewiston",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        },
+        {
+            "category":"Home & Garden",
+            "subcategory":"Furniture",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 746 6009",
+    "sg:postcode":"83501",
+    "sg:province":"ID",
+    "sg:tags":[
+        "cabinet",
+        "carpentry",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85937743,
+        102086039,
+        85837769
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3seyDAqwtU1YfNYaTGNYDu_46.449164_-116.937769@1294099250"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"e68a79625366ee0276405bd32045d3b9",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086039,
+            "locality_id":85937743,
+            "neighbourhood_id":85837769,
+            "region_id":85688657,
+            "venue_id":186343901
+        }
+    ],
+    "wof:id":186343901,
+    "wof:lastmodified":1449052261,
+    "wof:name":"Pete Hofer Cabinet Maker",
+    "wof:parent_id":85837769,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cabinet",
+        "carpentry",
+        "contractor"
+    ]
+},
+  "bbox": [-116.937769,46.449164,-116.937769,46.449164],
+  "geometry": {"coordinates":[-116.937769,46.449164],"type":"Point"}
+}

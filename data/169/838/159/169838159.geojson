@@ -1,0 +1,66 @@
+{
+  "id": 169838159,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-116.257886,43.608972,-116.257886,43.608972",
+    "geom:latitude":43.608972,
+    "geom:longitude":-116.257886,
+    "iso:country":"US",
+    "sg:address":"6087 Clinton St",
+    "sg:city":"Boise",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Police Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 373 5400",
+    "sg:postcode":"83704",
+    "sg:province":"ID",
+    "sg:tags":[
+        "department"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85937923,
+        102086087,
+        85876311
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0Wefztdx2cHRBPxtSnxEpM_43.608972_-116.257886@1294099250"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"7ee67f6d57f64e127b2d62b4a9fedc7a",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086087,
+            "locality_id":85937923,
+            "neighbourhood_id":85876311,
+            "region_id":85688657,
+            "venue_id":169838159
+        }
+    ],
+    "wof:id":169838159,
+    "wof:lastmodified":1449033081,
+    "wof:name":"Boise Police-Criminal Invstgtn",
+    "wof:parent_id":85876311,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "department"
+    ]
+},
+  "bbox": [-116.257886,43.608972,-116.257886,43.608972],
+  "geometry": {"coordinates":[-116.257886,43.608972],"type":"Point"}
+}

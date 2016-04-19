@@ -1,0 +1,78 @@
+{
+  "id": 185942983,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-116.792971,47.711622,-116.792971,47.711622",
+    "geom:latitude":47.711622,
+    "geom:longitude":-116.792971,
+    "iso:country":"US",
+    "sg:address":"484 W Bosanko Ave",
+    "sg:city":"Coeur D Alene",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 765 1567",
+    "sg:postcode":"83815",
+    "sg:province":"ID",
+    "sg:tags":[
+        "automobile",
+        "lubrication"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85938163,
+        102086085,
+        85806325,
+        85821457
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1krMecEF8gMsTeCl0DBlNh_47.711622_-116.792971@1294099250"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"ad9ba5a4a9997119540a2c44910c077a",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086085,
+            "locality_id":85938163,
+            "neighbourhood_id":85806325,
+            "region_id":85688657,
+            "venue_id":185942983
+        },
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086085,
+            "locality_id":-1,
+            "neighbourhood_id":85821457,
+            "region_id":85688657,
+            "venue_id":185942983
+        }
+    ],
+    "wof:id":185942983,
+    "wof:lastmodified":1449007356,
+    "wof:name":"Fastlane Inc",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automobile",
+        "lubrication"
+    ]
+},
+  "bbox": [-116.792971,47.711622,-116.792971,47.711622],
+  "geometry": {"coordinates":[-116.792971,47.711622],"type":"Point"}
+}

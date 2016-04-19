@@ -1,0 +1,66 @@
+{
+  "id": 185779801,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-116.256901,43.562909,-116.256901,43.562909",
+    "geom:latitude":43.562909,
+    "geom:longitude":-116.256901,
+    "iso:country":"US",
+    "sg:address":"4550 Henry St",
+    "sg:city":"Boise",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Groceries",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 343 1782",
+    "sg:postcode":"83709",
+    "sg:province":"ID",
+    "sg:tags":[
+        "beverage"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85937923,
+        102086087,
+        85825393
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2gUvBBG0Qr7y9Dz0lZjd9Q_43.562909_-116.256901@1294099250"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"91b2415b3ae409c3ee496bc8814213bc",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086087,
+            "locality_id":85937923,
+            "neighbourhood_id":85825393,
+            "region_id":85688657,
+            "venue_id":185779801
+        }
+    ],
+    "wof:id":185779801,
+    "wof:lastmodified":1449006857,
+    "wof:name":"Treasure Valley Beverages Inc",
+    "wof:parent_id":85825393,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "beverage"
+    ]
+},
+  "bbox": [-116.256901,43.562909,-116.256901,43.562909],
+  "geometry": {"coordinates":[-116.256901,43.562909],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 185915621,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-116.274134,43.618486,-116.274134,43.618486",
+    "geom:latitude":43.618486,
+    "geom:longitude":-116.274134,
+    "iso:country":"US",
+    "sg:address":"1520 N Cole Rd",
+    "sg:city":"Boise",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 375 2542",
+    "sg:postcode":"83704",
+    "sg:province":"ID",
+    "sg:tags":[
+        "grocer"
+    ],
+    "sg:website":"www.albertsons.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85937923,
+        102086087,
+        85841319
+    ],
+    "wof:brand_id":420574415,
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5r1ln152FZ62TMUssWKBpY_43.618486_-116.274134@1294099250"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"b521887747c4db4e2d1c43fbeee4d8c5",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086087,
+            "locality_id":85937923,
+            "neighbourhood_id":85841319,
+            "region_id":85688657,
+            "venue_id":185915621
+        }
+    ],
+    "wof:id":185915621,
+    "wof:lastmodified":1457208871,
+    "wof:name":"Albertsons",
+    "wof:parent_id":85841319,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "grocer"
+    ]
+},
+  "bbox": [
+    -116.274134,
+    43.618486,
+    -116.274134,
+    43.618486
+],
+  "geometry": {"coordinates":[-116.274134,43.618486],"type":"Point"}
+}

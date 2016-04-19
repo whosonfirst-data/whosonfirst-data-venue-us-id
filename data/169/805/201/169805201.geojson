@@ -1,0 +1,65 @@
+{
+  "id": 169805201,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-116.766898,47.700826,-116.766898,47.700826",
+    "geom:latitude":47.700826,
+    "geom:longitude":-116.766898,
+    "iso:country":"US",
+    "sg:address":"1427 E Best Ave",
+    "sg:city":"Coeur D Alene",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 676 8885",
+    "sg:postcode":"83814",
+    "sg:province":"ID",
+    "sg:tags":[
+        "grocer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        102086085,
+        85821457
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7GgO9bth0UWpOVHncPjuQK_47.700826_-116.766898@1294099250"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"ddaa6388a34bfe9ee0d024ded72fd47d",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086085,
+            "locality_id":-1,
+            "neighbourhood_id":85821457,
+            "region_id":85688657,
+            "venue_id":169805201
+        }
+    ],
+    "wof:id":169805201,
+    "wof:lastmodified":1449033789,
+    "wof:name":"Zip Trip Inc",
+    "wof:parent_id":85821457,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "grocer"
+    ]
+},
+  "bbox": [-116.766898,47.700826,-116.766898,47.700826],
+  "geometry": {"coordinates":[-116.766898,47.700826],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 169606209,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-116.197632,43.56234,-116.197632,43.56234",
+    "geom:latitude":43.56234,
+    "geom:longitude":-116.197632,
+    "iso:country":"US",
+    "sg:address":"939 Boeing St",
+    "sg:city":"Boise",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Electronics",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 331 0156",
+    "sg:postcode":"83705",
+    "sg:province":"ID",
+    "sg:tags":[
+        "semiconductor",
+        "devices"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85937923,
+        102086087,
+        85876337
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_20ACoqMsZEwf48BOUlbJrB_43.562340_-116.197632@1294099250"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"e719ab3c080579263f02709aa74a7b75",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086087,
+            "locality_id":85937923,
+            "neighbourhood_id":85876337,
+            "region_id":85688657,
+            "venue_id":169606209
+        }
+    ],
+    "wof:id":169606209,
+    "wof:lastmodified":1449033203,
+    "wof:name":"Micron Technology",
+    "wof:parent_id":85876337,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "semiconductor",
+        "devices"
+    ]
+},
+  "bbox": [-116.197632,43.56234,-116.197632,43.56234],
+  "geometry": {"coordinates":[-116.197632,43.56234],"type":"Point"}
+}

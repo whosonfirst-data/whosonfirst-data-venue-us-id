@@ -1,0 +1,68 @@
+{
+  "id": 185865433,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-116.216048,43.616726,-116.216048,43.616726",
+    "geom:latitude":43.616726,
+    "geom:longitude":-116.216048,
+    "iso:country":"US",
+    "sg:address":"1425 River St",
+    "sg:city":"Boise",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Clinic",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 342 1932",
+    "sg:postcode":"83702",
+    "sg:province":"ID",
+    "sg:tags":[
+        "surgical",
+        "center"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85937923,
+        102086087,
+        85876355
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7EPrtKchxDomxEwwe0o5mT_43.616726_-116.216048@1294099250"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"9c85174ec8b0c313aa770563bb2ee134",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086087,
+            "locality_id":85937923,
+            "neighbourhood_id":85876355,
+            "region_id":85688657,
+            "venue_id":185865433
+        }
+    ],
+    "wof:id":185865433,
+    "wof:lastmodified":1449007825,
+    "wof:name":"Orthopedic Surgery Ctr LLC",
+    "wof:parent_id":85876355,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "surgical",
+        "center"
+    ]
+},
+  "bbox": [-116.216048,43.616726,-116.216048,43.616726],
+  "geometry": {"coordinates":[-116.216048,43.616726],"type":"Point"}
+}

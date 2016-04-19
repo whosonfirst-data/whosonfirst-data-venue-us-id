@@ -1,0 +1,67 @@
+{
+  "id": 169826275,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-112.034541,43.487584,-112.034541,43.487584",
+    "geom:latitude":43.487584,
+    "geom:longitude":-112.034541,
+    "iso:country":"US",
+    "sg:address":"500 Walnut St",
+    "sg:city":"Idaho Falls",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 522 7569",
+    "sg:postcode":"83402",
+    "sg:province":"ID",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85937963,
+        102085163
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3GprZwo4P5qvrgj9GQNTyo_43.487584_-112.034541@1294099250"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"24646c7c9bc830b6c1457812392bde9b",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085163,
+            "locality_id":85937963,
+            "neighbourhood_id":-1,
+            "region_id":85688657,
+            "venue_id":169826275
+        }
+    ],
+    "wof:id":169826275,
+    "wof:lastmodified":1449035071,
+    "wof:name":"Sam Miyatake MD",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [-112.034541,43.487584,-112.034541,43.487584],
+  "geometry": {"coordinates":[-112.034541,43.487584],"type":"Point"}
+}

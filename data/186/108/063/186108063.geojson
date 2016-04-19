@@ -1,0 +1,68 @@
+{
+  "id": 186108063,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-116.195049,43.617006,-116.195049,43.617006",
+    "geom:latitude":43.617006,
+    "geom:longitude":-116.195049,
+    "iso:country":"US",
+    "sg:address":"502 N 4th St",
+    "sg:city":"Boise",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 332 1900",
+    "sg:postcode":"83702",
+    "sg:province":"ID",
+    "sg:tags":[
+        "road",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85937923,
+        102086087,
+        85876341
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5pg5JeWpFfmNFNgheZNcyY_43.617006_-116.195049@1294099250"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"9b4f66b8efb95641a3b03e3c02a6b4de",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086087,
+            "locality_id":85937923,
+            "neighbourhood_id":85876341,
+            "region_id":85688657,
+            "venue_id":186108063
+        }
+    ],
+    "wof:id":186108063,
+    "wof:lastmodified":1449050308,
+    "wof:name":"Public Works Div",
+    "wof:parent_id":85876341,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "road",
+        "contractor"
+    ]
+},
+  "bbox": [-116.195049,43.617006,-116.195049,43.617006],
+  "geometry": {"coordinates":[-116.195049,43.617006],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 186339169,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-116.384423,43.606489,-116.384423,43.606489",
+    "geom:latitude":43.606489,
+    "geom:longitude":-116.384423,
+    "iso:country":"US",
+    "sg:address":"655 E King St",
+    "sg:city":"Meridian",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 888 7654",
+    "sg:postcode":"83642",
+    "sg:province":"ID",
+    "sg:tags":[
+        "plumbing",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85937915,
+        102086087,
+        85805083
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_01k9Ujl6SE8atNLO69ajqu_43.606489_-116.384423@1294099250"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"2e999af7b93e3fa7b93dab5cba27a208",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086087,
+            "locality_id":85937915,
+            "neighbourhood_id":85805083,
+            "region_id":85688657,
+            "venue_id":186339169
+        }
+    ],
+    "wof:id":186339169,
+    "wof:lastmodified":1449051573,
+    "wof:name":"Mountian View Plumbing Inc",
+    "wof:parent_id":85805083,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "plumbing",
+        "contractor"
+    ]
+},
+  "bbox": [-116.384423,43.606489,-116.384423,43.606489],
+  "geometry": {"coordinates":[-116.384423,43.606489],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 186132097,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-116.543393,43.529967,-116.543393,43.529967",
+    "geom:latitude":43.529967,
+    "geom:longitude":-116.543393,
+    "iso:country":"US",
+    "sg:address":"4060 Apache Dr",
+    "sg:city":"Nampa",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Laundry & Dry Cleaning",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 465 1901",
+    "sg:postcode":"83686",
+    "sg:province":"ID",
+    "sg:tags":[
+        "building",
+        "maintenance"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85938009,
+        102085081,
+        85827787
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3fvDsr6h8qv1BTz0FWO5Oa_43.529967_-116.543393@1294099250"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"ee79c5260ce6dac6498f9a99b9994958",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085081,
+            "locality_id":85938009,
+            "neighbourhood_id":85827787,
+            "region_id":85688657,
+            "venue_id":186132097
+        }
+    ],
+    "wof:id":186132097,
+    "wof:lastmodified":1449051683,
+    "wof:name":"Clean Sweep Cleaning",
+    "wof:parent_id":85827787,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "building",
+        "maintenance"
+    ]
+},
+  "bbox": [-116.543393,43.529967,-116.543393,43.529967],
+  "geometry": {"coordinates":[-116.543393,43.529967],"type":"Point"}
+}

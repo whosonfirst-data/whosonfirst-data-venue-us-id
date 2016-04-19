@@ -1,0 +1,67 @@
+{
+  "id": 169711167,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-116.829732,47.724656,-116.829732,47.724656",
+    "geom:latitude":47.724656,
+    "geom:longitude":-116.829732,
+    "iso:country":"US",
+    "sg:address":"5850 N Atlas Rd",
+    "sg:city":"Coeur D Alene",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 765 8998",
+    "sg:postcode":"83815",
+    "sg:province":"ID",
+    "sg:tags":[
+        "commercial",
+        "storage"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        102086085,
+        85821457
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5eIIkFLhwCC1ZjkhIwytqe_47.724656_-116.829732@1294099250"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"1120762f169b0217f6e0d507cb289319",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086085,
+            "locality_id":-1,
+            "neighbourhood_id":85821457,
+            "region_id":85688657,
+            "venue_id":169711167
+        }
+    ],
+    "wof:id":169711167,
+    "wof:lastmodified":1449035355,
+    "wof:name":"Coeur D Alene Place Self Stge",
+    "wof:parent_id":85821457,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "commercial",
+        "storage"
+    ]
+},
+  "bbox": [-116.829732,47.724656,-116.829732,47.724656],
+  "geometry": {"coordinates":[-116.829732,47.724656],"type":"Point"}
+}

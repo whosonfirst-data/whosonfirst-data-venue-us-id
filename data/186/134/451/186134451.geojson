@@ -1,0 +1,68 @@
+{
+  "id": 186134451,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-116.285705,43.626674,-116.285705,43.626674",
+    "geom:latitude":43.626674,
+    "geom:longitude":-116.285705,
+    "iso:country":"US",
+    "sg:address":"8312 Northview St",
+    "sg:city":"Boise",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 322 5393",
+    "sg:postcode":"83704",
+    "sg:province":"ID",
+    "sg:tags":[
+        "home",
+        "builder"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85937923,
+        102086087,
+        85841319
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6JYiGCZz27p4lI0xskKBiH_43.626674_-116.285705@1294099250"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"ad62c8c19526f78c37b4c7196ae2179a",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086087,
+            "locality_id":85937923,
+            "neighbourhood_id":85841319,
+            "region_id":85688657,
+            "venue_id":186134451
+        }
+    ],
+    "wof:id":186134451,
+    "wof:lastmodified":1449052884,
+    "wof:name":"Merit Homes Inc",
+    "wof:parent_id":85841319,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "home",
+        "builder"
+    ]
+},
+  "bbox": [-116.285705,43.626674,-116.285705,43.626674],
+  "geometry": {"coordinates":[-116.285705,43.626674],"type":"Point"}
+}

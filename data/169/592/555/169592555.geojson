@@ -1,0 +1,70 @@
+{
+  "id": 169592555,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-116.262684,43.582611,-116.262684,43.582611",
+    "geom:latitude":43.582611,
+    "geom:longitude":-116.262684,
+    "iso:country":"US",
+    "sg:address":"6400 Targee St",
+    "sg:city":"Boise",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 336 1151",
+    "sg:postcode":"83709",
+    "sg:province":"ID",
+    "sg:tags":[
+        "renting",
+        "truck",
+        "leasing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85937923,
+        102086087,
+        85825393
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2GOGdAaMyTysV6xb8qibIv_43.582611_-116.262684@1294099250"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"c40918c831b2e91d80fac2d4a6c7c843",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086087,
+            "locality_id":85937923,
+            "neighbourhood_id":85825393,
+            "region_id":85688657,
+            "venue_id":169592555
+        }
+    ],
+    "wof:id":169592555,
+    "wof:lastmodified":1449034584,
+    "wof:name":"Green's Truck Trailer Sales",
+    "wof:parent_id":85825393,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "renting",
+        "truck",
+        "leasing"
+    ]
+},
+  "bbox": [-116.262684,43.582611,-116.262684,43.582611],
+  "geometry": {"coordinates":[-116.262684,43.582611],"type":"Point"}
+}

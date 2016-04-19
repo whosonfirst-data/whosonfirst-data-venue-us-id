@@ -1,0 +1,68 @@
+{
+  "id": 186492237,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-116.122563,47.53495,-116.122563,47.53495",
+    "geom:latitude":47.53495,
+    "geom:longitude":-116.122563,
+    "iso:country":"US",
+    "sg:address":"303 S Main St",
+    "sg:city":"Kellogg",
+    "sg:classifiers":[
+        {
+            "category":"Recreation",
+            "subcategory":"",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 786 7054",
+    "sg:postcode":"83837",
+    "sg:province":"ID",
+    "sg:tags":[
+        "parlor",
+        "billiard"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85937825,
+        102086103,
+        85849049
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5vjsFxzJIFX8uKGP9007Pi_47.534950_-116.122563@1294099250"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"0f93f5ad39bd03490b8a670e1dbc3ac0",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086103,
+            "locality_id":85937825,
+            "neighbourhood_id":85849049,
+            "region_id":85688657,
+            "venue_id":186492237
+        }
+    ],
+    "wof:id":186492237,
+    "wof:lastmodified":1449050248,
+    "wof:name":"Dick & Floyd's Liberty Bill",
+    "wof:parent_id":85849049,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "parlor",
+        "billiard"
+    ]
+},
+  "bbox": [-116.122563,47.53495,-116.122563,47.53495],
+  "geometry": {"coordinates":[-116.122563,47.53495],"type":"Point"}
+}

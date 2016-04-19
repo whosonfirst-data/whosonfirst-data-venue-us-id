@@ -1,0 +1,68 @@
+{
+  "id": 185962633,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-116.240779,43.611532,-116.240779,43.611532",
+    "geom:latitude":43.611532,
+    "geom:longitude":-116.240779,
+    "iso:country":"US",
+    "sg:address":"4619 Emerald St",
+    "sg:city":"Boise",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 344 5929",
+    "sg:postcode":"83706",
+    "sg:province":"ID",
+    "sg:tags":[
+        "loan",
+        "real estate"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85937923,
+        102086087,
+        85876311
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4wWlFqJhJwsUcJGr6o8W1F_43.611532_-116.240779@1294099250"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"de7bf3aca873f7c33050157c88122ddc",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086087,
+            "locality_id":85937923,
+            "neighbourhood_id":85876311,
+            "region_id":85688657,
+            "venue_id":185962633
+        }
+    ],
+    "wof:id":185962633,
+    "wof:lastmodified":1449007563,
+    "wof:name":"M & T Mortgage Corp",
+    "wof:parent_id":85876311,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "loan",
+        "real estate"
+    ]
+},
+  "bbox": [-116.240779,43.611532,-116.240779,43.611532],
+  "geometry": {"coordinates":[-116.240779,43.611532],"type":"Point"}
+}

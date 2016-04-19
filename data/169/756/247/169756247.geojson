@@ -1,0 +1,70 @@
+{
+  "id": 169756247,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-116.593758,43.583135,-116.593758,43.583135",
+    "geom:latitude":43.583135,
+    "geom:longitude":-116.593758,
+    "iso:country":"US",
+    "sg:address":"1112 Smith Ave",
+    "sg:city":"Nampa",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 463 0635",
+    "sg:postcode":"83651",
+    "sg:province":"ID",
+    "sg:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85938009,
+        102085081,
+        85827787
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3kUtEYQ7XBkZaAVlht4cJM_43.583135_-116.593758@1294099250"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"52eeede3255e6f00c0eb90095365ee76",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085081,
+            "locality_id":85938009,
+            "neighbourhood_id":85827787,
+            "region_id":85688657,
+            "venue_id":169756247
+        }
+    ],
+    "wof:id":169756247,
+    "wof:lastmodified":1449034664,
+    "wof:name":"Ace Delivery Inc",
+    "wof:parent_id":85827787,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ]
+},
+  "bbox": [-116.593758,43.583135,-116.593758,43.583135],
+  "geometry": {"coordinates":[-116.593758,43.583135],"type":"Point"}
+}

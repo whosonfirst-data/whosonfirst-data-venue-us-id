@@ -1,0 +1,67 @@
+{
+  "id": 185883529,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-116.576913,47.633828,-116.576913,47.633828",
+    "geom:latitude":47.633828,
+    "geom:longitude":-116.576913,
+    "iso:country":"US",
+    "sg:address":"15450 E Alder Creek Rd",
+    "sg:city":"Coeur D Alene",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Tools & Machinery",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 765 8449",
+    "sg:postcode":"83814",
+    "sg:province":"ID",
+    "sg:tags":[
+        "machine",
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        102086085,
+        85821457
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5q2XHKp0aHgBQI8n2DUG5O_47.633828_-116.576913@1294099250"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"1087cf720ff8409dffaf4ce993d7152d",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086085,
+            "locality_id":-1,
+            "neighbourhood_id":85821457,
+            "region_id":85688657,
+            "venue_id":185883529
+        }
+    ],
+    "wof:id":185883529,
+    "wof:lastmodified":1449007849,
+    "wof:name":"Alder Creek Machining",
+    "wof:parent_id":85821457,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "machine",
+        "shop"
+    ]
+},
+  "bbox": [-116.576913,47.633828,-116.576913,47.633828],
+  "geometry": {"coordinates":[-116.576913,47.633828],"type":"Point"}
+}

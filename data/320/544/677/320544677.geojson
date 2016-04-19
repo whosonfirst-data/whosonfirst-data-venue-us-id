@@ -1,0 +1,85 @@
+{
+  "id": 320544677,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-116.810592,47.774202,-116.810592,47.774202",
+    "geom:latitude":47.774202,
+    "geom:longitude":-116.810592,
+    "iso:country":"US",
+    "sg:address":"11405 N Airport Rd",
+    "sg:city":"Hayden",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Engineering",
+            "type":"Services"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        },
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 762 9200",
+    "sg:postcode":"83835",
+    "sg:province":"ID",
+    "sg:tags":[
+        "rebuilding",
+        "industrial",
+        "aircraft",
+        "contractors-commercial",
+        "maintenance",
+        "painting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        102086085,
+        85821457
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3grRLwCXK76arIk1qJcB5i_47.774202_-116.810592@1303263095"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"f4ab2a15ab9df52f598f8b8e5c00dbb1",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086085,
+            "locality_id":-1,
+            "neighbourhood_id":85821457,
+            "region_id":85688657,
+            "venue_id":320544677
+        }
+    ],
+    "wof:id":320544677,
+    "wof:lastmodified":1449014961,
+    "wof:name":"Northern Skies Air Center",
+    "wof:parent_id":85821457,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "rebuilding",
+        "industrial",
+        "aircraft",
+        "contractors-commercial",
+        "maintenance",
+        "painting"
+    ]
+},
+  "bbox": [-116.810592,47.774202,-116.810592,47.774202],
+  "geometry": {"coordinates":[-116.810592,47.774202],"type":"Point"}
+}

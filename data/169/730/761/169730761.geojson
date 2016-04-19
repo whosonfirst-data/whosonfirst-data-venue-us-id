@@ -1,0 +1,67 @@
+{
+  "id": 169730761,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-112.356285,43.180525,-112.356285,43.180525",
+    "geom:latitude":43.180525,
+    "geom:longitude":-112.356285,
+    "iso:country":"US",
+    "sg:address":"1392 S Meridian St",
+    "sg:city":"Blackfoot",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 785 6445",
+    "sg:postcode":"83221",
+    "sg:province":"ID",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85938001,
+        102086105
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0hCNgO5hWlI1CfCMzgs4JN_43.180525_-112.356285@1294099250"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"6f5545edfea9b4f0a31997ca1bbd4872",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086105,
+            "locality_id":85938001,
+            "neighbourhood_id":-1,
+            "region_id":85688657,
+            "venue_id":169730761
+        }
+    ],
+    "wof:id":169730761,
+    "wof:lastmodified":1449035430,
+    "wof:name":"Bill's Auto Clinic",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [-112.356285,43.180525,-112.356285,43.180525],
+  "geometry": {"coordinates":[-112.356285,43.180525],"type":"Point"}
+}

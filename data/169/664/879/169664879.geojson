@@ -1,0 +1,68 @@
+{
+  "id": 169664879,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-116.162129,43.585149,-116.162129,43.585149",
+    "geom:latitude":43.585149,
+    "geom:longitude":-116.162129,
+    "iso:country":"US",
+    "sg:address":"2104 Silvercreek Ln",
+    "sg:city":"Boise",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 343 8146",
+    "sg:postcode":"83706",
+    "sg:province":"ID",
+    "sg:tags":[
+        "home",
+        "builder"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85937923,
+        102086087,
+        85876329
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0IkvuIkHejo34gWE6cqOop_43.585149_-116.162129@1294099250"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"c4dff20a97df82ad4e2708c761a6ae73",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086087,
+            "locality_id":85937923,
+            "neighbourhood_id":85876329,
+            "region_id":85688657,
+            "venue_id":169664879
+        }
+    ],
+    "wof:id":169664879,
+    "wof:lastmodified":1449033912,
+    "wof:name":"First Choice Homes",
+    "wof:parent_id":85876329,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "home",
+        "builder"
+    ]
+},
+  "bbox": [-116.162129,43.585149,-116.162129,43.585149],
+  "geometry": {"coordinates":[-116.162129,43.585149],"type":"Point"}
+}

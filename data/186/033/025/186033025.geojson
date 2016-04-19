@@ -1,0 +1,67 @@
+{
+  "id": 186033025,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-112.447615,42.876871,-112.447615,42.876871",
+    "geom:latitude":42.876871,
+    "geom:longitude":-112.447615,
+    "iso:country":"US",
+    "sg:address":"421 E Oak St",
+    "sg:city":"Pocatello",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Candy",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 233 4654",
+    "sg:postcode":"83201",
+    "sg:province":"ID",
+    "sg:tags":[
+        "popcorn",
+        "supply"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85937925,
+        102086113
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3ozfL0yfYbwJ2FBqVO93xE_42.876871_-112.447615@1294099250"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"6ca9d0ed5c7450d93b91dab4825ae98d",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086113,
+            "locality_id":85937925,
+            "neighbourhood_id":-1,
+            "region_id":85688657,
+            "venue_id":186033025
+        }
+    ],
+    "wof:id":186033025,
+    "wof:lastmodified":1449050956,
+    "wof:name":"Popcorn Colonel",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "popcorn",
+        "supply"
+    ]
+},
+  "bbox": [-112.447615,42.876871,-112.447615,42.876871],
+  "geometry": {"coordinates":[-112.447615,42.876871],"type":"Point"}
+}

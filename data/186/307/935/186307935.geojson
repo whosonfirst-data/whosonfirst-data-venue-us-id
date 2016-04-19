@@ -1,0 +1,70 @@
+{
+  "id": 186307935,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-116.233205,43.641054,-116.233205,43.641054",
+    "geom:latitude":43.641054,
+    "geom:longitude":-116.233205,
+    "iso:country":"US",
+    "sg:address":"2303 N 36th St",
+    "sg:city":"Boise",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Animal Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 343 0681",
+    "sg:postcode":"83703",
+    "sg:province":"ID",
+    "sg:tags":[
+        "pet",
+        "boarding",
+        "sitting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85937923,
+        102086087,
+        85876339
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1zSl6RXPwi4lxMCwkuJZyd_43.641054_-116.233205@1294099250"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"244da3aef9d9cfa2ac8bb47062db9194",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086087,
+            "locality_id":85937923,
+            "neighbourhood_id":85876339,
+            "region_id":85688657,
+            "venue_id":186307935
+        }
+    ],
+    "wof:id":186307935,
+    "wof:lastmodified":1449051085,
+    "wof:name":"Boise Kennels",
+    "wof:parent_id":85876339,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pet",
+        "boarding",
+        "sitting"
+    ]
+},
+  "bbox": [-116.233205,43.641054,-116.233205,43.641054],
+  "geometry": {"coordinates":[-116.233205,43.641054],"type":"Point"}
+}

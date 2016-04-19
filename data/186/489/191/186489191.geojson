@@ -1,0 +1,67 @@
+{
+  "id": 186489191,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-116.780714,47.707924,-116.780714,47.707924",
+    "geom:latitude":47.707924,
+    "geom:longitude":-116.780714,
+    "iso:country":"US",
+    "sg:address":"424 E Lunceford Ave",
+    "sg:city":"Coeur D Alene",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Refuse",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 765 5233",
+    "sg:postcode":"83815",
+    "sg:province":"ID",
+    "sg:tags":[
+        "garbage",
+        "collection"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        102086085,
+        85821457
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4gJ9gMVwFEqIAPwYYSpMjT_47.707924_-116.780714@1294099250"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"1f51155fcacd5042dd4a3935659d0a42",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086085,
+            "locality_id":-1,
+            "neighbourhood_id":85821457,
+            "region_id":85688657,
+            "venue_id":186489191
+        }
+    ],
+    "wof:id":186489191,
+    "wof:lastmodified":1449051847,
+    "wof:name":"Rural Sanitation",
+    "wof:parent_id":85821457,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "garbage",
+        "collection"
+    ]
+},
+  "bbox": [-116.780714,47.707924,-116.780714,47.707924],
+  "geometry": {"coordinates":[-116.780714,47.707924],"type":"Point"}
+}

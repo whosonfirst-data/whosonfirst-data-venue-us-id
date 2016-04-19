@@ -1,0 +1,68 @@
+{
+  "id": 186318611,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-113.789323,42.538095,-113.789323,42.538095",
+    "geom:latitude":42.538095,
+    "geom:longitude":-113.789323,
+    "iso:country":"US",
+    "sg:address":"400 US Hwy 30",
+    "sg:city":"Burley",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 678 3586",
+    "sg:postcode":"83318",
+    "sg:province":"ID",
+    "sg:tags":[
+        "grain",
+        "elevator"
+    ],
+    "sg:website":"www.coors.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85937773,
+        102086095
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4qJTG29HFar2wtDFB2vrWr_42.538095_-113.789323@1294099250"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"681cfd4b39d5bbe8f54b57f4c2eac704",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086095,
+            "locality_id":85937773,
+            "neighbourhood_id":-1,
+            "region_id":85688657,
+            "venue_id":186318611
+        }
+    ],
+    "wof:id":186318611,
+    "wof:lastmodified":1449050987,
+    "wof:name":"Coors Brewing Co",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "grain",
+        "elevator"
+    ]
+},
+  "bbox": [-113.789323,42.538095,-113.789323,42.538095],
+  "geometry": {"coordinates":[-113.789323,42.538095],"type":"Point"}
+}

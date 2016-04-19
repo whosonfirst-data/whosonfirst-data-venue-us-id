@@ -1,0 +1,66 @@
+{
+  "id": 186441437,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-116.556329,43.581357,-116.556329,43.581357",
+    "geom:latitude":43.581357,
+    "geom:longitude":-116.556329,
+    "iso:country":"US",
+    "sg:address":"104 12th Ave N",
+    "sg:city":"Nampa",
+    "sg:classifiers":[
+        {
+            "category":"Taxi",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 466 4999",
+    "sg:postcode":"83687",
+    "sg:province":"ID",
+    "sg:tags":[
+        "taxicab"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85938009,
+        102085081,
+        85827787
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1WDJwYYpFwKUIRyrL9GSIS_43.581357_-116.556329@1294099250"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"5e520ad78306c0af73fde874e480c283",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085081,
+            "locality_id":85938009,
+            "neighbourhood_id":85827787,
+            "region_id":85688657,
+            "venue_id":186441437
+        }
+    ],
+    "wof:id":186441437,
+    "wof:lastmodified":1449050455,
+    "wof:name":"A-1 Stop-N-Go Taxicab",
+    "wof:parent_id":85827787,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "taxicab"
+    ]
+},
+  "bbox": [-116.556329,43.581357,-116.556329,43.581357],
+  "geometry": {"coordinates":[-116.556329,43.581357],"type":"Point"}
+}

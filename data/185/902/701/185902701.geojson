@@ -1,0 +1,65 @@
+{
+  "id": 185902701,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-116.963014,47.790624,-116.963014,47.790624",
+    "geom:latitude":47.790624,
+    "geom:longitude":-116.963014,
+    "iso:country":"US",
+    "sg:address":"13458 W Winch Ave",
+    "sg:city":"Rathdrum",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 687 1390",
+    "sg:postcode":"83858",
+    "sg:province":"ID",
+    "sg:tags":[
+        "transmission"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        102086085,
+        85833263
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_64DNZODDDIwlePrS07LemM_47.790624_-116.963014@1294099250"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"0de373c4f11fdeb7866a00353cf952cb",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086085,
+            "locality_id":-1,
+            "neighbourhood_id":85833263,
+            "region_id":85688657,
+            "venue_id":185902701
+        }
+    ],
+    "wof:id":185902701,
+    "wof:lastmodified":1449007794,
+    "wof:name":"Franks Transmissions",
+    "wof:parent_id":85833263,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "transmission"
+    ]
+},
+  "bbox": [-116.963014,47.790624,-116.963014,47.790624],
+  "geometry": {"coordinates":[-116.963014,47.790624],"type":"Point"}
+}

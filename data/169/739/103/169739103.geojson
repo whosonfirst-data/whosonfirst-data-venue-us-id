@@ -1,0 +1,65 @@
+{
+  "id": 169739103,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-111.996859,43.494759,-111.996859,43.494759",
+    "geom:latitude":43.494759,
+    "geom:longitude":-111.996859,
+    "iso:country":"US",
+    "sg:address":"1810 Moran St",
+    "sg:city":"Idaho Falls",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 529 4500",
+    "sg:postcode":"83401",
+    "sg:province":"ID",
+    "sg:tags":[
+        "dentist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85937963,
+        102085163
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2aDUqnrfujBPZejs8i5lol_43.494759_-111.996859@1294099250"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"a4be5ee14be7f562a808c3f72f20dc09",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085163,
+            "locality_id":85937963,
+            "neighbourhood_id":-1,
+            "region_id":85688657,
+            "venue_id":169739103
+        }
+    ],
+    "wof:id":169739103,
+    "wof:lastmodified":1449034062,
+    "wof:name":"Harris Dental",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dentist"
+    ]
+},
+  "bbox": [-111.996859,43.494759,-111.996859,43.494759],
+  "geometry": {"coordinates":[-111.996859,43.494759],"type":"Point"}
+}

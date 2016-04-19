@@ -1,0 +1,66 @@
+{
+  "id": 185954591,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-116.199895,43.615756,-116.199895,43.615756",
+    "geom:latitude":43.615756,
+    "geom:longitude":-116.199895,
+    "iso:country":"US",
+    "sg:address":"233 N 6th St",
+    "sg:city":"Boise",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Court House",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 287 6900",
+    "sg:postcode":"83702",
+    "sg:province":"ID",
+    "sg:tags":[
+        "county"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85937923,
+        102086087,
+        85876341
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0KTVP2bKP5x3bbNDtBMO9l_43.615756_-116.199895@1294099250"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"53a9d2336db7fc39339b90d678a2c633",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086087,
+            "locality_id":85937923,
+            "neighbourhood_id":85876341,
+            "region_id":85688657,
+            "venue_id":185954591
+        }
+    ],
+    "wof:id":185954591,
+    "wof:lastmodified":1449008016,
+    "wof:name":"Ada County Small Claims Court",
+    "wof:parent_id":85876341,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "county"
+    ]
+},
+  "bbox": [-116.199895,43.615756,-116.199895,43.615756],
+  "geometry": {"coordinates":[-116.199895,43.615756],"type":"Point"}
+}

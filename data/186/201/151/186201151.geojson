@@ -1,0 +1,66 @@
+{
+  "id": 186201151,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-116.583544,43.591814,-116.583544,43.591814",
+    "geom:latitude":43.591814,
+    "geom:longitude":-116.583544,
+    "iso:country":"US",
+    "sg:address":"421 Caldwell Blvd",
+    "sg:city":"Nampa",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 461 3170",
+    "sg:postcode":"83651",
+    "sg:province":"ID",
+    "sg:tags":[
+        "loan"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85938009,
+        102085081,
+        85827787
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_42OCNbGbTWgNzNxKTyzq8g_43.591814_-116.583544@1294099250"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"cc5e9c800561a4f43d5db3fe722f6984",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085081,
+            "locality_id":85938009,
+            "neighbourhood_id":85827787,
+            "region_id":85688657,
+            "venue_id":186201151
+        }
+    ],
+    "wof:id":186201151,
+    "wof:lastmodified":1449052657,
+    "wof:name":"Continental Loans",
+    "wof:parent_id":85827787,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "loan"
+    ]
+},
+  "bbox": [-116.583544,43.591814,-116.583544,43.591814],
+  "geometry": {"coordinates":[-116.583544,43.591814],"type":"Point"}
+}

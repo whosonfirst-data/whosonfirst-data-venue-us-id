@@ -1,0 +1,66 @@
+{
+  "id": 186034461,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-116.572867,43.549474,-116.572867,43.549474",
+    "geom:latitude":43.549474,
+    "geom:longitude":-116.572867,
+    "iso:country":"US",
+    "sg:address":"2065 12th Ave Rd",
+    "sg:city":"Nampa",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 466 3239",
+    "sg:postcode":"83686",
+    "sg:province":"ID",
+    "sg:tags":[
+        "dentist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85938009,
+        102085081,
+        85827787
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2BVZ0GF2Cd7VlaS2vZfoNh_43.549474_-116.572867@1294099250"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"e9d00193bdd2f453f508af3b65b74ad5",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085081,
+            "locality_id":85938009,
+            "neighbourhood_id":85827787,
+            "region_id":85688657,
+            "venue_id":186034461
+        }
+    ],
+    "wof:id":186034461,
+    "wof:lastmodified":1449050544,
+    "wof:name":"Family Dental Ctr",
+    "wof:parent_id":85827787,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dentist"
+    ]
+},
+  "bbox": [-116.572867,43.549474,-116.572867,43.549474],
+  "geometry": {"coordinates":[-116.572867,43.549474],"type":"Point"}
+}

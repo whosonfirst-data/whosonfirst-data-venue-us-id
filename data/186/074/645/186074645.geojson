@@ -1,0 +1,65 @@
+{
+  "id": 186074645,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-116.764801,47.682575,-116.764801,47.682575",
+    "geom:latitude":47.682575,
+    "geom:longitude":-116.764801,
+    "iso:country":"US",
+    "sg:address":"1036 N 15th St",
+    "sg:city":"Coeur D Alene",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 667 9398",
+    "sg:postcode":"83814",
+    "sg:province":"ID",
+    "sg:tags":[
+        "grocer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        102086085,
+        85821457
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4PBSTBRIBJFdEGIn3OaQcG_47.682575_-116.764801@1294099250"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"aa6fd161c3ec3d9eb87c8215915a3574",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086085,
+            "locality_id":-1,
+            "neighbourhood_id":85821457,
+            "region_id":85688657,
+            "venue_id":186074645
+        }
+    ],
+    "wof:id":186074645,
+    "wof:lastmodified":1449051825,
+    "wof:name":"Jordan's Grocery",
+    "wof:parent_id":85821457,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "grocer"
+    ]
+},
+  "bbox": [-116.764801,47.682575,-116.764801,47.682575],
+  "geometry": {"coordinates":[-116.764801,47.682575],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 186237601,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-116.625975,43.604968,-116.625975,43.604968",
+    "geom:latitude":43.604968,
+    "geom:longitude":-116.625975,
+    "iso:country":"US",
+    "sg:address":"11475 Karcher Rd",
+    "sg:city":"Nampa",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 467 1018",
+    "sg:postcode":"83651",
+    "sg:province":"ID",
+    "sg:tags":[
+        "excavating",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85938009,
+        102085081,
+        85835387
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5bs9wXRG69MgDqtN64S1PH_43.604968_-116.625975@1294099250"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"a2e55513c9567794da6d8dd736e54a9b",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085081,
+            "locality_id":85938009,
+            "neighbourhood_id":85835387,
+            "region_id":85688657,
+            "venue_id":186237601
+        }
+    ],
+    "wof:id":186237601,
+    "wof:lastmodified":1449050331,
+    "wof:name":"Guches Construction",
+    "wof:parent_id":85835387,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "excavating",
+        "contractor"
+    ]
+},
+  "bbox": [-116.625975,43.604968,-116.625975,43.604968],
+  "geometry": {"coordinates":[-116.625975,43.604968],"type":"Point"}
+}

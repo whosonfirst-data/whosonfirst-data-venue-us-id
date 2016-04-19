@@ -1,0 +1,68 @@
+{
+  "id": 169602655,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-116.21098,43.623834,-116.21098,43.623834",
+    "geom:latitude":43.623834,
+    "geom:longitude":-116.21098,
+    "iso:country":"US",
+    "sg:address":"1625 W State St",
+    "sg:city":"Boise",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 367 8787",
+    "sg:postcode":"83702",
+    "sg:province":"ID",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85937923,
+        102086087,
+        85876355
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3haEjOxq6vdMbk4TS7N4tS_43.623834_-116.210980@1294099250"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"5ab3a35fbceb614104e9625522c9dc84",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086087,
+            "locality_id":85937923,
+            "neighbourhood_id":85876355,
+            "region_id":85688657,
+            "venue_id":169602655
+        }
+    ],
+    "wof:id":169602655,
+    "wof:lastmodified":1449034228,
+    "wof:name":"St Alphonsus Adult Health",
+    "wof:parent_id":85876355,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [-116.21098,43.623834,-116.21098,43.623834],
+  "geometry": {"coordinates":[-116.21098,43.623834],"type":"Point"}
+}

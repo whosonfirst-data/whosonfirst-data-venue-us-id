@@ -1,0 +1,68 @@
+{
+  "id": 186389861,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-116.194486,43.570993,-116.194486,43.570993",
+    "geom:latitude":43.570993,
+    "geom:longitude":-116.194486,
+    "iso:country":"US",
+    "sg:address":"1103 W Wright St",
+    "sg:city":"Boise",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 344 7576",
+    "sg:postcode":"83705",
+    "sg:province":"ID",
+    "sg:tags":[
+        "general",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85937923,
+        102086087,
+        85876337
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0VJox71FQdWUSzhdYppItT_43.570993_-116.194486@1294099250"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"2e5625423c9293b505e8b46d6c37e57a",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086087,
+            "locality_id":85937923,
+            "neighbourhood_id":85876337,
+            "region_id":85688657,
+            "venue_id":186389861
+        }
+    ],
+    "wof:id":186389861,
+    "wof:lastmodified":1449052464,
+    "wof:name":"Vista Construction",
+    "wof:parent_id":85876337,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "general",
+        "contractor"
+    ]
+},
+  "bbox": [-116.194486,43.570993,-116.194486,43.570993],
+  "geometry": {"coordinates":[-116.194486,43.570993],"type":"Point"}
+}

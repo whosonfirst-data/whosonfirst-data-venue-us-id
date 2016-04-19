@@ -1,0 +1,73 @@
+{
+  "id": 320529723,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-116.437027,44.7281,-116.437027,44.7281",
+    "geom:latitude":44.7281,
+    "geom:longitude":-116.437027,
+    "iso:country":"US",
+    "sg:address":"101 California Ave",
+    "sg:city":"Council",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Business Services",
+            "type":"Services"
+        },
+        {
+            "category":"Government",
+            "subcategory":"Post Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 253 4448",
+    "sg:postcode":"83612",
+    "sg:province":"ID",
+    "sg:tags":[
+        "mail",
+        "shipping"
+    ],
+    "sg:website":"http://www.usps.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85937845,
+        102086067
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1ilNnue0PzzGU2IUoHFOKM_44.728100_-116.437027@1303263095"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"9c7c1e37495c7a729bfe2ceb8e782596",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086067,
+            "locality_id":85937845,
+            "neighbourhood_id":-1,
+            "region_id":85688657,
+            "venue_id":320529723
+        }
+    ],
+    "wof:id":320529723,
+    "wof:lastmodified":1449012887,
+    "wof:name":"Us Post Office",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mail",
+        "shipping"
+    ]
+},
+  "bbox": [-116.437027,44.7281,-116.437027,44.7281],
+  "geometry": {"coordinates":[-116.437027,44.7281],"type":"Point"}
+}

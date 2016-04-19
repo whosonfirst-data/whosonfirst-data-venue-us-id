@@ -1,0 +1,68 @@
+{
+  "id": 185659625,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-116.680309,43.668632,-116.680309,43.668632",
+    "geom:latitude":43.668632,
+    "geom:longitude":-116.680309,
+    "iso:country":"US",
+    "sg:address":"521 N 10th Ave",
+    "sg:city":"Caldwell",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 459 8283",
+    "sg:postcode":"83605",
+    "sg:province":"ID",
+    "sg:tags":[
+        "shipping",
+        "agent"
+    ],
+    "sg:website":"www.caldwellshipit.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85938017,
+        102085081
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7HN0edrwF91KUNHAtAYLgS_43.668632_-116.680309@1294099250"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"b906ac623f94ece2aeb63ad58c0e4090",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085081,
+            "locality_id":85938017,
+            "neighbourhood_id":-1,
+            "region_id":85688657,
+            "venue_id":185659625
+        }
+    ],
+    "wof:id":185659625,
+    "wof:lastmodified":1449006784,
+    "wof:name":"Ship It",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shipping",
+        "agent"
+    ]
+},
+  "bbox": [-116.680309,43.668632,-116.680309,43.668632],
+  "geometry": {"coordinates":[-116.680309,43.668632],"type":"Point"}
+}

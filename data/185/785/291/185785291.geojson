@@ -1,0 +1,67 @@
+{
+  "id": 185785291,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-116.948858,43.785755,-116.948858,43.785755",
+    "geom:latitude":43.785755,
+    "geom:longitude":-116.948858,
+    "iso:country":"US",
+    "sg:address":"111 S Roswell Blvd",
+    "sg:city":"Parma",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Electrical",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 722 6731",
+    "sg:postcode":"83660",
+    "sg:province":"ID",
+    "sg:tags":[
+        "electric",
+        "motor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85938023,
+        102085081
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6HabR6ymdgFwTRmkvSJmpc_43.785755_-116.948858@1294099250"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"cd02a36606d0d82170fab3c6b0b49449",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085081,
+            "locality_id":85938023,
+            "neighbourhood_id":-1,
+            "region_id":85688657,
+            "venue_id":185785291
+        }
+    ],
+    "wof:id":185785291,
+    "wof:lastmodified":1449007957,
+    "wof:name":"Riverside Inc",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electric",
+        "motor"
+    ]
+},
+  "bbox": [-116.948858,43.785755,-116.948858,43.785755],
+  "geometry": {"coordinates":[-116.948858,43.785755],"type":"Point"}
+}

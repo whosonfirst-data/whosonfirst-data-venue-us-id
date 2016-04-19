@@ -1,0 +1,80 @@
+{
+  "id": 186445203,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-116.991396,46.382787,-116.991396,46.382787",
+    "geom:latitude":46.382787,
+    "geom:longitude":-116.991396,
+    "iso:country":"US",
+    "sg:address":"3315 8th St",
+    "sg:city":"Lewiston",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Nursing And Care Facility",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 743 9543",
+    "sg:postcode":"83501",
+    "sg:province":"ID",
+    "sg:tags":[
+        "hospital",
+        "skilled",
+        "specialty"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85937743,
+        102086039,
+        85837769,
+        85830385
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6jy7JJhi2QJSwd3yJKHqw4_46.382787_-116.991396@1294099250"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"e44cd6b1147c5c6c30c146af1ee7440d",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086039,
+            "locality_id":85937743,
+            "neighbourhood_id":85837769,
+            "region_id":85688657,
+            "venue_id":186445203
+        },
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086039,
+            "locality_id":85937743,
+            "neighbourhood_id":85830385,
+            "region_id":85688657,
+            "venue_id":186445203
+        }
+    ],
+    "wof:id":186445203,
+    "wof:lastmodified":1449050691,
+    "wof:name":"Kindred Healthcare Inc",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "hospital",
+        "skilled",
+        "specialty"
+    ]
+},
+  "bbox": [-116.991396,46.382787,-116.991396,46.382787],
+  "geometry": {"coordinates":[-116.991396,46.382787],"type":"Point"}
+}

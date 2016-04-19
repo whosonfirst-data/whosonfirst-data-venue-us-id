@@ -1,0 +1,68 @@
+{
+  "id": 186177711,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-116.281798,43.632433,-116.281798,43.632433",
+    "geom:latitude":43.632433,
+    "geom:longitude":-116.281798,
+    "iso:country":"US",
+    "sg:address":"2907 N Ash Park Ln",
+    "sg:city":"Boise",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 375 1000",
+    "sg:postcode":"83704",
+    "sg:province":"ID",
+    "sg:tags":[
+        "electric",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85937923,
+        102086087,
+        85841319
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2X1gzkdkT02PXlBKZnJUdj_43.632433_-116.281798@1294099250"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"7e213c257896d4c269c15dfc81c68319",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086087,
+            "locality_id":85937923,
+            "neighbourhood_id":85841319,
+            "region_id":85688657,
+            "venue_id":186177711
+        }
+    ],
+    "wof:id":186177711,
+    "wof:lastmodified":1449053026,
+    "wof:name":"Roy Kay Electric",
+    "wof:parent_id":85841319,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electric",
+        "contractor"
+    ]
+},
+  "bbox": [-116.281798,43.632433,-116.281798,43.632433],
+  "geometry": {"coordinates":[-116.281798,43.632433],"type":"Point"}
+}

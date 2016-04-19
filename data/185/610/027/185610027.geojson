@@ -1,0 +1,68 @@
+{
+  "id": 185610027,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-116.246248,43.617553,-116.246248,43.617553",
+    "geom:latitude":43.617553,
+    "geom:longitude":-116.246248,
+    "iso:country":"US",
+    "sg:address":"5491 Kendall St",
+    "sg:city":"Boise",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Auto Supplies",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 378 8800",
+    "sg:postcode":"83706",
+    "sg:province":"ID",
+    "sg:tags":[
+        "filter",
+        "gas"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85937923,
+        102086087,
+        85876311
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0dung51Q7Sim6KFNBLj9qm_43.617553_-116.246248@1294099250"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"6cbe2e6905cba41148a12c84850e74d1",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086087,
+            "locality_id":85937923,
+            "neighbourhood_id":85876311,
+            "region_id":85688657,
+            "venue_id":185610027
+        }
+    ],
+    "wof:id":185610027,
+    "wof:lastmodified":1449008164,
+    "wof:name":"Fluid Control Co",
+    "wof:parent_id":85876311,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "filter",
+        "gas"
+    ]
+},
+  "bbox": [-116.246248,43.617553,-116.246248,43.617553],
+  "geometry": {"coordinates":[-116.246248,43.617553],"type":"Point"}
+}

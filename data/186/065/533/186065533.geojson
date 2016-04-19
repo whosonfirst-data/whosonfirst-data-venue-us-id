@@ -1,0 +1,66 @@
+{
+  "id": 186065533,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-116.279198,43.604808,-116.279198,43.604808",
+    "geom:latitude":43.604808,
+    "geom:longitude":-116.279198,
+    "iso:country":"US",
+    "sg:address":"8501 Franklin Rd",
+    "sg:city":"Boise",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Veterinary Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 888 2910",
+    "sg:postcode":"83709",
+    "sg:province":"ID",
+    "sg:tags":[
+        "veterinarian"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85937923,
+        102086087,
+        85841319
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1hl3y2AJBfNH8r0Ik3fVJt_43.604808_-116.279198@1294099250"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"fd43ded961631bf11590994ac9686c23",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086087,
+            "locality_id":85937923,
+            "neighbourhood_id":85841319,
+            "region_id":85688657,
+            "venue_id":186065533
+        }
+    ],
+    "wof:id":186065533,
+    "wof:lastmodified":1449053006,
+    "wof:name":"Family Pet Veterinary Clinic",
+    "wof:parent_id":85841319,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "veterinarian"
+    ]
+},
+  "bbox": [-116.279198,43.604808,-116.279198,43.604808],
+  "geometry": {"coordinates":[-116.279198,43.604808],"type":"Point"}
+}

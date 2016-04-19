@@ -1,0 +1,66 @@
+{
+  "id": 185683227,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-116.208208,43.639354,-116.208208,43.639354",
+    "geom:latitude":43.639354,
+    "geom:longitude":-116.208208,
+    "iso:country":"US",
+    "sg:address":"2260 Harrison Blvd",
+    "sg:city":"Boise",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 342 4716",
+    "sg:postcode":"83702",
+    "sg:province":"ID",
+    "sg:tags":[
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85937923,
+        102086087,
+        85876313
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3GdVm4a3PGiuOaOYVrypwO_43.639354_-116.208208@1294099250"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"c9f53f8d17be3082296403467b3ed6e3",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086087,
+            "locality_id":85937923,
+            "neighbourhood_id":85876313,
+            "region_id":85688657,
+            "venue_id":185683227
+        }
+    ],
+    "wof:id":185683227,
+    "wof:lastmodified":1449007192,
+    "wof:name":"Harrison Hills Apartments",
+    "wof:parent_id":85876313,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "apartment"
+    ]
+},
+  "bbox": [-116.208208,43.639354,-116.208208,43.639354],
+  "geometry": {"coordinates":[-116.208208,43.639354],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 185850377,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-116.486382,43.87914,-116.486382,43.87914",
+    "geom:latitude":43.87914,
+    "geom:longitude":-116.486382,
+    "iso:country":"US",
+    "sg:address":"1024 E Locust St",
+    "sg:city":"Emmett",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 365 1554",
+    "sg:postcode":"83617",
+    "sg:province":"ID",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85937855,
+        102085095
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3oly2sDdqUqFNCPnaevxKN_43.879140_-116.486382@1294099250"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"e60b0dbdc6042f8ea4e91aca49ebca91",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085095,
+            "locality_id":85937855,
+            "neighbourhood_id":-1,
+            "region_id":85688657,
+            "venue_id":185850377
+        }
+    ],
+    "wof:id":185850377,
+    "wof:lastmodified":1449007539,
+    "wof:name":"Immanuel Benjamin MD",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [-116.486382,43.87914,-116.486382,43.87914],
+  "geometry": {"coordinates":[-116.486382,43.87914],"type":"Point"}
+}

@@ -1,0 +1,66 @@
+{
+  "id": 169839145,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-116.173467,43.573649,-116.173467,43.573649",
+    "geom:latitude":43.573649,
+    "geom:longitude":-116.173467,
+    "iso:country":"US",
+    "sg:address":"3165 Apple St",
+    "sg:city":"Boise",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 336 3869",
+    "sg:postcode":"83706",
+    "sg:province":"ID",
+    "sg:tags":[
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85937923,
+        102086087,
+        85876329
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1xVflPOKekltE4K89G2pmx_43.573649_-116.173467@1294099250"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"822fa6a929b2ec32eab5ed4af2483af1",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086087,
+            "locality_id":85937923,
+            "neighbourhood_id":85876329,
+            "region_id":85688657,
+            "venue_id":169839145
+        }
+    ],
+    "wof:id":169839145,
+    "wof:lastmodified":1449034666,
+    "wof:name":"Brentwood Apartments",
+    "wof:parent_id":85876329,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "apartment"
+    ]
+},
+  "bbox": [-116.173467,43.573649,-116.173467,43.573649],
+  "geometry": {"coordinates":[-116.173467,43.573649],"type":"Point"}
+}

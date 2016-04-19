@@ -1,0 +1,71 @@
+{
+  "id": 186150797,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-116.274143,43.560965,-116.274143,43.560965",
+    "geom:latitude":43.560965,
+    "geom:longitude":-116.274143,
+    "iso:country":"US",
+    "sg:address":"4654 S Cole Rd",
+    "sg:city":"Boise",
+    "sg:classifiers":[
+        {
+            "category":"Cinema",
+            "subcategory":"Movie Rental",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 362 9001",
+    "sg:postcode":"83709",
+    "sg:province":"ID",
+    "sg:tags":[
+        "leasing",
+        "video",
+        "disc",
+        "tape"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        102086087,
+        85876331
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_564Mbz5v0u4lb2kEoW3TlV_43.560965_-116.274143@1294099250"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"05e0880a8f028b4e161db3d62b4639ad",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086087,
+            "locality_id":-1,
+            "neighbourhood_id":85876331,
+            "region_id":85688657,
+            "venue_id":186150797
+        }
+    ],
+    "wof:id":186150797,
+    "wof:lastmodified":1449050291,
+    "wof:name":"R & R Video",
+    "wof:parent_id":85876331,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "leasing",
+        "video",
+        "disc",
+        "tape"
+    ]
+},
+  "bbox": [-116.274143,43.560965,-116.274143,43.560965],
+  "geometry": {"coordinates":[-116.274143,43.560965],"type":"Point"}
+}

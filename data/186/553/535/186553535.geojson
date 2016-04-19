@@ -1,0 +1,65 @@
+{
+  "id": 186553535,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-116.763232,47.676159,-116.763232,47.676159",
+    "geom:latitude":47.676159,
+    "geom:longitude":-116.763232,
+    "iso:country":"US",
+    "sg:address":"504 N 16th St",
+    "sg:city":"Coeur D Alene",
+    "sg:classifiers":[
+        {
+            "category":"Taxi",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 664 2424",
+    "sg:postcode":"83814",
+    "sg:province":"ID",
+    "sg:tags":[
+        "taxicab"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        102086085,
+        85821457
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_62QvEU1lns3ah7PNqTcjTI_47.676159_-116.763232@1294099250"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"24da5820bbea63bab87f45d5c385ec9c",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086085,
+            "locality_id":-1,
+            "neighbourhood_id":85821457,
+            "region_id":85688657,
+            "venue_id":186553535
+        }
+    ],
+    "wof:id":186553535,
+    "wof:lastmodified":1449050269,
+    "wof:name":"Taxi By Hall",
+    "wof:parent_id":85821457,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "taxicab"
+    ]
+},
+  "bbox": [-116.763232,47.676159,-116.763232,47.676159],
+  "geometry": {"coordinates":[-116.763232,47.676159],"type":"Point"}
+}

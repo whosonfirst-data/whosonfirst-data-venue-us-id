@@ -1,0 +1,68 @@
+{
+  "id": 186265419,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-116.261262,43.612377,-116.261262,43.612377",
+    "geom:latitude":43.612377,
+    "geom:longitude":-116.261262,
+    "iso:country":"US",
+    "sg:address":"811 N Liberty St",
+    "sg:city":"Boise",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Clinic",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 323 4522",
+    "sg:postcode":"83704",
+    "sg:province":"ID",
+    "sg:tags":[
+        "surgical",
+        "center"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85937923,
+        102086087,
+        85806577
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3VFjAlyXMxUO2CRFLf7U0I_43.612377_-116.261262@1294099250"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"96301cd76317d3bd067ff8d65aeafc7a",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086087,
+            "locality_id":85937923,
+            "neighbourhood_id":85806577,
+            "region_id":85688657,
+            "venue_id":186265419
+        }
+    ],
+    "wof:id":186265419,
+    "wof:lastmodified":1449051305,
+    "wof:name":"Emerald Surgical Ctr",
+    "wof:parent_id":85806577,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "surgical",
+        "center"
+    ]
+},
+  "bbox": [-116.261262,43.612377,-116.261262,43.612377],
+  "geometry": {"coordinates":[-116.261262,43.612377],"type":"Point"}
+}

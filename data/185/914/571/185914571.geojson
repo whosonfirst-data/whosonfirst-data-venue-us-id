@@ -1,0 +1,66 @@
+{
+  "id": 185914571,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-116.253629,43.614518,-116.253629,43.614518",
+    "geom:latitude":43.614518,
+    "geom:longitude":-116.253629,
+    "iso:country":"US",
+    "sg:address":"1000 N Curtis Rd",
+    "sg:city":"Boise",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 375 0191",
+    "sg:postcode":"83706",
+    "sg:province":"ID",
+    "sg:tags":[
+        "dentist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85937923,
+        102086087,
+        85876311
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4tr9UM0yypPAgp1XufZqMG_43.614518_-116.253629@1294099250"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"8a7d98df0e7b274a9988742b2653fe63",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086087,
+            "locality_id":85937923,
+            "neighbourhood_id":85876311,
+            "region_id":85688657,
+            "venue_id":185914571
+        }
+    ],
+    "wof:id":185914571,
+    "wof:lastmodified":1449007223,
+    "wof:name":"CBDMS",
+    "wof:parent_id":85876311,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dentist"
+    ]
+},
+  "bbox": [-116.253629,43.614518,-116.253629,43.614518],
+  "geometry": {"coordinates":[-116.253629,43.614518],"type":"Point"}
+}

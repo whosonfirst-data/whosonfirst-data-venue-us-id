@@ -1,0 +1,66 @@
+{
+  "id": 169666729,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-116.355452,43.689303,-116.355452,43.689303",
+    "geom:latitude":43.689303,
+    "geom:longitude":-116.355452,
+    "iso:country":"US",
+    "sg:address":"483 S Rivershore Ln",
+    "sg:city":"Eagle",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 938 2100",
+    "sg:postcode":"83616",
+    "sg:province":"ID",
+    "sg:tags":[
+        "dentist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85937923,
+        102086087,
+        85876351
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6KGwwlrZ5pJjh8v5HgKZ2s_43.689303_-116.355452@1294099250"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"3d9dbde6802f018efe5b0d716653ff53",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086087,
+            "locality_id":85937923,
+            "neighbourhood_id":85876351,
+            "region_id":85688657,
+            "venue_id":169666729
+        }
+    ],
+    "wof:id":169666729,
+    "wof:lastmodified":1449033898,
+    "wof:name":"North Channel Dentistry",
+    "wof:parent_id":85876351,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dentist"
+    ]
+},
+  "bbox": [-116.355452,43.689303,-116.355452,43.689303],
+  "geometry": {"coordinates":[-116.355452,43.689303],"type":"Point"}
+}

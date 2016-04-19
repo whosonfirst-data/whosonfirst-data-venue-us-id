@@ -1,0 +1,65 @@
+{
+  "id": 185646409,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-116.767342,46.73188,-116.767342,46.73188",
+    "geom:latitude":46.73188,
+    "geom:longitude":-116.767342,
+    "iso:country":"US",
+    "sg:address":"817 Bentz St",
+    "sg:city":"Troy",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Veterinary Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 835 3002",
+    "sg:postcode":"83871",
+    "sg:province":"ID",
+    "sg:tags":[
+        "veterinarian"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85937729,
+        102085077
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2ty9Lo9Z0nTEBH3CWkHAlO_46.731880_-116.767342@1294099250"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"10b63642c6ebd91e2931851212939ef3",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085077,
+            "locality_id":85937729,
+            "neighbourhood_id":-1,
+            "region_id":85688657,
+            "venue_id":185646409
+        }
+    ],
+    "wof:id":185646409,
+    "wof:lastmodified":1449006560,
+    "wof:name":"Troy Veterinary Clinic",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "veterinarian"
+    ]
+},
+  "bbox": [-116.767342,46.73188,-116.767342,46.73188],
+  "geometry": {"coordinates":[-116.767342,46.73188],"type":"Point"}
+}

@@ -1,0 +1,66 @@
+{
+  "id": 185844101,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-116.794691,47.744447,-116.794691,47.744447",
+    "geom:latitude":47.744447,
+    "geom:longitude":-116.794691,
+    "iso:country":"US",
+    "sg:address":"602 W Prairie Ave",
+    "sg:city":"Coeur D Alene",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Police Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 772 6055",
+    "sg:postcode":"83815",
+    "sg:province":"ID",
+    "sg:tags":[
+        "state"
+    ],
+    "sg:website":"www.isp.state.id.us",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        102086085,
+        85821457
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2kb5cqpuOii31zzykG0Ymy_47.744447_-116.794691@1294099250"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"468cca45bdbce72658c764deb61d6add",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086085,
+            "locality_id":-1,
+            "neighbourhood_id":85821457,
+            "region_id":85688657,
+            "venue_id":185844101
+        }
+    ],
+    "wof:id":185844101,
+    "wof:lastmodified":1449007290,
+    "wof:name":"State Police Region 1",
+    "wof:parent_id":85821457,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "state"
+    ]
+},
+  "bbox": [-116.794691,47.744447,-116.794691,47.744447],
+  "geometry": {"coordinates":[-116.794691,47.744447],"type":"Point"}
+}

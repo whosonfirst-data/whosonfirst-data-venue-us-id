@@ -1,0 +1,73 @@
+{
+  "id": 186518561,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-112.06321,43.4956,-112.06321,43.4956",
+    "geom:latitude":43.4956,
+    "geom:longitude":-112.06321,
+    "iso:country":"US",
+    "sg:address":"241 S Skyline Dr",
+    "sg:city":"Idaho Falls",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 522 8800",
+    "sg:postcode":"83402",
+    "sg:province":"ID",
+    "sg:tags":[
+        "renting",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85937963,
+        102085163
+    ],
+    "wof:brand_id":420574171,
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0LFHDkqPLDF4iVQAVuYofs_43.495600_-112.063210@1294099250"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"2e741377fec1fe268b5aea7dfa898228",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085163,
+            "locality_id":85937963,
+            "neighbourhood_id":-1,
+            "region_id":85688657,
+            "venue_id":186518561
+        }
+    ],
+    "wof:id":186518561,
+    "wof:lastmodified":1457208587,
+    "wof:name":"Budget Rent A Car",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "renting",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -112.06321,
+    43.4956,
+    -112.06321,
+    43.4956
+],
+  "geometry": {"coordinates":[-112.06321,43.4956],"type":"Point"}
+}

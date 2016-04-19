@@ -1,0 +1,66 @@
+{
+  "id": 186060439,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-112.34344,43.194613,-112.34344,43.194613",
+    "geom:latitude":43.194613,
+    "geom:longitude":-112.34344,
+    "iso:country":"US",
+    "sg:address":"501 N Maple St",
+    "sg:city":"Blackfoot",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Police Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 785 1235",
+    "sg:postcode":"83221",
+    "sg:province":"ID",
+    "sg:tags":[
+        "department"
+    ],
+    "sg:website":"www.blackfootpolice.org",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85938001,
+        102086105
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4nsHaRFxmzvIfhTAL0kEiX_43.194613_-112.343440@1294099250"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"4a9e1b4f0bf2371a74707ea30b984c95",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086105,
+            "locality_id":85938001,
+            "neighbourhood_id":-1,
+            "region_id":85688657,
+            "venue_id":186060439
+        }
+    ],
+    "wof:id":186060439,
+    "wof:lastmodified":1449052778,
+    "wof:name":"Bingham Police Dept",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "department"
+    ]
+},
+  "bbox": [-112.34344,43.194613,-112.34344,43.194613],
+  "geometry": {"coordinates":[-112.34344,43.194613],"type":"Point"}
+}

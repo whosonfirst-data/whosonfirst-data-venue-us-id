@@ -1,0 +1,66 @@
+{
+  "id": 185707423,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-116.193405,43.614959,-116.193405,43.614959",
+    "geom:latitude":43.614959,
+    "geom:longitude":-116.193405,
+    "iso:country":"US",
+    "sg:address":"115 W State St",
+    "sg:city":"Boise",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 344 9054",
+    "sg:postcode":"83702",
+    "sg:province":"ID",
+    "sg:tags":[
+        "dentist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85937923,
+        102086087,
+        85876345
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_548M75NsaNVzd3A48S9kvN_43.614959_-116.193405@1294099250"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"f1b23bdf49425216da62999be23bf2d3",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086087,
+            "locality_id":85937923,
+            "neighbourhood_id":85876345,
+            "region_id":85688657,
+            "venue_id":185707423
+        }
+    ],
+    "wof:id":185707423,
+    "wof:lastmodified":1449007980,
+    "wof:name":"Staley Dental Downtown",
+    "wof:parent_id":85876345,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dentist"
+    ]
+},
+  "bbox": [-116.193405,43.614959,-116.193405,43.614959],
+  "geometry": {"coordinates":[-116.193405,43.614959],"type":"Point"}
+}

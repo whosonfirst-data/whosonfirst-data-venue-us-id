@@ -1,0 +1,70 @@
+{
+  "id": 320533373,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-116.646469,43.89427,-116.646469,43.89427",
+    "geom:latitude":43.89427,
+    "geom:longitude":-116.646469,
+    "iso:country":"US",
+    "sg:address":"8381 W Idaho Blvd",
+    "sg:city":"Letha",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Business Services",
+            "type":"Services"
+        },
+        {
+            "category":"Government",
+            "subcategory":"Post Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 800 275 8777",
+    "sg:postcode":"83636",
+    "sg:province":"ID",
+    "sg:tags":[
+        "mail",
+        "shipping"
+    ],
+    "sg:website":"http://www.usps.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633793,
+        85688657
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0wCLfsUmI3Jda8Pt9rrR8A_43.894270_-116.646469@1303263095"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"1595d0690bc2e39a29c116c46e8e8101",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "locality_id":-1,
+            "neighbourhood_id":-1,
+            "region_id":85688657,
+            "venue_id":320533373
+        }
+    ],
+    "wof:id":320533373,
+    "wof:lastmodified":1449011214,
+    "wof:name":"USPS - United States Post Office - Letha",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mail",
+        "shipping"
+    ]
+},
+  "bbox": [-116.646469,43.89427,-116.646469,43.89427],
+  "geometry": {"coordinates":[-116.646469,43.89427],"type":"Point"}
+}

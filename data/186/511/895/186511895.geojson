@@ -1,0 +1,68 @@
+{
+  "id": 186511895,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-116.183698,43.586633,-116.183698,43.586633",
+    "geom:latitude":43.586633,
+    "geom:longitude":-116.183698,
+    "iso:country":"US",
+    "sg:address":"201 W Boise Ave",
+    "sg:city":"Boise",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Health Practitioner",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 336 0312",
+    "sg:postcode":"83706",
+    "sg:province":"ID",
+    "sg:tags":[
+        "therapist",
+        "physical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85937923,
+        102086087,
+        85876305
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2ltrWavV1FV4fRPjHNkx90_43.586633_-116.183698@1294099250"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"e747ee3a4ef6ed203da8584feebf0681",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086087,
+            "locality_id":85937923,
+            "neighbourhood_id":85876305,
+            "region_id":85688657,
+            "venue_id":186511895
+        }
+    ],
+    "wof:id":186511895,
+    "wof:lastmodified":1449051612,
+    "wof:name":"St Luke's Idaho Elks Rehab Svc",
+    "wof:parent_id":85876305,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "therapist",
+        "physical"
+    ]
+},
+  "bbox": [-116.183698,43.586633,-116.183698,43.586633],
+  "geometry": {"coordinates":[-116.183698,43.586633],"type":"Point"}
+}

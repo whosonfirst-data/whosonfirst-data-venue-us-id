@@ -1,0 +1,84 @@
+{
+  "id": 320523235,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-116.995043,46.416424,-116.995043,46.416424",
+    "geom:latitude":46.416424,
+    "geom:longitude":-116.995043,
+    "iso:country":"US",
+    "sg:address":"0122 26th St",
+    "sg:city":"Lewiston",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 746 0634",
+    "sg:postcode":"83501",
+    "sg:province":"ID",
+    "sg:tags":[
+        "wheel",
+        "body",
+        "automobile",
+        "servicing-automotive",
+        "balancing",
+        "axle",
+        "wheels-aligning",
+        "alignment-frame",
+        "painting",
+        "repairing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85937743,
+        102086039,
+        85837769
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_15t6PZvxlR7c0uhnshem1q_46.416424_-116.995043@1303263095"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"3200899b52f7090b45ea4a25b1ae7ac1",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086039,
+            "locality_id":85937743,
+            "neighbourhood_id":85837769,
+            "region_id":85688657,
+            "venue_id":320523235
+        }
+    ],
+    "wof:id":320523235,
+    "wof:lastmodified":1449013413,
+    "wof:name":"Kennedy's Body & Paint, Inc.",
+    "wof:parent_id":85837769,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "wheel",
+        "body",
+        "automobile",
+        "servicing-automotive",
+        "balancing",
+        "axle",
+        "wheels-aligning",
+        "alignment-frame",
+        "painting",
+        "repairing"
+    ]
+},
+  "bbox": [-116.995043,46.416424,-116.995043,46.416424],
+  "geometry": {"coordinates":[-116.995043,46.416424],"type":"Point"}
+}

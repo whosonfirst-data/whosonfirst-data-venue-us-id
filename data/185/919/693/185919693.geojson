@@ -1,0 +1,76 @@
+{
+  "id": 185919693,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-116.799985,47.712091,-116.799985,47.712091",
+    "geom:latitude":47.712091,
+    "geom:longitude":-116.799985,
+    "iso:country":"US",
+    "sg:address":"3890 N Schreiber Way",
+    "sg:city":"Coeur D Alene",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Food",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 664 2336",
+    "sg:postcode":"83815",
+    "sg:province":"ID",
+    "sg:tags":[
+        "winery"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85938163,
+        102086085,
+        85806325,
+        85821457
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1BRBZLzUwLuKEP0h0voCRc_47.712091_-116.799985@1294099250"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"4bf1964716ce596d70b3b18f3007d0df",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086085,
+            "locality_id":85938163,
+            "neighbourhood_id":85806325,
+            "region_id":85688657,
+            "venue_id":185919693
+        },
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086085,
+            "locality_id":-1,
+            "neighbourhood_id":85821457,
+            "region_id":85688657,
+            "venue_id":185919693
+        }
+    ],
+    "wof:id":185919693,
+    "wof:lastmodified":1449007831,
+    "wof:name":"Coeur D'Alene Cellars",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "winery"
+    ]
+},
+  "bbox": [-116.799985,47.712091,-116.799985,47.712091],
+  "geometry": {"coordinates":[-116.799985,47.712091],"type":"Point"}
+}

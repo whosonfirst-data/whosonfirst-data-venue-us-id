@@ -1,0 +1,68 @@
+{
+  "id": 185913741,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-116.292414,43.589882,-116.292414,43.589882",
+    "geom:latitude":43.589882,
+    "geom:longitude":-116.292414,
+    "iso:country":"US",
+    "sg:address":"1630 Hadley Ave",
+    "sg:city":"Boise",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 377 4060",
+    "sg:postcode":"83709",
+    "sg:province":"ID",
+    "sg:tags":[
+        "automobile",
+        "lubrication"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85937923,
+        102086087,
+        85876309
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6pv7yvQMIUazSobzxJpzbQ_43.589882_-116.292414@1294099250"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"8003c56b6101c0d719c843fdae2dc8f0",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086087,
+            "locality_id":85937923,
+            "neighbourhood_id":85876309,
+            "region_id":85688657,
+            "venue_id":185913741
+        }
+    ],
+    "wof:id":185913741,
+    "wof:lastmodified":1449007234,
+    "wof:name":"Econo Lube N' Tune",
+    "wof:parent_id":85876309,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automobile",
+        "lubrication"
+    ]
+},
+  "bbox": [-116.292414,43.589882,-116.292414,43.589882],
+  "geometry": {"coordinates":[-116.292414,43.589882],"type":"Point"}
+}

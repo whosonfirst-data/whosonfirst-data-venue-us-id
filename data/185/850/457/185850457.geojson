@@ -1,0 +1,69 @@
+{
+  "id": 185850457,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-114.762226,42.600739,-114.762226,42.600739",
+    "geom:latitude":42.600739,
+    "geom:longitude":-114.762226,
+    "iso:country":"US",
+    "sg:address":"203 Broadway Ave N",
+    "sg:city":"Buhl",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 543 5125",
+    "sg:postcode":"83316",
+    "sg:province":"ID",
+    "sg:tags":[
+        "city",
+        "planning",
+        "dev"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85937891,
+        102085153
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0VzJEnlpAd78AX0tgdDbDp_42.600739_-114.762226@1294099250"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"ff1dd5efaffef5e53ef3295a10984a8a",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085153,
+            "locality_id":85937891,
+            "neighbourhood_id":-1,
+            "region_id":85688657,
+            "venue_id":185850457
+        }
+    ],
+    "wof:id":185850457,
+    "wof:lastmodified":1449007542,
+    "wof:name":"Buhl City Planning & Zoning",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "city",
+        "planning",
+        "dev"
+    ]
+},
+  "bbox": [-114.762226,42.600739,-114.762226,42.600739],
+  "geometry": {"coordinates":[-114.762226,42.600739],"type":"Point"}
+}

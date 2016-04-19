@@ -1,0 +1,67 @@
+{
+  "id": 169853233,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-116.561755,43.578678,-116.561755,43.578678",
+    "geom:latitude":43.578678,
+    "geom:longitude":-116.561755,
+    "iso:country":"US",
+    "sg:address":"1103 2nd St S",
+    "sg:city":"Nampa",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Fire Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 468 5770",
+    "sg:postcode":"83651",
+    "sg:province":"ID",
+    "sg:tags":[
+        "department"
+    ],
+    "sg:website":"www.nampafire.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85938009,
+        102085081,
+        85827787
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6xucrQaGb2UcEvLlHTM8k2_43.578678_-116.561755@1294099250"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"70f6e2ac3dbdcb3ccbe5b0f1a7bcaa7c",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085081,
+            "locality_id":85938009,
+            "neighbourhood_id":85827787,
+            "region_id":85688657,
+            "venue_id":169853233
+        }
+    ],
+    "wof:id":169853233,
+    "wof:lastmodified":1449034013,
+    "wof:name":"Nampa Fire Dept",
+    "wof:parent_id":85827787,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "department"
+    ]
+},
+  "bbox": [-116.561755,43.578678,-116.561755,43.578678],
+  "geometry": {"coordinates":[-116.561755,43.578678],"type":"Point"}
+}

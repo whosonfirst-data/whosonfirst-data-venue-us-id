@@ -1,0 +1,67 @@
+{
+  "id": 186449785,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-116.286099,43.588292,-116.286099,43.588292",
+    "geom:latitude":43.588292,
+    "geom:longitude":-116.286099,
+    "iso:country":"US",
+    "sg:address":"8303 Vincent St",
+    "sg:city":"Boise",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 322 5200",
+    "sg:postcode":"83709",
+    "sg:province":"ID",
+    "sg:tags":[
+        "commercial",
+        "storage"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        102086087,
+        85876321
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1BzOAVbCux165Hi4Uu6nHR_43.588292_-116.286099@1294099250"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"d96e904ea5019379047201361496b065",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086087,
+            "locality_id":-1,
+            "neighbourhood_id":85876321,
+            "region_id":85688657,
+            "venue_id":186449785
+        }
+    ],
+    "wof:id":186449785,
+    "wof:lastmodified":1449052832,
+    "wof:name":"Boise Self Storage",
+    "wof:parent_id":85876321,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "commercial",
+        "storage"
+    ]
+},
+  "bbox": [-116.286099,43.588292,-116.286099,43.588292],
+  "geometry": {"coordinates":[-116.286099,43.588292],"type":"Point"}
+}

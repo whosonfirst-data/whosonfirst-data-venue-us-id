@@ -1,0 +1,73 @@
+{
+  "id": 320551477,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-116.90054,46.920999,-116.90054,46.920999",
+    "geom:latitude":46.920999,
+    "geom:longitude":-116.90054,
+    "iso:country":"US",
+    "sg:address":"535 Pine St",
+    "sg:city":"Potlatch",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Business Services",
+            "type":"Services"
+        },
+        {
+            "category":"Government",
+            "subcategory":"Post Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 875 0828",
+    "sg:postcode":"83855",
+    "sg:province":"ID",
+    "sg:tags":[
+        "mail",
+        "shipping"
+    ],
+    "sg:website":"http://www.usps.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85937731,
+        102085077
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1S0rAnhX8firYr8HdrfgoV_46.920999_-116.900540@1303263095"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"3d3f6042ef2e5b80919a324ab185e964",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085077,
+            "locality_id":85937731,
+            "neighbourhood_id":-1,
+            "region_id":85688657,
+            "venue_id":320551477
+        }
+    ],
+    "wof:id":320551477,
+    "wof:lastmodified":1449012010,
+    "wof:name":"Us Post Office",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mail",
+        "shipping"
+    ]
+},
+  "bbox": [-116.90054,46.920999,-116.90054,46.920999],
+  "geometry": {"coordinates":[-116.90054,46.920999],"type":"Point"}
+}

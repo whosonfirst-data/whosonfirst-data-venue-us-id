@@ -1,0 +1,65 @@
+{
+  "id": 186445303,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-116.944736,47.715168,-116.944736,47.715168",
+    "geom:latitude":47.715168,
+    "geom:longitude":-116.944736,
+    "iso:country":"US",
+    "sg:address":"317 E Seltice Way",
+    "sg:city":"Post Falls",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 773 4714",
+    "sg:postcode":"83854",
+    "sg:province":"ID",
+    "sg:tags":[
+        "grocer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        102086085,
+        85833263
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7KliKfg8cHsiwpJVFoyjgx_47.715168_-116.944736@1294099250"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"47f6759eec3a8604dcde1072b3cddd8e",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086085,
+            "locality_id":-1,
+            "neighbourhood_id":85833263,
+            "region_id":85688657,
+            "venue_id":186445303
+        }
+    ],
+    "wof:id":186445303,
+    "wof:lastmodified":1449050668,
+    "wof:name":"Spencer's-Excell",
+    "wof:parent_id":85833263,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "grocer"
+    ]
+},
+  "bbox": [-116.944736,47.715168,-116.944736,47.715168],
+  "geometry": {"coordinates":[-116.944736,47.715168],"type":"Point"}
+}

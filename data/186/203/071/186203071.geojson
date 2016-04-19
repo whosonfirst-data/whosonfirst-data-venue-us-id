@@ -1,0 +1,68 @@
+{
+  "id": 186203071,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-116.19839,43.579638,-116.19839,43.579638",
+    "geom:latitude":43.579638,
+    "geom:longitude":-116.19839,
+    "iso:country":"US",
+    "sg:address":"2505 S Federal Way",
+    "sg:city":"Boise",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 345 4000",
+    "sg:postcode":"83705",
+    "sg:province":"ID",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85937923,
+        102086087,
+        85876343
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5ryuqqWOFM3TINSTrQvdPG_43.579638_-116.198390@1294099250"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"a2c0060aaf3254ca3e80a82bd75db381",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086087,
+            "locality_id":85937923,
+            "neighbourhood_id":85876343,
+            "region_id":85688657,
+            "venue_id":186203071
+        }
+    ],
+    "wof:id":186203071,
+    "wof:lastmodified":1449051566,
+    "wof:name":"D F Auto Svc",
+    "wof:parent_id":85876343,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [-116.19839,43.579638,-116.19839,43.579638],
+  "geometry": {"coordinates":[-116.19839,43.579638],"type":"Point"}
+}

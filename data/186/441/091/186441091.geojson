@@ -1,0 +1,67 @@
+{
+  "id": 186441091,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-112.456424,42.879201,-112.456424,42.879201",
+    "geom:latitude":42.879201,
+    "geom:longitude":-112.456424,
+    "iso:country":"US",
+    "sg:address":"275 McKinley Ave",
+    "sg:city":"Pocatello",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 232 0660",
+    "sg:postcode":"83201",
+    "sg:province":"ID",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85937925,
+        102086113
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6Vd89qJM2f1jSa7gWztmsW_42.879201_-112.456424@1294099250"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"9d9d4655e64ba2bf0523cdd059534d20",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086113,
+            "locality_id":85937925,
+            "neighbourhood_id":-1,
+            "region_id":85688657,
+            "venue_id":186441091
+        }
+    ],
+    "wof:id":186441091,
+    "wof:lastmodified":1449050450,
+    "wof:name":"Sun Power Automotive Ctr",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [-112.456424,42.879201,-112.456424,42.879201],
+  "geometry": {"coordinates":[-112.456424,42.879201],"type":"Point"}
+}

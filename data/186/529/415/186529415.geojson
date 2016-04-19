@@ -1,0 +1,67 @@
+{
+  "id": 186529415,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-116.923393,44.025478,-116.923393,44.025478",
+    "geom:latitude":44.025478,
+    "geom:longitude":-116.923393,
+    "iso:country":"US",
+    "sg:address":"1600 N Whitley Dr",
+    "sg:city":"Fruitland",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 452 5100",
+    "sg:postcode":"83619",
+    "sg:province":"ID",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85937909,
+        102086023
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3H5wo2Ygy4Oue5WmXBDOM0_44.025478_-116.923393@1294099250"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"247ebc2db703ed96d2ee7de4a4b9af98",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086023,
+            "locality_id":85937909,
+            "neighbourhood_id":-1,
+            "region_id":85688657,
+            "venue_id":186529415
+        }
+    ],
+    "wof:id":186529415,
+    "wof:lastmodified":1449051548,
+    "wof:name":"Primary Health Fruitland",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [-116.923393,44.025478,-116.923393,44.025478],
+  "geometry": {"coordinates":[-116.923393,44.025478],"type":"Point"}
+}

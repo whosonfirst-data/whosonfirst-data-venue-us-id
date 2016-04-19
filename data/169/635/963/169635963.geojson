@@ -1,0 +1,68 @@
+{
+  "id": 169635963,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-116.393747,43.597933,-116.393747,43.597933",
+    "geom:latitude":43.597933,
+    "geom:longitude":-116.393747,
+    "iso:country":"US",
+    "sg:address":"613 S Meridian Rd",
+    "sg:city":"Meridian",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 888 3559",
+    "sg:postcode":"83642",
+    "sg:province":"ID",
+    "sg:tags":[
+        "renting",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85937915,
+        102086087,
+        85805083
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_04YWeLD4Ni00Dpgbe3x1pS_43.597933_-116.393747@1294099250"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"e94b4fcf3aafb9aebf18a442764057b7",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086087,
+            "locality_id":85937915,
+            "neighbourhood_id":85805083,
+            "region_id":85688657,
+            "venue_id":169635963
+        }
+    ],
+    "wof:id":169635963,
+    "wof:lastmodified":1449034097,
+    "wof:name":"Enterprise Rent-A-Car",
+    "wof:parent_id":85805083,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "renting",
+        "automobile"
+    ]
+},
+  "bbox": [-116.393747,43.597933,-116.393747,43.597933],
+  "geometry": {"coordinates":[-116.393747,43.597933],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 186553039,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-116.596486,43.66326,-116.596486,43.66326",
+    "geom:latitude":43.66326,
+    "geom:longitude":-116.596486,
+    "iso:country":"US",
+    "sg:address":"10224 US Hwy 26",
+    "sg:city":"Caldwell",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 454 1509",
+    "sg:postcode":"83605",
+    "sg:province":"ID",
+    "sg:tags":[
+        "repairing",
+        "tire"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85938017,
+        102085081
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1fQtmpQsJGzwULMZtqVryA_43.663260_-116.596486@1294099250"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"a0e5f0d1739caa8babd60e848927400d",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085081,
+            "locality_id":85938017,
+            "neighbourhood_id":-1,
+            "region_id":85688657,
+            "venue_id":186553039
+        }
+    ],
+    "wof:id":186553039,
+    "wof:lastmodified":1449050271,
+    "wof:name":"Valley Retreading",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "tire"
+    ]
+},
+  "bbox": [-116.596486,43.66326,-116.596486,43.66326],
+  "geometry": {"coordinates":[-116.596486,43.66326],"type":"Point"}
+}

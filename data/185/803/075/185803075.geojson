@@ -1,0 +1,67 @@
+{
+  "id": 185803075,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-116.126797,45.928209,-116.126797,45.928209",
+    "geom:latitude":45.928209,
+    "geom:longitude":-116.126797,
+    "iso:country":"US",
+    "sg:address":"610 NW 2nd St",
+    "sg:city":"Grangeville",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 983 5120",
+    "sg:postcode":"83530",
+    "sg:province":"ID",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85937869,
+        102085053
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1SOGz6jAVEfRPbpxWBopkd_45.928209_-116.126797@1294099250"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"ef88c3cd9bc8723e6abca3c8733695d9",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085053,
+            "locality_id":85937869,
+            "neighbourhood_id":-1,
+            "region_id":85688657,
+            "venue_id":185803075
+        }
+    ],
+    "wof:id":185803075,
+    "wof:lastmodified":1449008227,
+    "wof:name":"Leblanc Family Medicine",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [-116.126797,45.928209,-116.126797,45.928209],
+  "geometry": {"coordinates":[-116.126797,45.928209],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 169784545,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-116.574277,43.554288,-116.574277,43.554288",
+    "geom:latitude":43.554288,
+    "geom:longitude":-116.574277,
+    "iso:country":"US",
+    "sg:address":"222 W Iowa Ave",
+    "sg:city":"Nampa",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 467 6666",
+    "sg:postcode":"83686",
+    "sg:province":"ID",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85938009,
+        102085081,
+        85827787
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_11IVs9m8n8u3JrOibMFdVK_43.554288_-116.574277@1294099250"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"08a5ca5d3f3ed260d47a0b7479d23772",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085081,
+            "locality_id":85938009,
+            "neighbourhood_id":85827787,
+            "region_id":85688657,
+            "venue_id":169784545
+        }
+    ],
+    "wof:id":169784545,
+    "wof:lastmodified":1449034892,
+    "wof:name":"Renee Ryder MD",
+    "wof:parent_id":85827787,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [-116.574277,43.554288,-116.574277,43.554288],
+  "geometry": {"coordinates":[-116.574277,43.554288],"type":"Point"}
+}

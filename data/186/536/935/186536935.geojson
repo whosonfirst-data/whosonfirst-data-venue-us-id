@@ -1,0 +1,68 @@
+{
+  "id": 186536935,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-116.193505,43.611648,-116.193505,43.611648",
+    "geom:latitude":43.611648,
+    "geom:longitude":-116.193505,
+    "iso:country":"US",
+    "sg:address":"125 E Idaho St",
+    "sg:city":"Boise",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 344 5757",
+    "sg:postcode":"83712",
+    "sg:province":"ID",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85937923,
+        102086087,
+        85876345
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3zo9s2skwrWyJmojdrlGb2_43.611648_-116.193505@1294099250"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"75dfd74b4330da6c1919b8f0bf4dabd8",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086087,
+            "locality_id":85937923,
+            "neighbourhood_id":85876345,
+            "region_id":85688657,
+            "venue_id":186536935
+        }
+    ],
+    "wof:id":186536935,
+    "wof:lastmodified":1449051973,
+    "wof:name":"Urology Associates",
+    "wof:parent_id":85876345,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [-116.193505,43.611648,-116.193505,43.611648],
+  "geometry": {"coordinates":[-116.193505,43.611648],"type":"Point"}
+}

@@ -1,0 +1,77 @@
+{
+  "id": 320532917,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-116.381146,43.588227,-116.381146,43.588227",
+    "geom:latitude":43.588227,
+    "geom:longitude":-116.381146,
+    "iso:country":"US",
+    "sg:address":"1053 E Peacock St",
+    "sg:city":"Meridian",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Glass & Minerals",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 365 9573",
+    "sg:postcode":"83642",
+    "sg:province":"ID",
+    "sg:tags":[
+        "plate",
+        "window",
+        "windshield",
+        "glass-auto"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85937915,
+        102086087,
+        85805083
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2whdcWF9OARjJotdZMMH1B_43.588227_-116.381146@1303263095"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"3646f5d352041c07065adf862591a28b",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086087,
+            "locality_id":85937915,
+            "neighbourhood_id":85805083,
+            "region_id":85688657,
+            "venue_id":320532917
+        }
+    ],
+    "wof:id":320532917,
+    "wof:lastmodified":1449012529,
+    "wof:name":"Stictly Auto Glass",
+    "wof:parent_id":85805083,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "plate",
+        "window",
+        "windshield",
+        "glass-auto"
+    ]
+},
+  "bbox": [-116.381146,43.588227,-116.381146,43.588227],
+  "geometry": {"coordinates":[-116.381146,43.588227],"type":"Point"}
+}

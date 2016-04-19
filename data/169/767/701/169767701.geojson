@@ -1,0 +1,68 @@
+{
+  "id": 169767701,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-116.274104,43.602124,-116.274104,43.602124",
+    "geom:latitude":43.602124,
+    "geom:longitude":-116.274104,
+    "iso:country":"US",
+    "sg:address":"202 S Cole Rd",
+    "sg:city":"Boise",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Investment Brokerage",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 375 3309",
+    "sg:postcode":"83709",
+    "sg:province":"ID",
+    "sg:tags":[
+        "stock",
+        "bond"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85937923,
+        102086087,
+        85841319
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1mnqo27kHlb3v3nHBqUKD6_43.602124_-116.274104@1294099250"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"e0503b173d75ba03cca9a4ea370326e8",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086087,
+            "locality_id":85937923,
+            "neighbourhood_id":85841319,
+            "region_id":85688657,
+            "venue_id":169767701
+        }
+    ],
+    "wof:id":169767701,
+    "wof:lastmodified":1449033627,
+    "wof:name":"Barton Investment Svc",
+    "wof:parent_id":85841319,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "stock",
+        "bond"
+    ]
+},
+  "bbox": [-116.274104,43.602124,-116.274104,43.602124],
+  "geometry": {"coordinates":[-116.274104,43.602124],"type":"Point"}
+}

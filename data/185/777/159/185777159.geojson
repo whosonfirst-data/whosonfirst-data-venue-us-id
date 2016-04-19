@@ -1,0 +1,66 @@
+{
+  "id": 185777159,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-116.790738,47.744159,-116.790738,47.744159",
+    "geom:latitude":47.744159,
+    "geom:longitude":-116.790738,
+    "iso:country":"US",
+    "sg:address":"7950 N Meadowlark Way",
+    "sg:city":"Coeur D Alene",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Testing Lab",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 762 8378",
+    "sg:postcode":"83815",
+    "sg:province":"ID",
+    "sg:tags":[
+        "laboratory"
+    ],
+    "sg:website":"www.accuratetesting.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        102086085,
+        85821457
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6qYVJs2y8rQKQIDV5gOTiy_47.744159_-116.790738@1294099250"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"68b9a92b15c93781913d1c5ace41decd",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086085,
+            "locality_id":-1,
+            "neighbourhood_id":85821457,
+            "region_id":85688657,
+            "venue_id":185777159
+        }
+    ],
+    "wof:id":185777159,
+    "wof:lastmodified":1449007470,
+    "wof:name":"Accurate Testing Labs",
+    "wof:parent_id":85821457,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "laboratory"
+    ]
+},
+  "bbox": [-116.790738,47.744159,-116.790738,47.744159],
+  "geometry": {"coordinates":[-116.790738,47.744159],"type":"Point"}
+}

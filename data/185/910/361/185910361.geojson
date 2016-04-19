@@ -1,0 +1,68 @@
+{
+  "id": 185910361,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-116.128089,47.538605,-116.128089,47.538605",
+    "geom:latitude":47.538605,
+    "geom:longitude":-116.128089,
+    "iso:country":"US",
+    "sg:address":"411 Bunker Ave",
+    "sg:city":"Kellogg",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 784 4421",
+    "sg:postcode":"83837",
+    "sg:province":"ID",
+    "sg:tags":[
+        "building",
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85937825,
+        102086103,
+        85849049
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7hXnYlugR53j7vaAPIfmB1_47.538605_-116.128089@1294099250"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"5eabaf1626d97519ff2b14af07787c9d",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086103,
+            "locality_id":85937825,
+            "neighbourhood_id":85849049,
+            "region_id":85688657,
+            "venue_id":185910361
+        }
+    ],
+    "wof:id":185910361,
+    "wof:lastmodified":1449007275,
+    "wof:name":"Idaho Housing Agency",
+    "wof:parent_id":85849049,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "building",
+        "apartment"
+    ]
+},
+  "bbox": [-116.128089,47.538605,-116.128089,47.538605],
+  "geometry": {"coordinates":[-116.128089,47.538605],"type":"Point"}
+}

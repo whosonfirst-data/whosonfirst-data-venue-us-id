@@ -1,0 +1,73 @@
+{
+  "id": 186324685,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-116.567853,47.315186,-116.567853,47.315186",
+    "geom:latitude":47.315186,
+    "geom:longitude":-116.567853,
+    "iso:country":"US",
+    "sg:address":"229 S 8th St",
+    "sg:city":"St Maries",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 245 2591",
+    "sg:postcode":"83861",
+    "sg:province":"ID",
+    "sg:tags":[
+        "physician",
+        "medical",
+        "surgeon",
+        "hospital",
+        "specialty"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85937835,
+        102086089
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5Scl9WvkZ2VrTWbIEgYl4O_47.315186_-116.567853@1294099250"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"acf521e1d63c61c7ec8cee06c2815a61",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086089,
+            "locality_id":85937835,
+            "neighbourhood_id":-1,
+            "region_id":85688657,
+            "venue_id":186324685
+        }
+    ],
+    "wof:id":186324685,
+    "wof:lastmodified":1449051940,
+    "wof:name":"Saint Maries Family Medicine",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "medical",
+        "surgeon",
+        "hospital",
+        "specialty"
+    ]
+},
+  "bbox": [-116.567853,47.315186,-116.567853,47.315186],
+  "geometry": {"coordinates":[-116.567853,47.315186],"type":"Point"}
+}

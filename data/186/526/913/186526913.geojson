@@ -1,0 +1,66 @@
+{
+  "id": 186526913,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-116.315139,43.63386,-116.315139,43.63386",
+    "geom:latitude":43.63386,
+    "geom:longitude":-116.315139,
+    "iso:country":"US",
+    "sg:address":"10689 Ustick Rd",
+    "sg:city":"Boise",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Bakery",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 375 7724",
+    "sg:postcode":"83713",
+    "sg:province":"ID",
+    "sg:tags":[
+        "baker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85937923,
+        102086087,
+        85876357
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2HCPJfcbUVQaJiracAiryX_43.633860_-116.315139@1294099250"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"91b1d837a0c149a70ad0ab0eea270f66",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086087,
+            "locality_id":85937923,
+            "neighbourhood_id":85876357,
+            "region_id":85688657,
+            "venue_id":186526913
+        }
+    ],
+    "wof:id":186526913,
+    "wof:lastmodified":1449051197,
+    "wof:name":"Bakery Basket",
+    "wof:parent_id":85876357,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "baker"
+    ]
+},
+  "bbox": [-116.315139,43.63386,-116.315139,43.63386],
+  "geometry": {"coordinates":[-116.315139,43.63386],"type":"Point"}
+}

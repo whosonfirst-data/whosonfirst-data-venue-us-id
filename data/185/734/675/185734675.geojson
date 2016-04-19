@@ -1,0 +1,68 @@
+{
+  "id": 185734675,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-116.16354,43.60269,-116.16354,43.60269",
+    "geom:latitude":43.60269,
+    "geom:longitude":-116.16354,
+    "iso:country":"US",
+    "sg:address":"2440 Old Penitentiary Rd",
+    "sg:city":"Boise",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Water",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 342 3162",
+    "sg:postcode":"83712",
+    "sg:province":"ID",
+    "sg:tags":[
+        "company",
+        "sewage"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85937923,
+        102086087,
+        85876305
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6G69ZqOpnVc8qerHjDTkYo_43.602690_-116.163540@1294099250"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"869ffff8ed520b085ede8d0cfc0194c2",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086087,
+            "locality_id":85937923,
+            "neighbourhood_id":85876305,
+            "region_id":85688657,
+            "venue_id":185734675
+        }
+    ],
+    "wof:id":185734675,
+    "wof:lastmodified":1449008017,
+    "wof:name":"Boise Warm Springs Water Dist",
+    "wof:parent_id":85876305,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "company",
+        "sewage"
+    ]
+},
+  "bbox": [-116.16354,43.60269,-116.16354,43.60269],
+  "geometry": {"coordinates":[-116.16354,43.60269],"type":"Point"}
+}

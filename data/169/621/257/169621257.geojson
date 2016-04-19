@@ -1,0 +1,66 @@
+{
+  "id": 169621257,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-116.92249,47.712088,-116.92249,47.712088",
+    "geom:latitude":47.712088,
+    "geom:longitude":-116.92249,
+    "iso:country":"US",
+    "sg:address":"1610 E Schneidmiller Ave",
+    "sg:city":"Post Falls",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 777 1712",
+    "sg:postcode":"83854",
+    "sg:province":"ID",
+    "sg:tags":[
+        "eating"
+    ],
+    "sg:website":"www.hotrodcafe.org",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        102086085,
+        85833263
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3AAQpOGwjoSW5FDZ7KwVbQ_47.712088_-116.922490@1294099250"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"ae239c5af0c6b9a23bcf64237a961595",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086085,
+            "locality_id":-1,
+            "neighbourhood_id":85833263,
+            "region_id":85688657,
+            "venue_id":169621257
+        }
+    ],
+    "wof:id":169621257,
+    "wof:lastmodified":1449035559,
+    "wof:name":"Hot Rod Cafe",
+    "wof:parent_id":85833263,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "eating"
+    ]
+},
+  "bbox": [-116.92249,47.712088,-116.92249,47.712088],
+  "geometry": {"coordinates":[-116.92249,47.712088],"type":"Point"}
+}

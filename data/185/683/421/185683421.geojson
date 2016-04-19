@@ -1,0 +1,66 @@
+{
+  "id": 185683421,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-116.329959,43.636075,-116.329959,43.636075",
+    "geom:latitude":43.636075,
+    "geom:longitude":-116.329959,
+    "iso:country":"US",
+    "sg:address":"11854 W Flintlock Dr",
+    "sg:city":"Boise",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 658 9980",
+    "sg:postcode":"83713",
+    "sg:province":"ID",
+    "sg:tags":[
+        "caterer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85937923,
+        102086087,
+        85876351
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4gHUK8dSbg8XfdBarec7cV_43.636075_-116.329959@1294099250"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"fbb6096d38d02ccb99b677eaf58bbb9c",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086087,
+            "locality_id":85937923,
+            "neighbourhood_id":85876351,
+            "region_id":85688657,
+            "venue_id":185683421
+        }
+    ],
+    "wof:id":185683421,
+    "wof:lastmodified":1449007193,
+    "wof:name":"Authentic Dutch Oven Catering",
+    "wof:parent_id":85876351,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "caterer"
+    ]
+},
+  "bbox": [-116.329959,43.636075,-116.329959,43.636075],
+  "geometry": {"coordinates":[-116.329959,43.636075],"type":"Point"}
+}

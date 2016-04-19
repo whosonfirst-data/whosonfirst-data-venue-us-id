@@ -1,0 +1,89 @@
+{
+  "id": 320551411,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-116.898861,47.808057,-116.898861,47.808057",
+    "geom:latitude":47.808057,
+    "geom:longitude":-116.898861,
+    "iso:country":"US",
+    "sg:address":"8340 W Park Loop",
+    "sg:city":"Rathdrum",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        },
+        {
+            "category":"Communications",
+            "subcategory":"",
+            "type":"Services"
+        },
+        {
+            "category":"Communications",
+            "subcategory":"Television Station",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 800 687 9092",
+    "sg:postcode":"83858",
+    "sg:province":"ID",
+    "sg:tags":[
+        "satellite",
+        "systems-repair",
+        "cable",
+        "tv",
+        "system",
+        "equipment",
+        "carrier",
+        "communications-common"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        102086085,
+        85833263
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6KRvEqog7hsIPjlCk0Kuke_47.808057_-116.898861@1303263095"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"cc6230bb88fa38760bbb3bd853870ccb",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086085,
+            "locality_id":-1,
+            "neighbourhood_id":85833263,
+            "region_id":85688657,
+            "venue_id":320551411
+        }
+    ],
+    "wof:id":320551411,
+    "wof:lastmodified":1449012011,
+    "wof:name":"Beyond Entertainment",
+    "wof:parent_id":85833263,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "satellite",
+        "systems-repair",
+        "cable",
+        "tv",
+        "system",
+        "equipment",
+        "carrier",
+        "communications-common"
+    ]
+},
+  "bbox": [-116.898861,47.808057,-116.898861,47.808057],
+  "geometry": {"coordinates":[-116.898861,47.808057],"type":"Point"}
+}

@@ -1,0 +1,100 @@
+{
+  "id": 320524823,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-116.967857,46.374847,-116.967857,46.374847",
+    "geom:latitude":46.374847,
+    "geom:longitude":-116.967857,
+    "iso:country":"US",
+    "sg:address":"525 Thain Rd",
+    "sg:city":"Lewiston",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Computers & Home Electronics",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 746 8324",
+    "sg:postcode":"83501",
+    "sg:province":"ID",
+    "sg:tags":[
+        "repair",
+        "internet",
+        "network",
+        "supply",
+        "isp",
+        "system",
+        "hardware",
+        "design",
+        "equipment-service",
+        "provider"
+    ],
+    "sg:website":"http://www.thecomputerguystore.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85937743,
+        102086039,
+        85837769,
+        85830385
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3f4e0AtxZWODLvckDniS7p_46.374847_-116.967857@1303263095"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"82efd7f4c383de7b9e6b5eda8c06637d",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086039,
+            "locality_id":85937743,
+            "neighbourhood_id":85837769,
+            "region_id":85688657,
+            "venue_id":320524823
+        },
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086039,
+            "locality_id":85937743,
+            "neighbourhood_id":85830385,
+            "region_id":85688657,
+            "venue_id":320524823
+        }
+    ],
+    "wof:id":320524823,
+    "wof:lastmodified":1449011224,
+    "wof:name":"The Computer Guy",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repair",
+        "internet",
+        "network",
+        "supply",
+        "isp",
+        "system",
+        "hardware",
+        "design",
+        "equipment-service",
+        "provider"
+    ]
+},
+  "bbox": [-116.967857,46.374847,-116.967857,46.374847],
+  "geometry": {"coordinates":[-116.967857,46.374847],"type":"Point"}
+}

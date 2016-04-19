@@ -1,0 +1,66 @@
+{
+  "id": 186042219,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-116.413546,43.607128,-116.413546,43.607128",
+    "geom:latitude":43.607128,
+    "geom:longitude":-116.413546,
+    "iso:country":"US",
+    "sg:address":"270 N Linder Rd",
+    "sg:city":"Meridian",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 887 7993",
+    "sg:postcode":"83642",
+    "sg:province":"ID",
+    "sg:tags":[
+        "trailer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85937915,
+        102086087,
+        85805083
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1C9MT97K7jZsgcjkXIiOdu_43.607128_-116.413546@1294099250"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"e76d65f60a622e44c2d68c820d9174ae",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086087,
+            "locality_id":85937915,
+            "neighbourhood_id":85805083,
+            "region_id":85688657,
+            "venue_id":186042219
+        }
+    ],
+    "wof:id":186042219,
+    "wof:lastmodified":1449052365,
+    "wof:name":"Wilson Trailer Co",
+    "wof:parent_id":85805083,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "trailer"
+    ]
+},
+  "bbox": [-116.413546,43.607128,-116.413546,43.607128],
+  "geometry": {"coordinates":[-116.413546,43.607128],"type":"Point"}
+}

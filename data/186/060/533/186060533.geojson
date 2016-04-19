@@ -1,0 +1,70 @@
+{
+  "id": 186060533,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-116.255768,43.60343,-116.255768,43.60343",
+    "geom:latitude":43.60343,
+    "geom:longitude":-116.255768,
+    "iso:country":"US",
+    "sg:address":"6126 Franklin Rd",
+    "sg:city":"Boise",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 344 8182",
+    "sg:postcode":"83709",
+    "sg:province":"ID",
+    "sg:tags":[
+        "repairing",
+        "remodeling",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85937923,
+        102086087,
+        85806577
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2NKUaAVTWRYTuIgabErxeS_43.603430_-116.255768@1294099250"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"c9228bd46423a6184291425dd7d84ced",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086087,
+            "locality_id":85937923,
+            "neighbourhood_id":85806577,
+            "region_id":85688657,
+            "venue_id":186060533
+        }
+    ],
+    "wof:id":186060533,
+    "wof:lastmodified":1449052776,
+    "wof:name":"Dave's Construction",
+    "wof:parent_id":85806577,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "remodeling",
+        "contractor"
+    ]
+},
+  "bbox": [-116.255768,43.60343,-116.255768,43.60343],
+  "geometry": {"coordinates":[-116.255768,43.60343],"type":"Point"}
+}

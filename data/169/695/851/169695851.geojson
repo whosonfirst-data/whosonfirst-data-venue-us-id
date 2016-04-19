@@ -1,0 +1,70 @@
+{
+  "id": 169695851,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-116.563091,43.623134,-116.563091,43.623134",
+    "geom:latitude":43.623134,
+    "geom:longitude":-116.563091,
+    "iso:country":"US",
+    "sg:address":"17178 Madison Rd",
+    "sg:city":"Nampa",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 467 4003",
+    "sg:postcode":"83687",
+    "sg:province":"ID",
+    "sg:tags":[
+        "repairing",
+        "piano",
+        "refinishing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85938009,
+        102085081,
+        85827787
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2yCsSO9ze6NvSkS4dpyPtG_43.623134_-116.563091@1294099250"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"85fec33856729107a90563ec6d467110",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085081,
+            "locality_id":85938009,
+            "neighbourhood_id":85827787,
+            "region_id":85688657,
+            "venue_id":169695851
+        }
+    ],
+    "wof:id":169695851,
+    "wof:lastmodified":1449033943,
+    "wof:name":"Arnett's Piano Svc",
+    "wof:parent_id":85827787,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "piano",
+        "refinishing"
+    ]
+},
+  "bbox": [-116.563091,43.623134,-116.563091,43.623134],
+  "geometry": {"coordinates":[-116.563091,43.623134],"type":"Point"}
+}

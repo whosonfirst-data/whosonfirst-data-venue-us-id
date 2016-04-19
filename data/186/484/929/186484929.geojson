@@ -1,0 +1,67 @@
+{
+  "id": 186484929,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-116.933675,47.708206,-116.933675,47.708206",
+    "geom:latitude":47.708206,
+    "geom:longitude":-116.933675,
+    "iso:country":"US",
+    "sg:address":"1105 E 3rd Ave",
+    "sg:city":"Post Falls",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 777 1616",
+    "sg:postcode":"83854",
+    "sg:province":"ID",
+    "sg:tags":[
+        "building",
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        102086085,
+        85833263
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0o3VNBvDuOGSy0dJ8Km7EU_47.708206_-116.933675@1294099250"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"148b2abdc44a1483546ba72a1ff259e6",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086085,
+            "locality_id":-1,
+            "neighbourhood_id":85833263,
+            "region_id":85688657,
+            "venue_id":186484929
+        }
+    ],
+    "wof:id":186484929,
+    "wof:lastmodified":1449052876,
+    "wof:name":"Glen Meadowood II",
+    "wof:parent_id":85833263,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "building",
+        "apartment"
+    ]
+},
+  "bbox": [-116.933675,47.708206,-116.933675,47.708206],
+  "geometry": {"coordinates":[-116.933675,47.708206],"type":"Point"}
+}

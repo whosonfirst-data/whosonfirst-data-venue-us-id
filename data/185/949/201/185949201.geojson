@@ -1,0 +1,68 @@
+{
+  "id": 185949201,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-116.412067,43.603033,-116.412067,43.603033",
+    "geom:latitude":43.603033,
+    "geom:longitude":-116.412067,
+    "iso:country":"US",
+    "sg:address":"1455 W Kimra St",
+    "sg:city":"Meridian",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"Adult Care",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 888 5045",
+    "sg:postcode":"83642",
+    "sg:province":"ID",
+    "sg:tags":[
+        "home",
+        "residential"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85937915,
+        102086087,
+        85805083
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6t90ri0Fwf3UZjirTyeOxo_43.603033_-116.412067@1294099250"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"09e095558a35f3e4001066b5aa0a8584",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086087,
+            "locality_id":85937915,
+            "neighbourhood_id":85805083,
+            "region_id":85688657,
+            "venue_id":185949201
+        }
+    ],
+    "wof:id":185949201,
+    "wof:lastmodified":1449007605,
+    "wof:name":"Beehive Homes Of Idaho",
+    "wof:parent_id":85805083,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "home",
+        "residential"
+    ]
+},
+  "bbox": [-116.412067,43.603033,-116.412067,43.603033],
+  "geometry": {"coordinates":[-116.412067,43.603033],"type":"Point"}
+}

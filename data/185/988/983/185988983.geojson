@@ -1,0 +1,68 @@
+{
+  "id": 185988983,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-116.264486,43.637577,-116.264486,43.637577",
+    "geom:latitude":43.637577,
+    "geom:longitude":-116.264486,
+    "iso:country":"US",
+    "sg:address":"208 Murray St",
+    "sg:city":"Boise",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 322 6851",
+    "sg:postcode":"83714",
+    "sg:province":"ID",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85937919,
+        102086087,
+        85876349
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2IuXjrTFmg78tpRVdBRjRy_43.637577_-116.264486@1294099250"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"ea6b5b5fdd798ab2f1a32bb48ab589f5",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086087,
+            "locality_id":85937919,
+            "neighbourhood_id":85876349,
+            "region_id":85688657,
+            "venue_id":185988983
+        }
+    ],
+    "wof:id":185988983,
+    "wof:lastmodified":1449007147,
+    "wof:name":"B J Automotive",
+    "wof:parent_id":85876349,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [-116.264486,43.637577,-116.264486,43.637577],
+  "geometry": {"coordinates":[-116.264486,43.637577],"type":"Point"}
+}

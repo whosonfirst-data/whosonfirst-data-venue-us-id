@@ -1,0 +1,67 @@
+{
+  "id": 185833493,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-116.829542,47.74134,-116.829542,47.74134",
+    "geom:latitude":47.74134,
+    "geom:longitude":-116.829542,
+    "iso:country":"US",
+    "sg:address":"7672 N Atlas Rd",
+    "sg:city":"Coeur D Alene",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 772 6405",
+    "sg:postcode":"83815",
+    "sg:province":"ID",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        102086085,
+        85821457
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7OdX1MH51zc3ZyY2uRY4p8_47.741340_-116.829542@1294099250"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"cac68568fd048d65de6f67973fb64337",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086085,
+            "locality_id":-1,
+            "neighbourhood_id":85821457,
+            "region_id":85688657,
+            "venue_id":185833493
+        }
+    ],
+    "wof:id":185833493,
+    "wof:lastmodified":1449006803,
+    "wof:name":"Hutchin's Auto & Truck Svc",
+    "wof:parent_id":85821457,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [-116.829542,47.74134,-116.829542,47.74134],
+  "geometry": {"coordinates":[-116.829542,47.74134],"type":"Point"}
+}

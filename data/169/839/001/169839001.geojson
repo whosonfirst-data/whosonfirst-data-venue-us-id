@@ -1,0 +1,69 @@
+{
+  "id": 169839001,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-116.913221,44.087284,-116.913221,44.087284",
+    "geom:latitude":44.087284,
+    "geom:longitude":-116.913221,
+    "iso:country":"US",
+    "sg:address":"10200 Iowa Ave",
+    "sg:city":"Payette",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        },
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 642 4168",
+    "sg:postcode":"83661",
+    "sg:province":"ID",
+    "sg:tags":[
+        "welding",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633793,
+        85688657
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4uHSD80KNhbpflVGXLWV9F_44.087284_-116.913221@1294099250"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"99152acb4652fe0dcb2edf447067725a",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "locality_id":-1,
+            "neighbourhood_id":-1,
+            "region_id":85688657,
+            "venue_id":169839001
+        }
+    ],
+    "wof:id":169839001,
+    "wof:lastmodified":1449034665,
+    "wof:name":"Mike's Portable Welding",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "welding",
+        "contractor"
+    ]
+},
+  "bbox": [-116.913221,44.087284,-116.913221,44.087284],
+  "geometry": {"coordinates":[-116.913221,44.087284],"type":"Point"}
+}

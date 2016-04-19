@@ -1,0 +1,69 @@
+{
+  "id": 185685231,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-116.303642,43.67903,-116.303642,43.67903",
+    "geom:latitude":43.67903,
+    "geom:longitude":-116.303642,
+    "iso:country":"US",
+    "sg:address":"9601 W State St",
+    "sg:city":"Boise",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 854 0501",
+    "sg:postcode":"83714",
+    "sg:province":"ID",
+    "sg:tags":[
+        "repairing",
+        "remodeling",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        102086087,
+        85876315
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7PaUPpfMUffyo2HDX8BWE0_43.679030_-116.303642@1294099250"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"8cec71095993106d2f1c5c03ef1440f8",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086087,
+            "locality_id":-1,
+            "neighbourhood_id":85876315,
+            "region_id":85688657,
+            "venue_id":185685231
+        }
+    ],
+    "wof:id":185685231,
+    "wof:lastmodified":1449008147,
+    "wof:name":"Mackley Construction Inc",
+    "wof:parent_id":85876315,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "remodeling",
+        "contractor"
+    ]
+},
+  "bbox": [-116.303642,43.67903,-116.303642,43.67903],
+  "geometry": {"coordinates":[-116.303642,43.67903],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 320527983,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-116.687813,43.66546,-116.687813,43.66546",
+    "geom:latitude":43.66546,
+    "geom:longitude":-116.687813,
+    "iso:country":"US",
+    "sg:address":"823 Arthur St",
+    "sg:city":"Caldwell",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Business Services",
+            "type":"Services"
+        },
+        {
+            "category":"Government",
+            "subcategory":"Post Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 454 5560",
+    "sg:postcode":"83605",
+    "sg:province":"ID",
+    "sg:tags":[
+        "mail",
+        "shipping"
+    ],
+    "sg:website":"http://www.usps.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85938017,
+        102085081
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_59lNOHhsnx0zYZbIwehqf0_43.665460_-116.687813@1303263095"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"9cceb459d4df9a6f139b234fc3398c10",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085081,
+            "locality_id":85938017,
+            "neighbourhood_id":-1,
+            "region_id":85688657,
+            "venue_id":320527983
+        }
+    ],
+    "wof:id":320527983,
+    "wof:lastmodified":1449014194,
+    "wof:name":"USPS - United States Post Office - Caldwell Main Office",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mail",
+        "shipping"
+    ]
+},
+  "bbox": [-116.687813,43.66546,-116.687813,43.66546],
+  "geometry": {"coordinates":[-116.687813,43.66546],"type":"Point"}
+}

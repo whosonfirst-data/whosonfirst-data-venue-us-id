@@ -1,0 +1,68 @@
+{
+  "id": 169698755,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-116.402291,43.575482,-116.402291,43.575482",
+    "geom:latitude":43.575482,
+    "geom:longitude":-116.402291,
+    "iso:country":"US",
+    "sg:address":"735 W Victory Rd",
+    "sg:city":"Meridian",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 888 6814",
+    "sg:postcode":"83642",
+    "sg:province":"ID",
+    "sg:tags":[
+        "plumbing",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85937915,
+        102086087,
+        85805083
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4dgP5Ihlz0Fo3zIoBmb3Rv_43.575482_-116.402291@1294099250"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"db9a926924ab0f476514fd73658ae0ac",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086087,
+            "locality_id":85937915,
+            "neighbourhood_id":85805083,
+            "region_id":85688657,
+            "venue_id":169698755
+        }
+    ],
+    "wof:id":169698755,
+    "wof:lastmodified":1449035756,
+    "wof:name":"Integrity Plumbing",
+    "wof:parent_id":85805083,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "plumbing",
+        "contractor"
+    ]
+},
+  "bbox": [-116.402291,43.575482,-116.402291,43.575482],
+  "geometry": {"coordinates":[-116.402291,43.575482],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 186274505,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-116.182136,43.603304,-116.182136,43.603304",
+    "geom:latitude":43.603304,
+    "geom:longitude":-116.182136,
+    "iso:country":"US",
+    "sg:address":"1295 E Holly St",
+    "sg:city":"Boise",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 433 0438",
+    "sg:postcode":"83712",
+    "sg:province":"ID",
+    "sg:tags":[
+        "home",
+        "builder"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85937923,
+        102086087,
+        85876345
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3GdMHVez9hT1E3syHdeXHd_43.603304_-116.182136@1294099250"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"93c7849207f6388580ae617faec91226",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086087,
+            "locality_id":85937923,
+            "neighbourhood_id":85876345,
+            "region_id":85688657,
+            "venue_id":186274505
+        }
+    ],
+    "wof:id":186274505,
+    "wof:lastmodified":1449050596,
+    "wof:name":"Sigma Construction",
+    "wof:parent_id":85876345,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "home",
+        "builder"
+    ]
+},
+  "bbox": [-116.182136,43.603304,-116.182136,43.603304],
+  "geometry": {"coordinates":[-116.182136,43.603304],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 186260105,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-116.263536,43.633759,-116.263536,43.633759",
+    "geom:latitude":43.633759,
+    "geom:longitude":-116.263536,
+    "iso:country":"US",
+    "sg:address":"6403 Ustick Rd",
+    "sg:city":"Boise",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 375 1355",
+    "sg:postcode":"83704",
+    "sg:province":"ID",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85937923,
+        102086087,
+        85876311
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3Uf4ViTlUmtvcOWpvKwX8k_43.633759_-116.263536@1294099250"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"d898931c1590b58956bd5680130f87da",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086087,
+            "locality_id":85937923,
+            "neighbourhood_id":85876311,
+            "region_id":85688657,
+            "venue_id":186260105
+        }
+    ],
+    "wof:id":186260105,
+    "wof:lastmodified":1449050862,
+    "wof:name":"Mountain View Svc Inc",
+    "wof:parent_id":85876311,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [-116.263536,43.633759,-116.263536,43.633759],
+  "geometry": {"coordinates":[-116.263536,43.633759],"type":"Point"}
+}

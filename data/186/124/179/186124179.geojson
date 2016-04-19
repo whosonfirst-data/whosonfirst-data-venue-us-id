@@ -1,0 +1,66 @@
+{
+  "id": 186124179,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-116.162837,43.539213,-116.162837,43.539213",
+    "geom:latitude":43.539213,
+    "geom:longitude":-116.162837,
+    "iso:country":"US",
+    "sg:address":"7002 S Eisenman Rd",
+    "sg:city":"Boise",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Books",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 331 3165",
+    "sg:postcode":"83716",
+    "sg:province":"ID",
+    "sg:tags":[
+        "dealer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85937923,
+        102086087,
+        85876329
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1Mf3f9w5Hpcq7Us3Pmk2L1_43.539213_-116.162837@1294099250"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"dcbff964358a1a79b1b131b0212da514",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086087,
+            "locality_id":85937923,
+            "neighbourhood_id":85876329,
+            "region_id":85688657,
+            "venue_id":186124179
+        }
+    ],
+    "wof:id":186124179,
+    "wof:lastmodified":1449052823,
+    "wof:name":"Book Warehouse",
+    "wof:parent_id":85876329,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dealer"
+    ]
+},
+  "bbox": [-116.162837,43.539213,-116.162837,43.539213],
+  "geometry": {"coordinates":[-116.162837,43.539213],"type":"Point"}
+}

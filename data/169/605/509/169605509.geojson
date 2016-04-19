@@ -1,0 +1,68 @@
+{
+  "id": 169605509,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-116.566161,43.580015,-116.566161,43.580015",
+    "geom:latitude":43.580015,
+    "geom:longitude":-116.566161,
+    "iso:country":"US",
+    "sg:address":"323 8th Ave S",
+    "sg:city":"Nampa",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 475 0212",
+    "sg:postcode":"83651",
+    "sg:province":"ID",
+    "sg:tags":[
+        "car",
+        "dealer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85938009,
+        102085081,
+        85827787
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3StlGBzFyvBhhHsPrJlHGe_43.580015_-116.566161@1294099250"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"56fef97a4a667d16214c6b313af5ca20",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085081,
+            "locality_id":85938009,
+            "neighbourhood_id":85827787,
+            "region_id":85688657,
+            "venue_id":169605509
+        }
+    ],
+    "wof:id":169605509,
+    "wof:lastmodified":1449034287,
+    "wof:name":"Dan Wiebold Ford",
+    "wof:parent_id":85827787,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "car",
+        "dealer"
+    ]
+},
+  "bbox": [-116.566161,43.580015,-116.566161,43.580015],
+  "geometry": {"coordinates":[-116.566161,43.580015],"type":"Point"}
+}

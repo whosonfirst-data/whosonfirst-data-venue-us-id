@@ -1,0 +1,66 @@
+{
+  "id": 337325375,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-116.192213,43.566846,-116.192213,43.566846",
+    "geom:latitude":43.566846,
+    "geom:longitude":-116.192213,
+    "iso:country":"US",
+    "sg:address":"743 W McGregor Ct",
+    "sg:city":"Boise",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Groceries",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 853 3690",
+    "sg:postcode":"83705",
+    "sg:province":"ID",
+    "sg:tags":[
+        "baker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85937923,
+        102086087,
+        85876337
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6Wx0XTc8GJP4sFaTIGisbx_43.566846_-116.192213@1294099250"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"bc485af93bc253d0148d96ae382eb9a7",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086087,
+            "locality_id":85937923,
+            "neighbourhood_id":85876337,
+            "region_id":85688657,
+            "venue_id":337325375
+        }
+    ],
+    "wof:id":337325375,
+    "wof:lastmodified":1449027240,
+    "wof:name":"Eddy's Bakery",
+    "wof:parent_id":85876337,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "baker"
+    ]
+},
+  "bbox": [-116.192213,43.566846,-116.192213,43.566846],
+  "geometry": {"coordinates":[-116.192213,43.566846],"type":"Point"}
+}

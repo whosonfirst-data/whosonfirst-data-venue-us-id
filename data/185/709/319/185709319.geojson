@@ -1,0 +1,69 @@
+{
+  "id": 185709319,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-116.256901,43.603532,-116.256901,43.603532",
+    "geom:latitude":43.603532,
+    "geom:longitude":-116.256901,
+    "iso:country":"US",
+    "sg:address":"6002 Franklin Rd",
+    "sg:city":"Boise",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 345 5588",
+    "sg:postcode":"83709",
+    "sg:province":"ID",
+    "sg:tags":[
+        "home",
+        "builder"
+    ],
+    "sg:website":"www.jfcinfo.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85937923,
+        102086087,
+        85806577
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1vWEhUsW5P3hfty6EzV77M_43.603532_-116.256901@1294099250"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"17faff633dff316f8da0ebf15493179e",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086087,
+            "locality_id":85937923,
+            "neighbourhood_id":85806577,
+            "region_id":85688657,
+            "venue_id":185709319
+        }
+    ],
+    "wof:id":185709319,
+    "wof:lastmodified":1449006935,
+    "wof:name":"John Flaherty Construction",
+    "wof:parent_id":85806577,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "home",
+        "builder"
+    ]
+},
+  "bbox": [-116.256901,43.603532,-116.256901,43.603532],
+  "geometry": {"coordinates":[-116.256901,43.603532],"type":"Point"}
+}

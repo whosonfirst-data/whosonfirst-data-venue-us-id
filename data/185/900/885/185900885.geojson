@@ -1,0 +1,70 @@
+{
+  "id": 185900885,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-116.229255,43.589875,-116.229255,43.589875",
+    "geom:latitude":43.589875,
+    "geom:longitude":-116.229255,
+    "iso:country":"US",
+    "sg:address":"3918 Overland Rd",
+    "sg:city":"Boise",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Car Wash",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 344 8316",
+    "sg:postcode":"83705",
+    "sg:province":"ID",
+    "sg:tags":[
+        "automobile",
+        "detail",
+        "clean"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85937923,
+        102086087,
+        85825393
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4uec8J3Ra8WyDCIxyHto9u_43.589875_-116.229255@1294099250"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"53302f97210761ee40e2e36bac32be6d",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086087,
+            "locality_id":85937923,
+            "neighbourhood_id":85825393,
+            "region_id":85688657,
+            "venue_id":185900885
+        }
+    ],
+    "wof:id":185900885,
+    "wof:lastmodified":1449007305,
+    "wof:name":"Franco Auto Detail",
+    "wof:parent_id":85825393,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automobile",
+        "detail",
+        "clean"
+    ]
+},
+  "bbox": [-116.229255,43.589875,-116.229255,43.589875],
+  "geometry": {"coordinates":[-116.229255,43.589875],"type":"Point"}
+}

@@ -1,0 +1,65 @@
+{
+  "id": 186123355,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-116.31194,43.531925,-116.31194,43.531925",
+    "geom:latitude":43.531925,
+    "geom:longitude":-116.31194,
+    "iso:country":"US",
+    "sg:address":"10450 Fox Ridge Dr",
+    "sg:city":"Boise",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 362 3866",
+    "sg:postcode":"83709",
+    "sg:province":"ID",
+    "sg:tags":[
+        "automotive"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        102086087,
+        85876331
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3CfaYoffk74Iz9TWWT2B4Y_43.531925_-116.311940@1294099250"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"72168de0b11c2a2ab4654137661a2fa6",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086087,
+            "locality_id":-1,
+            "neighbourhood_id":85876331,
+            "region_id":85688657,
+            "venue_id":186123355
+        }
+    ],
+    "wof:id":186123355,
+    "wof:lastmodified":1449051179,
+    "wof:name":"Millennium Towing",
+    "wof:parent_id":85876331,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automotive"
+    ]
+},
+  "bbox": [-116.31194,43.531925,-116.31194,43.531925],
+  "geometry": {"coordinates":[-116.31194,43.531925],"type":"Point"}
+}

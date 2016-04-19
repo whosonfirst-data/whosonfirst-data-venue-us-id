@@ -1,0 +1,66 @@
+{
+  "id": 185675195,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-116.999126,46.38046,-116.999126,46.38046",
+    "geom:latitude":46.38046,
+    "geom:longitude":-116.999126,
+    "iso:country":"US",
+    "sg:address":"638 Bryden Ave",
+    "sg:city":"Lewiston",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 743 5032",
+    "sg:postcode":"83501",
+    "sg:province":"ID",
+    "sg:tags":[
+        "dentist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85937743,
+        102086039,
+        85837769
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3e5CWuagMiSclVs8TUjfzY_46.380460_-116.999126@1294099250"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"f94d891ff0cd7ebbcc0b38d2acfed7dd",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086039,
+            "locality_id":85937743,
+            "neighbourhood_id":85837769,
+            "region_id":85688657,
+            "venue_id":185675195
+        }
+    ],
+    "wof:id":185675195,
+    "wof:lastmodified":1449007456,
+    "wof:name":"Bryden Dental Ctr",
+    "wof:parent_id":85837769,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dentist"
+    ]
+},
+  "bbox": [-116.999126,46.38046,-116.999126,46.38046],
+  "geometry": {"coordinates":[-116.999126,46.38046],"type":"Point"}
+}

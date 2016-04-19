@@ -1,0 +1,67 @@
+{
+  "id": 186068993,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-116.798518,47.69679,-116.798518,47.69679",
+    "geom:latitude":47.69679,
+    "geom:longitude":-116.798518,
+    "iso:country":"US",
+    "sg:address":"2207 Ironwood Pl",
+    "sg:city":"Coeur D Alene",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 667 1200",
+    "sg:postcode":"83814",
+    "sg:province":"ID",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        102086085,
+        85821457
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_25UrAjcu5YXQ0o6dF0ZbSt_47.696790_-116.798518@1294099250"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"64ffddb53526e5f2091407850a9a2fa8",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086085,
+            "locality_id":-1,
+            "neighbourhood_id":85821457,
+            "region_id":85688657,
+            "venue_id":186068993
+        }
+    ],
+    "wof:id":186068993,
+    "wof:lastmodified":1449051752,
+    "wof:name":"Adolescent & Adult Health Care",
+    "wof:parent_id":85821457,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [-116.798518,47.69679,-116.798518,47.69679],
+  "geometry": {"coordinates":[-116.798518,47.69679],"type":"Point"}
+}

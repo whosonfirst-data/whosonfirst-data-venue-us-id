@@ -1,0 +1,68 @@
+{
+  "id": 186472163,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-116.25439,43.633133,-116.25439,43.633133",
+    "geom:latitude":43.633133,
+    "geom:longitude":-116.25439,
+    "iso:country":"US",
+    "sg:address":"4345 Chinden Blvd",
+    "sg:city":"Boise",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 376 4700",
+    "sg:postcode":"83714",
+    "sg:province":"ID",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85937923,
+        102086087,
+        85876339
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0sKqaQ0WjlnebBbqpFqvtE_43.633133_-116.254390@1294099250"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"efa24f56b1ad476e9dff200ed6609c86",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086087,
+            "locality_id":85937923,
+            "neighbourhood_id":85876339,
+            "region_id":85688657,
+            "venue_id":186472163
+        }
+    ],
+    "wof:id":186472163,
+    "wof:lastmodified":1449050458,
+    "wof:name":"Rod's Repair",
+    "wof:parent_id":85876339,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [-116.25439,43.633133,-116.25439,43.633133],
+  "geometry": {"coordinates":[-116.25439,43.633133],"type":"Point"}
+}

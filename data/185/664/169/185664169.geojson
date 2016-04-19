@@ -1,0 +1,68 @@
+{
+  "id": 185664169,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-116.213574,43.578807,-116.213574,43.578807",
+    "geom:latitude":43.578807,
+    "geom:longitude":-116.213574,
+    "iso:country":"US",
+    "sg:address":"2770 Vista Ave",
+    "sg:city":"Boise",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 331 0253",
+    "sg:postcode":"83705",
+    "sg:province":"ID",
+    "sg:tags":[
+        "loan",
+        "real estate"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85937923,
+        102086087,
+        85876343
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2kQLM55hgnUJz8XF4MLnfl_43.578807_-116.213574@1294099250"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"3391af38245905b6a1a3d143991d32c7",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086087,
+            "locality_id":85937923,
+            "neighbourhood_id":85876343,
+            "region_id":85688657,
+            "venue_id":185664169
+        }
+    ],
+    "wof:id":185664169,
+    "wof:lastmodified":1449007199,
+    "wof:name":"Mortgage Partners",
+    "wof:parent_id":85876343,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "loan",
+        "real estate"
+    ]
+},
+  "bbox": [-116.213574,43.578807,-116.213574,43.578807],
+  "geometry": {"coordinates":[-116.213574,43.578807],"type":"Point"}
+}

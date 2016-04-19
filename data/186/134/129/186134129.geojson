@@ -1,0 +1,68 @@
+{
+  "id": 186134129,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-116.213719,43.579101,-116.213719,43.579101",
+    "geom:latitude":43.579101,
+    "geom:longitude":-116.213719,
+    "iso:country":"US",
+    "sg:address":"2511 Vista Ave",
+    "sg:city":"Boise",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 367 9371",
+    "sg:postcode":"83705",
+    "sg:province":"ID",
+    "sg:tags":[
+        "concrete",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85937923,
+        102086087,
+        85876343
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5ELa8ndpV3kd7t6LXfxzaD_43.579101_-116.213719@1294099250"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"cce4d15a2488a000c006a4617607c64b",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086087,
+            "locality_id":85937923,
+            "neighbourhood_id":85876343,
+            "region_id":85688657,
+            "venue_id":186134129
+        }
+    ],
+    "wof:id":186134129,
+    "wof:lastmodified":1449052887,
+    "wof:name":"Best Custom Concrete Co",
+    "wof:parent_id":85876343,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "concrete",
+        "contractor"
+    ]
+},
+  "bbox": [-116.213719,43.579101,-116.213719,43.579101],
+  "geometry": {"coordinates":[-116.213719,43.579101],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 169639463,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-112.413217,42.859122,-112.413217,42.859122",
+    "geom:latitude":42.859122,
+    "geom:longitude":-112.413217,
+    "iso:country":"US",
+    "sg:address":"1999 Alvin Ricken Dr",
+    "sg:city":"Pocatello",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Medical Equipment & Supplies",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 232 9399",
+    "sg:postcode":"83201",
+    "sg:province":"ID",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85937925,
+        102086113
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4ec2EhimuUMyh36heixl0F_42.859122_-112.413217@1294099250"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"57b38f8c94f0f11a742bc9ae9dccc686",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086113,
+            "locality_id":85937925,
+            "neighbourhood_id":-1,
+            "region_id":85688657,
+            "venue_id":169639463
+        }
+    ],
+    "wof:id":169639463,
+    "wof:lastmodified":1449035953,
+    "wof:name":"Ballard Medical Products",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [-112.413217,42.859122,-112.413217,42.859122],
+  "geometry": {"coordinates":[-112.413217,42.859122],"type":"Point"}
+}

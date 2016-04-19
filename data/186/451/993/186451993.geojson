@@ -1,0 +1,68 @@
+{
+  "id": 186451993,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-116.565417,43.53357,-116.565417,43.53357",
+    "geom:latitude":43.53357,
+    "geom:longitude":-116.565417,
+    "iso:country":"US",
+    "sg:address":"3708 Skyline Dr",
+    "sg:city":"Nampa",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 467 3684",
+    "sg:postcode":"83686",
+    "sg:province":"ID",
+    "sg:tags":[
+        "electrical",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85938009,
+        102085081,
+        85827787
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_75CchTlEP7akxcvocAt0Yy_43.533570_-116.565417@1294099250"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"cf8604261593791e0561144cc3590962",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085081,
+            "locality_id":85938009,
+            "neighbourhood_id":85827787,
+            "region_id":85688657,
+            "venue_id":186451993
+        }
+    ],
+    "wof:id":186451993,
+    "wof:lastmodified":1449051544,
+    "wof:name":"Hartley Electric",
+    "wof:parent_id":85827787,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electrical",
+        "contractor"
+    ]
+},
+  "bbox": [-116.565417,43.53357,-116.565417,43.53357],
+  "geometry": {"coordinates":[-116.565417,43.53357],"type":"Point"}
+}

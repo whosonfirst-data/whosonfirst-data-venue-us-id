@@ -1,0 +1,66 @@
+{
+  "id": 185682975,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-116.271777,43.592424,-116.271777,43.592424",
+    "geom:latitude":43.592424,
+    "geom:longitude":-116.271777,
+    "iso:country":"US",
+    "sg:address":"7240 Sunnybrook Dr",
+    "sg:city":"Boise",
+    "sg:classifiers":[
+        {
+            "category":"Taxi",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 724 9582",
+    "sg:postcode":"83709",
+    "sg:province":"ID",
+    "sg:tags":[
+        "taxicab"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85937923,
+        102086087,
+        85876293
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_17IR0xV4IRjOJVbkRr3isn_43.592424_-116.271777@1294099250"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"5db1ca2f24c617cff7bdd609104613f4",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086087,
+            "locality_id":85937923,
+            "neighbourhood_id":85876293,
+            "region_id":85688657,
+            "venue_id":185682975
+        }
+    ],
+    "wof:id":185682975,
+    "wof:lastmodified":1449006894,
+    "wof:name":"Ace Taxi Co",
+    "wof:parent_id":85876293,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "taxicab"
+    ]
+},
+  "bbox": [-116.271777,43.592424,-116.271777,43.592424],
+  "geometry": {"coordinates":[-116.271777,43.592424],"type":"Point"}
+}

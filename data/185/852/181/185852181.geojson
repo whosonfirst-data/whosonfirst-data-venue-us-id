@@ -1,0 +1,68 @@
+{
+  "id": 185852181,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-116.314111,43.647363,-116.314111,43.647363",
+    "geom:latitude":43.647363,
+    "geom:longitude":-116.314111,
+    "iso:country":"US",
+    "sg:address":"4776 N Five Mile Rd",
+    "sg:city":"Boise",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 389 2213",
+    "sg:postcode":"83713",
+    "sg:province":"ID",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85937923,
+        102086087,
+        85876357
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7UAdJmPGnIaJbeqzsEUaqI_43.647363_-116.314111@1294099250"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"baeb565d3d92a2665e0be784c806c98a",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086087,
+            "locality_id":85937923,
+            "neighbourhood_id":85876357,
+            "region_id":85688657,
+            "venue_id":185852181
+        }
+    ],
+    "wof:id":185852181,
+    "wof:lastmodified":1449007962,
+    "wof:name":"Idaho Diabetes-Endocrine Assoc",
+    "wof:parent_id":85876357,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [-116.314111,43.647363,-116.314111,43.647363],
+  "geometry": {"coordinates":[-116.314111,43.647363],"type":"Point"}
+}

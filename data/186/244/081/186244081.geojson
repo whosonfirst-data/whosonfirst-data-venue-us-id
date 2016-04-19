@@ -1,0 +1,69 @@
+{
+  "id": 186244081,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-112.422731,42.901524,-112.422731,42.901524",
+    "geom:latitude":42.901524,
+    "geom:longitude":-112.422731,
+    "iso:country":"US",
+    "sg:address":"2119 Marigold St",
+    "sg:city":"Pocatello",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 234 1204",
+    "sg:postcode":"83201",
+    "sg:province":"ID",
+    "sg:tags":[
+        "insulation",
+        "heat",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85937925,
+        102086113
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3tmJ2EQqUJm3B1rzHW4HCt_42.901524_-112.422731@1294099250"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"78977a9a00d62347bf3727c862c58c57",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086113,
+            "locality_id":85937925,
+            "neighbourhood_id":-1,
+            "region_id":85688657,
+            "venue_id":186244081
+        }
+    ],
+    "wof:id":186244081,
+    "wof:lastmodified":1449051435,
+    "wof:name":"Rocky Mountain Insulation",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "insulation",
+        "heat",
+        "contractor"
+    ]
+},
+  "bbox": [-112.422731,42.901524,-112.422731,42.901524],
+  "geometry": {"coordinates":[-112.422731,42.901524],"type":"Point"}
+}

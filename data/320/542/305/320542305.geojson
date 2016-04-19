@@ -1,0 +1,88 @@
+{
+  "id": 320542305,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-116.244942,43.589787,-116.244942,43.589787",
+    "geom:latitude":43.589787,
+    "geom:longitude":-116.244942,
+    "iso:country":"US",
+    "sg:address":"5107 W Overland Rd",
+    "sg:city":"Boise",
+    "sg:classifiers":[
+        {
+            "category":"Insurance",
+            "subcategory":"Hazard Insurance",
+            "type":"Services"
+        },
+        {
+            "category":"Insurance",
+            "subcategory":"Insurance Agent",
+            "type":"Services"
+        },
+        {
+            "category":"Insurance",
+            "subcategory":"Life Insurance",
+            "type":"Services"
+        },
+        {
+            "category":"Insurance",
+            "subcategory":"Title Insurance",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 345 5111",
+    "sg:postcode":"83705",
+    "sg:province":"ID",
+    "sg:tags":[
+        "auto",
+        "commercial",
+        "business",
+        "homeowner"
+    ],
+    "sg:website":"http://www.farmersagent.com/kpfleger/",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85937923,
+        102086087,
+        85876295
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0KsR26K0V2lW1PHLGVCnlN_43.589787_-116.244942@1303263095"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"30b77c463661df2b8d9d7ecea3dbc020",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086087,
+            "locality_id":85937923,
+            "neighbourhood_id":85876295,
+            "region_id":85688657,
+            "venue_id":320542305
+        }
+    ],
+    "wof:id":320542305,
+    "wof:lastmodified":1449014129,
+    "wof:name":"Kurt Pfleger - Farmers Insurance",
+    "wof:parent_id":85876295,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "auto",
+        "commercial",
+        "business",
+        "homeowner"
+    ]
+},
+  "bbox": [-116.244942,43.589787,-116.244942,43.589787],
+  "geometry": {"coordinates":[-116.244942,43.589787],"type":"Point"}
+}

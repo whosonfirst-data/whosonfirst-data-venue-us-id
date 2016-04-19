@@ -1,0 +1,66 @@
+{
+  "id": 186447001,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-116.242415,43.598735,-116.242415,43.598735",
+    "geom:latitude":43.598735,
+    "geom:longitude":-116.242415,
+    "iso:country":"US",
+    "sg:address":"4923 Albion St",
+    "sg:city":"Boise",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 336 9111",
+    "sg:postcode":"83705",
+    "sg:province":"ID",
+    "sg:tags":[
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85937923,
+        102086087,
+        85876295
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1jITQpLIkOQYIiBKUbyMyK_43.598735_-116.242415@1294099250"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"dc91a6a303d1f7bad13d2abd9f59db8b",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086087,
+            "locality_id":85937923,
+            "neighbourhood_id":85876295,
+            "region_id":85688657,
+            "venue_id":186447001
+        }
+    ],
+    "wof:id":186447001,
+    "wof:lastmodified":1449052243,
+    "wof:name":"Greenfield Village Apartments",
+    "wof:parent_id":85876295,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "apartment"
+    ]
+},
+  "bbox": [-116.242415,43.598735,-116.242415,43.598735],
+  "geometry": {"coordinates":[-116.242415,43.598735],"type":"Point"}
+}

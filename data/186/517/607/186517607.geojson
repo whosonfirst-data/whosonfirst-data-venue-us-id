@@ -1,0 +1,67 @@
+{
+  "id": 186517607,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-116.500026,43.862289,-116.500026,43.862289",
+    "geom:latitude":43.862289,
+    "geom:longitude":-116.500026,
+    "iso:country":"US",
+    "sg:address":"1575 S Washington Ave",
+    "sg:city":"Emmett",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 365 7231",
+    "sg:postcode":"83617",
+    "sg:province":"ID",
+    "sg:tags":[
+        "automobile",
+        "lubrication"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85937855,
+        102085095
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1xDV3k1vBmvXtjwLRFUCja_43.862289_-116.500026@1294099250"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"345c3876f2cad48cea79a2e0e1a0afc4",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085095,
+            "locality_id":85937855,
+            "neighbourhood_id":-1,
+            "region_id":85688657,
+            "venue_id":186517607
+        }
+    ],
+    "wof:id":186517607,
+    "wof:lastmodified":1449051914,
+    "wof:name":"Lube-One",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automobile",
+        "lubrication"
+    ]
+},
+  "bbox": [-116.500026,43.862289,-116.500026,43.862289],
+  "geometry": {"coordinates":[-116.500026,43.862289],"type":"Point"}
+}

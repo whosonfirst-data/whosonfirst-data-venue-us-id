@@ -1,0 +1,79 @@
+{
+  "id": 320531919,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-116.934303,43.616603,-116.934303,43.616603",
+    "geom:latitude":43.616603,
+    "geom:longitude":-116.934303,
+    "iso:country":"US",
+    "sg:address":"120 S Main St",
+    "sg:city":"Homedale",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Auto Supplies",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Wholesale",
+            "subcategory":"Electrical",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 337 3170",
+    "sg:postcode":"83628",
+    "sg:province":"ID",
+    "sg:tags":[
+        "battery",
+        "automobile",
+        "accessory",
+        "part",
+        "batteries-storage"
+    ],
+    "sg:website":"http://www.autozone.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85938065,
+        102086017
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5BwV0zSau75I6kgXOuC1yJ_43.616603_-116.934303@1303263095"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"b8ac29ae347b0d37e10c9b524996d20a",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086017,
+            "locality_id":85938065,
+            "neighbourhood_id":-1,
+            "region_id":85688657,
+            "venue_id":320531919
+        }
+    ],
+    "wof:id":320531919,
+    "wof:lastmodified":1449012148,
+    "wof:name":"AutoZone",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "battery",
+        "automobile",
+        "accessory",
+        "part",
+        "batteries-storage"
+    ]
+},
+  "bbox": [-116.934303,43.616603,-116.934303,43.616603],
+  "geometry": {"coordinates":[-116.934303,43.616603],"type":"Point"}
+}

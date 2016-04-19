@@ -1,0 +1,67 @@
+{
+  "id": 186028223,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-112.442961,42.956476,-112.442961,42.956476",
+    "geom:latitude":42.956476,
+    "geom:longitude":-112.442961,
+    "iso:country":"US",
+    "sg:address":"13456 N Smith Rd",
+    "sg:city":"Pocatello",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 237 8600",
+    "sg:postcode":"83202",
+    "sg:province":"ID",
+    "sg:tags":[
+        "clocks",
+        "parts"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85938193,
+        102086113
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6kPTKIQlnNqwwIEsjunOJz_42.956476_-112.442961@1294099250"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"6123ec2b91f58719eccb950ae79ef95c",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086113,
+            "locality_id":85938193,
+            "neighbourhood_id":-1,
+            "region_id":85688657,
+            "venue_id":186028223
+        }
+    ],
+    "wof:id":186028223,
+    "wof:lastmodified":1449051831,
+    "wof:name":"Old Time Revival Clock Repair",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "clocks",
+        "parts"
+    ]
+},
+  "bbox": [-112.442961,42.956476,-112.442961,42.956476],
+  "geometry": {"coordinates":[-112.442961,42.956476],"type":"Point"}
+}

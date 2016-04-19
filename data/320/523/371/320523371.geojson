@@ -1,0 +1,81 @@
+{
+  "id": 320523371,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-116.917372,46.375047,-116.917372,46.375047",
+    "geom:latitude":46.375047,
+    "geom:longitude":-116.917372,
+    "iso:country":"US",
+    "sg:address":"2209 Cedar Ave",
+    "sg:city":"Lewiston",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Food",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Wholesale",
+            "subcategory":"Groceries",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Ice Cream",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 746 3090",
+    "sg:postcode":"83501",
+    "sg:province":"ID",
+    "sg:tags":[
+        "frozen",
+        "dessert",
+        "products-wholesale"
+    ],
+    "sg:website":"http://www.schwans.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85937743,
+        102086039,
+        85837769
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7NQkPLC69fO63kdPl6hgyb_46.375047_-116.917372@1303263095"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"896c1c49b806817581e7a0bb58d133f8",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086039,
+            "locality_id":85937743,
+            "neighbourhood_id":85837769,
+            "region_id":85688657,
+            "venue_id":320523371
+        }
+    ],
+    "wof:id":320523371,
+    "wof:lastmodified":1449013413,
+    "wof:name":"Schwan's",
+    "wof:parent_id":85837769,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "frozen",
+        "dessert",
+        "products-wholesale"
+    ]
+},
+  "bbox": [-116.917372,46.375047,-116.917372,46.375047],
+  "geometry": {"coordinates":[-116.917372,46.375047],"type":"Point"}
+}

@@ -1,0 +1,66 @@
+{
+  "id": 186410499,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-116.374534,43.572054,-116.374534,43.572054",
+    "geom:latitude":43.572054,
+    "geom:longitude":-116.374534,
+    "iso:country":"US",
+    "sg:address":"3580 S Locust Grove Rd",
+    "sg:city":"Meridian",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 884 0289",
+    "sg:postcode":"83642",
+    "sg:province":"ID",
+    "sg:tags":[
+        "taxidermist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85937915,
+        102086087,
+        85805083
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7T4iDrJptC1h9RPUVh9vkZ_43.572054_-116.374534@1294099250"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"0d23566b008e74412dea590c7ad040c7",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086087,
+            "locality_id":85937915,
+            "neighbourhood_id":85805083,
+            "region_id":85688657,
+            "venue_id":186410499
+        }
+    ],
+    "wof:id":186410499,
+    "wof:lastmodified":1449050293,
+    "wof:name":"Kodiak Taxidermy Studio",
+    "wof:parent_id":85805083,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "taxidermist"
+    ]
+},
+  "bbox": [-116.374534,43.572054,-116.374534,43.572054],
+  "geometry": {"coordinates":[-116.374534,43.572054],"type":"Point"}
+}

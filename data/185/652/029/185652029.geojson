@@ -1,0 +1,71 @@
+{
+  "id": 185652029,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-116.805015,47.696009,-116.805015,47.696009",
+    "geom:latitude":47.696009,
+    "geom:longitude":-116.805015,
+    "iso:country":"US",
+    "sg:address":"2000 Northwest Blvd",
+    "sg:city":"Coeur D Alene",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Agent",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 765 4300",
+    "sg:postcode":"83814",
+    "sg:province":"ID",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85938163,
+        102086085,
+        85806325,
+        85821457
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_52vxaPHRa0ZaE3SRRNcoBG_47.696009_-116.805015@1294099250"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"6dcee65bb941f57a3920c279cbe061f9",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086085,
+            "locality_id":85938163,
+            "neighbourhood_id":85806325,
+            "region_id":85688657,
+            "venue_id":185652029
+        },
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086085,
+            "locality_id":-1,
+            "neighbourhood_id":85821457,
+            "region_id":85688657,
+            "venue_id":185652029
+        }
+    ],
+    "wof:id":185652029,
+    "wof:lastmodified":1449007637,
+    "wof:name":"Schneidmiller Realty",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-116.805015,47.696009,-116.805015,47.696009],
+  "geometry": {"coordinates":[-116.805015,47.696009],"type":"Point"}
+}

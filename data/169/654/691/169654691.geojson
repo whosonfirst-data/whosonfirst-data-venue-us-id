@@ -1,0 +1,67 @@
+{
+  "id": 169654691,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-116.271287,43.668703,-116.271287,43.668703",
+    "geom:latitude":43.668703,
+    "geom:longitude":-116.271287,
+    "iso:country":"US",
+    "sg:address":"6527 W Outlook Dr",
+    "sg:city":"Boise",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 989 9747",
+    "sg:postcode":"83714",
+    "sg:province":"ID",
+    "sg:tags":[
+        "building",
+        "nonresidential"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        102086087,
+        85811879
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_45G8Vofr9sCuTHNFklV0UA_43.668703_-116.271287@1294099250"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"84b5350332f4851ce24f0165d53d52d8",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086087,
+            "locality_id":-1,
+            "neighbourhood_id":85811879,
+            "region_id":85688657,
+            "venue_id":169654691
+        }
+    ],
+    "wof:id":169654691,
+    "wof:lastmodified":1449033789,
+    "wof:name":"Curt Rineer",
+    "wof:parent_id":85811879,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "building",
+        "nonresidential"
+    ]
+},
+  "bbox": [-116.271287,43.668703,-116.271287,43.668703],
+  "geometry": {"coordinates":[-116.271287,43.668703],"type":"Point"}
+}

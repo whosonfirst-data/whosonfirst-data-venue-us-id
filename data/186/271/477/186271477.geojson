@@ -1,0 +1,68 @@
+{
+  "id": 186271477,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-115.923488,47.472358,-115.923488,47.472358",
+    "geom:latitude":47.472358,
+    "geom:longitude":-115.923488,
+    "iso:country":"US",
+    "sg:address":"606 Cedar St",
+    "sg:city":"Wallace",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Water",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 752 1174",
+    "sg:postcode":"83873",
+    "sg:province":"ID",
+    "sg:tags":[
+        "company",
+        "sewage"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85937825,
+        102086103,
+        85849049
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3Kaj4y2MPFq1Gy8jEtBOis_47.472358_-115.923488@1294099250"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"0932453e96296185e083f1cf6937f74d",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086103,
+            "locality_id":85937825,
+            "neighbourhood_id":85849049,
+            "region_id":85688657,
+            "venue_id":186271477
+        }
+    ],
+    "wof:id":186271477,
+    "wof:lastmodified":1449051776,
+    "wof:name":"East Shoshone Water District",
+    "wof:parent_id":85849049,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "company",
+        "sewage"
+    ]
+},
+  "bbox": [-115.923488,47.472358,-115.923488,47.472358],
+  "geometry": {"coordinates":[-115.923488,47.472358],"type":"Point"}
+}

@@ -1,0 +1,78 @@
+{
+  "id": 169741147,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-116.988509,46.392089,-116.988509,46.392089",
+    "geom:latitude":46.392089,
+    "geom:longitude":-116.988509,
+    "iso:country":"US",
+    "sg:address":"2975 Juniper Dr",
+    "sg:city":"Lewiston",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"Adult Care",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 746 8676",
+    "sg:postcode":"83501",
+    "sg:province":"ID",
+    "sg:tags":[
+        "home",
+        "residential"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85937743,
+        102086039,
+        85837769,
+        85830385
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0Cz4nICAg1z5gqegDxCMz4_46.392089_-116.988509@1294099250"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"35959a05973ba32942acf32c28deb96b",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086039,
+            "locality_id":85937743,
+            "neighbourhood_id":85837769,
+            "region_id":85688657,
+            "venue_id":169741147
+        },
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086039,
+            "locality_id":85937743,
+            "neighbourhood_id":85830385,
+            "region_id":85688657,
+            "venue_id":169741147
+        }
+    ],
+    "wof:id":169741147,
+    "wof:lastmodified":1449032864,
+    "wof:name":"Juniper Meadows",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "home",
+        "residential"
+    ]
+},
+  "bbox": [-116.988509,46.392089,-116.988509,46.392089],
+  "geometry": {"coordinates":[-116.988509,46.392089],"type":"Point"}
+}

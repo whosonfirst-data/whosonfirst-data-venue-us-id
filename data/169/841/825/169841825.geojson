@@ -1,0 +1,68 @@
+{
+  "id": 169841825,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-116.287548,43.647977,-116.287548,43.647977",
+    "geom:latitude":43.647977,
+    "geom:longitude":-116.287548,
+    "iso:country":"US",
+    "sg:address":"8239 Crestwood Dr",
+    "sg:city":"Boise",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Car Wash",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 890 8742",
+    "sg:postcode":"83704",
+    "sg:province":"ID",
+    "sg:tags":[
+        "automotive",
+        "detailing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85937919,
+        102086087,
+        85876349
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4OlOCRnY6Y7x1SqW3qoKXQ_43.647977_-116.287548@1294099250"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"d2a64bfcdf96502987e011dbe36f0626",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086087,
+            "locality_id":85937919,
+            "neighbourhood_id":85876349,
+            "region_id":85688657,
+            "venue_id":169841825
+        }
+    ],
+    "wof:id":169841825,
+    "wof:lastmodified":1449033374,
+    "wof:name":"Premier Detailing",
+    "wof:parent_id":85876349,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automotive",
+        "detailing"
+    ]
+},
+  "bbox": [-116.287548,43.647977,-116.287548,43.647977],
+  "geometry": {"coordinates":[-116.287548,43.647977],"type":"Point"}
+}

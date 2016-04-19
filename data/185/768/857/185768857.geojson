@@ -1,0 +1,66 @@
+{
+  "id": 185768857,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-116.224946,43.589908,-116.224946,43.589908",
+    "geom:latitude":43.589908,
+    "geom:longitude":-116.224946,
+    "iso:country":"US",
+    "sg:address":"1411 S Arcadia St",
+    "sg:city":"Boise",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 333 8044",
+    "sg:postcode":"83705",
+    "sg:province":"ID",
+    "sg:tags":[
+        "handyman"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85937923,
+        102086087,
+        85825393
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4jDXvjd1LqEJL3x7Od2Q7j_43.589908_-116.224946@1294099250"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"7f0fb689c9e8c4a2454c25a4f509fc26",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086087,
+            "locality_id":85937923,
+            "neighbourhood_id":85825393,
+            "region_id":85688657,
+            "venue_id":185768857
+        }
+    ],
+    "wof:id":185768857,
+    "wof:lastmodified":1449007232,
+    "wof:name":"Jack Of Many Trades",
+    "wof:parent_id":85825393,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "handyman"
+    ]
+},
+  "bbox": [-116.224946,43.589908,-116.224946,43.589908],
+  "geometry": {"coordinates":[-116.224946,43.589908],"type":"Point"}
+}

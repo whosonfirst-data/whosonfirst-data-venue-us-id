@@ -1,0 +1,67 @@
+{
+  "id": 185720811,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-116.257224,43.654739,-116.257224,43.654739",
+    "geom:latitude":43.654739,
+    "geom:longitude":-116.257224,
+    "iso:country":"US",
+    "sg:address":"5501 W State St",
+    "sg:city":"Boise",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Auto Parts",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 853 2002",
+    "sg:postcode":"83703",
+    "sg:province":"ID",
+    "sg:tags":[
+        "automobile",
+        "rebuilt"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        102086087,
+        85811879
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2gkJKbf1uSKzE7BMPhjwoS_43.654739_-116.257224@1294099250"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"3c5d9ca143ef6ae24d74d77106160ca4",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086087,
+            "locality_id":-1,
+            "neighbourhood_id":85811879,
+            "region_id":85688657,
+            "venue_id":185720811
+        }
+    ],
+    "wof:id":185720811,
+    "wof:lastmodified":1449006997,
+    "wof:name":"Barger Mattson Auto Salvage",
+    "wof:parent_id":85811879,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automobile",
+        "rebuilt"
+    ]
+},
+  "bbox": [-116.257224,43.654739,-116.257224,43.654739],
+  "geometry": {"coordinates":[-116.257224,43.654739],"type":"Point"}
+}

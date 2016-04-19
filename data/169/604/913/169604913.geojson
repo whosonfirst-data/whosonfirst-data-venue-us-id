@@ -1,0 +1,69 @@
+{
+  "id": 169604913,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-116.205725,43.625741,-116.205725,43.625741",
+    "geom:latitude":43.625741,
+    "geom:longitude":-116.205725,
+    "iso:country":"US",
+    "sg:address":"1421 W Fort St",
+    "sg:city":"Boise",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 938 9300",
+    "sg:postcode":"83702",
+    "sg:province":"ID",
+    "sg:tags":[
+        "home",
+        "builder"
+    ],
+    "sg:website":"www.burgundyhomes.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85937923,
+        102086087,
+        85876313
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1X6kHAFm9nX8gkd6YnvmtK_43.625741_-116.205725@1294099250"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"7cd54c7c1c25fc14973b43a11d6ea181",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086087,
+            "locality_id":85937923,
+            "neighbourhood_id":85876313,
+            "region_id":85688657,
+            "venue_id":169604913
+        }
+    ],
+    "wof:id":169604913,
+    "wof:lastmodified":1449035571,
+    "wof:name":"Burgundy Homes",
+    "wof:parent_id":85876313,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "home",
+        "builder"
+    ]
+},
+  "bbox": [-116.205725,43.625741,-116.205725,43.625741],
+  "geometry": {"coordinates":[-116.205725,43.625741],"type":"Point"}
+}

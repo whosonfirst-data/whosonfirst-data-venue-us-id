@@ -1,0 +1,78 @@
+{
+  "id": 169610017,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-116.804027,47.697931,-116.804027,47.697931",
+    "geom:latitude":47.697931,
+    "geom:longitude":-116.804027,
+    "iso:country":"US",
+    "sg:address":"1400 W Northwood Center Ct",
+    "sg:city":"Coeur D Alene",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Health Practitioner",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 664 2901",
+    "sg:postcode":"83814",
+    "sg:province":"ID",
+    "sg:tags":[
+        "therapist",
+        "physical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85938163,
+        102086085,
+        85806325,
+        85821457
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1zb81CWRDCEl9TEYc4G3Hm_47.697931_-116.804027@1294099250"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"73de0b4f4ea4fa420d98a84a61f4295e",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086085,
+            "locality_id":85938163,
+            "neighbourhood_id":85806325,
+            "region_id":85688657,
+            "venue_id":169610017
+        },
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086085,
+            "locality_id":-1,
+            "neighbourhood_id":85821457,
+            "region_id":85688657,
+            "venue_id":169610017
+        }
+    ],
+    "wof:id":169610017,
+    "wof:lastmodified":1449035909,
+    "wof:name":"Coeur D'Alene Hand Therapy",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "therapist",
+        "physical"
+    ]
+},
+  "bbox": [-116.804027,47.697931,-116.804027,47.697931],
+  "geometry": {"coordinates":[-116.804027,47.697931],"type":"Point"}
+}

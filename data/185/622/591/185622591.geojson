@@ -1,0 +1,68 @@
+{
+  "id": 185622591,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-116.191102,43.613415,-116.191102,43.613415",
+    "geom:latitude":43.613415,
+    "geom:longitude":-116.191102,
+    "iso:country":"US",
+    "sg:address":"121 E Fort St",
+    "sg:city":"Boise",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 367 6030",
+    "sg:postcode":"83712",
+    "sg:province":"ID",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85937923,
+        102086087,
+        85876345
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5LSrMKepWU0633buCDN8Cj_43.613415_-116.191102@1294099250"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"9b91d9b5f36f812e5034bfb89f0c4e3a",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086087,
+            "locality_id":85937923,
+            "neighbourhood_id":85876345,
+            "region_id":85688657,
+            "venue_id":185622591
+        }
+    ],
+    "wof:id":185622591,
+    "wof:lastmodified":1449007937,
+    "wof:name":"Family Practice Medical Ctr",
+    "wof:parent_id":85876345,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [-116.191102,43.613415,-116.191102,43.613415],
+  "geometry": {"coordinates":[-116.191102,43.613415],"type":"Point"}
+}

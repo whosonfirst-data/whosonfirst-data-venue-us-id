@@ -1,0 +1,68 @@
+{
+  "id": 186530657,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-116.28663,43.633987,-116.28663,43.633987",
+    "geom:latitude":43.633987,
+    "geom:longitude":-116.28663,
+    "iso:country":"US",
+    "sg:address":"8211 Ustick Rd",
+    "sg:city":"Boise",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Nursing And Care Facility",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 375 3700",
+    "sg:postcode":"83704",
+    "sg:province":"ID",
+    "sg:tags":[
+        "home",
+        "convalescent"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85937923,
+        102086087,
+        85841319
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_03wlmrurVNPVZsMgKafxtH_43.633987_-116.286630@1294099250"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"4fd0910f1c1dbbd8e75c0c6d55233e5f",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086087,
+            "locality_id":85937923,
+            "neighbourhood_id":85841319,
+            "region_id":85688657,
+            "venue_id":186530657
+        }
+    ],
+    "wof:id":186530657,
+    "wof:lastmodified":1449051802,
+    "wof:name":"Capitol Care Ctr",
+    "wof:parent_id":85841319,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "home",
+        "convalescent"
+    ]
+},
+  "bbox": [-116.28663,43.633987,-116.28663,43.633987],
+  "geometry": {"coordinates":[-116.28663,43.633987],"type":"Point"}
+}

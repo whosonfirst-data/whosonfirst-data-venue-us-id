@@ -1,0 +1,69 @@
+{
+  "id": 186283353,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-116.895883,47.709631,-116.895883,47.709631",
+    "geom:latitude":47.709631,
+    "geom:longitude":-116.895883,
+    "iso:country":"US",
+    "sg:address":"3273 E Seltice Way",
+    "sg:city":"Post Falls",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 777 9340",
+    "sg:postcode":"83854",
+    "sg:province":"ID",
+    "sg:tags":[
+        "car",
+        "used",
+        "dealer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        102086085,
+        85833263
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3w5GOSPIIXunH74DZ42tHK_47.709631_-116.895883@1294099250"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"143938a4fee75e185eabc1b87ac52881",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086085,
+            "locality_id":-1,
+            "neighbourhood_id":85833263,
+            "region_id":85688657,
+            "venue_id":186283353
+        }
+    ],
+    "wof:id":186283353,
+    "wof:lastmodified":1449051169,
+    "wof:name":"Duke's Auto Sales",
+    "wof:parent_id":85833263,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "car",
+        "used",
+        "dealer"
+    ]
+},
+  "bbox": [-116.895883,47.709631,-116.895883,47.709631],
+  "geometry": {"coordinates":[-116.895883,47.709631],"type":"Point"}
+}

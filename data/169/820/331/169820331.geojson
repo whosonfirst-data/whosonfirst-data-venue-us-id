@@ -1,0 +1,72 @@
+{
+  "id": 169820331,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-117.00187,46.409124,-117.00187,46.409124",
+    "geom:latitude":46.409124,
+    "geom:longitude":-117.00187,
+    "iso:country":"US",
+    "sg:address":"1121 21st St",
+    "sg:city":"Lewiston",
+    "sg:classifiers":[
+        {
+            "category":"Cinema",
+            "subcategory":"Movie Rental",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 798 8267",
+    "sg:postcode":"83501",
+    "sg:province":"ID",
+    "sg:tags":[
+        "leasing",
+        "video",
+        "disc",
+        "tape"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85937743,
+        102086039,
+        85837769
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_02msFftLgKA32NCO9qPsPa_46.409124_-117.001870@1294099250"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"6cf6807abe91bb3a95fcc9b3e61e40bf",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086039,
+            "locality_id":85937743,
+            "neighbourhood_id":85837769,
+            "region_id":85688657,
+            "venue_id":169820331
+        }
+    ],
+    "wof:id":169820331,
+    "wof:lastmodified":1449034387,
+    "wof:name":"Blockbuster Video",
+    "wof:parent_id":85837769,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "leasing",
+        "video",
+        "disc",
+        "tape"
+    ]
+},
+  "bbox": [-117.00187,46.409124,-117.00187,46.409124],
+  "geometry": {"coordinates":[-117.00187,46.409124],"type":"Point"}
+}

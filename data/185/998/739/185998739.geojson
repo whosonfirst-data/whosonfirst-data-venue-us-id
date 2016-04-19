@@ -1,0 +1,67 @@
+{
+  "id": 185998739,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-116.213562,43.609484,-116.213562,43.609484",
+    "geom:latitude":43.609484,
+    "geom:longitude":-116.213562,
+    "iso:country":"US",
+    "sg:address":"1004 Royal Blvd",
+    "sg:city":"Boise",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 333 9462",
+    "sg:postcode":"83706",
+    "sg:province":"ID",
+    "sg:tags":[
+        "trucking"
+    ],
+    "sg:website":"www.gi-trucking.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85937923,
+        102086087,
+        85876325
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2OJOWZ0r1YW4vSUOHgnpBs_43.609484_-116.213562@1294099250"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"49ae527e5defabd32fb57fad8a05a8a9",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086087,
+            "locality_id":85937923,
+            "neighbourhood_id":85876325,
+            "region_id":85688657,
+            "venue_id":185998739
+        }
+    ],
+    "wof:id":185998739,
+    "wof:lastmodified":1449007123,
+    "wof:name":"G I Trucking Co",
+    "wof:parent_id":85876325,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "trucking"
+    ]
+},
+  "bbox": [-116.213562,43.609484,-116.213562,43.609484],
+  "geometry": {"coordinates":[-116.213562,43.609484],"type":"Point"}
+}

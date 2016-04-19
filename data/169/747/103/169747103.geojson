@@ -1,0 +1,71 @@
+{
+  "id": 169747103,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-116.243628,43.622222,-116.243628,43.622222",
+    "geom:latitude":43.622222,
+    "geom:longitude":-116.243628,
+    "iso:country":"US",
+    "sg:address":"218 W 36th St",
+    "sg:city":"Boise",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 433 9620",
+    "sg:postcode":"83714",
+    "sg:province":"ID",
+    "sg:tags":[
+        "warehouse",
+        "self",
+        "storage"
+    ],
+    "sg:website":"www.turn-keylogistics.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85937923,
+        102086087,
+        85876301
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5wdW5BEHHQM8LJgxMEq9S7_43.622222_-116.243628@1294099250"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"116ff66f46aa0fcaacad3e11bdea0384",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086087,
+            "locality_id":85937923,
+            "neighbourhood_id":85876301,
+            "region_id":85688657,
+            "venue_id":169747103
+        }
+    ],
+    "wof:id":169747103,
+    "wof:lastmodified":1449033291,
+    "wof:name":"Turn-Key Logistics",
+    "wof:parent_id":85876301,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "warehouse",
+        "self",
+        "storage"
+    ]
+},
+  "bbox": [-116.243628,43.622222,-116.243628,43.622222],
+  "geometry": {"coordinates":[-116.243628,43.622222],"type":"Point"}
+}

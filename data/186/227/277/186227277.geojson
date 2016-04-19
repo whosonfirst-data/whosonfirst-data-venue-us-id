@@ -1,0 +1,66 @@
+{
+  "id": 186227277,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-116.592645,43.598476,-116.592645,43.598476",
+    "geom:latitude":43.598476,
+    "geom:longitude":-116.592645,
+    "iso:country":"US",
+    "sg:address":"920 Caldwell Blvd",
+    "sg:city":"Nampa",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Laundry & Dry Cleaning",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 461 4960",
+    "sg:postcode":"83651",
+    "sg:province":"ID",
+    "sg:tags":[
+        "cleaners"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85938009,
+        102085081,
+        85827787
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_24x8mlpiXZSoTnB3BrvmHV_43.598476_-116.592645@1294099250"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"3854d3634774b2f346c63ff76a31bce3",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085081,
+            "locality_id":85938009,
+            "neighbourhood_id":85827787,
+            "region_id":85688657,
+            "venue_id":186227277
+        }
+    ],
+    "wof:id":186227277,
+    "wof:lastmodified":1449050980,
+    "wof:name":"Cleaners Express",
+    "wof:parent_id":85827787,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cleaners"
+    ]
+},
+  "bbox": [-116.592645,43.598476,-116.592645,43.598476],
+  "geometry": {"coordinates":[-116.592645,43.598476],"type":"Point"}
+}

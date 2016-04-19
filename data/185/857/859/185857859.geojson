@@ -1,0 +1,66 @@
+{
+  "id": 185857859,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-116.568366,43.571993,-116.568366,43.571993",
+    "geom:latitude":43.571993,
+    "geom:longitude":-116.568366,
+    "iso:country":"US",
+    "sg:address":"916 12th Ave S",
+    "sg:city":"Nampa",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Laundry & Dry Cleaning",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 466 3687",
+    "sg:postcode":"83651",
+    "sg:province":"ID",
+    "sg:tags":[
+        "cleaners"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85938009,
+        102085081,
+        85827787
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1pB5d3CecU7K6zXI92elvx_43.571993_-116.568366@1294099250"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"dcf3fcd3bbcbc74ae7750c0b4e33cd59",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085081,
+            "locality_id":85938009,
+            "neighbourhood_id":85827787,
+            "region_id":85688657,
+            "venue_id":185857859
+        }
+    ],
+    "wof:id":185857859,
+    "wof:lastmodified":1449007642,
+    "wof:name":"Twelfth Avenue Cleaners",
+    "wof:parent_id":85827787,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cleaners"
+    ]
+},
+  "bbox": [-116.568366,43.571993,-116.568366,43.571993],
+  "geometry": {"coordinates":[-116.568366,43.571993],"type":"Point"}
+}

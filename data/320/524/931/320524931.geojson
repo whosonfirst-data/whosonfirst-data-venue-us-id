@@ -1,0 +1,89 @@
+{
+  "id": 320524931,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-116.953631,46.373083,-116.953631,46.373083",
+    "geom:latitude":46.373083,
+    "geom:longitude":-116.953631,
+    "iso:country":"US",
+    "sg:address":"1507 Grelle Ave",
+    "sg:city":"Lewiston",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Laundry & Dry Cleaning",
+            "type":"Services"
+        },
+        {
+            "category":"Home & Garden",
+            "subcategory":"Carpets & Floor Coverings",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 743 1228",
+    "sg:postcode":"83501",
+    "sg:province":"ID",
+    "sg:tags":[
+        "cleaner",
+        "flooring",
+        "hardwood",
+        "rug",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85937743,
+        102086039,
+        85837769,
+        85830385
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2qfB4hheJH4pgdcKYqlllh_46.373083_-116.953631@1303263095"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"7139149b02954b65c248acff19b7fd36",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086039,
+            "locality_id":85937743,
+            "neighbourhood_id":85837769,
+            "region_id":85688657,
+            "venue_id":320524931
+        },
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086039,
+            "locality_id":85937743,
+            "neighbourhood_id":85830385,
+            "region_id":85688657,
+            "venue_id":320524931
+        }
+    ],
+    "wof:id":320524931,
+    "wof:lastmodified":1449011224,
+    "wof:name":"Blue Ribbon Wood Floors",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cleaner",
+        "flooring",
+        "hardwood",
+        "rug",
+        "contractor"
+    ]
+},
+  "bbox": [-116.953631,46.373083,-116.953631,46.373083],
+  "geometry": {"coordinates":[-116.953631,46.373083],"type":"Point"}
+}

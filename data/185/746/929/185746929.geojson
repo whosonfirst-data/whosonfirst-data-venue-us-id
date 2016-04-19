@@ -1,0 +1,67 @@
+{
+  "id": 185746929,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-116.984161,46.754557,-116.984161,46.754557",
+    "geom:latitude":46.754557,
+    "geom:longitude":-116.984161,
+    "iso:country":"US",
+    "sg:address":"2332 Arborcrest Rd",
+    "sg:city":"Moscow",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 882 1348",
+    "sg:postcode":"83843",
+    "sg:province":"ID",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85937727,
+        102085077
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1a9mOErBGXmrhAMUm6a0PM_46.754557_-116.984161@1294099250"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"f61f5314777c6b41d2c4052dba04a950",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085077,
+            "locality_id":85937727,
+            "neighbourhood_id":-1,
+            "region_id":85688657,
+            "venue_id":185746929
+        }
+    ],
+    "wof:id":185746929,
+    "wof:lastmodified":1449006582,
+    "wof:name":"University Import",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [-116.984161,46.754557,-116.984161,46.754557],
+  "geometry": {"coordinates":[-116.984161,46.754557],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 186407585,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-116.785512,47.729822,-116.785512,47.729822",
+    "geom:latitude":47.729822,
+    "geom:longitude":-116.785512,
+    "iso:country":"US",
+    "sg:address":"164 E Hanley Ave",
+    "sg:city":"Dalton Gardens",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 762 8727",
+    "sg:postcode":"83815",
+    "sg:province":"ID",
+    "sg:tags":[
+        "automobile",
+        "diagnostic"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        102086085,
+        85821457
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3w9oirlTrDpr5TBm0a5Q7t_47.729822_-116.785512@1294099250"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"e4bf0031853e848120202f6b4785c8fb",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086085,
+            "locality_id":-1,
+            "neighbourhood_id":85821457,
+            "region_id":85688657,
+            "venue_id":186407585
+        }
+    ],
+    "wof:id":186407585,
+    "wof:lastmodified":1449051868,
+    "wof:name":"Auto Center Northwest",
+    "wof:parent_id":85821457,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automobile",
+        "diagnostic"
+    ]
+},
+  "bbox": [-116.785512,47.729822,-116.785512,47.729822],
+  "geometry": {"coordinates":[-116.785512,47.729822],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 186258113,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-116.94181,47.714808,-116.94181,47.714808",
+    "geom:latitude":47.714808,
+    "geom:longitude":-116.94181,
+    "iso:country":"US",
+    "sg:address":"503 E Seltice Way",
+    "sg:city":"Post Falls",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Medical Equipment & Supplies",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 777 9199",
+    "sg:postcode":"83854",
+    "sg:province":"ID",
+    "sg:tags":[
+        "physician",
+        "surgeon",
+        "sales"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        102086085,
+        85833263
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2wlmHFirJV93gARtbok5J6_47.714808_-116.941810@1294099250"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"d9d80635995cb79570f586819c2f1931",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086085,
+            "locality_id":-1,
+            "neighbourhood_id":85833263,
+            "region_id":85688657,
+            "venue_id":186258113
+        }
+    ],
+    "wof:id":186258113,
+    "wof:lastmodified":1449052460,
+    "wof:name":"Cedar Mountain Medical Inc",
+    "wof:parent_id":85833263,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon",
+        "sales"
+    ]
+},
+  "bbox": [-116.94181,47.714808,-116.94181,47.714808],
+  "geometry": {"coordinates":[-116.94181,47.714808],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 169594213,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-116.300735,43.67794,-116.300735,43.67794",
+    "geom:latitude":43.67794,
+    "geom:longitude":-116.300735,
+    "iso:country":"US",
+    "sg:address":"9303 W State St",
+    "sg:city":"Boise",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 323 8887",
+    "sg:postcode":"83714",
+    "sg:province":"ID",
+    "sg:tags":[
+        "car",
+        "dealer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        102086087,
+        85876315
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2UKluk8vRX7omdIYXQ8JPL_43.677940_-116.300735@1294099250"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"7a675f25c9e0ac3a9594934a62d28554",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086087,
+            "locality_id":-1,
+            "neighbourhood_id":85876315,
+            "region_id":85688657,
+            "venue_id":169594213
+        }
+    ],
+    "wof:id":169594213,
+    "wof:lastmodified":1449033165,
+    "wof:name":"Dazi Auto Sales",
+    "wof:parent_id":85876315,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "car",
+        "dealer"
+    ]
+},
+  "bbox": [-116.300735,43.67794,-116.300735,43.67794],
+  "geometry": {"coordinates":[-116.300735,43.67794],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 169632191,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-116.294211,43.675488,-116.294211,43.675488",
+    "geom:latitude":43.675488,
+    "geom:longitude":-116.294211,
+    "iso:country":"US",
+    "sg:address":"8685 W State St",
+    "sg:city":"Boise",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 853 2968",
+    "sg:postcode":"83714",
+    "sg:province":"ID",
+    "sg:tags":[
+        "electric",
+        "contractor"
+    ],
+    "sg:website":"www.rmeinc.net",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        102086087,
+        85876315
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5ZwHooGZJG62CT7k4fCkCB_43.675488_-116.294211@1294099250"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"0a063892fdaac654b5261693e35c8e92",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086087,
+            "locality_id":-1,
+            "neighbourhood_id":85876315,
+            "region_id":85688657,
+            "venue_id":169632191
+        }
+    ],
+    "wof:id":169632191,
+    "wof:lastmodified":1449034796,
+    "wof:name":"Rocky Mountain Electric",
+    "wof:parent_id":85876315,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electric",
+        "contractor"
+    ]
+},
+  "bbox": [-116.294211,43.675488,-116.294211,43.675488],
+  "geometry": {"coordinates":[-116.294211,43.675488],"type":"Point"}
+}

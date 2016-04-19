@@ -1,0 +1,67 @@
+{
+  "id": 169727835,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-112.839884,42.78894,-112.839884,42.78894",
+    "geom:latitude":42.78894,
+    "geom:longitude":-112.839884,
+    "iso:country":"US",
+    "sg:address":"2424 Pocatello Ave",
+    "sg:city":"American Falls",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 226 1957",
+    "sg:postcode":"83211",
+    "sg:province":"ID",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85938107,
+        102085061
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5JTKGWoSrXhflvapr6BMU5_42.788940_-112.839884@1294099250"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"cea75f206150d9515ae5639fe4a56ebc",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085061,
+            "locality_id":85938107,
+            "neighbourhood_id":-1,
+            "region_id":85688657,
+            "venue_id":169727835
+        }
+    ],
+    "wof:id":169727835,
+    "wof:lastmodified":1449033187,
+    "wof:name":"ABC Auto Clinic",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [-112.839884,42.78894,-112.839884,42.78894],
+  "geometry": {"coordinates":[-112.839884,42.78894],"type":"Point"}
+}

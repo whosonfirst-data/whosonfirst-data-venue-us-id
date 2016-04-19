@@ -1,0 +1,68 @@
+{
+  "id": 186352039,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-116.401703,43.622009,-116.401703,43.622009",
+    "geom:latitude":43.622009,
+    "geom:longitude":-116.401703,
+    "iso:country":"US",
+    "sg:address":"2018 N Crestmont Dr",
+    "sg:city":"Meridian",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 888 2251",
+    "sg:postcode":"83642",
+    "sg:province":"ID",
+    "sg:tags":[
+        "broker",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85937923,
+        102086087,
+        85876351
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3o2Wlt7da91mu65n8QaRra_43.622009_-116.401703@1294099250"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"66e840e191d1eadc6ddf4d199a1f6b72",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086087,
+            "locality_id":85937923,
+            "neighbourhood_id":85876351,
+            "region_id":85688657,
+            "venue_id":186352039
+        }
+    ],
+    "wof:id":186352039,
+    "wof:lastmodified":1449052012,
+    "wof:name":"W C Transportation",
+    "wof:parent_id":85876351,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "broker",
+        "trucking"
+    ]
+},
+  "bbox": [-116.401703,43.622009,-116.401703,43.622009],
+  "geometry": {"coordinates":[-116.401703,43.622009],"type":"Point"}
+}

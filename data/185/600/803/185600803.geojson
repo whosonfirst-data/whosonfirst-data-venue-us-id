@@ -1,0 +1,68 @@
+{
+  "id": 185600803,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-116.366099,43.609801,-116.366099,43.609801",
+    "geom:latitude":43.609801,
+    "geom:longitude":-116.366099,
+    "iso:country":"US",
+    "sg:address":"2266 E Commercial St",
+    "sg:city":"Meridian",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 887 1062",
+    "sg:postcode":"83642",
+    "sg:province":"ID",
+    "sg:tags":[
+        "dry wall",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85937915,
+        102086087,
+        85805083
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4aCm6BMgsKDeZjSBSyeiQY_43.609801_-116.366099@1294099250"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"66630baa8f7770a6c8818939fd8bb843",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086087,
+            "locality_id":85937915,
+            "neighbourhood_id":85805083,
+            "region_id":85688657,
+            "venue_id":185600803
+        }
+    ],
+    "wof:id":185600803,
+    "wof:lastmodified":1449006760,
+    "wof:name":"American Wallcover Inc",
+    "wof:parent_id":85805083,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dry wall",
+        "contractor"
+    ]
+},
+  "bbox": [-116.366099,43.609801,-116.366099,43.609801],
+  "geometry": {"coordinates":[-116.366099,43.609801],"type":"Point"}
+}

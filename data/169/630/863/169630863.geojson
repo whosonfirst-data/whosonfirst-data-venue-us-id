@@ -1,0 +1,69 @@
+{
+  "id": 169630863,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-116.284444,43.555797,-116.284444,43.555797",
+    "geom:latitude":43.555797,
+    "geom:longitude":-116.284444,
+    "iso:country":"US",
+    "sg:address":"8142 Colt Dr",
+    "sg:city":"Boise",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 362 4298",
+    "sg:postcode":"83709",
+    "sg:province":"ID",
+    "sg:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        102086087,
+        85876331
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_08dwM3YEcb28zb7FZ41hse_43.555797_-116.284444@1294099250"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"7c540a6ddb29032bdeb067f14cf354fc",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086087,
+            "locality_id":-1,
+            "neighbourhood_id":85876331,
+            "region_id":85688657,
+            "venue_id":169630863
+        }
+    ],
+    "wof:id":169630863,
+    "wof:lastmodified":1449033871,
+    "wof:name":"L G Bradley Trucking",
+    "wof:parent_id":85876331,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ]
+},
+  "bbox": [-116.284444,43.555797,-116.284444,43.555797],
+  "geometry": {"coordinates":[-116.284444,43.555797],"type":"Point"}
+}

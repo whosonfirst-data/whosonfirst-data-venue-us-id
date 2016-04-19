@@ -1,0 +1,68 @@
+{
+  "id": 186197381,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-116.474098,43.691905,-116.474098,43.691905",
+    "geom:latitude":43.691905,
+    "geom:longitude":-116.474098,
+    "iso:country":"US",
+    "sg:address":"9882 W State St",
+    "sg:city":"Star",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Health Practitioner",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 286 0766",
+    "sg:postcode":"83669",
+    "sg:province":"ID",
+    "sg:tags":[
+        "therapist",
+        "physical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85937923,
+        102086087,
+        85876351
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_05jHOy5YNCjBwD57YGhpP8_43.691905_-116.474098@1294099250"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"38f31532b498a6c6ecd1848666f64818",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086087,
+            "locality_id":85937923,
+            "neighbourhood_id":85876351,
+            "region_id":85688657,
+            "venue_id":186197381
+        }
+    ],
+    "wof:id":186197381,
+    "wof:lastmodified":1449052675,
+    "wof:name":"Northstar Physical Therapy",
+    "wof:parent_id":85876351,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "therapist",
+        "physical"
+    ]
+},
+  "bbox": [-116.474098,43.691905,-116.474098,43.691905],
+  "geometry": {"coordinates":[-116.474098,43.691905],"type":"Point"}
+}

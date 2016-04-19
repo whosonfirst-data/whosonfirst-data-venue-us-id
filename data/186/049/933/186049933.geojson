@@ -1,0 +1,70 @@
+{
+  "id": 186049933,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-115.92532,47.471524,-115.92532,47.471524",
+    "geom:latitude":47.471524,
+    "geom:longitude":-115.92532,
+    "iso:country":"US",
+    "sg:address":"512 Bank St",
+    "sg:city":"Wallace",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Jail",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 556 1197",
+    "sg:postcode":"83873",
+    "sg:province":"ID",
+    "sg:tags":[
+        "probation",
+        "parole",
+        "adult"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85937825,
+        102086103,
+        85849049
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4yA2eNi4NXxPXTu1Gvomzk_47.471524_-115.925320@1294099250"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"8bc3b8848bc9e73d2692a770c1ea784b",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086103,
+            "locality_id":85937825,
+            "neighbourhood_id":85849049,
+            "region_id":85688657,
+            "venue_id":186049933
+        }
+    ],
+    "wof:id":186049933,
+    "wof:lastmodified":1449051706,
+    "wof:name":"Adult Probation & Parole",
+    "wof:parent_id":85849049,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "probation",
+        "parole",
+        "adult"
+    ]
+},
+  "bbox": [-115.92532,47.471524,-115.92532,47.471524],
+  "geometry": {"coordinates":[-115.92532,47.471524],"type":"Point"}
+}

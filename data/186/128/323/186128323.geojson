@@ -1,0 +1,67 @@
+{
+  "id": 186128323,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-116.53697,48.309192,-116.53697,48.309192",
+    "geom:latitude":48.309192,
+    "geom:longitude":-116.53697,
+    "iso:country":"US",
+    "sg:address":"825 Kootenai Cut Off Rd",
+    "sg:city":"Sandpoint",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Refuse",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 263 2432",
+    "sg:postcode":"83864",
+    "sg:province":"ID",
+    "sg:tags":[
+        "garbage",
+        "collection"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85937979,
+        102085145
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6ZlH73lEttmsfzyuDKOHNi_48.309192_-116.536970@1294099250"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"d70a13ca98b53e7cda53bce53738b3e1",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085145,
+            "locality_id":85937979,
+            "neighbourhood_id":-1,
+            "region_id":85688657,
+            "venue_id":186128323
+        }
+    ],
+    "wof:id":186128323,
+    "wof:lastmodified":1449051409,
+    "wof:name":"Waste Management Inc",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "garbage",
+        "collection"
+    ]
+},
+  "bbox": [-116.53697,48.309192,-116.53697,48.309192],
+  "geometry": {"coordinates":[-116.53697,48.309192],"type":"Point"}
+}

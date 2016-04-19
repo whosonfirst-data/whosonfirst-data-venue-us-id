@@ -1,0 +1,67 @@
+{
+  "id": 186212723,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-116.265792,43.659647,-116.265792,43.659647",
+    "geom:latitude":43.659647,
+    "geom:longitude":-116.265792,
+    "iso:country":"US",
+    "sg:address":"6212 W State St",
+    "sg:city":"Boise",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 854 0700",
+    "sg:postcode":"83703",
+    "sg:province":"ID",
+    "sg:tags":[
+        "pet",
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        102086087,
+        85811879
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5idQDXUWlwySYtq9jpnKv9_43.659647_-116.265792@1294099250"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"9bf24b9d23ced1cfddaae6af984b6eef",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086087,
+            "locality_id":-1,
+            "neighbourhood_id":85811879,
+            "region_id":85688657,
+            "venue_id":186212723
+        }
+    ],
+    "wof:id":186212723,
+    "wof:lastmodified":1449052111,
+    "wof:name":"Idaho Saltwater Emporium",
+    "wof:parent_id":85811879,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pet",
+        "shop"
+    ]
+},
+  "bbox": [-116.265792,43.659647,-116.265792,43.659647],
+  "geometry": {"coordinates":[-116.265792,43.659647],"type":"Point"}
+}

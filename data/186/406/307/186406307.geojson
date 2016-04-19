@@ -1,0 +1,66 @@
+{
+  "id": 186406307,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-116.237459,43.563005,-116.237459,43.563005",
+    "geom:latitude":43.563005,
+    "geom:longitude":-116.237459,
+    "iso:country":"US",
+    "sg:address":"4546 W Aeronca St",
+    "sg:city":"Boise",
+    "sg:classifiers":[
+        {
+            "category":"Local Transit",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 333 9911",
+    "sg:postcode":"83705",
+    "sg:province":"ID",
+    "sg:tags":[
+        "ambulance"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85937923,
+        102086087,
+        85876337
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5b9sWhnutDo9FhNVFAS36p_43.563005_-116.237459@1294099250"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"79aa0d038b2b614b6d6f04f2b00ae74b",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086087,
+            "locality_id":85937923,
+            "neighbourhood_id":85876337,
+            "region_id":85688657,
+            "venue_id":186406307
+        }
+    ],
+    "wof:id":186406307,
+    "wof:lastmodified":1449051812,
+    "wof:name":"NPA Air",
+    "wof:parent_id":85876337,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "ambulance"
+    ]
+},
+  "bbox": [-116.237459,43.563005,-116.237459,43.563005],
+  "geometry": {"coordinates":[-116.237459,43.563005],"type":"Point"}
+}

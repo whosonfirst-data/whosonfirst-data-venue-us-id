@@ -1,0 +1,71 @@
+{
+  "id": 185602943,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-116.796129,47.698234,-116.796129,47.698234",
+    "geom:latitude":47.698234,
+    "geom:longitude":-116.796129,
+    "iso:country":"US",
+    "sg:address":"2120 W Ironwood Center Dr",
+    "sg:city":"Coeur D Alene",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Pharmacy",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 765 0930",
+    "sg:postcode":"83814",
+    "sg:province":"ID",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85938163,
+        102086085,
+        85806325,
+        85821457
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_05q0fg272s9We2Xg5KVdOW_47.698234_-116.796129@1294099250"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"d4c1e98520d8da6bb66ceb10d2b7c6d3",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086085,
+            "locality_id":85938163,
+            "neighbourhood_id":85806325,
+            "region_id":85688657,
+            "venue_id":185602943
+        },
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086085,
+            "locality_id":-1,
+            "neighbourhood_id":85821457,
+            "region_id":85688657,
+            "venue_id":185602943
+        }
+    ],
+    "wof:id":185602943,
+    "wof:lastmodified":1449007365,
+    "wof:name":"Ironwood Medical Supl & Oxygen",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-116.796129,47.698234,-116.796129,47.698234],
+  "geometry": {"coordinates":[-116.796129,47.698234],"type":"Point"}
+}

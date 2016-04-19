@@ -1,0 +1,69 @@
+{
+  "id": 169811987,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-112.46116,42.92015,-112.46116,42.92015",
+    "geom:latitude":42.92015,
+    "geom:longitude":-112.46116,
+    "iso:country":"US",
+    "sg:address":"4700 Burley Dr",
+    "sg:city":"Pocatello",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 237 3334",
+    "sg:postcode":"83202",
+    "sg:province":"ID",
+    "sg:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85937935,
+        102086113
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7SUXv2JwxihVCqE5z7Doyh_42.920150_-112.461160@1294099250"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"f99e639ae7c1d1bfabf6778b1dfb0779",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086113,
+            "locality_id":85937935,
+            "neighbourhood_id":-1,
+            "region_id":85688657,
+            "venue_id":169811987
+        }
+    ],
+    "wof:id":169811987,
+    "wof:lastmodified":1449034273,
+    "wof:name":"Jack's Auto Body",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ]
+},
+  "bbox": [-112.46116,42.92015,-112.46116,42.92015],
+  "geometry": {"coordinates":[-112.46116,42.92015],"type":"Point"}
+}

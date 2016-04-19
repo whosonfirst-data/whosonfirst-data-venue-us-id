@@ -1,0 +1,68 @@
+{
+  "id": 185810113,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-116.354681,43.600497,-116.354681,43.600497",
+    "geom:latitude":43.600497,
+    "geom:longitude":-116.354681,
+    "iso:country":"US",
+    "sg:address":"520 S Eagle Rd",
+    "sg:city":"Meridian",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 898 0100",
+    "sg:postcode":"83642",
+    "sg:province":"ID",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85937915,
+        102086087,
+        85805083
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4f8BJgvBqVd97bpWGxBynP_43.600497_-116.354681@1294099250"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"0a9bae1cd7a7975a09e6a2d94f3ace4d",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086087,
+            "locality_id":85937915,
+            "neighbourhood_id":85805083,
+            "region_id":85688657,
+            "venue_id":185810113
+        }
+    ],
+    "wof:id":185810113,
+    "wof:lastmodified":1449007083,
+    "wof:name":"Boc Sports Medicine",
+    "wof:parent_id":85805083,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [-116.354681,43.600497,-116.354681,43.600497],
+  "geometry": {"coordinates":[-116.354681,43.600497],"type":"Point"}
+}

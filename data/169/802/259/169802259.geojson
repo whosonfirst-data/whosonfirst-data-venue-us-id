@@ -1,0 +1,72 @@
+{
+  "id": 169802259,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-116.770631,47.672515,-116.770631,47.672515",
+    "geom:latitude":47.672515,
+    "geom:longitude":-116.770631,
+    "iso:country":"US",
+    "sg:address":"212 S 11th St",
+    "sg:city":"Coeur D Alene",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"",
+            "type":"Services"
+        },
+        {
+            "category":"Health Services",
+            "subcategory":"Health Practitioner",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 664 0434",
+    "sg:postcode":"83814",
+    "sg:province":"ID",
+    "sg:tags":[
+        "therapist",
+        "massage"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        102086085,
+        85821457
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_41V9wFSI9TTAwHyxhHdMOX_47.672515_-116.770631@1294099250"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"5a47e7ab1734d3fe91f32b226918851d",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086085,
+            "locality_id":-1,
+            "neighbourhood_id":85821457,
+            "region_id":85688657,
+            "venue_id":169802259
+        }
+    ],
+    "wof:id":169802259,
+    "wof:lastmodified":1449035341,
+    "wof:name":"Choice Therapies",
+    "wof:parent_id":85821457,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "therapist",
+        "massage"
+    ]
+},
+  "bbox": [-116.770631,47.672515,-116.770631,47.672515],
+  "geometry": {"coordinates":[-116.770631,47.672515],"type":"Point"}
+}

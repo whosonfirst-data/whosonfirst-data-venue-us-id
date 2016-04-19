@@ -1,0 +1,71 @@
+{
+  "id": 320544663,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-116.812069,47.771969,-116.812069,47.771969",
+    "geom:latitude":47.771969,
+    "geom:longitude":-116.812069,
+    "iso:country":"US",
+    "sg:address":"11100 N Airport Rd",
+    "sg:city":"Hayden",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Water",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 660 5135",
+    "sg:postcode":"83835",
+    "sg:province":"ID",
+    "sg:tags":[
+        "pump",
+        "well",
+        "drilling",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        102086085,
+        85821457
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6Rzooy2CDt2YYS2YO0FsPP_47.771969_-116.812069@1303263095"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"6063c3a4b86caebbe730f2e406153c8f",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086085,
+            "locality_id":-1,
+            "neighbourhood_id":85821457,
+            "region_id":85688657,
+            "venue_id":320544663
+        }
+    ],
+    "wof:id":320544663,
+    "wof:lastmodified":1449014963,
+    "wof:name":"Technical Drilling Industr",
+    "wof:parent_id":85821457,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pump",
+        "well",
+        "drilling",
+        "contractor"
+    ]
+},
+  "bbox": [-116.812069,47.771969,-116.812069,47.771969],
+  "geometry": {"coordinates":[-116.812069,47.771969],"type":"Point"}
+}

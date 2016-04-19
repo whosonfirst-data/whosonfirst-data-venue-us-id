@@ -1,0 +1,66 @@
+{
+  "id": 186367495,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-112.006328,43.511955,-112.006328,43.511955",
+    "geom:latitude":43.511955,
+    "geom:longitude":-112.006328,
+    "iso:country":"US",
+    "sg:address":"1527 Hollipark Dr",
+    "sg:city":"Idaho Falls",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Natural Gas",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 542 6600",
+    "sg:postcode":"83401",
+    "sg:province":"ID",
+    "sg:tags":[
+        "company"
+    ],
+    "sg:website":"www.intgas.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85937963,
+        102085163
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2j1bALofdwpAkD5pKydbSJ_43.511955_-112.006328@1294099250"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"e5b9d3a8e0b74126085811e06511fc90",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085163,
+            "locality_id":85937963,
+            "neighbourhood_id":-1,
+            "region_id":85688657,
+            "venue_id":186367495
+        }
+    ],
+    "wof:id":186367495,
+    "wof:lastmodified":1449051954,
+    "wof:name":"Intermountain Gas Co",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "company"
+    ]
+},
+  "bbox": [-112.006328,43.511955,-112.006328,43.511955],
+  "geometry": {"coordinates":[-112.006328,43.511955],"type":"Point"}
+}

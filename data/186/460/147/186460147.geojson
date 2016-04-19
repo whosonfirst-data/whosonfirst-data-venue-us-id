@@ -1,0 +1,66 @@
+{
+  "id": 186460147,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-116.207056,43.615515,-116.207056,43.615515",
+    "geom:latitude":43.615515,
+    "geom:longitude":-116.207056,
+    "iso:country":"US",
+    "sg:address":"234 S 10th St",
+    "sg:city":"Boise",
+    "sg:classifiers":[
+        {
+            "category":"Parking",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 344 0790",
+    "sg:postcode":"83702",
+    "sg:province":"ID",
+    "sg:tags":[
+        "garage"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85937923,
+        102086087,
+        85876297
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2zucLdb7gpfdcGD22heqYv_43.615515_-116.207056@1294099250"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"ac7f25ffeb3128f9aca7f145b4f3c6dc",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086087,
+            "locality_id":85937923,
+            "neighbourhood_id":85876297,
+            "region_id":85688657,
+            "venue_id":186460147
+        }
+    ],
+    "wof:id":186460147,
+    "wof:lastmodified":1449052882,
+    "wof:name":"Grove Street Garage",
+    "wof:parent_id":85876297,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "garage"
+    ]
+},
+  "bbox": [-116.207056,43.615515,-116.207056,43.615515],
+  "geometry": {"coordinates":[-116.207056,43.615515],"type":"Point"}
+}

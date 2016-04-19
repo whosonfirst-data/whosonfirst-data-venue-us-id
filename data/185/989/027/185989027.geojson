@@ -1,0 +1,68 @@
+{
+  "id": 185989027,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-116.218167,43.642494,-116.218167,43.642494",
+    "geom:latitude":43.642494,
+    "geom:longitude":-116.218167,
+    "iso:country":"US",
+    "sg:address":"2315 Sunset Ave",
+    "sg:city":"Boise",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 344 5377",
+    "sg:postcode":"83702",
+    "sg:province":"ID",
+    "sg:tags":[
+        "general",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85937923,
+        102086087,
+        85876313
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_57C5ey19KEqLIMlPRuL3za_43.642494_-116.218167@1294099250"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"d92e0a5a7bd81a95287ad461709fb3f3",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086087,
+            "locality_id":85937923,
+            "neighbourhood_id":85876313,
+            "region_id":85688657,
+            "venue_id":185989027
+        }
+    ],
+    "wof:id":185989027,
+    "wof:lastmodified":1449007769,
+    "wof:name":"North End Builders",
+    "wof:parent_id":85876313,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "general",
+        "contractor"
+    ]
+},
+  "bbox": [-116.218167,43.642494,-116.218167,43.642494],
+  "geometry": {"coordinates":[-116.218167,43.642494],"type":"Point"}
+}

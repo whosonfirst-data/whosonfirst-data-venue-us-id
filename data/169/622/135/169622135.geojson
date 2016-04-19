@@ -1,0 +1,66 @@
+{
+  "id": 169622135,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-116.791048,47.6802,-116.791048,47.6802",
+    "geom:latitude":47.6802,
+    "geom:longitude":-116.791048,
+    "iso:country":"US",
+    "sg:address":"801 Milwaukee Dr",
+    "sg:city":"Coeur D Alene",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 664 0884",
+    "sg:postcode":"83814",
+    "sg:province":"ID",
+    "sg:tags":[
+        "dentist"
+    ],
+    "sg:website":"www.cdasmiles.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        102086085,
+        85821457
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6s1gXd9galx1aIeWUcEIXt_47.680200_-116.791048@1294099250"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"2e2f28f35932b2c13665fee837275b83",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086085,
+            "locality_id":-1,
+            "neighbourhood_id":85821457,
+            "region_id":85688657,
+            "venue_id":169622135
+        }
+    ],
+    "wof:id":169622135,
+    "wof:lastmodified":1449035365,
+    "wof:name":"Lakeview Dental",
+    "wof:parent_id":85821457,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dentist"
+    ]
+},
+  "bbox": [-116.791048,47.6802,-116.791048,47.6802],
+  "geometry": {"coordinates":[-116.791048,47.6802],"type":"Point"}
+}

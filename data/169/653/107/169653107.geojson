@@ -1,0 +1,69 @@
+{
+  "id": 169653107,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-117.024922,46.416504,-117.024922,46.416504",
+    "geom:latitude":46.416504,
+    "geom:longitude":-117.024922,
+    "iso:country":"US",
+    "sg:address":"415 6th St",
+    "sg:city":"Lewiston",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 746 0516",
+    "sg:postcode":"83501",
+    "sg:province":"ID",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "sg:website":"www.pathregional.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85937743,
+        102086039,
+        85852537
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1U4IcqlTNO5wsdQqZFCCYe_46.416504_-117.024922@1294099250"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"b5d067d27f841acbff99c95d2db9e85a",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086039,
+            "locality_id":85937743,
+            "neighbourhood_id":85852537,
+            "region_id":85688657,
+            "venue_id":169653107
+        }
+    ],
+    "wof:id":169653107,
+    "wof:lastmodified":1449032916,
+    "wof:name":"Pathologist's Regional Lab",
+    "wof:parent_id":85852537,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [-117.024922,46.416504,-117.024922,46.416504],
+  "geometry": {"coordinates":[-117.024922,46.416504],"type":"Point"}
+}

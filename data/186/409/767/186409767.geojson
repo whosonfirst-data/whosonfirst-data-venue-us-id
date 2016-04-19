@@ -1,0 +1,66 @@
+{
+  "id": 186409767,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-114.44215,42.552077,-114.44215,42.552077",
+    "geom:latitude":42.552077,
+    "geom:longitude":-114.44215,
+    "iso:country":"US",
+    "sg:address":"2148 4th Ave E",
+    "sg:city":"Twin Falls",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Veterinary Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 736 1727",
+    "sg:postcode":"83301",
+    "sg:province":"ID",
+    "sg:tags":[
+        "veterinarian"
+    ],
+    "sg:website":"www.twinfallsvet.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85937881,
+        102085153
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3XPyQHexIYBc5J1T0Rz65N_42.552077_-114.442150@1294099250"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"1f5ffe269d61ec6ab8297df50919e707",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085153,
+            "locality_id":85937881,
+            "neighbourhood_id":-1,
+            "region_id":85688657,
+            "venue_id":186409767
+        }
+    ],
+    "wof:id":186409767,
+    "wof:lastmodified":1449051477,
+    "wof:name":"Twin Falls Veterinary Clinic",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "veterinarian"
+    ]
+},
+  "bbox": [-114.44215,42.552077,-114.44215,42.552077],
+  "geometry": {"coordinates":[-114.44215,42.552077],"type":"Point"}
+}

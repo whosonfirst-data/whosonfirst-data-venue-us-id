@@ -1,0 +1,92 @@
+{
+  "id": 320541639,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-116.286851,43.61948,-116.286851,43.61948",
+    "geom:latitude":43.61948,
+    "geom:longitude":-116.286851,
+    "iso:country":"US",
+    "sg:address":"8406 W Fairview Ave",
+    "sg:city":"Boise",
+    "sg:classifiers":[
+        {
+            "category":"Community Center",
+            "subcategory":"Senior",
+            "type":"Public Place"
+        },
+        {
+            "category":"Health Services",
+            "subcategory":"Nursing And Care Facility",
+            "type":"Services"
+        },
+        {
+            "category":"Health Services",
+            "subcategory":"Health Practitioner",
+            "type":"Services"
+        },
+        {
+            "category":"Social Services",
+            "subcategory":"Adult Care",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 658 4598",
+    "sg:postcode":"83704",
+    "sg:province":"ID",
+    "sg:tags":[
+        "living",
+        "assisted",
+        "elder",
+        "citizen",
+        "home",
+        "eldercare-home"
+    ],
+    "sg:website":"http://www.rescarehomecare.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85937923,
+        102086087,
+        85841319
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1AaqekEJ1VLtT6Ym6ej08Z_43.619480_-116.286851@1303263095"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"fb26254ba3aabb5dd0d9eb12c1a6d153",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086087,
+            "locality_id":85937923,
+            "neighbourhood_id":85841319,
+            "region_id":85688657,
+            "venue_id":320541639
+        }
+    ],
+    "wof:id":320541639,
+    "wof:lastmodified":1449011660,
+    "wof:name":"ResCare HomeCare",
+    "wof:parent_id":85841319,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "living",
+        "assisted",
+        "elder",
+        "citizen",
+        "home",
+        "eldercare-home"
+    ]
+},
+  "bbox": [-116.286851,43.61948,-116.286851,43.61948],
+  "geometry": {"coordinates":[-116.286851,43.61948],"type":"Point"}
+}

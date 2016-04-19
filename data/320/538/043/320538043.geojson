@@ -1,0 +1,68 @@
+{
+  "id": 320538043,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-116.498911,43.697529,-116.498911,43.697529",
+    "geom:latitude":43.697529,
+    "geom:longitude":-116.498911,
+    "iso:country":"US",
+    "sg:address":"11774 W Darkwood Ct",
+    "sg:city":"Star",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Driving School",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 286 0407",
+    "sg:postcode":"83669",
+    "sg:province":"ID",
+    "sg:tags":[
+        "instruction",
+        "motorcycle"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85937923,
+        102086087,
+        85876351
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_21uugFA5Q0B1rPKKPdE3Zh_43.697529_-116.498911@1303263095"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"a145cc9e1803f26c827c1fa1075ee2f7",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086087,
+            "locality_id":85937923,
+            "neighbourhood_id":85876351,
+            "region_id":85688657,
+            "venue_id":320538043
+        }
+    ],
+    "wof:id":320538043,
+    "wof:lastmodified":1449011720,
+    "wof:name":"Moto Connection",
+    "wof:parent_id":85876351,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "instruction",
+        "motorcycle"
+    ]
+},
+  "bbox": [-116.498911,43.697529,-116.498911,43.697529],
+  "geometry": {"coordinates":[-116.498911,43.697529],"type":"Point"}
+}

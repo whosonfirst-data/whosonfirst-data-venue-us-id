@@ -1,0 +1,72 @@
+{
+  "id": 169770085,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-114.47522,42.57508,-114.47522,42.57508",
+    "geom:latitude":42.57508,
+    "geom:longitude":-114.47522,
+    "iso:country":"US",
+    "sg:address":"757 Monroe St",
+    "sg:city":"Twin Falls",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Equipment Rental",
+            "type":"Services"
+        },
+        {
+            "category":"Shopping",
+            "subcategory":"Musical Instruments",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 733 7083",
+    "sg:postcode":"83301",
+    "sg:province":"ID",
+    "sg:tags":[
+        "music",
+        "dealer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85937881,
+        102085153
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6AqNc4zV1vjjCute31UGRz_42.575080_-114.475220@1294099250"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"c195c3128583bc453f5a8a79dc5a910e",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085153,
+            "locality_id":85937881,
+            "neighbourhood_id":-1,
+            "region_id":85688657,
+            "venue_id":169770085
+        }
+    ],
+    "wof:id":169770085,
+    "wof:lastmodified":1449036034,
+    "wof:name":"Jan's Music Outlet",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "music",
+        "dealer"
+    ]
+},
+  "bbox": [-114.47522,42.57508,-114.47522,42.57508],
+  "geometry": {"coordinates":[-114.47522,42.57508],"type":"Point"}
+}

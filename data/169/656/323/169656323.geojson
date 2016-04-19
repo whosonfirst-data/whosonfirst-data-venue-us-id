@@ -1,0 +1,68 @@
+{
+  "id": 169656323,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-116.208031,43.641998,-116.208031,43.641998",
+    "geom:latitude":43.641998,
+    "geom:longitude":-116.208031,
+    "iso:country":"US",
+    "sg:address":"2340 Bogus Basin Rd",
+    "sg:city":"Boise",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Car Wash",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 385 0771",
+    "sg:postcode":"83702",
+    "sg:province":"ID",
+    "sg:tags":[
+        "polishing",
+        "washing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85937923,
+        102086087,
+        85876313
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_37U5tsOwKWn1XoYHm6MSJO_43.641998_-116.208031@1294099250"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"b24d3a609d6c3095e23c99e615f6eae4",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086087,
+            "locality_id":85937923,
+            "neighbourhood_id":85876313,
+            "region_id":85688657,
+            "venue_id":169656323
+        }
+    ],
+    "wof:id":169656323,
+    "wof:lastmodified":1449034835,
+    "wof:name":"Car Tub Car Wash",
+    "wof:parent_id":85876313,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "polishing",
+        "washing"
+    ]
+},
+  "bbox": [-116.208031,43.641998,-116.208031,43.641998],
+  "geometry": {"coordinates":[-116.208031,43.641998],"type":"Point"}
+}

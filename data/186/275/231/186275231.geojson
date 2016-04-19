@@ -1,0 +1,68 @@
+{
+  "id": 186275231,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-116.468241,43.721188,-116.468241,43.721188",
+    "geom:latitude":43.721188,
+    "geom:longitude":-116.468241,
+    "iso:country":"US",
+    "sg:address":"3773 N Pollard Ln",
+    "sg:city":"Eagle",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 424 8020",
+    "sg:postcode":"83669",
+    "sg:province":"ID",
+    "sg:tags":[
+        "general",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85937923,
+        102086087,
+        85876351
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2yIfYCtiKkdhMJnlgq4UAK_43.721188_-116.468241@1294099250"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"d0d55cb28c039f6844c93168e61b1fdd",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086087,
+            "locality_id":85937923,
+            "neighbourhood_id":85876351,
+            "region_id":85688657,
+            "venue_id":186275231
+        }
+    ],
+    "wof:id":186275231,
+    "wof:lastmodified":1449051249,
+    "wof:name":"Family Heating & Air",
+    "wof:parent_id":85876351,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "general",
+        "contractor"
+    ]
+},
+  "bbox": [-116.468241,43.721188,-116.468241,43.721188],
+  "geometry": {"coordinates":[-116.468241,43.721188],"type":"Point"}
+}

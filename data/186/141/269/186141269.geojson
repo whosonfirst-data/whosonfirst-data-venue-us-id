@@ -1,0 +1,69 @@
+{
+  "id": 186141269,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-116.27413,43.626114,-116.27413,43.626114",
+    "geom:latitude":43.626114,
+    "geom:longitude":-116.27413,
+    "iso:country":"US",
+    "sg:address":"2312 N Cole Rd",
+    "sg:city":"Boise",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 322 1730",
+    "sg:postcode":"83704",
+    "sg:province":"ID",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "sg:website":"www.iep.org",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85937923,
+        102086087,
+        85841319
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3Vaej5PkmgHMyMK0DZLyQk_43.626114_-116.274130@1294099250"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"f9e78c6b100f9925d517cfdb8903dff6",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086087,
+            "locality_id":85937923,
+            "neighbourhood_id":85841319,
+            "region_id":85688657,
+            "venue_id":186141269
+        }
+    ],
+    "wof:id":186141269,
+    "wof:lastmodified":1449051332,
+    "wof:name":"Idaho Emergency Physicians",
+    "wof:parent_id":85841319,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [-116.27413,43.626114,-116.27413,43.626114],
+  "geometry": {"coordinates":[-116.27413,43.626114],"type":"Point"}
+}

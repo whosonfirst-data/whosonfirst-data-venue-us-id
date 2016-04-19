@@ -1,0 +1,67 @@
+{
+  "id": 186123629,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-116.914507,47.672251,-116.914507,47.672251",
+    "geom:latitude":47.672251,
+    "geom:longitude":-116.914507,
+    "iso:country":"US",
+    "sg:address":"3306 S Greensferry Rd",
+    "sg:city":"Coeur D Alene",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 773 8480",
+    "sg:postcode":"83814",
+    "sg:province":"ID",
+    "sg:tags":[
+        "excavating",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        102086085,
+        85833263
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5IEYIfoEl5umAoveElYZgM_47.672251_-116.914507@1294099250"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"678be6dce63c0d085517957a1d1195e0",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086085,
+            "locality_id":-1,
+            "neighbourhood_id":85833263,
+            "region_id":85688657,
+            "venue_id":186123629
+        }
+    ],
+    "wof:id":186123629,
+    "wof:lastmodified":1449051181,
+    "wof:name":"Alamo Excavating Inc",
+    "wof:parent_id":85833263,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "excavating",
+        "contractor"
+    ]
+},
+  "bbox": [-116.914507,47.672251,-116.914507,47.672251],
+  "geometry": {"coordinates":[-116.914507,47.672251],"type":"Point"}
+}

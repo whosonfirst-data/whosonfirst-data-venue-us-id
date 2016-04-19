@@ -1,0 +1,68 @@
+{
+  "id": 185833329,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-116.999048,46.379702,-116.999048,46.379702",
+    "geom:latitude":46.379702,
+    "geom:longitude":-116.999048,
+    "iso:country":"US",
+    "sg:address":"621 Bryden Dr",
+    "sg:city":"Lewiston",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Auto Supplies",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 746 1202",
+    "sg:postcode":"83501",
+    "sg:province":"ID",
+    "sg:tags":[
+        "automobile",
+        "parts"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85937743,
+        102086039,
+        85837769
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7MVW5jyLDDogqW3QUPQMKm_46.379702_-116.999048@1294099250"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"1563264006dea82df890471b11da86ef",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086039,
+            "locality_id":85937743,
+            "neighbourhood_id":85837769,
+            "region_id":85688657,
+            "venue_id":185833329
+        }
+    ],
+    "wof:id":185833329,
+    "wof:lastmodified":1449006804,
+    "wof:name":"Federated Auto Parts",
+    "wof:parent_id":85837769,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automobile",
+        "parts"
+    ]
+},
+  "bbox": [-116.999048,46.379702,-116.999048,46.379702],
+  "geometry": {"coordinates":[-116.999048,46.379702],"type":"Point"}
+}

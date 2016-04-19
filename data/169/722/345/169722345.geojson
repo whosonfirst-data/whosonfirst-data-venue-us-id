@@ -1,0 +1,65 @@
+{
+  "id": 169722345,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-116.314362,43.554789,-116.314362,43.554789",
+    "geom:latitude":43.554789,
+    "geom:longitude":-116.314362,
+    "iso:country":"US",
+    "sg:address":"5347 S Five Mile Rd",
+    "sg:city":"Boise",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Cleaning & Sanitation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 362 4615",
+    "sg:postcode":"83709",
+    "sg:province":"ID",
+    "sg:tags":[
+        "janitor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        102086087,
+        85876331
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_12wYwo7aBtNkXMuOFHmIl6_43.554789_-116.314362@1294099250"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"0de42e9938de68de9d706594a2120271",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086087,
+            "locality_id":-1,
+            "neighbourhood_id":85876331,
+            "region_id":85688657,
+            "venue_id":169722345
+        }
+    ],
+    "wof:id":169722345,
+    "wof:lastmodified":1449033849,
+    "wof:name":"M J Cleaning Svc",
+    "wof:parent_id":85876331,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "janitor"
+    ]
+},
+  "bbox": [-116.314362,43.554789,-116.314362,43.554789],
+  "geometry": {"coordinates":[-116.314362,43.554789],"type":"Point"}
+}

@@ -1,0 +1,93 @@
+{
+  "id": 320526879,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-117.030479,46.421982,-117.030479,46.421982",
+    "geom:latitude":46.421982,
+    "geom:longitude":-117.030479,
+    "iso:country":"US",
+    "sg:address":"203 D St",
+    "sg:city":"Lewiston",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Non-durable Goods",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Shopping",
+            "subcategory":"Department Store",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Building & Trades",
+            "subcategory":"Cleaning & Sanitation",
+            "type":"Services"
+        },
+        {
+            "category":"Home & Garden",
+            "subcategory":"Hardware",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 746 1330",
+    "sg:postcode":"83501",
+    "sg:province":"ID",
+    "sg:tags":[
+        "cleaner",
+        "supply",
+        "supplies-wholesale",
+        "equipment",
+        "house",
+        "janitor",
+        "manufacturer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85937743,
+        102086039,
+        85852537
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6vdwnTZDGG37QGKyfc9gNk_46.421982_-117.030479@1303263095"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"98f22bc0d9dac90ca1de327fecc5812b",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086039,
+            "locality_id":85937743,
+            "neighbourhood_id":85852537,
+            "region_id":85688657,
+            "venue_id":320526879
+        }
+    ],
+    "wof:id":320526879,
+    "wof:lastmodified":1449012411,
+    "wof:name":"Jones Supply",
+    "wof:parent_id":85852537,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cleaner",
+        "supply",
+        "supplies-wholesale",
+        "equipment",
+        "house",
+        "janitor",
+        "manufacturer"
+    ]
+},
+  "bbox": [-117.030479,46.421982,-117.030479,46.421982],
+  "geometry": {"coordinates":[-117.030479,46.421982],"type":"Point"}
+}

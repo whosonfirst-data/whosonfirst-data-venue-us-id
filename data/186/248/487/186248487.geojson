@@ -1,0 +1,70 @@
+{
+  "id": 186248487,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-116.264651,43.589983,-116.264651,43.589983",
+    "geom:latitude":43.589983,
+    "geom:longitude":-116.264651,
+    "iso:country":"US",
+    "sg:address":"6753 Overland Rd",
+    "sg:city":"Boise",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Car Wash",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 375 2677",
+    "sg:postcode":"83709",
+    "sg:province":"ID",
+    "sg:tags":[
+        "operated",
+        "polishing",
+        "washing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85937923,
+        102086087,
+        85876293
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5f0f0UuKbxNqAmybCOVOd8_43.589983_-116.264651@1294099250"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"4d6b12cbdb777a9fac0f8d0fc621c915",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086087,
+            "locality_id":85937923,
+            "neighbourhood_id":85876293,
+            "region_id":85688657,
+            "venue_id":186248487
+        }
+    ],
+    "wof:id":186248487,
+    "wof:lastmodified":1449051850,
+    "wof:name":"Dirty Harry's Car Wash",
+    "wof:parent_id":85876293,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operated",
+        "polishing",
+        "washing"
+    ]
+},
+  "bbox": [-116.264651,43.589983,-116.264651,43.589983],
+  "geometry": {"coordinates":[-116.264651,43.589983],"type":"Point"}
+}

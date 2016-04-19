@@ -1,0 +1,76 @@
+{
+  "id": 320533629,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-116.398707,43.600501,-116.398707,43.600501",
+    "geom:latitude":43.600501,
+    "geom:longitude":-116.398707,
+    "iso:country":"US",
+    "sg:address":"184 W Pennwood St",
+    "sg:city":"Meridian",
+    "sg:classifiers":[
+        {
+            "category":"Travel",
+            "subcategory":"Resort",
+            "type":"Entertainment"
+        },
+        {
+            "category":"Recreation",
+            "subcategory":"Campground",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 888 7003",
+    "sg:postcode":"83642",
+    "sg:province":"ID",
+    "sg:tags":[
+        "recreational",
+        "park",
+        "vehicle"
+    ],
+    "sg:website":"http://www.boisemeridianrvresort.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85937915,
+        102086087,
+        85805083
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_541Vvp72zwEC2pSyQ8t6nN_43.600501_-116.398707@1303263095"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"32d96050b161e40d658fe1a032337c8e",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086087,
+            "locality_id":85937915,
+            "neighbourhood_id":85805083,
+            "region_id":85688657,
+            "venue_id":320533629
+        }
+    ],
+    "wof:id":320533629,
+    "wof:lastmodified":1449011216,
+    "wof:name":"Boise Meridian Rv Resort",
+    "wof:parent_id":85805083,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "recreational",
+        "park",
+        "vehicle"
+    ]
+},
+  "bbox": [-116.398707,43.600501,-116.398707,43.600501],
+  "geometry": {"coordinates":[-116.398707,43.600501],"type":"Point"}
+}

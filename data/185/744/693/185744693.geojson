@@ -1,0 +1,66 @@
+{
+  "id": 185744693,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-116.374474,43.562148,-116.374474,43.562148",
+    "geom:latitude":43.562148,
+    "geom:longitude":-116.374474,
+    "iso:country":"US",
+    "sg:address":"4515 S Locust Grove Rd",
+    "sg:city":"Meridian",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 888 3046",
+    "sg:postcode":"83642",
+    "sg:province":"ID",
+    "sg:tags":[
+        "welding"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85937915,
+        102086087,
+        85805083
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1F0vvNqbELyC6569dcyzGF_43.562148_-116.374474@1294099250"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"481ad89221f59d366abfb5f10734228b",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086087,
+            "locality_id":85937915,
+            "neighbourhood_id":85805083,
+            "region_id":85688657,
+            "venue_id":185744693
+        }
+    ],
+    "wof:id":185744693,
+    "wof:lastmodified":1449007174,
+    "wof:name":"James Vaughn Welding",
+    "wof:parent_id":85805083,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "welding"
+    ]
+},
+  "bbox": [-116.374474,43.562148,-116.374474,43.562148],
+  "geometry": {"coordinates":[-116.374474,43.562148],"type":"Point"}
+}

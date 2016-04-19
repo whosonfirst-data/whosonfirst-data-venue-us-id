@@ -1,0 +1,68 @@
+{
+  "id": 169682285,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-116.233833,43.655901,-116.233833,43.655901",
+    "geom:latitude":43.655901,
+    "geom:longitude":-116.233833,
+    "iso:country":"US",
+    "sg:address":"3700 E Hill Rd",
+    "sg:city":"Boise",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 336 0552",
+    "sg:postcode":"83703",
+    "sg:province":"ID",
+    "sg:tags":[
+        "concrete",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85937923,
+        102086087,
+        85876323
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4cJgpE349TgWVMdAcOKf3x_43.655901_-116.233833@1294099250"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"5c767cb2827f44be35770f215cb43413",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086087,
+            "locality_id":85937923,
+            "neighbourhood_id":85876323,
+            "region_id":85688657,
+            "venue_id":169682285
+        }
+    ],
+    "wof:id":169682285,
+    "wof:lastmodified":1449033267,
+    "wof:name":"B Taylor-Superior Concrete",
+    "wof:parent_id":85876323,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "concrete",
+        "contractor"
+    ]
+},
+  "bbox": [-116.233833,43.655901,-116.233833,43.655901],
+  "geometry": {"coordinates":[-116.233833,43.655901],"type":"Point"}
+}

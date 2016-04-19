@@ -1,0 +1,66 @@
+{
+  "id": 186463733,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-116.39985,43.604581,-116.39985,43.604581",
+    "geom:latitude":43.604581,
+    "geom:longitude":-116.39985,
+    "iso:country":"US",
+    "sg:address":"415 W Franklin Rd",
+    "sg:city":"Meridian",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Veterinary Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 888 3444",
+    "sg:postcode":"83642",
+    "sg:province":"ID",
+    "sg:tags":[
+        "veterinarian"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85937915,
+        102086087,
+        85805083
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3QEWU18PkTbGBG1weeslg6_43.604581_-116.399850@1294099250"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"4ded052fadbfc1716e1bd750a7ca22cf",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086087,
+            "locality_id":85937915,
+            "neighbourhood_id":85805083,
+            "region_id":85688657,
+            "venue_id":186463733
+        }
+    ],
+    "wof:id":186463733,
+    "wof:lastmodified":1449052230,
+    "wof:name":"Meridian Veterinary Clinic",
+    "wof:parent_id":85805083,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "veterinarian"
+    ]
+},
+  "bbox": [-116.39985,43.604581,-116.39985,43.604581],
+  "geometry": {"coordinates":[-116.39985,43.604581],"type":"Point"}
+}

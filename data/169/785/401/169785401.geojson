@@ -1,0 +1,67 @@
+{
+  "id": 169785401,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-111.765009,43.828705,-111.765009,43.828705",
+    "geom:latitude":43.828705,
+    "geom:longitude":-111.765009,
+    "iso:country":"US",
+    "sg:address":"318 Bluebell St",
+    "sg:city":"Rexburg",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Equipment Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 356 7917",
+    "sg:postcode":"83440",
+    "sg:province":"ID",
+    "sg:tags":[
+        "audio",
+        "leasing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85937903,
+        102086101
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7VDLx2VUWviVVGvXIbKn5F_43.828705_-111.765009@1294099250"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"bf9594a33413f5b0c95912fdf54d4283",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086101,
+            "locality_id":85937903,
+            "neighbourhood_id":-1,
+            "region_id":85688657,
+            "venue_id":169785401
+        }
+    ],
+    "wof:id":169785401,
+    "wof:lastmodified":1449035398,
+    "wof:name":"Golden Plug",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "audio",
+        "leasing"
+    ]
+},
+  "bbox": [-111.765009,43.828705,-111.765009,43.828705],
+  "geometry": {"coordinates":[-111.765009,43.828705],"type":"Point"}
+}

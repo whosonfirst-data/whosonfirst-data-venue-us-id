@@ -1,0 +1,71 @@
+{
+  "id": 186004095,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-116.282752,43.650245,-116.282752,43.650245",
+    "geom:latitude":43.650245,
+    "geom:longitude":-116.282752,
+    "iso:country":"US",
+    "sg:address":"8151 Chinden Blvd",
+    "sg:city":"Boise",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 377 2755",
+    "sg:postcode":"83714",
+    "sg:province":"ID",
+    "sg:tags":[
+        "renting",
+        "truck",
+        "leasing"
+    ],
+    "sg:website":"www.uhaul.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85937919,
+        102086087,
+        85876349
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_65hHHca6QJMDKrCqJyWNFS_43.650245_-116.282752@1294099250"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"c0b45b86f8be6186a340783696ae451e",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086087,
+            "locality_id":85937919,
+            "neighbourhood_id":85876349,
+            "region_id":85688657,
+            "venue_id":186004095
+        }
+    ],
+    "wof:id":186004095,
+    "wof:lastmodified":1449051365,
+    "wof:name":"U-Haul Co",
+    "wof:parent_id":85876349,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "renting",
+        "truck",
+        "leasing"
+    ]
+},
+  "bbox": [-116.282752,43.650245,-116.282752,43.650245],
+  "geometry": {"coordinates":[-116.282752,43.650245],"type":"Point"}
+}

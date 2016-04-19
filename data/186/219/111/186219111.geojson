@@ -1,0 +1,67 @@
+{
+  "id": 186219111,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-111.789656,43.832484,-111.789656,43.832484",
+    "geom:latitude":43.832484,
+    "geom:longitude":-111.789656,
+    "iso:country":"US",
+    "sg:address":"385 N 2nd W",
+    "sg:city":"Rexburg",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 356 8771",
+    "sg:postcode":"83440",
+    "sg:province":"ID",
+    "sg:tags":[
+        "repairing",
+        "tire"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85937903,
+        102086101
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3FYYPSnhCuXWifp8wjFd7a_43.832484_-111.789656@1294099250"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"f17dd2e7db36d196f608a70dce3ba47a",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086101,
+            "locality_id":85937903,
+            "neighbourhood_id":-1,
+            "region_id":85688657,
+            "venue_id":186219111
+        }
+    ],
+    "wof:id":186219111,
+    "wof:lastmodified":1449052931,
+    "wof:name":"Retreading Warehouse",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "tire"
+    ]
+},
+  "bbox": [-111.789656,43.832484,-111.789656,43.832484],
+  "geometry": {"coordinates":[-111.789656,43.832484],"type":"Point"}
+}

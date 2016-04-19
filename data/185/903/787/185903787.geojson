@@ -1,0 +1,66 @@
+{
+  "id": 185903787,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-116.120477,47.537051,-116.120477,47.537051",
+    "geom:latitude":47.537051,
+    "geom:longitude":-116.120477,
+    "iso:country":"US",
+    "sg:address":"1 N Division St",
+    "sg:city":"Kellogg",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Laundry & Dry Cleaning",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 786 8101",
+    "sg:postcode":"83837",
+    "sg:province":"ID",
+    "sg:tags":[
+        "cleaners"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85937825,
+        102086103,
+        85849049
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2aIioQhpgKo7e9fJI1NLC2_47.537051_-116.120477@1294099250"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"8237a1a6483b79e8e9fe1b34f46e104f",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086103,
+            "locality_id":85937825,
+            "neighbourhood_id":85849049,
+            "region_id":85688657,
+            "venue_id":185903787
+        }
+    ],
+    "wof:id":185903787,
+    "wof:lastmodified":1449006692,
+    "wof:name":"Panhandle Linen Supply",
+    "wof:parent_id":85849049,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cleaners"
+    ]
+},
+  "bbox": [-116.120477,47.537051,-116.120477,47.537051],
+  "geometry": {"coordinates":[-116.120477,47.537051],"type":"Point"}
+}

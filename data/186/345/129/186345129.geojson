@@ -1,0 +1,64 @@
+{
+  "id": 186345129,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-116.478286,48.317267,-116.478286,48.317267",
+    "geom:latitude":48.317267,
+    "geom:longitude":-116.478286,
+    "iso:country":"US",
+    "sg:address":"33637 Hwy 200",
+    "sg:city":"Sandpoint",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 263 6613",
+    "sg:postcode":"83864",
+    "sg:province":"ID",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633793,
+        85688657
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_77E5I7r8mdB1ZuDB5KOIUb_48.317267_-116.478286@1294099250"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"1a4605582fbe19e47014c29d92aa6d3d",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "locality_id":-1,
+            "neighbourhood_id":-1,
+            "region_id":85688657,
+            "venue_id":186345129
+        }
+    ],
+    "wof:id":186345129,
+    "wof:lastmodified":1449052814,
+    "wof:name":"Lake Auto Sales",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [-116.478286,48.317267,-116.478286,48.317267],
+  "geometry": {"coordinates":[-116.478286,48.317267],"type":"Point"}
+}

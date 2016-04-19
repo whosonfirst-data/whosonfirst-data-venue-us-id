@@ -1,0 +1,69 @@
+{
+  "id": 169620443,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-116.289506,43.673773,-116.289506,43.673773",
+    "geom:latitude":43.673773,
+    "geom:longitude":-116.289506,
+    "iso:country":"US",
+    "sg:address":"8306 W State St",
+    "sg:city":"Boise",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 854 0633",
+    "sg:postcode":"83714",
+    "sg:province":"ID",
+    "sg:tags":[
+        "repairing",
+        "lawn",
+        "mower"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        102086087,
+        85876315
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1lPLf90kVQ2cYrA7ikx25k_43.673773_-116.289506@1294099250"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"fd1b089da1f403529af8b28d309a5fe7",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086087,
+            "locality_id":-1,
+            "neighbourhood_id":85876315,
+            "region_id":85688657,
+            "venue_id":169620443
+        }
+    ],
+    "wof:id":169620443,
+    "wof:lastmodified":1449035676,
+    "wof:name":"3 Se Corp",
+    "wof:parent_id":85876315,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "lawn",
+        "mower"
+    ]
+},
+  "bbox": [-116.289506,43.673773,-116.289506,43.673773],
+  "geometry": {"coordinates":[-116.289506,43.673773],"type":"Point"}
+}

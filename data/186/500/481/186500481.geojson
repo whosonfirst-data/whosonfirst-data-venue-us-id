@@ -1,0 +1,70 @@
+{
+  "id": 186500481,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-116.211926,43.607961,-116.211926,43.607961",
+    "geom:latitude":43.607961,
+    "geom:longitude":-116.211926,
+    "iso:country":"US",
+    "sg:address":"1035 Lusk St",
+    "sg:city":"Boise",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Animal Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 344 1060",
+    "sg:postcode":"83706",
+    "sg:province":"ID",
+    "sg:tags":[
+        "pet",
+        "grooming",
+        "washing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85937923,
+        102086087,
+        85876325
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7GxWa34ttD3AhzA61GxRKV_43.607961_-116.211926@1294099250"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"8fcf18d39c6eb531242daa19d305fa29",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086087,
+            "locality_id":85937923,
+            "neighbourhood_id":85876325,
+            "region_id":85688657,
+            "venue_id":186500481
+        }
+    ],
+    "wof:id":186500481,
+    "wof:lastmodified":1449051064,
+    "wof:name":"Hounds Lounge",
+    "wof:parent_id":85876325,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pet",
+        "grooming",
+        "washing"
+    ]
+},
+  "bbox": [-116.211926,43.607961,-116.211926,43.607961],
+  "geometry": {"coordinates":[-116.211926,43.607961],"type":"Point"}
+}

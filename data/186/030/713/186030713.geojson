@@ -1,0 +1,67 @@
+{
+  "id": 186030713,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-113.596623,42.67005,-113.596623,42.67005",
+    "geom:latitude":42.67005,
+    "geom:longitude":-113.596623,
+    "iso:country":"US",
+    "sg:address":"20602 F St",
+    "sg:city":"Acequia",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 436 6775",
+    "sg:postcode":"83350",
+    "sg:province":"ID",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85937771,
+        102085195
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_13cTmAoDB4bl4S2ObnudeC_42.670050_-113.596623@1294099250"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"617f41e90445e103ed2925cbb1601290",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085195,
+            "locality_id":85937771,
+            "neighbourhood_id":-1,
+            "region_id":85688657,
+            "venue_id":186030713
+        }
+    ],
+    "wof:id":186030713,
+    "wof:lastmodified":1449051369,
+    "wof:name":"Acequia Automotive",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [-113.596623,42.67005,-113.596623,42.67005],
+  "geometry": {"coordinates":[-113.596623,42.67005],"type":"Point"}
+}

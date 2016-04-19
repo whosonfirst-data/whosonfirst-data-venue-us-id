@@ -1,0 +1,68 @@
+{
+  "id": 169611197,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-116.222466,43.620765,-116.222466,43.620765",
+    "geom:latitude":43.620765,
+    "geom:longitude":-116.222466,
+    "iso:country":"US",
+    "sg:address":"2608 Fairview Ave",
+    "sg:city":"Boise",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 336 8777",
+    "sg:postcode":"83702",
+    "sg:province":"ID",
+    "sg:tags":[
+        "renting",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85937923,
+        102086087,
+        85876355
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5ZsGVqUKWycFTOlRMyG1Lb_43.620765_-116.222466@1294099250"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"98d185b8f567bd5256ea8463dab8ece6",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086087,
+            "locality_id":85937923,
+            "neighbourhood_id":85876355,
+            "region_id":85688657,
+            "venue_id":169611197
+        }
+    ],
+    "wof:id":169611197,
+    "wof:lastmodified":1449035263,
+    "wof:name":"Enterprise Rent-A-Car",
+    "wof:parent_id":85876355,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "renting",
+        "automobile"
+    ]
+},
+  "bbox": [-116.222466,43.620765,-116.222466,43.620765],
+  "geometry": {"coordinates":[-116.222466,43.620765],"type":"Point"}
+}

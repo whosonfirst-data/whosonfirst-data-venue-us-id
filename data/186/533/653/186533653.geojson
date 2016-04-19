@@ -1,0 +1,67 @@
+{
+  "id": 186533653,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-116.234709,43.611519,-116.234709,43.611519",
+    "geom:latitude":43.611519,
+    "geom:longitude":-116.234709,
+    "iso:country":"US",
+    "sg:address":"4205 Emerald St",
+    "sg:city":"Boise",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 345 5115",
+    "sg:postcode":"83706",
+    "sg:province":"ID",
+    "sg:tags":[
+        "loan"
+    ],
+    "sg:website":"www.merit-mortgage.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85937923,
+        102086087,
+        85876301
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3jOupVelpY5oZr7ufX1H65_43.611519_-116.234709@1294099250"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"eade2e7061144d190e86622aa6d707aa",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086087,
+            "locality_id":85937923,
+            "neighbourhood_id":85876301,
+            "region_id":85688657,
+            "venue_id":186533653
+        }
+    ],
+    "wof:id":186533653,
+    "wof:lastmodified":1449050211,
+    "wof:name":"Merit Mortgage Corp",
+    "wof:parent_id":85876301,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "loan"
+    ]
+},
+  "bbox": [-116.234709,43.611519,-116.234709,43.611519],
+  "geometry": {"coordinates":[-116.234709,43.611519],"type":"Point"}
+}

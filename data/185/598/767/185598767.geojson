@@ -1,0 +1,68 @@
+{
+  "id": 185598767,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-116.249781,43.632453,-116.249781,43.632453",
+    "geom:latitude":43.632453,
+    "geom:longitude":-116.249781,
+    "iso:country":"US",
+    "sg:address":"107 E 42nd St",
+    "sg:city":"Boise",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 378 8298",
+    "sg:postcode":"83714",
+    "sg:province":"ID",
+    "sg:tags":[
+        "car",
+        "dealer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85937923,
+        102086087,
+        85876339
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6s6vgqd3kzMjs3juBLp5tS_43.632453_-116.249781@1294099250"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"68579a547c52093715a990f44b640228",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086087,
+            "locality_id":85937923,
+            "neighbourhood_id":85876339,
+            "region_id":85688657,
+            "venue_id":185598767
+        }
+    ],
+    "wof:id":185598767,
+    "wof:lastmodified":1449006664,
+    "wof:name":"Slade Auto Sales Inc",
+    "wof:parent_id":85876339,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "car",
+        "dealer"
+    ]
+},
+  "bbox": [-116.249781,43.632453,-116.249781,43.632453],
+  "geometry": {"coordinates":[-116.249781,43.632453],"type":"Point"}
+}

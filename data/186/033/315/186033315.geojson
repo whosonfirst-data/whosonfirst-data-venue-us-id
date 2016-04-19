@@ -1,0 +1,73 @@
+{
+  "id": 186033315,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-116.28149,43.606215,-116.28149,43.606215",
+    "geom:latitude":43.606215,
+    "geom:longitude":-116.28149,
+    "iso:country":"US",
+    "sg:address":"140 N Milwaukee St",
+    "sg:city":"Boise",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Department Store",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 377 4562",
+    "sg:postcode":"83704",
+    "sg:province":"ID",
+    "sg:tags":[
+        "shop"
+    ],
+    "sg:website":"www.pier1.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85937923,
+        102086087,
+        85841319
+    ],
+    "wof:brand_id":420574361,
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3ZbCD2FupjbYhzNHLiCk4N_43.606215_-116.281490@1294099250"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"7f5e3e7d7269bf0ce9fb60d419b16f86",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086087,
+            "locality_id":85937923,
+            "neighbourhood_id":85841319,
+            "region_id":85688657,
+            "venue_id":186033315
+        }
+    ],
+    "wof:id":186033315,
+    "wof:lastmodified":1457208821,
+    "wof:name":"Pier 1 Imports",
+    "wof:parent_id":85841319,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop"
+    ]
+},
+  "bbox": [
+    -116.28149,
+    43.606215,
+    -116.28149,
+    43.606215
+],
+  "geometry": {"coordinates":[-116.28149000000001,43.606215],"type":"Point"}
+}

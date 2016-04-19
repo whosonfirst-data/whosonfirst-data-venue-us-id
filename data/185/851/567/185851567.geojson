@@ -1,0 +1,65 @@
+{
+  "id": 185851567,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-116.199702,43.908687,-116.199702,43.908687",
+    "geom:latitude":43.908687,
+    "geom:longitude":-116.199702,
+    "iso:country":"US",
+    "sg:address":"388 State Hwy 55",
+    "sg:city":"Horseshoe Bend",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 793 2541",
+    "sg:postcode":"83629",
+    "sg:province":"ID",
+    "sg:tags":[
+        "grocer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85937793,
+        102085213
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_13jxTBwgCH4unsthNKlChg_43.908687_-116.199702@1294099250"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"2b7226ced2cdd4332e6ad57d2e69c17f",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085213,
+            "locality_id":85937793,
+            "neighbourhood_id":-1,
+            "region_id":85688657,
+            "venue_id":185851567
+        }
+    ],
+    "wof:id":185851567,
+    "wof:lastmodified":1449007662,
+    "wof:name":"Kalac Grocery",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "grocer"
+    ]
+},
+  "bbox": [-116.199702,43.908687,-116.199702,43.908687],
+  "geometry": {"coordinates":[-116.199702,43.908687],"type":"Point"}
+}

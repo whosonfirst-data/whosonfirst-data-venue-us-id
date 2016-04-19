@@ -1,0 +1,87 @@
+{
+  "id": 320546023,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-117.000833,46.732352,-117.000833,46.732352",
+    "geom:latitude":46.732352,
+    "geom:longitude":-117.000833,
+    "iso:country":"US",
+    "sg:address":"123 E 3rd St",
+    "sg:city":"Moscow",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"Music School",
+            "type":"Public Place"
+        },
+        {
+            "category":"Arts & Performance",
+            "subcategory":"Music",
+            "type":"Entertainment"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        },
+        {
+            "category":"Manufacturing",
+            "subcategory":"Musical Instruments",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 882 1751",
+    "sg:postcode":"83843",
+    "sg:province":"ID",
+    "sg:tags":[
+        "instruments-repair",
+        "instruments-rental",
+        "sheet",
+        "instruction-instrumental"
+    ],
+    "sg:website":"http://www.keeneybros.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85937727,
+        102085077
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0UKARxuOJGZVaJjE13ktBu_46.732352_-117.000833@1303263095"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"03937327de6ba1bef70216afa318f604",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085077,
+            "locality_id":85937727,
+            "neighbourhood_id":-1,
+            "region_id":85688657,
+            "venue_id":320546023
+        }
+    ],
+    "wof:id":320546023,
+    "wof:lastmodified":1449011255,
+    "wof:name":"Keeney BROS Music Center",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "instruments-repair",
+        "instruments-rental",
+        "sheet",
+        "instruction-instrumental"
+    ]
+},
+  "bbox": [-117.000833,46.732352,-117.000833,46.732352],
+  "geometry": {"coordinates":[-117.000833,46.732352],"type":"Point"}
+}

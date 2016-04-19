@@ -1,0 +1,86 @@
+{
+  "id": 320541989,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-116.300527,43.609585,-116.300527,43.609585",
+    "geom:latitude":43.609585,
+    "geom:longitude":-116.300527,
+    "iso:country":"US",
+    "sg:address":"9465 W Emerald St",
+    "sg:city":"Boise",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Mobile Phone",
+            "type":"Services"
+        },
+        {
+            "category":"Coffee & Tea",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 375 5078",
+    "sg:postcode":"83704",
+    "sg:province":"ID",
+    "sg:tags":[
+        "shop",
+        "restaurant",
+        "espresso",
+        "hotspot",
+        "wi-fi"
+    ],
+    "sg:website":"http://www.starbuckscoffee.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85937923,
+        102086087,
+        85876309
+    ],
+    "wof:brand_id":420574001,
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3S7pAMlrEQc6dS4Vi3FwWw_43.609585_-116.300527@1303263095"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"afb41b76858f3fa0807b21b4bb6fa1d5",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086087,
+            "locality_id":85937923,
+            "neighbourhood_id":85876309,
+            "region_id":85688657,
+            "venue_id":320541989
+        }
+    ],
+    "wof:id":320541989,
+    "wof:lastmodified":1457208103,
+    "wof:name":"Starbucks Coffee",
+    "wof:parent_id":85876309,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop",
+        "restaurant",
+        "espresso",
+        "hotspot",
+        "wi-fi"
+    ]
+},
+  "bbox": [
+    -116.300527,
+    43.609585,
+    -116.300527,
+    43.609585
+],
+  "geometry": {"coordinates":[-116.300527,43.609585],"type":"Point"}
+}

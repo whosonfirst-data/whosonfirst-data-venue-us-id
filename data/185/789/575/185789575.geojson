@@ -1,0 +1,66 @@
+{
+  "id": 185789575,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-116.238087,43.562943,-116.238087,43.562943",
+    "geom:latitude":43.562943,
+    "geom:longitude":-116.238087,
+    "iso:country":"US",
+    "sg:address":"4444 W Aeronca St",
+    "sg:city":"Boise",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 344 9558",
+    "sg:postcode":"83705",
+    "sg:province":"ID",
+    "sg:tags":[
+        "aircraft"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85937923,
+        102086087,
+        85876337
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1EbA07MWoHLH60gbPjn8Dd_43.562943_-116.238087@1294099250"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"130071b1de4bc49d0f239b029cf92394",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086087,
+            "locality_id":85937923,
+            "neighbourhood_id":85876337,
+            "region_id":85688657,
+            "venue_id":185789575
+        }
+    ],
+    "wof:id":185789575,
+    "wof:lastmodified":1449007342,
+    "wof:name":"Western Aircraft",
+    "wof:parent_id":85876337,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "aircraft"
+    ]
+},
+  "bbox": [-116.238087,43.562943,-116.238087,43.562943],
+  "geometry": {"coordinates":[-116.238087,43.562943],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 185882015,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-116.58534,43.564682,-116.58534,43.564682",
+    "geom:latitude":43.564682,
+    "geom:longitude":-116.58534,
+    "iso:country":"US",
+    "sg:address":"608 Hawthorne St",
+    "sg:city":"Nampa",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 466 0324",
+    "sg:postcode":"83686",
+    "sg:province":"ID",
+    "sg:tags":[
+        "heating",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85938009,
+        102085081,
+        85827787
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_20HquKjmKdlsYyTHXTJgGh_43.564682_-116.585340@1294099250"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"e5d1ce4637029f57508934737fb8ca56",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085081,
+            "locality_id":85938009,
+            "neighbourhood_id":85827787,
+            "region_id":85688657,
+            "venue_id":185882015
+        }
+    ],
+    "wof:id":185882015,
+    "wof:lastmodified":1449006894,
+    "wof:name":"Elite Systems",
+    "wof:parent_id":85827787,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "heating",
+        "contractor"
+    ]
+},
+  "bbox": [-116.58534,43.564682,-116.58534,43.564682],
+  "geometry": {"coordinates":[-116.58534,43.564682],"type":"Point"}
+}

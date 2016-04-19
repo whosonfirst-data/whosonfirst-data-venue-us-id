@@ -1,0 +1,71 @@
+{
+  "id": 185811717,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-116.275092,43.583393,-116.275092,43.583393",
+    "geom:latitude":43.583393,
+    "geom:longitude":-116.275092,
+    "iso:country":"US",
+    "sg:address":"7801 Lemhi St",
+    "sg:city":"Boise",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 378 0114",
+    "sg:postcode":"83709",
+    "sg:province":"ID",
+    "sg:tags":[
+        "repairing",
+        "automobile",
+        "automotive",
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        102086087,
+        85876321
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_27zlfHmHB76n6QpAbZ4HpE_43.583393_-116.275092@1294099250"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"ac3aefd7be78e3fb34338e538fbd3c28",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086087,
+            "locality_id":-1,
+            "neighbourhood_id":85876321,
+            "region_id":85688657,
+            "venue_id":185811717
+        }
+    ],
+    "wof:id":185811717,
+    "wof:lastmodified":1449007394,
+    "wof:name":"G & R Automotive",
+    "wof:parent_id":85876321,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile",
+        "automotive",
+        "general"
+    ]
+},
+  "bbox": [-116.275092,43.583393,-116.275092,43.583393],
+  "geometry": {"coordinates":[-116.275092,43.583393],"type":"Point"}
+}

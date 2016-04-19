@@ -1,0 +1,66 @@
+{
+  "id": 169591453,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-116.260623,43.611846,-116.260623,43.611846",
+    "geom:latitude":43.611846,
+    "geom:longitude":-116.260623,
+    "iso:country":"US",
+    "sg:address":"6259 Emerald St",
+    "sg:city":"Boise",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 489 1900",
+    "sg:postcode":"83704",
+    "sg:province":"ID",
+    "sg:tags":[
+        "clinic"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85937923,
+        102086087,
+        85806577
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6uqCYUYPYkQREchzqFdIYH_43.611846_-116.260623@1294099250"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"8718c7579af057fa57367d040a60794f",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086087,
+            "locality_id":85937923,
+            "neighbourhood_id":85806577,
+            "region_id":85688657,
+            "venue_id":169591453
+        }
+    ],
+    "wof:id":169591453,
+    "wof:lastmodified":1449034451,
+    "wof:name":"Boise Gastroenterology Assoc",
+    "wof:parent_id":85806577,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "clinic"
+    ]
+},
+  "bbox": [-116.260623,43.611846,-116.260623,43.611846],
+  "geometry": {"coordinates":[-116.260623,43.611846],"type":"Point"}
+}

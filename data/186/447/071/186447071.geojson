@@ -1,0 +1,67 @@
+{
+  "id": 186447071,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-116.786367,47.772007,-116.786367,47.772007",
+    "geom:latitude":47.772007,
+    "geom:longitude":-116.786367,
+    "iso:country":"US",
+    "sg:address":"10862 N Government Way",
+    "sg:city":"Hayden Lake",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 772 8280",
+    "sg:postcode":"83835",
+    "sg:province":"ID",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        102086085,
+        85821457
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_56ke26D55vouGhnPj2bwwk_47.772007_-116.786367@1294099250"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"cb9d21005a97d358c391db910c7e5c42",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086085,
+            "locality_id":-1,
+            "neighbourhood_id":85821457,
+            "region_id":85688657,
+            "venue_id":186447071
+        }
+    ],
+    "wof:id":186447071,
+    "wof:lastmodified":1449052246,
+    "wof:name":"Subaru Stuff Shoppe",
+    "wof:parent_id":85821457,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [-116.786367,47.772007,-116.786367,47.772007],
+  "geometry": {"coordinates":[-116.786367,47.772007],"type":"Point"}
+}

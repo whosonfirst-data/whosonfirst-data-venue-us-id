@@ -1,0 +1,67 @@
+{
+  "id": 186301697,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-113.917138,45.182148,-113.917138,45.182148",
+    "geom:latitude":45.182148,
+    "geom:longitude":-113.917138,
+    "iso:country":"US",
+    "sg:address":"1110 Roosevelt Ave",
+    "sg:city":"Salmon",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 940 0092",
+    "sg:postcode":"83467",
+    "sg:province":"ID",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85938133,
+        102085123
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_074UurgRluSN0K9f41ccO5_45.182148_-113.917138@1294099250"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"4f463538f3016b9b71de4681e87732ce",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085123,
+            "locality_id":85938133,
+            "neighbourhood_id":-1,
+            "region_id":85688657,
+            "venue_id":186301697
+        }
+    ],
+    "wof:id":186301697,
+    "wof:lastmodified":1449051080,
+    "wof:name":"Jeff's Auto Repair",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [-113.917138,45.182148,-113.917138,45.182148],
+  "geometry": {"coordinates":[-113.917138,45.182148],"type":"Point"}
+}

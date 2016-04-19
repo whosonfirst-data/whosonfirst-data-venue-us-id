@@ -1,0 +1,68 @@
+{
+  "id": 186267271,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-116.218335,43.629937,-116.218335,43.629937",
+    "geom:latitude":43.629937,
+    "geom:longitude":-116.218335,
+    "iso:country":"US",
+    "sg:address":"2305 Ellis Ave",
+    "sg:city":"Boise",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 890 0647",
+    "sg:postcode":"83702",
+    "sg:province":"ID",
+    "sg:tags":[
+        "operator",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85937923,
+        102086087,
+        85876313
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3TPOODMwSiNVYzWSpnnCHt_43.629937_-116.218335@1294099250"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"1251bf22b5a33ebdf7ba50f926bafb0c",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086087,
+            "locality_id":85937923,
+            "neighbourhood_id":85876313,
+            "region_id":85688657,
+            "venue_id":186267271
+        }
+    ],
+    "wof:id":186267271,
+    "wof:lastmodified":1449052782,
+    "wof:name":"Hyland Transportation",
+    "wof:parent_id":85876313,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "trucking"
+    ]
+},
+  "bbox": [-116.218335,43.629937,-116.218335,43.629937],
+  "geometry": {"coordinates":[-116.218335,43.629937],"type":"Point"}
+}

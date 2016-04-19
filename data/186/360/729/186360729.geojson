@@ -1,0 +1,70 @@
+{
+  "id": 186360729,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-116.222067,43.631014,-116.222067,43.631014",
+    "geom:latitude":43.631014,
+    "geom:longitude":-116.222067,
+    "iso:country":"US",
+    "sg:address":"1101 N 27th St",
+    "sg:city":"Boise",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 343 1949",
+    "sg:postcode":"83702",
+    "sg:province":"ID",
+    "sg:tags":[
+        "machine",
+        "automobile",
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85937923,
+        102086087,
+        85876313
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0EKQ8pj36tbhsdi1wSkpd4_43.631014_-116.222067@1294099250"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"853703af333dda7a82c5566ca65fe431",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086087,
+            "locality_id":85937923,
+            "neighbourhood_id":85876313,
+            "region_id":85688657,
+            "venue_id":186360729
+        }
+    ],
+    "wof:id":186360729,
+    "wof:lastmodified":1449052392,
+    "wof:name":"Motor Machine Shop",
+    "wof:parent_id":85876313,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "machine",
+        "automobile",
+        "shop"
+    ]
+},
+  "bbox": [-116.222067,43.631014,-116.222067,43.631014],
+  "geometry": {"coordinates":[-116.222067,43.631014],"type":"Point"}
+}

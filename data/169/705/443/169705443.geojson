@@ -1,0 +1,67 @@
+{
+  "id": 169705443,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-112.464212,42.888474,-112.464212,42.888474",
+    "geom:latitude":42.888474,
+    "geom:longitude":-112.464212,
+    "iso:country":"US",
+    "sg:address":"727 Cherry St",
+    "sg:city":"Pocatello",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Motor Vehicles & Parts",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 237 4204",
+    "sg:postcode":"83201",
+    "sg:province":"ID",
+    "sg:tags":[
+        "pickup",
+        "truck"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85937925,
+        102086113
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2ktk7UcRhoaVMEKwmOhPuq_42.888474_-112.464212@1294099250"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"165b67b7f4e450de9f5e49b7984e074d",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086113,
+            "locality_id":85937925,
+            "neighbourhood_id":-1,
+            "region_id":85688657,
+            "venue_id":169705443
+        }
+    ],
+    "wof:id":169705443,
+    "wof:lastmodified":1449035991,
+    "wof:name":"Cook Loyd J",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pickup",
+        "truck"
+    ]
+},
+  "bbox": [-112.464212,42.888474,-112.464212,42.888474],
+  "geometry": {"coordinates":[-112.464212,42.888474],"type":"Point"}
+}

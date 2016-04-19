@@ -1,0 +1,66 @@
+{
+  "id": 169616555,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-116.204356,43.618229,-116.204356,43.618229",
+    "geom:latitude":43.618229,
+    "geom:longitude":-116.204356,
+    "iso:country":"US",
+    "sg:address":"210 N 10th St",
+    "sg:city":"Boise",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Books",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 344 3311",
+    "sg:postcode":"83702",
+    "sg:province":"ID",
+    "sg:tags":[
+        "dealer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85937923,
+        102086087,
+        85876297
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5cNUAp2pDtBecClXTVa9Qt_43.618229_-116.204356@1294099250"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"5ac1f350948f60f1c1d31a05d843a778",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086087,
+            "locality_id":85937923,
+            "neighbourhood_id":85876297,
+            "region_id":85688657,
+            "venue_id":169616555
+        }
+    ],
+    "wof:id":169616555,
+    "wof:lastmodified":1449035103,
+    "wof:name":"Trip Taylor Bookseller",
+    "wof:parent_id":85876297,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dealer"
+    ]
+},
+  "bbox": [-116.204356,43.618229,-116.204356,43.618229],
+  "geometry": {"coordinates":[-116.204356,43.618229],"type":"Point"}
+}

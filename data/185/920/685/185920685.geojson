@@ -1,0 +1,67 @@
+{
+  "id": 185920685,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-116.997336,47.711781,-116.997336,47.711781",
+    "geom:latitude":47.711781,
+    "geom:longitude":-116.997336,
+    "iso:country":"US",
+    "sg:address":"3920 W 5th Ave",
+    "sg:city":"Post Falls",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Bicycles & Sporting Goods",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 773 9367",
+    "sg:postcode":"83854",
+    "sg:province":"ID",
+    "sg:tags":[
+        "saddlery",
+        "harness"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        102086085,
+        85833263
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7dSnJjwBpBhZJgY6x1GLc0_47.711781_-116.997336@1294099250"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"2ea6c63547aeabb23c73fa8993450114",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086085,
+            "locality_id":-1,
+            "neighbourhood_id":85833263,
+            "region_id":85688657,
+            "venue_id":185920685
+        }
+    ],
+    "wof:id":185920685,
+    "wof:lastmodified":1449007868,
+    "wof:name":"Hickman Saddlery",
+    "wof:parent_id":85833263,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "saddlery",
+        "harness"
+    ]
+},
+  "bbox": [-116.997336,47.711781,-116.997336,47.711781],
+  "geometry": {"coordinates":[-116.997336,47.711781],"type":"Point"}
+}

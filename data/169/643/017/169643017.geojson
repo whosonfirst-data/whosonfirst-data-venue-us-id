@@ -1,0 +1,68 @@
+{
+  "id": 169643017,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-116.348163,43.613657,-116.348163,43.613657",
+    "geom:latitude":43.613657,
+    "geom:longitude":-116.348163,
+    "iso:country":"US",
+    "sg:address":"3554 E Presidential Dr",
+    "sg:city":"Meridian",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 887 9129",
+    "sg:postcode":"83642",
+    "sg:province":"ID",
+    "sg:tags":[
+        "heating",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85937923,
+        102086087,
+        85811491
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3UpQVG7MZn0WnHzM2jtivd_43.613657_-116.348163@1294099250"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"cc7b0648f743170747dc213bd9468a0c",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086087,
+            "locality_id":85937923,
+            "neighbourhood_id":85811491,
+            "region_id":85688657,
+            "venue_id":169643017
+        }
+    ],
+    "wof:id":169643017,
+    "wof:lastmodified":1449035524,
+    "wof:name":"Petsche Heating & Cooling LLC",
+    "wof:parent_id":85811491,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "heating",
+        "contractor"
+    ]
+},
+  "bbox": [-116.348163,43.613657,-116.348163,43.613657],
+  "geometry": {"coordinates":[-116.348163,43.613657],"type":"Point"}
+}

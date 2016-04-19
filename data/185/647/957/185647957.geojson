@@ -1,0 +1,68 @@
+{
+  "id": 185647957,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-116.243541,43.606125,-116.243541,43.606125",
+    "geom:latitude":43.606125,
+    "geom:longitude":-116.243541,
+    "iso:country":"US",
+    "sg:address":"11 N Orchard St",
+    "sg:city":"Boise",
+    "sg:classifiers":[
+        {
+            "category":"Bars & Pubs",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 378 9853",
+    "sg:postcode":"83706",
+    "sg:province":"ID",
+    "sg:tags":[
+        "club",
+        "night"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85937923,
+        102086087,
+        85876311
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6WcPYEvr7jERUrhkL8qfMI_43.606125_-116.243541@1294099250"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"3638464e61944073ed381c2003420e56",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086087,
+            "locality_id":85937923,
+            "neighbourhood_id":85876311,
+            "region_id":85688657,
+            "venue_id":185647957
+        }
+    ],
+    "wof:id":185647957,
+    "wof:lastmodified":1449007382,
+    "wof:name":"Brewskies Sports Pub",
+    "wof:parent_id":85876311,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "club",
+        "night"
+    ]
+},
+  "bbox": [-116.243541,43.606125,-116.243541,43.606125],
+  "geometry": {"coordinates":[-116.243541,43.606125],"type":"Point"}
+}

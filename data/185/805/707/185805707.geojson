@@ -1,0 +1,71 @@
+{
+  "id": 185805707,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-116.217781,43.601727,-116.217781,43.601727",
+    "geom:latitude":43.601727,
+    "geom:longitude":-116.217781,
+    "iso:country":"US",
+    "sg:address":"316 Peasley St",
+    "sg:city":"Boise",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Animal Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 342 2494",
+    "sg:postcode":"83705",
+    "sg:province":"ID",
+    "sg:tags":[
+        "pet",
+        "boarding",
+        "sitting"
+    ],
+    "sg:website":"www.dogmanners.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85937923,
+        102086087,
+        85876303
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2D2AipQjwIUbKsvQjjN7M8_43.601727_-116.217781@1294099250"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"21314cd0e15d1ad21f03210be9795b08",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086087,
+            "locality_id":85937923,
+            "neighbourhood_id":85876303,
+            "region_id":85688657,
+            "venue_id":185805707
+        }
+    ],
+    "wof:id":185805707,
+    "wof:lastmodified":1449007140,
+    "wof:name":"Critter Sitter",
+    "wof:parent_id":85876303,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pet",
+        "boarding",
+        "sitting"
+    ]
+},
+  "bbox": [-116.217781,43.601727,-116.217781,43.601727],
+  "geometry": {"coordinates":[-116.217781,43.601727],"type":"Point"}
+}

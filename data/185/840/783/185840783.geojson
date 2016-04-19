@@ -1,0 +1,67 @@
+{
+  "id": 185840783,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-116.404708,43.488464,-116.404708,43.488464",
+    "geom:latitude":43.488464,
+    "geom:longitude":-116.404708,
+    "iso:country":"US",
+    "sg:address":"780 E Avalon St",
+    "sg:city":"Kuna",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Specialty",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 922 9700",
+    "sg:postcode":"83634",
+    "sg:province":"ID",
+    "sg:tags":[
+        "bars",
+        "espresso"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        102086087,
+        85876331
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1C1IuUpFzIZIC1avPgJpJR_43.488464_-116.404708@1294099250"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"c731ae076f67ffd5ccaabad567b49d3b",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086087,
+            "locality_id":-1,
+            "neighbourhood_id":85876331,
+            "region_id":85688657,
+            "venue_id":185840783
+        }
+    ],
+    "wof:id":185840783,
+    "wof:lastmodified":1449007868,
+    "wof:name":"Caffeine Connection",
+    "wof:parent_id":85876331,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "bars",
+        "espresso"
+    ]
+},
+  "bbox": [-116.404708,43.488464,-116.404708,43.488464],
+  "geometry": {"coordinates":[-116.404708,43.488464],"type":"Point"}
+}

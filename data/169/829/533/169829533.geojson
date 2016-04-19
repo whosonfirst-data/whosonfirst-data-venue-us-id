@@ -1,0 +1,71 @@
+{
+  "id": 169829533,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-116.233346,43.654467,-116.233346,43.654467",
+    "geom:latitude":43.654467,
+    "geom:longitude":-116.233346,
+    "iso:country":"US",
+    "sg:address":"3823 N 36th St",
+    "sg:city":"Boise",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 388 4567",
+    "sg:postcode":"83703",
+    "sg:province":"ID",
+    "sg:tags":[
+        "state",
+        "program",
+        "health"
+    ],
+    "sg:website":"www.healthclaimservice.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85937923,
+        102086087,
+        85876339
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0AfvMB5ycVpW1Piri4bpK0_43.654467_-116.233346@1294099250"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"05aad98e8d176243155ba7cb2632e9ee",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086087,
+            "locality_id":85937923,
+            "neighbourhood_id":85876339,
+            "region_id":85688657,
+            "venue_id":169829533
+        }
+    ],
+    "wof:id":169829533,
+    "wof:lastmodified":1449035742,
+    "wof:name":"Health Claims Svc",
+    "wof:parent_id":85876339,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "state",
+        "program",
+        "health"
+    ]
+},
+  "bbox": [-116.233346,43.654467,-116.233346,43.654467],
+  "geometry": {"coordinates":[-116.233346,43.654467],"type":"Point"}
+}

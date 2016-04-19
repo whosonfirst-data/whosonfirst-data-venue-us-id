@@ -1,0 +1,65 @@
+{
+  "id": 169769519,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-116.40571,43.619292,-116.40571,43.619292",
+    "geom:latitude":43.619292,
+    "geom:longitude":-116.40571,
+    "iso:country":"US",
+    "sg:address":"1104 W Cherry Ln",
+    "sg:city":"Meridian",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 888 7889",
+    "sg:postcode":"83642",
+    "sg:province":"ID",
+    "sg:tags":[
+        "dentist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85937915,
+        102086087
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4xBCSJr2y7jfoVD6VsCH94_43.619292_-116.405710@1294099250"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"580e228d1b0d3910e70adbf2ce9f848c",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086087,
+            "locality_id":85937915,
+            "neighbourhood_id":-1,
+            "region_id":85688657,
+            "venue_id":169769519
+        }
+    ],
+    "wof:id":169769519,
+    "wof:lastmodified":1449033785,
+    "wof:name":"Cherry Lane Dental",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dentist"
+    ]
+},
+  "bbox": [-116.40571,43.619292,-116.40571,43.619292],
+  "geometry": {"coordinates":[-116.40571,43.619292],"type":"Point"}
+}

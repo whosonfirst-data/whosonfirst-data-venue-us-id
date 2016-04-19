@@ -1,0 +1,66 @@
+{
+  "id": 186091799,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-116.248018,43.638358,-116.248018,43.638358",
+    "geom:latitude":43.638358,
+    "geom:longitude":-116.248018,
+    "iso:country":"US",
+    "sg:address":"601 E 44th St",
+    "sg:city":"Boise",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 345 6800",
+    "sg:postcode":"83714",
+    "sg:province":"ID",
+    "sg:tags":[
+        "appliance"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85937923,
+        102086087,
+        85876339
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5uLZVRTlgwnTGf8tmVXVJ6_43.638358_-116.248018@1294099250"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"d3d094e0fc91755e5fc99b555c43b3d4",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086087,
+            "locality_id":85937923,
+            "neighbourhood_id":85876339,
+            "region_id":85688657,
+            "venue_id":186091799
+        }
+    ],
+    "wof:id":186091799,
+    "wof:lastmodified":1449050510,
+    "wof:name":"Quality Appliance Repair",
+    "wof:parent_id":85876339,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "appliance"
+    ]
+},
+  "bbox": [-116.248018,43.638358,-116.248018,43.638358],
+  "geometry": {"coordinates":[-116.248018,43.638358],"type":"Point"}
+}

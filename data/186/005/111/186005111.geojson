@@ -1,0 +1,66 @@
+{
+  "id": 186005111,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-116.180025,43.544703,-116.180025,43.544703",
+    "geom:latitude":43.544703,
+    "geom:longitude":-116.180025,
+    "iso:country":"US",
+    "sg:address":"6803 Business Way",
+    "sg:city":"Boise",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Chemicals & Compounds",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 336 2700",
+    "sg:postcode":"83716",
+    "sg:province":"ID",
+    "sg:tags":[
+        "gas"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85937923,
+        102086087,
+        85876329
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2ZY8vNv3vsXO5K3cqWs1ac_43.544703_-116.180025@1294099250"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"7ad8cbed577bccd2fd2b20811fbe2d9e",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086087,
+            "locality_id":85937923,
+            "neighbourhood_id":85876329,
+            "region_id":85688657,
+            "venue_id":186005111
+        }
+    ],
+    "wof:id":186005111,
+    "wof:lastmodified":1449052813,
+    "wof:name":"BOC Edwards",
+    "wof:parent_id":85876329,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "gas"
+    ]
+},
+  "bbox": [-116.180025,43.544703,-116.180025,43.544703],
+  "geometry": {"coordinates":[-116.180025,43.544703],"type":"Point"}
+}

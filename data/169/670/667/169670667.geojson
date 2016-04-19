@@ -1,0 +1,68 @@
+{
+  "id": 169670667,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-116.314275,43.645943,-116.314275,43.645943",
+    "geom:latitude":43.645943,
+    "geom:longitude":-116.314275,
+    "iso:country":"US",
+    "sg:address":"4485 N Five Mile Rd",
+    "sg:city":"Boise",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 323 5696",
+    "sg:postcode":"83713",
+    "sg:province":"ID",
+    "sg:tags":[
+        "concrete",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85937923,
+        102086087,
+        85876357
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5agOpAuKqLaHfZSbRe5LSF_43.645943_-116.314275@1294099250"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"def9617cac019872de7e268f5d937dd8",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086087,
+            "locality_id":85937923,
+            "neighbourhood_id":85876357,
+            "region_id":85688657,
+            "venue_id":169670667
+        }
+    ],
+    "wof:id":169670667,
+    "wof:lastmodified":1449033185,
+    "wof:name":"Top Of The Line Concrete",
+    "wof:parent_id":85876357,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "concrete",
+        "contractor"
+    ]
+},
+  "bbox": [-116.314275,43.645943,-116.314275,43.645943],
+  "geometry": {"coordinates":[-116.314275,43.645943],"type":"Point"}
+}

@@ -1,0 +1,66 @@
+{
+  "id": 185851171,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-116.216771,43.573567,-116.216771,43.573567",
+    "geom:latitude":43.573567,
+    "geom:longitude":-116.216771,
+    "iso:country":"US",
+    "sg:address":"3056 Elder St",
+    "sg:city":"Boise",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Police Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 334 3731",
+    "sg:postcode":"83705",
+    "sg:province":"ID",
+    "sg:tags":[
+        "state"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85937923,
+        102086087,
+        85876337
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7Z8eduOHv5C6JA1SffMZj5_43.573567_-116.216771@1294099250"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"db8b22f93ca758741695fa1dc218b839",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086087,
+            "locality_id":85937923,
+            "neighbourhood_id":85876337,
+            "region_id":85688657,
+            "venue_id":185851171
+        }
+    ],
+    "wof:id":185851171,
+    "wof:lastmodified":1449007661,
+    "wof:name":"Idaho State Police",
+    "wof:parent_id":85876337,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "state"
+    ]
+},
+  "bbox": [-116.216771,43.573567,-116.216771,43.573567],
+  "geometry": {"coordinates":[-116.216771,43.573567],"type":"Point"}
+}

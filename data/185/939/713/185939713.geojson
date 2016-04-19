@@ -1,0 +1,68 @@
+{
+  "id": 185939713,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-116.228929,43.573896,-116.228929,43.573896",
+    "geom:latitude":43.573896,
+    "geom:longitude":-116.228929,
+    "iso:country":"US",
+    "sg:address":"3804 Normandie Dr",
+    "sg:city":"Boise",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 426 0357",
+    "sg:postcode":"83705",
+    "sg:province":"ID",
+    "sg:tags":[
+        "plumbing",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85937923,
+        102086087,
+        85825393
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7gmqZQZbDohr4feVx7Wlr6_43.573896_-116.228929@1294099250"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"d646b97d3138a4c843a5d88dac0e7ddc",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086087,
+            "locality_id":85937923,
+            "neighbourhood_id":85825393,
+            "region_id":85688657,
+            "venue_id":185939713
+        }
+    ],
+    "wof:id":185939713,
+    "wof:lastmodified":1449007087,
+    "wof:name":"4 C's Plumbing",
+    "wof:parent_id":85825393,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "plumbing",
+        "contractor"
+    ]
+},
+  "bbox": [-116.228929,43.573896,-116.228929,43.573896],
+  "geometry": {"coordinates":[-116.228929,43.573896],"type":"Point"}
+}

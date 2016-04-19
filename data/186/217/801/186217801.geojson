@@ -1,0 +1,70 @@
+{
+  "id": 186217801,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-116.531654,43.344874,-116.531654,43.344874",
+    "geom:latitude":43.344874,
+    "geom:longitude":-116.531654,
+    "iso:country":"US",
+    "sg:address":"1915 Canyon Rd S",
+    "sg:city":"Melba",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 495 1187",
+    "sg:postcode":"83641",
+    "sg:province":"ID",
+    "sg:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85938009,
+        102085081,
+        85827787
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0hqF3wnS9CTZfJ3YlvzgMC_43.344874_-116.531654@1294099250"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"5091d39ec35d01ed8dcd5ef2412e585c",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085081,
+            "locality_id":85938009,
+            "neighbourhood_id":85827787,
+            "region_id":85688657,
+            "venue_id":186217801
+        }
+    ],
+    "wof:id":186217801,
+    "wof:lastmodified":1449052872,
+    "wof:name":"Nathan Bledsoe Trucking",
+    "wof:parent_id":85827787,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ]
+},
+  "bbox": [-116.531654,43.344874,-116.531654,43.344874],
+  "geometry": {"coordinates":[-116.531654,43.344874],"type":"Point"}
+}

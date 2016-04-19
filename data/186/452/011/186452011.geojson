@@ -1,0 +1,67 @@
+{
+  "id": 186452011,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-116.791831,47.690765,-116.791831,47.690765",
+    "geom:latitude":47.690765,
+    "geom:longitude":-116.791831,
+    "iso:country":"US",
+    "sg:address":"1607 Lincoln Way",
+    "sg:city":"Coeur D Alene",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 667 5483",
+    "sg:postcode":"83814",
+    "sg:province":"ID",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        102086085,
+        85821457
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0Ek4qMuigJTq64amUq3Syu_47.690765_-116.791831@1294099250"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"53b3db68ec93662d50563b8f49a27266",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086085,
+            "locality_id":-1,
+            "neighbourhood_id":85821457,
+            "region_id":85688657,
+            "venue_id":186452011
+        }
+    ],
+    "wof:id":186452011,
+    "wof:lastmodified":1449051032,
+    "wof:name":"North Idaho Gastroenterology",
+    "wof:parent_id":85821457,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [-116.791831,47.690765,-116.791831,47.690765],
+  "geometry": {"coordinates":[-116.791831,47.690765],"type":"Point"}
+}

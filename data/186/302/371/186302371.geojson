@@ -1,0 +1,70 @@
+{
+  "id": 186302371,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-116.254923,43.631293,-116.254923,43.631293",
+    "geom:latitude":43.631293,
+    "geom:longitude":-116.254923,
+    "iso:country":"US",
+    "sg:address":"114 W 43rd St",
+    "sg:city":"Boise",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 724 5482",
+    "sg:postcode":"83714",
+    "sg:province":"ID",
+    "sg:tags":[
+        "automobile",
+        "restoration",
+        "classic"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85937923,
+        102086087,
+        85876339
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4Y1uamHRrfS3AMmvHdAC6X_43.631293_-116.254923@1294099250"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"c7ba0690642a0e1f4ff8718164710498",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086087,
+            "locality_id":85937923,
+            "neighbourhood_id":85876339,
+            "region_id":85688657,
+            "venue_id":186302371
+        }
+    ],
+    "wof:id":186302371,
+    "wof:lastmodified":1449051290,
+    "wof:name":"Nyquist's Rods",
+    "wof:parent_id":85876339,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automobile",
+        "restoration",
+        "classic"
+    ]
+},
+  "bbox": [-116.254923,43.631293,-116.254923,43.631293],
+  "geometry": {"coordinates":[-116.254923,43.631293],"type":"Point"}
+}

@@ -1,0 +1,66 @@
+{
+  "id": 169736243,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-116.334337,43.627772,-116.334337,43.627772",
+    "geom:latitude":43.627772,
+    "geom:longitude":-116.334337,
+    "iso:country":"US",
+    "sg:address":"2528 N Cloverdale Rd",
+    "sg:city":"Boise",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Garden Supply",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 375 5262",
+    "sg:postcode":"83713",
+    "sg:province":"ID",
+    "sg:tags":[
+        "nurseryman"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85937923,
+        102086087,
+        85811491
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5hclItkyzwULAiGWIbxhoK_43.627772_-116.334337@1294099250"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"c9ad5378349620e34f910f8ffd599cd7",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086087,
+            "locality_id":85937923,
+            "neighbourhood_id":85811491,
+            "region_id":85688657,
+            "venue_id":169736243
+        }
+    ],
+    "wof:id":169736243,
+    "wof:lastmodified":1449035930,
+    "wof:name":"Cloverdale Nursery",
+    "wof:parent_id":85811491,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "nurseryman"
+    ]
+},
+  "bbox": [-116.334337,43.627772,-116.334337,43.627772],
+  "geometry": {"coordinates":[-116.334337,43.627772],"type":"Point"}
+}

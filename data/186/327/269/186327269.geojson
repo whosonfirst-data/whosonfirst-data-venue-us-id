@@ -1,0 +1,69 @@
+{
+  "id": 186327269,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-116.694953,43.667726,-116.694953,43.667726",
+    "geom:latitude":43.667726,
+    "geom:longitude":-116.694953,
+    "iso:country":"US",
+    "sg:address":"310 Cleveland Blvd",
+    "sg:city":"Caldwell",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 454 8022",
+    "sg:postcode":"83605",
+    "sg:province":"ID",
+    "sg:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85938017,
+        102085081
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4B4VFk90nfJZIEtL3k1DYL_43.667726_-116.694953@1294099250"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"95c155088fbe123e1fd1458993ee2254",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085081,
+            "locality_id":85938017,
+            "neighbourhood_id":-1,
+            "region_id":85688657,
+            "venue_id":186327269
+        }
+    ],
+    "wof:id":186327269,
+    "wof:lastmodified":1449050450,
+    "wof:name":"Hound Dog Trucking",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ]
+},
+  "bbox": [-116.694953,43.667726,-116.694953,43.667726],
+  "geometry": {"coordinates":[-116.694953,43.667726],"type":"Point"}
+}

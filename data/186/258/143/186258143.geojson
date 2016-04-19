@@ -1,0 +1,72 @@
+{
+  "id": 186258143,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-116.213717,43.595175,-116.213717,43.595175",
+    "geom:latitude":43.595175,
+    "geom:longitude":-116.213717,
+    "iso:country":"US",
+    "sg:address":"1013 Vista Ave",
+    "sg:city":"Boise",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 343 0793",
+    "sg:postcode":"83705",
+    "sg:province":"ID",
+    "sg:tags":[
+        "eating"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85937923,
+        102086087,
+        85876303
+    ],
+    "wof:brand_id":420573851,
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5lTKbdlfxYHFXYUI2Zhaq2_43.595175_-116.213717@1294099250"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"ba66c398fb824720b38e4758918e230b",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086087,
+            "locality_id":85937923,
+            "neighbourhood_id":85876303,
+            "region_id":85688657,
+            "venue_id":186258143
+        }
+    ],
+    "wof:id":186258143,
+    "wof:lastmodified":1457207668,
+    "wof:name":"Domino's Pizza",
+    "wof:parent_id":85876303,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "eating"
+    ]
+},
+  "bbox": [
+    -116.213717,
+    43.595175,
+    -116.213717,
+    43.595175
+],
+  "geometry": {"coordinates":[-116.213717,43.595175],"type":"Point"}
+}

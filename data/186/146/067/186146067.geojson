@@ -1,0 +1,67 @@
+{
+  "id": 186146067,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-116.61562,43.613571,-116.61562,43.613571",
+    "geom:latitude":43.613571,
+    "geom:longitude":-116.61562,
+    "iso:country":"US",
+    "sg:address":"2921 Caldwell Blvd",
+    "sg:city":"Nampa",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Natural Gas",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 468 6700",
+    "sg:postcode":"83651",
+    "sg:province":"ID",
+    "sg:tags":[
+        "company"
+    ],
+    "sg:website":"www.intgas.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85938009,
+        102085081,
+        85835387
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6yvxT9n6XodXFugpxIRaE4_43.613571_-116.615620@1294099250"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"c074245df5f567e21d8c759fe018e694",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085081,
+            "locality_id":85938009,
+            "neighbourhood_id":85835387,
+            "region_id":85688657,
+            "venue_id":186146067
+        }
+    ],
+    "wof:id":186146067,
+    "wof:lastmodified":1449051486,
+    "wof:name":"Intermountain Gas Co",
+    "wof:parent_id":85835387,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "company"
+    ]
+},
+  "bbox": [-116.61562,43.613571,-116.61562,43.613571],
+  "geometry": {"coordinates":[-116.61562,43.613571],"type":"Point"}
+}

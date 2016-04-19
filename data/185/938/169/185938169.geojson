@@ -1,0 +1,70 @@
+{
+  "id": 185938169,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-116.28042,43.61966,-116.28042,43.61966",
+    "geom:latitude":43.61966,
+    "geom:longitude":-116.28042,
+    "iso:country":"US",
+    "sg:address":"1720 N Westgate Dr",
+    "sg:city":"Boise",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 334 0800",
+    "sg:postcode":"83704",
+    "sg:province":"ID",
+    "sg:tags":[
+        "state",
+        "program",
+        "health"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85937923,
+        102086087,
+        85841319
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0ghj9cQ2zDWsngJWrGuXZw_43.619660_-116.280420@1294099250"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"736779f294446557ddf5da9f139d4406",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086087,
+            "locality_id":85937923,
+            "neighbourhood_id":85841319,
+            "region_id":85688657,
+            "venue_id":185938169
+        }
+    ],
+    "wof:id":185938169,
+    "wof:lastmodified":1449007802,
+    "wof:name":"Mental Health Ctr",
+    "wof:parent_id":85841319,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "state",
+        "program",
+        "health"
+    ]
+},
+  "bbox": [-116.28042,43.61966,-116.28042,43.61966],
+  "geometry": {"coordinates":[-116.28042,43.61966],"type":"Point"}
+}

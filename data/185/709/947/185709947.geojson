@@ -1,0 +1,67 @@
+{
+  "id": 185709947,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-116.296444,43.556859,-116.296444,43.556859",
+    "geom:latitude":43.556859,
+    "geom:longitude":-116.296444,
+    "iso:country":"US",
+    "sg:address":"5096 S Seminole Pl",
+    "sg:city":"Boise",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Tools & Machinery",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 343 3603",
+    "sg:postcode":"83709",
+    "sg:province":"ID",
+    "sg:tags":[
+        "machine",
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        102086087,
+        85876331
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4zgPzd1jz2A8leY3tvXdCz_43.556859_-116.296444@1294099250"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"702a75a84a25a6c112f115aeea90baff",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086087,
+            "locality_id":-1,
+            "neighbourhood_id":85876331,
+            "region_id":85688657,
+            "venue_id":185709947
+        }
+    ],
+    "wof:id":185709947,
+    "wof:lastmodified":1449006935,
+    "wof:name":"Priest Machine",
+    "wof:parent_id":85876331,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "machine",
+        "shop"
+    ]
+},
+  "bbox": [-116.296444,43.556859,-116.296444,43.556859],
+  "geometry": {"coordinates":[-116.296444,43.556859],"type":"Point"}
+}

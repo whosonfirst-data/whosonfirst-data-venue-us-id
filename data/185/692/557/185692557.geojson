@@ -1,0 +1,66 @@
+{
+  "id": 185692557,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-116.355035,43.59032,-116.355035,43.59032",
+    "geom:latitude":43.59032,
+    "geom:longitude":-116.355035,
+    "iso:country":"US",
+    "sg:address":"2941 E Overland Rd",
+    "sg:city":"Meridian",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Laundry & Dry Cleaning",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 887 6337",
+    "sg:postcode":"83642",
+    "sg:province":"ID",
+    "sg:tags":[
+        "cleaners"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85937915,
+        102086087,
+        85805083
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1Nl7aRx2cJBnAbNL9nignh_43.590320_-116.355035@1294099250"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"b42e22844eaa472f65c0c29738d42aba",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086087,
+            "locality_id":85937915,
+            "neighbourhood_id":85805083,
+            "region_id":85688657,
+            "venue_id":185692557
+        }
+    ],
+    "wof:id":185692557,
+    "wof:lastmodified":1449007041,
+    "wof:name":"Baird's Dry Cleaners",
+    "wof:parent_id":85805083,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cleaners"
+    ]
+},
+  "bbox": [-116.355035,43.59032,-116.355035,43.59032],
+  "geometry": {"coordinates":[-116.355035,43.59032],"type":"Point"}
+}

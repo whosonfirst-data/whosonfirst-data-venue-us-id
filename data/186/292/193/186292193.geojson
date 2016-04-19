@@ -1,0 +1,67 @@
+{
+  "id": 186292193,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-116.941851,47.714742,-116.941851,47.714742",
+    "geom:latitude":47.714742,
+    "geom:longitude":-116.941851,
+    "iso:country":"US",
+    "sg:address":"501 E Seltice Way",
+    "sg:city":"Post Falls",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Specialty",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 773 8369",
+    "sg:postcode":"83854",
+    "sg:province":"ID",
+    "sg:tags":[
+        "tea",
+        "coffee"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        102086085,
+        85833263
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3CbOl6Vw6QhdOBUZF7HvCl_47.714742_-116.941851@1294099250"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"4925af8f509df1bec977b2cdc86dd82e",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086085,
+            "locality_id":-1,
+            "neighbourhood_id":85833263,
+            "region_id":85688657,
+            "venue_id":186292193
+        }
+    ],
+    "wof:id":186292193,
+    "wof:lastmodified":1449050471,
+    "wof:name":"Java The Hut",
+    "wof:parent_id":85833263,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "tea",
+        "coffee"
+    ]
+},
+  "bbox": [-116.941851,47.714742,-116.941851,47.714742],
+  "geometry": {"coordinates":[-116.941851,47.714742],"type":"Point"}
+}

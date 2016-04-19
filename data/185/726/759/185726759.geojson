@@ -1,0 +1,65 @@
+{
+  "id": 185726759,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-116.923766,44.016386,-116.923766,44.016386",
+    "geom:latitude":44.016386,
+    "geom:longitude":-116.923766,
+    "iso:country":"US",
+    "sg:address":"401 N Whitley Dr",
+    "sg:city":"Fruitland",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Veterinary Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 642 9391",
+    "sg:postcode":"83619",
+    "sg:province":"ID",
+    "sg:tags":[
+        "veterinarian"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85937909,
+        102086023
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3PlOrknB6lPRBuJD4trrjZ_44.016386_-116.923766@1294099250"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"9b4be791dd9c4427d8982e4f07bb3bac",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086023,
+            "locality_id":85937909,
+            "neighbourhood_id":-1,
+            "region_id":85688657,
+            "venue_id":185726759
+        }
+    ],
+    "wof:id":185726759,
+    "wof:lastmodified":1449007690,
+    "wof:name":"Snake River Veterinary Clinic",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "veterinarian"
+    ]
+},
+  "bbox": [-116.923766,44.016386,-116.923766,44.016386],
+  "geometry": {"coordinates":[-116.923766,44.016386],"type":"Point"}
+}

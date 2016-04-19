@@ -1,0 +1,66 @@
+{
+  "id": 186163649,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-116.234512,43.522334,-116.234512,43.522334",
+    "geom:latitude":43.522334,
+    "geom:longitude":-116.234512,
+    "iso:country":"US",
+    "sg:address":"5555 Hollilynn Dr",
+    "sg:city":"Boise",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 362 5551",
+    "sg:postcode":"83709",
+    "sg:province":"ID",
+    "sg:tags":[
+        "automotive"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85937923,
+        102086087,
+        85825393
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7DYWJFxnTJMedwxe2U2DLT_43.522334_-116.234512@1294099250"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"71fe7a1b6c54c1beeef1b81e62cd4c3e",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086087,
+            "locality_id":85937923,
+            "neighbourhood_id":85825393,
+            "region_id":85688657,
+            "venue_id":186163649
+        }
+    ],
+    "wof:id":186163649,
+    "wof:lastmodified":1449052975,
+    "wof:name":"Wally World Inc",
+    "wof:parent_id":85825393,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automotive"
+    ]
+},
+  "bbox": [-116.234512,43.522334,-116.234512,43.522334],
+  "geometry": {"coordinates":[-116.234512,43.522334],"type":"Point"}
+}

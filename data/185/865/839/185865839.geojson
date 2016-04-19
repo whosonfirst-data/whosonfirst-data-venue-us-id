@@ -1,0 +1,70 @@
+{
+  "id": 185865839,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-116.388706,43.606497,-116.388706,43.606497",
+    "geom:latitude":43.606497,
+    "geom:longitude":-116.388706,
+    "iso:country":"US",
+    "sg:address":"342 E 3rd St",
+    "sg:city":"Meridian",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Furniture",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 884 0761",
+    "sg:postcode":"83642",
+    "sg:province":"ID",
+    "sg:tags":[
+        "household",
+        "wood",
+        "mfg"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85937915,
+        102086087,
+        85805083
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0qbczK2vsSMErAjbqZK3tf_43.606497_-116.388706@1294099250"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"923ccf4930c78642fedab50f3d40994f",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086087,
+            "locality_id":85937915,
+            "neighbourhood_id":85805083,
+            "region_id":85688657,
+            "venue_id":185865839
+        }
+    ],
+    "wof:id":185865839,
+    "wof:lastmodified":1449007827,
+    "wof:name":"Dead Wood Works",
+    "wof:parent_id":85805083,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "household",
+        "wood",
+        "mfg"
+    ]
+},
+  "bbox": [-116.388706,43.606497,-116.388706,43.606497],
+  "geometry": {"coordinates":[-116.388706,43.606497],"type":"Point"}
+}

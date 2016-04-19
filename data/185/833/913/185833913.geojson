@@ -1,0 +1,67 @@
+{
+  "id": 185833913,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-116.808152,47.865273,-116.808152,47.865273",
+    "geom:latitude":47.865273,
+    "geom:longitude":-116.808152,
+    "iso:country":"US",
+    "sg:address":"21550 N Ramsey Rd",
+    "sg:city":"Rathdrum",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 687 2201",
+    "sg:postcode":"83858",
+    "sg:province":"ID",
+    "sg:tags":[
+        "electrical",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        102086085,
+        85821457
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_59TgTsv7Jm4AeUWaAitYK0_47.865273_-116.808152@1294099250"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"8af4ca68e48d1068da4dd18aeed32a2d",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086085,
+            "locality_id":-1,
+            "neighbourhood_id":85821457,
+            "region_id":85688657,
+            "venue_id":185833913
+        }
+    ],
+    "wof:id":185833913,
+    "wof:lastmodified":1449006804,
+    "wof:name":"Curtis E Electric",
+    "wof:parent_id":85821457,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electrical",
+        "contractor"
+    ]
+},
+  "bbox": [-116.808152,47.865273,-116.808152,47.865273],
+  "geometry": {"coordinates":[-116.808152,47.865273],"type":"Point"}
+}

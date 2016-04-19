@@ -1,0 +1,69 @@
+{
+  "id": 186361419,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-116.252238,43.563747,-116.252238,43.563747",
+    "geom:latitude":43.563747,
+    "geom:longitude":-116.252238,
+    "iso:country":"US",
+    "sg:address":"5717 Albatros St",
+    "sg:city":"Boise",
+    "sg:classifiers":[
+        {
+            "category":"Airport",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 362 0851",
+    "sg:postcode":"83705",
+    "sg:province":"ID",
+    "sg:tags":[
+        "aircraft",
+        "maintenance"
+    ],
+    "sg:website":"www.nv-helicopter.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85937923,
+        102086087,
+        85825393
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2hZj42bj90ar7QaX9XERuE_43.563747_-116.252238@1294099250"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"e7234d1a566b85073f2e957b7790117d",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086087,
+            "locality_id":85937923,
+            "neighbourhood_id":85825393,
+            "region_id":85688657,
+            "venue_id":186361419
+        }
+    ],
+    "wof:id":186361419,
+    "wof:lastmodified":1449052314,
+    "wof:name":"Nampa Valley Helicopters",
+    "wof:parent_id":85825393,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "aircraft",
+        "maintenance"
+    ]
+},
+  "bbox": [-116.252238,43.563747,-116.252238,43.563747],
+  "geometry": {"coordinates":[-116.252238,43.563747],"type":"Point"}
+}

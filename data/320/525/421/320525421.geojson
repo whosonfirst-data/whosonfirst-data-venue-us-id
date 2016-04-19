@@ -1,0 +1,85 @@
+{
+  "id": 320525421,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-117.001908,46.414141,-117.001908,46.414141",
+    "geom:latitude":46.414141,
+    "geom:longitude":-117.001908,
+    "iso:country":"US",
+    "sg:address":"625 21st St Ste B",
+    "sg:city":"Lewiston",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Tanning Parlor",
+            "type":"Services"
+        },
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        },
+        {
+            "category":"Shopping",
+            "subcategory":"Beauty & Cosmetics",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Personal",
+            "subcategory":"Nail Salon",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 746 1826",
+    "sg:postcode":"83501",
+    "sg:province":"ID",
+    "sg:tags":[
+        "perfume",
+        "salons-equipment",
+        "supply"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85937743,
+        102086039,
+        85837769
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4WgQ7F8F0rJik36rbzgO1D_46.414141_-117.001908@1303263095"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"5767a34ed6b7b634c1997c14c8b788b5",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086039,
+            "locality_id":85937743,
+            "neighbourhood_id":85837769,
+            "region_id":85688657,
+            "venue_id":320525421
+        }
+    ],
+    "wof:id":320525421,
+    "wof:lastmodified":1449014188,
+    "wof:name":"Scruples Hair Nail & Tanning",
+    "wof:parent_id":85837769,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "perfume",
+        "salons-equipment",
+        "supply"
+    ]
+},
+  "bbox": [-117.001908,46.414141,-117.001908,46.414141],
+  "geometry": {"coordinates":[-117.001908,46.414141],"type":"Point"}
+}

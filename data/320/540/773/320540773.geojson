@@ -1,0 +1,74 @@
+{
+  "id": 320540773,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-116.556012,43.608776,-116.556012,43.608776",
+    "geom:latitude":43.608776,
+    "geom:longitude":-116.556012,
+    "iso:country":"US",
+    "sg:address":"8171 E Executive Dr",
+    "sg:city":"Nampa",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Storage",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 936 4693",
+    "sg:postcode":"83687",
+    "sg:province":"ID",
+    "sg:tags":[
+        "container",
+        "trucking"
+    ],
+    "sg:website":"http://www.frasiertransport.net",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85938009,
+        102085081,
+        85827787
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0k7KtO0lbC40ioEBDOFjUM_43.608776_-116.556012@1303263095"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"92dda74b034793e13ffa7fab7e7ee5b4",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085081,
+            "locality_id":85938009,
+            "neighbourhood_id":85827787,
+            "region_id":85688657,
+            "venue_id":320540773
+        }
+    ],
+    "wof:id":320540773,
+    "wof:lastmodified":1449012732,
+    "wof:name":"Frasier Transport Inc",
+    "wof:parent_id":85827787,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "container",
+        "trucking"
+    ]
+},
+  "bbox": [-116.556012,43.608776,-116.556012,43.608776],
+  "geometry": {"coordinates":[-116.556012,43.608776],"type":"Point"}
+}

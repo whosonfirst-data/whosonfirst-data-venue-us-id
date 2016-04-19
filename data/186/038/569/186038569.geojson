@@ -1,0 +1,68 @@
+{
+  "id": 186038569,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-116.19995,43.617229,-116.19995,43.617229",
+    "geom:latitude":43.617229,
+    "geom:longitude":-116.19995,
+    "iso:country":"US",
+    "sg:address":"700 W Jefferson St",
+    "sg:city":"Boise",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Court House",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 334 2400",
+    "sg:postcode":"83702",
+    "sg:province":"ID",
+    "sg:tags":[
+        "state",
+        "counsel"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85937923,
+        102086087,
+        85876341
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7dnO8WjvAjvtOgMsqLE8ze_43.617229_-116.199950@1294099250"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"70e110beb92421d4d99cfc0a4ac31be9",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086087,
+            "locality_id":85937923,
+            "neighbourhood_id":85876341,
+            "region_id":85688657,
+            "venue_id":186038569
+        }
+    ],
+    "wof:id":186038569,
+    "wof:lastmodified":1449052102,
+    "wof:name":"Attorney General",
+    "wof:parent_id":85876341,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "state",
+        "counsel"
+    ]
+},
+  "bbox": [-116.19995,43.617229,-116.19995,43.617229],
+  "geometry": {"coordinates":[-116.19995,43.617229],"type":"Point"}
+}

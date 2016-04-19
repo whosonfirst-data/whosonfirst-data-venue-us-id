@@ -1,0 +1,67 @@
+{
+  "id": 186033839,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-116.473324,46.243362,-116.473324,46.243362",
+    "geom:latitude":46.243362,
+    "geom:longitude":-116.473324,
+    "iso:country":"US",
+    "sg:address":"320 Division Ave",
+    "sg:city":"Craigmont",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 924 5504",
+    "sg:postcode":"83523",
+    "sg:province":"ID",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85938089,
+        102085051
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0URdRMRafDB8CWl4hiWeit_46.243362_-116.473324@1294099250"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"c8e4fe440011931ccd1e09cf1134211b",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085051,
+            "locality_id":85938089,
+            "neighbourhood_id":-1,
+            "region_id":85688657,
+            "venue_id":186033839
+        }
+    ],
+    "wof:id":186033839,
+    "wof:lastmodified":1449050957,
+    "wof:name":"St Mary's Craigmont Med Clinic",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [-116.473324,46.243362,-116.473324,46.243362],
+  "geometry": {"coordinates":[-116.473324,46.243362],"type":"Point"}
+}

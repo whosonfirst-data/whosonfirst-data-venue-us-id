@@ -1,0 +1,68 @@
+{
+  "id": 169855095,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-116.25397,43.562684,-116.25397,43.562684",
+    "geom:latitude":43.562684,
+    "geom:longitude":-116.25397,
+    "iso:country":"US",
+    "sg:address":"3901 S Curtis Rd",
+    "sg:city":"Boise",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 322 0900",
+    "sg:postcode":"83705",
+    "sg:province":"ID",
+    "sg:tags":[
+        "demolition",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85937923,
+        102086087,
+        85825393
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6DhQxU8OggtpPdc7MRNF4V_43.562684_-116.253970@1294099250"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"0c64c4be8a623e7a770f4578aae7e56e",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086087,
+            "locality_id":85937923,
+            "neighbourhood_id":85825393,
+            "region_id":85688657,
+            "venue_id":169855095
+        }
+    ],
+    "wof:id":169855095,
+    "wof:lastmodified":1449035110,
+    "wof:name":"Magnum Demolition",
+    "wof:parent_id":85825393,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "demolition",
+        "contractor"
+    ]
+},
+  "bbox": [-116.25397,43.562684,-116.25397,43.562684],
+  "geometry": {"coordinates":[-116.25397,43.562684],"type":"Point"}
+}

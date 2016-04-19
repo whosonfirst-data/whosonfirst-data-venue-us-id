@@ -1,0 +1,78 @@
+{
+  "id": 169726321,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-116.781311,47.722744,-116.781311,47.722744",
+    "geom:latitude":47.722744,
+    "geom:longitude":-116.781311,
+    "iso:country":"US",
+    "sg:address":"6272 N Valley St",
+    "sg:city":"Coeur D Alene",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Retail Goods",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 762 4210",
+    "sg:postcode":"83815",
+    "sg:province":"ID",
+    "sg:tags":[
+        "product",
+        "mfg"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85938163,
+        102086085,
+        85806325,
+        85821457
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3ruCY9rfei8G5Cu3amgII0_47.722744_-116.781311@1294099250"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"687d4b566b2c4429cb4f6a64ad2e7a7b",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086085,
+            "locality_id":85938163,
+            "neighbourhood_id":85806325,
+            "region_id":85688657,
+            "venue_id":169726321
+        },
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086085,
+            "locality_id":-1,
+            "neighbourhood_id":85821457,
+            "region_id":85688657,
+            "venue_id":169726321
+        }
+    ],
+    "wof:id":169726321,
+    "wof:lastmodified":1449034954,
+    "wof:name":"A Garden Party",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "product",
+        "mfg"
+    ]
+},
+  "bbox": [-116.781311,47.722744,-116.781311,47.722744],
+  "geometry": {"coordinates":[-116.781311,47.722744],"type":"Point"}
+}

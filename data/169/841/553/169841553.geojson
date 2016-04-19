@@ -1,0 +1,78 @@
+{
+  "id": 169841553,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-116.786433,47.711714,-116.786433,47.711714",
+    "geom:latitude":47.711714,
+    "geom:longitude":-116.786433,
+    "iso:country":"US",
+    "sg:address":"3840 N Government Way",
+    "sg:city":"Coeur D Alene",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 664 4704",
+    "sg:postcode":"83815",
+    "sg:province":"ID",
+    "sg:tags":[
+        "shop",
+        "coffee"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85938163,
+        102086085,
+        85806325,
+        85821457
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0hS5oeTrfeCADW2AlzMlh7_47.711714_-116.786433@1294099250"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"20af8fc581d9541f0c425382e02107d9",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086085,
+            "locality_id":85938163,
+            "neighbourhood_id":85806325,
+            "region_id":85688657,
+            "venue_id":169841553
+        },
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086085,
+            "locality_id":-1,
+            "neighbourhood_id":85821457,
+            "region_id":85688657,
+            "venue_id":169841553
+        }
+    ],
+    "wof:id":169841553,
+    "wof:lastmodified":1449033375,
+    "wof:name":"Java Hut Espresso Co",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop",
+        "coffee"
+    ]
+},
+  "bbox": [-116.786433,47.711714,-116.786433,47.711714],
+  "geometry": {"coordinates":[-116.786433,47.711714],"type":"Point"}
+}

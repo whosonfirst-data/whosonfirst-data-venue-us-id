@@ -1,0 +1,76 @@
+{
+  "id": 185784861,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-116.78629,47.705469,-116.78629,47.705469",
+    "geom:latitude":47.705469,
+    "geom:longitude":-116.78629,
+    "iso:country":"US",
+    "sg:address":"3016 N Government Way",
+    "sg:city":"Coeur D Alene",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 664 6800",
+    "sg:postcode":"83815",
+    "sg:province":"ID",
+    "sg:tags":[
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85938163,
+        102086085,
+        85806325,
+        85821457
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6IkCtRuwxSiJ6YUdt7zNbb_47.705469_-116.786290@1294099250"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"302fc1f6dc895a1cec4a65f2e150e552",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086085,
+            "locality_id":85938163,
+            "neighbourhood_id":85806325,
+            "region_id":85688657,
+            "venue_id":185784861
+        },
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086085,
+            "locality_id":-1,
+            "neighbourhood_id":85821457,
+            "region_id":85688657,
+            "venue_id":185784861
+        }
+    ],
+    "wof:id":185784861,
+    "wof:lastmodified":1449007669,
+    "wof:name":"Coeur D'Alene Manor Apartments",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "apartment"
+    ]
+},
+  "bbox": [-116.78629,47.705469,-116.78629,47.705469],
+  "geometry": {"coordinates":[-116.78629,47.705469],"type":"Point"}
+}

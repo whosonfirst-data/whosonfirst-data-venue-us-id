@@ -1,0 +1,68 @@
+{
+  "id": 186072509,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-116.283192,43.628005,-116.283192,43.628005",
+    "geom:latitude":43.628005,
+    "geom:longitude":-116.283192,
+    "iso:country":"US",
+    "sg:address":"8061 W Cory Ct",
+    "sg:city":"Boise",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 333 0009",
+    "sg:postcode":"83704",
+    "sg:province":"ID",
+    "sg:tags":[
+        "general",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85937923,
+        102086087,
+        85841319
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_58YYLjfa98WaKfy2AF3mwA_43.628005_-116.283192@1294099250"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"6a7dc1bc28e3a9aa222baa749380d665",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086087,
+            "locality_id":85937923,
+            "neighbourhood_id":85841319,
+            "region_id":85688657,
+            "venue_id":186072509
+        }
+    ],
+    "wof:id":186072509,
+    "wof:lastmodified":1449051788,
+    "wof:name":"Scott Publicover Construction",
+    "wof:parent_id":85841319,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "general",
+        "contractor"
+    ]
+},
+  "bbox": [-116.283192,43.628005,-116.283192,43.628005],
+  "geometry": {"coordinates":[-116.283192,43.628005],"type":"Point"}
+}

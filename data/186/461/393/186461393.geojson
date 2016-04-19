@@ -1,0 +1,68 @@
+{
+  "id": 186461393,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-117.028011,46.41448,-117.028011,46.41448",
+    "geom:latitude":46.41448,
+    "geom:longitude":-117.028011,
+    "iso:country":"US",
+    "sg:address":"428 6th Ave",
+    "sg:city":"Lewiston",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 743 7427",
+    "sg:postcode":"83501",
+    "sg:province":"ID",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85937743,
+        102086039,
+        85852537
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7RTFV2Y2bzPCEtoZNZxjyr_46.414480_-117.028011@1294099250"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"35d35e16382a22f8c97116202ed20d7b",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086039,
+            "locality_id":85937743,
+            "neighbourhood_id":85852537,
+            "region_id":85688657,
+            "venue_id":186461393
+        }
+    ],
+    "wof:id":186461393,
+    "wof:lastmodified":1449051394,
+    "wof:name":"Oncology-Hematology Spec",
+    "wof:parent_id":85852537,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [-117.028011,46.41448,-117.028011,46.41448],
+  "geometry": {"coordinates":[-117.028011,46.41448],"type":"Point"}
+}

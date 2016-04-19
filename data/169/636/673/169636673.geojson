@@ -1,0 +1,73 @@
+{
+  "id": 169636673,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-116.798946,47.677313,-116.798946,47.677313",
+    "geom:latitude":47.677313,
+    "geom:longitude":-116.798946,
+    "iso:country":"US",
+    "sg:address":"1000 W Garden Ave",
+    "sg:city":"Coeur D Alene",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"Library",
+            "type":"Public Place"
+        },
+        {
+            "category":"Education",
+            "subcategory":"Junior College",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 769 3355",
+    "sg:postcode":"83814",
+    "sg:province":"ID",
+    "sg:tags":[
+        "technical",
+        "institute"
+    ],
+    "sg:website":"www.nic.edu",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        102086085,
+        85821457
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5Dh7a5awBhHrCDJzFOJRfn_47.677313_-116.798946@1294099250"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"8e7888d137863f7c21e4c9fdcb14aa26",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086085,
+            "locality_id":-1,
+            "neighbourhood_id":85821457,
+            "region_id":85688657,
+            "venue_id":169636673
+        }
+    ],
+    "wof:id":169636673,
+    "wof:lastmodified":1449033987,
+    "wof:name":"North Idaho College Library",
+    "wof:parent_id":85821457,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "technical",
+        "institute"
+    ]
+},
+  "bbox": [-116.798946,47.677313,-116.798946,47.677313],
+  "geometry": {"coordinates":[-116.798946,47.677313],"type":"Point"}
+}

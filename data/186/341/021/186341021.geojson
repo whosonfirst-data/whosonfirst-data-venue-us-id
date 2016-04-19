@@ -1,0 +1,67 @@
+{
+  "id": 186341021,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-116.349713,43.695203,-116.349713,43.695203",
+    "geom:latitude":43.695203,
+    "geom:longitude":-116.349713,
+    "iso:country":"US",
+    "sg:address":"310 E State St",
+    "sg:city":"Eagle",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 939 6813",
+    "sg:postcode":"83616",
+    "sg:province":"ID",
+    "sg:tags":[
+        "city"
+    ],
+    "sg:website":"www.cityofeagle.org",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85937923,
+        102086087,
+        85876351
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_44fFqYHi14zm92AAAYY8TP_43.695203_-116.349713@1294099250"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"70af88eff11769b7d029a7391da669d5",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086087,
+            "locality_id":85937923,
+            "neighbourhood_id":85876351,
+            "region_id":85688657,
+            "venue_id":186341021
+        }
+    ],
+    "wof:id":186341021,
+    "wof:lastmodified":1449052919,
+    "wof:name":"Eagle City Clerks",
+    "wof:parent_id":85876351,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "city"
+    ]
+},
+  "bbox": [-116.349713,43.695203,-116.349713,43.695203],
+  "geometry": {"coordinates":[-116.349713,43.695203],"type":"Point"}
+}

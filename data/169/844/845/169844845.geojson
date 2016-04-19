@@ -1,0 +1,68 @@
+{
+  "id": 169844845,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-116.393649,43.604738,-116.393649,43.604738",
+    "geom:latitude":43.604738,
+    "geom:longitude":-116.393649,
+    "iso:country":"US",
+    "sg:address":"10 W Franklin Rd",
+    "sg:city":"Meridian",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Specialty",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 887 3684",
+    "sg:postcode":"83642",
+    "sg:province":"ID",
+    "sg:tags":[
+        "tea",
+        "coffee"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85937915,
+        102086087,
+        85805083
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2dMFQU5dpeY85FUyZ1sZlB_43.604738_-116.393649@1294099250"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"012c75bdaf68a7247594312895b63a0e",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086087,
+            "locality_id":85937915,
+            "neighbourhood_id":85805083,
+            "region_id":85688657,
+            "venue_id":169844845
+        }
+    ],
+    "wof:id":169844845,
+    "wof:lastmodified":1449034078,
+    "wof:name":"Dancing Dog Coffee House",
+    "wof:parent_id":85805083,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "tea",
+        "coffee"
+    ]
+},
+  "bbox": [-116.393649,43.604738,-116.393649,43.604738],
+  "geometry": {"coordinates":[-116.393649,43.604738],"type":"Point"}
+}

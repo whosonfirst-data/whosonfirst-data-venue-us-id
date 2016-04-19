@@ -1,0 +1,66 @@
+{
+  "id": 185846843,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-116.218269,43.622547,-116.218269,43.622547",
+    "geom:latitude":43.622547,
+    "geom:longitude":-116.218269,
+    "iso:country":"US",
+    "sg:address":"120 N 23rd St",
+    "sg:city":"Boise",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 344 2593",
+    "sg:postcode":"83702",
+    "sg:province":"ID",
+    "sg:tags":[
+        "dentist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85937923,
+        102086087,
+        85876355
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1XF7rufUvQXbDj2ssef2jH_43.622547_-116.218269@1294099250"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"92bd976a7efeb34848c5a4bac2fce8cc",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086087,
+            "locality_id":85937923,
+            "neighbourhood_id":85876355,
+            "region_id":85688657,
+            "venue_id":185846843
+        }
+    ],
+    "wof:id":185846843,
+    "wof:lastmodified":1449007874,
+    "wof:name":"Pamela A Powell DDS",
+    "wof:parent_id":85876355,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dentist"
+    ]
+},
+  "bbox": [-116.218269,43.622547,-116.218269,43.622547],
+  "geometry": {"coordinates":[-116.218269,43.622547],"type":"Point"}
+}

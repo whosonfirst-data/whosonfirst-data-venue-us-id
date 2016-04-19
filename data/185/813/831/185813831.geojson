@@ -1,0 +1,68 @@
+{
+  "id": 185813831,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-116.302401,43.622162,-116.302401,43.622162",
+    "geom:latitude":43.622162,
+    "geom:longitude":-116.302401,
+    "iso:country":"US",
+    "sg:address":"9730 W Halstead Dr",
+    "sg:city":"Boise",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 322 8018",
+    "sg:postcode":"83704",
+    "sg:province":"ID",
+    "sg:tags":[
+        "plumbing",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85937923,
+        102086087,
+        85876309
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3EBfcC32Vb5KUXg0HA3kRH_43.622162_-116.302401@1294099250"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"41eb0cbabe8e01a8b5504604e6cba408",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086087,
+            "locality_id":85937923,
+            "neighbourhood_id":85876309,
+            "region_id":85688657,
+            "venue_id":185813831
+        }
+    ],
+    "wof:id":185813831,
+    "wof:lastmodified":1449007021,
+    "wof:name":"David's Plumbing",
+    "wof:parent_id":85876309,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "plumbing",
+        "contractor"
+    ]
+},
+  "bbox": [-116.302401,43.622162,-116.302401,43.622162],
+  "geometry": {"coordinates":[-116.302401,43.622162],"type":"Point"}
+}

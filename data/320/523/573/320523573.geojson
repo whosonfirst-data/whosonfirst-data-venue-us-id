@@ -1,0 +1,67 @@
+{
+  "id": 320523573,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-117.019377,46.418274,-117.019377,46.418274",
+    "geom:latitude":46.418274,
+    "geom:longitude":-117.019377,
+    "iso:country":"US",
+    "sg:address":"1118 F St",
+    "sg:city":"Lewiston",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 799 5035",
+    "sg:postcode":"83501",
+    "sg:province":"ID",
+    "sg:tags":[
+        "government-state"
+    ],
+    "sg:website":"http://www.tax.idaho.gov",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85937743,
+        102086039,
+        85837769
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5fBzvG0fK9vd951vtyncAI_46.418274_-117.019377@1303263095"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"d13cf9e764bba5dd90568dc3b8f0488a",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086039,
+            "locality_id":85937743,
+            "neighbourhood_id":85837769,
+            "region_id":85688657,
+            "venue_id":320523573
+        }
+    ],
+    "wof:id":320523573,
+    "wof:lastmodified":1449013414,
+    "wof:name":"State of Idaho Lewiston-State Office Building",
+    "wof:parent_id":85837769,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "government-state"
+    ]
+},
+  "bbox": [-117.019377,46.418274,-117.019377,46.418274],
+  "geometry": {"coordinates":[-117.019377,46.418274],"type":"Point"}
+}

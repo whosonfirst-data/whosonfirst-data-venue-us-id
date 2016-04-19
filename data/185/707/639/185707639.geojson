@@ -1,0 +1,67 @@
+{
+  "id": 185707639,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-116.788741,47.823516,-116.788741,47.823516",
+    "geom:latitude":47.823516,
+    "geom:longitude":-116.788741,
+    "iso:country":"US",
+    "sg:address":"50575 Old US Hwy 95",
+    "sg:city":"Rathdrum",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 772 4126",
+    "sg:postcode":"83858",
+    "sg:province":"ID",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        102086085,
+        85821457
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4Lw6HX1DBpwN5vjGswypTY_47.823516_-116.788741@1294099250"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"ae780ac4f74ec3d85252af2b105678bf",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086085,
+            "locality_id":-1,
+            "neighbourhood_id":85821457,
+            "region_id":85688657,
+            "venue_id":185707639
+        }
+    ],
+    "wof:id":185707639,
+    "wof:lastmodified":1449007982,
+    "wof:name":"J & D Automotive",
+    "wof:parent_id":85821457,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [-116.788741,47.823516,-116.788741,47.823516],
+  "geometry": {"coordinates":[-116.788741,47.823516],"type":"Point"}
+}

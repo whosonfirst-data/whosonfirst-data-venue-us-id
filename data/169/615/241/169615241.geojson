@@ -1,0 +1,80 @@
+{
+  "id": 169615241,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-116.791053,47.727198,-116.791053,47.727198",
+    "geom:latitude":47.727198,
+    "geom:longitude":-116.791053,
+    "iso:country":"US",
+    "sg:address":"6125 N Sunshine St",
+    "sg:city":"Coeur D Alene",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Building Materials",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 664 6833",
+    "sg:postcode":"83815",
+    "sg:province":"ID",
+    "sg:tags":[
+        "glass",
+        "window",
+        "plate"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85938163,
+        102086085,
+        85806325,
+        85821457
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2pEyehwjL8ENaGnEWgJYXv_47.727198_-116.791053@1294099250"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"0dd8ac4e9fb12523b1d17d56886bb01e",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086085,
+            "locality_id":85938163,
+            "neighbourhood_id":85806325,
+            "region_id":85688657,
+            "venue_id":169615241
+        },
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086085,
+            "locality_id":-1,
+            "neighbourhood_id":85821457,
+            "region_id":85688657,
+            "venue_id":169615241
+        }
+    ],
+    "wof:id":169615241,
+    "wof:lastmodified":1449033735,
+    "wof:name":"Cascade Auto Glass",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "glass",
+        "window",
+        "plate"
+    ]
+},
+  "bbox": [-116.791053,47.727198,-116.791053,47.727198],
+  "geometry": {"coordinates":[-116.791053,47.727198],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 169636845,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-116.393612,43.611185,-116.393612,43.611185",
+    "geom:latitude":43.611185,
+    "geom:longitude":-116.393612,
+    "iso:country":"US",
+    "sg:address":"817 N Meridian Rd",
+    "sg:city":"Meridian",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 887 0815",
+    "sg:postcode":"83642",
+    "sg:province":"ID",
+    "sg:tags":[
+        "clocks",
+        "parts"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85937915,
+        102086087,
+        85805083
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6gLaa6FxflGGlubfaxS9aG_43.611185_-116.393612@1294099250"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"813dba88eb776a30cec798a6e667fd92",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086087,
+            "locality_id":85937915,
+            "neighbourhood_id":85805083,
+            "region_id":85688657,
+            "venue_id":169636845
+        }
+    ],
+    "wof:id":169636845,
+    "wof:lastmodified":1449033987,
+    "wof:name":"Ye Olde Clock Shoppe Inc",
+    "wof:parent_id":85805083,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "clocks",
+        "parts"
+    ]
+},
+  "bbox": [-116.393612,43.611185,-116.393612,43.611185],
+  "geometry": {"coordinates":[-116.393612,43.611185],"type":"Point"}
+}

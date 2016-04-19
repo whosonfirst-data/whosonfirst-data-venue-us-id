@@ -1,0 +1,67 @@
+{
+  "id": 185910401,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-111.99035,43.470818,-111.99035,43.470818",
+    "geom:latitude":43.470818,
+    "geom:longitude":-111.99035,
+    "iso:country":"US",
+    "sg:address":"2860 Channing Way",
+    "sg:city":"Idaho Falls",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 535 4282",
+    "sg:postcode":"83404",
+    "sg:province":"ID",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85937963,
+        102085163
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6LzZA4uETuzJtj2TYlAl8w_43.470818_-111.990350@1294099250"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"76453b6f5d9b0bc64fa6ad0485b78c39",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085163,
+            "locality_id":85937963,
+            "neighbourhood_id":-1,
+            "region_id":85688657,
+            "venue_id":185910401
+        }
+    ],
+    "wof:id":185910401,
+    "wof:lastmodified":1449007276,
+    "wof:name":"Western Spine & Orthopedics",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [-111.99035,43.470818,-111.99035,43.470818],
+  "geometry": {"coordinates":[-111.99035,43.470818],"type":"Point"}
+}

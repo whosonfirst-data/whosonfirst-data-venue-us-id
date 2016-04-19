@@ -1,0 +1,66 @@
+{
+  "id": 185599859,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-116.182407,43.595881,-116.182407,43.595881",
+    "geom:latitude":43.595881,
+    "geom:longitude":-116.182407,
+    "iso:country":"US",
+    "sg:address":"136 E Mallard Dr",
+    "sg:city":"Boise",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 342 0212",
+    "sg:postcode":"83706",
+    "sg:province":"ID",
+    "sg:tags":[
+        "dentist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85937923,
+        102086087,
+        85876305
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4nae6vnw6HwdKwRtUBZs1h_43.595881_-116.182407@1294099250"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"0dbed83b0a74e2d65b63c136f0626f68",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086087,
+            "locality_id":85937923,
+            "neighbourhood_id":85876305,
+            "region_id":85688657,
+            "venue_id":185599859
+        }
+    ],
+    "wof:id":185599859,
+    "wof:lastmodified":1449007359,
+    "wof:name":"John T Kalange DDS",
+    "wof:parent_id":85876305,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dentist"
+    ]
+},
+  "bbox": [-116.182407,43.595881,-116.182407,43.595881],
+  "geometry": {"coordinates":[-116.182407,43.595881],"type":"Point"}
+}

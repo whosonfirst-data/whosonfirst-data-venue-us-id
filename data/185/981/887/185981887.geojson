@@ -1,0 +1,70 @@
+{
+  "id": 185981887,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-116.256428,43.603339,-116.256428,43.603339",
+    "geom:latitude":43.603339,
+    "geom:longitude":-116.256428,
+    "iso:country":"US",
+    "sg:address":"6105 Franklin Rd",
+    "sg:city":"Boise",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Car Wash",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 345 0785",
+    "sg:postcode":"83709",
+    "sg:province":"ID",
+    "sg:tags":[
+        "operated",
+        "polishing",
+        "washing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85937923,
+        102086087,
+        85806577
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0T3LInEJEVXnRYHmi51b2w_43.603339_-116.256428@1294099250"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"7dad707a486e00fe7c05b94aedfe48cf",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086087,
+            "locality_id":85937923,
+            "neighbourhood_id":85806577,
+            "region_id":85688657,
+            "venue_id":185981887
+        }
+    ],
+    "wof:id":185981887,
+    "wof:lastmodified":1449008245,
+    "wof:name":"Futura Car Wash",
+    "wof:parent_id":85806577,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operated",
+        "polishing",
+        "washing"
+    ]
+},
+  "bbox": [-116.256428,43.603339,-116.256428,43.603339],
+  "geometry": {"coordinates":[-116.256428,43.603339],"type":"Point"}
+}

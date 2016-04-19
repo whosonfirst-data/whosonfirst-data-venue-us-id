@@ -1,0 +1,65 @@
+{
+  "id": 186250359,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-116.307596,43.6805,-116.307596,43.6805",
+    "geom:latitude":43.6805,
+    "geom:longitude":-116.307596,
+    "iso:country":"US",
+    "sg:address":"10032 W State St",
+    "sg:city":"Boise",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 888 0338",
+    "sg:postcode":"83714",
+    "sg:province":"ID",
+    "sg:tags":[
+        "appliance"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        102086087,
+        85876315
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7HpsH16ea9MCFLafZqRVF3_43.680500_-116.307596@1294099250"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"79e0ad66d636badb0902cf8d713f9afc",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086087,
+            "locality_id":-1,
+            "neighbourhood_id":85876315,
+            "region_id":85688657,
+            "venue_id":186250359
+        }
+    ],
+    "wof:id":186250359,
+    "wof:lastmodified":1449051907,
+    "wof:name":"Action Appliance",
+    "wof:parent_id":85876315,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "appliance"
+    ]
+},
+  "bbox": [-116.307596,43.6805,-116.307596,43.6805],
+  "geometry": {"coordinates":[-116.307596,43.6805],"type":"Point"}
+}

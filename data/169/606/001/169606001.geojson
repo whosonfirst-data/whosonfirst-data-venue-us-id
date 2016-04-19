@@ -1,0 +1,68 @@
+{
+  "id": 169606001,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-116.213388,43.631921,-116.213388,43.631921",
+    "geom:latitude":43.631921,
+    "geom:longitude":-116.213388,
+    "iso:country":"US",
+    "sg:address":"1211 N 20th St",
+    "sg:city":"Boise",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Machinery & Supplies",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 343 3793",
+    "sg:postcode":"83702",
+    "sg:province":"ID",
+    "sg:tags":[
+        "equipment",
+        "establishment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85937923,
+        102086087,
+        85876313
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6a72Dfs7fweYboKF5CahEX_43.631921_-116.213388@1294099250"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"ddb34bd4030bd0fb7bfbb57cb1fee9bf",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086087,
+            "locality_id":85937923,
+            "neighbourhood_id":85876313,
+            "region_id":85688657,
+            "venue_id":169606001
+        }
+    ],
+    "wof:id":169606001,
+    "wof:lastmodified":1449033200,
+    "wof:name":"Craigs Backflow Testing",
+    "wof:parent_id":85876313,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "equipment",
+        "establishment"
+    ]
+},
+  "bbox": [-116.213388,43.631921,-116.213388,43.631921],
+  "geometry": {"coordinates":[-116.213388,43.631921],"type":"Point"}
+}

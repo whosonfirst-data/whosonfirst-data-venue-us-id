@@ -1,0 +1,66 @@
+{
+  "id": 185993789,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-116.247115,43.619095,-116.247115,43.619095",
+    "geom:latitude":43.619095,
+    "geom:longitude":-116.247115,
+    "iso:country":"US",
+    "sg:address":"5212 W Fairview Ave",
+    "sg:city":"Boise",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 376 5409",
+    "sg:postcode":"83706",
+    "sg:province":"ID",
+    "sg:tags":[
+        "grocer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85937923,
+        102086087,
+        85876311
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3l3Bk0urJJfsOVTu5UjGd6_43.619095_-116.247115@1294099250"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"ed823f4b859800fd0f81ed4f60ba7847",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086087,
+            "locality_id":85937923,
+            "neighbourhood_id":85876311,
+            "region_id":85688657,
+            "venue_id":185993789
+        }
+    ],
+    "wof:id":185993789,
+    "wof:lastmodified":1449007326,
+    "wof:name":"Video Mexico",
+    "wof:parent_id":85876311,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "grocer"
+    ]
+},
+  "bbox": [-116.247115,43.619095,-116.247115,43.619095],
+  "geometry": {"coordinates":[-116.247115,43.619095],"type":"Point"}
+}

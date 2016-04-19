@@ -1,0 +1,67 @@
+{
+  "id": 169592243,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-116.260875,43.568871,-116.260875,43.568871",
+    "geom:latitude":43.568871,
+    "geom:longitude":-116.260875,
+    "iso:country":"US",
+    "sg:address":"6513 W Contractors St",
+    "sg:city":"Boise",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Equipment Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 362 2020",
+    "sg:postcode":"83709",
+    "sg:province":"ID",
+    "sg:tags":[
+        "crane"
+    ],
+    "sg:website":"www.cranewest.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85937923,
+        102086087,
+        85825393
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0IYilu7HEwZt6hk59QkqLw_43.568871_-116.260875@1294099250"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"dd88812adedc6307a53543d173333bce",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086087,
+            "locality_id":85937923,
+            "neighbourhood_id":85825393,
+            "region_id":85688657,
+            "venue_id":169592243
+        }
+    ],
+    "wof:id":169592243,
+    "wof:lastmodified":1449034582,
+    "wof:name":"Crane West Inc",
+    "wof:parent_id":85825393,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "crane"
+    ]
+},
+  "bbox": [-116.260875,43.568871,-116.260875,43.568871],
+  "geometry": {"coordinates":[-116.260875,43.568871],"type":"Point"}
+}

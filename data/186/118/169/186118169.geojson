@@ -1,0 +1,77 @@
+{
+  "id": 186118169,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-116.791738,47.715416,-116.791738,47.715416",
+    "geom:latitude":47.715416,
+    "geom:longitude":-116.791738,
+    "iso:country":"US",
+    "sg:address":"220 W Kathleen Ave",
+    "sg:city":"Coeur D Alene",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Building Materials",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 676 1441",
+    "sg:postcode":"83815",
+    "sg:province":"ID",
+    "sg:tags":[
+        "center"
+    ],
+    "sg:website":"www.homedepot.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85938163,
+        102086085,
+        85806325,
+        85821457
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1PAFJxBOQKNRDjBRFb2nOb_47.715416_-116.791738@1294099250"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"d10980bd6286a25933dcd6b179599bca",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086085,
+            "locality_id":85938163,
+            "neighbourhood_id":85806325,
+            "region_id":85688657,
+            "venue_id":186118169
+        },
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086085,
+            "locality_id":-1,
+            "neighbourhood_id":85821457,
+            "region_id":85688657,
+            "venue_id":186118169
+        }
+    ],
+    "wof:id":186118169,
+    "wof:lastmodified":1449052501,
+    "wof:name":"Home Depot",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "center"
+    ]
+},
+  "bbox": [-116.791738,47.715416,-116.791738,47.715416],
+  "geometry": {"coordinates":[-116.791738,47.715416],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 169710645,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-116.192997,43.611032,-116.192997,43.611032",
+    "geom:latitude":43.611032,
+    "geom:longitude":-116.192997,
+    "iso:country":"US",
+    "sg:address":"100 Warm Springs Ave",
+    "sg:city":"Boise",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 424 9101",
+    "sg:postcode":"83712",
+    "sg:province":"ID",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85937923,
+        102086087
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2gZZe0793K9BV6IQqnUkJe_43.611032_-116.192997@1294099250"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"4dbe30f6d5ad110add81c566ea86e67e",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086087,
+            "locality_id":85937923,
+            "neighbourhood_id":-1,
+            "region_id":85688657,
+            "venue_id":169710645
+        }
+    ],
+    "wof:id":169710645,
+    "wof:lastmodified":1449032883,
+    "wof:name":"Gem State Dermatology",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [-116.192997,43.611032,-116.192997,43.611032],
+  "geometry": {"coordinates":[-116.192997,43.611032],"type":"Point"}
+}

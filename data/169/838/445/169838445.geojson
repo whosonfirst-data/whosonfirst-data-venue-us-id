@@ -1,0 +1,67 @@
+{
+  "id": 169838445,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-116.795308,47.741558,-116.795308,47.741558",
+    "geom:latitude":47.741558,
+    "geom:longitude":-116.795308,
+    "iso:country":"US",
+    "sg:address":"7780 N Mineral Dr",
+    "sg:city":"Coeur D Alene",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Health Practitioner",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 772 6609",
+    "sg:postcode":"83815",
+    "sg:province":"ID",
+    "sg:tags":[
+        "therapist",
+        "physical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        102086085,
+        85821457
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_798vo3mjYLyQgM9TTJzdjR_47.741558_-116.795308@1294099250"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"c5a4888b29eb17686c966c57f249c61b",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086085,
+            "locality_id":-1,
+            "neighbourhood_id":85821457,
+            "region_id":85688657,
+            "venue_id":169838445
+        }
+    ],
+    "wof:id":169838445,
+    "wof:lastmodified":1449033080,
+    "wof:name":"Hayden Lake Physical Therapy",
+    "wof:parent_id":85821457,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "therapist",
+        "physical"
+    ]
+},
+  "bbox": [-116.795308,47.741558,-116.795308,47.741558],
+  "geometry": {"coordinates":[-116.795308,47.741558],"type":"Point"}
+}

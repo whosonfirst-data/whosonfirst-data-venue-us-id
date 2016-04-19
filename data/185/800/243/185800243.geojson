@@ -1,0 +1,67 @@
+{
+  "id": 185800243,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-112.455481,42.950169,-112.455481,42.950169",
+    "geom:latitude":42.950169,
+    "geom:longitude":-112.455481,
+    "iso:country":"US",
+    "sg:address":"13063 N Billy Ln",
+    "sg:city":"Pocatello",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"Dance Studio",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 237 8926",
+    "sg:postcode":"83202",
+    "sg:province":"ID",
+    "sg:tags":[
+        "instruction",
+        "dancing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85938193,
+        102086113
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4q4KqjfAHF4LIiXxN9oWga_42.950169_-112.455481@1294099250"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"0d11b41ba5936004f32a25b94c16de60",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086113,
+            "locality_id":85938193,
+            "neighbourhood_id":-1,
+            "region_id":85688657,
+            "venue_id":185800243
+        }
+    ],
+    "wof:id":185800243,
+    "wof:lastmodified":1449006732,
+    "wof:name":"T-N-T Dance Studio",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "instruction",
+        "dancing"
+    ]
+},
+  "bbox": [-112.455481,42.950169,-112.455481,42.950169],
+  "geometry": {"coordinates":[-112.455481,42.950169],"type":"Point"}
+}

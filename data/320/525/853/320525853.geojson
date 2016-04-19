@@ -1,0 +1,73 @@
+{
+  "id": 320525853,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-117.025353,46.421088,-117.025353,46.421088",
+    "geom:latitude":46.421088,
+    "geom:longitude":-117.025353,
+    "iso:country":"US",
+    "sg:address":"631 Main St",
+    "sg:city":"Lewiston",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 746 3054",
+    "sg:postcode":"83501",
+    "sg:province":"ID",
+    "sg:tags":[
+        "shop",
+        "sandwich"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85937743,
+        102086039,
+        85852537
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_19VfVypVcUNB5HdImrCd7v_46.421088_-117.025353@1303263095"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"8d3d87f62a99d79cec501e5631031ab2",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086039,
+            "locality_id":85937743,
+            "neighbourhood_id":85852537,
+            "region_id":85688657,
+            "venue_id":320525853
+        }
+    ],
+    "wof:id":320525853,
+    "wof:lastmodified":1449014189,
+    "wof:name":"Bob's Sandwhiches",
+    "wof:parent_id":85852537,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop",
+        "sandwich"
+    ]
+},
+  "bbox": [-117.025353,46.421088,-117.025353,46.421088],
+  "geometry": {"coordinates":[-117.025353,46.421088],"type":"Point"}
+}

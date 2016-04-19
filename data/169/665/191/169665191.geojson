@@ -1,0 +1,66 @@
+{
+  "id": 169665191,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-116.723588,47.887717,-116.723588,47.887717",
+    "geom:latitude":47.887717,
+    "geom:longitude":-116.723588,
+    "iso:country":"US",
+    "sg:address":"23340 US Hwy 95",
+    "sg:city":"Athol",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 762 9206",
+    "sg:postcode":"83801",
+    "sg:province":"ID",
+    "sg:tags":[
+        "barn"
+    ],
+    "sg:website":"www.custombarns.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        102086085,
+        85821457
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3C7IUqKcspGb7R91u3w1jS_47.887717_-116.723588@1294099250"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"519f06a62e8bee8151d06756c5680f81",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086085,
+            "locality_id":-1,
+            "neighbourhood_id":85821457,
+            "region_id":85688657,
+            "venue_id":169665191
+        }
+    ],
+    "wof:id":169665191,
+    "wof:lastmodified":1449033698,
+    "wof:name":"Custom Barns",
+    "wof:parent_id":85821457,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "barn"
+    ]
+},
+  "bbox": [-116.723588,47.887717,-116.723588,47.887717],
+  "geometry": {"coordinates":[-116.723588,47.887717],"type":"Point"}
+}

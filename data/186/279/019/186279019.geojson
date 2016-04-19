@@ -1,0 +1,61 @@
+{
+  "id": 186279019,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-116.21157,43.621848,-116.21157,43.621848",
+    "geom:latitude":43.621848,
+    "geom:longitude":-116.21157,
+    "iso:country":"US",
+    "sg:address":"215 N 16th St",
+    "sg:city":"Boise",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Self-service Laundry",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 344 5180",
+    "sg:postcode":"83702",
+    "sg:province":"ID",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85937923,
+        102086087,
+        85876355
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3pRjnvAK0pbGMjzLE3mnoA_43.621848_-116.211570@1294099250"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"79cd7161aab133d271b524a1af3dae35",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086087,
+            "locality_id":85937923,
+            "neighbourhood_id":85876355,
+            "region_id":85688657,
+            "venue_id":186279019
+        }
+    ],
+    "wof:id":186279019,
+    "wof:lastmodified":1449051603,
+    "wof:name":"16th Street Laundry",
+    "wof:parent_id":85876355,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-116.21157,43.621848,-116.21157,43.621848],
+  "geometry": {"coordinates":[-116.21157,43.621848],"type":"Point"}
+}

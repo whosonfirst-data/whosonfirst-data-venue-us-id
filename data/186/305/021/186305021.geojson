@@ -1,0 +1,78 @@
+{
+  "id": 186305021,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-116.827359,47.709584,-116.827359,47.709584",
+    "geom:latitude":47.709584,
+    "geom:longitude":-116.827359,
+    "iso:country":"US",
+    "sg:address":"3665 Evergreen Dr",
+    "sg:city":"Coeur D Alene",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 765 6997",
+    "sg:postcode":"83815",
+    "sg:province":"ID",
+    "sg:tags":[
+        "electric",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85938163,
+        102086085,
+        85806325,
+        85821457
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1LLrH1ziFllR0OMjfKwHY9_47.709584_-116.827359@1294099250"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"dd7d950bafa8293c4656cbb777eb5112",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086085,
+            "locality_id":85938163,
+            "neighbourhood_id":85806325,
+            "region_id":85688657,
+            "venue_id":186305021
+        },
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086085,
+            "locality_id":-1,
+            "neighbourhood_id":85821457,
+            "region_id":85688657,
+            "venue_id":186305021
+        }
+    ],
+    "wof:id":186305021,
+    "wof:lastmodified":1449050804,
+    "wof:name":"Electric Co",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electric",
+        "contractor"
+    ]
+},
+  "bbox": [-116.827359,47.709584,-116.827359,47.709584],
+  "geometry": {"coordinates":[-116.827359,47.709584],"type":"Point"}
+}

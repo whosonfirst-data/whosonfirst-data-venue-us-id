@@ -1,0 +1,65 @@
+{
+  "id": 169617999,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-116.108757,45.925363,-116.108757,45.925363",
+    "geom:latitude":45.925363,
+    "geom:longitude":-116.108757,
+    "iso:country":"US",
+    "sg:address":"835 E Main St",
+    "sg:city":"Grangeville",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Veterinary Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 983 0080",
+    "sg:postcode":"83530",
+    "sg:province":"ID",
+    "sg:tags":[
+        "veterinarian"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85937869,
+        102085053
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3kIWSmCxlUGpCRqDRer14G_45.925363_-116.108757@1294099250"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"7379b9140c94f29117498a1a4d1e4540",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085053,
+            "locality_id":85937869,
+            "neighbourhood_id":-1,
+            "region_id":85688657,
+            "venue_id":169617999
+        }
+    ],
+    "wof:id":169617999,
+    "wof:lastmodified":1449032803,
+    "wof:name":"Grangeville Veterinary Clinic",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "veterinarian"
+    ]
+},
+  "bbox": [-116.108757,45.925363,-116.108757,45.925363],
+  "geometry": {"coordinates":[-116.108757,45.925363],"type":"Point"}
+}

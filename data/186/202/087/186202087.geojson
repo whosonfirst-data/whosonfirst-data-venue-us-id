@@ -1,0 +1,67 @@
+{
+  "id": 186202087,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-114.46009,42.546298,-114.46009,42.546298",
+    "geom:latitude":42.546298,
+    "geom:longitude":-114.46009,
+    "iso:country":"US",
+    "sg:address":"139 Blue Lakes Blvd S",
+    "sg:city":"Twin Falls",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 734 2267",
+    "sg:postcode":"83301",
+    "sg:province":"ID",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85937881,
+        102085153
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4UWcTf6zV0TMRFI9Tt3Ubg_42.546298_-114.460090@1294099250"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"8fe782b62185adb69f1985bad584840f",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085153,
+            "locality_id":85937881,
+            "neighbourhood_id":-1,
+            "region_id":85688657,
+            "venue_id":186202087
+        }
+    ],
+    "wof:id":186202087,
+    "wof:lastmodified":1449052667,
+    "wof:name":"S & D Automotive Svc",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [-114.46009,42.546298,-114.46009,42.546298],
+  "geometry": {"coordinates":[-114.46009,42.546298],"type":"Point"}
+}

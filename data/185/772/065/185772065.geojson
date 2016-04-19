@@ -1,0 +1,69 @@
+{
+  "id": 185772065,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-116.321429,43.707712,-116.321429,43.707712",
+    "geom:latitude":43.707712,
+    "geom:longitude":-116.321429,
+    "iso:country":"US",
+    "sg:address":"2611 E Gladstone Ct",
+    "sg:city":"Eagle",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 939 0734",
+    "sg:postcode":"83616",
+    "sg:province":"ID",
+    "sg:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        102086087,
+        85876315
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2tsWTWaEYBQDyPDGg8p0QB_43.707712_-116.321429@1294099250"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"537b24681512370c02df4022d97bc090",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086087,
+            "locality_id":-1,
+            "neighbourhood_id":85876315,
+            "region_id":85688657,
+            "venue_id":185772065
+        }
+    ],
+    "wof:id":185772065,
+    "wof:lastmodified":1449007339,
+    "wof:name":"Stir Crazy",
+    "wof:parent_id":85876315,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ]
+},
+  "bbox": [-116.321429,43.707712,-116.321429,43.707712],
+  "geometry": {"coordinates":[-116.321429,43.707712],"type":"Point"}
+}

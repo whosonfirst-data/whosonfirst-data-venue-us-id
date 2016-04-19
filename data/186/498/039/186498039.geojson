@@ -1,0 +1,68 @@
+{
+  "id": 186498039,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-116.286561,43.641331,-116.286561,43.641331",
+    "geom:latitude":43.641331,
+    "geom:longitude":-116.286561,
+    "iso:country":"US",
+    "sg:address":"8320 W Edna St",
+    "sg:city":"Boise",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 376 0508",
+    "sg:postcode":"83704",
+    "sg:province":"ID",
+    "sg:tags":[
+        "roofing",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85937919,
+        102086087,
+        85876349
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7fZGX0hmNoLVqgfvhuzpMU_43.641331_-116.286561@1294099250"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"852f054a592760734b046bb1bd2df01d",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086087,
+            "locality_id":85937919,
+            "neighbourhood_id":85876349,
+            "region_id":85688657,
+            "venue_id":186498039
+        }
+    ],
+    "wof:id":186498039,
+    "wof:lastmodified":1449052360,
+    "wof:name":"Roof Pro",
+    "wof:parent_id":85876349,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "roofing",
+        "contractor"
+    ]
+},
+  "bbox": [-116.286561,43.641331,-116.286561,43.641331],
+  "geometry": {"coordinates":[-116.286561,43.641331],"type":"Point"}
+}

@@ -1,0 +1,66 @@
+{
+  "id": 169832089,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-116.122538,47.539861,-116.122538,47.539861",
+    "geom:latitude":47.539861,
+    "geom:longitude":-116.122538,
+    "iso:country":"US",
+    "sg:address":"124 W Brown Ave",
+    "sg:city":"Kellogg",
+    "sg:classifiers":[
+        {
+            "category":"Local Transit",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 786 5434",
+    "sg:postcode":"83837",
+    "sg:province":"ID",
+    "sg:tags":[
+        "ambulance"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85937825,
+        102086103,
+        85849049
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_79gXerLRGQMcNoUdIFyk1r_47.539861_-116.122538@1294099250"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"c43b11c83c299c9f06ca11c25b45a383",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086103,
+            "locality_id":85937825,
+            "neighbourhood_id":85849049,
+            "region_id":85688657,
+            "venue_id":169832089
+        }
+    ],
+    "wof:id":169832089,
+    "wof:lastmodified":1449032702,
+    "wof:name":"Ambulance Bookkeeping",
+    "wof:parent_id":85849049,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "ambulance"
+    ]
+},
+  "bbox": [-116.122538,47.539861,-116.122538,47.539861],
+  "geometry": {"coordinates":[-116.122538,47.539861],"type":"Point"}
+}

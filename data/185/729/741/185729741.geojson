@@ -1,0 +1,68 @@
+{
+  "id": 185729741,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-116.999751,46.732295,-116.999751,46.732295",
+    "geom:latitude":46.732295,
+    "geom:longitude":-116.999751,
+    "iso:country":"US",
+    "sg:address":"221 E 3rd St",
+    "sg:city":"Moscow",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Specialty",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 882 8537",
+    "sg:postcode":"83843",
+    "sg:province":"ID",
+    "sg:tags":[
+        "health",
+        "diet"
+    ],
+    "sg:website":"www.moscowfood.coop",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85937727,
+        102085077
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_40VXZpN04BPBu9F3SQ0Wcd_46.732295_-116.999751@1294099250"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"58aafe94cacbb84327e0638e27131c4f",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085077,
+            "locality_id":85937727,
+            "neighbourhood_id":-1,
+            "region_id":85688657,
+            "venue_id":185729741
+        }
+    ],
+    "wof:id":185729741,
+    "wof:lastmodified":1449007443,
+    "wof:name":"Moscow Food Cooperative",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "health",
+        "diet"
+    ]
+},
+  "bbox": [-116.999751,46.732295,-116.999751,46.732295],
+  "geometry": {"coordinates":[-116.999751,46.732295],"type":"Point"}
+}

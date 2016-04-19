@@ -1,0 +1,66 @@
+{
+  "id": 169785727,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-116.292931,43.589198,-116.292931,43.589198",
+    "geom:latitude":43.589198,
+    "geom:longitude":-116.292931,
+    "iso:country":"US",
+    "sg:address":"8904 Ardene St",
+    "sg:city":"Boise",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Veterinary Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 333 7730",
+    "sg:postcode":"83709",
+    "sg:province":"ID",
+    "sg:tags":[
+        "veterinarian"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85937923,
+        102086087,
+        85876309
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6UhGYzpiQRo3IvJpChtcoD_43.589198_-116.292931@1294099250"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"122ca4f918f9014c8e174d8bc9ee603d",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086087,
+            "locality_id":85937923,
+            "neighbourhood_id":85876309,
+            "region_id":85688657,
+            "venue_id":169785727
+        }
+    ],
+    "wof:id":169785727,
+    "wof:lastmodified":1449035396,
+    "wof:name":"Pet Doctor",
+    "wof:parent_id":85876309,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "veterinarian"
+    ]
+},
+  "bbox": [-116.292931,43.589198,-116.292931,43.589198],
+  "geometry": {"coordinates":[-116.292931,43.589198],"type":"Point"}
+}

@@ -1,0 +1,77 @@
+{
+  "id": 169595049,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-116.807927,47.706043,-116.807927,47.706043",
+    "geom:latitude":47.706043,
+    "geom:longitude":-116.807927,
+    "iso:country":"US",
+    "sg:address":"3800 N Ramsey Rd",
+    "sg:city":"Coeur D Alene",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 769 2233",
+    "sg:postcode":"83815",
+    "sg:province":"ID",
+    "sg:tags":[
+        "village"
+    ],
+    "sg:website":"www.coeurdaleneidaho.org",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85938163,
+        102086085,
+        85806325,
+        85821457
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6Rlk2k5h3cmGPoVwoeRQXz_47.706043_-116.807927@1294099250"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"569abc363f0cf8991209bbd294d65425",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086085,
+            "locality_id":85938163,
+            "neighbourhood_id":85806325,
+            "region_id":85688657,
+            "venue_id":169595049
+        },
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086085,
+            "locality_id":-1,
+            "neighbourhood_id":85821457,
+            "region_id":85688657,
+            "venue_id":169595049
+        }
+    ],
+    "wof:id":169595049,
+    "wof:lastmodified":1449035635,
+    "wof:name":"Coeur D'Alene Street Div",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "village"
+    ]
+},
+  "bbox": [-116.807927,47.706043,-116.807927,47.706043],
+  "geometry": {"coordinates":[-116.807927,47.706043],"type":"Point"}
+}

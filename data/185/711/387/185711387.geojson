@@ -1,0 +1,65 @@
+{
+  "id": 185711387,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-116.343891,43.6962,-116.343891,43.6962",
+    "geom:latitude":43.6962,
+    "geom:longitude":-116.343891,
+    "iso:country":"US",
+    "sg:address":"48 N Palmetto Ave",
+    "sg:city":"Eagle",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Veterinary Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 939 8285",
+    "sg:postcode":"83616",
+    "sg:province":"ID",
+    "sg:tags":[
+        "veterinarian"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        102086087,
+        85876315
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0xkMBTAkdDlUunxPmUa9qj_43.696200_-116.343891@1294099250"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"bca10f90a647d5619c83662a08abbee7",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086087,
+            "locality_id":-1,
+            "neighbourhood_id":85876315,
+            "region_id":85688657,
+            "venue_id":185711387
+        }
+    ],
+    "wof:id":185711387,
+    "wof:lastmodified":1449007934,
+    "wof:name":"Eagle Veterinary Hospital",
+    "wof:parent_id":85876315,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "veterinarian"
+    ]
+},
+  "bbox": [-116.343891,43.6962,-116.343891,43.6962],
+  "geometry": {"coordinates":[-116.343891,43.6962],"type":"Point"}
+}

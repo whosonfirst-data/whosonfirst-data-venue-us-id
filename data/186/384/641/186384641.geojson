@@ -1,0 +1,68 @@
+{
+  "id": 186384641,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-116.387449,43.560965,-116.387449,43.560965",
+    "geom:latitude":43.560965,
+    "geom:longitude":-116.387449,
+    "iso:country":"US",
+    "sg:address":"357 E Amity Rd",
+    "sg:city":"Meridian",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 888 7988",
+    "sg:postcode":"83642",
+    "sg:province":"ID",
+    "sg:tags":[
+        "paving",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85937915,
+        102086087,
+        85805083
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2mcEDdc1x8XqdmhAqdFIPA_43.560965_-116.387449@1294099250"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"254d3d3aa74e152c17e3fef18da3be36",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086087,
+            "locality_id":85937915,
+            "neighbourhood_id":85805083,
+            "region_id":85688657,
+            "venue_id":186384641
+        }
+    ],
+    "wof:id":186384641,
+    "wof:lastmodified":1449050628,
+    "wof:name":"American Paving Co",
+    "wof:parent_id":85805083,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "paving",
+        "contractor"
+    ]
+},
+  "bbox": [-116.387449,43.560965,-116.387449,43.560965],
+  "geometry": {"coordinates":[-116.387449,43.560965],"type":"Point"}
+}

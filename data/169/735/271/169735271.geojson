@@ -1,0 +1,67 @@
+{
+  "id": 169735271,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-112.47604,42.889587,-112.47604,42.889587",
+    "geom:latitude":42.889587,
+    "geom:longitude":-112.47604,
+    "iso:country":"US",
+    "sg:address":"3100 N Main St",
+    "sg:city":"Pocatello",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 233 9742",
+    "sg:postcode":"83204",
+    "sg:province":"ID",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85937925,
+        102086113
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5xsw3hUOHQYmCbuAYraKkW_42.889587_-112.476040@1294099250"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"712a0902485132838e3f7da8d2b922c3",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086113,
+            "locality_id":85937925,
+            "neighbourhood_id":-1,
+            "region_id":85688657,
+            "venue_id":169735271
+        }
+    ],
+    "wof:id":169735271,
+    "wof:lastmodified":1449035893,
+    "wof:name":"Industrial Radiator",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [-112.47604,42.889587,-112.47604,42.889587],
+  "geometry": {"coordinates":[-112.47604,42.889587],"type":"Point"}
+}

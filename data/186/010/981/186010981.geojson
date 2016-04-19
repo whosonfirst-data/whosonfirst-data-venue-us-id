@@ -1,0 +1,67 @@
+{
+  "id": 186010981,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-116.794141,47.69427,-116.794141,47.69427",
+    "geom:latitude":47.69427,
+    "geom:longitude":-116.794141,
+    "iso:country":"US",
+    "sg:address":"930 W Ironwood Dr",
+    "sg:city":"Coeur D Alene",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Specialty",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 765 6332",
+    "sg:postcode":"83814",
+    "sg:province":"ID",
+    "sg:tags":[
+        "tea",
+        "coffee"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        102086085,
+        85821457
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4cDGkApcxOTahaPvwIeSpK_47.694270_-116.794141@1294099250"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"2f6b9ca01e465aeb88e7dda157f91b36",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086085,
+            "locality_id":-1,
+            "neighbourhood_id":85821457,
+            "region_id":85688657,
+            "venue_id":186010981
+        }
+    ],
+    "wof:id":186010981,
+    "wof:lastmodified":1449052043,
+    "wof:name":"Roosters Coffee",
+    "wof:parent_id":85821457,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "tea",
+        "coffee"
+    ]
+},
+  "bbox": [-116.794141,47.69427,-116.794141,47.69427],
+  "geometry": {"coordinates":[-116.794141,47.69427],"type":"Point"}
+}

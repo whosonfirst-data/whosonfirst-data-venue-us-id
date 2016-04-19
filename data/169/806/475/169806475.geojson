@@ -1,0 +1,67 @@
+{
+  "id": 169806475,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-112.854507,42.78432,-112.854507,42.78432",
+    "geom:latitude":42.78432,
+    "geom:longitude":-112.854507,
+    "iso:country":"US",
+    "sg:address":"206 Idaho St",
+    "sg:city":"American Falls",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Medical Equipment & Supplies",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 226 2410",
+    "sg:postcode":"83211",
+    "sg:province":"ID",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85938107,
+        102085061
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1Z5MUEbJAHCXKuQokWJHGZ_42.784320_-112.854507@1294099250"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"97b5b4b4ddd5d398125dcaf5f3d595f4",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085061,
+            "locality_id":85938107,
+            "neighbourhood_id":-1,
+            "region_id":85688657,
+            "venue_id":169806475
+        }
+    ],
+    "wof:id":169806475,
+    "wof:lastmodified":1449032676,
+    "wof:name":"Northwest Therapy Svc",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [-112.854507,42.78432,-112.854507,42.78432],
+  "geometry": {"coordinates":[-112.854507,42.78432],"type":"Point"}
+}

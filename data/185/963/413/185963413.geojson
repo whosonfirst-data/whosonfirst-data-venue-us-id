@@ -1,0 +1,66 @@
+{
+  "id": 185963413,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-116.2862,43.626527,-116.2862,43.626527",
+    "geom:latitude":43.626527,
+    "geom:longitude":-116.2862,
+    "iso:country":"US",
+    "sg:address":"8259 Northview St",
+    "sg:city":"Boise",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 375 0607",
+    "sg:postcode":"83704",
+    "sg:province":"ID",
+    "sg:tags":[
+        "dentist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85937923,
+        102086087,
+        85841319
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_73TVsui40G6ClumZ99wfIb_43.626527_-116.286200@1294099250"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"4fbe9221686ed40b1b3ee50485ea19b5",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086087,
+            "locality_id":85937923,
+            "neighbourhood_id":85841319,
+            "region_id":85688657,
+            "venue_id":185963413
+        }
+    ],
+    "wof:id":185963413,
+    "wof:lastmodified":1449006767,
+    "wof:name":"Richard Arave DDS",
+    "wof:parent_id":85841319,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dentist"
+    ]
+},
+  "bbox": [-116.2862,43.626527,-116.2862,43.626527],
+  "geometry": {"coordinates":[-116.2862,43.626527],"type":"Point"}
+}

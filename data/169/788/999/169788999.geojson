@@ -1,0 +1,67 @@
+{
+  "id": 169788999,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-116.234099,43.482659,-116.234099,43.482659",
+    "geom:latitude":43.482659,
+    "geom:longitude":-116.234099,
+    "iso:country":"US",
+    "sg:address":"13400 Pleasant Valley Rd",
+    "sg:city":"Kuna",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Jail",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 336 1260",
+    "sg:postcode":"83705",
+    "sg:province":"ID",
+    "sg:tags":[
+        "govt",
+        "state",
+        "institution"
+    ],
+    "sg:website":"www.corrections.state.id.us",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633793,
+        85688657
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4D520Y9VZvGQ4V7B7dw5Np_43.482659_-116.234099@1294099250"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"85b9a94e1f293901e43dc64c3efdc6a9",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "locality_id":-1,
+            "neighbourhood_id":-1,
+            "region_id":85688657,
+            "venue_id":169788999
+        }
+    ],
+    "wof:id":169788999,
+    "wof:lastmodified":1449034385,
+    "wof:name":"Southern Idaho Correctional",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "govt",
+        "state",
+        "institution"
+    ]
+},
+  "bbox": [-116.234099,43.482659,-116.234099,43.482659],
+  "geometry": {"coordinates":[-116.234099,43.482659],"type":"Point"}
+}

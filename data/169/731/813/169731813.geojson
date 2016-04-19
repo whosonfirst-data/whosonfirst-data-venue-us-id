@@ -1,0 +1,66 @@
+{
+  "id": 169731813,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-116.532866,43.561396,-116.532866,43.561396",
+    "geom:latitude":43.561396,
+    "geom:longitude":-116.532866,
+    "iso:country":"US",
+    "sg:address":"804 Southside Blvd",
+    "sg:city":"Nampa",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 467 5401",
+    "sg:postcode":"83686",
+    "sg:province":"ID",
+    "sg:tags":[
+        "grocer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85938009,
+        102085081,
+        85827787
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4aSuakgyTcMkzWb6vuDxyG_43.561396_-116.532866@1294099250"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"0f33a820bec5607b37e68766f8a05579",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085081,
+            "locality_id":85938009,
+            "neighbourhood_id":85827787,
+            "region_id":85688657,
+            "venue_id":169731813
+        }
+    ],
+    "wof:id":169731813,
+    "wof:lastmodified":1449035586,
+    "wof:name":"Kings Corner Grocery",
+    "wof:parent_id":85827787,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "grocer"
+    ]
+},
+  "bbox": [-116.532866,43.561396,-116.532866,43.561396],
+  "geometry": {"coordinates":[-116.532866,43.561396],"type":"Point"}
+}

@@ -1,0 +1,65 @@
+{
+  "id": 186171317,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-116.947976,47.717697,-116.947976,47.717697",
+    "geom:latitude":47.717697,
+    "geom:longitude":-116.947976,
+    "iso:country":"US",
+    "sg:address":"920 N Spokane St",
+    "sg:city":"Post Falls",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Veterinary Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 773 3713",
+    "sg:postcode":"83854",
+    "sg:province":"ID",
+    "sg:tags":[
+        "veterinarian"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        102086085,
+        85833263
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_37jO8Tzfhq2evcwWBFA1At_47.717697_-116.947976@1294099250"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"ade45c63622ee11799798eedbcf3e1ef",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086085,
+            "locality_id":-1,
+            "neighbourhood_id":85833263,
+            "region_id":85688657,
+            "venue_id":186171317
+        }
+    ],
+    "wof:id":186171317,
+    "wof:lastmodified":1449053042,
+    "wof:name":"Post Falls Animal Clinic",
+    "wof:parent_id":85833263,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "veterinarian"
+    ]
+},
+  "bbox": [-116.947976,47.717697,-116.947976,47.717697],
+  "geometry": {"coordinates":[-116.947976,47.717697],"type":"Point"}
+}

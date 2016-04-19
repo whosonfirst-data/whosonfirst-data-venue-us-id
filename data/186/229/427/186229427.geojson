@@ -1,0 +1,66 @@
+{
+  "id": 186229427,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-116.293247,43.64583,-116.293247,43.64583",
+    "geom:latitude":43.64583,
+    "geom:longitude":-116.293247,
+    "iso:country":"US",
+    "sg:address":"9001 Craydon Pl",
+    "sg:city":"Boise",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 323 8094",
+    "sg:postcode":"83704",
+    "sg:province":"ID",
+    "sg:tags":[
+        "manicuring"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85937923,
+        102086087,
+        85876357
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7XFSTnStP5tmbdIT7Jc6D3_43.645830_-116.293247@1294099250"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"5fd2e3d8bcf47f3021e8ad9d8dc587bc",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086087,
+            "locality_id":85937923,
+            "neighbourhood_id":85876357,
+            "region_id":85688657,
+            "venue_id":186229427
+        }
+    ],
+    "wof:id":186229427,
+    "wof:lastmodified":1449052469,
+    "wof:name":"Gentle Hands Nail Salon",
+    "wof:parent_id":85876357,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "manicuring"
+    ]
+},
+  "bbox": [-116.293247,43.64583,-116.293247,43.64583],
+  "geometry": {"coordinates":[-116.293247,43.64583],"type":"Point"}
+}

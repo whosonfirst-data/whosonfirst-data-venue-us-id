@@ -1,0 +1,65 @@
+{
+  "id": 185681167,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-116.788747,47.686076,-116.788747,47.686076",
+    "geom:latitude":47.686076,
+    "geom:longitude":-116.788747,
+    "iso:country":"US",
+    "sg:address":"1121 N B St",
+    "sg:city":"Coeur D Alene",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Cleaning & Sanitation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 664 4819",
+    "sg:postcode":"83814",
+    "sg:province":"ID",
+    "sg:tags":[
+        "janitor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        102086085,
+        85821457
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6KzZYoDStL6uUXePKlfChH_47.686076_-116.788747@1294099250"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"9ee12b6f797619b48d22e0616a57a54a",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086085,
+            "locality_id":-1,
+            "neighbourhood_id":85821457,
+            "region_id":85688657,
+            "venue_id":185681167
+        }
+    ],
+    "wof:id":185681167,
+    "wof:lastmodified":1449007600,
+    "wof:name":"In & Out Cleaning Svc",
+    "wof:parent_id":85821457,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "janitor"
+    ]
+},
+  "bbox": [-116.788747,47.686076,-116.788747,47.686076],
+  "geometry": {"coordinates":[-116.788747,47.686076],"type":"Point"}
+}

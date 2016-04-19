@@ -1,0 +1,67 @@
+{
+  "id": 186328943,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-116.932934,44.067708,-116.932934,44.067708",
+    "geom:latitude":44.067708,
+    "geom:longitude":-116.932934,
+    "iso:country":"US",
+    "sg:address":"605 S Main St",
+    "sg:city":"Payette",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 642 4426",
+    "sg:postcode":"83661",
+    "sg:province":"ID",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85937905,
+        102086023
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7dpCQiASv8E0nuurulmdov_44.067708_-116.932934@1294099250"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"bf97950c872f75fe909e33c1aec7bc17",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086023,
+            "locality_id":85937905,
+            "neighbourhood_id":-1,
+            "region_id":85688657,
+            "venue_id":186328943
+        }
+    ],
+    "wof:id":186328943,
+    "wof:lastmodified":1449051945,
+    "wof:name":"Payette Tire & Alignment Ctr",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [-116.932934,44.067708,-116.932934,44.067708],
+  "geometry": {"coordinates":[-116.932934,44.067708],"type":"Point"}
+}

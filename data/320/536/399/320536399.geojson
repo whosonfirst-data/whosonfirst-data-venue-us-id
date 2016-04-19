@@ -1,0 +1,82 @@
+{
+  "id": 320536399,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-116.94541,43.784114,-116.94541,43.784114",
+    "geom:latitude":43.784114,
+    "geom:longitude":-116.94541,
+    "iso:country":"US",
+    "sg:address":"108 S 3rd St",
+    "sg:city":"Parma",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Household Appliances",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        },
+        {
+            "category":"Home & Garden",
+            "subcategory":"Furniture",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 722 5158",
+    "sg:postcode":"83660",
+    "sg:province":"ID",
+    "sg:tags":[
+        "small",
+        "major",
+        "store",
+        "appliances-small"
+    ],
+    "sg:website":"http://www.parmafurniture.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85938023,
+        102085081
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3dd72WTsPhSDDO0CfvDtG9_43.784114_-116.945410@1303263095"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"b4fa2166774973071c67f51f1e492d84",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085081,
+            "locality_id":85938023,
+            "neighbourhood_id":-1,
+            "region_id":85688657,
+            "venue_id":320536399
+        }
+    ],
+    "wof:id":320536399,
+    "wof:lastmodified":1449013483,
+    "wof:name":"Parma Furniture",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "small",
+        "major",
+        "store",
+        "appliances-small"
+    ]
+},
+  "bbox": [-116.94541,43.784114,-116.94541,43.784114],
+  "geometry": {"coordinates":[-116.94541,43.784114],"type":"Point"}
+}

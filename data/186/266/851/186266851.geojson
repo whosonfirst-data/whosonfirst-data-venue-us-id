@@ -1,0 +1,68 @@
+{
+  "id": 186266851,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-116.228679,43.588815,-116.228679,43.588815",
+    "geom:latitude":43.588815,
+    "geom:longitude":-116.228679,
+    "iso:country":"US",
+    "sg:address":"1623 S Latah St",
+    "sg:city":"Boise",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 323 2332",
+    "sg:postcode":"83705",
+    "sg:province":"ID",
+    "sg:tags":[
+        "excavating",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85937923,
+        102086087,
+        85825393
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5YaJqnEhfsqnnJQ3P6xHcf_43.588815_-116.228679@1294099250"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"6fc0da42f2ccb8a2df616c22493c830a",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086087,
+            "locality_id":85937923,
+            "neighbourhood_id":85825393,
+            "region_id":85688657,
+            "venue_id":186266851
+        }
+    ],
+    "wof:id":186266851,
+    "wof:lastmodified":1449050352,
+    "wof:name":"Demolition & Excavation Corp",
+    "wof:parent_id":85825393,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "excavating",
+        "contractor"
+    ]
+},
+  "bbox": [-116.228679,43.588815,-116.228679,43.588815],
+  "geometry": {"coordinates":[-116.228679,43.588815],"type":"Point"}
+}

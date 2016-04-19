@@ -1,0 +1,68 @@
+{
+  "id": 169824935,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-116.253549,43.578012,-116.253549,43.578012",
+    "geom:latitude":43.578012,
+    "geom:longitude":-116.253549,
+    "iso:country":"US",
+    "sg:address":"2700 S Curtis Rd",
+    "sg:city":"Boise",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 362 0094",
+    "sg:postcode":"83705",
+    "sg:province":"ID",
+    "sg:tags":[
+        "roofing",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85937923,
+        102086087,
+        85825393
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3M432Inj4mq8TNvOHJebjv_43.578012_-116.253549@1294099250"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"73ae120ded346cbef4b78d7ab1feb037",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086087,
+            "locality_id":85937923,
+            "neighbourhood_id":85825393,
+            "region_id":85688657,
+            "venue_id":169824935
+        }
+    ],
+    "wof:id":169824935,
+    "wof:lastmodified":1449033868,
+    "wof:name":"Idaho Commercial Roofing",
+    "wof:parent_id":85825393,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "roofing",
+        "contractor"
+    ]
+},
+  "bbox": [-116.253549,43.578012,-116.253549,43.578012],
+  "geometry": {"coordinates":[-116.253549,43.578012],"type":"Point"}
+}

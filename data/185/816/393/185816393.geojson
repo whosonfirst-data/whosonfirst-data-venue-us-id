@@ -1,0 +1,67 @@
+{
+  "id": 185816393,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-112.444467,42.86471,-112.444467,42.86471",
+    "geom:latitude":42.86471,
+    "geom:longitude":-112.444467,
+    "iso:country":"US",
+    "sg:address":"426 E Lewis St",
+    "sg:city":"Pocatello",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 233 4478",
+    "sg:postcode":"83201",
+    "sg:province":"ID",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85937925,
+        102086113
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2PUFPzOK6FGE4WWbComFe7_42.864710_-112.444467@1294099250"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"fe9843012deb30c87eb69ee8f1cb7cbb",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086113,
+            "locality_id":85937925,
+            "neighbourhood_id":-1,
+            "region_id":85688657,
+            "venue_id":185816393
+        }
+    ],
+    "wof:id":185816393,
+    "wof:lastmodified":1449007547,
+    "wof:name":"Jay Roebuck Auto Clinic",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [-112.444467,42.86471,-112.444467,42.86471],
+  "geometry": {"coordinates":[-112.444467,42.86471],"type":"Point"}
+}

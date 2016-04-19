@@ -1,0 +1,69 @@
+{
+  "id": 186456791,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-112.445075,42.869273,-112.445075,42.869273",
+    "geom:latitude":42.869273,
+    "geom:longitude":-112.445075,
+    "iso:country":"US",
+    "sg:address":"333 N 6th Ave",
+    "sg:city":"Pocatello",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 232 7644",
+    "sg:postcode":"83201",
+    "sg:province":"ID",
+    "sg:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85937925,
+        102086113
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6xSNA3Xn3rYiaLovXbau8o_42.869273_-112.445075@1294099250"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"79aabfb64a66b6cc58520df5077e5203",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086113,
+            "locality_id":85937925,
+            "neighbourhood_id":-1,
+            "region_id":85688657,
+            "venue_id":186456791
+        }
+    ],
+    "wof:id":186456791,
+    "wof:lastmodified":1449051176,
+    "wof:name":"Prestige Auto Body",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ]
+},
+  "bbox": [-112.445075,42.869273,-112.445075,42.869273],
+  "geometry": {"coordinates":[-112.445075,42.869273],"type":"Point"}
+}

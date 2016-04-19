@@ -1,0 +1,66 @@
+{
+  "id": 185690377,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-117.009642,46.432784,-117.009642,46.432784",
+    "geom:latitude":46.432784,
+    "geom:longitude":-117.009642,
+    "iso:country":"US",
+    "sg:address":"1485 Old Spiral Hwy",
+    "sg:city":"Lewiston",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 746 6580",
+    "sg:postcode":"83501",
+    "sg:province":"ID",
+    "sg:tags":[
+        "truck"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85937743,
+        102086039,
+        85852537
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_27rKzxwkG6OnWASlhoQZdu_46.432784_-117.009642@1294099250"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"301fb500e1d13c6779a7b226d02238ec",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086039,
+            "locality_id":85937743,
+            "neighbourhood_id":85852537,
+            "region_id":85688657,
+            "venue_id":185690377
+        }
+    ],
+    "wof:id":185690377,
+    "wof:lastmodified":1449007476,
+    "wof:name":"Shrader's Truck & Auto Repair",
+    "wof:parent_id":85852537,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "truck"
+    ]
+},
+  "bbox": [-117.009642,46.432784,-117.009642,46.432784],
+  "geometry": {"coordinates":[-117.009642,46.432784],"type":"Point"}
+}

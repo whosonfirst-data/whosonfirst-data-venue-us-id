@@ -1,0 +1,66 @@
+{
+  "id": 186371249,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-116.193222,43.610604,-116.193222,43.610604",
+    "geom:latitude":43.610604,
+    "geom:longitude":-116.193222,
+    "iso:country":"US",
+    "sg:address":"111 Broadway Ave",
+    "sg:city":"Boise",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Bakery",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 343 6835",
+    "sg:postcode":"83702",
+    "sg:province":"ID",
+    "sg:tags":[
+        "baker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85937923,
+        102086087,
+        85876325
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5h3l9lRqP1CdpyK7ohMUEw_43.610604_-116.193222@1294099250"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"d53e5e846f2bc1da02177ee6a6dee048",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086087,
+            "locality_id":85937923,
+            "neighbourhood_id":85876325,
+            "region_id":85688657,
+            "venue_id":186371249
+        }
+    ],
+    "wof:id":186371249,
+    "wof:lastmodified":1449052401,
+    "wof:name":"Mostly Muffins Bakery Shop",
+    "wof:parent_id":85876325,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "baker"
+    ]
+},
+  "bbox": [-116.193222,43.610604,-116.193222,43.610604],
+  "geometry": {"coordinates":[-116.193222,43.610604],"type":"Point"}
+}

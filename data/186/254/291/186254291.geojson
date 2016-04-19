@@ -1,0 +1,67 @@
+{
+  "id": 186254291,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-116.329212,43.565397,-116.329212,43.565397",
+    "geom:latitude":43.565397,
+    "geom:longitude":-116.329212,
+    "iso:country":"US",
+    "sg:address":"11815 Reutzel Dr",
+    "sg:city":"Boise",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 562 1986",
+    "sg:postcode":"83709",
+    "sg:province":"ID",
+    "sg:tags":[
+        "electrical",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        102086087,
+        85876331
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2I96IAoKyavyB2anDM5xYW_43.565397_-116.329212@1294099250"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"eb353042c8e638d3cb5d57eef675864a",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086087,
+            "locality_id":-1,
+            "neighbourhood_id":85876331,
+            "region_id":85688657,
+            "venue_id":186254291
+        }
+    ],
+    "wof:id":186254291,
+    "wof:lastmodified":1449052214,
+    "wof:name":"Active Wiring Company",
+    "wof:parent_id":85876331,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electrical",
+        "contractor"
+    ]
+},
+  "bbox": [-116.329212,43.565397,-116.329212,43.565397],
+  "geometry": {"coordinates":[-116.329212,43.565397],"type":"Point"}
+}

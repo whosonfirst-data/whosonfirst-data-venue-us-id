@@ -1,0 +1,77 @@
+{
+  "id": 186296705,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-116.802529,47.700726,-116.802529,47.700726",
+    "geom:latitude":47.700726,
+    "geom:longitude":-116.802529,
+    "iso:country":"US",
+    "sg:address":"1212 W Appleway Ave",
+    "sg:city":"Coeur D Alene",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Equipment Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 664 1134",
+    "sg:postcode":"83814",
+    "sg:province":"ID",
+    "sg:tags":[
+        "yard"
+    ],
+    "sg:website":"www.he-equipment.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85938163,
+        102086085,
+        85806325,
+        85821457
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1cRvAxaySPfdVjEW4XrNLz_47.700726_-116.802529@1294099250"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"83a9630f7e3d1d7990d3b2f4104700d7",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086085,
+            "locality_id":85938163,
+            "neighbourhood_id":85806325,
+            "region_id":85688657,
+            "venue_id":186296705
+        },
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086085,
+            "locality_id":-1,
+            "neighbourhood_id":85821457,
+            "region_id":85688657,
+            "venue_id":186296705
+        }
+    ],
+    "wof:id":186296705,
+    "wof:lastmodified":1449052514,
+    "wof:name":"H & E Equipment Svc LLC",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "yard"
+    ]
+},
+  "bbox": [-116.802529,47.700726,-116.802529,47.700726],
+  "geometry": {"coordinates":[-116.802529,47.700726],"type":"Point"}
+}

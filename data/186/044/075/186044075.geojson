@@ -1,0 +1,73 @@
+{
+  "id": 186044075,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-116.662259,43.646226,-116.662259,43.646226",
+    "geom:latitude":43.646226,
+    "geom:longitude":-116.662259,
+    "iso:country":"US",
+    "sg:address":"305 S 34th Ave",
+    "sg:city":"Caldwell",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 455 7772",
+    "sg:postcode":"83605",
+    "sg:province":"ID",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85938017,
+        102085081
+    ],
+    "wof:brand_id":420575149,
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2u6QkqlWegkT8IOa0eW8YS_43.646226_-116.662259@1294099250"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"7167b7ad6e96dbd794f91a647e17ac3d",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085081,
+            "locality_id":85938017,
+            "neighbourhood_id":-1,
+            "region_id":85688657,
+            "venue_id":186044075
+        }
+    ],
+    "wof:id":186044075,
+    "wof:lastmodified":1457209425,
+    "wof:name":"Meineke Car Care Ctr",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -116.662259,
+    43.646226,
+    -116.662259,
+    43.646226
+],
+  "geometry": {"coordinates":[-116.66225900000001,43.646226],"type":"Point"}
+}

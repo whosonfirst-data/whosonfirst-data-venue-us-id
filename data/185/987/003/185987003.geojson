@@ -1,0 +1,67 @@
+{
+  "id": 185987003,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-116.243523,43.613651,-116.243523,43.613651",
+    "geom:latitude":43.613651,
+    "geom:longitude":-116.243523,
+    "iso:country":"US",
+    "sg:address":"1007 N Orchard St",
+    "sg:city":"Boise",
+    "sg:classifiers":[
+        {
+            "category":"Insurance",
+            "subcategory":"Health Insurance",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 323 6121",
+    "sg:postcode":"83706",
+    "sg:province":"ID",
+    "sg:tags":[
+        "carrier"
+    ],
+    "sg:website":"www.wingsofhealth.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85937923,
+        102086087,
+        85876311
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4L5IAc4ZSonznox23rnGOa_43.613651_-116.243523@1294099250"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"db93240cfeb8314366588d7399ff3417",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086087,
+            "locality_id":85937923,
+            "neighbourhood_id":85876311,
+            "region_id":85688657,
+            "venue_id":185987003
+        }
+    ],
+    "wof:id":185987003,
+    "wof:lastmodified":1449007508,
+    "wof:name":"Wings Of Health Inc",
+    "wof:parent_id":85876311,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "carrier"
+    ]
+},
+  "bbox": [-116.243523,43.613651,-116.243523,43.613651],
+  "geometry": {"coordinates":[-116.243523,43.613651],"type":"Point"}
+}

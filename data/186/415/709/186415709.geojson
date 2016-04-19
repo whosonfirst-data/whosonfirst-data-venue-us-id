@@ -1,0 +1,66 @@
+{
+  "id": 186415709,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-114.464631,42.585877,-114.464631,42.585877",
+    "geom:latitude":42.585877,
+    "geom:longitude":-114.464631,
+    "iso:country":"US",
+    "sg:address":"1363 Fillmore St",
+    "sg:city":"Twin Falls",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 732 1000",
+    "sg:postcode":"83301",
+    "sg:province":"ID",
+    "sg:tags":[
+        "loan"
+    ],
+    "sg:website":"www.farm-credit.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85937881,
+        102085153
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5S37c7Ta9vM6MRPomEJ4ZN_42.585877_-114.464631@1294099250"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"dae2b9ee804acddb93be6adf664ce6cd",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085153,
+            "locality_id":85937881,
+            "neighbourhood_id":-1,
+            "region_id":85688657,
+            "venue_id":186415709
+        }
+    ],
+    "wof:id":186415709,
+    "wof:lastmodified":1449052288,
+    "wof:name":"Farm Credit Svc",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "loan"
+    ]
+},
+  "bbox": [-114.464631,42.585877,-114.464631,42.585877],
+  "geometry": {"coordinates":[-114.464631,42.585877],"type":"Point"}
+}

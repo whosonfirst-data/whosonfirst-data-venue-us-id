@@ -1,0 +1,68 @@
+{
+  "id": 186454937,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-116.21945,43.580694,-116.21945,43.580694",
+    "geom:latitude":43.580694,
+    "geom:longitude":-116.21945,
+    "iso:country":"US",
+    "sg:address":"3025 W Cherry Ln",
+    "sg:city":"Boise",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 367 8550",
+    "sg:postcode":"83705",
+    "sg:province":"ID",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85937923,
+        102086087,
+        85876343
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5yObpIpmAIoy9KHPDdSaRn_43.580694_-116.219450@1294099250"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"7005b7b3c7fa0a048eab6761f7979fdc",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086087,
+            "locality_id":85937923,
+            "neighbourhood_id":85876343,
+            "region_id":85688657,
+            "venue_id":186454937
+        }
+    ],
+    "wof:id":186454937,
+    "wof:lastmodified":1449052768,
+    "wof:name":"Saint Alphonsus Medical Group",
+    "wof:parent_id":85876343,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [-116.21945,43.580694,-116.21945,43.580694],
+  "geometry": {"coordinates":[-116.21945,43.580694],"type":"Point"}
+}

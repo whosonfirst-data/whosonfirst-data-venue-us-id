@@ -1,0 +1,66 @@
+{
+  "id": 185803383,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-116.235359,43.64557,-116.235359,43.64557",
+    "geom:latitude":43.64557,
+    "geom:longitude":-116.235359,
+    "iso:country":"US",
+    "sg:address":"3019 Woody Dr",
+    "sg:city":"Boise",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 344 7558",
+    "sg:postcode":"83703",
+    "sg:province":"ID",
+    "sg:tags":[
+        "drum"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85937923,
+        102086087,
+        85876339
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3Dl0PHXS2aMqeoUbUxnc4r_43.645570_-116.235359@1294099250"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"4ece698963f6566c6a82a6873cda634b",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086087,
+            "locality_id":85937923,
+            "neighbourhood_id":85876339,
+            "region_id":85688657,
+            "venue_id":185803383
+        }
+    ],
+    "wof:id":185803383,
+    "wof:lastmodified":1449008226,
+    "wof:name":"About Drums",
+    "wof:parent_id":85876339,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "drum"
+    ]
+},
+  "bbox": [-116.235359,43.64557,-116.235359,43.64557],
+  "geometry": {"coordinates":[-116.235359,43.64557],"type":"Point"}
+}

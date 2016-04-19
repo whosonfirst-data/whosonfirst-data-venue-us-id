@@ -1,0 +1,68 @@
+{
+  "id": 185678239,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-116.552721,43.714873,-116.552721,43.714873",
+    "geom:latitude":43.714873,
+    "geom:longitude":-116.552721,
+    "iso:country":"US",
+    "sg:address":"23374 Kingsbury Rd",
+    "sg:city":"Middleton",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 585 3542",
+    "sg:postcode":"83644",
+    "sg:province":"ID",
+    "sg:tags":[
+        "electric",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85938009,
+        102085081,
+        85835387
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6O1rX1qRGNui8POSAStmSx_43.714873_-116.552721@1294099250"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"8f2c562061f6ed84254c97e57b684c1d",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085081,
+            "locality_id":85938009,
+            "neighbourhood_id":85835387,
+            "region_id":85688657,
+            "venue_id":185678239
+        }
+    ],
+    "wof:id":185678239,
+    "wof:lastmodified":1449007400,
+    "wof:name":"Bullet Electric",
+    "wof:parent_id":85835387,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electric",
+        "contractor"
+    ]
+},
+  "bbox": [-116.552721,43.714873,-116.552721,43.714873],
+  "geometry": {"coordinates":[-116.552721,43.714873],"type":"Point"}
+}

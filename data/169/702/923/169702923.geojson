@@ -1,0 +1,66 @@
+{
+  "id": 169702923,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-116.195712,43.612738,-116.195712,43.612738",
+    "geom:latitude":43.612738,
+    "geom:longitude":-116.195712,
+    "iso:country":"US",
+    "sg:address":"103 W Idaho St",
+    "sg:city":"Boise",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 336 8801",
+    "sg:postcode":"83702",
+    "sg:province":"ID",
+    "sg:tags":[
+        "dentist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85937923,
+        102086087,
+        85876345
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_63JAgFrb6yuZhjfXeB88fA_43.612738_-116.195712@1294099250"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"58340728b704c5f7181ccdeef92c79d0",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086087,
+            "locality_id":85937923,
+            "neighbourhood_id":85876345,
+            "region_id":85688657,
+            "venue_id":169702923
+        }
+    ],
+    "wof:id":169702923,
+    "wof:lastmodified":1449034338,
+    "wof:name":"Terry Reilly Health Svc",
+    "wof:parent_id":85876345,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dentist"
+    ]
+},
+  "bbox": [-116.195712,43.612738,-116.195712,43.612738],
+  "geometry": {"coordinates":[-116.195712,43.612738],"type":"Point"}
+}

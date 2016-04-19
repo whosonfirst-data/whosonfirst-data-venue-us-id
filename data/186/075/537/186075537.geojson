@@ -1,0 +1,66 @@
+{
+  "id": 186075537,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-116.200722,43.616389,-116.200722,43.616389",
+    "geom:latitude":43.616389,
+    "geom:longitude":-116.200722,
+    "iso:country":"US",
+    "sg:address":"619 W Bannock St",
+    "sg:city":"Boise",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 336 0487",
+    "sg:postcode":"83702",
+    "sg:province":"ID",
+    "sg:tags":[
+        "transmission"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85937923,
+        102086087,
+        85876341
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2iRzVE8KdOlV7837q1Vs4g_43.616389_-116.200722@1294099250"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"5b531f8b31f1b37b4cd961015b5b498c",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086087,
+            "locality_id":85937923,
+            "neighbourhood_id":85876341,
+            "region_id":85688657,
+            "venue_id":186075537
+        }
+    ],
+    "wof:id":186075537,
+    "wof:lastmodified":1449051839,
+    "wof:name":"Cottman Transmission Ctr",
+    "wof:parent_id":85876341,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "transmission"
+    ]
+},
+  "bbox": [-116.200722,43.616389,-116.200722,43.616389],
+  "geometry": {"coordinates":[-116.200722,43.616389],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 169610597,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-116.495715,43.874542,-116.495715,43.874542",
+    "geom:latitude":43.874542,
+    "geom:longitude":-116.495715,
+    "iso:country":"US",
+    "sg:address":"405 E 1st St",
+    "sg:city":"Emmett",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 365 5833",
+    "sg:postcode":"83617",
+    "sg:province":"ID",
+    "sg:tags":[
+        "building",
+        "nonresidential"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85937855,
+        102085095
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1hRLsiLR9Jo9PnLGOKW2GP_43.874542_-116.495715@1294099250"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"b36b01ece5812c52c90b8a027362744d",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085095,
+            "locality_id":85937855,
+            "neighbourhood_id":-1,
+            "region_id":85688657,
+            "venue_id":169610597
+        }
+    ],
+    "wof:id":169610597,
+    "wof:lastmodified":1449035912,
+    "wof:name":"Homestead Properties",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "building",
+        "nonresidential"
+    ]
+},
+  "bbox": [-116.495715,43.874542,-116.495715,43.874542],
+  "geometry": {"coordinates":[-116.495715,43.874542],"type":"Point"}
+}

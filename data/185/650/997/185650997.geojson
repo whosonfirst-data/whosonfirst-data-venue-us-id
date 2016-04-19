@@ -1,0 +1,69 @@
+{
+  "id": 185650997,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-116.273971,43.583342,-116.273971,43.583342",
+    "geom:latitude":43.583342,
+    "geom:longitude":-116.273971,
+    "iso:country":"US",
+    "sg:address":"2222 S Cole Rd",
+    "sg:city":"Boise",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 376 8324",
+    "sg:postcode":"83709",
+    "sg:province":"ID",
+    "sg:tags":[
+        "scooter",
+        "motorcycle",
+        "motor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        102086087,
+        85876321
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3yT0l7abUVZohk1HBLQjj0_43.583342_-116.273971@1294099250"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"e4724c5831160bbc5c4b6f96fd29613b",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086087,
+            "locality_id":-1,
+            "neighbourhood_id":85876321,
+            "region_id":85688657,
+            "venue_id":185650997
+        }
+    ],
+    "wof:id":185650997,
+    "wof:lastmodified":1449007597,
+    "wof:name":"Moto Tech",
+    "wof:parent_id":85876321,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "scooter",
+        "motorcycle",
+        "motor"
+    ]
+},
+  "bbox": [-116.273971,43.583342,-116.273971,43.583342],
+  "geometry": {"coordinates":[-116.273971,43.583342],"type":"Point"}
+}

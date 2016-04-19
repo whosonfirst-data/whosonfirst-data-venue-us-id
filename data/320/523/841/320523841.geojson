@@ -1,0 +1,83 @@
+{
+  "id": 320523841,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-116.96812,46.375055,-116.96812,46.375055",
+    "geom:latitude":46.375055,
+    "geom:longitude":-116.96812,
+    "iso:country":"US",
+    "sg:address":"514 Thain Rd",
+    "sg:city":"Lewiston",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Nursing And Care Facility",
+            "type":"Services"
+        },
+        {
+            "category":"Health Services",
+            "subcategory":"Health Practitioner",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 746 3017",
+    "sg:postcode":"83501",
+    "sg:province":"ID",
+    "sg:tags":[
+        "home",
+        "eldercare-home"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85937743,
+        102086039,
+        85837769,
+        85830385
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0vBiHLRVPFV2mcSq4OcdBk_46.375055_-116.968120@1303263095"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"0f127ace8b038f8d5cbfd05fad1194b0",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086039,
+            "locality_id":85937743,
+            "neighbourhood_id":85837769,
+            "region_id":85688657,
+            "venue_id":320523841
+        },
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086039,
+            "locality_id":85937743,
+            "neighbourhood_id":85830385,
+            "region_id":85688657,
+            "venue_id":320523841
+        }
+    ],
+    "wof:id":320523841,
+    "wof:lastmodified":1449013413,
+    "wof:name":"Care Connection Home Care",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "home",
+        "eldercare-home"
+    ]
+},
+  "bbox": [-116.96812,46.375055,-116.96812,46.375055],
+  "geometry": {"coordinates":[-116.96812,46.375055],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 186251977,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-113.80315,42.536428,-113.80315,42.536428",
+    "geom:latitude":42.536428,
+    "geom:longitude":-113.80315,
+    "iso:country":"US",
+    "sg:address":"1320 Park Ave",
+    "sg:city":"Burley",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 678 7560",
+    "sg:postcode":"83318",
+    "sg:province":"ID",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85937773,
+        102086095
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5Si4HkvHCwjyY8tg62PlMW_42.536428_-113.803150@1294099250"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"e20ac18313952bbea6c31f8ea5ca3834",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086095,
+            "locality_id":85937773,
+            "neighbourhood_id":-1,
+            "region_id":85688657,
+            "venue_id":186251977
+        }
+    ],
+    "wof:id":186251977,
+    "wof:lastmodified":1449050315,
+    "wof:name":"Don's Repair",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [-113.80315,42.536428,-113.80315,42.536428],
+  "geometry": {"coordinates":[-113.80315,42.536428],"type":"Point"}
+}

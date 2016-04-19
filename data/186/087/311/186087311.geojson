@@ -1,0 +1,66 @@
+{
+  "id": 186087311,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-116.562804,43.579323,-116.562804,43.579323",
+    "geom:latitude":43.579323,
+    "geom:longitude":-116.562804,
+    "iso:country":"US",
+    "sg:address":"1015 2nd St S",
+    "sg:city":"Nampa",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Laundry & Dry Cleaning",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 466 0211",
+    "sg:postcode":"83651",
+    "sg:province":"ID",
+    "sg:tags":[
+        "cleaners"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85938009,
+        102085081,
+        85827787
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_74sFM6aWf1pmYcjo9OOY8S_43.579323_-116.562804@1294099250"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"ad80495d05e529a0b62ca7ddc1a84e39",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085081,
+            "locality_id":85938009,
+            "neighbourhood_id":85827787,
+            "region_id":85688657,
+            "venue_id":186087311
+        }
+    ],
+    "wof:id":186087311,
+    "wof:lastmodified":1449051613,
+    "wof:name":"Nampa Dry Cleaners",
+    "wof:parent_id":85827787,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cleaners"
+    ]
+},
+  "bbox": [-116.562804,43.579323,-116.562804,43.579323],
+  "geometry": {"coordinates":[-116.562804,43.579323],"type":"Point"}
+}

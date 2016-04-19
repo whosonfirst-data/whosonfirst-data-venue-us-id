@@ -1,0 +1,68 @@
+{
+  "id": 185766431,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-116.127342,47.542672,-116.127342,47.542672",
+    "geom:latitude":47.542672,
+    "geom:longitude":-116.127342,
+    "iso:country":"US",
+    "sg:address":"204 Oregon St",
+    "sg:city":"Kellogg",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"School",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 783 5205",
+    "sg:postcode":"83837",
+    "sg:province":"ID",
+    "sg:tags":[
+        "academic",
+        "special"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85937825,
+        102086103,
+        85849049
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_70yFqpUs9vUHbZ4rlPd7tX_47.542672_-116.127342@1294099250"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"d22b894cef992f6acd9e31798393b25d",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086103,
+            "locality_id":85937825,
+            "neighbourhood_id":85849049,
+            "region_id":85688657,
+            "venue_id":185766431
+        }
+    ],
+    "wof:id":185766431,
+    "wof:lastmodified":1449006576,
+    "wof:name":"Silver Valley Learning Ctr",
+    "wof:parent_id":85849049,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "academic",
+        "special"
+    ]
+},
+  "bbox": [-116.127342,47.542672,-116.127342,47.542672],
+  "geometry": {"coordinates":[-116.127342,47.542672],"type":"Point"}
+}

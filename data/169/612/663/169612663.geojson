@@ -1,0 +1,67 @@
+{
+  "id": 169612663,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-112.443643,42.866554,-112.443643,42.866554",
+    "geom:latitude":42.866554,
+    "geom:longitude":-112.443643,
+    "iso:country":"US",
+    "sg:address":"508 E Center St",
+    "sg:city":"Pocatello",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Shoe Repair & Shine",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 233 1370",
+    "sg:postcode":"83201",
+    "sg:province":"ID",
+    "sg:tags":[
+        "repairing",
+        "boot"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85937925,
+        102086113
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3uzpyGEPpnY5fGMt8kRoJ6_42.866554_-112.443643@1294099250"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"a9263428b9e6fed6850841492063ceed",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086113,
+            "locality_id":85937925,
+            "neighbourhood_id":-1,
+            "region_id":85688657,
+            "venue_id":169612663
+        }
+    ],
+    "wof:id":169612663,
+    "wof:lastmodified":1449034132,
+    "wof:name":"Meyers Shoe Repair",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "boot"
+    ]
+},
+  "bbox": [-112.443643,42.866554,-112.443643,42.866554],
+  "geometry": {"coordinates":[-112.443643,42.866554],"type":"Point"}
+}

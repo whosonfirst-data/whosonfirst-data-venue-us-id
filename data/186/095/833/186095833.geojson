@@ -1,0 +1,67 @@
+{
+  "id": 186095833,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-112.068166,43.496831,-112.068166,43.496831",
+    "geom:latitude":43.496831,
+    "geom:longitude":-112.068166,
+    "iso:country":"US",
+    "sg:address":"1810 W Broadway St",
+    "sg:city":"Idaho Falls",
+    "sg:classifiers":[
+        {
+            "category":"Local Transit",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 529 1489",
+    "sg:postcode":"83402",
+    "sg:province":"ID",
+    "sg:tags":[
+        "bus",
+        "line"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85937963,
+        102085163
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2w3yr1esXsecN6uQQ2OmIL_43.496831_-112.068166@1294099250"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"1941b2c6e5f859bee11efdee393eaf69",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085163,
+            "locality_id":85937963,
+            "neighbourhood_id":-1,
+            "region_id":85688657,
+            "venue_id":186095833
+        }
+    ],
+    "wof:id":186095833,
+    "wof:lastmodified":1449051728,
+    "wof:name":"PTA Public Transit Authority",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "bus",
+        "line"
+    ]
+},
+  "bbox": [-112.068166,43.496831,-112.068166,43.496831],
+  "geometry": {"coordinates":[-112.068166,43.496831],"type":"Point"}
+}

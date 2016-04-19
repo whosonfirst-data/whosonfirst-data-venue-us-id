@@ -1,0 +1,68 @@
+{
+  "id": 186186227,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-116.273946,43.58705,-116.273946,43.58705",
+    "geom:latitude":43.58705,
+    "geom:longitude":-116.273946,
+    "iso:country":"US",
+    "sg:address":"2050 Century Way",
+    "sg:city":"Boise",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 376 0795",
+    "sg:postcode":"83709",
+    "sg:province":"ID",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85937923,
+        102086087,
+        85825393
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5JpmD3Ns35Pom91Nm5oblG_43.587050_-116.273946@1294099250"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"3069aa12d5049bf63cbd7ce2a5047e62",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086087,
+            "locality_id":85937923,
+            "neighbourhood_id":85825393,
+            "region_id":85688657,
+            "venue_id":186186227
+        }
+    ],
+    "wof:id":186186227,
+    "wof:lastmodified":1449052418,
+    "wof:name":"Gt Sales & Svc",
+    "wof:parent_id":85825393,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [-116.273946,43.58705,-116.273946,43.58705],
+  "geometry": {"coordinates":[-116.273946,43.58705],"type":"Point"}
+}

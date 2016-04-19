@@ -1,0 +1,80 @@
+{
+  "id": 169614341,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-116.786719,47.714841,-116.786719,47.714841",
+    "geom:latitude":47.714841,
+    "geom:longitude":-116.786719,
+    "iso:country":"US",
+    "sg:address":"4057 N Government Way",
+    "sg:city":"Coeur D Alene",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 664 2030",
+    "sg:postcode":"83815",
+    "sg:province":"ID",
+    "sg:tags":[
+        "repairing",
+        "automobile",
+        "radiator"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85938163,
+        102086085,
+        85806325,
+        85821457
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2tqlHTR2D86WE662eCTvWJ_47.714841_-116.786719@1294099250"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"0e657e49fc60a5501d5eb8af6e48e29d",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086085,
+            "locality_id":85938163,
+            "neighbourhood_id":85806325,
+            "region_id":85688657,
+            "venue_id":169614341
+        },
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086085,
+            "locality_id":-1,
+            "neighbourhood_id":85821457,
+            "region_id":85688657,
+            "venue_id":169614341
+        }
+    ],
+    "wof:id":169614341,
+    "wof:lastmodified":1449036060,
+    "wof:name":"Lake City Radiator & Auto AC",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile",
+        "radiator"
+    ]
+},
+  "bbox": [-116.786719,47.714841,-116.786719,47.714841],
+  "geometry": {"coordinates":[-116.786719,47.714841],"type":"Point"}
+}

@@ -1,0 +1,65 @@
+{
+  "id": 185766069,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-116.780613,47.685588,-116.780613,47.685588",
+    "geom:latitude":47.685588,
+    "geom:longitude":-116.780613,
+    "iso:country":"US",
+    "sg:address":"1136 N 4th St",
+    "sg:city":"Coeur D Alene",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Laundry & Dry Cleaning",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 765 8900",
+    "sg:postcode":"83814",
+    "sg:province":"ID",
+    "sg:tags":[
+        "cleaners"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        102086085,
+        85821457
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2vhsZXpM6iVkYJysuvJjpm_47.685588_-116.780613@1294099250"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"1700c569be13cbb595810ceac8f08d89",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086085,
+            "locality_id":-1,
+            "neighbourhood_id":85821457,
+            "region_id":85688657,
+            "venue_id":185766069
+        }
+    ],
+    "wof:id":185766069,
+    "wof:lastmodified":1449006580,
+    "wof:name":"Cleaning & Laundry Village",
+    "wof:parent_id":85821457,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cleaners"
+    ]
+},
+  "bbox": [-116.780613,47.685588,-116.780613,47.685588],
+  "geometry": {"coordinates":[-116.780613,47.685588],"type":"Point"}
+}

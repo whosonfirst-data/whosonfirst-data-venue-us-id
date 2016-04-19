@@ -1,0 +1,73 @@
+{
+  "id": 320533883,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-116.354506,43.590207,-116.354506,43.590207",
+    "geom:latitude":43.590207,
+    "geom:longitude":-116.354506,
+    "iso:country":"US",
+    "sg:address":"1630 S Eagle Rd Ste 100",
+    "sg:city":"Meridian",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Ice Cream",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 888 4205",
+    "sg:postcode":"83642",
+    "sg:province":"ID",
+    "sg:tags":[
+        "frozen",
+        "dessert"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85937915,
+        102086087,
+        85805083
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3zExU6BMIY5yJ56TsgY6SB_43.590207_-116.354506@1303263095"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"159a60d8869990c532db9936d928f1b8",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086087,
+            "locality_id":85937915,
+            "neighbourhood_id":85805083,
+            "region_id":85688657,
+            "venue_id":320533883
+        }
+    ],
+    "wof:id":320533883,
+    "wof:lastmodified":1449011216,
+    "wof:name":"Tcby",
+    "wof:parent_id":85805083,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "frozen",
+        "dessert"
+    ]
+},
+  "bbox": [-116.354506,43.590207,-116.354506,43.590207],
+  "geometry": {"coordinates":[-116.354506,43.590207],"type":"Point"}
+}

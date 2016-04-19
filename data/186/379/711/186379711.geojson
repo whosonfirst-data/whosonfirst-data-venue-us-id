@@ -1,0 +1,66 @@
+{
+  "id": 186379711,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-116.25696,43.65471,-116.25696,43.65471",
+    "geom:latitude":43.65471,
+    "geom:longitude":-116.25696,
+    "iso:country":"US",
+    "sg:address":"5550 W State St",
+    "sg:city":"Boise",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Motorcycle Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 853 5550",
+    "sg:postcode":"83703",
+    "sg:province":"ID",
+    "sg:tags":[
+        "scooter"
+    ],
+    "sg:website":"www.carlscycle.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        102086087,
+        85811879
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2d3sK6Tux3Pgma6MwOrCpl_43.654710_-116.256960@1294099250"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"a98c5dca7d01dbb2a296f5ed88299fb9",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086087,
+            "locality_id":-1,
+            "neighbourhood_id":85811879,
+            "region_id":85688657,
+            "venue_id":186379711
+        }
+    ],
+    "wof:id":186379711,
+    "wof:lastmodified":1449051934,
+    "wof:name":"Carl's Cycles",
+    "wof:parent_id":85811879,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "scooter"
+    ]
+},
+  "bbox": [-116.25696,43.65471,-116.25696,43.65471],
+  "geometry": {"coordinates":[-116.25696,43.65471],"type":"Point"}
+}

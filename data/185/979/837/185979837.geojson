@@ -1,0 +1,67 @@
+{
+  "id": 185979837,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-116.948086,47.709556,-116.948086,47.709556",
+    "geom:latitude":47.709556,
+    "geom:longitude":-116.948086,
+    "iso:country":"US",
+    "sg:address":"323 N Spokane St",
+    "sg:city":"Post Falls",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 777 1320",
+    "sg:postcode":"83854",
+    "sg:province":"ID",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        102086085,
+        85833263
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4Evvc59vImLxklAzKK3Zz2_47.709556_-116.948086@1294099250"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"98e3c0d972bcdb3f9d465ad2edd456f5",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086085,
+            "locality_id":-1,
+            "neighbourhood_id":85833263,
+            "region_id":85688657,
+            "venue_id":185979837
+        }
+    ],
+    "wof:id":185979837,
+    "wof:lastmodified":1449007734,
+    "wof:name":"St Joseph's Audiology",
+    "wof:parent_id":85833263,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [-116.948086,47.709556,-116.948086,47.709556],
+  "geometry": {"coordinates":[-116.948086,47.709556],"type":"Point"}
+}

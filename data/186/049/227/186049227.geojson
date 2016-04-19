@@ -1,0 +1,66 @@
+{
+  "id": 186049227,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-117.021706,46.40822,-117.021706,46.40822",
+    "geom:latitude":46.40822,
+    "geom:longitude":-117.021706,
+    "iso:country":"US",
+    "sg:address":"1234 8th St",
+    "sg:city":"Lewiston",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 746 7922",
+    "sg:postcode":"83501",
+    "sg:province":"ID",
+    "sg:tags":[
+        "grocer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85937743,
+        102086039,
+        85837769
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5dVvPX2wk4rL9GeMM16Avv_46.408220_-117.021706@1294099250"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"a8d456ac057dde44e0c3d3d7a45afd8c",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086039,
+            "locality_id":85937743,
+            "neighbourhood_id":85837769,
+            "region_id":85688657,
+            "venue_id":186049227
+        }
+    ],
+    "wof:id":186049227,
+    "wof:lastmodified":1449051705,
+    "wof:name":"A & B's Foods",
+    "wof:parent_id":85837769,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "grocer"
+    ]
+},
+  "bbox": [-117.021706,46.40822,-117.021706,46.40822],
+  "geometry": {"coordinates":[-117.021706,46.40822],"type":"Point"}
+}

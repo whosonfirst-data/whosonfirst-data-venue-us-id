@@ -1,0 +1,66 @@
+{
+  "id": 169619459,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-116.805912,46.404202,-116.805912,46.404202",
+    "geom:latitude":46.404202,
+    "geom:longitude":-116.805912,
+    "iso:country":"US",
+    "sg:address":"118 W Alder Ave",
+    "sg:city":"Lapwai",
+    "sg:classifiers":[
+        {
+            "category":"Local Transit",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 843 7170",
+    "sg:postcode":"83540",
+    "sg:province":"ID",
+    "sg:tags":[
+        "ambulance"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85937743,
+        102086039,
+        85837769
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_44bjDc5ATh4ynFVFGTarZX_46.404202_-116.805912@1294099250"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"24828e0178fc101b9dc47a9f1031f0c2",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086039,
+            "locality_id":85937743,
+            "neighbourhood_id":85837769,
+            "region_id":85688657,
+            "venue_id":169619459
+        }
+    ],
+    "wof:id":169619459,
+    "wof:lastmodified":1449033282,
+    "wof:name":"Lapwai Valley QRU",
+    "wof:parent_id":85837769,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "ambulance"
+    ]
+},
+  "bbox": [-116.805912,46.404202,-116.805912,46.404202],
+  "geometry": {"coordinates":[-116.805912,46.404202],"type":"Point"}
+}

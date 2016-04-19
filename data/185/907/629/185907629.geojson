@@ -1,0 +1,67 @@
+{
+  "id": 185907629,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-116.254317,43.65223,-116.254317,43.65223",
+    "geom:latitude":43.65223,
+    "geom:longitude":-116.254317,
+    "iso:country":"US",
+    "sg:address":"3050 N Lakeharbor Ln",
+    "sg:city":"Boise",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 334 1843",
+    "sg:postcode":"83703",
+    "sg:province":"ID",
+    "sg:tags":[
+        "paving",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        102086087,
+        85811879
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1JKWGDHoCQT3yfi2Mtz28E_43.652230_-116.254317@1294099250"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"560c6719137f3118d709fef28bc0b9d2",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086087,
+            "locality_id":-1,
+            "neighbourhood_id":85811879,
+            "region_id":85688657,
+            "venue_id":185907629
+        }
+    ],
+    "wof:id":185907629,
+    "wof:lastmodified":1449008096,
+    "wof:name":"US Federal Highway Adm",
+    "wof:parent_id":85811879,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "paving",
+        "contractor"
+    ]
+},
+  "bbox": [-116.254317,43.65223,-116.254317,43.65223],
+  "geometry": {"coordinates":[-116.254317,43.65223],"type":"Point"}
+}

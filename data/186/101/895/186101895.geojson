@@ -1,0 +1,71 @@
+{
+  "id": 186101895,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-114.75985,42.598921,-114.75985,42.598921",
+    "geom:latitude":42.598921,
+    "geom:longitude":-114.75985,
+    "iso:country":"US",
+    "sg:address":"1014 Main St",
+    "sg:city":"Buhl",
+    "sg:classifiers":[
+        {
+            "category":"Cinema",
+            "subcategory":"Movie Rental",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 543 4301",
+    "sg:postcode":"83316",
+    "sg:province":"ID",
+    "sg:tags":[
+        "leasing",
+        "video",
+        "disc",
+        "tape"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85937891,
+        102085153
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2kLaRjfZ1bEA6ToGe0eh0I_42.598921_-114.759850@1294099250"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"1745127851daacbc704c957a989b72cb",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085153,
+            "locality_id":85937891,
+            "neighbourhood_id":-1,
+            "region_id":85688657,
+            "venue_id":186101895
+        }
+    ],
+    "wof:id":186101895,
+    "wof:lastmodified":1449051784,
+    "wof:name":"Video Village",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "leasing",
+        "video",
+        "disc",
+        "tape"
+    ]
+},
+  "bbox": [-114.75985,42.598921,-114.75985,42.598921],
+  "geometry": {"coordinates":[-114.75985,42.598921],"type":"Point"}
+}

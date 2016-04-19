@@ -1,0 +1,87 @@
+{
+  "id": 320542005,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-116.297727,43.619469,-116.297727,43.619469",
+    "geom:latitude":43.619469,
+    "geom:longitude":-116.297727,
+    "iso:country":"US",
+    "sg:address":"9309 W Fairview Ave",
+    "sg:city":"Boise",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Auto Supplies",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Car Wash",
+            "type":"Services"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 376 4992",
+    "sg:postcode":"83704",
+    "sg:province":"ID",
+    "sg:tags":[
+        "body",
+        "repairing",
+        "automobile",
+        "detailing",
+        "part",
+        "painting"
+    ],
+    "sg:website":"http://Boise.maaco.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85937923,
+        102086087,
+        85876309
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2zeZUxTmvH0MChrftZEFPE_43.619469_-116.297727@1303263095"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"a69cbf3c656c3d31620afc4d3a7501b4",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086087,
+            "locality_id":85937923,
+            "neighbourhood_id":85876309,
+            "region_id":85688657,
+            "venue_id":320542005
+        }
+    ],
+    "wof:id":320542005,
+    "wof:lastmodified":1449014135,
+    "wof:name":"Maaco - Boise",
+    "wof:parent_id":85876309,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body",
+        "repairing",
+        "automobile",
+        "detailing",
+        "part",
+        "painting"
+    ]
+},
+  "bbox": [-116.297727,43.619469,-116.297727,43.619469],
+  "geometry": {"coordinates":[-116.297727,43.619469],"type":"Point"}
+}

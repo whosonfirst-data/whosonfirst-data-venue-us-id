@@ -1,0 +1,66 @@
+{
+  "id": 186129839,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-116.241378,43.622512,-116.241378,43.622512",
+    "geom:latitude":43.622512,
+    "geom:longitude":-116.241378,
+    "iso:country":"US",
+    "sg:address":"104 W 35th St",
+    "sg:city":"Boise",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 344 7242",
+    "sg:postcode":"83714",
+    "sg:province":"ID",
+    "sg:tags":[
+        "transmission"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85937923,
+        102086087,
+        85876301
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1u3iKsFgSy38ukCrBm4awJ_43.622512_-116.241378@1294099250"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"4ce8ccf0b49ee3998a72c085ba8acffc",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086087,
+            "locality_id":85937923,
+            "neighbourhood_id":85876301,
+            "region_id":85688657,
+            "venue_id":186129839
+        }
+    ],
+    "wof:id":186129839,
+    "wof:lastmodified":1449052492,
+    "wof:name":"Fergy's Auto Clinic",
+    "wof:parent_id":85876301,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "transmission"
+    ]
+},
+  "bbox": [-116.241378,43.622512,-116.241378,43.622512],
+  "geometry": {"coordinates":[-116.241378,43.622512],"type":"Point"}
+}

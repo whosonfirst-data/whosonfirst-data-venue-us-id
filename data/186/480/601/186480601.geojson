@@ -1,0 +1,67 @@
+{
+  "id": 186480601,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-116.213726,43.578295,-116.213726,43.578295",
+    "geom:latitude":43.578295,
+    "geom:longitude":-116.213726,
+    "iso:country":"US",
+    "sg:address":"2717 Vista Ave",
+    "sg:city":"Boise",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Police Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 331 3424",
+    "sg:postcode":"83705",
+    "sg:province":"ID",
+    "sg:tags":[
+        "department"
+    ],
+    "sg:website":"www.cityofboise.org",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85937923,
+        102086087,
+        85876343
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3l9N4P86tAbalQ4RZN49Tg_43.578295_-116.213726@1294099250"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"924ebdbb53ec4e229174c40a66c5166e",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086087,
+            "locality_id":85937923,
+            "neighbourhood_id":85876343,
+            "region_id":85688657,
+            "venue_id":186480601
+        }
+    ],
+    "wof:id":186480601,
+    "wof:lastmodified":1449051265,
+    "wof:name":"Boise Police Dept",
+    "wof:parent_id":85876343,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "department"
+    ]
+},
+  "bbox": [-116.213726,43.578295,-116.213726,43.578295],
+  "geometry": {"coordinates":[-116.213726,43.578295],"type":"Point"}
+}

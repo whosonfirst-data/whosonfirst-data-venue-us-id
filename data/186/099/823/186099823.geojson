@@ -1,0 +1,66 @@
+{
+  "id": 186099823,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-116.206737,43.586159,-116.206737,43.586159",
+    "geom:latitude":43.586159,
+    "geom:longitude":-116.206737,
+    "iso:country":"US",
+    "sg:address":"2103 Spaulding St",
+    "sg:city":"Boise",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Cleaning & Sanitation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 336 5009",
+    "sg:postcode":"83705",
+    "sg:province":"ID",
+    "sg:tags":[
+        "janitor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85937923,
+        102086087,
+        85876343
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1S04DKdhXwtIEjr9rpGtZq_43.586159_-116.206737@1294099250"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"7f22aff814795868f61316bb206f6abf",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086087,
+            "locality_id":85937923,
+            "neighbourhood_id":85876343,
+            "region_id":85688657,
+            "venue_id":186099823
+        }
+    ],
+    "wof:id":186099823,
+    "wof:lastmodified":1449052120,
+    "wof:name":"M & M Maintenance",
+    "wof:parent_id":85876343,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "janitor"
+    ]
+},
+  "bbox": [-116.206737,43.586159,-116.206737,43.586159],
+  "geometry": {"coordinates":[-116.206737,43.586159],"type":"Point"}
+}

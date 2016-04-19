@@ -1,0 +1,71 @@
+{
+  "id": 185891369,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-116.206938,43.643171,-116.206938,43.643171",
+    "geom:latitude":43.643171,
+    "geom:longitude":-116.206938,
+    "iso:country":"US",
+    "sg:address":"2600 Bogus Basin Rd",
+    "sg:city":"Boise",
+    "sg:classifiers":[
+        {
+            "category":"Travel",
+            "subcategory":"Hotels & Motels",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 342 2100",
+    "sg:postcode":"83702",
+    "sg:province":"ID",
+    "sg:tags":[
+        "resort",
+        "center",
+        "skiing"
+    ],
+    "sg:website":"www.bogusbasin.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85937923,
+        102086087,
+        85876313
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0FAy2Kpa4samOaGqYmAero_43.643171_-116.206938@1294099250"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"9017194ad47e19bdf4e37ddf7a5a38c4",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086087,
+            "locality_id":85937923,
+            "neighbourhood_id":85876313,
+            "region_id":85688657,
+            "venue_id":185891369
+        }
+    ],
+    "wof:id":185891369,
+    "wof:lastmodified":1449007590,
+    "wof:name":"Bogus Basin Ski Resort",
+    "wof:parent_id":85876313,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "resort",
+        "center",
+        "skiing"
+    ]
+},
+  "bbox": [-116.206938,43.643171,-116.206938,43.643171],
+  "geometry": {"coordinates":[-116.206938,43.643171],"type":"Point"}
+}

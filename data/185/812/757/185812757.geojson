@@ -1,0 +1,66 @@
+{
+  "id": 185812757,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-116.212633,43.624745,-116.212633,43.624745",
+    "geom:latitude":43.624745,
+    "geom:longitude":-116.212633,
+    "iso:country":"US",
+    "sg:address":"1890 W State St",
+    "sg:city":"Boise",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Veterinary Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 343 2539",
+    "sg:postcode":"83702",
+    "sg:province":"ID",
+    "sg:tags":[
+        "veterinarian"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85937923,
+        102086087,
+        85876355
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1Z02bqS558ecwxiE7VpPvz_43.624745_-116.212633@1294099250"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"5992eb6bee03a0d485f3376225595aa6",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086087,
+            "locality_id":85937923,
+            "neighbourhood_id":85876355,
+            "region_id":85688657,
+            "venue_id":185812757
+        }
+    ],
+    "wof:id":185812757,
+    "wof:lastmodified":1449006625,
+    "wof:name":"Les Bois Veterinary Hospital",
+    "wof:parent_id":85876355,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "veterinarian"
+    ]
+},
+  "bbox": [-116.212633,43.624745,-116.212633,43.624745],
+  "geometry": {"coordinates":[-116.212633,43.624745],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 185626103,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-116.525766,43.590619,-116.525766,43.590619",
+    "geom:latitude":43.590619,
+    "geom:longitude":-116.525766,
+    "iso:country":"US",
+    "sg:address":"3712 Garrity Blvd",
+    "sg:city":"Nampa",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 467 2074",
+    "sg:postcode":"83687",
+    "sg:province":"ID",
+    "sg:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85938009,
+        102085081,
+        85827787
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_45hUJYZ0FtiMMpDFMiOCgt_43.590619_-116.525766@1294099250"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"e825eb3759efce93ea69a68018e17663",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085081,
+            "locality_id":85938009,
+            "neighbourhood_id":85827787,
+            "region_id":85688657,
+            "venue_id":185626103
+        }
+    ],
+    "wof:id":185626103,
+    "wof:lastmodified":1449008211,
+    "wof:name":"Nazareth Auto Body",
+    "wof:parent_id":85827787,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ]
+},
+  "bbox": [-116.525766,43.590619,-116.525766,43.590619],
+  "geometry": {"coordinates":[-116.525766,43.590619],"type":"Point"}
+}

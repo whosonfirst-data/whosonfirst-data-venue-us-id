@@ -1,0 +1,76 @@
+{
+  "id": 320525999,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-116.972713,46.378236,-116.972713,46.378236",
+    "geom:latitude":46.378236,
+    "geom:longitude":-116.972713,
+    "iso:country":"US",
+    "sg:address":"450 Thain Rd",
+    "sg:city":"Lewiston",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        },
+        {
+            "category":"Personal",
+            "subcategory":"Skin Care",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 798 3311",
+    "sg:postcode":"83501",
+    "sg:province":"ID",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85937743,
+        102086039,
+        85837769,
+        85830385
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3FoO4bTHZu7DIPmCDN3LNt_46.378236_-116.972713@1303263095"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"cfa7c04a5c2b7de3f797f25de498e087",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086039,
+            "locality_id":85937743,
+            "neighbourhood_id":85837769,
+            "region_id":85688657,
+            "venue_id":320525999
+        },
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086039,
+            "locality_id":85937743,
+            "neighbourhood_id":85830385,
+            "region_id":85688657,
+            "venue_id":320525999
+        }
+    ],
+    "wof:id":320525999,
+    "wof:lastmodified":1449014190,
+    "wof:name":"Radiance Facial Spa",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-116.972713,46.378236,-116.972713,46.378236],
+  "geometry": {"coordinates":[-116.972713,46.378236],"type":"Point"}
+}

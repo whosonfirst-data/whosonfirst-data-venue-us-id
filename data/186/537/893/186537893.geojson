@@ -1,0 +1,68 @@
+{
+  "id": 186537893,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-116.2033,43.626621,-116.2033,43.626621",
+    "geom:latitude":43.626621,
+    "geom:longitude":-116.2033,
+    "iso:country":"US",
+    "sg:address":"1002 N 13th St",
+    "sg:city":"Boise",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Health Practitioner",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 367 1528",
+    "sg:postcode":"83702",
+    "sg:province":"ID",
+    "sg:tags":[
+        "therapist",
+        "physical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85937923,
+        102086087,
+        85876313
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6LjbKe6UCnEQQzBQ89VbnW_43.626621_-116.203300@1294099250"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"2374c962550473922c363460402a6e94",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086087,
+            "locality_id":85937923,
+            "neighbourhood_id":85876313,
+            "region_id":85688657,
+            "venue_id":186537893
+        }
+    ],
+    "wof:id":186537893,
+    "wof:lastmodified":1449051048,
+    "wof:name":"Focus Physical Therapy",
+    "wof:parent_id":85876313,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "therapist",
+        "physical"
+    ]
+},
+  "bbox": [-116.2033,43.626621,-116.2033,43.626621],
+  "geometry": {"coordinates":[-116.2033,43.626621],"type":"Point"}
+}

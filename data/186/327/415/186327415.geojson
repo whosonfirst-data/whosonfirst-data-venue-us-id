@@ -1,0 +1,68 @@
+{
+  "id": 186327415,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-112.43096,42.868399,-112.43096,42.868399",
+    "geom:latitude":42.868399,
+    "geom:longitude":-112.43096,
+    "iso:country":"US",
+    "sg:address":"560 Memorial Dr",
+    "sg:city":"Pocatello",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 234 1960",
+    "sg:postcode":"83201",
+    "sg:province":"ID",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "sg:website":"www.idaortho.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85937925,
+        102086113
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6ZERqoSLu9jmvf00IxLdnd_42.868399_-112.430960@1294099250"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"11fc8d402d0b83306a4a0e5e7a1e58d7",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086113,
+            "locality_id":85937925,
+            "neighbourhood_id":-1,
+            "region_id":85688657,
+            "venue_id":186327415
+        }
+    ],
+    "wof:id":186327415,
+    "wof:lastmodified":1449050449,
+    "wof:name":"Idaho Orthopedic & Sports Clnc",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [-112.43096,42.868399,-112.43096,42.868399],
+  "geometry": {"coordinates":[-112.43096,42.868399],"type":"Point"}
+}

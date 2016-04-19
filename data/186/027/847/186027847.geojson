@@ -1,0 +1,69 @@
+{
+  "id": 186027847,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-116.927948,47.715976,-116.927948,47.715976",
+    "geom:latitude":47.715976,
+    "geom:longitude":-116.927948,
+    "iso:country":"US",
+    "sg:address":"1573 E Mullan Ave",
+    "sg:city":"Post Falls",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 773 3976",
+    "sg:postcode":"83854",
+    "sg:province":"ID",
+    "sg:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        102086085,
+        85833263
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3bQrS1thZwL2KM8mJ25LNM_47.715976_-116.927948@1294099250"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"f1a89c2e0f40dda28a8d962541c1b9a5",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086085,
+            "locality_id":-1,
+            "neighbourhood_id":85833263,
+            "region_id":85688657,
+            "venue_id":186027847
+        }
+    ],
+    "wof:id":186027847,
+    "wof:lastmodified":1449050907,
+    "wof:name":"Joe's Autoworks",
+    "wof:parent_id":85833263,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ]
+},
+  "bbox": [-116.927948,47.715976,-116.927948,47.715976],
+  "geometry": {"coordinates":[-116.927948,47.715976],"type":"Point"}
+}

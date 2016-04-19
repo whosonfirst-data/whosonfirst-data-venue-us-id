@@ -1,0 +1,69 @@
+{
+  "id": 186335627,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-112.462547,42.872393,-112.462547,42.872393",
+    "geom:latitude":42.872393,
+    "geom:longitude":-112.462547,
+    "iso:country":"US",
+    "sg:address":"1450 N Main St",
+    "sg:city":"Pocatello",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 233 3472",
+    "sg:postcode":"83204",
+    "sg:province":"ID",
+    "sg:tags":[
+        "repairing",
+        "automobile",
+        "radiator"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85937925,
+        102086113
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_60INF6URbxL7339lD4e6M0_42.872393_-112.462547@1294099250"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"d4097219a709a8ddd0f9503d30654b5c",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086113,
+            "locality_id":85937925,
+            "neighbourhood_id":-1,
+            "region_id":85688657,
+            "venue_id":186335627
+        }
+    ],
+    "wof:id":186335627,
+    "wof:lastmodified":1449052138,
+    "wof:name":"North Main Radiator",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile",
+        "radiator"
+    ]
+},
+  "bbox": [-112.462547,42.872393,-112.462547,42.872393],
+  "geometry": {"coordinates":[-112.462547,42.872393],"type":"Point"}
+}

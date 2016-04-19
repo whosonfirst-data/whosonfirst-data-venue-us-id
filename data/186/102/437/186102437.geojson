@@ -1,0 +1,68 @@
+{
+  "id": 186102437,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-116.382353,43.600566,-116.382353,43.600566",
+    "geom:latitude":43.600566,
+    "geom:longitude":-116.382353,
+    "iso:country":"US",
+    "sg:address":"1090 E Watertower St",
+    "sg:city":"Meridian",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 334 4057",
+    "sg:postcode":"83642",
+    "sg:province":"ID",
+    "sg:tags":[
+        "road",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85937915,
+        102086087,
+        85805083
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4yJWISaJT1FHb0oU926cQm_43.600566_-116.382353@1294099250"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"8c07185162fbcd88b8d39720f5158c11",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086087,
+            "locality_id":85937915,
+            "neighbourhood_id":85805083,
+            "region_id":85688657,
+            "venue_id":186102437
+        }
+    ],
+    "wof:id":186102437,
+    "wof:lastmodified":1449052828,
+    "wof:name":"Public Works Contractors Board",
+    "wof:parent_id":85805083,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "road",
+        "contractor"
+    ]
+},
+  "bbox": [-116.382353,43.600566,-116.382353,43.600566],
+  "geometry": {"coordinates":[-116.382353,43.600566],"type":"Point"}
+}

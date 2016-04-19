@@ -1,0 +1,68 @@
+{
+  "id": 169698961,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-116.192154,43.560334,-116.192154,43.560334",
+    "geom:latitude":43.560334,
+    "geom:longitude":-116.192154,
+    "iso:country":"US",
+    "sg:address":"665 W Amity Rd",
+    "sg:city":"Boise",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 947 0028",
+    "sg:postcode":"83705",
+    "sg:province":"ID",
+    "sg:tags":[
+        "refrigerator",
+        "freezer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85937923,
+        102086087,
+        85876329
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0za0FbU3SqfqV5ZgMzGAQS_43.560334_-116.192154@1294099250"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"052e0cdf3675dffa5beaff98e1f9b810",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086087,
+            "locality_id":85937923,
+            "neighbourhood_id":85876329,
+            "region_id":85688657,
+            "venue_id":169698961
+        }
+    ],
+    "wof:id":169698961,
+    "wof:lastmodified":1449035756,
+    "wof:name":"Thermo King Intermountain",
+    "wof:parent_id":85876329,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "refrigerator",
+        "freezer"
+    ]
+},
+  "bbox": [-116.192154,43.560334,-116.192154,43.560334],
+  "geometry": {"coordinates":[-116.192154,43.560334],"type":"Point"}
+}

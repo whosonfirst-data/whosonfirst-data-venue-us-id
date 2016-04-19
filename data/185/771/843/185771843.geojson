@@ -1,0 +1,79 @@
+{
+  "id": 185771843,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-116.799426,47.702138,-116.799426,47.702138",
+    "geom:latitude":47.702138,
+    "geom:longitude":-116.799426,
+    "iso:country":"US",
+    "sg:address":"2710 N Julia St",
+    "sg:city":"Coeur D Alene",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 664 0300",
+    "sg:postcode":"83815",
+    "sg:province":"ID",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "sg:website":"www.atlasauto.org",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85938163,
+        102086085,
+        85806325,
+        85821457
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4Om4xCVmr9IU10vVFZChBX_47.702138_-116.799426@1294099250"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"709beac60150b0bd408050ff994f697c",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086085,
+            "locality_id":85938163,
+            "neighbourhood_id":85806325,
+            "region_id":85688657,
+            "venue_id":185771843
+        },
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086085,
+            "locality_id":-1,
+            "neighbourhood_id":85821457,
+            "region_id":85688657,
+            "venue_id":185771843
+        }
+    ],
+    "wof:id":185771843,
+    "wof:lastmodified":1449007484,
+    "wof:name":"Atlas Automotive Gas & Diesel",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [-116.799426,47.702138,-116.799426,47.702138],
+  "geometry": {"coordinates":[-116.799426,47.702138],"type":"Point"}
+}

@@ -1,0 +1,69 @@
+{
+  "id": 185907289,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-116.69046,43.666807,-116.69046,43.666807",
+    "geom:latitude":43.666807,
+    "geom:longitude":-116.69046,
+    "iso:country":"US",
+    "sg:address":"222 S 6th Ave",
+    "sg:city":"Caldwell",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 459 4522",
+    "sg:postcode":"83605",
+    "sg:province":"ID",
+    "sg:tags":[
+        "repairing",
+        "automobile",
+        "radiator"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85938017,
+        102085081
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_39zrumjc8Y2zAsjGuNOpq8_43.666807_-116.690460@1294099250"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"00c43b4bff28eac45030b0f2cc06a2cc",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085081,
+            "locality_id":85938017,
+            "neighbourhood_id":-1,
+            "region_id":85688657,
+            "venue_id":185907289
+        }
+    ],
+    "wof:id":185907289,
+    "wof:lastmodified":1449008096,
+    "wof:name":"United Radiator Svc",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile",
+        "radiator"
+    ]
+},
+  "bbox": [-116.69046,43.666807,-116.69046,43.666807],
+  "geometry": {"coordinates":[-116.69046,43.666807],"type":"Point"}
+}

@@ -1,0 +1,65 @@
+{
+  "id": 169728177,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-113.614504,43.9161,-113.614504,43.9161",
+    "geom:latitude":43.9161,
+    "geom:longitude":-113.614504,
+    "iso:country":"US",
+    "sg:address":"200 Mc Caleb Ave",
+    "sg:city":"Mackay",
+    "sg:classifiers":[
+        {
+            "category":"Local Transit",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 588 2603",
+    "sg:postcode":"83251",
+    "sg:province":"ID",
+    "sg:tags":[
+        "ambulance"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85938105,
+        102085215
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3U397Pg6muxqb805xlP2Ro_43.916100_-113.614504@1294099250"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"d480fdc1932b264503bd468fc0cb1558",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085215,
+            "locality_id":85938105,
+            "neighbourhood_id":-1,
+            "region_id":85688657,
+            "venue_id":169728177
+        }
+    ],
+    "wof:id":169728177,
+    "wof:lastmodified":1449033462,
+    "wof:name":"South Custer Ambulance",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "ambulance"
+    ]
+},
+  "bbox": [-113.614504,43.9161,-113.614504,43.9161],
+  "geometry": {"coordinates":[-113.614504,43.9161],"type":"Point"}
+}

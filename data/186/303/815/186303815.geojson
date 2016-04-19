@@ -1,0 +1,66 @@
+{
+  "id": 186303815,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-116.560042,43.557123,-116.560042,43.557123",
+    "geom:latitude":43.557123,
+    "geom:longitude":-116.560042,
+    "iso:country":"US",
+    "sg:address":"1119 S Elder St",
+    "sg:city":"Nampa",
+    "sg:classifiers":[
+        {
+            "category":"Taxi",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 466 2764",
+    "sg:postcode":"83686",
+    "sg:province":"ID",
+    "sg:tags":[
+        "taxicab"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85938009,
+        102085081,
+        85827787
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5gye52teTRzY78vomjLnxk_43.557123_-116.560042@1294099250"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"d485982301bbe8e2a891457554fa84e5",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085081,
+            "locality_id":85938009,
+            "neighbourhood_id":85827787,
+            "region_id":85688657,
+            "venue_id":186303815
+        }
+    ],
+    "wof:id":186303815,
+    "wof:lastmodified":1449050276,
+    "wof:name":"AAA Transport Taxi Svc",
+    "wof:parent_id":85827787,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "taxicab"
+    ]
+},
+  "bbox": [-116.560042,43.557123,-116.560042,43.557123],
+  "geometry": {"coordinates":[-116.560042,43.557123],"type":"Point"}
+}

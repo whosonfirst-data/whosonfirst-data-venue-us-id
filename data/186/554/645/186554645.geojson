@@ -1,0 +1,67 @@
+{
+  "id": 186554645,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-116.833805,46.913656,-116.833805,46.913656",
+    "geom:latitude":46.913656,
+    "geom:longitude":-116.833805,
+    "iso:country":"US",
+    "sg:address":"3455 State Hwy 6",
+    "sg:city":"Princeton",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 875 8838",
+    "sg:postcode":"83857",
+    "sg:province":"ID",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85938169,
+        102085077
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6WAcxem4Fouuvt8rrBrBOS_46.913656_-116.833805@1294099250"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"03539ab7bf43986bf2c40de49640d085",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085077,
+            "locality_id":85938169,
+            "neighbourhood_id":-1,
+            "region_id":85688657,
+            "venue_id":186554645
+        }
+    ],
+    "wof:id":186554645,
+    "wof:lastmodified":1449050960,
+    "wof:name":"Lloyds Automotive",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [-116.833805,46.913656,-116.833805,46.913656],
+  "geometry": {"coordinates":[-116.833805,46.913656],"type":"Point"}
+}

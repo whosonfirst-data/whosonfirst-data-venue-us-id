@@ -1,0 +1,66 @@
+{
+  "id": 320540665,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-116.559471,43.619621,-116.559471,43.619621",
+    "geom:latitude":43.619621,
+    "geom:longitude":-116.559471,
+    "iso:country":"US",
+    "sg:address":"8305 Cherry Ln",
+    "sg:city":"Nampa",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 283 6676",
+    "sg:postcode":"83687",
+    "sg:province":"ID",
+    "sg:tags":[
+        "truck"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85938009,
+        102085081,
+        85827787
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5qNmbwQ9Slx7w8NQPQxv6R_43.619621_-116.559471@1303263095"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"6cdc5a3bcd949aa28d8bedc1bed28f7f",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085081,
+            "locality_id":85938009,
+            "neighbourhood_id":85827787,
+            "region_id":85688657,
+            "venue_id":320540665
+        }
+    ],
+    "wof:id":320540665,
+    "wof:lastmodified":1449012737,
+    "wof:name":"Ncr Truck & Equipment Repair",
+    "wof:parent_id":85827787,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "truck"
+    ]
+},
+  "bbox": [-116.559471,43.619621,-116.559471,43.619621],
+  "geometry": {"coordinates":[-116.559471,43.619621],"type":"Point"}
+}

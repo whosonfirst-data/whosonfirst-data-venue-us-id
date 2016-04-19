@@ -1,0 +1,68 @@
+{
+  "id": 186524839,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-116.216116,43.599256,-116.216116,43.599256",
+    "geom:latitude":43.599256,
+    "geom:longitude":-116.216116,
+    "iso:country":"US",
+    "sg:address":"2711 Agate St",
+    "sg:city":"Boise",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Discount & Variety Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 345 0817",
+    "sg:postcode":"83705",
+    "sg:province":"ID",
+    "sg:tags":[
+        "merchandise",
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85937923,
+        102086087,
+        85876303
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0URwnEgqZJ46yf2IymlFEW_43.599256_-116.216116@1294099250"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"166f87f2ad2c8ff077d517d312362412",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086087,
+            "locality_id":85937923,
+            "neighbourhood_id":85876303,
+            "region_id":85688657,
+            "venue_id":186524839
+        }
+    ],
+    "wof:id":186524839,
+    "wof:lastmodified":1449050227,
+    "wof:name":"This & That Shop",
+    "wof:parent_id":85876303,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "merchandise",
+        "general"
+    ]
+},
+  "bbox": [-116.216116,43.599256,-116.216116,43.599256],
+  "geometry": {"coordinates":[-116.216116,43.599256],"type":"Point"}
+}

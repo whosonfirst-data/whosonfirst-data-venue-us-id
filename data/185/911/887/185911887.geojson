@@ -1,0 +1,65 @@
+{
+  "id": 185911887,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-111.781837,43.825985,-111.781837,43.825985",
+    "geom:latitude":43.825985,
+    "geom:longitude":-111.781837,
+    "iso:country":"US",
+    "sg:address":"72 E Main St",
+    "sg:city":"Rexburg",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 359 1770",
+    "sg:postcode":"83440",
+    "sg:province":"ID",
+    "sg:tags":[
+        "clinic"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85937903,
+        102086101
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_60C6fpeuduXTc2RpkT2uj1_43.825985_-111.781837@1294099250"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"1ce2e985bbec6f664ae40c3ac350b575",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086101,
+            "locality_id":85937903,
+            "neighbourhood_id":-1,
+            "region_id":85688657,
+            "venue_id":185911887
+        }
+    ],
+    "wof:id":185911887,
+    "wof:lastmodified":1449007972,
+    "wof:name":"Community Care Rexburg",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "clinic"
+    ]
+},
+  "bbox": [-111.781837,43.825985,-111.781837,43.825985],
+  "geometry": {"coordinates":[-111.781837,43.825985],"type":"Point"}
+}

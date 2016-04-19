@@ -1,0 +1,68 @@
+{
+  "id": 186550177,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-116.27618,43.612488,-116.27618,43.612488",
+    "geom:latitude":43.612488,
+    "geom:longitude":-116.27618,
+    "iso:country":"US",
+    "sg:address":"7550 Emerald St",
+    "sg:city":"Boise",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Health Practitioner",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 375 0666",
+    "sg:postcode":"83704",
+    "sg:province":"ID",
+    "sg:tags":[
+        "therapist",
+        "physical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85937923,
+        102086087,
+        85841319
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6lyGImkpQNXzzP6cK8C3he_43.612488_-116.276180@1294099250"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"f02a77ab02bb88dd1d30535d2cd7bf5e",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086087,
+            "locality_id":85937923,
+            "neighbourhood_id":85841319,
+            "region_id":85688657,
+            "venue_id":186550177
+        }
+    ],
+    "wof:id":186550177,
+    "wof:lastmodified":1449051837,
+    "wof:name":"Peak Physical Therapy",
+    "wof:parent_id":85841319,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "therapist",
+        "physical"
+    ]
+},
+  "bbox": [-116.27618,43.612488,-116.27618,43.612488],
+  "geometry": {"coordinates":[-116.27618,43.612488],"type":"Point"}
+}

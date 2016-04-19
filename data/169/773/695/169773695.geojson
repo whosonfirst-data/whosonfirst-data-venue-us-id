@@ -1,0 +1,68 @@
+{
+  "id": 169773695,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-116.263504,43.580857,-116.263504,43.580857",
+    "geom:latitude":43.580857,
+    "geom:longitude":-116.263504,
+    "iso:country":"US",
+    "sg:address":"2400 S Raymond St",
+    "sg:city":"Boise",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Landscaping Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 362 2411",
+    "sg:postcode":"83709",
+    "sg:province":"ID",
+    "sg:tags":[
+        "landscape",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85937923,
+        102086087,
+        85825393
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_72tpD3SKJ9YYuR1PPMWrxm_43.580857_-116.263504@1294099250"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"3b77c8c6873ae36baf07cab61cdb13a1",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086087,
+            "locality_id":85937923,
+            "neighbourhood_id":85825393,
+            "region_id":85688657,
+            "venue_id":169773695
+        }
+    ],
+    "wof:id":169773695,
+    "wof:lastmodified":1449033101,
+    "wof:name":"Metcalf Landscape Contractors",
+    "wof:parent_id":85825393,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "landscape",
+        "contractor"
+    ]
+},
+  "bbox": [-116.263504,43.580857,-116.263504,43.580857],
+  "geometry": {"coordinates":[-116.263504,43.580857],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 185866015,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-116.334379,43.648455,-116.334379,43.648455",
+    "geom:latitude":43.648455,
+    "geom:longitude":-116.334379,
+    "iso:country":"US",
+    "sg:address":"4700 N Cloverdale Rd",
+    "sg:city":"Boise",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Groceries",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 395 1161",
+    "sg:postcode":"83713",
+    "sg:province":"ID",
+    "sg:tags":[
+        "food",
+        "broker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85937923,
+        102086087,
+        85876351
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_23VtG1ZuCOPOPjUdkOYP7C_43.648455_-116.334379@1294099250"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"8ccd69ffc230111d05827f45a0e101c7",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086087,
+            "locality_id":85937923,
+            "neighbourhood_id":85876351,
+            "region_id":85688657,
+            "venue_id":185866015
+        }
+    ],
+    "wof:id":185866015,
+    "wof:lastmodified":1449007385,
+    "wof:name":"Interwest Brokerage",
+    "wof:parent_id":85876351,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "food",
+        "broker"
+    ]
+},
+  "bbox": [-116.334379,43.648455,-116.334379,43.648455],
+  "geometry": {"coordinates":[-116.334379,43.648455],"type":"Point"}
+}

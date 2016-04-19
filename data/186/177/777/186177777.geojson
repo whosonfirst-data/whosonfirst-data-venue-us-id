@@ -1,0 +1,76 @@
+{
+  "id": 186177777,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-116.972279,46.377674,-116.972279,46.377674",
+    "geom:latitude":46.377674,
+    "geom:longitude":-116.972279,
+    "iso:country":"US",
+    "sg:address":"456 Thain Rd",
+    "sg:city":"Lewiston",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 743 3021",
+    "sg:postcode":"83501",
+    "sg:province":"ID",
+    "sg:tags":[
+        "grocer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85937743,
+        102086039,
+        85837769,
+        85830385
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2S2JHmzcbV5Qpkk2nJSi1U_46.377674_-116.972279@1294099250"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"0a914b343c91a163d618af4306a098e1",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086039,
+            "locality_id":85937743,
+            "neighbourhood_id":85837769,
+            "region_id":85688657,
+            "venue_id":186177777
+        },
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086039,
+            "locality_id":85937743,
+            "neighbourhood_id":85830385,
+            "region_id":85688657,
+            "venue_id":186177777
+        }
+    ],
+    "wof:id":186177777,
+    "wof:lastmodified":1449053026,
+    "wof:name":"A & B's Foods",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "grocer"
+    ]
+},
+  "bbox": [-116.972279,46.377674,-116.972279,46.377674],
+  "geometry": {"coordinates":[-116.972279,46.377674],"type":"Point"}
+}

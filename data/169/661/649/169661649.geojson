@@ -1,0 +1,67 @@
+{
+  "id": 169661649,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-116.777885,47.695175,-116.777885,47.695175",
+    "geom:latitude":47.695175,
+    "geom:longitude":-116.777885,
+    "iso:country":"US",
+    "sg:address":"2023 N 6th St",
+    "sg:city":"Coeur D Alene",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Lumber",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 667 5118",
+    "sg:postcode":"83814",
+    "sg:province":"ID",
+    "sg:tags":[
+        "company",
+        "logging"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        102086085,
+        85821457
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2bfQby1ucSFgJ87uXZZq1G_47.695175_-116.777885@1294099250"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"15250dd10ceee9d419cfb5f96dd7af95",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086085,
+            "locality_id":-1,
+            "neighbourhood_id":85821457,
+            "region_id":85688657,
+            "venue_id":169661649
+        }
+    ],
+    "wof:id":169661649,
+    "wof:lastmodified":1449035598,
+    "wof:name":"Davis Logging",
+    "wof:parent_id":85821457,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "company",
+        "logging"
+    ]
+},
+  "bbox": [-116.777885,47.695175,-116.777885,47.695175],
+  "geometry": {"coordinates":[-116.777885,47.695175],"type":"Point"}
+}

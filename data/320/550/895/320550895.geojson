@@ -1,0 +1,77 @@
+{
+  "id": 320550895,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-116.879934,47.337215,-116.879934,47.337215",
+    "geom:latitude":47.337215,
+    "geom:longitude":-116.879934,
+    "iso:country":"US",
+    "sg:address":"1088 A St",
+    "sg:city":"Plummer",
+    "sg:classifiers":[
+        {
+            "category":"Tea Room",
+            "subcategory":"None",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Coffee & Tea",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 686 6033",
+    "sg:postcode":"83851",
+    "sg:province":"ID",
+    "sg:tags":[
+        "shop",
+        "espresso"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85937837,
+        102086089
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_75H6yzaTUriw3lUcT5Pyvi_47.337215_-116.879934@1303263095"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"b82307788348d3501de89e844e167d8b",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086089,
+            "locality_id":85937837,
+            "neighbourhood_id":-1,
+            "region_id":85688657,
+            "venue_id":320550895
+        }
+    ],
+    "wof:id":320550895,
+    "wof:lastmodified":1449013287,
+    "wof:name":"Arrow Espresso",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop",
+        "espresso"
+    ]
+},
+  "bbox": [-116.879934,47.337215,-116.879934,47.337215],
+  "geometry": {"coordinates":[-116.879934,47.337215],"type":"Point"}
+}

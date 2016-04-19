@@ -1,0 +1,66 @@
+{
+  "id": 186368803,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-116.23192,43.589711,-116.23192,43.589711",
+    "geom:latitude":43.589711,
+    "geom:longitude":-116.23192,
+    "iso:country":"US",
+    "sg:address":"4101 Overland Rd",
+    "sg:city":"Boise",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 331 3033",
+    "sg:postcode":"83705",
+    "sg:province":"ID",
+    "sg:tags":[
+        "grocer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85937923,
+        102086087,
+        85825393
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3kIk6zOF8d3cVU980XjmKd_43.589711_-116.231920@1294099250"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"29cda29a6dade38bbef6ab2b0938899c",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086087,
+            "locality_id":85937923,
+            "neighbourhood_id":85825393,
+            "region_id":85688657,
+            "venue_id":186368803
+        }
+    ],
+    "wof:id":186368803,
+    "wof:lastmodified":1449051020,
+    "wof:name":"Thana's Asian Grocery",
+    "wof:parent_id":85825393,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "grocer"
+    ]
+},
+  "bbox": [-116.23192,43.589711,-116.23192,43.589711],
+  "geometry": {"coordinates":[-116.23192,43.589711],"type":"Point"}
+}

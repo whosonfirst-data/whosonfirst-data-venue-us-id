@@ -1,0 +1,68 @@
+{
+  "id": 320533121,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-116.388862,43.582209,-116.388862,43.582209",
+    "geom:latitude":43.582209,
+    "geom:longitude":-116.388862,
+    "iso:country":"US",
+    "sg:address":"432 E Amalie Ct",
+    "sg:city":"Meridian",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 884 1260",
+    "sg:postcode":"83642",
+    "sg:province":"ID",
+    "sg:tags":[
+        "painting",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85937915,
+        102086087,
+        85805083
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3YVPzDlNx5UwGE1zJCJxJ4_43.582209_-116.388862@1303263095"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"eefc7755ae1dc1d437b455ce6c6f6d4e",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086087,
+            "locality_id":85937915,
+            "neighbourhood_id":85805083,
+            "region_id":85688657,
+            "venue_id":320533121
+        }
+    ],
+    "wof:id":320533121,
+    "wof:lastmodified":1449011214,
+    "wof:name":"Pierce Painting",
+    "wof:parent_id":85805083,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "painting",
+        "contractor"
+    ]
+},
+  "bbox": [-116.388862,43.582209,-116.388862,43.582209],
+  "geometry": {"coordinates":[-116.388862,43.582209],"type":"Point"}
+}

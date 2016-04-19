@@ -1,0 +1,66 @@
+{
+  "id": 186332511,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-116.333725,43.650927,-116.333725,43.650927",
+    "geom:latitude":43.650927,
+    "geom:longitude":-116.333725,
+    "iso:country":"US",
+    "sg:address":"5087 N Creswell Ave",
+    "sg:city":"Boise",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Retail Goods",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 938 0325",
+    "sg:postcode":"83713",
+    "sg:province":"ID",
+    "sg:tags":[
+        "manufacturer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85937923,
+        102086087,
+        85876357
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7aGk1orE9YxO10Wkt5X34M_43.650927_-116.333725@1294099250"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"1881eff0fdaf6c93ed8cda1b78678d3f",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086087,
+            "locality_id":85937923,
+            "neighbourhood_id":85876357,
+            "region_id":85688657,
+            "venue_id":186332511
+        }
+    ],
+    "wof:id":186332511,
+    "wof:lastmodified":1449051870,
+    "wof:name":"CSM Mfg Inc",
+    "wof:parent_id":85876357,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "manufacturer"
+    ]
+},
+  "bbox": [-116.333725,43.650927,-116.333725,43.650927],
+  "geometry": {"coordinates":[-116.333725,43.650927],"type":"Point"}
+}

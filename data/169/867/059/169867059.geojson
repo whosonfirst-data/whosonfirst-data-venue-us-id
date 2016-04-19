@@ -1,0 +1,66 @@
+{
+  "id": 169867059,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-116.593263,43.590176,-116.593263,43.590176",
+    "geom:latitude":43.590176,
+    "geom:longitude":-116.593263,
+    "iso:country":"US",
+    "sg:address":"621 N Midland Blvd",
+    "sg:city":"Nampa",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 466 1249",
+    "sg:postcode":"83651",
+    "sg:province":"ID",
+    "sg:tags":[
+        "dentist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85938009,
+        102085081,
+        85827787
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7fKdI2WeSLKOYk671Fqxsw_43.590176_-116.593263@1294099250"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"cf439501a8a0d497a7d2d723ed20fa54",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085081,
+            "locality_id":85938009,
+            "neighbourhood_id":85827787,
+            "region_id":85688657,
+            "venue_id":169867059
+        }
+    ],
+    "wof:id":169867059,
+    "wof:lastmodified":1449034096,
+    "wof:name":"Canyon Orthodontics",
+    "wof:parent_id":85827787,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dentist"
+    ]
+},
+  "bbox": [-116.593263,43.590176,-116.593263,43.590176],
+  "geometry": {"coordinates":[-116.593263,43.590176],"type":"Point"}
+}

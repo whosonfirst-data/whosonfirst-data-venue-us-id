@@ -1,0 +1,69 @@
+{
+  "id": 186062367,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-112.319601,43.197852,-112.319601,43.197852",
+    "geom:latitude":43.197852,
+    "geom:longitude":-112.319601,
+    "iso:country":"US",
+    "sg:address":"1301 Casandra Way",
+    "sg:city":"Blackfoot",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 357 3620",
+    "sg:postcode":"83221",
+    "sg:province":"ID",
+    "sg:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85938001,
+        102086105
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6hO7LYnPPw3Fuijj1XLJEL_43.197852_-112.319601@1294099250"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"52715d4b8f4a4846542e1df4a9af78bf",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086105,
+            "locality_id":85938001,
+            "neighbourhood_id":-1,
+            "region_id":85688657,
+            "venue_id":186062367
+        }
+    ],
+    "wof:id":186062367,
+    "wof:lastmodified":1449052836,
+    "wof:name":"Greg's Auto Body Inc",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ]
+},
+  "bbox": [-112.319601,43.197852,-112.319601,43.197852],
+  "geometry": {"coordinates":[-112.319601,43.197852],"type":"Point"}
+}

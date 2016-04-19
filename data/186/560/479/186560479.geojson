@@ -1,0 +1,69 @@
+{
+  "id": 186560479,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-116.303807,43.569732,-116.303807,43.569732",
+    "geom:latitude":43.569732,
+    "geom:longitude":-116.303807,
+    "iso:country":"US",
+    "sg:address":"9676 Tanner Ln",
+    "sg:city":"Boise",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 362 1041",
+    "sg:postcode":"83709",
+    "sg:province":"ID",
+    "sg:tags":[
+        "concrete",
+        "electrical",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        102086087,
+        85876331
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7fIAyu7PwzTqg8qXCsE2XE_43.569732_-116.303807@1294099250"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"dfa6283e8b0090c425eb6570e58c692a",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086087,
+            "locality_id":-1,
+            "neighbourhood_id":85876331,
+            "region_id":85688657,
+            "venue_id":186560479
+        }
+    ],
+    "wof:id":186560479,
+    "wof:lastmodified":1449052377,
+    "wof:name":"Mike Tanner Construction Inc",
+    "wof:parent_id":85876331,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "concrete",
+        "electrical",
+        "contractor"
+    ]
+},
+  "bbox": [-116.303807,43.569732,-116.303807,43.569732],
+  "geometry": {"coordinates":[-116.303807,43.569732],"type":"Point"}
+}

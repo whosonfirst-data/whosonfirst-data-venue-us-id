@@ -1,0 +1,67 @@
+{
+  "id": 169659341,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-116.260285,43.656801,-116.260285,43.656801",
+    "geom:latitude":43.656801,
+    "geom:longitude":-116.260285,
+    "iso:country":"US",
+    "sg:address":"5728 W State St",
+    "sg:city":"Boise",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Landscaping Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 853 4000",
+    "sg:postcode":"83703",
+    "sg:province":"ID",
+    "sg:tags":[
+        "landscape",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        102086087,
+        85811879
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3r9y0dEQR8RVS0UG6vH10n_43.656801_-116.260285@1294099250"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"f6df8c7b17f6373929f47f966c62f6f6",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086087,
+            "locality_id":-1,
+            "neighbourhood_id":85811879,
+            "region_id":85688657,
+            "venue_id":169659341
+        }
+    ],
+    "wof:id":169659341,
+    "wof:lastmodified":1449033030,
+    "wof:name":"Far West Landscape & Garden",
+    "wof:parent_id":85811879,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "landscape",
+        "contractor"
+    ]
+},
+  "bbox": [-116.260285,43.656801,-116.260285,43.656801],
+  "geometry": {"coordinates":[-116.260285,43.656801],"type":"Point"}
+}

@@ -1,0 +1,76 @@
+{
+  "id": 186516933,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-116.811194,47.703614,-116.811194,47.703614",
+    "geom:latitude":47.703614,
+    "geom:longitude":-116.811194,
+    "iso:country":"US",
+    "sg:address":"2921 Legends Pkwy",
+    "sg:city":"Coeur D Alene",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 664 0498",
+    "sg:postcode":"83815",
+    "sg:province":"ID",
+    "sg:tags":[
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85938163,
+        102086085,
+        85806325,
+        85821457
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4PLe93yBisO9TWCRY26Yn5_47.703614_-116.811194@1294099250"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"cd069ba219b8343752bab5bea46196f6",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086085,
+            "locality_id":85938163,
+            "neighbourhood_id":85806325,
+            "region_id":85688657,
+            "venue_id":186516933
+        },
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086085,
+            "locality_id":-1,
+            "neighbourhood_id":85821457,
+            "region_id":85688657,
+            "venue_id":186516933
+        }
+    ],
+    "wof:id":186516933,
+    "wof:lastmodified":1449050917,
+    "wof:name":"Legends Apts",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "apartment"
+    ]
+},
+  "bbox": [-116.811194,47.703614,-116.811194,47.703614],
+  "geometry": {"coordinates":[-116.811194,47.703614],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 186250447,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-116.398957,43.697605,-116.398957,43.697605",
+    "geom:latitude":43.697605,
+    "geom:longitude":-116.398957,
+    "iso:country":"US",
+    "sg:address":"3610 Flint Dr",
+    "sg:city":"Eagle",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Veterinary Services",
+            "type":"Services"
+        },
+        {
+            "category":"Health Services",
+            "subcategory":"Health Practitioner",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 939 4800",
+    "sg:postcode":"83616",
+    "sg:province":"ID",
+    "sg:tags":[
+        "acupuncture"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85937923,
+        102086087,
+        85876351
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_30GjBs258rOjfByDoMJuF1_43.697605_-116.398957@1294099250"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"1b2c8f59356ed0aed06b746e690ca2a9",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086087,
+            "locality_id":85937923,
+            "neighbourhood_id":85876351,
+            "region_id":85688657,
+            "venue_id":186250447
+        }
+    ],
+    "wof:id":186250447,
+    "wof:lastmodified":1449051911,
+    "wof:name":"A Natural Choice Holistic Svc",
+    "wof:parent_id":85876351,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "acupuncture"
+    ]
+},
+  "bbox": [-116.398957,43.697605,-116.398957,43.697605],
+  "geometry": {"coordinates":[-116.398957,43.697605],"type":"Point"}
+}

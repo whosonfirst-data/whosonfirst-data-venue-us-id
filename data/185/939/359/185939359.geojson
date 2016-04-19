@@ -1,0 +1,68 @@
+{
+  "id": 185939359,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-116.196445,43.627489,-116.196445,43.627489",
+    "geom:latitude":43.627489,
+    "geom:longitude":-116.196445,
+    "iso:country":"US",
+    "sg:address":"1403 N 7th St",
+    "sg:city":"Boise",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 336 3830",
+    "sg:postcode":"83702",
+    "sg:province":"ID",
+    "sg:tags":[
+        "tile",
+        "dealer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85937923,
+        102086087,
+        85876313
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1yC4QyomeVP0PcChBUMgxU_43.627489_-116.196445@1294099250"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"83495d5756e0769a9c3a2d82f01fa7ec",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086087,
+            "locality_id":85937923,
+            "neighbourhood_id":85876313,
+            "region_id":85688657,
+            "venue_id":185939359
+        }
+    ],
+    "wof:id":185939359,
+    "wof:lastmodified":1449007083,
+    "wof:name":"Brockman Tile Co",
+    "wof:parent_id":85876313,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "tile",
+        "dealer"
+    ]
+},
+  "bbox": [-116.196445,43.627489,-116.196445,43.627489],
+  "geometry": {"coordinates":[-116.196445,43.627489],"type":"Point"}
+}

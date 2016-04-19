@@ -1,0 +1,66 @@
+{
+  "id": 186407933,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-116.218532,43.580844,-116.218532,43.580844",
+    "geom:latitude":43.580844,
+    "geom:longitude":-116.218532,
+    "iso:country":"US",
+    "sg:address":"2824 W Cherry Ln",
+    "sg:city":"Boise",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Cleaning & Sanitation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 331 8502",
+    "sg:postcode":"83705",
+    "sg:province":"ID",
+    "sg:tags":[
+        "janitor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85937923,
+        102086087,
+        85876343
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_44gOgxhZr6DvnEUboP6PMM_43.580844_-116.218532@1294099250"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"3524d470485abeb46ed3737b340f649c",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086087,
+            "locality_id":85937923,
+            "neighbourhood_id":85876343,
+            "region_id":85688657,
+            "venue_id":186407933
+        }
+    ],
+    "wof:id":186407933,
+    "wof:lastmodified":1449051866,
+    "wof:name":"International Cleaning Co Inc",
+    "wof:parent_id":85876343,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "janitor"
+    ]
+},
+  "bbox": [-116.218532,43.580844,-116.218532,43.580844],
+  "geometry": {"coordinates":[-116.218532,43.580844],"type":"Point"}
+}

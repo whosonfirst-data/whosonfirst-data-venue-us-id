@@ -1,0 +1,66 @@
+{
+  "id": 186300661,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-116.275618,43.620892,-116.275618,43.620892",
+    "geom:latitude":43.620892,
+    "geom:longitude":-116.275618,
+    "iso:country":"US",
+    "sg:address":"7520 Wilshire Dr",
+    "sg:city":"Boise",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Laundry & Dry Cleaning",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 375 5808",
+    "sg:postcode":"83704",
+    "sg:province":"ID",
+    "sg:tags":[
+        "diaper"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85937923,
+        102086087,
+        85841319
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7TtyjcwqhOwk9MTMprAmCI_43.620892_-116.275618@1294099250"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"30e215423af3f43f8a23b98cc6f405b1",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086087,
+            "locality_id":85937923,
+            "neighbourhood_id":85841319,
+            "region_id":85688657,
+            "venue_id":186300661
+        }
+    ],
+    "wof:id":186300661,
+    "wof:lastmodified":1449051895,
+    "wof:name":"Tidy Didy Diaper Svc",
+    "wof:parent_id":85841319,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "diaper"
+    ]
+},
+  "bbox": [-116.275618,43.620892,-116.275618,43.620892],
+  "geometry": {"coordinates":[-116.275618,43.620892],"type":"Point"}
+}

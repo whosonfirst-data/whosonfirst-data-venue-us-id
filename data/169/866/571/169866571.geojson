@@ -1,0 +1,67 @@
+{
+  "id": 169866571,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-112.441658,42.877543,-112.441658,42.877543",
+    "geom:latitude":42.877543,
+    "geom:longitude":-112.441658,
+    "iso:country":"US",
+    "sg:address":"164 Jefferson Ave",
+    "sg:city":"Pocatello",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Specialty",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 232 2737",
+    "sg:postcode":"83201",
+    "sg:province":"ID",
+    "sg:tags":[
+        "bars",
+        "espresso"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85937925,
+        102086113
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1jvMgn0QBjBQDGFHFsq3QB_42.877543_-112.441658@1294099250"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"a4611f1dc059bf7220512c44f4df0702",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086113,
+            "locality_id":85937925,
+            "neighbourhood_id":-1,
+            "region_id":85688657,
+            "venue_id":169866571
+        }
+    ],
+    "wof:id":169866571,
+    "wof:lastmodified":1449034250,
+    "wof:name":"Double Shot",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "bars",
+        "espresso"
+    ]
+},
+  "bbox": [-112.441658,42.877543,-112.441658,42.877543],
+  "geometry": {"coordinates":[-112.441658,42.877543],"type":"Point"}
+}

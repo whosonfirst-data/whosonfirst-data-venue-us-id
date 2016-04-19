@@ -1,0 +1,67 @@
+{
+  "id": 186302081,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-116.797753,47.691673,-116.797753,47.691673",
+    "geom:latitude":47.691673,
+    "geom:longitude":-116.797753,
+    "iso:country":"US",
+    "sg:address":"1022 W Davidson Ave",
+    "sg:city":"Coeur D Alene",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 664 3504",
+    "sg:postcode":"83814",
+    "sg:province":"ID",
+    "sg:tags":[
+        "plumbing",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        102086085,
+        85821457
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_67oMduI8VMLWnC3M6fDtCB_47.691673_-116.797753@1294099250"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"60a1a101c20a5f3432c64628efda02a4",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086085,
+            "locality_id":-1,
+            "neighbourhood_id":85821457,
+            "region_id":85688657,
+            "venue_id":186302081
+        }
+    ],
+    "wof:id":186302081,
+    "wof:lastmodified":1449051290,
+    "wof:name":"Neuman's Plumbing Inc",
+    "wof:parent_id":85821457,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "plumbing",
+        "contractor"
+    ]
+},
+  "bbox": [-116.797753,47.691673,-116.797753,47.691673],
+  "geometry": {"coordinates":[-116.797753,47.691673],"type":"Point"}
+}

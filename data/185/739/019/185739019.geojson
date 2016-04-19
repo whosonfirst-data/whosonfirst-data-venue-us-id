@@ -1,0 +1,68 @@
+{
+  "id": 185739019,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-116.113575,43.569615,-116.113575,43.569615",
+    "geom:latitude":43.569615,
+    "geom:longitude":-116.113575,
+    "iso:country":"US",
+    "sg:address":"3550 Triplett Ln",
+    "sg:city":"Boise",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Water",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 345 9384",
+    "sg:postcode":"83712",
+    "sg:province":"ID",
+    "sg:tags":[
+        "company",
+        "sewage"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85937923,
+        102086087,
+        85804435
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_57cKlFlH2Sh2hpwhS0KQek_43.569615_-116.113575@1294099250"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"23c2f423c922be6af8f03448ce2edd1d",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086087,
+            "locality_id":85937923,
+            "neighbourhood_id":85804435,
+            "region_id":85688657,
+            "venue_id":185739019
+        }
+    ],
+    "wof:id":185739019,
+    "wof:lastmodified":1449007282,
+    "wof:name":"Barber Water Corp",
+    "wof:parent_id":85804435,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "company",
+        "sewage"
+    ]
+},
+  "bbox": [-116.113575,43.569615,-116.113575,43.569615],
+  "geometry": {"coordinates":[-116.113575,43.569615],"type":"Point"}
+}

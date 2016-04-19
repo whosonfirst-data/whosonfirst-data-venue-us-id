@@ -1,0 +1,68 @@
+{
+  "id": 186019805,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-116.277738,43.601561,-116.277738,43.601561",
+    "geom:latitude":43.601561,
+    "geom:longitude":-116.277738,
+    "iso:country":"US",
+    "sg:address":"7710 Gratz Dr",
+    "sg:city":"Boise",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 947 6650",
+    "sg:postcode":"83709",
+    "sg:province":"ID",
+    "sg:tags":[
+        "car",
+        "dealer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85937923,
+        102086087,
+        85841319
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6lIwbgp3TZXgSLuNZsppaK_43.601561_-116.277738@1294099250"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"a6dad66cff472958597bb40666174d87",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086087,
+            "locality_id":85937923,
+            "neighbourhood_id":85841319,
+            "region_id":85688657,
+            "venue_id":186019805
+        }
+    ],
+    "wof:id":186019805,
+    "wof:lastmodified":1449051922,
+    "wof:name":"Larry Miller Honda",
+    "wof:parent_id":85841319,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "car",
+        "dealer"
+    ]
+},
+  "bbox": [-116.277738,43.601561,-116.277738,43.601561],
+  "geometry": {"coordinates":[-116.277738,43.601561],"type":"Point"}
+}

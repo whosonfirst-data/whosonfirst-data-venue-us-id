@@ -1,0 +1,67 @@
+{
+  "id": 185639585,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-116.918731,47.710389,-116.918731,47.710389",
+    "geom:latitude":47.710389,
+    "geom:longitude":-116.918731,
+    "iso:country":"US",
+    "sg:address":"1790 E Seltice Way",
+    "sg:city":"Post Falls",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 773 8004",
+    "sg:postcode":"83854",
+    "sg:province":"ID",
+    "sg:tags":[
+        "car",
+        "dealer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        102086085,
+        85833263
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0aMlrDcVeAnXdwkwiUpZBI_47.710389_-116.918731@1294099250"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"31785332c45a97dd75b2a8005714fe7c",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086085,
+            "locality_id":-1,
+            "neighbourhood_id":85833263,
+            "region_id":85688657,
+            "venue_id":185639585
+        }
+    ],
+    "wof:id":185639585,
+    "wof:lastmodified":1449008196,
+    "wof:name":"Todd's",
+    "wof:parent_id":85833263,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "car",
+        "dealer"
+    ]
+},
+  "bbox": [-116.918731,47.710389,-116.918731,47.710389],
+  "geometry": {"coordinates":[-116.918731,47.710389],"type":"Point"}
+}

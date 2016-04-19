@@ -1,0 +1,71 @@
+{
+  "id": 186101683,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-116.243468,43.629493,-116.243468,43.629493",
+    "geom:latitude":43.629493,
+    "geom:longitude":-116.243468,
+    "iso:country":"US",
+    "sg:address":"106 E 39th St",
+    "sg:city":"Boise",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 342 4506",
+    "sg:postcode":"83714",
+    "sg:province":"ID",
+    "sg:tags":[
+        "van",
+        "conversion",
+        "truck",
+        "accessory"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85937919,
+        102086087
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3Wk6e9w0UoeQqbbfaOYjHL_43.629493_-116.243468@1294099250"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"84ec5900312bb51e1694cf7cc47dea5e",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086087,
+            "locality_id":85937919,
+            "neighbourhood_id":-1,
+            "region_id":85688657,
+            "venue_id":186101683
+        }
+    ],
+    "wof:id":186101683,
+    "wof:lastmodified":1449051785,
+    "wof:name":"Breakaway",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "van",
+        "conversion",
+        "truck",
+        "accessory"
+    ]
+},
+  "bbox": [-116.243468,43.629493,-116.243468,43.629493],
+  "geometry": {"coordinates":[-116.243468,43.629493],"type":"Point"}
+}

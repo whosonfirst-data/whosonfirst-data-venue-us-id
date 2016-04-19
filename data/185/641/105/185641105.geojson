@@ -1,0 +1,80 @@
+{
+  "id": 185641105,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-116.794558,47.722644,-116.794558,47.722644",
+    "geom:latitude":47.722644,
+    "geom:longitude":-116.794558,
+    "iso:country":"US",
+    "sg:address":"680 W Dalton Ave",
+    "sg:city":"Coeur D Alene",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Hardware",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 665 7070",
+    "sg:postcode":"83815",
+    "sg:province":"ID",
+    "sg:tags":[
+        "plumbing",
+        "fixture",
+        "supply"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85938163,
+        102086085,
+        85806325,
+        85821457
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3LUxZKBgrmwmcehB8CoEly_47.722644_-116.794558@1294099250"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"8698ef2e0c4eec814353c088c9d9c70d",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086085,
+            "locality_id":85938163,
+            "neighbourhood_id":85806325,
+            "region_id":85688657,
+            "venue_id":185641105
+        },
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086085,
+            "locality_id":-1,
+            "neighbourhood_id":85821457,
+            "region_id":85688657,
+            "venue_id":185641105
+        }
+    ],
+    "wof:id":185641105,
+    "wof:lastmodified":1449007843,
+    "wof:name":"Keller Supply Co",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "plumbing",
+        "fixture",
+        "supply"
+    ]
+},
+  "bbox": [-116.794558,47.722644,-116.794558,47.722644],
+  "geometry": {"coordinates":[-116.794558,47.722644],"type":"Point"}
+}

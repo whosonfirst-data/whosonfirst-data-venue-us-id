@@ -1,0 +1,67 @@
+{
+  "id": 185874573,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-116.268419,43.672585,-116.268419,43.672585",
+    "geom:latitude":43.672585,
+    "geom:longitude":-116.268419,
+    "iso:country":"US",
+    "sg:address":"5812 N Pierce Park Ln",
+    "sg:city":"Boise",
+    "sg:classifiers":[
+        {
+            "category":"Sports & Exercise",
+            "subcategory":"Golf",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 853 3302",
+    "sg:postcode":"83714",
+    "sg:province":"ID",
+    "sg:tags":[
+        "course",
+        "public"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        102086087,
+        85811879
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1SQ208qe0RU4nBoRVxZfY7_43.672585_-116.268419@1294099250"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"052792aff01a63223815816e53a5a37b",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086087,
+            "locality_id":-1,
+            "neighbourhood_id":85811879,
+            "region_id":85688657,
+            "venue_id":185874573
+        }
+    ],
+    "wof:id":185874573,
+    "wof:lastmodified":1449008108,
+    "wof:name":"Pierce Park Greens",
+    "wof:parent_id":85811879,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "course",
+        "public"
+    ]
+},
+  "bbox": [-116.268419,43.672585,-116.268419,43.672585],
+  "geometry": {"coordinates":[-116.268419,43.672585],"type":"Point"}
+}

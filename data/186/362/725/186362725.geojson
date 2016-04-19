@@ -1,0 +1,70 @@
+{
+  "id": 186362725,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-116.179513,43.59482,-116.179513,43.59482",
+    "geom:latitude":43.59482,
+    "geom:longitude":-116.179513,
+    "iso:country":"US",
+    "sg:address":"1501 Tyrell Ln",
+    "sg:city":"Boise",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 344 5457",
+    "sg:postcode":"83706",
+    "sg:province":"ID",
+    "sg:tags":[
+        "counselor",
+        "marriage",
+        "family"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85937923,
+        102086087,
+        85876305
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7TJmmXegiOOWS0kXMiVQf6_43.594820_-116.179513@1294099250"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"938420a601c97caa1504db1ed6ecd5b3",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086087,
+            "locality_id":85937923,
+            "neighbourhood_id":85876305,
+            "region_id":85688657,
+            "venue_id":186362725
+        }
+    ],
+    "wof:id":186362725,
+    "wof:lastmodified":1449052106,
+    "wof:name":"BPA Behavioral Health",
+    "wof:parent_id":85876305,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "counselor",
+        "marriage",
+        "family"
+    ]
+},
+  "bbox": [-116.179513,43.59482,-116.179513,43.59482],
+  "geometry": {"coordinates":[-116.179513,43.59482],"type":"Point"}
+}

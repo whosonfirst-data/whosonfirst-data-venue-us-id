@@ -1,0 +1,80 @@
+{
+  "id": 320548007,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-117.001389,46.732996,-117.001389,46.732996",
+    "geom:latitude":46.732996,
+    "geom:longitude":-117.001389,
+    "iso:country":"US",
+    "sg:address":"203 S Main St",
+    "sg:city":"Moscow",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Services",
+            "type":"Services"
+        },
+        {
+            "category":"Real Estate",
+            "subcategory":"Developer",
+            "type":"Services"
+        },
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Agent",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 882 0800",
+    "sg:postcode":"83843",
+    "sg:province":"ID",
+    "sg:tags":[
+        "consultant",
+        "buyer",
+        "broker"
+    ],
+    "sg:website":"http://www.cbtmoscow.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85937727,
+        102085077
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1lrDxt2TGW8054r4bgxNoK_46.732996_-117.001389@1303263095"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"3780727287d00fdf934348ff126bcacc",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085077,
+            "locality_id":85937727,
+            "neighbourhood_id":-1,
+            "region_id":85688657,
+            "venue_id":320548007
+        }
+    ],
+    "wof:id":320548007,
+    "wof:lastmodified":1449013855,
+    "wof:name":"Coldwell Banker Tomlinson",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "consultant",
+        "buyer",
+        "broker"
+    ]
+},
+  "bbox": [-117.001389,46.732996,-117.001389,46.732996],
+  "geometry": {"coordinates":[-117.001389,46.732996],"type":"Point"}
+}

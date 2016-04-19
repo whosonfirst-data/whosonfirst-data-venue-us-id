@@ -1,0 +1,67 @@
+{
+  "id": 186353545,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-116.319276,43.569151,-116.319276,43.569151",
+    "geom:latitude":43.569151,
+    "geom:longitude":-116.319276,
+    "iso:country":"US",
+    "sg:address":"3707 Cayuga Pl",
+    "sg:city":"Boise",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 362 0289",
+    "sg:postcode":"83709",
+    "sg:province":"ID",
+    "sg:tags":[
+        "electrical",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        102086087,
+        85876331
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0Ga6VfGyEVnIrCXVJ69zKc_43.569151_-116.319276@1294099250"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"9e50a52aa77d4542f3695a0bb407035f",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086087,
+            "locality_id":-1,
+            "neighbourhood_id":85876331,
+            "region_id":85688657,
+            "venue_id":186353545
+        }
+    ],
+    "wof:id":186353545,
+    "wof:lastmodified":1449051142,
+    "wof:name":"Valley Electric",
+    "wof:parent_id":85876331,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electrical",
+        "contractor"
+    ]
+},
+  "bbox": [-116.319276,43.569151,-116.319276,43.569151],
+  "geometry": {"coordinates":[-116.319276,43.569151],"type":"Point"}
+}

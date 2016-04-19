@@ -1,0 +1,68 @@
+{
+  "id": 185625115,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-116.555119,43.587767,-116.555119,43.587767",
+    "geom:latitude":43.587767,
+    "geom:longitude":-116.555119,
+    "iso:country":"US",
+    "sg:address":"820 7th St N",
+    "sg:city":"Nampa",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 467 3373",
+    "sg:postcode":"83687",
+    "sg:province":"ID",
+    "sg:tags":[
+        "commercial",
+        "storage"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85938009,
+        102085081,
+        85827787
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0G8nTl49OL1A7wtTyj2QNO_43.587767_-116.555119@1294099250"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"6e6b7dbdfd7c315f494edaafa5d13493",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085081,
+            "locality_id":85938009,
+            "neighbourhood_id":85827787,
+            "region_id":85688657,
+            "venue_id":185625115
+        }
+    ],
+    "wof:id":185625115,
+    "wof:lastmodified":1449008238,
+    "wof:name":"Storage Co",
+    "wof:parent_id":85827787,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "commercial",
+        "storage"
+    ]
+},
+  "bbox": [-116.555119,43.587767,-116.555119,43.587767],
+  "geometry": {"coordinates":[-116.555119,43.587767],"type":"Point"}
+}

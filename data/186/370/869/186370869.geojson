@@ -1,0 +1,67 @@
+{
+  "id": 186370869,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-116.924838,44.025293,-116.924838,44.025293",
+    "geom:latitude":44.025293,
+    "geom:longitude":-116.924838,
+    "iso:country":"US",
+    "sg:address":"1118 NW 16th St",
+    "sg:city":"Fruitland",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 452 7677",
+    "sg:postcode":"83619",
+    "sg:province":"ID",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85937909,
+        102086023
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2SwAW35zK93of85ThKhNGN_44.025293_-116.924838@1294099250"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"b7899e5aa0c446a1dd3ac2ce9c5e21ae",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086023,
+            "locality_id":85937909,
+            "neighbourhood_id":-1,
+            "region_id":85688657,
+            "venue_id":186370869
+        }
+    ],
+    "wof:id":186370869,
+    "wof:lastmodified":1449051847,
+    "wof:name":"Mountain States Tumor Inst",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [-116.924838,44.025293,-116.924838,44.025293],
+  "geometry": {"coordinates":[-116.924838,44.025293],"type":"Point"}
+}

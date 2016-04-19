@@ -1,0 +1,68 @@
+{
+  "id": 186446703,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-116.184251,43.595085,-116.184251,43.595085",
+    "geom:latitude":43.595085,
+    "geom:longitude":-116.184251,
+    "iso:country":"US",
+    "sg:address":"230 W Mallard Dr",
+    "sg:city":"Boise",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Health Practitioner",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 422 9826",
+    "sg:postcode":"83706",
+    "sg:province":"ID",
+    "sg:tags":[
+        "therapist",
+        "physical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85937923,
+        102086087,
+        85876305
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2KYGC6R9Mfhi7ZoqLglGX4_43.595085_-116.184251@1294099250"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"4b6d3ea1e0b54ae7b2f4a6126a394cd9",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086087,
+            "locality_id":85937923,
+            "neighbourhood_id":85876305,
+            "region_id":85688657,
+            "venue_id":186446703
+        }
+    ],
+    "wof:id":186446703,
+    "wof:lastmodified":1449052792,
+    "wof:name":"Mountain Land Physical Therapy",
+    "wof:parent_id":85876305,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "therapist",
+        "physical"
+    ]
+},
+  "bbox": [-116.184251,43.595085,-116.184251,43.595085],
+  "geometry": {"coordinates":[-116.184251,43.595085],"type":"Point"}
+}

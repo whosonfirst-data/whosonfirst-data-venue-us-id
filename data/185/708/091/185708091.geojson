@@ -1,0 +1,67 @@
+{
+  "id": 185708091,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-116.098179,44.902727,-116.098179,44.902727",
+    "geom:latitude":44.902727,
+    "geom:longitude":-116.098179,
+    "iso:country":"US",
+    "sg:address":"315 N 3rd St",
+    "sg:city":"Mccall",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Boat Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 634 3902",
+    "sg:postcode":"83638",
+    "sg:province":"ID",
+    "sg:tags":[
+        "dealer",
+        "sales"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85938113,
+        102086079
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7MFsx9mV0yCmDjZDyFACh3_44.902727_-116.098179@1294099250"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"db9035efd82ef16aa18e58b66d6c4cb0",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086079,
+            "locality_id":85938113,
+            "neighbourhood_id":-1,
+            "region_id":85688657,
+            "venue_id":185708091
+        }
+    ],
+    "wof:id":185708091,
+    "wof:lastmodified":1449006871,
+    "wof:name":"Harry's Dry Dock",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dealer",
+        "sales"
+    ]
+},
+  "bbox": [-116.098179,44.902727,-116.098179,44.902727],
+  "geometry": {"coordinates":[-116.098179,44.902727],"type":"Point"}
+}

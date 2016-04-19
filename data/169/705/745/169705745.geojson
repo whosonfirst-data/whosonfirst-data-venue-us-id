@@ -1,0 +1,68 @@
+{
+  "id": 169705745,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-116.132251,47.537395,-116.132251,47.537395",
+    "geom:latitude":47.537395,
+    "geom:longitude":-116.132251,
+    "iso:country":"US",
+    "sg:address":"740 McKinley Ave",
+    "sg:city":"Kellogg",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Health Practitioner",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 783 3015",
+    "sg:postcode":"83837",
+    "sg:province":"ID",
+    "sg:tags":[
+        "therapist",
+        "physical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85937825,
+        102086103,
+        85849049
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5CmOdDV2JeZtCB9iGiRJ1H_47.537395_-116.132251@1294099250"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"f70bdc30acfafa5aa1cfae242cb00a6c",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086103,
+            "locality_id":85937825,
+            "neighbourhood_id":85849049,
+            "region_id":85688657,
+            "venue_id":169705745
+        }
+    ],
+    "wof:id":169705745,
+    "wof:lastmodified":1449035991,
+    "wof:name":"Kellogg Physical Therapy",
+    "wof:parent_id":85849049,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "therapist",
+        "physical"
+    ]
+},
+  "bbox": [-116.132251,47.537395,-116.132251,47.537395],
+  "geometry": {"coordinates":[-116.132251,47.537395],"type":"Point"}
+}

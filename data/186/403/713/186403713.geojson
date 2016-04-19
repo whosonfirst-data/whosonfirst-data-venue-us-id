@@ -1,0 +1,67 @@
+{
+  "id": 186403713,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-116.228613,43.611526,-116.228613,43.611526",
+    "geom:latitude":43.611526,
+    "geom:longitude":-116.228613,
+    "iso:country":"US",
+    "sg:address":"317 N Latah St",
+    "sg:city":"Boise",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Developer",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 384 4391",
+    "sg:postcode":"83706",
+    "sg:province":"ID",
+    "sg:tags":[
+        "cemetery"
+    ],
+    "sg:website":"www.cityofboise.org",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85937923,
+        102086087,
+        85876301
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0vs8Nh4VkERyfnj2IRqbFB_43.611526_-116.228613@1294099250"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"c75c3c9d0627f0c93851fac7b8467dc0",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086087,
+            "locality_id":85937923,
+            "neighbourhood_id":85876301,
+            "region_id":85688657,
+            "venue_id":186403713
+        }
+    ],
+    "wof:id":186403713,
+    "wof:lastmodified":1449052644,
+    "wof:name":"Morris Hill Cemetery",
+    "wof:parent_id":85876301,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cemetery"
+    ]
+},
+  "bbox": [-116.228613,43.611526,-116.228613,43.611526],
+  "geometry": {"coordinates":[-116.228613,43.611526],"type":"Point"}
+}

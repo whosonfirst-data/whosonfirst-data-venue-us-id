@@ -1,0 +1,68 @@
+{
+  "id": 169777059,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-116.574012,43.554209,-116.574012,43.554209",
+    "geom:latitude":43.554209,
+    "geom:longitude":-116.574012,
+    "iso:country":"US",
+    "sg:address":"211 W Iowa Ave",
+    "sg:city":"Nampa",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 465 7377",
+    "sg:postcode":"83686",
+    "sg:province":"ID",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85938009,
+        102085081,
+        85827787
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4R0ErtfCGS5IOvgQjnOmMv_43.554209_-116.574012@1294099250"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"8be5b4c5a01a278d80bd7081eb8985db",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085081,
+            "locality_id":85938009,
+            "neighbourhood_id":85827787,
+            "region_id":85688657,
+            "venue_id":169777059
+        }
+    ],
+    "wof:id":169777059,
+    "wof:lastmodified":1449034427,
+    "wof:name":"Family Medical Clinic",
+    "wof:parent_id":85827787,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [-116.574012,43.554209,-116.574012,43.554209],
+  "geometry": {"coordinates":[-116.574012,43.554209],"type":"Point"}
+}

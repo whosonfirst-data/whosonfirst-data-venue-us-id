@@ -1,0 +1,67 @@
+{
+  "id": 186402801,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-116.236407,43.620613,-116.236407,43.620613",
+    "geom:latitude":43.620613,
+    "geom:longitude":-116.236407,
+    "iso:country":"US",
+    "sg:address":"104 W 31st St",
+    "sg:city":"Boise",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Testing Lab",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 336 1172",
+    "sg:postcode":"83714",
+    "sg:province":"ID",
+    "sg:tags":[
+        "laboratory"
+    ],
+    "sg:website":"www.alchemlabs.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85937923,
+        102086087,
+        85876301
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2TiiThyZ8Gxs82RHAD4lsC_43.620613_-116.236407@1294099250"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"1f75cbe7906a23f0afb3ebdc0b05a264",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086087,
+            "locality_id":85937923,
+            "neighbourhood_id":85876301,
+            "region_id":85688657,
+            "venue_id":186402801
+        }
+    ],
+    "wof:id":186402801,
+    "wof:lastmodified":1449051247,
+    "wof:name":"Alchem Laboratories Inc",
+    "wof:parent_id":85876301,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "laboratory"
+    ]
+},
+  "bbox": [-116.236407,43.620613,-116.236407,43.620613],
+  "geometry": {"coordinates":[-116.236407,43.620613],"type":"Point"}
+}

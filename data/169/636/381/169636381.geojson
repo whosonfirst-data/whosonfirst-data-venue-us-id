@@ -1,0 +1,78 @@
+{
+  "id": 169636381,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-116.808074,47.705751,-116.808074,47.705751",
+    "geom:latitude":47.705751,
+    "geom:longitude":-116.808074,
+    "iso:country":"US",
+    "sg:address":"3835 N Ramsey Rd",
+    "sg:city":"Coeur D Alene",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 664 6975",
+    "sg:postcode":"83815",
+    "sg:province":"ID",
+    "sg:tags":[
+        "shop",
+        "coffee"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85938163,
+        102086085,
+        85806325,
+        85821457
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_65dPRhx2ICBCvhdJcXVnnR_47.705751_-116.808074@1294099250"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"41ae5fbe74e2af9230af3ec288c6f971",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086085,
+            "locality_id":85938163,
+            "neighbourhood_id":85806325,
+            "region_id":85688657,
+            "venue_id":169636381
+        },
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086085,
+            "locality_id":-1,
+            "neighbourhood_id":85821457,
+            "region_id":85688657,
+            "venue_id":169636381
+        }
+    ],
+    "wof:id":169636381,
+    "wof:lastmodified":1449033987,
+    "wof:name":"Higher Ground Espresso",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop",
+        "coffee"
+    ]
+},
+  "bbox": [-116.808074,47.705751,-116.808074,47.705751],
+  "geometry": {"coordinates":[-116.808074,47.705751],"type":"Point"}
+}

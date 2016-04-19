@@ -1,0 +1,81 @@
+{
+  "id": 320524945,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-116.970413,46.376652,-116.970413,46.376652",
+    "geom:latitude":46.376652,
+    "geom:longitude":-116.970413,
+    "iso:country":"US",
+    "sg:address":"501 Thain Rd",
+    "sg:city":"Lewiston",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 743 1135",
+    "sg:postcode":"83501",
+    "sg:province":"ID",
+    "sg:tags":[
+        "style",
+        "american",
+        "family"
+    ],
+    "sg:website":"http://www.countrykitchenrestaurants.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85937743,
+        102086039,
+        85837769,
+        85830385
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0Tr8rSaA6p5hd6FkAO0Nb8_46.376652_-116.970413@1303263095"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"17bb7fddba8c78cf5f2a321d5c8173cd",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086039,
+            "locality_id":85937743,
+            "neighbourhood_id":85837769,
+            "region_id":85688657,
+            "venue_id":320524945
+        },
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086039,
+            "locality_id":85937743,
+            "neighbourhood_id":85830385,
+            "region_id":85688657,
+            "venue_id":320524945
+        }
+    ],
+    "wof:id":320524945,
+    "wof:lastmodified":1449011223,
+    "wof:name":"Country Kitchen",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "style",
+        "american",
+        "family"
+    ]
+},
+  "bbox": [-116.970413,46.376652,-116.970413,46.376652],
+  "geometry": {"coordinates":[-116.970413,46.376652],"type":"Point"}
+}

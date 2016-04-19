@@ -1,0 +1,68 @@
+{
+  "id": 185721809,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-116.279832,43.6593,-116.279832,43.6593",
+    "geom:latitude":43.6593,
+    "geom:longitude":-116.279832,
+    "iso:country":"US",
+    "sg:address":"5600 Glenwood St",
+    "sg:city":"Boise",
+    "sg:classifiers":[
+        {
+            "category":"Recreation",
+            "subcategory":"",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 322 5000",
+    "sg:postcode":"83707",
+    "sg:province":"ID",
+    "sg:tags":[
+        "club",
+        "baseball"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85937919,
+        102086087,
+        85876349
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4BDUnsWY7L7gMSdcTJuib1_43.659300_-116.279832@1294099250"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"f2352f1bc60a2ca47308552cb95f64a5",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086087,
+            "locality_id":85937919,
+            "neighbourhood_id":85876349,
+            "region_id":85688657,
+            "venue_id":185721809
+        }
+    ],
+    "wof:id":185721809,
+    "wof:lastmodified":1449008207,
+    "wof:name":"Boise Hawks Baseball Club",
+    "wof:parent_id":85876349,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "club",
+        "baseball"
+    ]
+},
+  "bbox": [-116.279832,43.6593,-116.279832,43.6593],
+  "geometry": {"coordinates":[-116.279832,43.6593],"type":"Point"}
+}

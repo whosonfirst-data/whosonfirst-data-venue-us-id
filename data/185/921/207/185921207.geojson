@@ -1,0 +1,67 @@
+{
+  "id": 185921207,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-116.254284,43.666205,-116.254284,43.666205",
+    "geom:latitude":43.666205,
+    "geom:longitude":-116.254284,
+    "iso:country":"US",
+    "sg:address":"5310 W Holly Hill Dr",
+    "sg:city":"Boise",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 384 9055",
+    "sg:postcode":"83703",
+    "sg:province":"ID",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        102086087,
+        85811879
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6dBatUDQpyjC5mwLf4ai1a_43.666205_-116.254284@1294099250"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"690e8b6da32eecd8de999b9b02286d53",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086087,
+            "locality_id":-1,
+            "neighbourhood_id":85811879,
+            "region_id":85688657,
+            "venue_id":185921207
+        }
+    ],
+    "wof:id":185921207,
+    "wof:lastmodified":1449007631,
+    "wof:name":"Dr Andrew Myers",
+    "wof:parent_id":85811879,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [-116.254284,43.666205,-116.254284,43.666205],
+  "geometry": {"coordinates":[-116.254284,43.666205],"type":"Point"}
+}

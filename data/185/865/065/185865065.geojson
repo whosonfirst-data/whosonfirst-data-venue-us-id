@@ -1,0 +1,67 @@
+{
+  "id": 185865065,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-114.25862,43.465344,-114.25862,43.465344",
+    "geom:latitude":43.465344,
+    "geom:longitude":-114.25862,
+    "iso:country":"US",
+    "sg:address":"102 3rd St",
+    "sg:city":"Bellevue",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Refuse",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 788 0886",
+    "sg:postcode":"83313",
+    "sg:province":"ID",
+    "sg:tags":[
+        "garbage",
+        "collection"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85937947,
+        102086031
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1mUhmMwaOyNycjUh7dIz5X_43.465344_-114.258620@1294099250"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"3f1b45b6995c721b35f18012ffda8897",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086031,
+            "locality_id":85937947,
+            "neighbourhood_id":-1,
+            "region_id":85688657,
+            "venue_id":185865065
+        }
+    ],
+    "wof:id":185865065,
+    "wof:lastmodified":1449007827,
+    "wof:name":"Independent Rubbish Svc",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "garbage",
+        "collection"
+    ]
+},
+  "bbox": [-114.25862,43.465344,-114.25862,43.465344],
+  "geometry": {"coordinates":[-114.25862,43.465344],"type":"Point"}
+}

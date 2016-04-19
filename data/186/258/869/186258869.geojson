@@ -1,0 +1,68 @@
+{
+  "id": 186258869,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-116.193398,43.603344,-116.193398,43.603344",
+    "geom:latitude":43.603344,
+    "geom:longitude":-116.193398,
+    "iso:country":"US",
+    "sg:address":"1000 Broadway Ave",
+    "sg:city":"Boise",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 383 7868",
+    "sg:postcode":"83706",
+    "sg:province":"ID",
+    "sg:website":"www.usbank.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85937923,
+        102086087,
+        85876345
+    ],
+    "wof:brand_id":420574061,
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5w7uaPu0sKmzk9MN8XHxm6_43.603344_-116.193398@1294099250"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"98cc6f6046681ec0d9e40e74b2ed9205",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086087,
+            "locality_id":85937923,
+            "neighbourhood_id":85876345,
+            "region_id":85688657,
+            "venue_id":186258869
+        }
+    ],
+    "wof:id":186258869,
+    "wof:lastmodified":1457208407,
+    "wof:name":"US Bank",
+    "wof:parent_id":85876345,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -116.193398,
+    43.603344,
+    -116.193398,
+    43.603344
+],
+  "geometry": {"coordinates":[-116.193398,43.603344],"type":"Point"}
+}

@@ -1,0 +1,66 @@
+{
+  "id": 186468853,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-116.257685,43.635615,-116.257685,43.635615",
+    "geom:latitude":43.635615,
+    "geom:longitude":-116.257685,
+    "iso:country":"US",
+    "sg:address":"4554 Chinden Blvd",
+    "sg:city":"Boise",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Auto Supplies",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 322 7426",
+    "sg:postcode":"83714",
+    "sg:province":"ID",
+    "sg:tags":[
+        "battery"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85937919,
+        102086087,
+        85876349
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7gVQsrrp3g7ab6orLe9VXT_43.635615_-116.257685@1294099250"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"1d9584dde3a669d65450ca9c4994d7af",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086087,
+            "locality_id":85937919,
+            "neighbourhood_id":85876349,
+            "region_id":85688657,
+            "venue_id":186468853
+        }
+    ],
+    "wof:id":186468853,
+    "wof:lastmodified":1449052279,
+    "wof:name":"Standard Batteries",
+    "wof:parent_id":85876349,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "battery"
+    ]
+},
+  "bbox": [-116.257685,43.635615,-116.257685,43.635615],
+  "geometry": {"coordinates":[-116.257685,43.635615],"type":"Point"}
+}

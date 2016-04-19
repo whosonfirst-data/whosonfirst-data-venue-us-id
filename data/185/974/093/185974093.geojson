@@ -1,0 +1,67 @@
+{
+  "id": 185974093,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-116.559717,48.27083,-116.559717,48.27083",
+    "geom:latitude":48.27083,
+    "geom:longitude":-116.559717,
+    "iso:country":"US",
+    "sg:address":"909 US Hwy 2",
+    "sg:city":"Sandpoint",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 255 2955",
+    "sg:postcode":"83864",
+    "sg:province":"ID",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85937975,
+        102085145
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_37XlVfqrjjcU8YQRcIy2rr_48.270830_-116.559717@1294099250"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"64d0d44aa76aa1bee44491c817d41192",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085145,
+            "locality_id":85937975,
+            "neighbourhood_id":-1,
+            "region_id":85688657,
+            "venue_id":185974093
+        }
+    ],
+    "wof:id":185974093,
+    "wof:lastmodified":1449008008,
+    "wof:name":"Six Star Automotive",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [-116.559717,48.27083,-116.559717,48.27083],
+  "geometry": {"coordinates":[-116.559717,48.27083],"type":"Point"}
+}

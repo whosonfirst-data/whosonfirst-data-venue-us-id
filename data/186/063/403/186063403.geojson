@@ -1,0 +1,68 @@
+{
+  "id": 186063403,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-116.121744,45.927017,-116.121744,45.927017",
+    "geom:latitude":45.927017,
+    "geom:longitude":-116.121744,
+    "iso:country":"US",
+    "sg:address":"225 W North St",
+    "sg:city":"Grangeville",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Water",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 983 1380",
+    "sg:postcode":"83530",
+    "sg:province":"ID",
+    "sg:tags":[
+        "company",
+        "sewage"
+    ],
+    "sg:website":"www.grangeville.us",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85937869,
+        102085053
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2VRTU9THFbJF0ZnyTyeigo_45.927017_-116.121744@1294099250"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"7db44844f7cfada9332f528d83b6ad0c",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085053,
+            "locality_id":85937869,
+            "neighbourhood_id":-1,
+            "region_id":85688657,
+            "venue_id":186063403
+        }
+    ],
+    "wof:id":186063403,
+    "wof:lastmodified":1449050480,
+    "wof:name":"Grangeville Water Dept",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "company",
+        "sewage"
+    ]
+},
+  "bbox": [-116.121744,45.927017,-116.121744,45.927017],
+  "geometry": {"coordinates":[-116.121744,45.927017],"type":"Point"}
+}

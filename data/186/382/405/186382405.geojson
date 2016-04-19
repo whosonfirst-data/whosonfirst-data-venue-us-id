@@ -1,0 +1,68 @@
+{
+  "id": 186382405,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-116.25859,43.603533,-116.25859,43.603533",
+    "geom:latitude":43.603533,
+    "geom:longitude":-116.25859,
+    "iso:country":"US",
+    "sg:address":"5823 Franklin Rd",
+    "sg:city":"Boise",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 433 1133",
+    "sg:postcode":"83709",
+    "sg:province":"ID",
+    "sg:tags":[
+        "automobile",
+        "inspection"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85937923,
+        102086087,
+        85806577
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6RDCuotIH9lRBoDa3ve7so_43.603533_-116.258590@1294099250"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"c0590a548531cddf6d9f40344f272949",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086087,
+            "locality_id":85937923,
+            "neighbourhood_id":85806577,
+            "region_id":85688657,
+            "venue_id":186382405
+        }
+    ],
+    "wof:id":186382405,
+    "wof:lastmodified":1449051099,
+    "wof:name":"In-N-Out Emissions",
+    "wof:parent_id":85806577,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automobile",
+        "inspection"
+    ]
+},
+  "bbox": [-116.25859,43.603533,-116.25859,43.603533],
+  "geometry": {"coordinates":[-116.25859,43.603533],"type":"Point"}
+}

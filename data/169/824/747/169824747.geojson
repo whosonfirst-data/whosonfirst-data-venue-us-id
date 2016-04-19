@@ -1,0 +1,65 @@
+{
+  "id": 169824747,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-116.801084,47.744395,-116.801084,47.744395",
+    "geom:latitude":47.744395,
+    "geom:longitude":-116.801084,
+    "iso:country":"US",
+    "sg:address":"920 W Prairie Ave",
+    "sg:city":"Coeur D Alene",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Veterinary Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 772 3214",
+    "sg:postcode":"83815",
+    "sg:province":"ID",
+    "sg:tags":[
+        "veterinarian"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        102086085,
+        85821457
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4XEQblAOWe55Jpy4LCDR0H_47.744395_-116.801084@1294099250"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"c11829cad3ee003356443d92a0224bac",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086085,
+            "locality_id":-1,
+            "neighbourhood_id":85821457,
+            "region_id":85688657,
+            "venue_id":169824747
+        }
+    ],
+    "wof:id":169824747,
+    "wof:lastmodified":1449033866,
+    "wof:name":"Prairie Animal Hospital",
+    "wof:parent_id":85821457,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "veterinarian"
+    ]
+},
+  "bbox": [-116.801084,47.744395,-116.801084,47.744395],
+  "geometry": {"coordinates":[-116.801084,47.744395],"type":"Point"}
+}

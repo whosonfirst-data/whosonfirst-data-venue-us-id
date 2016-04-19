@@ -1,0 +1,69 @@
+{
+  "id": 320533693,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-116.403648,43.59008,-116.403648,43.59008",
+    "geom:latitude":43.59008,
+    "geom:longitude":-116.403648,
+    "iso:country":"US",
+    "sg:address":"800 W Overland Rd Suite 2",
+    "sg:city":"Meridian",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Veterinary Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 473 7801",
+    "sg:postcode":"83642",
+    "sg:province":"ID",
+    "sg:tags":[
+        "clinic",
+        "hospital"
+    ],
+    "sg:website":"http://www.intermountainvet.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85937915,
+        102086087,
+        85805083
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5768oygwUALVM30yZ9xAm6_43.590080_-116.403648@1303263095"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"973091a5ca40eb1348bc916e30830f11",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086087,
+            "locality_id":85937915,
+            "neighbourhood_id":85805083,
+            "region_id":85688657,
+            "venue_id":320533693
+        }
+    ],
+    "wof:id":320533693,
+    "wof:lastmodified":1449011212,
+    "wof:name":"The Pet Lodge",
+    "wof:parent_id":85805083,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "clinic",
+        "hospital"
+    ]
+},
+  "bbox": [-116.403648,43.59008,-116.403648,43.59008],
+  "geometry": {"coordinates":[-116.403648,43.59008],"type":"Point"}
+}

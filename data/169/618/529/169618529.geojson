@@ -1,0 +1,67 @@
+{
+  "id": 169618529,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-111.77704,43.825906,-111.77704,43.825906",
+    "geom:latitude":43.825906,
+    "geom:longitude":-111.77704,
+    "iso:country":"US",
+    "sg:address":"240 E Main St",
+    "sg:city":"Rexburg",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 356 8808",
+    "sg:postcode":"83440",
+    "sg:province":"ID",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85937903,
+        102086101
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2sBG29jlB3VJIZ6rBEz5Tk_43.825906_-111.777040@1294099250"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"a4b0d86a147c60124793673db0867fe1",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086101,
+            "locality_id":85937903,
+            "neighbourhood_id":-1,
+            "region_id":85688657,
+            "venue_id":169618529
+        }
+    ],
+    "wof:id":169618529,
+    "wof:lastmodified":1449034737,
+    "wof:name":"Madison Clinic",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [-111.77704,43.825906,-111.77704,43.825906],
+  "geometry": {"coordinates":[-111.77704,43.825906],"type":"Point"}
+}

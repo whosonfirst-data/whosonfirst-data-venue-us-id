@@ -1,0 +1,70 @@
+{
+  "id": 185660719,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-116.279748,43.650459,-116.279748,43.650459",
+    "geom:latitude":43.650459,
+    "geom:longitude":-116.279748,
+    "iso:country":"US",
+    "sg:address":"4925 Glenwood St",
+    "sg:city":"Boise",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 376 7444",
+    "sg:postcode":"83714",
+    "sg:province":"ID",
+    "sg:tags":[
+        "automobile",
+        "testing",
+        "emission"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85937919,
+        102086087,
+        85876349
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3KbYZY9zylcVuNfHXgkQzI_43.650459_-116.279748@1294099250"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"eb9e3647aaa0917ad5956d0dceaa4914",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086087,
+            "locality_id":85937919,
+            "neighbourhood_id":85876349,
+            "region_id":85688657,
+            "venue_id":185660719
+        }
+    ],
+    "wof:id":185660719,
+    "wof:lastmodified":1449008056,
+    "wof:name":"Idaho Air",
+    "wof:parent_id":85876349,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automobile",
+        "testing",
+        "emission"
+    ]
+},
+  "bbox": [-116.279748,43.650459,-116.279748,43.650459],
+  "geometry": {"coordinates":[-116.279748,43.650459],"type":"Point"}
+}

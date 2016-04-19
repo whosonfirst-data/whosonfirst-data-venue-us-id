@@ -1,0 +1,65 @@
+{
+  "id": 186434261,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-116.923751,44.009611,-116.923751,44.009611",
+    "geom:latitude":44.009611,
+    "geom:longitude":-116.923751,
+    "iso:country":"US",
+    "sg:address":"200 S Whitley Dr",
+    "sg:city":"Fruitland",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Police Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 452 3110",
+    "sg:postcode":"83619",
+    "sg:province":"ID",
+    "sg:tags":[
+        "department"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85937909,
+        102086023
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7mh046Pf2qcEItYttB216V_44.009611_-116.923751@1294099250"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"6caa852c3f5260a079ca13b1e8ea9e7a",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086023,
+            "locality_id":85937909,
+            "neighbourhood_id":-1,
+            "region_id":85688657,
+            "venue_id":186434261
+        }
+    ],
+    "wof:id":186434261,
+    "wof:lastmodified":1449050976,
+    "wof:name":"Police Department Dispatch",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "department"
+    ]
+},
+  "bbox": [-116.923751,44.009611,-116.923751,44.009611],
+  "geometry": {"coordinates":[-116.923751,44.009611],"type":"Point"}
+}

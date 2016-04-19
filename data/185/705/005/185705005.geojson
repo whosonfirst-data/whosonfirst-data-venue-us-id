@@ -1,0 +1,68 @@
+{
+  "id": 185705005,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-116.213745,43.587371,-116.213745,43.587371",
+    "geom:latitude":43.587371,
+    "geom:longitude":-116.213745,
+    "iso:country":"US",
+    "sg:address":"1703 Vista Ave",
+    "sg:city":"Boise",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 336 6024",
+    "sg:postcode":"83705",
+    "sg:province":"ID",
+    "sg:tags":[
+        "car",
+        "dealer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85937923,
+        102086087,
+        85876343
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6ZEArLavdiAcKpiNX9WuDV_43.587371_-116.213745@1294099250"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"7e9b06e569b709411c86b43c525999f3",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086087,
+            "locality_id":85937923,
+            "neighbourhood_id":85876343,
+            "region_id":85688657,
+            "venue_id":185705005
+        }
+    ],
+    "wof:id":185705005,
+    "wof:lastmodified":1449008221,
+    "wof:name":"Pro One Auto Sales",
+    "wof:parent_id":85876343,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "car",
+        "dealer"
+    ]
+},
+  "bbox": [-116.213745,43.587371,-116.213745,43.587371],
+  "geometry": {"coordinates":[-116.213745,43.587371],"type":"Point"}
+}

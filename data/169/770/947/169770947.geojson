@@ -1,0 +1,69 @@
+{
+  "id": 169770947,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-116.782231,47.750227,-116.782231,47.750227",
+    "geom:latitude":47.750227,
+    "geom:longitude":-116.782231,
+    "iso:country":"US",
+    "sg:address":"8646 N Rude St",
+    "sg:city":"Hayden",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 762 9109",
+    "sg:postcode":"83835",
+    "sg:province":"ID",
+    "sg:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        102086085,
+        85821457
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0oKNs6ERdYip1YKviou3gi_47.750227_-116.782231@1294099250"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"20652e0d81de3fe4469a926a7067b114",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086085,
+            "locality_id":-1,
+            "neighbourhood_id":85821457,
+            "region_id":85688657,
+            "venue_id":169770947
+        }
+    ],
+    "wof:id":169770947,
+    "wof:lastmodified":1449036035,
+    "wof:name":"Vannett Trucking",
+    "wof:parent_id":85821457,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ]
+},
+  "bbox": [-116.782231,47.750227,-116.782231,47.750227],
+  "geometry": {"coordinates":[-116.782231,47.750227],"type":"Point"}
+}

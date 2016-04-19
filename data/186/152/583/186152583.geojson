@@ -1,0 +1,69 @@
+{
+  "id": 186152583,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-116.255126,43.66404,-116.255126,43.66404",
+    "geom:latitude":43.66404,
+    "geom:longitude":-116.255126,
+    "iso:country":"US",
+    "sg:address":"4841 N Waterfront Way",
+    "sg:city":"Boise",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 385 0464",
+    "sg:postcode":"83703",
+    "sg:province":"ID",
+    "sg:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        102086087,
+        85811879
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4pg66fGP8hGXi47iphwL0s_43.664040_-116.255126@1294099250"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"8e901f2829fbe8862b468c3c15dd531b",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086087,
+            "locality_id":-1,
+            "neighbourhood_id":85811879,
+            "region_id":85688657,
+            "venue_id":186152583
+        }
+    ],
+    "wof:id":186152583,
+    "wof:lastmodified":1449052388,
+    "wof:name":"Elt Trucking",
+    "wof:parent_id":85811879,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ]
+},
+  "bbox": [-116.255126,43.66404,-116.255126,43.66404],
+  "geometry": {"coordinates":[-116.255126,43.66404],"type":"Point"}
+}

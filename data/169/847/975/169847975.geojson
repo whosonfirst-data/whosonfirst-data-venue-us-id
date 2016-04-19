@@ -1,0 +1,83 @@
+{
+  "id": 169847975,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-116.79709,47.700767,-116.79709,47.700767",
+    "geom:latitude":47.700767,
+    "geom:longitude":-116.79709,
+    "iso:country":"US",
+    "sg:address":"901 W Appleway Ave",
+    "sg:city":"Coeur D Alene",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Building Materials",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 665 1313",
+    "sg:postcode":"83814",
+    "sg:province":"ID",
+    "sg:tags":[
+        "center"
+    ],
+    "sg:website":"www.lowes.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85938163,
+        102086085,
+        85806325,
+        85821457
+    ],
+    "wof:brand_id":420574387,
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7G7qtOddpVfBpzlrcVv7tW_47.700767_-116.797090@1294099250"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"08c41812716e6135ec909597a97423ef",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086085,
+            "locality_id":85938163,
+            "neighbourhood_id":85806325,
+            "region_id":85688657,
+            "venue_id":169847975
+        },
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086085,
+            "locality_id":-1,
+            "neighbourhood_id":85821457,
+            "region_id":85688657,
+            "venue_id":169847975
+        }
+    ],
+    "wof:id":169847975,
+    "wof:lastmodified":1457208846,
+    "wof:name":"Lowe's",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "center"
+    ]
+},
+  "bbox": [
+    -116.79709,
+    47.700767,
+    -116.79709,
+    47.700767
+],
+  "geometry": {"coordinates":[-116.79709,47.700767],"type":"Point"}
+}

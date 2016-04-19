@@ -1,0 +1,68 @@
+{
+  "id": 186267265,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-116.253704,43.614088,-116.253704,43.614088",
+    "geom:latitude":43.614088,
+    "geom:longitude":-116.253704,
+    "iso:country":"US",
+    "sg:address":"1075 N Curtis Rd",
+    "sg:city":"Boise",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 345 6545",
+    "sg:postcode":"83706",
+    "sg:province":"ID",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85937923,
+        102086087,
+        85876311
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5a5rpwnxaBsHdEvpGupjyQ_43.614088_-116.253704@1294099250"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"fbd27014172cd3420bddd346d0a3bad5",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086087,
+            "locality_id":85937923,
+            "neighbourhood_id":85876311,
+            "region_id":85688657,
+            "venue_id":186267265
+        }
+    ],
+    "wof:id":186267265,
+    "wof:lastmodified":1449052780,
+    "wof:name":"Cardiovascular & Chest Assoc",
+    "wof:parent_id":85876311,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [-116.253704,43.614088,-116.253704,43.614088],
+  "geometry": {"coordinates":[-116.253704,43.614088],"type":"Point"}
+}

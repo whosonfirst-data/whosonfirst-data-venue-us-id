@@ -1,0 +1,68 @@
+{
+  "id": 185649619,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-116.567987,43.581427,-116.567987,43.581427",
+    "geom:latitude":43.581427,
+    "geom:longitude":-116.567987,
+    "iso:country":"US",
+    "sg:address":"611 3rd St S",
+    "sg:city":"Nampa",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 466 0026",
+    "sg:postcode":"83651",
+    "sg:province":"ID",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85938009,
+        102085081,
+        85827787
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6z1yy8SVLvea7CDiyptbz2_43.581427_-116.567987@1294099250"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"69e53903a4bc9267a7f78825db24cd61",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085081,
+            "locality_id":85938009,
+            "neighbourhood_id":85827787,
+            "region_id":85688657,
+            "venue_id":185649619
+        }
+    ],
+    "wof:id":185649619,
+    "wof:lastmodified":1449007682,
+    "wof:name":"D & N Auto Repair",
+    "wof:parent_id":85827787,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [-116.567987,43.581427,-116.567987,43.581427],
+  "geometry": {"coordinates":[-116.567987,43.581427],"type":"Point"}
+}

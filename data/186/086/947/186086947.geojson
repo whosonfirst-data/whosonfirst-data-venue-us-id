@@ -1,0 +1,72 @@
+{
+  "id": 186086947,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-116.336746,43.609126,-116.336746,43.609126",
+    "geom:latitude":43.609126,
+    "geom:longitude":-116.336746,
+    "iso:country":"US",
+    "sg:address":"12368 W Monsanto St",
+    "sg:city":"Boise",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 321 2635",
+    "sg:postcode":"83713",
+    "sg:province":"ID",
+    "sg:tags":[
+        "distance",
+        "local",
+        "hauling",
+        "long"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85937915,
+        102086087,
+        85805083
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3c91Q4a9DBLdIGMJ2OmloX_43.609126_-116.336746@1294099250"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"965df1a480802a35b4d3e3de7633b445",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086087,
+            "locality_id":85937915,
+            "neighbourhood_id":85805083,
+            "region_id":85688657,
+            "venue_id":186086947
+        }
+    ],
+    "wof:id":186086947,
+    "wof:lastmodified":1449052166,
+    "wof:name":"Air Van Lines",
+    "wof:parent_id":85805083,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "distance",
+        "local",
+        "hauling",
+        "long"
+    ]
+},
+  "bbox": [-116.336746,43.609126,-116.336746,43.609126],
+  "geometry": {"coordinates":[-116.336746,43.609126],"type":"Point"}
+}

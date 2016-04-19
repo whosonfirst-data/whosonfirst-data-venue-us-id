@@ -1,0 +1,65 @@
+{
+  "id": 169748459,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-116.794166,47.733305,-116.794166,47.733305",
+    "geom:latitude":47.733305,
+    "geom:longitude":-116.794166,
+    "iso:country":"US",
+    "sg:address":"555 W Canfield Ave",
+    "sg:city":"Coeur D Alene",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 762 8750",
+    "sg:postcode":"83815",
+    "sg:province":"ID",
+    "sg:tags":[
+        "dentist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        102086085,
+        85821457
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4C9k2XrmgxHFz7Lcsnqg38_47.733305_-116.794166@1294099250"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"8395c8c3e36ca97259ab30da72be146b",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086085,
+            "locality_id":-1,
+            "neighbourhood_id":85821457,
+            "region_id":85688657,
+            "venue_id":169748459
+        }
+    ],
+    "wof:id":169748459,
+    "wof:lastmodified":1449035145,
+    "wof:name":"Kootenai Dental Group",
+    "wof:parent_id":85821457,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dentist"
+    ]
+},
+  "bbox": [-116.794166,47.733305,-116.794166,47.733305],
+  "geometry": {"coordinates":[-116.794166,47.733305],"type":"Point"}
+}

@@ -1,0 +1,83 @@
+{
+  "id": 185957011,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-116.778674,47.715022,-116.778674,47.715022",
+    "geom:latitude":47.715022,
+    "geom:longitude":-116.778674,
+    "iso:country":"US",
+    "sg:address":"4000 N 4th St",
+    "sg:city":"Coeur D Alene",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 667 3543",
+    "sg:postcode":"83815",
+    "sg:province":"ID",
+    "sg:tags":[
+        "church"
+    ],
+    "sg:website":"www.cdanaz.org",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85938163,
+        102086085,
+        85806325,
+        85821457
+    ],
+    "wof:brand_id":420574217,
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_15GsyKZm4JPsbhpeIh1K7w_47.715022_-116.778674@1294099250"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"2afd3ff6125a422f5ee5c5f3067cde0d",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086085,
+            "locality_id":85938163,
+            "neighbourhood_id":85806325,
+            "region_id":85688657,
+            "venue_id":185957011
+        },
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086085,
+            "locality_id":-1,
+            "neighbourhood_id":85821457,
+            "region_id":85688657,
+            "venue_id":185957011
+        }
+    ],
+    "wof:id":185957011,
+    "wof:lastmodified":1457208658,
+    "wof:name":"Church Of The Nazarene",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "church"
+    ]
+},
+  "bbox": [
+    -116.778674,
+    47.715022,
+    -116.778674,
+    47.715022
+],
+  "geometry": {"coordinates":[-116.778674,47.715022],"type":"Point"}
+}

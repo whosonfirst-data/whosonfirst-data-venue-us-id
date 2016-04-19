@@ -1,0 +1,68 @@
+{
+  "id": 185698285,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-116.786514,47.757298,-116.786514,47.757298",
+    "geom:latitude":47.757298,
+    "geom:longitude":-116.786514,
+    "iso:country":"US",
+    "sg:address":"9420 N Government Way",
+    "sg:city":"Hayden",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 762 4474",
+    "sg:postcode":"83835",
+    "sg:province":"ID",
+    "sg:tags":[
+        "pet",
+        "shop"
+    ],
+    "sg:website":"www.pet-stop.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        102086085,
+        85821457
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_38Kdslkw35mfxiRcbOrNe8_47.757298_-116.786514@1294099250"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"958eea1ee0fdbc0cb7c09741153f56ec",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086085,
+            "locality_id":-1,
+            "neighbourhood_id":85821457,
+            "region_id":85688657,
+            "venue_id":185698285
+        }
+    ],
+    "wof:id":185698285,
+    "wof:lastmodified":1449008110,
+    "wof:name":"Petstop",
+    "wof:parent_id":85821457,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pet",
+        "shop"
+    ]
+},
+  "bbox": [-116.786514,47.757298,-116.786514,47.757298],
+  "geometry": {"coordinates":[-116.786514,47.757298],"type":"Point"}
+}

@@ -1,0 +1,66 @@
+{
+  "id": 185764143,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-116.281812,43.660255,-116.281812,43.660255",
+    "geom:latitude":43.660255,
+    "geom:longitude":-116.281812,
+    "iso:country":"US",
+    "sg:address":"6200 River Pointe Dr",
+    "sg:city":"Boise",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 377 8600",
+    "sg:postcode":"83714",
+    "sg:province":"ID",
+    "sg:tags":[
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85937919,
+        102086087,
+        85876349
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0XqTPldP9wCjQTdLsjZXT6_43.660255_-116.281812@1294099250"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"17f973d4905cf54ec4129e330e5bbfe7",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086087,
+            "locality_id":85937919,
+            "neighbourhood_id":85876349,
+            "region_id":85688657,
+            "venue_id":185764143
+        }
+    ],
+    "wof:id":185764143,
+    "wof:lastmodified":1449008123,
+    "wof:name":"River Pointe Apartments",
+    "wof:parent_id":85876349,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "apartment"
+    ]
+},
+  "bbox": [-116.281812,43.660255,-116.281812,43.660255],
+  "geometry": {"coordinates":[-116.281812,43.660255],"type":"Point"}
+}

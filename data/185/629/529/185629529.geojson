@@ -1,0 +1,68 @@
+{
+  "id": 185629529,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-116.331446,43.593954,-116.331446,43.593954",
+    "geom:latitude":43.593954,
+    "geom:longitude":-116.331446,
+    "iso:country":"US",
+    "sg:address":"11953 W Lewisberg Ct",
+    "sg:city":"Boise",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 375 3796",
+    "sg:postcode":"83709",
+    "sg:province":"ID",
+    "sg:tags":[
+        "electric",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85937915,
+        102086087,
+        85805083
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1O5jnThThgSuskiRfvRTDs_43.593954_-116.331446@1294099250"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"241992618e78a8ae90361c35aa6e1c85",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086087,
+            "locality_id":85937915,
+            "neighbourhood_id":85805083,
+            "region_id":85688657,
+            "venue_id":185629529
+        }
+    ],
+    "wof:id":185629529,
+    "wof:lastmodified":1449007854,
+    "wof:name":"Vanzandt Electric",
+    "wof:parent_id":85805083,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electric",
+        "contractor"
+    ]
+},
+  "bbox": [-116.331446,43.593954,-116.331446,43.593954],
+  "geometry": {"coordinates":[-116.331446,43.593954],"type":"Point"}
+}

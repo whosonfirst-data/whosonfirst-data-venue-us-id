@@ -1,0 +1,67 @@
+{
+  "id": 186015871,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-116.240727,43.560382,-116.240727,43.560382",
+    "geom:latitude":43.560382,
+    "geom:longitude":-116.240727,
+    "iso:country":"US",
+    "sg:address":"4775 W Dorman St",
+    "sg:city":"Boise",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Animal Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 342 3508",
+    "sg:postcode":"83705",
+    "sg:province":"ID",
+    "sg:tags":[
+        "shelter"
+    ],
+    "sg:website":"www.idahohumanesociety.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85937923,
+        102086087,
+        85825393
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3essJDXEzkUPktWgiM8iEY_43.560382_-116.240727@1294099250"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"c724ff3e7c51507a8fb5901262a20127",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086087,
+            "locality_id":85937923,
+            "neighbourhood_id":85825393,
+            "region_id":85688657,
+            "venue_id":186015871
+        }
+    ],
+    "wof:id":186015871,
+    "wof:lastmodified":1449051011,
+    "wof:name":"Idaho Humane Society Clinic",
+    "wof:parent_id":85825393,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shelter"
+    ]
+},
+  "bbox": [-116.240727,43.560382,-116.240727,43.560382],
+  "geometry": {"coordinates":[-116.240727,43.560382],"type":"Point"}
+}
