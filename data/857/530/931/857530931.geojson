@@ -1,0 +1,71 @@
+{
+  "id": 857530931,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-116.880725,47.717902,-116.880725,47.717902",
+    "geom:latitude":47.717902,
+    "geom:longitude":-116.880725,
+    "iso:country":"US",
+    "sg:address":"5338 E Heather Ln",
+    "sg:city":"Post Falls",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Catalog Store",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 773 3272",
+    "sg:postcode":"83854",
+    "sg:province":"ID",
+    "sg:tags":[
+        "mail",
+        "house"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85821457,
+        102086085
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1JjNiWvnYx3WwPDncON38I_47.717902_-116.880725@1294099250"
+    },
+    "wof:country":"US",
+    "wof:created":1464202559,
+    "wof:geomhash":"fe446605c781741f8e6ca354569d9952",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086085,
+            "neighbourhood_id":85821457,
+            "region_id":85688657,
+            "venue_id":857530931
+        }
+    ],
+    "wof:id":857530931,
+    "wof:lastmodified":1464202559,
+    "wof:name":"Flomar Products",
+    "wof:parent_id":85821457,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mail",
+        "house"
+    ]
+},
+  "bbox": [
+    -116.880725,
+    47.717902,
+    -116.880725,
+    47.717902
+],
+  "geometry": {"coordinates":[-116.880725,47.717902],"type":"Point"}
+}

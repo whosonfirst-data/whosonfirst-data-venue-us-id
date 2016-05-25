@@ -1,0 +1,81 @@
+{
+  "id": 857618959,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-116.786697,47.722804,-116.786697,47.722804",
+    "geom:latitude":47.722804,
+    "geom:longitude":-116.786697,
+    "iso:country":"US",
+    "sg:address":"5711 N Government Way",
+    "sg:city":"Coeur D Alene",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Used Merchandise",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 762 0575",
+    "sg:postcode":"83815",
+    "sg:province":"ID",
+    "sg:tags":[
+        "pawnbroker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85821457,
+        102086085,
+        102191575,
+        85938163,
+        85806325
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3ZXKOBG8j9gd1RphFdI3uJ_47.722804_-116.786697@1294099250"
+    },
+    "wof:country":"US",
+    "wof:created":1464204401,
+    "wof:geomhash":"a32a7219462d0488370f9f8e0d8f73e6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086085,
+            "neighbourhood_id":85821457,
+            "region_id":85688657,
+            "venue_id":857618959
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086085,
+            "locality_id":85938163,
+            "neighbourhood_id":85806325,
+            "region_id":85688657,
+            "venue_id":857618959
+        }
+    ],
+    "wof:id":857618959,
+    "wof:lastmodified":1464204401,
+    "wof:name":"Gold N Pawn",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pawnbroker"
+    ]
+},
+  "bbox": [
+    -116.786697,
+    47.722804,
+    -116.786697,
+    47.722804
+],
+  "geometry": {"coordinates":[-116.786697,47.722804],"type":"Point"}
+}

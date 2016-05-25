@@ -1,0 +1,75 @@
+{
+  "id": 857628643,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-116.518851,43.593993,-116.518851,43.593993",
+    "geom:latitude":43.593993,
+    "geom:longitude":-116.518851,
+    "iso:country":"US",
+    "sg:address":"4315 Garrity Blvd",
+    "sg:city":"Nampa",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/id/nampa/235350-taco-time/menu/",
+    "sg:owner":"simplegeo",
+    "sg:postcode":"83687",
+    "sg:province":"ID",
+    "sg:tags":[
+        "american",
+        "mexican",
+        "tex-mex"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85938009,
+        102085081,
+        85827787
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5XC6WE8WliTX5PCWX6dDlO_43.593993_-116.518851@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464204636,
+    "wof:geomhash":"6831cab2d69bc15359eff1c7380f53f8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085081,
+            "locality_id":85938009,
+            "neighbourhood_id":85827787,
+            "region_id":85688657,
+            "venue_id":857628643
+        }
+    ],
+    "wof:id":857628643,
+    "wof:lastmodified":1464204636,
+    "wof:name":"Taco Time",
+    "wof:parent_id":85827787,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "mexican",
+        "tex-mex"
+    ]
+},
+  "bbox": [
+    -116.518851,
+    43.593993,
+    -116.518851,
+    43.593993
+],
+  "geometry": {"coordinates":[-116.518851,43.593993],"type":"Point"}
+}

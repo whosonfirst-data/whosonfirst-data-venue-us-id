@@ -1,0 +1,73 @@
+{
+  "id": 857577279,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-116.778064,47.778797,-116.778064,47.778797",
+    "geom:latitude":47.778797,
+    "geom:longitude":-116.778064,
+    "iso:country":"US",
+    "sg:address":"647 E Jade Dr",
+    "sg:city":"Hayden Lake",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 762 2783",
+    "sg:postcode":"83835",
+    "sg:province":"ID",
+    "sg:tags":[
+        "tile",
+        "dealer",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85821457,
+        102086085
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0k5uT6Ulli54dqJyPOcKLH_47.778797_-116.778064@1294099250"
+    },
+    "wof:country":"US",
+    "wof:created":1464203497,
+    "wof:geomhash":"bfd403f9235f40ad6b767bc3b17892c8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086085,
+            "neighbourhood_id":85821457,
+            "region_id":85688657,
+            "venue_id":857577279
+        }
+    ],
+    "wof:id":857577279,
+    "wof:lastmodified":1464203497,
+    "wof:name":"Murphy Tile",
+    "wof:parent_id":85821457,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "tile",
+        "dealer",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -116.778064,
+    47.778797,
+    -116.778064,
+    47.778797
+],
+  "geometry": {"coordinates":[-116.778064,47.778797],"type":"Point"}
+}

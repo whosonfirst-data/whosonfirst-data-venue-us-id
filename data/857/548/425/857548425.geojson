@@ -1,0 +1,71 @@
+{
+  "id": 857548425,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-116.3947,43.568364,-116.3947,43.568364",
+    "geom:latitude":43.568364,
+    "geom:longitude":-116.3947,
+    "iso:country":"US",
+    "sg:address":"70 W Harris St",
+    "sg:city":"Meridian",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 888 5021",
+    "sg:postcode":"83642",
+    "sg:province":"ID",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85937915,
+        102086087,
+        85805083
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5leBi6l0QKbsa2b4WdqNnV_43.568364_-116.394700@1294099250"
+    },
+    "wof:country":"US",
+    "wof:created":1464202901,
+    "wof:geomhash":"0004ceb4264ab407a822fa1ca1f22b11",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086087,
+            "locality_id":85937915,
+            "neighbourhood_id":85805083,
+            "region_id":85688657,
+            "venue_id":857548425
+        }
+    ],
+    "wof:id":857548425,
+    "wof:lastmodified":1464202901,
+    "wof:name":"Kurt Mc Williams Fencing",
+    "wof:parent_id":85805083,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -116.3947,
+    43.568364,
+    -116.3947,
+    43.568364
+],
+  "geometry": {"coordinates":[-116.3947,43.568364],"type":"Point"}
+}

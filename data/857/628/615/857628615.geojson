@@ -1,0 +1,76 @@
+{
+  "id": 857628615,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-116.572868,43.554189,-116.572868,43.554189",
+    "geom:latitude":43.554189,
+    "geom:longitude":-116.572868,
+    "iso:country":"US",
+    "sg:address":"1507 12th Ave Rd",
+    "sg:city":"Nampa",
+    "sg:classifiers":[
+        {
+            "category":"Deli",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/id/nampa/127132-blimpie-subs--sandwiches/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 442 0022",
+    "sg:postcode":"83686",
+    "sg:province":"ID",
+    "sg:tags":[
+        "wrap",
+        "american",
+        "sandwich"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85938009,
+        102085081,
+        85827787
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5BLbWFOxHYevVi999DRA8G_43.554189_-116.572868@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464204635,
+    "wof:geomhash":"ff06037372bf3d522a37cf5dd0d3f3b8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085081,
+            "locality_id":85938009,
+            "neighbourhood_id":85827787,
+            "region_id":85688657,
+            "venue_id":857628615
+        }
+    ],
+    "wof:id":857628615,
+    "wof:lastmodified":1464204635,
+    "wof:name":"Blimpie Subs & Sandwiches",
+    "wof:parent_id":85827787,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "wrap",
+        "american",
+        "sandwich"
+    ]
+},
+  "bbox": [
+    -116.572868,
+    43.554189,
+    -116.572868,
+    43.554189
+],
+  "geometry": {"coordinates":[-116.572868,43.554189],"type":"Point"}
+}

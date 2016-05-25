@@ -1,0 +1,73 @@
+{
+  "id": 857564687,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-117.005857,46.417149,-117.005857,46.417149",
+    "geom:latitude":46.417149,
+    "geom:longitude":-117.005857,
+    "iso:country":"US",
+    "sg:address":"1851 Main St",
+    "sg:city":"Lewiston",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 743 2014",
+    "sg:postcode":"83501",
+    "sg:province":"ID",
+    "sg:tags":[
+        "roofing",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85937743,
+        102086039,
+        85837769
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2UIGflmErfZ4RigpojgPDA_46.417149_-117.005857@1294099250"
+    },
+    "wof:country":"US",
+    "wof:created":1464203250,
+    "wof:geomhash":"12835ccad5e86a558c24b058ec374dc5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086039,
+            "locality_id":85937743,
+            "neighbourhood_id":85837769,
+            "region_id":85688657,
+            "venue_id":857564687
+        }
+    ],
+    "wof:id":857564687,
+    "wof:lastmodified":1464203250,
+    "wof:name":"Quality Roofing",
+    "wof:parent_id":85837769,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "roofing",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -117.005857,
+    46.417149,
+    -117.005857,
+    46.417149
+],
+  "geometry": {"coordinates":[-117.00585700000001,46.417149],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 857550929,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-116.79399,47.74547,-116.79399,47.74547",
+    "geom:latitude":47.74547,
+    "geom:longitude":-116.79399,
+    "iso:country":"US",
+    "sg:address":"8181 N Cornerstone Dr",
+    "sg:city":"Hayden Lake",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 772 0785",
+    "sg:postcode":"83835",
+    "sg:province":"ID",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85821457,
+        102086085
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7AjQbm60egiqNgxhJx7Fjj_47.745470_-116.793990@1294099250"
+    },
+    "wof:country":"US",
+    "wof:created":1464202947,
+    "wof:geomhash":"75cdbc2787ce8e11e592458fce55a6b2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086085,
+            "neighbourhood_id":85821457,
+            "region_id":85688657,
+            "venue_id":857550929
+        }
+    ],
+    "wof:id":857550929,
+    "wof:lastmodified":1464202947,
+    "wof:name":"Hayden Lake Family Physicians",
+    "wof:parent_id":85821457,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -116.79399,
+    47.74547,
+    -116.79399,
+    47.74547
+],
+  "geometry": {"coordinates":[-116.79398999999999,47.74547],"type":"Point"}
+}

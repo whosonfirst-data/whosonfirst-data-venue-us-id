@@ -1,0 +1,71 @@
+{
+  "id": 857581941,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-116.763427,47.682398,-116.763427,47.682398",
+    "geom:latitude":47.682398,
+    "geom:longitude":-116.763427,
+    "iso:country":"US",
+    "sg:address":"941 N 16th St",
+    "sg:city":"Coeur D Alene",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 773 0970",
+    "sg:postcode":"83814",
+    "sg:province":"ID",
+    "sg:tags":[
+        "plumbing",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85821457,
+        102086085
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2DRnLDqtgRRuExyv6xHimK_47.682398_-116.763427@1294099250"
+    },
+    "wof:country":"US",
+    "wof:created":1464203589,
+    "wof:geomhash":"ada71ddf98f92946609d19b5f925aa1d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086085,
+            "neighbourhood_id":85821457,
+            "region_id":85688657,
+            "venue_id":857581941
+        }
+    ],
+    "wof:id":857581941,
+    "wof:lastmodified":1464203589,
+    "wof:name":"All-Way Plumbing",
+    "wof:parent_id":85821457,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "plumbing",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -116.763427,
+    47.682398,
+    -116.763427,
+    47.682398
+],
+  "geometry": {"coordinates":[-116.76342699999999,47.682398],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 857565635,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-116.572596,43.545872,-116.572596,43.545872",
+    "geom:latitude":43.545872,
+    "geom:longitude":-116.572596,
+    "iso:country":"US",
+    "sg:address":"2422 12th Ave Rd",
+    "sg:city":"Nampa",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Medical Lab",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 468 4010",
+    "sg:postcode":"83686",
+    "sg:province":"ID",
+    "sg:tags":[
+        "detection",
+        "equipment",
+        "drug"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85938009,
+        102085081,
+        85827787
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0odRyXT6CJETryaykFq96t_43.545872_-116.572596@1294099250"
+    },
+    "wof:country":"US",
+    "wof:created":1464203266,
+    "wof:geomhash":"6461e87e7a549de19892761e153b39fa",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085081,
+            "locality_id":85938009,
+            "neighbourhood_id":85827787,
+            "region_id":85688657,
+            "venue_id":857565635
+        }
+    ],
+    "wof:id":857565635,
+    "wof:lastmodified":1464203266,
+    "wof:name":"Drug Test Express",
+    "wof:parent_id":85827787,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "detection",
+        "equipment",
+        "drug"
+    ]
+},
+  "bbox": [
+    -116.572596,
+    43.545872,
+    -116.572596,
+    43.545872
+],
+  "geometry": {"coordinates":[-116.572596,43.545872],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 857571091,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-116.752247,47.681059,-116.752247,47.681059",
+    "geom:latitude":47.681059,
+    "geom:longitude":-116.752247,
+    "iso:country":"US",
+    "sg:address":"2580 E Fernan Hill Rd",
+    "sg:city":"Coeur D Alene",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Retail Goods",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 665 1819",
+    "sg:postcode":"83814",
+    "sg:province":"ID",
+    "sg:tags":[
+        "product",
+        "mfg"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85821457,
+        102086085
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2ojjc8yWAmdxEuBLS1yX1D_47.681059_-116.752247@1294099250"
+    },
+    "wof:country":"US",
+    "wof:created":1464203373,
+    "wof:geomhash":"c835ca722624c05c6a1d67c583b28938",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086085,
+            "neighbourhood_id":85821457,
+            "region_id":85688657,
+            "venue_id":857571091
+        }
+    ],
+    "wof:id":857571091,
+    "wof:lastmodified":1464203373,
+    "wof:name":"Bechthold Mfg",
+    "wof:parent_id":85821457,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "product",
+        "mfg"
+    ]
+},
+  "bbox": [
+    -116.752247,
+    47.681059,
+    -116.752247,
+    47.681059
+],
+  "geometry": {"coordinates":[-116.752247,47.681059],"type":"Point"}
+}

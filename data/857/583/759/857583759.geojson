@@ -1,0 +1,71 @@
+{
+  "id": 857583759,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-116.324343,43.611328,-116.324343,43.611328",
+    "geom:latitude":43.611328,
+    "geom:longitude":-116.324343,
+    "iso:country":"US",
+    "sg:address":"11692 President Dr",
+    "sg:city":"Boise",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Community Association",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 376 1120",
+    "sg:postcode":"83713",
+    "sg:province":"ID",
+    "sg:tags":[
+        "fraternal"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85937915,
+        102086087,
+        85805083
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_028jWUisKn03L05rhdYHX1_43.611328_-116.324343@1294099250"
+    },
+    "wof:country":"US",
+    "wof:created":1464203621,
+    "wof:geomhash":"0e5ee322038179bb4ebdf31f9c184193",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086087,
+            "locality_id":85937915,
+            "neighbourhood_id":85805083,
+            "region_id":85688657,
+            "venue_id":857583759
+        }
+    ],
+    "wof:id":857583759,
+    "wof:lastmodified":1464203621,
+    "wof:name":"Maple Grove Grange No 244",
+    "wof:parent_id":85805083,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "fraternal"
+    ]
+},
+  "bbox": [
+    -116.324343,
+    43.611328,
+    -116.324343,
+    43.611328
+],
+  "geometry": {"coordinates":[-116.324343,43.611328],"type":"Point"}
+}

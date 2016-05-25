@@ -1,0 +1,71 @@
+{
+  "id": 857576657,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-116.3767,43.583434,-116.3767,43.583434",
+    "geom:latitude":43.583434,
+    "geom:longitude":-116.3767,
+    "iso:country":"US",
+    "sg:address":"1444 E Doberman St",
+    "sg:city":"Meridian",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 941 5575",
+    "sg:postcode":"83642",
+    "sg:province":"ID",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85937915,
+        102086087,
+        85805083
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0oxw2RLi00wAshNOl2pt4T_43.583434_-116.376700@1294099250"
+    },
+    "wof:country":"US",
+    "wof:created":1464203483,
+    "wof:geomhash":"2ab9bbf1c6f80f0651e0f0ed6987c82e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086087,
+            "locality_id":85937915,
+            "neighbourhood_id":85805083,
+            "region_id":85688657,
+            "venue_id":857576657
+        }
+    ],
+    "wof:id":857576657,
+    "wof:lastmodified":1464203483,
+    "wof:name":"Engineered Architecture",
+    "wof:parent_id":85805083,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -116.3767,
+    43.583434,
+    -116.3767,
+    43.583434
+],
+  "geometry": {"coordinates":[-116.3767,43.583434],"type":"Point"}
+}

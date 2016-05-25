@@ -1,0 +1,71 @@
+{
+  "id": 857622309,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-116.767329,47.700751,-116.767329,47.700751",
+    "geom:latitude":47.700751,
+    "geom:longitude":-116.767329,
+    "iso:country":"US",
+    "sg:address":"1400 E Best Ave",
+    "sg:city":"Coeur D Alene",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 667 9152",
+    "sg:postcode":"83814",
+    "sg:province":"ID",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85821457,
+        102086085
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4IAd6MTLGlvY52wJDGl0Hw_47.700751_-116.767329@1294099250"
+    },
+    "wof:country":"US",
+    "wof:created":1464204488,
+    "wof:geomhash":"70a6d2c374db3f89e4a6570ca87b296d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086085,
+            "neighbourhood_id":85821457,
+            "region_id":85688657,
+            "venue_id":857622309
+        }
+    ],
+    "wof:id":857622309,
+    "wof:lastmodified":1464204488,
+    "wof:name":"Auto Shack",
+    "wof:parent_id":85821457,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -116.767329,
+    47.700751,
+    -116.767329,
+    47.700751
+],
+  "geometry": {"coordinates":[-116.767329,47.700751],"type":"Point"}
+}

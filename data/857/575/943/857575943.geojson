@@ -1,0 +1,73 @@
+{
+  "id": 857575943,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-116.583004,43.581345,-116.583004,43.581345",
+    "geom:latitude":43.581345,
+    "geom:longitude":-116.583004,
+    "iso:country":"US",
+    "sg:address":"303 Sunny Ln",
+    "sg:city":"Nampa",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 467 3656",
+    "sg:postcode":"83651",
+    "sg:province":"ID",
+    "sg:tags":[
+        "wedding",
+        "supply"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85938009,
+        102085081,
+        85827787
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2e05aJWPBxXPxwWhL518ik_43.581345_-116.583004@1294099250"
+    },
+    "wof:country":"US",
+    "wof:created":1464203470,
+    "wof:geomhash":"212ee37e32e11db72fdc91cc036a1c70",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085081,
+            "locality_id":85938009,
+            "neighbourhood_id":85827787,
+            "region_id":85688657,
+            "venue_id":857575943
+        }
+    ],
+    "wof:id":857575943,
+    "wof:lastmodified":1464203470,
+    "wof:name":"Wedding Petals",
+    "wof:parent_id":85827787,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "wedding",
+        "supply"
+    ]
+},
+  "bbox": [
+    -116.583004,
+    43.581345,
+    -116.583004,
+    43.581345
+],
+  "geometry": {"coordinates":[-116.583004,43.581345],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 857514471,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-116.313019,43.620679,-116.313019,43.620679",
+    "geom:latitude":43.620679,
+    "geom:longitude":-116.313019,
+    "iso:country":"US",
+    "sg:address":"10497 Garverdale Ct",
+    "sg:city":"Boise",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 375 5720",
+    "sg:postcode":"83704",
+    "sg:province":"ID",
+    "sg:tags":[
+        "dentist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        102191575,
+        85633793,
+        85937915,
+        102086087,
+        85811491
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5R5I0SqshfGPgZ1s1QQwVb_43.620679_-116.313019@1294099250"
+    },
+    "wof:country":"US",
+    "wof:created":1464202242,
+    "wof:geomhash":"1161b699a95b6a2476ce66d308345349",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086087,
+            "locality_id":85937915,
+            "neighbourhood_id":85811491,
+            "region_id":85688657,
+            "venue_id":857514471
+        }
+    ],
+    "wof:id":857514471,
+    "wof:lastmodified":1464202242,
+    "wof:name":"Five Mile Dental Ctr",
+    "wof:parent_id":85811491,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dentist"
+    ]
+},
+  "bbox": [
+    -116.313019,
+    43.620679,
+    -116.313019,
+    43.620679
+],
+  "geometry": {"coordinates":[-116.313019,43.620679],"type":"Point"}
+}

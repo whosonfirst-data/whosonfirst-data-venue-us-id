@@ -1,0 +1,75 @@
+{
+  "id": 857565309,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-116.261019,43.581991,-116.261019,43.581991",
+    "geom:latitude":43.581991,
+    "geom:longitude":-116.261019,
+    "iso:country":"US",
+    "sg:address":"2428 S Liberty St",
+    "sg:city":"Boise",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 362 0900",
+    "sg:postcode":"83709",
+    "sg:province":"ID",
+    "sg:tags":[
+        "general",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        102191575,
+        85633793,
+        85937923,
+        102086087,
+        85825393
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2VSDuRKF24w2IAIZsdyJvP_43.581991_-116.261019@1294099250"
+    },
+    "wof:country":"US",
+    "wof:created":1464203261,
+    "wof:geomhash":"e44d7dfc3c720c3c195178a7407cb306",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086087,
+            "locality_id":85937923,
+            "neighbourhood_id":85825393,
+            "region_id":85688657,
+            "venue_id":857565309
+        }
+    ],
+    "wof:id":857565309,
+    "wof:lastmodified":1464203261,
+    "wof:name":"Bitterroot Construction Inc",
+    "wof:parent_id":85825393,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "general",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -116.261019,
+    43.581991,
+    -116.261019,
+    43.581991
+],
+  "geometry": {"coordinates":[-116.261019,43.581991],"type":"Point"}
+}

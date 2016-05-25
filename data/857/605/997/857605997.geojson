@@ -1,0 +1,71 @@
+{
+  "id": 857605997,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-116.493492,43.610596,-116.493492,43.610596",
+    "geom:latitude":43.610596,
+    "geom:longitude":-116.493492,
+    "iso:country":"US",
+    "sg:address":"16382 Star Rd",
+    "sg:city":"Nampa",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Detective & Security Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 342 3463",
+    "sg:postcode":"83687",
+    "sg:province":"ID",
+    "sg:tags":[
+        "investigator"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85938009,
+        102085081,
+        85827787
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_18Zp5s4AYepo2imw4JO0rV_43.610596_-116.493492@1294099250"
+    },
+    "wof:country":"US",
+    "wof:created":1464204116,
+    "wof:geomhash":"a2bfb6cf9594108dcabbc64912269612",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085081,
+            "locality_id":85938009,
+            "neighbourhood_id":85827787,
+            "region_id":85688657,
+            "venue_id":857605997
+        }
+    ],
+    "wof:id":857605997,
+    "wof:lastmodified":1464204116,
+    "wof:name":"Burr Investigations",
+    "wof:parent_id":85827787,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "investigator"
+    ]
+},
+  "bbox": [
+    -116.493492,
+    43.610596,
+    -116.493492,
+    43.610596
+],
+  "geometry": {"coordinates":[-116.493492,43.610596],"type":"Point"}
+}

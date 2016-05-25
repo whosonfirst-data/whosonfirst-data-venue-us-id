@@ -1,0 +1,73 @@
+{
+  "id": 857517819,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-117.012367,46.404189,-117.012367,46.404189",
+    "geom:latitude":46.404189,
+    "geom:longitude":-117.012367,
+    "iso:country":"US",
+    "sg:address":"1407 16th Ave",
+    "sg:city":"Lewiston",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 746 2400",
+    "sg:postcode":"83501",
+    "sg:province":"ID",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85937743,
+        102086039,
+        85837769
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6rCqTHbtDqvaW2j9z3wgKs_46.404189_-117.012367@1294099250"
+    },
+    "wof:country":"US",
+    "wof:created":1464202305,
+    "wof:geomhash":"bb05b16d053761084d8443af63dbcfb6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086039,
+            "locality_id":85937743,
+            "neighbourhood_id":85837769,
+            "region_id":85688657,
+            "venue_id":857517819
+        }
+    ],
+    "wof:id":857517819,
+    "wof:lastmodified":1464202305,
+    "wof:name":"Gateway Services",
+    "wof:parent_id":85837769,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -117.012367,
+    46.404189,
+    -117.012367,
+    46.404189
+],
+  "geometry": {"coordinates":[-117.012367,46.404189],"type":"Point"}
+}

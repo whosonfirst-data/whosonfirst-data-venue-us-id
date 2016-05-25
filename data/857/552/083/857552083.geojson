@@ -1,0 +1,71 @@
+{
+  "id": 857552083,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-117.00192,46.412226,-117.00192,46.412226",
+    "geom:latitude":46.412226,
+    "geom:longitude":-117.00192,
+    "iso:country":"US",
+    "sg:address":"816 21st St",
+    "sg:city":"Lewiston",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Laundry & Dry Cleaning",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 746 0323",
+    "sg:postcode":"83501",
+    "sg:province":"ID",
+    "sg:tags":[
+        "cleaners"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85937743,
+        102086039,
+        85837769
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5fJG2flTyKds9PCI4VzLGV_46.412226_-117.001920@1294099250"
+    },
+    "wof:country":"US",
+    "wof:created":1464202973,
+    "wof:geomhash":"bdad4469420ba62331abc26e14696260",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086039,
+            "locality_id":85937743,
+            "neighbourhood_id":85837769,
+            "region_id":85688657,
+            "venue_id":857552083
+        }
+    ],
+    "wof:id":857552083,
+    "wof:lastmodified":1464202973,
+    "wof:name":"Busy B Dry Cleaners",
+    "wof:parent_id":85837769,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cleaners"
+    ]
+},
+  "bbox": [
+    -117.00192,
+    46.412226,
+    -117.00192,
+    46.412226
+],
+  "geometry": {"coordinates":[-117.00192,46.412226],"type":"Point"}
+}

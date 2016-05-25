@@ -1,0 +1,68 @@
+{
+  "id": 857572439,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-116.283457,43.611353,-116.283457,43.611353",
+    "geom:latitude":43.611353,
+    "geom:longitude":-116.283457,
+    "iso:country":"US",
+    "sg:address":"8150 Emerald St",
+    "sg:city":"Boise",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Agent",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 938 8800",
+    "sg:postcode":"83704",
+    "sg:province":"ID",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        102191575,
+        85633793,
+        85937923,
+        102086087,
+        85841319
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1LSiNjvdpigZIWbKcNbxI4_43.611353_-116.283457@1294099250"
+    },
+    "wof:country":"US",
+    "wof:created":1464203397,
+    "wof:geomhash":"76092e0b0ea8d7fd477fa1fef9fc8df0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086087,
+            "locality_id":85937923,
+            "neighbourhood_id":85841319,
+            "region_id":85688657,
+            "venue_id":857572439
+        }
+    ],
+    "wof:id":857572439,
+    "wof:lastmodified":1464203397,
+    "wof:name":"Keller Williams Realty",
+    "wof:parent_id":85841319,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -116.283457,
+    43.611353,
+    -116.283457,
+    43.611353
+],
+  "geometry": {"coordinates":[-116.283457,43.611353],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 857628195,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-116.392619,43.598305,-116.392619,43.598305",
+    "geom:latitude":43.598305,
+    "geom:longitude":-116.392619,
+    "iso:country":"US",
+    "sg:address":"663 S Main St",
+    "sg:city":"Meridian",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/id/boise-city/120406-subway/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 898 2582",
+    "sg:postcode":"83642",
+    "sg:province":"ID",
+    "sg:tags":[
+        "american",
+        "sandwich"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85937915,
+        102086087,
+        85805083
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6iIPHZWZCWmxKv6lKV7OXu_43.598305_-116.392619@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464204628,
+    "wof:geomhash":"e865381f66a13b491cecb1383c4ba202",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086087,
+            "locality_id":85937915,
+            "neighbourhood_id":85805083,
+            "region_id":85688657,
+            "venue_id":857628195
+        }
+    ],
+    "wof:id":857628195,
+    "wof:lastmodified":1464204628,
+    "wof:name":"Subway",
+    "wof:parent_id":85805083,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "sandwich"
+    ]
+},
+  "bbox": [
+    -116.392619,
+    43.598305,
+    -116.392619,
+    43.598305
+],
+  "geometry": {"coordinates":[-116.392619,43.598305],"type":"Point"}
+}

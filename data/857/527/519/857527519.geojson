@@ -1,0 +1,71 @@
+{
+  "id": 857527519,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-116.375988,43.600487,-116.375988,43.600487",
+    "geom:latitude":43.600487,
+    "geom:longitude":-116.375988,
+    "iso:country":"US",
+    "sg:address":"1401 E Watertower St",
+    "sg:city":"Meridian",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Police Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 895 3370",
+    "sg:postcode":"83642",
+    "sg:province":"ID",
+    "sg:tags":[
+        "department"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85937915,
+        102086087,
+        85805083
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0DsYNigHa9cdsd9X5QrNVZ_43.600487_-116.375988@1294099250"
+    },
+    "wof:country":"US",
+    "wof:created":1464202495,
+    "wof:geomhash":"d1e241c90251b54811df4197af1e46fc",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086087,
+            "locality_id":85937915,
+            "neighbourhood_id":85805083,
+            "region_id":85688657,
+            "venue_id":857527519
+        }
+    ],
+    "wof:id":857527519,
+    "wof:lastmodified":1464202495,
+    "wof:name":"Meridian Police Dept Records",
+    "wof:parent_id":85805083,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "department"
+    ]
+},
+  "bbox": [
+    -116.375988,
+    43.600487,
+    -116.375988,
+    43.600487
+],
+  "geometry": {"coordinates":[-116.37598800000001,43.600487],"type":"Point"}
+}

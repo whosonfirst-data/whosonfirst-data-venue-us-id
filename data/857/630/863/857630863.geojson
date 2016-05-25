@@ -1,0 +1,72 @@
+{
+  "id": 857630863,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-116.412735,43.604691,-116.412735,43.604691",
+    "geom:latitude":43.604691,
+    "geom:longitude":-116.412735,
+    "iso:country":"US",
+    "sg:address":"1535 W Franklin Rd",
+    "sg:city":"Meridian",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/id/boise-city/6281-taco-del-mar/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 884 0829",
+    "sg:postcode":"83642",
+    "sg:province":"ID",
+    "sg:tags":[
+        "mexican"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85937915,
+        102086087,
+        85805083
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_47FMVyZJ9k8Zo6jwyyGSLP_43.604690_-116.412851@1294099250"
+    },
+    "wof:country":"US",
+    "wof:created":1464204682,
+    "wof:geomhash":"fc26773a31e671eada883dbebece3921",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086087,
+            "locality_id":85937915,
+            "neighbourhood_id":85805083,
+            "region_id":85688657,
+            "venue_id":857630863
+        }
+    ],
+    "wof:id":857630863,
+    "wof:lastmodified":1464204682,
+    "wof:name":"Taco Del Mar",
+    "wof:parent_id":85805083,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mexican"
+    ]
+},
+  "bbox": [
+    -116.412735,
+    43.604691,
+    -116.412735,
+    43.604691
+],
+  "geometry": {"coordinates":[-116.412735,43.604691],"type":"Point"}
+}

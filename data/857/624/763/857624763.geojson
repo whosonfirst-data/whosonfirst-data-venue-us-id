@@ -1,0 +1,73 @@
+{
+  "id": 857624763,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-116.996698,46.382222,-116.996698,46.382222",
+    "geom:latitude":46.382222,
+    "geom:longitude":-116.996698,
+    "iso:country":"US",
+    "sg:address":"3321 7th St",
+    "sg:city":"Lewiston",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 746 5152",
+    "sg:postcode":"83501",
+    "sg:province":"ID",
+    "sg:tags":[
+        "building",
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85937743,
+        102086039,
+        85837769
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3W51B7XcByUiE19MRFRWUq_46.382313_-116.996702@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1464204557,
+    "wof:geomhash":"be6a1810ff0102a6ded6c565a9a470ac",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086039,
+            "locality_id":85937743,
+            "neighbourhood_id":85837769,
+            "region_id":85688657,
+            "venue_id":857624763
+        }
+    ],
+    "wof:id":857624763,
+    "wof:lastmodified":1464204557,
+    "wof:name":"Konen Apartments",
+    "wof:parent_id":85837769,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "building",
+        "apartment"
+    ]
+},
+  "bbox": [
+    -116.996698,
+    46.382222,
+    -116.996698,
+    46.382222
+],
+  "geometry": {"coordinates":[-116.99669799999999,46.382222],"type":"Point"}
+}

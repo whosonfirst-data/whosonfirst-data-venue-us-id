@@ -1,0 +1,73 @@
+{
+  "id": 857588387,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-116.372503,43.595205,-116.372503,43.595205",
+    "geom:latitude":43.595205,
+    "geom:longitude":-116.372503,
+    "iso:country":"US",
+    "sg:address":"1120 Torino Ave",
+    "sg:city":"Meridian",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Cleaning & Sanitation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 884 8372",
+    "sg:postcode":"83642",
+    "sg:province":"ID",
+    "sg:tags":[
+        "butler",
+        "maid"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85937915,
+        102086087,
+        85805083
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_68gcNraiCI4azFqbHUvuSj_43.595205_-116.372503@1294099250"
+    },
+    "wof:country":"US",
+    "wof:created":1464203725,
+    "wof:geomhash":"8022d5cb8b2d00f57552e7de06c46d5c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086087,
+            "locality_id":85937915,
+            "neighbourhood_id":85805083,
+            "region_id":85688657,
+            "venue_id":857588387
+        }
+    ],
+    "wof:id":857588387,
+    "wof:lastmodified":1464203725,
+    "wof:name":"Home Maid",
+    "wof:parent_id":85805083,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "butler",
+        "maid"
+    ]
+},
+  "bbox": [
+    -116.372503,
+    43.595205,
+    -116.372503,
+    43.595205
+],
+  "geometry": {"coordinates":[-116.37250299999999,43.595205],"type":"Point"}
+}

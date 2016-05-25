@@ -1,0 +1,73 @@
+{
+  "id": 857575011,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-116.562707,43.576451,-116.562707,43.576451",
+    "geom:latitude":43.576451,
+    "geom:longitude":-116.562707,
+    "iso:country":"US",
+    "sg:address":"404 12th Ave S",
+    "sg:city":"Nampa",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 467 0034",
+    "sg:postcode":"83651",
+    "sg:province":"ID",
+    "sg:tags":[
+        "banquet",
+        "rooms"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85938009,
+        102085081,
+        85827787
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7TdiGgB5ykJuUPp1Ez5Vd8_43.576451_-116.562707@1294099250"
+    },
+    "wof:country":"US",
+    "wof:created":1464203451,
+    "wof:geomhash":"cce1caba4a81af1d3210d04d5f5d0880",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085081,
+            "locality_id":85938009,
+            "neighbourhood_id":85827787,
+            "region_id":85688657,
+            "venue_id":857575011
+        }
+    ],
+    "wof:id":857575011,
+    "wof:lastmodified":1464203451,
+    "wof:name":"Sand Stone Event Ctr",
+    "wof:parent_id":85827787,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "banquet",
+        "rooms"
+    ]
+},
+  "bbox": [
+    -116.562707,
+    43.576451,
+    -116.562707,
+    43.576451
+],
+  "geometry": {"coordinates":[-116.562707,43.576451],"type":"Point"}
+}

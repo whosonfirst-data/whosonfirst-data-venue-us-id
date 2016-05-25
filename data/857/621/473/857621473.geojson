@@ -1,0 +1,75 @@
+{
+  "id": 857621473,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-116.937205,47.77842,-116.937205,47.77842",
+    "geom:latitude":47.77842,
+    "geom:longitude":-116.937205,
+    "iso:country":"US",
+    "sg:address":"11594 N Idaho Rd",
+    "sg:city":"Rathdrum",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Veterinary Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 687 3444",
+    "sg:postcode":"83858",
+    "sg:province":"ID",
+    "sg:tags":[
+        "hospital",
+        "animal"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        102191575,
+        85633793,
+        85938145,
+        102086085,
+        85833263
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5ZDHfNVijnh0KYEO3XWtxG_47.778420_-116.937205@1294099250"
+    },
+    "wof:country":"US",
+    "wof:created":1464204462,
+    "wof:geomhash":"412184dbed34711c3514cdee20199bef",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086085,
+            "locality_id":85938145,
+            "neighbourhood_id":85833263,
+            "region_id":85688657,
+            "venue_id":857621473
+        }
+    ],
+    "wof:id":857621473,
+    "wof:lastmodified":1464204462,
+    "wof:name":"Prairie Equine Hospital",
+    "wof:parent_id":85833263,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "hospital",
+        "animal"
+    ]
+},
+  "bbox": [
+    -116.937205,
+    47.77842,
+    -116.937205,
+    47.77842
+],
+  "geometry": {"coordinates":[-116.93720500000001,47.77842],"type":"Point"}
+}

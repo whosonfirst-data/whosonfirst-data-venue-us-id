@@ -1,0 +1,84 @@
+{
+  "id": 857555389,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-116.991475,46.385027,-116.991475,46.385027",
+    "geom:latitude":46.385027,
+    "geom:longitude":-116.991475,
+    "iso:country":"US",
+    "sg:address":"3230 8th St",
+    "sg:city":"Lewiston",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Machinery & Supplies",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 743 2764",
+    "sg:postcode":"83501",
+    "sg:province":"ID",
+    "sg:tags":[
+        "equipment",
+        "establishment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85937743,
+        102086039,
+        85837769,
+        102191575,
+        85830385
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_21zph3G82PHzFIGPXZbJoy_46.385027_-116.991475@1294099250"
+    },
+    "wof:country":"US",
+    "wof:created":1464203041,
+    "wof:geomhash":"e58648fd16399ed95f934dc1832fad19",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086039,
+            "locality_id":85937743,
+            "neighbourhood_id":85837769,
+            "region_id":85688657,
+            "venue_id":857555389
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086039,
+            "locality_id":85937743,
+            "neighbourhood_id":85830385,
+            "region_id":85688657,
+            "venue_id":857555389
+        }
+    ],
+    "wof:id":857555389,
+    "wof:lastmodified":1464203041,
+    "wof:name":"Valley Vending",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "equipment",
+        "establishment"
+    ]
+},
+  "bbox": [
+    -116.991475,
+    46.385027,
+    -116.991475,
+    46.385027
+],
+  "geometry": {"coordinates":[-116.99147499999999,46.385027],"type":"Point"}
+}

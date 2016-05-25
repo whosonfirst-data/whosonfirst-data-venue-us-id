@@ -1,0 +1,81 @@
+{
+  "id": 857545203,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-116.800382,47.696595,-116.800382,47.696595",
+    "geom:latitude":47.696595,
+    "geom:longitude":-116.800382,
+    "iso:country":"US",
+    "sg:address":"1201 W Ironwood Dr",
+    "sg:city":"Coeur D Alene",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Lumber",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 765 7223",
+    "sg:postcode":"83814",
+    "sg:province":"ID",
+    "sg:tags":[
+        "government"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85821457,
+        102086085,
+        102191575,
+        85938163,
+        85806325
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6n1U9ymOOUxxlhIXNMlcDg_47.696595_-116.800382@1294099250"
+    },
+    "wof:country":"US",
+    "wof:created":1464202843,
+    "wof:geomhash":"9f65a47557b80da5f565dc463e9d7d63",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086085,
+            "neighbourhood_id":85821457,
+            "region_id":85688657,
+            "venue_id":857545203
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086085,
+            "locality_id":85938163,
+            "neighbourhood_id":85806325,
+            "region_id":85688657,
+            "venue_id":857545203
+        }
+    ],
+    "wof:id":857545203,
+    "wof:lastmodified":1464202843,
+    "wof:name":"US Forestry Dept",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "government"
+    ]
+},
+  "bbox": [
+    -116.800382,
+    47.696595,
+    -116.800382,
+    47.696595
+],
+  "geometry": {"coordinates":[-116.800382,47.696595],"type":"Point"}
+}

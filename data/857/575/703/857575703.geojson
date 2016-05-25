@@ -1,0 +1,71 @@
+{
+  "id": 857575703,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-116.581768,43.583306,-116.581768,43.583306",
+    "geom:latitude":43.583306,
+    "geom:longitude":-116.581768,
+    "iso:country":"US",
+    "sg:address":"264 Smith Ave",
+    "sg:city":"Nampa",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Equipment Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 466 4323",
+    "sg:postcode":"83651",
+    "sg:province":"ID",
+    "sg:tags":[
+        "leasing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85938009,
+        102085081,
+        85827787
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2bSE4bmjQ6XevkPumV2OW9_43.583306_-116.581768@1294099250"
+    },
+    "wof:country":"US",
+    "wof:created":1464203465,
+    "wof:geomhash":"e1e9064443a6382ba7e9f7d25b530312",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085081,
+            "locality_id":85938009,
+            "neighbourhood_id":85827787,
+            "region_id":85688657,
+            "venue_id":857575703
+        }
+    ],
+    "wof:id":857575703,
+    "wof:lastmodified":1464203465,
+    "wof:name":"Christopher M Thiel Ents",
+    "wof:parent_id":85827787,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "leasing"
+    ]
+},
+  "bbox": [
+    -116.581768,
+    43.583306,
+    -116.581768,
+    43.583306
+],
+  "geometry": {"coordinates":[-116.581768,43.583306],"type":"Point"}
+}

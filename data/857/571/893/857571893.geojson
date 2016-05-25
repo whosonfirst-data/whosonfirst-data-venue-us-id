@@ -1,0 +1,71 @@
+{
+  "id": 857571893,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-116.572776,43.567889,-116.572776,43.567889",
+    "geom:latitude":43.567889,
+    "geom:longitude":-116.572776,
+    "iso:country":"US",
+    "sg:address":"124 12th Ave Rd",
+    "sg:city":"Nampa",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Accounting & Tax Preparation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 466 1284",
+    "sg:postcode":"83686",
+    "sg:province":"ID",
+    "sg:tags":[
+        "accountant"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85938009,
+        102085081,
+        85827787
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_48p1x2elR5IlOAYiyudPLu_43.567889_-116.572776@1294099250"
+    },
+    "wof:country":"US",
+    "wof:created":1464203387,
+    "wof:geomhash":"ca782aec568e10ea24100807feeb41e2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085081,
+            "locality_id":85938009,
+            "neighbourhood_id":85827787,
+            "region_id":85688657,
+            "venue_id":857571893
+        }
+    ],
+    "wof:id":857571893,
+    "wof:lastmodified":1464203387,
+    "wof:name":"Stewart Accounting",
+    "wof:parent_id":85827787,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "accountant"
+    ]
+},
+  "bbox": [
+    -116.572776,
+    43.567889,
+    -116.572776,
+    43.567889
+],
+  "geometry": {"coordinates":[-116.572776,43.567889],"type":"Point"}
+}

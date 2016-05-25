@@ -1,0 +1,72 @@
+{
+  "id": 857594533,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-116.590248,43.596969,-116.590248,43.596969",
+    "geom:latitude":43.596969,
+    "geom:longitude":-116.590248,
+    "iso:country":"US",
+    "sg:address":"700 Caldwell Blvd",
+    "sg:city":"Nampa",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 466 6567",
+    "sg:postcode":"83651",
+    "sg:province":"ID",
+    "sg:tags":[
+        "clinic"
+    ],
+    "sg:website":"www.primaryhealth.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85938009,
+        102085081,
+        85827787
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1JAlqHeLbJRX94kw5gVrjc_43.596969_-116.590248@1294099250"
+    },
+    "wof:country":"US",
+    "wof:created":1464203860,
+    "wof:geomhash":"c23130dd9128cd2eee418ef4a08eec15",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085081,
+            "locality_id":85938009,
+            "neighbourhood_id":85827787,
+            "region_id":85688657,
+            "venue_id":857594533
+        }
+    ],
+    "wof:id":857594533,
+    "wof:lastmodified":1464203860,
+    "wof:name":"Primary Health Physical Thrpy",
+    "wof:parent_id":85827787,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "clinic"
+    ]
+},
+  "bbox": [
+    -116.590248,
+    43.596969,
+    -116.590248,
+    43.596969
+],
+  "geometry": {"coordinates":[-116.590248,43.596969],"type":"Point"}
+}

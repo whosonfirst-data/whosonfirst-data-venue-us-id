@@ -1,0 +1,70 @@
+{
+  "id": 857630011,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-116.782391,47.673324,-116.782391,47.673324",
+    "geom:latitude":47.673324,
+    "geom:longitude":-116.782391,
+    "iso:country":"US",
+    "sg:address":"313 E Sherman Ave",
+    "sg:city":"Coeur D Alene",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/id/coeur-dalene/3465-the-wine-cellar/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 664 9463",
+    "sg:postcode":"83814",
+    "sg:province":"ID",
+    "sg:tags":[
+        "italian"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85821457,
+        102086085
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7jknBDmpENGzGJK9QGkOGe_47.673324_-116.782391@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464204660,
+    "wof:geomhash":"d5dd50c16e4ca454eedfb608ded012c4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086085,
+            "neighbourhood_id":85821457,
+            "region_id":85688657,
+            "venue_id":857630011
+        }
+    ],
+    "wof:id":857630011,
+    "wof:lastmodified":1464204660,
+    "wof:name":"The Wine Cellar",
+    "wof:parent_id":85821457,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "italian"
+    ]
+},
+  "bbox": [
+    -116.782391,
+    47.673324,
+    -116.782391,
+    47.673324
+],
+  "geometry": {"coordinates":[-116.782391,47.673324],"type":"Point"}
+}

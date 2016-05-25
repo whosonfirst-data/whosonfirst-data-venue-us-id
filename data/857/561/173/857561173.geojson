@@ -1,0 +1,75 @@
+{
+  "id": 857561173,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-116.266832,43.656129,-116.266832,43.656129",
+    "geom:latitude":43.656129,
+    "geom:longitude":-116.266832,
+    "iso:country":"US",
+    "sg:address":"6301 N Charleston Pl",
+    "sg:city":"Boise",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Aerospace",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 322 1228",
+    "sg:postcode":"83703",
+    "sg:province":"ID",
+    "sg:tags":[
+        "aircraft",
+        "component"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        102191575,
+        85633793,
+        85938191,
+        102086087,
+        85811879
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2e0bqNxQ0ddUZyKGZsLlaJ_43.656129_-116.266832@1294099250"
+    },
+    "wof:country":"US",
+    "wof:created":1464203186,
+    "wof:geomhash":"70f6e36e21d0cb92ed070abec66da97f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086087,
+            "locality_id":85938191,
+            "neighbourhood_id":85811879,
+            "region_id":85688657,
+            "venue_id":857561173
+        }
+    ],
+    "wof:id":857561173,
+    "wof:lastmodified":1464203186,
+    "wof:name":"CTI Aerospace",
+    "wof:parent_id":85811879,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "aircraft",
+        "component"
+    ]
+},
+  "bbox": [
+    -116.266832,
+    43.656129,
+    -116.266832,
+    43.656129
+],
+  "geometry": {"coordinates":[-116.26683199999999,43.656129],"type":"Point"}
+}

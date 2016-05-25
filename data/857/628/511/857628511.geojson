@@ -1,0 +1,74 @@
+{
+  "id": 857628511,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-116.603155,43.605451,-116.603155,43.605451",
+    "geom:latitude":43.605451,
+    "geom:longitude":-116.603155,
+    "iso:country":"US",
+    "sg:address":"1813 Caldwell Blvd",
+    "sg:city":"Nampa",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/id/nampa/87361-little-caesars-pizza/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 467 9797",
+    "sg:postcode":"83651",
+    "sg:province":"ID",
+    "sg:tags":[
+        "american",
+        "pizza"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85938009,
+        102085081,
+        85835387
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2qNTLXbaVNI1FIaOOftG2r_43.605451_-116.603155@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464204633,
+    "wof:geomhash":"b31bb0731bc210c1ee385f22cb2c5600",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085081,
+            "locality_id":85938009,
+            "neighbourhood_id":85835387,
+            "region_id":85688657,
+            "venue_id":857628511
+        }
+    ],
+    "wof:id":857628511,
+    "wof:lastmodified":1464204633,
+    "wof:name":"Little Caesar's Pizza",
+    "wof:parent_id":85835387,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "pizza"
+    ]
+},
+  "bbox": [
+    -116.603155,
+    43.605451,
+    -116.603155,
+    43.605451
+],
+  "geometry": {"coordinates":[-116.603155,43.605451],"type":"Point"}
+}

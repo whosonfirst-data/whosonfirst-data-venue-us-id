@@ -1,0 +1,71 @@
+{
+  "id": 857600285,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-116.529904,43.373769,-116.529904,43.373769",
+    "geom:latitude":43.373769,
+    "geom:longitude":-116.529904,
+    "iso:country":"US",
+    "sg:address":"107 Carrie Rex Ave",
+    "sg:city":"Melba",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 495 1165",
+    "sg:postcode":"83641",
+    "sg:province":"ID",
+    "sg:tags":[
+        "related"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85938009,
+        102085081,
+        85827787
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5pIPom2bzAdB1AScR5NC60_43.373769_-116.529904@1294099250"
+    },
+    "wof:country":"US",
+    "wof:created":1464203993,
+    "wof:geomhash":"983648f3af03e1cd8eecc073d610076d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085081,
+            "locality_id":85938009,
+            "neighbourhood_id":85827787,
+            "region_id":85688657,
+            "venue_id":857600285
+        }
+    ],
+    "wof:id":857600285,
+    "wof:lastmodified":1464203993,
+    "wof:name":"Melba Supply & Repair",
+    "wof:parent_id":85827787,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "related"
+    ]
+},
+  "bbox": [
+    -116.529904,
+    43.373769,
+    -116.529904,
+    43.373769
+],
+  "geometry": {"coordinates":[-116.529904,43.373769],"type":"Point"}
+}

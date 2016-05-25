@@ -1,0 +1,73 @@
+{
+  "id": 857521057,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-115.924103,47.472343,-115.924103,47.472343",
+    "geom:latitude":47.472343,
+    "geom:longitude":-115.924103,
+    "iso:country":"US",
+    "sg:address":"516 Cedar St",
+    "sg:city":"Wallace",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Health Practitioner",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 753 8008",
+    "sg:postcode":"83873",
+    "sg:province":"ID",
+    "sg:tags":[
+        "therapist",
+        "physical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85937825,
+        102086103,
+        85849049
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7FnAnsAeHq7B3rWdhs2Kgb_47.472343_-115.924103@1294099250"
+    },
+    "wof:country":"US",
+    "wof:created":1464202373,
+    "wof:geomhash":"5539cabc817172c84f46343b2198343d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086103,
+            "locality_id":85937825,
+            "neighbourhood_id":85849049,
+            "region_id":85688657,
+            "venue_id":857521057
+        }
+    ],
+    "wof:id":857521057,
+    "wof:lastmodified":1464202373,
+    "wof:name":"Silver Valley Rehabilitation",
+    "wof:parent_id":85849049,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "therapist",
+        "physical"
+    ]
+},
+  "bbox": [
+    -115.924103,
+    47.472343,
+    -115.924103,
+    47.472343
+],
+  "geometry": {"coordinates":[-115.924103,47.472343],"type":"Point"}
+}

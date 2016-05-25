@@ -1,0 +1,71 @@
+{
+  "id": 857511759,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-117.008014,46.404038,-117.008014,46.404038",
+    "geom:latitude":46.404038,
+    "geom:longitude":-117.008014,
+    "iso:country":"US",
+    "sg:address":"1606 17th St",
+    "sg:city":"Lewiston",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 743 0141",
+    "sg:postcode":"83501",
+    "sg:province":"ID",
+    "sg:tags":[
+        "dentist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85937743,
+        102086039,
+        85837769
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_47RzeI7vI9kJ8fbA0tstOF_46.404038_-117.008014@1294099250"
+    },
+    "wof:country":"US",
+    "wof:created":1464202182,
+    "wof:geomhash":"6f3b17a72a3b66092fef0eef72e415b3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086039,
+            "locality_id":85937743,
+            "neighbourhood_id":85837769,
+            "region_id":85688657,
+            "venue_id":857511759
+        }
+    ],
+    "wof:id":857511759,
+    "wof:lastmodified":1464202182,
+    "wof:name":"Bill Perez DDS",
+    "wof:parent_id":85837769,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dentist"
+    ]
+},
+  "bbox": [
+    -117.008014,
+    46.404038,
+    -117.008014,
+    46.404038
+],
+  "geometry": {"coordinates":[-117.008014,46.404038],"type":"Point"}
+}

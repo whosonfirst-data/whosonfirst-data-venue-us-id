@@ -1,0 +1,71 @@
+{
+  "id": 857543163,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-116.5661,43.551522,-116.5661,43.551522",
+    "geom:latitude":43.551522,
+    "geom:longitude":-116.5661,
+    "iso:country":"US",
+    "sg:address":"1717 Sunnyridge Rd",
+    "sg:city":"Nampa",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 466 8240",
+    "sg:postcode":"83686",
+    "sg:province":"ID",
+    "sg:tags":[
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85938009,
+        102085081,
+        85827787
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_271jO0kvkuCJCbrK7pE90s_43.551522_-116.566100@1294099250"
+    },
+    "wof:country":"US",
+    "wof:created":1464202804,
+    "wof:geomhash":"183e06467b27ff01da44235df56b5c93",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085081,
+            "locality_id":85938009,
+            "neighbourhood_id":85827787,
+            "region_id":85688657,
+            "venue_id":857543163
+        }
+    ],
+    "wof:id":857543163,
+    "wof:lastmodified":1464202804,
+    "wof:name":"Sunny Ridge Village",
+    "wof:parent_id":85827787,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "apartment"
+    ]
+},
+  "bbox": [
+    -116.5661,
+    43.551522,
+    -116.5661,
+    43.551522
+],
+  "geometry": {"coordinates":[-116.56610000000001,43.551522],"type":"Point"}
+}

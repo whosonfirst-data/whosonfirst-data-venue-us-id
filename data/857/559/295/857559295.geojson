@@ -1,0 +1,71 @@
+{
+  "id": 857559295,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-116.688951,47.975816,-116.688951,47.975816",
+    "geom:latitude":47.975816,
+    "geom:longitude":-116.688951,
+    "iso:country":"US",
+    "sg:address":"7173 E Forest View Dr",
+    "sg:city":"Athol",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 683 1841",
+    "sg:postcode":"83801",
+    "sg:province":"ID",
+    "sg:tags":[
+        "electrical",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85821457,
+        102086085
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4841YlwLEeOl3AUdgNsdgm_47.975816_-116.688951@1294099250"
+    },
+    "wof:country":"US",
+    "wof:created":1464203135,
+    "wof:geomhash":"967437b1b0e243c594cf3102d1fc3d1e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086085,
+            "neighbourhood_id":85821457,
+            "region_id":85688657,
+            "venue_id":857559295
+        }
+    ],
+    "wof:id":857559295,
+    "wof:lastmodified":1464203135,
+    "wof:name":"GK Electric",
+    "wof:parent_id":85821457,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electrical",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -116.688951,
+    47.975816,
+    -116.688951,
+    47.975816
+],
+  "geometry": {"coordinates":[-116.688951,47.975816],"type":"Point"}
+}

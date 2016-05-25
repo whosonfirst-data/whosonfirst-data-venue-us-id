@@ -1,0 +1,71 @@
+{
+  "id": 857583943,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-116.792964,47.676537,-116.792964,47.676537",
+    "geom:latitude":47.676537,
+    "geom:longitude":-116.792964,
+    "iso:country":"US",
+    "sg:address":"417 Military Dr",
+    "sg:city":"Coeur D Alene",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Landscaping Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 665 7800",
+    "sg:postcode":"83814",
+    "sg:province":"ID",
+    "sg:tags":[
+        "landscape",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85821457,
+        102086085
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4xeETRBzlHiJM0irZZOkJi_47.676537_-116.792964@1294099250"
+    },
+    "wof:country":"US",
+    "wof:created":1464203624,
+    "wof:geomhash":"d36b4bee0c9f4cf55bdc3bda3b46aae6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086085,
+            "neighbourhood_id":85821457,
+            "region_id":85688657,
+            "venue_id":857583943
+        }
+    ],
+    "wof:id":857583943,
+    "wof:lastmodified":1464203624,
+    "wof:name":"Stevens Landscape Co",
+    "wof:parent_id":85821457,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "landscape",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -116.792964,
+    47.676537,
+    -116.792964,
+    47.676537
+],
+  "geometry": {"coordinates":[-116.792964,47.676537],"type":"Point"}
+}

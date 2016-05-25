@@ -1,0 +1,75 @@
+{
+  "id": 857527795,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-116.289799,43.611224,-116.289799,43.611224",
+    "geom:latitude":43.611224,
+    "geom:longitude":-116.289799,
+    "iso:country":"US",
+    "sg:address":"8601 Emerald St",
+    "sg:city":"Boise",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Clinic",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 342 1222",
+    "sg:postcode":"83704",
+    "sg:province":"ID",
+    "sg:tags":[
+        "home",
+        "care"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        102191575,
+        85633793,
+        85937923,
+        102086087,
+        85841319
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2n44qzb5ibAigPOX7afGqD_43.611224_-116.289799@1294099250"
+    },
+    "wof:country":"US",
+    "wof:created":1464202500,
+    "wof:geomhash":"09dc8ced5976b9830295ad703f1f3112",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086087,
+            "locality_id":85937923,
+            "neighbourhood_id":85841319,
+            "region_id":85688657,
+            "venue_id":857527795
+        }
+    ],
+    "wof:id":857527795,
+    "wof:lastmodified":1464202500,
+    "wof:name":"Alternatives For Life",
+    "wof:parent_id":85841319,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "home",
+        "care"
+    ]
+},
+  "bbox": [
+    -116.289799,
+    43.611224,
+    -116.289799,
+    43.611224
+],
+  "geometry": {"coordinates":[-116.289799,43.611224],"type":"Point"}
+}

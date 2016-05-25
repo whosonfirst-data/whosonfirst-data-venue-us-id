@@ -1,0 +1,76 @@
+{
+  "id": 857597509,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-116.790062,47.709862,-116.790062,47.709862",
+    "geom:latitude":47.709862,
+    "geom:longitude":-116.790062,
+    "iso:country":"US",
+    "sg:address":"308 W Seale Ave",
+    "sg:city":"Coeur D Alene",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Bicycles & Sporting Goods",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 667 7831",
+    "sg:postcode":"83815",
+    "sg:province":"ID",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85821457,
+        102086085,
+        102191575,
+        85938163,
+        85806325
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_00WOTCq4CvnWEBGEeUd4Cp_47.709862_-116.790062@1294099250"
+    },
+    "wof:country":"US",
+    "wof:created":1464203932,
+    "wof:geomhash":"147383e08c592a07cdd9932f33a5c397",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086085,
+            "neighbourhood_id":85821457,
+            "region_id":85688657,
+            "venue_id":857597509
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086085,
+            "locality_id":85938163,
+            "neighbourhood_id":85806325,
+            "region_id":85688657,
+            "venue_id":857597509
+        }
+    ],
+    "wof:id":857597509,
+    "wof:lastmodified":1464203932,
+    "wof:name":"Black Sheep Sporting Goods",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -116.790062,
+    47.709862,
+    -116.790062,
+    47.709862
+],
+  "geometry": {"coordinates":[-116.79006200000001,47.709862],"type":"Point"}
+}

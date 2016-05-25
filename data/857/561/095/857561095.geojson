@@ -1,0 +1,69 @@
+{
+  "id": 857561095,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-116.832857,47.729616,-116.832857,47.729616",
+    "geom:latitude":47.729616,
+    "geom:longitude":-116.832857,
+    "iso:country":"US",
+    "sg:address":"6225 N Ace St",
+    "sg:city":"Coeur D Alene",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 664 9485",
+    "sg:postcode":"83815",
+    "sg:province":"ID",
+    "sg:tags":[
+        "painter"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85821457,
+        102086085
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3aHexpVsncMdkG9VXVbAOc_47.729616_-116.832857@1294099250"
+    },
+    "wof:country":"US",
+    "wof:created":1464203184,
+    "wof:geomhash":"95ed4cbe26c8f09397035e3f8515c5ff",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086085,
+            "neighbourhood_id":85821457,
+            "region_id":85688657,
+            "venue_id":857561095
+        }
+    ],
+    "wof:id":857561095,
+    "wof:lastmodified":1464203184,
+    "wof:name":"Lake City Powder Coating",
+    "wof:parent_id":85821457,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "painter"
+    ]
+},
+  "bbox": [
+    -116.832857,
+    47.729616,
+    -116.832857,
+    47.729616
+],
+  "geometry": {"coordinates":[-116.832857,47.729616],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 857566895,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-116.354346,43.576821,-116.354346,43.576821",
+    "geom:latitude":43.576821,
+    "geom:longitude":-116.354346,
+    "iso:country":"US",
+    "sg:address":"3100 S Eagle Rd",
+    "sg:city":"Meridian",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Gifts & Souvenirs",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 888 7982",
+    "sg:postcode":"83642",
+    "sg:province":"ID",
+    "sg:tags":[
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85937915,
+        102086087,
+        85805083
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6zmhIlWRFajJi2WyVRXU4M_43.576821_-116.354346@1294099250"
+    },
+    "wof:country":"US",
+    "wof:created":1464203296,
+    "wof:geomhash":"7e57caa5c7d316267d44fd6bb8639963",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086087,
+            "locality_id":85937915,
+            "neighbourhood_id":85805083,
+            "region_id":85688657,
+            "venue_id":857566895
+        }
+    ],
+    "wof:id":857566895,
+    "wof:lastmodified":1464203296,
+    "wof:name":"Three C's Gift Gallery",
+    "wof:parent_id":85805083,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop"
+    ]
+},
+  "bbox": [
+    -116.354346,
+    43.576821,
+    -116.354346,
+    43.576821
+],
+  "geometry": {"coordinates":[-116.35434600000001,43.576821],"type":"Point"}
+}

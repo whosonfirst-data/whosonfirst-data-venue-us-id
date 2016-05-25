@@ -1,0 +1,72 @@
+{
+  "id": 857630257,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-116.789494,47.75561,-116.789494,47.75561",
+    "geom:latitude":47.75561,
+    "geom:longitude":-116.789494,
+    "iso:country":"US",
+    "sg:address":"279 W Orchard Ave",
+    "sg:city":"Hayden",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/id/coeur-dalene/198417-kfc---kentucky-fried-chicken/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 762 4959",
+    "sg:postcode":"83835",
+    "sg:province":"ID",
+    "sg:tags":[
+        "american",
+        "chicken"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85821457,
+        102086085
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1XeLiA6irINotUJPGcqFHG_47.755610_-116.789494@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464204671,
+    "wof:geomhash":"f681214adba18030644b83ad547afa32",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086085,
+            "neighbourhood_id":85821457,
+            "region_id":85688657,
+            "venue_id":857630257
+        }
+    ],
+    "wof:id":857630257,
+    "wof:lastmodified":1464204671,
+    "wof:name":"KFC - Kentucky Fried Chicken",
+    "wof:parent_id":85821457,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "chicken"
+    ]
+},
+  "bbox": [
+    -116.789494,
+    47.75561,
+    -116.789494,
+    47.75561
+],
+  "geometry": {"coordinates":[-116.789494,47.75561],"type":"Point"}
+}

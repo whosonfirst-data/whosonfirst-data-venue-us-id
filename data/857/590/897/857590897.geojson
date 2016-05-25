@@ -1,0 +1,71 @@
+{
+  "id": 857590897,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-116.391321,43.61111,-116.391321,43.61111",
+    "geom:latitude":43.61111,
+    "geom:longitude":-116.391321,
+    "iso:country":"US",
+    "sg:address":"124 E Idaho Ave",
+    "sg:city":"Meridian",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Books",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 887 1498",
+    "sg:postcode":"83642",
+    "sg:province":"ID",
+    "sg:tags":[
+        "dealer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85937915,
+        102086087,
+        85805083
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6qoLx43MxSJvBznetskiuV_43.611110_-116.391321@1294099250"
+    },
+    "wof:country":"US",
+    "wof:created":1464203782,
+    "wof:geomhash":"b456e966be23945f03c01be539dca897",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086087,
+            "locality_id":85937915,
+            "neighbourhood_id":85805083,
+            "region_id":85688657,
+            "venue_id":857590897
+        }
+    ],
+    "wof:id":857590897,
+    "wof:lastmodified":1464203782,
+    "wof:name":"Christian Science Reading Room",
+    "wof:parent_id":85805083,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dealer"
+    ]
+},
+  "bbox": [
+    -116.391321,
+    43.61111,
+    -116.391321,
+    43.61111
+],
+  "geometry": {"coordinates":[-116.391321,43.61111],"type":"Point"}
+}

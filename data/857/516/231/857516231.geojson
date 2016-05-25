@@ -1,0 +1,74 @@
+{
+  "id": 857516231,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-116.564363,43.561354,-116.564363,43.561354",
+    "geom:latitude":43.561354,
+    "geom:longitude":-116.564363,
+    "iso:country":"US",
+    "sg:address":"623 Holly St",
+    "sg:city":"Nampa",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"College",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 467 8011",
+    "sg:postcode":"83686",
+    "sg:province":"ID",
+    "sg:tags":[
+        "academic",
+        "school"
+    ],
+    "sg:website":"www.nnu.edu",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85938009,
+        102085081,
+        85827787
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_03dSoq0QKDrbDOngAnGXdj_43.561354_-116.564363@1294099250"
+    },
+    "wof:country":"US",
+    "wof:created":1464202274,
+    "wof:geomhash":"ea1670d42b3ec7dfe38aa652ca2ec656",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085081,
+            "locality_id":85938009,
+            "neighbourhood_id":85827787,
+            "region_id":85688657,
+            "venue_id":857516231
+        }
+    ],
+    "wof:id":857516231,
+    "wof:lastmodified":1464202274,
+    "wof:name":"Northwest Nazarene University",
+    "wof:parent_id":85827787,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "academic",
+        "school"
+    ]
+},
+  "bbox": [
+    -116.564363,
+    43.561354,
+    -116.564363,
+    43.561354
+],
+  "geometry": {"coordinates":[-116.564363,43.561354],"type":"Point"}
+}

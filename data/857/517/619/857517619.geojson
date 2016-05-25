@@ -1,0 +1,71 @@
+{
+  "id": 857517619,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-116.790773,47.743347,-116.790773,47.743347",
+    "geom:latitude":47.743347,
+    "geom:longitude":-116.790773,
+    "iso:country":"US",
+    "sg:address":"7830 N Meadowlark Way",
+    "sg:city":"Coeur D Alene",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 762 4939",
+    "sg:postcode":"83815",
+    "sg:province":"ID",
+    "sg:tags":[
+        "federal",
+        "program"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85821457,
+        102086085
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3nWRqau8NsKEkuwEkV7yFl_47.743347_-116.790773@1294099250"
+    },
+    "wof:country":"US",
+    "wof:created":1464202302,
+    "wof:geomhash":"74e8a41c7ec78f88e0d1fba1b7aafcb6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086085,
+            "neighbourhood_id":85821457,
+            "region_id":85688657,
+            "venue_id":857517619
+        }
+    ],
+    "wof:id":857517619,
+    "wof:lastmodified":1464202302,
+    "wof:name":"US Agricultural Dept",
+    "wof:parent_id":85821457,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "federal",
+        "program"
+    ]
+},
+  "bbox": [
+    -116.790773,
+    47.743347,
+    -116.790773,
+    47.743347
+],
+  "geometry": {"coordinates":[-116.790773,47.743347],"type":"Point"}
+}

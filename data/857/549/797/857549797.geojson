@@ -1,0 +1,72 @@
+{
+  "id": 857549797,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-117.003765,46.423576,-117.003765,46.423576",
+    "geom:latitude":46.423576,
+    "geom:longitude":-117.003765,
+    "iso:country":"US",
+    "sg:address":"2036 3rd Ave N",
+    "sg:city":"Lewiston",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 746 4929",
+    "sg:postcode":"83501",
+    "sg:province":"ID",
+    "sg:tags":[
+        "trucking"
+    ],
+    "sg:website":"www.tcmcourier.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85937743,
+        102086039,
+        85837769
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_32qUjpj6pYVXr10r2dfI8h_46.423576_-117.003765@1294099250"
+    },
+    "wof:country":"US",
+    "wof:created":1464202927,
+    "wof:geomhash":"5c237008432ef57938379bf7bac6b475",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086039,
+            "locality_id":85937743,
+            "neighbourhood_id":85837769,
+            "region_id":85688657,
+            "venue_id":857549797
+        }
+    ],
+    "wof:id":857549797,
+    "wof:lastmodified":1464202927,
+    "wof:name":"TCM Courier Svc",
+    "wof:parent_id":85837769,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "trucking"
+    ]
+},
+  "bbox": [
+    -117.003765,
+    46.423576,
+    -117.003765,
+    46.423576
+],
+  "geometry": {"coordinates":[-117.003765,46.423576],"type":"Point"}
+}

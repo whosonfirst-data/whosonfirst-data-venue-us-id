@@ -1,0 +1,71 @@
+{
+  "id": 857613209,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-116.786741,47.747784,-116.786741,47.747784",
+    "geom:latitude":47.747784,
+    "geom:longitude":-116.786741,
+    "iso:country":"US",
+    "sg:address":"8445 N Government Way",
+    "sg:city":"Hayden Lake",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 762 0605",
+    "sg:postcode":"83835",
+    "sg:province":"ID",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85821457,
+        102086085
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5QxK3ZQt11il8LNlE0bqMq_47.747784_-116.786741@1294099250"
+    },
+    "wof:country":"US",
+    "wof:created":1464204284,
+    "wof:geomhash":"7b06eb2c548fd37e465e3c5e07ea1e10",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086085,
+            "neighbourhood_id":85821457,
+            "region_id":85688657,
+            "venue_id":857613209
+        }
+    ],
+    "wof:id":857613209,
+    "wof:lastmodified":1464204284,
+    "wof:name":"Empire Eye Physicians",
+    "wof:parent_id":85821457,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -116.786741,
+    47.747784,
+    -116.786741,
+    47.747784
+],
+  "geometry": {"coordinates":[-116.78674100000001,47.747784],"type":"Point"}
+}

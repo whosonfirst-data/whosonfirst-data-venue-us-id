@@ -1,0 +1,76 @@
+{
+  "id": 857628217,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-116.387527,43.619368,-116.387527,43.619368",
+    "geom:latitude":43.619368,
+    "geom:longitude":-116.387527,
+    "iso:country":"US",
+    "sg:address":"405 E Fairview Ave",
+    "sg:city":"Meridian",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/id/boise-city/241826-idaho-pizza-company/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 888 4441",
+    "sg:postcode":"83642",
+    "sg:province":"ID",
+    "sg:tags":[
+        "american",
+        "pizza"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        102191575,
+        85633793,
+        85937915,
+        102086087,
+        85811491
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0ulDSE6wQ7BPbCCfxFIbji_43.619368_-116.387527@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464204628,
+    "wof:geomhash":"47ef9b8cbf74f46dffe08f160b4c5627",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086087,
+            "locality_id":85937915,
+            "neighbourhood_id":85811491,
+            "region_id":85688657,
+            "venue_id":857628217
+        }
+    ],
+    "wof:id":857628217,
+    "wof:lastmodified":1464204628,
+    "wof:name":"Idaho Pizza Company",
+    "wof:parent_id":85811491,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "pizza"
+    ]
+},
+  "bbox": [
+    -116.387527,
+    43.619368,
+    -116.387527,
+    43.619368
+],
+  "geometry": {"coordinates":[-116.38752700000001,43.619368],"type":"Point"}
+}

@@ -1,0 +1,76 @@
+{
+  "id": 857629303,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-116.273823,43.619573,-116.273823,43.619573",
+    "geom:latitude":43.619573,
+    "geom:longitude":-116.273823,
+    "iso:country":"US",
+    "sg:address":"7320 W Fairview Ave",
+    "sg:city":"Boise",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/id/boise-city/77688-papa-murphys/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 658 1155",
+    "sg:postcode":"83704",
+    "sg:province":"ID",
+    "sg:tags":[
+        "american",
+        "pizza"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        102191575,
+        85633793,
+        85937923,
+        102086087,
+        85841319
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5Xw7w6BEdkgoiEyh0Wepxg_43.619573_-116.273823@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464204648,
+    "wof:geomhash":"74d4262b8b02638a67e46524c4ba5751",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086087,
+            "locality_id":85937923,
+            "neighbourhood_id":85841319,
+            "region_id":85688657,
+            "venue_id":857629303
+        }
+    ],
+    "wof:id":857629303,
+    "wof:lastmodified":1464204648,
+    "wof:name":"Papa Murphy's",
+    "wof:parent_id":85841319,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "pizza"
+    ]
+},
+  "bbox": [
+    -116.273823,
+    43.619573,
+    -116.273823,
+    43.619573
+],
+  "geometry": {"coordinates":[-116.27382299999999,43.619573],"type":"Point"}
+}

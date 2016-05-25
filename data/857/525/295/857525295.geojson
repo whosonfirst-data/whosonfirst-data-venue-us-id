@@ -1,0 +1,71 @@
+{
+  "id": 857525295,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-116.575562,43.579215,-116.575562,43.579215",
+    "geom:latitude":43.579215,
+    "geom:longitude":-116.575562,
+    "iso:country":"US",
+    "sg:address":"13 N Fairview St",
+    "sg:city":"Nampa",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 466 8113",
+    "sg:postcode":"83651",
+    "sg:province":"ID",
+    "sg:tags":[
+        "automotive"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85938009,
+        102085081,
+        85827787
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6CnT0ulYT3Gp1lggx4KfBA_43.579215_-116.575562@1294099250"
+    },
+    "wof:country":"US",
+    "wof:created":1464202455,
+    "wof:geomhash":"d89c576906a9a270761fb14331581b30",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085081,
+            "locality_id":85938009,
+            "neighbourhood_id":85827787,
+            "region_id":85688657,
+            "venue_id":857525295
+        }
+    ],
+    "wof:id":857525295,
+    "wof:lastmodified":1464202455,
+    "wof:name":"Jims Labor Service",
+    "wof:parent_id":85827787,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automotive"
+    ]
+},
+  "bbox": [
+    -116.575562,
+    43.579215,
+    -116.575562,
+    43.579215
+],
+  "geometry": {"coordinates":[-116.57556200000001,43.579215],"type":"Point"}
+}

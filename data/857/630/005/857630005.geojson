@@ -1,0 +1,72 @@
+{
+  "id": 857630005,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-116.630324,47.627185,-116.630324,47.627185",
+    "geom:latitude":47.627185,
+    "geom:longitude":-116.630324,
+    "iso:country":"US",
+    "sg:address":"11741 E Frontage Rd",
+    "sg:city":"Coeur D Alene",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/id/harrison/3486-wolf-lodge-steakhouse/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 664 6665",
+    "sg:postcode":"83814",
+    "sg:province":"ID",
+    "sg:tags":[
+        "american",
+        "steakhouse"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85821457,
+        102086085
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_701DuaiDEdFiWwwo13wn9e_47.627185_-116.630324@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464204660,
+    "wof:geomhash":"f6a55c1ee85f051c29e599d3b9de7075",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086085,
+            "neighbourhood_id":85821457,
+            "region_id":85688657,
+            "venue_id":857630005
+        }
+    ],
+    "wof:id":857630005,
+    "wof:lastmodified":1464204660,
+    "wof:name":"Wolf Lodge Steakhouse",
+    "wof:parent_id":85821457,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "steakhouse"
+    ]
+},
+  "bbox": [
+    -116.630324,
+    47.627185,
+    -116.630324,
+    47.627185
+],
+  "geometry": {"coordinates":[-116.630324,47.627185],"type":"Point"}
+}

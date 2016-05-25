@@ -1,0 +1,71 @@
+{
+  "id": 857522485,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-116.849932,47.867866,-116.849932,47.867866",
+    "geom:latitude":47.867866,
+    "geom:longitude":-116.849932,
+    "iso:country":"US",
+    "sg:address":"4815 W Village Blvd",
+    "sg:city":"Rathdrum",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 687 2525",
+    "sg:postcode":"83858",
+    "sg:province":"ID",
+    "sg:tags":[
+        "commercial",
+        "storage"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85821457,
+        102086085
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5uW1QApzveaG56JxGmZOHQ_47.867866_-116.849932@1294099250"
+    },
+    "wof:country":"US",
+    "wof:created":1464202399,
+    "wof:geomhash":"8ba97e1bf5adc3c0a3b88ff255eff9c1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086085,
+            "neighbourhood_id":85821457,
+            "region_id":85688657,
+            "venue_id":857522485
+        }
+    ],
+    "wof:id":857522485,
+    "wof:lastmodified":1464202399,
+    "wof:name":"Twin Lakes Mini Storage",
+    "wof:parent_id":85821457,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "commercial",
+        "storage"
+    ]
+},
+  "bbox": [
+    -116.849932,
+    47.867866,
+    -116.849932,
+    47.867866
+],
+  "geometry": {"coordinates":[-116.849932,47.867866],"type":"Point"}
+}

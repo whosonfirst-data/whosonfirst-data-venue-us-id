@@ -1,0 +1,73 @@
+{
+  "id": 857593653,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-117.010192,47.74957,-117.010192,47.74957",
+    "geom:latitude":47.74957,
+    "geom:longitude":-117.010192,
+    "iso:country":"US",
+    "sg:address":"4625 W Trent Rd",
+    "sg:city":"Coeur D Alene",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Equipment Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 769 9979",
+    "sg:postcode":"83854",
+    "sg:province":"ID",
+    "sg:tags":[
+        "yard"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        102191575,
+        85633793,
+        85938145,
+        102086085,
+        85833263
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6ZM4yhnmDTriFdtLOdMlpo_47.749570_-117.010192@1294099250"
+    },
+    "wof:country":"US",
+    "wof:created":1464203841,
+    "wof:geomhash":"cea4a113798ec06df1b9793883e1d2e5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086085,
+            "locality_id":85938145,
+            "neighbourhood_id":85833263,
+            "region_id":85688657,
+            "venue_id":857593653
+        }
+    ],
+    "wof:id":857593653,
+    "wof:lastmodified":1464203841,
+    "wof:name":"Cat Rental Store",
+    "wof:parent_id":85833263,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "yard"
+    ]
+},
+  "bbox": [
+    -117.010192,
+    47.74957,
+    -117.010192,
+    47.74957
+],
+  "geometry": {"coordinates":[-117.010192,47.74957],"type":"Point"}
+}

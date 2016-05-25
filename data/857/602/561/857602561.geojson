@@ -1,0 +1,71 @@
+{
+  "id": 857602561,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-116.765156,47.73963,-116.765156,47.73963",
+    "geom:latitude":47.73963,
+    "geom:longitude":-116.765156,
+    "iso:country":"US",
+    "sg:address":"7312 N 15th St",
+    "sg:city":"Dalton Gardens",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Landscaping Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 772 7555",
+    "sg:postcode":"83815",
+    "sg:province":"ID",
+    "sg:tags":[
+        "landscape",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85821457,
+        102086085
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4Plnv0DltFIhsFJDhUSn57_47.739630_-116.765156@1294099250"
+    },
+    "wof:country":"US",
+    "wof:created":1464204039,
+    "wof:geomhash":"4093fb17d939b01677cff40d9f7b55e1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086085,
+            "neighbourhood_id":85821457,
+            "region_id":85688657,
+            "venue_id":857602561
+        }
+    ],
+    "wof:id":857602561,
+    "wof:lastmodified":1464204039,
+    "wof:name":"Country Home Landscape",
+    "wof:parent_id":85821457,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "landscape",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -116.765156,
+    47.73963,
+    -116.765156,
+    47.73963
+],
+  "geometry": {"coordinates":[-116.765156,47.73963],"type":"Point"}
+}

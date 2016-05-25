@@ -1,0 +1,85 @@
+{
+  "id": 857591819,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-116.786634,47.726493,-116.786634,47.726493",
+    "geom:latitude":47.726493,
+    "geom:longitude":-116.786634,
+    "iso:country":"US",
+    "sg:address":"5840 N Government Way",
+    "sg:city":"Dalton Gardens",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Animal Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 762 7639",
+    "sg:postcode":"83815",
+    "sg:province":"ID",
+    "sg:tags":[
+        "pet",
+        "grooming",
+        "washing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85821457,
+        102086085,
+        102191575,
+        85938163,
+        85806325
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5HIijgPe9gcRbzYQOKGPU0_47.726493_-116.786634@1294099250"
+    },
+    "wof:country":"US",
+    "wof:created":1464203802,
+    "wof:geomhash":"f5b11527e5a119093f0eaca6e9bbf785",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086085,
+            "neighbourhood_id":85821457,
+            "region_id":85688657,
+            "venue_id":857591819
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086085,
+            "locality_id":85938163,
+            "neighbourhood_id":85806325,
+            "region_id":85688657,
+            "venue_id":857591819
+        }
+    ],
+    "wof:id":857591819,
+    "wof:lastmodified":1464203802,
+    "wof:name":"Sandy's Animal Attraction",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pet",
+        "grooming",
+        "washing"
+    ]
+},
+  "bbox": [
+    -116.786634,
+    47.726493,
+    -116.786634,
+    47.726493
+],
+  "geometry": {"coordinates":[-116.78663400000001,47.726493],"type":"Point"}
+}

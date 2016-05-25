@@ -1,0 +1,75 @@
+{
+  "id": 857606333,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-116.275729,43.602793,-116.275729,43.602793",
+    "geom:latitude":43.602793,
+    "geom:longitude":-116.275729,
+    "iso:country":"US",
+    "sg:address":"220 Auto Dr",
+    "sg:city":"Boise",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 321 0555",
+    "sg:postcode":"83709",
+    "sg:province":"ID",
+    "sg:tags":[
+        "car",
+        "dealer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        102191575,
+        85633793,
+        85937923,
+        102086087,
+        85841319
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3oYrGBgDf3zHiiPdp3yqV6_43.602793_-116.275729@1294099250"
+    },
+    "wof:country":"US",
+    "wof:created":1464204122,
+    "wof:geomhash":"5559de804d0ebcb7a6384f0c232d4b1f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086087,
+            "locality_id":85937923,
+            "neighbourhood_id":85841319,
+            "region_id":85688657,
+            "venue_id":857606333
+        }
+    ],
+    "wof:id":857606333,
+    "wof:lastmodified":1464204122,
+    "wof:name":"Auto Mall Outlet",
+    "wof:parent_id":85841319,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "car",
+        "dealer"
+    ]
+},
+  "bbox": [
+    -116.275729,
+    43.602793,
+    -116.275729,
+    43.602793
+],
+  "geometry": {"coordinates":[-116.275729,43.602793],"type":"Point"}
+}

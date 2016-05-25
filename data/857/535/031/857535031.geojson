@@ -1,0 +1,73 @@
+{
+  "id": 857535031,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-116.246015,43.577838,-116.246015,43.577838",
+    "geom:latitude":43.577838,
+    "geom:longitude":-116.246015,
+    "iso:country":"US",
+    "sg:address":"2616 S Hilton St",
+    "sg:city":"Boise",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Water",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 343 3040",
+    "sg:postcode":"83705",
+    "sg:province":"ID",
+    "sg:tags":[
+        "supply"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        102191575,
+        85633793,
+        85937923,
+        102086087,
+        85825393
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_19UXyQCyAHs3bFhxxn7hw7_43.577838_-116.246015@1294099250"
+    },
+    "wof:country":"US",
+    "wof:created":1464202639,
+    "wof:geomhash":"5b6cbbd68c747d6ef5ffdce42ca65d7d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086087,
+            "locality_id":85937923,
+            "neighbourhood_id":85825393,
+            "region_id":85688657,
+            "venue_id":857535031
+        }
+    ],
+    "wof:id":857535031,
+    "wof:lastmodified":1464202639,
+    "wof:name":"Malad & Hilton Water Co Inc",
+    "wof:parent_id":85825393,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "supply"
+    ]
+},
+  "bbox": [
+    -116.246015,
+    43.577838,
+    -116.246015,
+    43.577838
+],
+  "geometry": {"coordinates":[-116.246015,43.577838],"type":"Point"}
+}

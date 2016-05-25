@@ -1,0 +1,73 @@
+{
+  "id": 857565705,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-116.333046,43.600667,-116.333046,43.600667",
+    "geom:latitude":43.600667,
+    "geom:longitude":-116.333046,
+    "iso:country":"US",
+    "sg:address":"12070 W Keates Dr",
+    "sg:city":"Boise",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 658 0214",
+    "sg:postcode":"83709",
+    "sg:province":"ID",
+    "sg:tags":[
+        "mobile",
+        "home"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85937915,
+        102086087,
+        85805083
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1nH34LAzWhOwBZK7kgn9zO_43.600667_-116.333046@1294099250"
+    },
+    "wof:country":"US",
+    "wof:created":1464203268,
+    "wof:geomhash":"162764fb1aab669e8133af4b8318fd8a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086087,
+            "locality_id":85937915,
+            "neighbourhood_id":85805083,
+            "region_id":85688657,
+            "venue_id":857565705
+        }
+    ],
+    "wof:id":857565705,
+    "wof:lastmodified":1464203268,
+    "wof:name":"Tri State Roofing Of Idaho",
+    "wof:parent_id":85805083,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mobile",
+        "home"
+    ]
+},
+  "bbox": [
+    -116.333046,
+    43.600667,
+    -116.333046,
+    43.600667
+],
+  "geometry": {"coordinates":[-116.333046,43.600667],"type":"Point"}
+}

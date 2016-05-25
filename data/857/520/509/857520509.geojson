@@ -1,0 +1,73 @@
+{
+  "id": 857520509,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-116.77497,47.729742,-116.77497,47.729742",
+    "geom:latitude":47.729742,
+    "geom:longitude":-116.77497,
+    "iso:country":"US",
+    "sg:address":"916 E Hanley Ave",
+    "sg:city":"Dalton Gardens",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 772 4369",
+    "sg:postcode":"83815",
+    "sg:province":"ID",
+    "sg:tags":[
+        "marking",
+        "maintenance",
+        "parking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85821457,
+        102086085
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0hZWi42oCNBUmSmRf5d6K7_47.729742_-116.774970@1294099250"
+    },
+    "wof:country":"US",
+    "wof:created":1464202362,
+    "wof:geomhash":"b289c294576e62b559e870341058f089",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086085,
+            "neighbourhood_id":85821457,
+            "region_id":85688657,
+            "venue_id":857520509
+        }
+    ],
+    "wof:id":857520509,
+    "wof:lastmodified":1464202362,
+    "wof:name":"Sweep",
+    "wof:parent_id":85821457,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "marking",
+        "maintenance",
+        "parking"
+    ]
+},
+  "bbox": [
+    -116.77497,
+    47.729742,
+    -116.77497,
+    47.729742
+],
+  "geometry": {"coordinates":[-116.77497,47.729742],"type":"Point"}
+}

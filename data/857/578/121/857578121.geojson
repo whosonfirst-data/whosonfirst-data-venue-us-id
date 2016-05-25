@@ -1,0 +1,71 @@
+{
+  "id": 857578121,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-116.408327,43.599754,-116.408327,43.599754",
+    "geom:latitude":43.599754,
+    "geom:longitude":-116.408327,
+    "iso:country":"US",
+    "sg:address":"550 S Pelican Way",
+    "sg:city":"Meridian",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Furniture",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 888 9785",
+    "sg:postcode":"83642",
+    "sg:province":"ID",
+    "sg:tags":[
+        "mfg"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85937915,
+        102086087,
+        85805083
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_43qfFzxTVWm06KhxIyu4aG_43.599754_-116.408327@1294099250"
+    },
+    "wof:country":"US",
+    "wof:created":1464203513,
+    "wof:geomhash":"feff02e84e99e32ed060ff7790393366",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086087,
+            "locality_id":85937915,
+            "neighbourhood_id":85805083,
+            "region_id":85688657,
+            "venue_id":857578121
+        }
+    ],
+    "wof:id":857578121,
+    "wof:lastmodified":1464203513,
+    "wof:name":"Dakota Dove Inc",
+    "wof:parent_id":85805083,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mfg"
+    ]
+},
+  "bbox": [
+    -116.408327,
+    43.599754,
+    -116.408327,
+    43.599754
+],
+  "geometry": {"coordinates":[-116.408327,43.599754],"type":"Point"}
+}

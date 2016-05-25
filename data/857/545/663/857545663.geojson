@@ -1,0 +1,74 @@
+{
+  "id": 857545663,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-116.365937,43.606834,-116.365937,43.606834",
+    "geom:latitude":43.606834,
+    "geom:longitude":-116.365937,
+    "iso:country":"US",
+    "sg:address":"1957 Lanark St",
+    "sg:city":"Meridian",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Tools & Machinery",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 888 5334",
+    "sg:postcode":"83642",
+    "sg:province":"ID",
+    "sg:tags":[
+        "machine",
+        "shop"
+    ],
+    "sg:website":"www.nwmachandmfg.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85937915,
+        102086087,
+        85805083
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7UcOAixO3eKI6L49yX66Ay_43.606834_-116.365937@1294099250"
+    },
+    "wof:country":"US",
+    "wof:created":1464202851,
+    "wof:geomhash":"b3ca0e1290f841c2c23250225b047bc8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086087,
+            "locality_id":85937915,
+            "neighbourhood_id":85805083,
+            "region_id":85688657,
+            "venue_id":857545663
+        }
+    ],
+    "wof:id":857545663,
+    "wof:lastmodified":1464202851,
+    "wof:name":"Northwest Machining & Mfg",
+    "wof:parent_id":85805083,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "machine",
+        "shop"
+    ]
+},
+  "bbox": [
+    -116.365937,
+    43.606834,
+    -116.365937,
+    43.606834
+],
+  "geometry": {"coordinates":[-116.365937,43.606834],"type":"Point"}
+}

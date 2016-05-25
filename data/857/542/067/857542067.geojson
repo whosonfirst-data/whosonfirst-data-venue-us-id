@@ -1,0 +1,71 @@
+{
+  "id": 857542067,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-116.546773,43.553756,-116.546773,43.553756",
+    "geom:latitude":43.553756,
+    "geom:longitude":-116.546773,
+    "iso:country":"US",
+    "sg:address":"1526 Ventura Dr",
+    "sg:city":"Nampa",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Water",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 465 5763",
+    "sg:postcode":"83686",
+    "sg:province":"ID",
+    "sg:tags":[
+        "supply"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85938009,
+        102085081,
+        85827787
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2JpOQEoZxMZTYnghPkoKqK_43.553756_-116.546773@1294099250"
+    },
+    "wof:country":"US",
+    "wof:created":1464202776,
+    "wof:geomhash":"4bebfe6510a97933d099cf47ea9edba2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085081,
+            "locality_id":85938009,
+            "neighbourhood_id":85827787,
+            "region_id":85688657,
+            "venue_id":857542067
+        }
+    ],
+    "wof:id":857542067,
+    "wof:lastmodified":1464202776,
+    "wof:name":"Dublin Meadows Water User Assn",
+    "wof:parent_id":85827787,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "supply"
+    ]
+},
+  "bbox": [
+    -116.546773,
+    43.553756,
+    -116.546773,
+    43.553756
+],
+  "geometry": {"coordinates":[-116.546773,43.553756],"type":"Point"}
+}

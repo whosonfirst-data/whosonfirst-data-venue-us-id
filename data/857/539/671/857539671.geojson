@@ -1,0 +1,75 @@
+{
+  "id": 857539671,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-116.187713,43.570415,-116.187713,43.570415",
+    "geom:latitude":43.570415,
+    "geom:longitude":-116.187713,
+    "iso:country":"US",
+    "sg:address":"3642 S Findley Ave",
+    "sg:city":"Boise",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Veterinary Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 331 0667",
+    "sg:postcode":"83705",
+    "sg:province":"ID",
+    "sg:tags":[
+        "veterinarian"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        102527733,
+        85876337,
+        102191575,
+        85633793,
+        85937923,
+        102086087,
+        85688657
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6ksfByTeGtFeQiNVQsGQCE_43.570415_-116.187713@1294099250"
+    },
+    "wof:country":"US",
+    "wof:created":1464202731,
+    "wof:geomhash":"33a7c74748180eca2b0b67462ff0fee7",
+    "wof:hierarchy":[
+        {
+            "campus_id":102527733,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086087,
+            "locality_id":85937923,
+            "neighbourhood_id":85876337,
+            "region_id":85688657,
+            "venue_id":857539671
+        }
+    ],
+    "wof:id":857539671,
+    "wof:lastmodified":1464202731,
+    "wof:name":"All Valley Pet Clinic",
+    "wof:parent_id":102527733,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "veterinarian"
+    ]
+},
+  "bbox": [
+    -116.187713,
+    43.570415,
+    -116.187713,
+    43.570415
+],
+  "geometry": {"coordinates":[-116.187713,43.570415],"type":"Point"}
+}

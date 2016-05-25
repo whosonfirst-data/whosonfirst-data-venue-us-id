@@ -1,0 +1,71 @@
+{
+  "id": 857611617,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-116.757747,47.706913,-116.757747,47.706913",
+    "geom:latitude":47.706913,
+    "geom:longitude":-116.757747,
+    "iso:country":"US",
+    "sg:address":"3208 W Pinehill Dr",
+    "sg:city":"Coeur D Alene",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 769 9503",
+    "sg:postcode":"83815",
+    "sg:province":"ID",
+    "sg:tags":[
+        "electrical",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85821457,
+        102086085
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2XfLZAD7i4ILbR2bWiEpAV_47.706913_-116.757747@1294099250"
+    },
+    "wof:country":"US",
+    "wof:created":1464204246,
+    "wof:geomhash":"e16375944383d2d203a217366e4a2604",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086085,
+            "neighbourhood_id":85821457,
+            "region_id":85688657,
+            "venue_id":857611617
+        }
+    ],
+    "wof:id":857611617,
+    "wof:lastmodified":1464204246,
+    "wof:name":"Mikes Electric",
+    "wof:parent_id":85821457,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electrical",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -116.757747,
+    47.706913,
+    -116.757747,
+    47.706913
+],
+  "geometry": {"coordinates":[-116.75774699999999,47.706913],"type":"Point"}
+}

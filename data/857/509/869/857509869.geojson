@@ -1,0 +1,73 @@
+{
+  "id": 857509869,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-117.030407,46.422822,-117.030407,46.422822",
+    "geom:latitude":46.422822,
+    "geom:longitude":-117.030407,
+    "iso:country":"US",
+    "sg:address":"207 C St",
+    "sg:city":"Lewiston",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 746 8584",
+    "sg:postcode":"83501",
+    "sg:province":"ID",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85937743,
+        102086039,
+        85852537
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_17FYcQWPTSZSW6tDANRGcy_46.422822_-117.030407@1294099250"
+    },
+    "wof:country":"US",
+    "wof:created":1464202140,
+    "wof:geomhash":"41971a8a61aa450b7bfafb1c6f7e6f69",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086039,
+            "locality_id":85937743,
+            "neighbourhood_id":85852537,
+            "region_id":85688657,
+            "venue_id":857509869
+        }
+    ],
+    "wof:id":857509869,
+    "wof:lastmodified":1464202140,
+    "wof:name":"PDQ Import Repair",
+    "wof:parent_id":85852537,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -117.030407,
+    46.422822,
+    -117.030407,
+    46.422822
+],
+  "geometry": {"coordinates":[-117.030407,46.422822],"type":"Point"}
+}

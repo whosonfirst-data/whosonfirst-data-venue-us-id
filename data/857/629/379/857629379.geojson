@@ -1,0 +1,76 @@
+{
+  "id": 857629379,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-116.216737,43.569652,-116.216737,43.569652",
+    "geom:latitude":43.569652,
+    "geom:longitude":-116.216737,
+    "iso:country":"US",
+    "sg:address":"2661 Airport Way",
+    "sg:city":"Boise",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/id/boise-city/3781-kopper-kitchen/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 344 4271",
+    "sg:postcode":"83705",
+    "sg:province":"ID",
+    "sg:tags":[
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        102527733,
+        85876337,
+        102191575,
+        85633793,
+        85937923,
+        102086087,
+        85688657
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1ETTjtsjQo5eRpMlow1hU9_43.569652_-116.216737@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464204649,
+    "wof:geomhash":"460fc7936d20ee48994946338253c14c",
+    "wof:hierarchy":[
+        {
+            "campus_id":102527733,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086087,
+            "locality_id":85937923,
+            "neighbourhood_id":85876337,
+            "region_id":85688657,
+            "venue_id":857629379
+        }
+    ],
+    "wof:id":857629379,
+    "wof:lastmodified":1464204649,
+    "wof:name":"Kopper Kitchen",
+    "wof:parent_id":102527733,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american"
+    ]
+},
+  "bbox": [
+    -116.216737,
+    43.569652,
+    -116.216737,
+    43.569652
+],
+  "geometry": {"coordinates":[-116.21673699999999,43.569652],"type":"Point"}
+}

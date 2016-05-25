@@ -1,0 +1,72 @@
+{
+  "id": 857628329,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-116.354509,43.591824,-116.354509,43.591824",
+    "geom:latitude":43.591824,
+    "geom:longitude":-116.354509,
+    "iso:country":"US",
+    "sg:address":"1475 N Eagle Rd",
+    "sg:city":"Meridian",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/id/boise-city/8571-red-robin/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 401 0184",
+    "sg:postcode":"83642",
+    "sg:province":"ID",
+    "sg:tags":[
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85937915,
+        102086087,
+        85805083
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4CITHwBCRGHh7qCVVgOibW_43.591824_-116.354509@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464204630,
+    "wof:geomhash":"60c0119e9278db3fa0ec9a9eca70ce45",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086087,
+            "locality_id":85937915,
+            "neighbourhood_id":85805083,
+            "region_id":85688657,
+            "venue_id":857628329
+        }
+    ],
+    "wof:id":857628329,
+    "wof:lastmodified":1464204630,
+    "wof:name":"Red Robin",
+    "wof:parent_id":85805083,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american"
+    ]
+},
+  "bbox": [
+    -116.354509,
+    43.591824,
+    -116.354509,
+    43.591824
+],
+  "geometry": {"coordinates":[-116.35450899999999,43.591824],"type":"Point"}
+}

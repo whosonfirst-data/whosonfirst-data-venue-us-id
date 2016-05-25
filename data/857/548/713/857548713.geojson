@@ -1,0 +1,71 @@
+{
+  "id": 857548713,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-116.783903,47.675095,-116.783903,47.675095",
+    "geom:latitude":47.675095,
+    "geom:longitude":-116.783903,
+    "iso:country":"US",
+    "sg:address":"216 E Coeur D Alene Ave",
+    "sg:city":"Coeur D Alene",
+    "sg:classifiers":[
+        {
+            "category":"Bars & Pubs",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 667 3132",
+    "sg:postcode":"83814",
+    "sg:province":"ID",
+    "sg:tags":[
+        "lounge",
+        "cocktail"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85821457,
+        102086085
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0pmFN49V2smXtFJJOqg5ls_47.675095_-116.783903@1294099250"
+    },
+    "wof:country":"US",
+    "wof:created":1464202907,
+    "wof:geomhash":"3bcbd8177f5c5470f9a6e12768231eb5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086085,
+            "neighbourhood_id":85821457,
+            "region_id":85688657,
+            "venue_id":857548713
+        }
+    ],
+    "wof:id":857548713,
+    "wof:lastmodified":1464202907,
+    "wof:name":"Torche Lounge",
+    "wof:parent_id":85821457,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "lounge",
+        "cocktail"
+    ]
+},
+  "bbox": [
+    -116.783903,
+    47.675095,
+    -116.783903,
+    47.675095
+],
+  "geometry": {"coordinates":[-116.783903,47.675095],"type":"Point"}
+}

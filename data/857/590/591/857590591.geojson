@@ -1,0 +1,73 @@
+{
+  "id": 857590591,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-116.560483,43.575081,-116.560483,43.575081",
+    "geom:latitude":43.575081,
+    "geom:longitude":-116.560483,
+    "iso:country":"US",
+    "sg:address":"1412 4th St S",
+    "sg:city":"Nampa",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 461 8391",
+    "sg:postcode":"83651",
+    "sg:province":"ID",
+    "sg:tags":[
+        "organization",
+        "welfare"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85938009,
+        102085081,
+        85827787
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1rXLpodfOjopqaqbL9WPoe_43.575081_-116.560483@1294099250"
+    },
+    "wof:country":"US",
+    "wof:created":1464203774,
+    "wof:geomhash":"85b77da1a07150a9d2f7029fb8b9bdac",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085081,
+            "locality_id":85938009,
+            "neighbourhood_id":85827787,
+            "region_id":85688657,
+            "venue_id":857590591
+        }
+    ],
+    "wof:id":857590591,
+    "wof:lastmodified":1464203774,
+    "wof:name":"Nampa Shelter Foundation",
+    "wof:parent_id":85827787,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "organization",
+        "welfare"
+    ]
+},
+  "bbox": [
+    -116.560483,
+    43.575081,
+    -116.560483,
+    43.575081
+],
+  "geometry": {"coordinates":[-116.560483,43.575081],"type":"Point"}
+}

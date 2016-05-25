@@ -1,0 +1,73 @@
+{
+  "id": 857622327,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-116.786614,47.729837,-116.786614,47.729837",
+    "geom:latitude":47.729837,
+    "geom:longitude":-116.786614,
+    "iso:country":"US",
+    "sg:address":"108 E Hanley Ave",
+    "sg:city":"Dalton Gardens",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 762 2639",
+    "sg:postcode":"83815",
+    "sg:province":"ID",
+    "sg:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85821457,
+        102086085
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7ZwT1FgR56ks5X3lwIDuZ2_47.729837_-116.786614@1294099250"
+    },
+    "wof:country":"US",
+    "wof:created":1464204488,
+    "wof:geomhash":"1704bfdeb1a472239ca9808ac6584656",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086085,
+            "neighbourhood_id":85821457,
+            "region_id":85688657,
+            "venue_id":857622327
+        }
+    ],
+    "wof:id":857622327,
+    "wof:lastmodified":1464204488,
+    "wof:name":"Rocky's Body Shop",
+    "wof:parent_id":85821457,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ]
+},
+  "bbox": [
+    -116.786614,
+    47.729837,
+    -116.786614,
+    47.729837
+],
+  "geometry": {"coordinates":[-116.786614,47.729837],"type":"Point"}
+}

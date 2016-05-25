@@ -1,0 +1,71 @@
+{
+  "id": 857557509,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-116.744114,47.786582,-116.744114,47.786582",
+    "geom:latitude":47.786582,
+    "geom:longitude":-116.744114,
+    "iso:country":"US",
+    "sg:address":"3326 E Cambridge Dr",
+    "sg:city":"Hayden",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 651 0691",
+    "sg:postcode":"83835",
+    "sg:province":"ID",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85821457,
+        102086085
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1YfsOOnLjrZdkq3O6Mltxz_47.786582_-116.744114@1294099250"
+    },
+    "wof:country":"US",
+    "wof:created":1464203083,
+    "wof:geomhash":"32b927b5f64339adde1da75f7d005271",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086085,
+            "neighbourhood_id":85821457,
+            "region_id":85688657,
+            "venue_id":857557509
+        }
+    ],
+    "wof:id":857557509,
+    "wof:lastmodified":1464203083,
+    "wof:name":"Chet's Mobile Repair",
+    "wof:parent_id":85821457,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -116.744114,
+    47.786582,
+    -116.744114,
+    47.786582
+],
+  "geometry": {"coordinates":[-116.744114,47.786582],"type":"Point"}
+}

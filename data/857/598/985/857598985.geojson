@@ -1,0 +1,71 @@
+{
+  "id": 857598985,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-116.783823,47.684997,-116.783823,47.684997",
+    "geom:latitude":47.684997,
+    "geom:longitude":-116.783823,
+    "iso:country":"US",
+    "sg:address":"1063 N 2nd St",
+    "sg:city":"Coeur D Alene",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"Special Training",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 765 4455",
+    "sg:postcode":"83814",
+    "sg:province":"ID",
+    "sg:tags":[
+        "instruction",
+        "driving"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85821457,
+        102086085
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1sDLIHyZvxpQietVxtsRJH_47.684997_-116.783823@1294099250"
+    },
+    "wof:country":"US",
+    "wof:created":1464203961,
+    "wof:geomhash":"aceafa8edb8c7bb3003b127e8bf0c3b1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086085,
+            "neighbourhood_id":85821457,
+            "region_id":85688657,
+            "venue_id":857598985
+        }
+    ],
+    "wof:id":857598985,
+    "wof:lastmodified":1464203961,
+    "wof:name":"Coeur D'Alene Driver Education",
+    "wof:parent_id":85821457,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "instruction",
+        "driving"
+    ]
+},
+  "bbox": [
+    -116.783823,
+    47.684997,
+    -116.783823,
+    47.684997
+],
+  "geometry": {"coordinates":[-116.783823,47.684997],"type":"Point"}
+}

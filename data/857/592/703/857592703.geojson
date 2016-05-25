@@ -1,0 +1,76 @@
+{
+  "id": 857592703,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-116.786447,47.711116,-116.786447,47.711116",
+    "geom:latitude":47.711116,
+    "geom:longitude":-116.786447,
+    "iso:country":"US",
+    "sg:address":"3630 N Government Way",
+    "sg:city":"Coeur D Alene",
+    "sg:classifiers":[
+        {
+            "category":"Travel",
+            "subcategory":"Campground",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 664 3087",
+    "sg:postcode":"83815",
+    "sg:province":"ID",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85821457,
+        102086085,
+        102191575,
+        85938163,
+        85806325
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5pUlzFkORymmuFVdRENp4m_47.711116_-116.786447@1294099250"
+    },
+    "wof:country":"US",
+    "wof:created":1464203821,
+    "wof:geomhash":"346b5e2ccf2e994332f600ee5581bf59",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086085,
+            "neighbourhood_id":85821457,
+            "region_id":85688657,
+            "venue_id":857592703
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086085,
+            "locality_id":85938163,
+            "neighbourhood_id":85806325,
+            "region_id":85688657,
+            "venue_id":857592703
+        }
+    ],
+    "wof:id":857592703,
+    "wof:lastmodified":1464203821,
+    "wof:name":"Shady Acres Campgrounds",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -116.786447,
+    47.711116,
+    -116.786447,
+    47.711116
+],
+  "geometry": {"coordinates":[-116.786447,47.711116],"type":"Point"}
+}

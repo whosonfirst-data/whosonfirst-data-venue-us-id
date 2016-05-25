@@ -1,0 +1,71 @@
+{
+  "id": 857521805,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-116.120437,47.532373,-116.120437,47.532373",
+    "geom:latitude":47.532373,
+    "geom:longitude":-116.120437,
+    "iso:country":"US",
+    "sg:address":"27 Kellogg Ave",
+    "sg:city":"Kellogg",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 784 7361",
+    "sg:postcode":"83837",
+    "sg:province":"ID",
+    "sg:tags":[
+        "church"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85937825,
+        102086103,
+        85849049
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6jWqO50CQcAFwmELO6ohZj_47.532373_-116.120437@1294099250"
+    },
+    "wof:country":"US",
+    "wof:created":1464202386,
+    "wof:geomhash":"5fd54661559e88da1867da99b2d81d95",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086103,
+            "locality_id":85937825,
+            "neighbourhood_id":85849049,
+            "region_id":85688657,
+            "venue_id":857521805
+        }
+    ],
+    "wof:id":857521805,
+    "wof:lastmodified":1464202386,
+    "wof:name":"St Rita's Catholic Church",
+    "wof:parent_id":85849049,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "church"
+    ]
+},
+  "bbox": [
+    -116.120437,
+    47.532373,
+    -116.120437,
+    47.532373
+],
+  "geometry": {"coordinates":[-116.120437,47.532373],"type":"Point"}
+}

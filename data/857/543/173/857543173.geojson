@@ -1,0 +1,71 @@
+{
+  "id": 857543173,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-116.785324,47.688075,-116.785324,47.688075",
+    "geom:latitude":47.688075,
+    "geom:longitude":-116.785324,
+    "iso:country":"US",
+    "sg:address":"108 E Walnut Ave",
+    "sg:city":"Coeur D Alene",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Used Merchandise",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 457 8380",
+    "sg:postcode":"83814",
+    "sg:province":"ID",
+    "sg:tags":[
+        "shop",
+        "thrift"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85821457,
+        102086085
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_16Qle2KpAvlxf5y2hZqQAK_47.688075_-116.785324@1294099250"
+    },
+    "wof:country":"US",
+    "wof:created":1464202805,
+    "wof:geomhash":"cecc50efd2f07cddeb3cf1abe2e48827",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086085,
+            "neighbourhood_id":85821457,
+            "region_id":85688657,
+            "venue_id":857543173
+        }
+    ],
+    "wof:id":857543173,
+    "wof:lastmodified":1464202805,
+    "wof:name":"St Vincent De Paul",
+    "wof:parent_id":85821457,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop",
+        "thrift"
+    ]
+},
+  "bbox": [
+    -116.785324,
+    47.688075,
+    -116.785324,
+    47.688075
+],
+  "geometry": {"coordinates":[-116.785324,47.688075],"type":"Point"}
+}

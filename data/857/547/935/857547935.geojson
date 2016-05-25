@@ -1,0 +1,71 @@
+{
+  "id": 857547935,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-116.558447,43.579005,-116.558447,43.579005",
+    "geom:latitude":43.579005,
+    "geom:longitude":-116.558447,
+    "iso:country":"US",
+    "sg:address":"25 Wall St",
+    "sg:city":"Nampa",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Engineering",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 465 5725",
+    "sg:postcode":"83651",
+    "sg:province":"ID",
+    "sg:tags":[
+        "engineer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85938009,
+        102085081,
+        85827787
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1ZHG70edHCmH6nK5Aulvwh_43.579005_-116.558447@1294099250"
+    },
+    "wof:country":"US",
+    "wof:created":1464202892,
+    "wof:geomhash":"99cfb79439312eb5b27017fe71315323",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085081,
+            "locality_id":85938009,
+            "neighbourhood_id":85827787,
+            "region_id":85688657,
+            "venue_id":857547935
+        }
+    ],
+    "wof:id":857547935,
+    "wof:lastmodified":1464202892,
+    "wof:name":"Brown Environmental Inc",
+    "wof:parent_id":85827787,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "engineer"
+    ]
+},
+  "bbox": [
+    -116.558447,
+    43.579005,
+    -116.558447,
+    43.579005
+],
+  "geometry": {"coordinates":[-116.558447,43.579005],"type":"Point"}
+}

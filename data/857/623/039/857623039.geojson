@@ -1,0 +1,73 @@
+{
+  "id": 857623039,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-117.009395,46.41761,-117.009395,46.41761",
+    "geom:latitude":46.41761,
+    "geom:longitude":-117.009395,
+    "iso:country":"US",
+    "sg:address":"1610 Main St",
+    "sg:city":"Lewiston",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Bakery",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 743 5511",
+    "sg:postcode":"83501",
+    "sg:province":"ID",
+    "sg:tags":[
+        "baker",
+        "restaurant"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85937743,
+        102086039,
+        85837769
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_110pbMFvmWnw89Wzsp11gq_46.417535_-117.009485@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1464204509,
+    "wof:geomhash":"289aa2be6b10b326581cb64351f1ccc0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086039,
+            "locality_id":85937743,
+            "neighbourhood_id":85837769,
+            "region_id":85688657,
+            "venue_id":857623039
+        }
+    ],
+    "wof:id":857623039,
+    "wof:lastmodified":1464204509,
+    "wof:name":"Snyder's Bakery",
+    "wof:parent_id":85837769,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "baker",
+        "restaurant"
+    ]
+},
+  "bbox": [
+    -117.009395,
+    46.41761,
+    -117.009395,
+    46.41761
+],
+  "geometry": {"coordinates":[-117.009395,46.41761],"type":"Point"}
+}

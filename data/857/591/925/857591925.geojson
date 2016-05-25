@@ -1,0 +1,74 @@
+{
+  "id": 857591925,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-116.243703,43.559324,-116.243703,43.559324",
+    "geom:latitude":43.559324,
+    "geom:longitude":-116.243703,
+    "iso:country":"US",
+    "sg:address":"4788 S Orchard St",
+    "sg:city":"Boise",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 336 1010",
+    "sg:postcode":"83705",
+    "sg:province":"ID",
+    "sg:tags":[
+        "village"
+    ],
+    "sg:website":"www.valleyride.org",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        102191575,
+        85633793,
+        85937923,
+        102086087,
+        85825393
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3QVkZD61cPOMuBpaDnP7pa_43.559324_-116.243703@1294099250"
+    },
+    "wof:country":"US",
+    "wof:created":1464203804,
+    "wof:geomhash":"3a2149971d236c35694df0631ea9a982",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086087,
+            "locality_id":85937923,
+            "neighbourhood_id":85825393,
+            "region_id":85688657,
+            "venue_id":857591925
+        }
+    ],
+    "wof:id":857591925,
+    "wof:lastmodified":1464203804,
+    "wof:name":"Valleyride",
+    "wof:parent_id":85825393,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "village"
+    ]
+},
+  "bbox": [
+    -116.243703,
+    43.559324,
+    -116.243703,
+    43.559324
+],
+  "geometry": {"coordinates":[-116.243703,43.559324],"type":"Point"}
+}

@@ -1,0 +1,69 @@
+{
+  "id": 857557471,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-116.786808,47.738167,-116.786808,47.738167",
+    "geom:latitude":47.738167,
+    "geom:longitude":-116.786808,
+    "iso:country":"US",
+    "sg:address":"7315 N Government Way",
+    "sg:city":"Coeur D Alene",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Developer",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 772 4015",
+    "sg:postcode":"83815",
+    "sg:province":"ID",
+    "sg:tags":[
+        "cemetery"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85821457,
+        102086085
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6Wdlba4Q1dm16TPSOA4TTf_47.738167_-116.786808@1294099250"
+    },
+    "wof:country":"US",
+    "wof:created":1464203082,
+    "wof:geomhash":"bcf4974e8b27b327e01405d20d391585",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086085,
+            "neighbourhood_id":85821457,
+            "region_id":85688657,
+            "venue_id":857557471
+        }
+    ],
+    "wof:id":857557471,
+    "wof:lastmodified":1464203082,
+    "wof:name":"Coeur D'Alene Memorial Gardens",
+    "wof:parent_id":85821457,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cemetery"
+    ]
+},
+  "bbox": [
+    -116.786808,
+    47.738167,
+    -116.786808,
+    47.738167
+],
+  "geometry": {"coordinates":[-116.78680799999999,47.738167],"type":"Point"}
+}

@@ -1,0 +1,83 @@
+{
+  "id": 857614497,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-116.808069,47.715757,-116.808069,47.715757",
+    "geom:latitude":47.715757,
+    "geom:longitude":-116.808069,
+    "iso:country":"US",
+    "sg:address":"4502 N Ramsey Rd",
+    "sg:city":"Coeur D Alene",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Developer",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 664 3935",
+    "sg:postcode":"83815",
+    "sg:province":"ID",
+    "sg:tags":[
+        "mobile",
+        "home"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85821457,
+        102086085,
+        102191575,
+        85938163,
+        85806325
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1VKdS7dt3TIs6MOYJWgQUe_47.715757_-116.808069@1294099250"
+    },
+    "wof:country":"US",
+    "wof:created":1464204310,
+    "wof:geomhash":"027eb334a25bb544ef76c5fcd6e4de96",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086085,
+            "neighbourhood_id":85821457,
+            "region_id":85688657,
+            "venue_id":857614497
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086085,
+            "locality_id":85938163,
+            "neighbourhood_id":85806325,
+            "region_id":85688657,
+            "venue_id":857614497
+        }
+    ],
+    "wof:id":857614497,
+    "wof:lastmodified":1464204310,
+    "wof:name":"Coeur D'Alene Village Mobile",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mobile",
+        "home"
+    ]
+},
+  "bbox": [
+    -116.808069,
+    47.715757,
+    -116.808069,
+    47.715757
+],
+  "geometry": {"coordinates":[-116.808069,47.715757],"type":"Point"}
+}

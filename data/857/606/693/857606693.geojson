@@ -1,0 +1,74 @@
+{
+  "id": 857606693,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-116.946548,47.711006,-116.946548,47.711006",
+    "geom:latitude":47.711006,
+    "geom:longitude":-116.946548,
+    "iso:country":"US",
+    "sg:address":"101 E 4th Ave",
+    "sg:city":"Post Falls",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Police Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 773 3517",
+    "sg:postcode":"83854",
+    "sg:province":"ID",
+    "sg:tags":[
+        "department"
+    ],
+    "sg:website":"www.postfallspolice.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        102191575,
+        85633793,
+        85938145,
+        102086085,
+        85833263
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_50NGckHuXRxvpUDFbPmNAc_47.711006_-116.946548@1294099250"
+    },
+    "wof:country":"US",
+    "wof:created":1464204129,
+    "wof:geomhash":"49ab58668a4d23d2125218e034e6ab57",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086085,
+            "locality_id":85938145,
+            "neighbourhood_id":85833263,
+            "region_id":85688657,
+            "venue_id":857606693
+        }
+    ],
+    "wof:id":857606693,
+    "wof:lastmodified":1464204129,
+    "wof:name":"Post Falls City Police",
+    "wof:parent_id":85833263,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "department"
+    ]
+},
+  "bbox": [
+    -116.946548,
+    47.711006,
+    -116.946548,
+    47.711006
+],
+  "geometry": {"coordinates":[-116.94654800000001,47.711006],"type":"Point"}
+}

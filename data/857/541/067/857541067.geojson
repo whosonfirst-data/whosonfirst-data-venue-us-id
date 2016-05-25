@@ -1,0 +1,71 @@
+{
+  "id": 857541067,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-117.01403,46.414124,-117.01403,46.414124",
+    "geom:latitude":46.414124,
+    "geom:longitude":-117.01403,
+    "iso:country":"US",
+    "sg:address":"621 13th St",
+    "sg:city":"Lewiston",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 503 0486",
+    "sg:postcode":"83501",
+    "sg:province":"ID",
+    "sg:tags":[
+        "painter"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85937743,
+        102086039,
+        85837769
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5GeUdCUTGGjBF4hTB7qZSK_46.414124_-117.014030@1294099250"
+    },
+    "wof:country":"US",
+    "wof:created":1464202757,
+    "wof:geomhash":"797cad3a275d6eb8ebd47cac7d922635",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086039,
+            "locality_id":85937743,
+            "neighbourhood_id":85837769,
+            "region_id":85688657,
+            "venue_id":857541067
+        }
+    ],
+    "wof:id":857541067,
+    "wof:lastmodified":1464202757,
+    "wof:name":"Northwest Finishers",
+    "wof:parent_id":85837769,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "painter"
+    ]
+},
+  "bbox": [
+    -117.01403,
+    46.414124,
+    -117.01403,
+    46.414124
+],
+  "geometry": {"coordinates":[-117.01403000000001,46.414124],"type":"Point"}
+}

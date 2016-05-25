@@ -1,0 +1,83 @@
+{
+  "id": 857504581,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-116.822665,47.700874,-116.822665,47.700874",
+    "geom:latitude":47.700874,
+    "geom:longitude":-116.822665,
+    "iso:country":"US",
+    "sg:address":"2621 W Seltice Way",
+    "sg:city":"Coeur D Alene",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Machinery & Supplies",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 765 4989",
+    "sg:postcode":"83814",
+    "sg:province":"ID",
+    "sg:tags":[
+        "equipment",
+        "mining"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85821457,
+        102086085,
+        102191575,
+        85938163,
+        85806325
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7ZBpVUUxovB5nsVxaGLWa1_47.700874_-116.822665@1294099250"
+    },
+    "wof:country":"US",
+    "wof:created":1464202018,
+    "wof:geomhash":"7126efba23cb6335757cbaa8bc662090",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086085,
+            "neighbourhood_id":85821457,
+            "region_id":85688657,
+            "venue_id":857504581
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086085,
+            "locality_id":85938163,
+            "neighbourhood_id":85806325,
+            "region_id":85688657,
+            "venue_id":857504581
+        }
+    ],
+    "wof:id":857504581,
+    "wof:lastmodified":1464202018,
+    "wof:name":"Letourneau Sales & Svc Co",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "equipment",
+        "mining"
+    ]
+},
+  "bbox": [
+    -116.822665,
+    47.700874,
+    -116.822665,
+    47.700874
+],
+  "geometry": {"coordinates":[-116.822665,47.700874],"type":"Point"}
+}

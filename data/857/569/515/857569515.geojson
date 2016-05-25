@@ -1,0 +1,68 @@
+{
+  "id": 857569515,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-116.284696,43.60957,-116.284696,43.60957",
+    "geom:latitude":43.60957,
+    "geom:longitude":-116.284696,
+    "iso:country":"US",
+    "sg:address":"518 N Milwaukee St",
+    "sg:city":"Boise",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Shoes",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 321 2748",
+    "sg:postcode":"83704",
+    "sg:province":"ID",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        102191575,
+        85633793,
+        85937923,
+        102086087,
+        85841319
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6KBzstmSP31AFY2sfEPBf5_43.609570_-116.284696@1294099250"
+    },
+    "wof:country":"US",
+    "wof:created":1464203343,
+    "wof:geomhash":"fec63f24933cb7d284f580c70fead31e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086087,
+            "locality_id":85937923,
+            "neighbourhood_id":85841319,
+            "region_id":85688657,
+            "venue_id":857569515
+        }
+    ],
+    "wof:id":857569515,
+    "wof:lastmodified":1464203343,
+    "wof:name":"Famous Footwear",
+    "wof:parent_id":85841319,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -116.284696,
+    43.60957,
+    -116.284696,
+    43.60957
+],
+  "geometry": {"coordinates":[-116.284696,43.60957],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 857579311,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-116.413698,43.609447,-116.413698,43.609447",
+    "geom:latitude":43.609447,
+    "geom:longitude":-116.413698,
+    "iso:country":"US",
+    "sg:address":"531 N Linder Rd",
+    "sg:city":"Meridian",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 888 2302",
+    "sg:postcode":"83642",
+    "sg:province":"ID",
+    "sg:tags":[
+        "commercial",
+        "storage"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85937915,
+        102086087,
+        85805083
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2oOZ45qqztAd7gxLk3AvQ8_43.609447_-116.413698@1294099250"
+    },
+    "wof:country":"US",
+    "wof:created":1464203539,
+    "wof:geomhash":"aa2cd9f212d84720f293778f201a88cc",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086087,
+            "locality_id":85937915,
+            "neighbourhood_id":85805083,
+            "region_id":85688657,
+            "venue_id":857579311
+        }
+    ],
+    "wof:id":857579311,
+    "wof:lastmodified":1464203539,
+    "wof:name":"Meridian Storage",
+    "wof:parent_id":85805083,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "commercial",
+        "storage"
+    ]
+},
+  "bbox": [
+    -116.413698,
+    43.609447,
+    -116.413698,
+    43.609447
+],
+  "geometry": {"coordinates":[-116.413698,43.609447],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 857508351,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-116.57034,43.570488,-116.57034,43.570488",
+    "geom:latitude":43.570488,
+    "geom:longitude":-116.57034,
+    "iso:country":"US",
+    "sg:address":"1116 12th Ave S",
+    "sg:city":"Nampa",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Mobile Phone",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 442 2890",
+    "sg:postcode":"83651",
+    "sg:province":"ID",
+    "sg:tags":[
+        "telephone",
+        "cellular"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85938009,
+        102085081,
+        85827787
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3D0mBqoDwio1KJrp6pFCrB_43.570488_-116.570340@1294099250"
+    },
+    "wof:country":"US",
+    "wof:created":1464202111,
+    "wof:geomhash":"6a0fdf46484e28dc7779bdd19f110631",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085081,
+            "locality_id":85938009,
+            "neighbourhood_id":85827787,
+            "region_id":85688657,
+            "venue_id":857508351
+        }
+    ],
+    "wof:id":857508351,
+    "wof:lastmodified":1464202111,
+    "wof:name":"Wireless World",
+    "wof:parent_id":85827787,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "telephone",
+        "cellular"
+    ]
+},
+  "bbox": [
+    -116.57034,
+    43.570488,
+    -116.57034,
+    43.570488
+],
+  "geometry": {"coordinates":[-116.57034,43.570488],"type":"Point"}
+}

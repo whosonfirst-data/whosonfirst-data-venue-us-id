@@ -1,0 +1,71 @@
+{
+  "id": 857607989,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-116.782122,47.687268,-116.782122,47.687268",
+    "geom:latitude":47.687268,
+    "geom:longitude":-116.782122,
+    "iso:country":"US",
+    "sg:address":"303 E Spokane Ave",
+    "sg:city":"Coeur D Alene",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Specialty",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 664 9156",
+    "sg:postcode":"83814",
+    "sg:province":"ID",
+    "sg:tags":[
+        "tea",
+        "coffee"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85821457,
+        102086085
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7W2Qntg7fOKSNcOLFbVFNJ_47.687268_-116.782122@1294099250"
+    },
+    "wof:country":"US",
+    "wof:created":1464204165,
+    "wof:geomhash":"a100d5bf354363223f510ccbe9d33bd3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086085,
+            "neighbourhood_id":85821457,
+            "region_id":85688657,
+            "venue_id":857607989
+        }
+    ],
+    "wof:id":857607989,
+    "wof:lastmodified":1464204165,
+    "wof:name":"Roosters Coffee Co",
+    "wof:parent_id":85821457,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "tea",
+        "coffee"
+    ]
+},
+  "bbox": [
+    -116.782122,
+    47.687268,
+    -116.782122,
+    47.687268
+],
+  "geometry": {"coordinates":[-116.782122,47.687268],"type":"Point"}
+}

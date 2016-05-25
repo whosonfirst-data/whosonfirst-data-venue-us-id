@@ -1,0 +1,75 @@
+{
+  "id": 857533907,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-116.933531,47.727648,-116.933531,47.727648",
+    "geom:latitude":47.727648,
+    "geom:longitude":-116.933531,
+    "iso:country":"US",
+    "sg:address":"2004 Cascade Ct",
+    "sg:city":"Post Falls",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 818 1077",
+    "sg:postcode":"83854",
+    "sg:province":"ID",
+    "sg:tags":[
+        "electric",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        102191575,
+        85633793,
+        85938145,
+        102086085,
+        85833263
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7WGFnUdk9GzoNX56VmICxJ_47.727648_-116.933531@1294099250"
+    },
+    "wof:country":"US",
+    "wof:created":1464202619,
+    "wof:geomhash":"7da691cea901260432a63fffa43c5921",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086085,
+            "locality_id":85938145,
+            "neighbourhood_id":85833263,
+            "region_id":85688657,
+            "venue_id":857533907
+        }
+    ],
+    "wof:id":857533907,
+    "wof:lastmodified":1464202619,
+    "wof:name":"River City Electric",
+    "wof:parent_id":85833263,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electric",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -116.933531,
+    47.727648,
+    -116.933531,
+    47.727648
+],
+  "geometry": {"coordinates":[-116.933531,47.727648],"type":"Point"}
+}

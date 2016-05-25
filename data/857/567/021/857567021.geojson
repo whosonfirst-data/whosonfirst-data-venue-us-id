@@ -1,0 +1,71 @@
+{
+  "id": 857567021,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-116.92832,46.371343,-116.92832,46.371343",
+    "geom:latitude":46.371343,
+    "geom:longitude":-116.92832,
+    "iso:country":"US",
+    "sg:address":"3626 20th St",
+    "sg:city":"Lewiston",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Landscaping Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 746 8733",
+    "sg:postcode":"83501",
+    "sg:province":"ID",
+    "sg:tags":[
+        "tree"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85937743,
+        102086039,
+        85837769
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7anOaU7uH8pRRY1srPs3ZS_46.371343_-116.928320@1294099250"
+    },
+    "wof:country":"US",
+    "wof:created":1464203299,
+    "wof:geomhash":"055d287ccc20cf23069bccb6a91ff134",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086039,
+            "locality_id":85937743,
+            "neighbourhood_id":85837769,
+            "region_id":85688657,
+            "venue_id":857567021
+        }
+    ],
+    "wof:id":857567021,
+    "wof:lastmodified":1464203299,
+    "wof:name":"Kimball Tree Svc",
+    "wof:parent_id":85837769,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "tree"
+    ]
+},
+  "bbox": [
+    -116.92832,
+    46.371343,
+    -116.92832,
+    46.371343
+],
+  "geometry": {"coordinates":[-116.92832,46.371343],"type":"Point"}
+}

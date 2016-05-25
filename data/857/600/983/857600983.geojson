@@ -1,0 +1,75 @@
+{
+  "id": 857600983,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-116.251098,43.567715,-116.251098,43.567715",
+    "geom:latitude":43.567715,
+    "geom:longitude":-116.251098,
+    "iso:country":"US",
+    "sg:address":"4255 S Eagleson Rd",
+    "sg:city":"Boise",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Groceries",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 362 5003",
+    "sg:postcode":"83705",
+    "sg:province":"ID",
+    "sg:tags":[
+        "frozen",
+        "food"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        102191575,
+        85633793,
+        85937923,
+        102086087,
+        85825393
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2Sp6PMNver0WxJMOYNzxJR_43.567715_-116.251098@1294099250"
+    },
+    "wof:country":"US",
+    "wof:created":1464204007,
+    "wof:geomhash":"9e66941e154c014a393d810bf0599154",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086087,
+            "locality_id":85937923,
+            "neighbourhood_id":85825393,
+            "region_id":85688657,
+            "venue_id":857600983
+        }
+    ],
+    "wof:id":857600983,
+    "wof:lastmodified":1464204007,
+    "wof:name":"Schwan's Consumer Brands",
+    "wof:parent_id":85825393,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "frozen",
+        "food"
+    ]
+},
+  "bbox": [
+    -116.251098,
+    43.567715,
+    -116.251098,
+    43.567715
+],
+  "geometry": {"coordinates":[-116.251098,43.567715],"type":"Point"}
+}

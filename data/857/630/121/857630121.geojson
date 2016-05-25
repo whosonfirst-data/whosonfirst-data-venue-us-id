@@ -1,0 +1,70 @@
+{
+  "id": 857630121,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-116.784132,47.67328,-116.784132,47.67328",
+    "geom:latitude":47.67328,
+    "geom:longitude":-116.784132,
+    "iso:country":"US",
+    "sg:address":"115 S 2nd St",
+    "sg:city":"Coeur D Alene",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/id/coeur-dalene/3438-tito-macaronis/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 800 688 5253",
+    "sg:postcode":"83814",
+    "sg:province":"ID",
+    "sg:tags":[
+        "italian"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85821457,
+        102086085
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1NPtNm6Q4PwlDEJu6naUBD_47.673280_-116.784132@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464204668,
+    "wof:geomhash":"c227e46735fec7b2686a2757e9e26dbe",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086085,
+            "neighbourhood_id":85821457,
+            "region_id":85688657,
+            "venue_id":857630121
+        }
+    ],
+    "wof:id":857630121,
+    "wof:lastmodified":1464204668,
+    "wof:name":"Tito Macaroni's",
+    "wof:parent_id":85821457,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "italian"
+    ]
+},
+  "bbox": [
+    -116.784132,
+    47.67328,
+    -116.784132,
+    47.67328
+],
+  "geometry": {"coordinates":[-116.784132,47.67328],"type":"Point"}
+}

@@ -1,0 +1,84 @@
+{
+  "id": 857627885,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-116.984512,46.386545,-116.984512,46.386545",
+    "geom:latitude":46.386545,
+    "geom:longitude":-116.984512,
+    "iso:country":"US",
+    "sg:address":"119 Thain Rd",
+    "sg:city":"Lewiston",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/id/lewiston/212097-mcdonalds/menu/",
+    "sg:owner":"simplegeo",
+    "sg:postcode":"83501",
+    "sg:province":"ID",
+    "sg:tags":[
+        "burger",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85937743,
+        102086039,
+        85837769,
+        102191575,
+        85830385
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_56sauSTKDnhOWCEfFyQ7O1_46.386545_-116.984512@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464204620,
+    "wof:geomhash":"21e4261672f326b43f0d8676b14735da",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086039,
+            "locality_id":85937743,
+            "neighbourhood_id":85837769,
+            "region_id":85688657,
+            "venue_id":857627885
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086039,
+            "locality_id":85937743,
+            "neighbourhood_id":85830385,
+            "region_id":85688657,
+            "venue_id":857627885
+        }
+    ],
+    "wof:id":857627885,
+    "wof:lastmodified":1464204620,
+    "wof:name":"McDonald's",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american"
+    ]
+},
+  "bbox": [
+    -116.984512,
+    46.386545,
+    -116.984512,
+    46.386545
+],
+  "geometry": {"coordinates":[-116.984512,46.386545],"type":"Point"}
+}

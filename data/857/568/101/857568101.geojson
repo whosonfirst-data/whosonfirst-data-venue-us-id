@@ -1,0 +1,69 @@
+{
+  "id": 857568101,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-116.785516,47.692072,-116.785516,47.692072",
+    "geom:latitude":47.692072,
+    "geom:longitude":-116.785516,
+    "iso:country":"US",
+    "sg:address":"108 E Poplar Ave",
+    "sg:city":"Coeur D Alene",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Veterinary Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 664 6242",
+    "sg:postcode":"83814",
+    "sg:province":"ID",
+    "sg:tags":[
+        "veterinarian"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85821457,
+        102086085
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_36Pzm2pA7uIQ5Cty9gAwkn_47.692072_-116.785516@1294099250"
+    },
+    "wof:country":"US",
+    "wof:created":1464203317,
+    "wof:geomhash":"2b2ca20d364636e555345dedaa4bb07f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086085,
+            "neighbourhood_id":85821457,
+            "region_id":85688657,
+            "venue_id":857568101
+        }
+    ],
+    "wof:id":857568101,
+    "wof:lastmodified":1464203317,
+    "wof:name":"Coeur D'Alene Spay & Neuter",
+    "wof:parent_id":85821457,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "veterinarian"
+    ]
+},
+  "bbox": [
+    -116.785516,
+    47.692072,
+    -116.785516,
+    47.692072
+],
+  "geometry": {"coordinates":[-116.785516,47.692072],"type":"Point"}
+}

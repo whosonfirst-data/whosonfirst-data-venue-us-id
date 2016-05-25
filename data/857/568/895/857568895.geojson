@@ -1,0 +1,69 @@
+{
+  "id": 857568895,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-116.938793,47.714005,-116.938793,47.714005",
+    "geom:latitude":47.714005,
+    "geom:longitude":-116.938793,
+    "iso:country":"US",
+    "sg:address":"706 E Seltice Way",
+    "sg:city":"Post Falls",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Pharmacy",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 777 4131",
+    "sg:postcode":"83854",
+    "sg:province":"ID",
+    "sg:website":"www.walgreens.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        102191575,
+        85633793,
+        85938145,
+        102086085,
+        85833263
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2GQ5JtT9POZdKG2W9ddzEV_47.714005_-116.938793@1294099250"
+    },
+    "wof:country":"US",
+    "wof:created":1464203331,
+    "wof:geomhash":"bc54226b92760a062846747e25fec7d6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086085,
+            "locality_id":85938145,
+            "neighbourhood_id":85833263,
+            "region_id":85688657,
+            "venue_id":857568895
+        }
+    ],
+    "wof:id":857568895,
+    "wof:lastmodified":1464203331,
+    "wof:name":"Walgreens",
+    "wof:parent_id":85833263,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -116.938793,
+    47.714005,
+    -116.938793,
+    47.714005
+],
+  "geometry": {"coordinates":[-116.938793,47.714005],"type":"Point"}
+}

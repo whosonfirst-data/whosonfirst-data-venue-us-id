@@ -1,0 +1,71 @@
+{
+  "id": 857585813,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-117.001949,46.386876,-117.001949,46.386876",
+    "geom:latitude":46.386876,
+    "geom:longitude":-117.001949,
+    "iso:country":"US",
+    "sg:address":"3211 6th St",
+    "sg:city":"Lewiston",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 746 6189",
+    "sg:postcode":"83501",
+    "sg:province":"ID",
+    "sg:tags":[
+        "house"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85937743,
+        102086039,
+        85837769
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5LHOIGHC9pjXThYLE8rZOG_46.386876_-117.001949@1294099250"
+    },
+    "wof:country":"US",
+    "wof:created":1464203667,
+    "wof:geomhash":"e16b8995b3751245c2016986ea1a8535",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086039,
+            "locality_id":85937743,
+            "neighbourhood_id":85837769,
+            "region_id":85688657,
+            "venue_id":857585813
+        }
+    ],
+    "wof:id":857585813,
+    "wof:lastmodified":1464203667,
+    "wof:name":"Kings Construction",
+    "wof:parent_id":85837769,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "house"
+    ]
+},
+  "bbox": [
+    -117.001949,
+    46.386876,
+    -117.001949,
+    46.386876
+],
+  "geometry": {"coordinates":[-117.001949,46.386876],"type":"Point"}
+}

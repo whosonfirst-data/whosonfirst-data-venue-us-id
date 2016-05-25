@@ -1,0 +1,71 @@
+{
+  "id": 857553805,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-117.009457,46.416224,-117.009457,46.416224",
+    "geom:latitude":46.416224,
+    "geom:longitude":-117.009457,
+    "iso:country":"US",
+    "sg:address":"1613 G St",
+    "sg:city":"Lewiston",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Building Materials",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 743 5566",
+    "sg:postcode":"83501",
+    "sg:province":"ID",
+    "sg:tags":[
+        "paint"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85937743,
+        102086039,
+        85837769
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_43ol3RMbL3aWrTwtVeZ94R_46.416224_-117.009457@1294099250"
+    },
+    "wof:country":"US",
+    "wof:created":1464203003,
+    "wof:geomhash":"d2014a7edbbe240fe4c991f6ee3711ea",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086039,
+            "locality_id":85937743,
+            "neighbourhood_id":85837769,
+            "region_id":85688657,
+            "venue_id":857553805
+        }
+    ],
+    "wof:id":857553805,
+    "wof:lastmodified":1464203003,
+    "wof:name":"Sherwin-Williams Paints",
+    "wof:parent_id":85837769,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "paint"
+    ]
+},
+  "bbox": [
+    -117.009457,
+    46.416224,
+    -117.009457,
+    46.416224
+],
+  "geometry": {"coordinates":[-117.009457,46.416224],"type":"Point"}
+}

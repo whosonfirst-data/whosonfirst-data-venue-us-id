@@ -1,0 +1,70 @@
+{
+  "id": 857630183,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-116.792099,47.733265,-116.792099,47.733265",
+    "geom:latitude":47.733265,
+    "geom:longitude":-116.792099,
+    "iso:country":"US",
+    "sg:address":"405 W Canfield Ave",
+    "sg:city":"Coeur D Alene",
+    "sg:classifiers":[
+        {
+            "category":"Cafe",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/id/coeur-dalene/3429-americas-cheesecake-cafe/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 772 9615",
+    "sg:postcode":"83815",
+    "sg:province":"ID",
+    "sg:tags":[
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85821457,
+        102086085
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1drGOKh7Ulc05EZ827pf3y_47.733265_-116.792099@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464204669,
+    "wof:geomhash":"1258afee6565f15596ef1afb012b18a6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086085,
+            "neighbourhood_id":85821457,
+            "region_id":85688657,
+            "venue_id":857630183
+        }
+    ],
+    "wof:id":857630183,
+    "wof:lastmodified":1464204669,
+    "wof:name":"America's Cheesecake Cafe",
+    "wof:parent_id":85821457,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american"
+    ]
+},
+  "bbox": [
+    -116.792099,
+    47.733265,
+    -116.792099,
+    47.733265
+],
+  "geometry": {"coordinates":[-116.79209899999999,47.733265],"type":"Point"}
+}

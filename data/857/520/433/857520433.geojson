@@ -1,0 +1,71 @@
+{
+  "id": 857520433,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-116.786655,47.729417,-116.786655,47.729417",
+    "geom:latitude":47.729417,
+    "geom:longitude":-116.786655,
+    "iso:country":"US",
+    "sg:address":"6280 N Government Way",
+    "sg:city":"Dalton Gardens",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 762 3450",
+    "sg:postcode":"83815",
+    "sg:province":"ID",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85821457,
+        102086085
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6o2JjzQEkp7sPuSJeGBL4E_47.729417_-116.786655@1294099250"
+    },
+    "wof:country":"US",
+    "wof:created":1464202361,
+    "wof:geomhash":"fd3c4f6eb2bb1093eb4d8085f48d0b7f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086085,
+            "neighbourhood_id":85821457,
+            "region_id":85688657,
+            "venue_id":857520433
+        }
+    ],
+    "wof:id":857520433,
+    "wof:lastmodified":1464202361,
+    "wof:name":"Car Clinic",
+    "wof:parent_id":85821457,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -116.786655,
+    47.729417,
+    -116.786655,
+    47.729417
+],
+  "geometry": {"coordinates":[-116.786655,47.729417],"type":"Point"}
+}

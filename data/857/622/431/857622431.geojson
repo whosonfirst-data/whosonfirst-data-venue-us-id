@@ -1,0 +1,73 @@
+{
+  "id": 857622431,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-116.993601,46.40934,-116.993601,46.40934",
+    "geom:latitude":46.40934,
+    "geom:longitude":-116.993601,
+    "iso:country":"US",
+    "sg:address":"2728 11th Ave",
+    "sg:city":"Lewiston",
+    "sg:classifiers":[
+        {
+            "category":"Taxi",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 743 3222",
+    "sg:postcode":"83501",
+    "sg:province":"ID",
+    "sg:tags":[
+        "taxicab",
+        "airport"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85937743,
+        102086039,
+        85837769
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_03IKiAuQbla0ROsqqn9dR2_46.409263_-116.994411@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1464204492,
+    "wof:geomhash":"69fa220ee00e4b11c80fbd40cb45f245",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086039,
+            "locality_id":85937743,
+            "neighbourhood_id":85837769,
+            "region_id":85688657,
+            "venue_id":857622431
+        }
+    ],
+    "wof:id":857622431,
+    "wof:lastmodified":1464204492,
+    "wof:name":"Aaa Ride Cab",
+    "wof:parent_id":85837769,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "taxicab",
+        "airport"
+    ]
+},
+  "bbox": [
+    -116.993601,
+    46.40934,
+    -116.993601,
+    46.40934
+],
+  "geometry": {"coordinates":[-116.993601,46.40934],"type":"Point"}
+}

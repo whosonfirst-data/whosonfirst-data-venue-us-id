@@ -1,0 +1,73 @@
+{
+  "id": 857508729,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-116.699255,47.660211,-116.699255,47.660211",
+    "geom:latitude":47.660211,
+    "geom:longitude":-116.699255,
+    "iso:country":"US",
+    "sg:address":"6637 E Little Joe Rd",
+    "sg:city":"Coeur D Alene",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 667 4167",
+    "sg:postcode":"83814",
+    "sg:province":"ID",
+    "sg:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85821457,
+        102086085
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7JjfZD9WTpIVOVTxNUbWr6_47.660211_-116.699255@1294099250"
+    },
+    "wof:country":"US",
+    "wof:created":1464202119,
+    "wof:geomhash":"034a59efdac23de89522a4cacd69b58c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086085,
+            "neighbourhood_id":85821457,
+            "region_id":85688657,
+            "venue_id":857508729
+        }
+    ],
+    "wof:id":857508729,
+    "wof:lastmodified":1464202119,
+    "wof:name":"Alpine Traffic Control & Excav",
+    "wof:parent_id":85821457,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -116.699255,
+    47.660211,
+    -116.699255,
+    47.660211
+],
+  "geometry": {"coordinates":[-116.69925499999999,47.660211],"type":"Point"}
+}

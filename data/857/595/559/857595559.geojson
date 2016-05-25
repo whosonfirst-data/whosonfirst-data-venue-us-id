@@ -1,0 +1,71 @@
+{
+  "id": 857595559,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-116.566667,43.573491,-116.566667,43.573491",
+    "geom:latitude":43.573491,
+    "geom:longitude":-116.566667,
+    "iso:country":"US",
+    "sg:address":"801 12th Ave S",
+    "sg:city":"Nampa",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Investment Brokerage",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 461 0663",
+    "sg:postcode":"83651",
+    "sg:province":"ID",
+    "sg:tags":[
+        "security"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85938009,
+        102085081,
+        85827787
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0aTXUap3c4liUEn5FrV0pK_43.573491_-116.566667@1294099250"
+    },
+    "wof:country":"US",
+    "wof:created":1464203884,
+    "wof:geomhash":"39361d9e900e10ab589b0ec63b3d1e4f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085081,
+            "locality_id":85938009,
+            "neighbourhood_id":85827787,
+            "region_id":85688657,
+            "venue_id":857595559
+        }
+    ],
+    "wof:id":857595559,
+    "wof:lastmodified":1464203884,
+    "wof:name":"Raymond James Financial Svcs",
+    "wof:parent_id":85827787,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "security"
+    ]
+},
+  "bbox": [
+    -116.566667,
+    43.573491,
+    -116.566667,
+    43.573491
+],
+  "geometry": {"coordinates":[-116.566667,43.573491],"type":"Point"}
+}

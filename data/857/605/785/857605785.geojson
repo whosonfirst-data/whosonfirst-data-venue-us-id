@@ -1,0 +1,75 @@
+{
+  "id": 857605785,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-116.400953,43.610067,-116.400953,43.610067",
+    "geom:latitude":43.610067,
+    "geom:longitude":-116.400953,
+    "iso:country":"US",
+    "sg:address":"631 W Broadway Ave",
+    "sg:city":"Meridian",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Laundry & Dry Cleaning",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 895 8630",
+    "sg:postcode":"83642",
+    "sg:province":"ID",
+    "sg:tags":[
+        "cleaners",
+        "rug",
+        "carpet"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85937915,
+        102086087,
+        85805083
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2gUFzZW6WvoUwPUBUKfHjX_43.610067_-116.400953@1294099250"
+    },
+    "wof:country":"US",
+    "wof:created":1464204112,
+    "wof:geomhash":"36a426e6fd4686368e9be855d5bd08be",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086087,
+            "locality_id":85937915,
+            "neighbourhood_id":85805083,
+            "region_id":85688657,
+            "venue_id":857605785
+        }
+    ],
+    "wof:id":857605785,
+    "wof:lastmodified":1464204112,
+    "wof:name":"Carpet Cleaning Svc",
+    "wof:parent_id":85805083,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cleaners",
+        "rug",
+        "carpet"
+    ]
+},
+  "bbox": [
+    -116.400953,
+    43.610067,
+    -116.400953,
+    43.610067
+],
+  "geometry": {"coordinates":[-116.400953,43.610067],"type":"Point"}
+}

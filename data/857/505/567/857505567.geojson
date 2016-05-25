@@ -1,0 +1,73 @@
+{
+  "id": 857505567,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-116.125123,47.542306,-116.125123,47.542306",
+    "geom:latitude":47.542306,
+    "geom:longitude":-116.125123,
+    "iso:country":"US",
+    "sg:address":"302 W Cameron Ave",
+    "sg:city":"Kellogg",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 786 0509",
+    "sg:postcode":"83837",
+    "sg:province":"ID",
+    "sg:tags":[
+        "car",
+        "dealer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85937825,
+        102086103,
+        85849049
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4nuKl3ijWyRgSsolKjNExK_47.542306_-116.125123@1294099250"
+    },
+    "wof:country":"US",
+    "wof:created":1464202049,
+    "wof:geomhash":"af2fdbe24e2c6377b6401d36cdfdf48c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086103,
+            "locality_id":85937825,
+            "neighbourhood_id":85849049,
+            "region_id":85688657,
+            "venue_id":857505567
+        }
+    ],
+    "wof:id":857505567,
+    "wof:lastmodified":1464202049,
+    "wof:name":"Lucky Minor Used Cars",
+    "wof:parent_id":85849049,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "car",
+        "dealer"
+    ]
+},
+  "bbox": [
+    -116.125123,
+    47.542306,
+    -116.125123,
+    47.542306
+],
+  "geometry": {"coordinates":[-116.125123,47.542306],"type":"Point"}
+}

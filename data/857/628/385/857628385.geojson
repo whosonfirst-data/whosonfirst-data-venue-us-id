@@ -1,0 +1,76 @@
+{
+  "id": 857628385,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-116.391807,43.597163,-116.391807,43.597163",
+    "geom:latitude":43.597163,
+    "geom:longitude":-116.391807,
+    "iso:country":"US",
+    "sg:address":"790 S Progress Ave",
+    "sg:city":"Meridian",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/id/boise-city/100473-tony-romas/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 895 8466",
+    "sg:postcode":"83642",
+    "sg:province":"ID",
+    "sg:tags":[
+        "seafood",
+        "american",
+        "italian"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85937915,
+        102086087,
+        85805083
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6JEpa0rsWE9uWxTp70iyeU_43.597163_-116.391807@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464204631,
+    "wof:geomhash":"ce542dfb3f7b40862c0aed8ff67fa7e6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086087,
+            "locality_id":85937915,
+            "neighbourhood_id":85805083,
+            "region_id":85688657,
+            "venue_id":857628385
+        }
+    ],
+    "wof:id":857628385,
+    "wof:lastmodified":1464204631,
+    "wof:name":"Tony Romas",
+    "wof:parent_id":85805083,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "seafood",
+        "american",
+        "italian"
+    ]
+},
+  "bbox": [
+    -116.391807,
+    43.597163,
+    -116.391807,
+    43.597163
+],
+  "geometry": {"coordinates":[-116.391807,43.597163],"type":"Point"}
+}

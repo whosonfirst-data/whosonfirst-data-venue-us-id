@@ -1,0 +1,71 @@
+{
+  "id": 857620875,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-117.018075,46.416713,-117.018075,46.416713",
+    "geom:latitude":46.416713,
+    "geom:longitude":-117.018075,
+    "iso:country":"US",
+    "sg:address":"325 12th St",
+    "sg:city":"Lewiston",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Laundry & Dry Cleaning",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 746 0878",
+    "sg:postcode":"83501",
+    "sg:province":"ID",
+    "sg:tags":[
+        "seamstress"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85937743,
+        102086039,
+        85837769
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3aEdxDxujGNt4e2Wa3USdQ_46.416713_-117.018075@1294099250"
+    },
+    "wof:country":"US",
+    "wof:created":1464204450,
+    "wof:geomhash":"1e6003a5d8183587db1a4f73b0ad970c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086039,
+            "locality_id":85937743,
+            "neighbourhood_id":85837769,
+            "region_id":85688657,
+            "venue_id":857620875
+        }
+    ],
+    "wof:id":857620875,
+    "wof:lastmodified":1464204450,
+    "wof:name":"My Sewing Room",
+    "wof:parent_id":85837769,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "seamstress"
+    ]
+},
+  "bbox": [
+    -117.018075,
+    46.416713,
+    -117.018075,
+    46.416713
+],
+  "geometry": {"coordinates":[-117.018075,46.416713],"type":"Point"}
+}

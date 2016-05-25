@@ -1,0 +1,69 @@
+{
+  "id": 857606389,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-116.798672,47.763964,-116.798672,47.763964",
+    "geom:latitude":47.763964,
+    "geom:longitude":-116.798672,
+    "iso:country":"US",
+    "sg:address":"878 W Mustang Ave",
+    "sg:city":"Hayden",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Cleaning & Sanitation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 660 8018",
+    "sg:postcode":"83835",
+    "sg:province":"ID",
+    "sg:tags":[
+        "maintenance"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85821457,
+        102086085
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4kJZDxexRtdWXGJYeZ6gKU_47.763964_-116.798672@1294099250"
+    },
+    "wof:country":"US",
+    "wof:created":1464204123,
+    "wof:geomhash":"3948bd790e77e0ae01767edb8a038e5c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086085,
+            "neighbourhood_id":85821457,
+            "region_id":85688657,
+            "venue_id":857606389
+        }
+    ],
+    "wof:id":857606389,
+    "wof:lastmodified":1464204123,
+    "wof:name":"Complete Cleaning",
+    "wof:parent_id":85821457,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "maintenance"
+    ]
+},
+  "bbox": [
+    -116.798672,
+    47.763964,
+    -116.798672,
+    47.763964
+],
+  "geometry": {"coordinates":[-116.798672,47.763964],"type":"Point"}
+}

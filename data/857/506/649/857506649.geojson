@@ -1,0 +1,82 @@
+{
+  "id": 857506649,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-116.987864,46.38564,-116.987864,46.38564",
+    "geom:latitude":46.38564,
+    "geom:longitude":-116.987864,
+    "iso:country":"US",
+    "sg:address":"3226 8th St E",
+    "sg:city":"Lewiston",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Landscaping Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 743 0360",
+    "sg:postcode":"83501",
+    "sg:province":"ID",
+    "sg:tags":[
+        "tree"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85937743,
+        102086039,
+        85837769,
+        102191575,
+        85830385
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7N3i2iGMFjbv8FLub4J7oD_46.385640_-116.987864@1294099250"
+    },
+    "wof:country":"US",
+    "wof:created":1464202072,
+    "wof:geomhash":"d33444d6d4e76be11e274ac629eb664c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086039,
+            "locality_id":85937743,
+            "neighbourhood_id":85837769,
+            "region_id":85688657,
+            "venue_id":857506649
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086039,
+            "locality_id":85937743,
+            "neighbourhood_id":85830385,
+            "region_id":85688657,
+            "venue_id":857506649
+        }
+    ],
+    "wof:id":857506649,
+    "wof:lastmodified":1464202072,
+    "wof:name":"J C Shrub & Tree",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "tree"
+    ]
+},
+  "bbox": [
+    -116.987864,
+    46.38564,
+    -116.987864,
+    46.38564
+],
+  "geometry": {"coordinates":[-116.987864,46.38564],"type":"Point"}
+}

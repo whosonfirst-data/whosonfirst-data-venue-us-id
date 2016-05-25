@@ -1,0 +1,90 @@
+{
+  "id": 857630207,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-116.792646,47.713264,-116.792646,47.713264",
+    "geom:latitude":47.713264,
+    "geom:longitude":-116.792646,
+    "iso:country":"US",
+    "sg:address":"482 W Sunset Ave",
+    "sg:city":"Coeur D Alene",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/id/coeur-dalene/110142-chilis/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 676 1826",
+    "sg:postcode":"83815",
+    "sg:province":"ID",
+    "sg:tags":[
+        "burger",
+        "american",
+        "sandwich",
+        "tex-mex",
+        "soup"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85821457,
+        102086085,
+        102191575,
+        85938163,
+        85806325
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4SKiEe2EJ8DlvBKnLZradZ_47.713264_-116.792646@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464204670,
+    "wof:geomhash":"80a6d206a2c32d2436204d2927c9c008",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086085,
+            "neighbourhood_id":85821457,
+            "region_id":85688657,
+            "venue_id":857630207
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086085,
+            "locality_id":85938163,
+            "neighbourhood_id":85806325,
+            "region_id":85688657,
+            "venue_id":857630207
+        }
+    ],
+    "wof:id":857630207,
+    "wof:lastmodified":1464204670,
+    "wof:name":"Chili's",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american",
+        "sandwich",
+        "tex-mex",
+        "soup"
+    ]
+},
+  "bbox": [
+    -116.792646,
+    47.713264,
+    -116.792646,
+    47.713264
+],
+  "geometry": {"coordinates":[-116.792646,47.713264],"type":"Point"}
+}

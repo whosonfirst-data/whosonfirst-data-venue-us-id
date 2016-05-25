@@ -1,0 +1,78 @@
+{
+  "id": 857631161,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-116.284264,43.590256,-116.284264,43.590256",
+    "geom:latitude":43.590256,
+    "geom:longitude":-116.284264,
+    "iso:country":"US",
+    "sg:address":"8162 W Overland Rd",
+    "sg:city":"Boise",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/id/boise-city/162865-port-of-subs/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 378 4900",
+    "sg:postcode":"83709",
+    "sg:province":"ID",
+    "sg:tags":[
+        "wrap",
+        "american",
+        "sandwich"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        102191575,
+        85633793,
+        85937923,
+        102086087,
+        85876293
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5Co23qfIBAKalFIdqg4mGf_43.590326_-116.283496@1294099250"
+    },
+    "wof:country":"US",
+    "wof:created":1464204689,
+    "wof:geomhash":"f5c2a0fd3a61b9b4fca0ca789a9ec988",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086087,
+            "locality_id":85937923,
+            "neighbourhood_id":85876293,
+            "region_id":85688657,
+            "venue_id":857631161
+        }
+    ],
+    "wof:id":857631161,
+    "wof:lastmodified":1464204689,
+    "wof:name":"Port of Subs",
+    "wof:parent_id":85876293,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "wrap",
+        "american",
+        "sandwich"
+    ]
+},
+  "bbox": [
+    -116.284264,
+    43.590256,
+    -116.284264,
+    43.590256
+],
+  "geometry": {"coordinates":[-116.28426399999999,43.590256],"type":"Point"}
+}

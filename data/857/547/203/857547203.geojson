@@ -1,0 +1,73 @@
+{
+  "id": 857547203,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-116.551513,43.585166,-116.551513,43.585166",
+    "geom:latitude":43.585166,
+    "geom:longitude":-116.551513,
+    "iso:country":"US",
+    "sg:address":"1203 7th St N",
+    "sg:city":"Nampa",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Used Merchandise",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 442 3089",
+    "sg:postcode":"83687",
+    "sg:province":"ID",
+    "sg:tags":[
+        "shop",
+        "thrift"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85938009,
+        102085081,
+        85827787
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2vsVXicUTVZs8vvCLegCIm_43.585166_-116.551513@1294099250"
+    },
+    "wof:country":"US",
+    "wof:created":1464202877,
+    "wof:geomhash":"dd95e9a3aee92c05593e2d33459c3514",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085081,
+            "locality_id":85938009,
+            "neighbourhood_id":85827787,
+            "region_id":85688657,
+            "venue_id":857547203
+        }
+    ],
+    "wof:id":857547203,
+    "wof:lastmodified":1464202877,
+    "wof:name":"Saint Vincent De Paul Thrift",
+    "wof:parent_id":85827787,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop",
+        "thrift"
+    ]
+},
+  "bbox": [
+    -116.551513,
+    43.585166,
+    -116.551513,
+    43.585166
+],
+  "geometry": {"coordinates":[-116.551513,43.585166],"type":"Point"}
+}

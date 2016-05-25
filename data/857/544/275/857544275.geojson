@@ -1,0 +1,73 @@
+{
+  "id": 857544275,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-116.272325,43.661222,-116.272325,43.661222",
+    "geom:latitude":43.661222,
+    "geom:longitude":-116.272325,
+    "iso:country":"US",
+    "sg:address":"4815 Savannah Ln",
+    "sg:city":"Boise",
+    "sg:classifiers":[
+        {
+            "category":"Insurance",
+            "subcategory":"Insurance Agent",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 323 1822",
+    "sg:postcode":"83714",
+    "sg:province":"ID",
+    "sg:tags":[
+        "claim"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        102191575,
+        85633793,
+        85938191,
+        102086087,
+        85811879
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1RUqNyMaJmSeKnQ2pJnQKp_43.661222_-116.272325@1294099250"
+    },
+    "wof:country":"US",
+    "wof:created":1464202825,
+    "wof:geomhash":"c27cec7ffb28b5052cf3dec228cb14e8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086087,
+            "locality_id":85938191,
+            "neighbourhood_id":85811879,
+            "region_id":85688657,
+            "venue_id":857544275
+        }
+    ],
+    "wof:id":857544275,
+    "wof:lastmodified":1464202825,
+    "wof:name":"Fire Cause Analysis",
+    "wof:parent_id":85811879,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "claim"
+    ]
+},
+  "bbox": [
+    -116.272325,
+    43.661222,
+    -116.272325,
+    43.661222
+],
+  "geometry": {"coordinates":[-116.272325,43.661222],"type":"Point"}
+}

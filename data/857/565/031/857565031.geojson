@@ -1,0 +1,71 @@
+{
+  "id": 857565031,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-116.785494,47.700808,-116.785494,47.700808",
+    "geom:latitude":47.700808,
+    "geom:longitude":-116.785494,
+    "iso:country":"US",
+    "sg:address":"119 E Appleway Ave",
+    "sg:city":"Coeur D Alene",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Photofinishing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 664 0326",
+    "sg:postcode":"83814",
+    "sg:province":"ID",
+    "sg:tags":[
+        "photo",
+        "finishing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85821457,
+        102086085
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3LO1dYGn7orb8VOYsHa4k0_47.700808_-116.785494@1294099250"
+    },
+    "wof:country":"US",
+    "wof:created":1464203256,
+    "wof:geomhash":"1bd7442a2e7c5e7eddc64dc25a2955c0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086085,
+            "neighbourhood_id":85821457,
+            "region_id":85688657,
+            "venue_id":857565031
+        }
+    ],
+    "wof:id":857565031,
+    "wof:lastmodified":1464203256,
+    "wof:name":"Lake City Fast Photo",
+    "wof:parent_id":85821457,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "photo",
+        "finishing"
+    ]
+},
+  "bbox": [
+    -116.785494,
+    47.700808,
+    -116.785494,
+    47.700808
+],
+  "geometry": {"coordinates":[-116.785494,47.700808],"type":"Point"}
+}

@@ -1,0 +1,83 @@
+{
+  "id": 857511509,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-116.792994,47.70483,-116.792994,47.70483",
+    "geom:latitude":47.70483,
+    "geom:longitude":-116.792994,
+    "iso:country":"US",
+    "sg:address":"528 W Cherry Ln",
+    "sg:city":"Coeur D Alene",
+    "sg:classifiers":[
+        {
+            "category":"Mining & Drilling",
+            "subcategory":"",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 765 3339",
+    "sg:postcode":"83815",
+    "sg:province":"ID",
+    "sg:tags":[
+        "ore",
+        "silver"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85821457,
+        102086085,
+        102191575,
+        85938163,
+        85806325
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6EfoEYMu5TtR9P2Bdfft9t_47.704830_-116.792994@1294099250"
+    },
+    "wof:country":"US",
+    "wof:created":1464202177,
+    "wof:geomhash":"f39e92d29a59268d71a5fccacf2f9284",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086085,
+            "neighbourhood_id":85821457,
+            "region_id":85688657,
+            "venue_id":857511509
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086085,
+            "locality_id":85938163,
+            "neighbourhood_id":85806325,
+            "region_id":85688657,
+            "venue_id":857511509
+        }
+    ],
+    "wof:id":857511509,
+    "wof:lastmodified":1464202177,
+    "wof:name":"V G Silver Inc",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "ore",
+        "silver"
+    ]
+},
+  "bbox": [
+    -116.792994,
+    47.70483,
+    -116.792994,
+    47.70483
+],
+  "geometry": {"coordinates":[-116.79299399999999,47.70483],"type":"Point"}
+}

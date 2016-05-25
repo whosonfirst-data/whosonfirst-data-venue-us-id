@@ -1,0 +1,71 @@
+{
+  "id": 857511305,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-116.802091,47.745005,-116.802091,47.745005",
+    "geom:latitude":47.745005,
+    "geom:longitude":-116.802091,
+    "iso:country":"US",
+    "sg:address":"1086 W Starling Ave",
+    "sg:city":"Hayden",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 762 8127",
+    "sg:postcode":"83835",
+    "sg:province":"ID",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85821457,
+        102086085
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4XdcpOf7sfLXTlfZ4DMfzl_47.745005_-116.802091@1294099250"
+    },
+    "wof:country":"US",
+    "wof:created":1464202173,
+    "wof:geomhash":"5c401d1c341347e5d5f820baeb2b1bca",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086085,
+            "neighbourhood_id":85821457,
+            "region_id":85688657,
+            "venue_id":857511305
+        }
+    ],
+    "wof:id":857511305,
+    "wof:lastmodified":1464202173,
+    "wof:name":"Home Auto Maintenance",
+    "wof:parent_id":85821457,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -116.802091,
+    47.745005,
+    -116.802091,
+    47.745005
+],
+  "geometry": {"coordinates":[-116.802091,47.745005],"type":"Point"}
+}

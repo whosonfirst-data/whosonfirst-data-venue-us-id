@@ -1,0 +1,69 @@
+{
+  "id": 857520867,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-116.776572,47.677576,-116.776572,47.677576",
+    "geom:latitude":47.677576,
+    "geom:longitude":-116.776572,
+    "iso:country":"US",
+    "sg:address":"709 E Garden Ave",
+    "sg:city":"Coeur D Alene",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Telephone",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 661 1524",
+    "sg:postcode":"83814",
+    "sg:province":"ID",
+    "sg:tags":[
+        "telecommunication"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85821457,
+        102086085
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1QEkWbHNEGbfehXLj0z4kf_47.677576_-116.776572@1294099250"
+    },
+    "wof:country":"US",
+    "wof:created":1464202369,
+    "wof:geomhash":"05c367ea6a9f8fc9a6e62c98347da121",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086085,
+            "neighbourhood_id":85821457,
+            "region_id":85688657,
+            "venue_id":857520867
+        }
+    ],
+    "wof:id":857520867,
+    "wof:lastmodified":1464202369,
+    "wof:name":"Coeur Dalene Telecom",
+    "wof:parent_id":85821457,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "telecommunication"
+    ]
+},
+  "bbox": [
+    -116.776572,
+    47.677576,
+    -116.776572,
+    47.677576
+],
+  "geometry": {"coordinates":[-116.776572,47.677576],"type":"Point"}
+}

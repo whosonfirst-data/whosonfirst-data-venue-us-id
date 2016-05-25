@@ -1,0 +1,73 @@
+{
+  "id": 857579243,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-116.338043,43.609259,-116.338043,43.609259",
+    "geom:latitude":43.609259,
+    "geom:longitude":-116.338043,
+    "iso:country":"US",
+    "sg:address":"627 N Dupont Ave",
+    "sg:city":"Boise",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Home Furnishings",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 377 1750",
+    "sg:postcode":"83713",
+    "sg:province":"ID",
+    "sg:tags":[
+        "material",
+        "floor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85937915,
+        102086087,
+        85805083
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4VK56eAQiiDdSXoAamCW6w_43.609259_-116.338043@1294099250"
+    },
+    "wof:country":"US",
+    "wof:created":1464203538,
+    "wof:geomhash":"4868e8094cd5a9a0a6cc96778cf3df15",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086087,
+            "locality_id":85937915,
+            "neighbourhood_id":85805083,
+            "region_id":85688657,
+            "venue_id":857579243
+        }
+    ],
+    "wof:id":857579243,
+    "wof:lastmodified":1464203538,
+    "wof:name":"Bergen Distributing",
+    "wof:parent_id":85805083,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "material",
+        "floor"
+    ]
+},
+  "bbox": [
+    -116.338043,
+    43.609259,
+    -116.338043,
+    43.609259
+],
+  "geometry": {"coordinates":[-116.338043,43.609259],"type":"Point"}
+}

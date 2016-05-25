@@ -1,0 +1,83 @@
+{
+  "id": 857515323,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-116.417046,43.561135,-116.417046,43.561135",
+    "geom:latitude":43.561135,
+    "geom:longitude":-116.417046,
+    "iso:country":"US",
+    "sg:address":"1994 W Amity Rd",
+    "sg:city":"Meridian",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 888 7788",
+    "sg:postcode":"83642",
+    "sg:province":"ID",
+    "sg:tags":[
+        "for",
+        "crop",
+        "trucking",
+        "preparation",
+        "operator",
+        "local",
+        "market"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85937915,
+        102086087,
+        85805083
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0XD4qDJe1InGq81d02OubG_43.561135_-116.417046@1294099250"
+    },
+    "wof:country":"US",
+    "wof:created":1464202257,
+    "wof:geomhash":"ccc8541189e8c36db05d0c6577a6128d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086087,
+            "locality_id":85937915,
+            "neighbourhood_id":85805083,
+            "region_id":85688657,
+            "venue_id":857515323
+        }
+    ],
+    "wof:id":857515323,
+    "wof:lastmodified":1464202257,
+    "wof:name":"Bob Barnes Trucking",
+    "wof:parent_id":85805083,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "for",
+        "crop",
+        "trucking",
+        "preparation",
+        "operator",
+        "local",
+        "market"
+    ]
+},
+  "bbox": [
+    -116.417046,
+    43.561135,
+    -116.417046,
+    43.561135
+],
+  "geometry": {"coordinates":[-116.417046,43.561135],"type":"Point"}
+}

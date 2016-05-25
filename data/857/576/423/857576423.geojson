@@ -1,0 +1,71 @@
+{
+  "id": 857576423,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-116.919958,47.398591,-116.919958,47.398591",
+    "geom:latitude":47.398591,
+    "geom:longitude":-116.919958,
+    "iso:country":"US",
+    "sg:address":"9822 W H St",
+    "sg:city":"Worley",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 686 4010",
+    "sg:postcode":"83876",
+    "sg:province":"ID",
+    "sg:tags":[
+        "lock",
+        "locksmith"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85821457,
+        102086085
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_73tuVY0iuDp8WpPlx4qISq_47.398591_-116.919958@1294099250"
+    },
+    "wof:country":"US",
+    "wof:created":1464203478,
+    "wof:geomhash":"8334749f3842ba6f07be6e877ffa6f2d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086085,
+            "neighbourhood_id":85821457,
+            "region_id":85688657,
+            "venue_id":857576423
+        }
+    ],
+    "wof:id":857576423,
+    "wof:lastmodified":1464203478,
+    "wof:name":"Loe & Loe",
+    "wof:parent_id":85821457,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "lock",
+        "locksmith"
+    ]
+},
+  "bbox": [
+    -116.919958,
+    47.398591,
+    -116.919958,
+    47.398591
+],
+  "geometry": {"coordinates":[-116.91995799999999,47.398591],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 857543159,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-117.016948,46.412362,-117.016948,46.412362",
+    "geom:latitude":46.412362,
+    "geom:longitude":-117.016948,
+    "iso:country":"US",
+    "sg:address":"1102 8th Ave",
+    "sg:city":"Lewiston",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 743 9376",
+    "sg:postcode":"83501",
+    "sg:province":"ID",
+    "sg:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85937743,
+        102086039,
+        85837769
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4Tht6cmzS7tn8OKxCnhcqm_46.412362_-117.016948@1294099250"
+    },
+    "wof:country":"US",
+    "wof:created":1464202804,
+    "wof:geomhash":"10e760f90a166a4faf51c4cc778c8e1b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086039,
+            "locality_id":85937743,
+            "neighbourhood_id":85837769,
+            "region_id":85688657,
+            "venue_id":857543159
+        }
+    ],
+    "wof:id":857543159,
+    "wof:lastmodified":1464202804,
+    "wof:name":"In His Time Trucking LLC",
+    "wof:parent_id":85837769,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -117.016948,
+    46.412362,
+    -117.016948,
+    46.412362
+],
+  "geometry": {"coordinates":[-117.016948,46.412362],"type":"Point"}
+}

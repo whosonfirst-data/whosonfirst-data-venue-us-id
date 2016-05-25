@@ -1,0 +1,83 @@
+{
+  "id": 857582189,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-116.800218,47.712046,-116.800218,47.712046",
+    "geom:latitude":47.712046,
+    "geom:longitude":-116.800218,
+    "iso:country":"US",
+    "sg:address":"3909 N Schreiber Way",
+    "sg:city":"Coeur D Alene",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Machinery & Supplies",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 676 9433",
+    "sg:postcode":"83815",
+    "sg:province":"ID",
+    "sg:tags":[
+        "machine",
+        "tool"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85821457,
+        102086085,
+        102191575,
+        85938163,
+        85806325
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0iFqXL4uhf4Z1WXcwPZYsh_47.712046_-116.800218@1294099250"
+    },
+    "wof:country":"US",
+    "wof:created":1464203594,
+    "wof:geomhash":"fdf7b0135cf9bec07000f40fe3c228fb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086085,
+            "neighbourhood_id":85821457,
+            "region_id":85688657,
+            "venue_id":857582189
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086085,
+            "locality_id":85938163,
+            "neighbourhood_id":85806325,
+            "region_id":85688657,
+            "venue_id":857582189
+        }
+    ],
+    "wof:id":857582189,
+    "wof:lastmodified":1464203594,
+    "wof:name":"Mach3cnc",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "machine",
+        "tool"
+    ]
+},
+  "bbox": [
+    -116.800218,
+    47.712046,
+    -116.800218,
+    47.712046
+],
+  "geometry": {"coordinates":[-116.800218,47.712046],"type":"Point"}
+}

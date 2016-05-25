@@ -1,0 +1,74 @@
+{
+  "id": 857529903,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-116.594564,43.599318,-116.594564,43.599318",
+    "geom:latitude":43.599318,
+    "geom:longitude":-116.594564,
+    "iso:country":"US",
+    "sg:address":"1105 Caldwell Blvd",
+    "sg:city":"Nampa",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Used Merchandise",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 461 4084",
+    "sg:postcode":"83651",
+    "sg:province":"ID",
+    "sg:tags":[
+        "shop",
+        "thrift"
+    ],
+    "sg:website":"www.goodwill.org",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85938009,
+        102085081,
+        85827787
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4fGhqohPudmu4noVprxK6j_43.599318_-116.594564@1294099250"
+    },
+    "wof:country":"US",
+    "wof:created":1464202541,
+    "wof:geomhash":"5a7c57bf1f182504b315e97c4d91f790",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085081,
+            "locality_id":85938009,
+            "neighbourhood_id":85827787,
+            "region_id":85688657,
+            "venue_id":857529903
+        }
+    ],
+    "wof:id":857529903,
+    "wof:lastmodified":1464202541,
+    "wof:name":"Goodwill Industries",
+    "wof:parent_id":85827787,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop",
+        "thrift"
+    ]
+},
+  "bbox": [
+    -116.594564,
+    43.599318,
+    -116.594564,
+    43.599318
+],
+  "geometry": {"coordinates":[-116.59456400000001,43.599318],"type":"Point"}
+}

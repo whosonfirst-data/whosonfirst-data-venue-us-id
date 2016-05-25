@@ -1,0 +1,71 @@
+{
+  "id": 857550867,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-116.79973,47.690214,-116.79973,47.690214",
+    "geom:latitude":47.690214,
+    "geom:longitude":-116.79973,
+    "iso:country":"US",
+    "sg:address":"1620 Northwest Blvd",
+    "sg:city":"Coeur D Alene",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 664 5241",
+    "sg:postcode":"83814",
+    "sg:province":"ID",
+    "sg:tags":[
+        "loan",
+        "real estate"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85821457,
+        102086085
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7B5gzm7F3xREYSceVIvbcC_47.690214_-116.799730@1294099250"
+    },
+    "wof:country":"US",
+    "wof:created":1464202946,
+    "wof:geomhash":"1ffbc80ec99d9dd18828be8a0d18ea57",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086085,
+            "neighbourhood_id":85821457,
+            "region_id":85688657,
+            "venue_id":857550867
+        }
+    ],
+    "wof:id":857550867,
+    "wof:lastmodified":1464202946,
+    "wof:name":"Bank CDA Mortgage",
+    "wof:parent_id":85821457,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "loan",
+        "real estate"
+    ]
+},
+  "bbox": [
+    -116.79973,
+    47.690214,
+    -116.79973,
+    47.690214
+],
+  "geometry": {"coordinates":[-116.79973,47.690214],"type":"Point"}
+}

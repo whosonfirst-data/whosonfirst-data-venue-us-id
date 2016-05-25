@@ -1,0 +1,71 @@
+{
+  "id": 857563501,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-116.353297,43.602062,-116.353297,43.602062",
+    "geom:latitude":43.602062,
+    "geom:longitude":-116.353297,
+    "iso:country":"US",
+    "sg:address":"285 W Montvue Dr",
+    "sg:city":"Meridian",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 855 9451",
+    "sg:postcode":"83642",
+    "sg:province":"ID",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85937915,
+        102086087,
+        85805083
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5aX6IdYlqBcQspvvKU1K9h_43.602062_-116.353297@1294099250"
+    },
+    "wof:country":"US",
+    "wof:created":1464203229,
+    "wof:geomhash":"3476e2778c744758d34964dd68bec62f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086087,
+            "locality_id":85937915,
+            "neighbourhood_id":85805083,
+            "region_id":85688657,
+            "venue_id":857563501
+        }
+    ],
+    "wof:id":857563501,
+    "wof:lastmodified":1464203229,
+    "wof:name":"J T & Co General Contractors",
+    "wof:parent_id":85805083,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -116.353297,
+    43.602062,
+    -116.353297,
+    43.602062
+],
+  "geometry": {"coordinates":[-116.353297,43.602062],"type":"Point"}
+}

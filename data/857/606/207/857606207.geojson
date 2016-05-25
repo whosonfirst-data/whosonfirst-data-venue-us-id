@@ -1,0 +1,73 @@
+{
+  "id": 857606207,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-116.393546,43.612854,-116.393546,43.612854",
+    "geom:latitude":43.612854,
+    "geom:longitude":-116.393546,
+    "iso:country":"US",
+    "sg:address":"1001 N Meridian Rd",
+    "sg:city":"Meridian",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 888 5406",
+    "sg:postcode":"83642",
+    "sg:province":"ID",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85937915,
+        102086087,
+        85805083
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3j5aAn4XX7cRHYNZoi7B8g_43.612854_-116.393546@1294099250"
+    },
+    "wof:country":"US",
+    "wof:created":1464204120,
+    "wof:geomhash":"05a94455733a47d68b64fb39195ad63c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086087,
+            "locality_id":85937915,
+            "neighbourhood_id":85805083,
+            "region_id":85688657,
+            "venue_id":857606207
+        }
+    ],
+    "wof:id":857606207,
+    "wof:lastmodified":1464204120,
+    "wof:name":"Meridian Family Medicine",
+    "wof:parent_id":85805083,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -116.393546,
+    43.612854,
+    -116.393546,
+    43.612854
+],
+  "geometry": {"coordinates":[-116.393546,43.612854],"type":"Point"}
+}

@@ -1,0 +1,69 @@
+{
+  "id": 857578339,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-116.761432,47.710666,-116.761432,47.710666",
+    "geom:latitude":47.710666,
+    "geom:longitude":-116.761432,
+    "iso:country":"US",
+    "sg:address":"1850 E Jenny Lynn Ln",
+    "sg:city":"Coeur D Alene",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Cleaning & Sanitation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 664 1933",
+    "sg:postcode":"83815",
+    "sg:province":"ID",
+    "sg:tags":[
+        "janitor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85821457,
+        102086085
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2DU2tIhHSwAUCXlHsUvP7l_47.710666_-116.761432@1294099250"
+    },
+    "wof:country":"US",
+    "wof:created":1464203517,
+    "wof:geomhash":"4641a5fe811d075e85b00ea052df0fd8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086085,
+            "neighbourhood_id":85821457,
+            "region_id":85688657,
+            "venue_id":857578339
+        }
+    ],
+    "wof:id":857578339,
+    "wof:lastmodified":1464203517,
+    "wof:name":"Floors N' More",
+    "wof:parent_id":85821457,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "janitor"
+    ]
+},
+  "bbox": [
+    -116.761432,
+    47.710666,
+    -116.761432,
+    47.710666
+],
+  "geometry": {"coordinates":[-116.761432,47.710666],"type":"Point"}
+}

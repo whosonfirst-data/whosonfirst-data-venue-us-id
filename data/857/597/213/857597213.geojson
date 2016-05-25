@@ -1,0 +1,71 @@
+{
+  "id": 857597213,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-116.763893,47.831407,-116.763893,47.831407",
+    "geom:latitude":47.831407,
+    "geom:longitude":-116.763893,
+    "iso:country":"US",
+    "sg:address":"18745 N Cedar Grove Ln",
+    "sg:city":"Hayden",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Nursing And Care Facility",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 772 5488",
+    "sg:postcode":"83835",
+    "sg:province":"ID",
+    "sg:tags":[
+        "home",
+        "convalescent"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85821457,
+        102086085
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1JTV66YRYU5WOefSPWDrGt_47.831407_-116.763893@1294099250"
+    },
+    "wof:country":"US",
+    "wof:created":1464203927,
+    "wof:geomhash":"ccba6d6a943bcab448a3571269c166ba",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086085,
+            "neighbourhood_id":85821457,
+            "region_id":85688657,
+            "venue_id":857597213
+        }
+    ],
+    "wof:id":857597213,
+    "wof:lastmodified":1464203927,
+    "wof:name":"Marston Adult Family Home",
+    "wof:parent_id":85821457,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "home",
+        "convalescent"
+    ]
+},
+  "bbox": [
+    -116.763893,
+    47.831407,
+    -116.763893,
+    47.831407
+],
+  "geometry": {"coordinates":[-116.763893,47.831407],"type":"Point"}
+}

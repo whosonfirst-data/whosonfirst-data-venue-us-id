@@ -1,0 +1,84 @@
+{
+  "id": 857590711,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-116.953989,46.376593,-116.953989,46.376593",
+    "geom:latitude":46.376593,
+    "geom:longitude":-116.953989,
+    "iso:country":"US",
+    "sg:address":"1516 Burrell Ave",
+    "sg:city":"Lewiston",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 746 7747",
+    "sg:postcode":"83501",
+    "sg:province":"ID",
+    "sg:tags":[
+        "general",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85937743,
+        102086039,
+        85837769,
+        102191575,
+        85830385
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3hxmmWGuCgSI8wzWpyH0uo_46.376593_-116.953989@1294099250"
+    },
+    "wof:country":"US",
+    "wof:created":1464203777,
+    "wof:geomhash":"7258786edd86c3511135f194ccbf8470",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086039,
+            "locality_id":85937743,
+            "neighbourhood_id":85837769,
+            "region_id":85688657,
+            "venue_id":857590711
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086039,
+            "locality_id":85937743,
+            "neighbourhood_id":85830385,
+            "region_id":85688657,
+            "venue_id":857590711
+        }
+    ],
+    "wof:id":857590711,
+    "wof:lastmodified":1464203777,
+    "wof:name":"Square One Contractors",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "general",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -116.953989,
+    46.376593,
+    -116.953989,
+    46.376593
+],
+  "geometry": {"coordinates":[-116.95398900000001,46.376593],"type":"Point"}
+}

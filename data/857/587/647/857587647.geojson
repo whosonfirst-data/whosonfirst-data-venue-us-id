@@ -1,0 +1,71 @@
+{
+  "id": 857587647,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-116.786411,47.767515,-116.786411,47.767515",
+    "geom:latitude":47.767515,
+    "geom:longitude":-116.786411,
+    "iso:country":"US",
+    "sg:address":"10664 N Government Way",
+    "sg:city":"Hayden Lake",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 762 4342",
+    "sg:postcode":"83835",
+    "sg:province":"ID",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85821457,
+        102086085
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3ihuUaJLBeYs5LMJvGwAOu_47.767515_-116.786411@1294099250"
+    },
+    "wof:country":"US",
+    "wof:created":1464203706,
+    "wof:geomhash":"29c65e1e740ca652864ae80206eacc5d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086085,
+            "neighbourhood_id":85821457,
+            "region_id":85688657,
+            "venue_id":857587647
+        }
+    ],
+    "wof:id":857587647,
+    "wof:lastmodified":1464203706,
+    "wof:name":"Dealer Services",
+    "wof:parent_id":85821457,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -116.786411,
+    47.767515,
+    -116.786411,
+    47.767515
+],
+  "geometry": {"coordinates":[-116.786411,47.767515],"type":"Point"}
+}

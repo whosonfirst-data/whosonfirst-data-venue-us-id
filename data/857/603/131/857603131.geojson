@@ -1,0 +1,75 @@
+{
+  "id": 857603131,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-116.331557,43.604935,-116.331557,43.604935",
+    "geom:latitude":43.604935,
+    "geom:longitude":-116.331557,
+    "iso:country":"US",
+    "sg:address":"12000 Franklin Rd",
+    "sg:city":"Boise",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 377 8781",
+    "sg:postcode":"83709",
+    "sg:province":"ID",
+    "sg:tags":[
+        "insulation",
+        "heat",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85937915,
+        102086087,
+        85805083
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5ottzQqu8aJXLydbwKW0Wk_43.604935_-116.331557@1294099250"
+    },
+    "wof:country":"US",
+    "wof:created":1464204052,
+    "wof:geomhash":"974e75e98f377a4bd301b91d64ffce26",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086087,
+            "locality_id":85937915,
+            "neighbourhood_id":85805083,
+            "region_id":85688657,
+            "venue_id":857603131
+        }
+    ],
+    "wof:id":857603131,
+    "wof:lastmodified":1464204052,
+    "wof:name":"G & G Insulation",
+    "wof:parent_id":85805083,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "insulation",
+        "heat",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -116.331557,
+    43.604935,
+    -116.331557,
+    43.604935
+],
+  "geometry": {"coordinates":[-116.331557,43.604935],"type":"Point"}
+}

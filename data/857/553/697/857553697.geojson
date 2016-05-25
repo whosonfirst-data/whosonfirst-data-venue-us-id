@@ -1,0 +1,77 @@
+{
+  "id": 857553697,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-116.567004,43.522299,-116.567004,43.522299",
+    "geom:latitude":43.522299,
+    "geom:longitude":-116.567004,
+    "iso:country":"US",
+    "sg:address":"401 Crestview Dr",
+    "sg:city":"Nampa",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Music",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 461 8382",
+    "sg:postcode":"83686",
+    "sg:province":"ID",
+    "sg:tags":[
+        "video",
+        "disc",
+        "tape",
+        "cassette"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85938009,
+        102085081,
+        85827787
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0iwhIQ8bt6VU1hXkKiZFrN_43.522299_-116.567004@1294099250"
+    },
+    "wof:country":"US",
+    "wof:created":1464203001,
+    "wof:geomhash":"97df17139f9546b371ec051c59a892c6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085081,
+            "locality_id":85938009,
+            "neighbourhood_id":85827787,
+            "region_id":85688657,
+            "venue_id":857553697
+        }
+    ],
+    "wof:id":857553697,
+    "wof:lastmodified":1464203001,
+    "wof:name":"Performance Video",
+    "wof:parent_id":85827787,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "video",
+        "disc",
+        "tape",
+        "cassette"
+    ]
+},
+  "bbox": [
+    -116.567004,
+    43.522299,
+    -116.567004,
+    43.522299
+],
+  "geometry": {"coordinates":[-116.567004,43.522299],"type":"Point"}
+}

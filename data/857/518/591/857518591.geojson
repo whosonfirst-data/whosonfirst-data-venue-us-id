@@ -1,0 +1,71 @@
+{
+  "id": 857518591,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-116.122659,47.531303,-116.122659,47.531303",
+    "geom:latitude":47.531303,
+    "geom:longitude":-116.122659,
+    "iso:country":"US",
+    "sg:address":"652 S Main St",
+    "sg:city":"Kellogg",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Gifts & Souvenirs",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 786 2641",
+    "sg:postcode":"83837",
+    "sg:province":"ID",
+    "sg:tags":[
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85937825,
+        102086103,
+        85849049
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1tF25gX8t09RULIHwMREv7_47.531303_-116.122659@1294099250"
+    },
+    "wof:country":"US",
+    "wof:created":1464202322,
+    "wof:geomhash":"eba14439768a8373e637910705ce1620",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086103,
+            "locality_id":85937825,
+            "neighbourhood_id":85849049,
+            "region_id":85688657,
+            "venue_id":857518591
+        }
+    ],
+    "wof:id":857518591,
+    "wof:lastmodified":1464202322,
+    "wof:name":"Wardner Gift Shop",
+    "wof:parent_id":85849049,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop"
+    ]
+},
+  "bbox": [
+    -116.122659,
+    47.531303,
+    -116.122659,
+    47.531303
+],
+  "geometry": {"coordinates":[-116.122659,47.531303],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 857562257,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-116.385947,43.60589,-116.385947,43.60589",
+    "geom:latitude":43.60589,
+    "geom:longitude":-116.385947,
+    "iso:country":"US",
+    "sg:address":"272 E 5th St",
+    "sg:city":"Meridian",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Detective & Security Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 887 9686",
+    "sg:postcode":"83642",
+    "sg:province":"ID",
+    "sg:tags":[
+        "car",
+        "armored"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85937915,
+        102086087,
+        85805083
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6rzSL8uEvkpQjpyvUcA1Cm_43.605890_-116.385947@1294099250"
+    },
+    "wof:country":"US",
+    "wof:created":1464203207,
+    "wof:geomhash":"4bdf3f119b385cec276439bb21840e1d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086087,
+            "locality_id":85937915,
+            "neighbourhood_id":85805083,
+            "region_id":85688657,
+            "venue_id":857562257
+        }
+    ],
+    "wof:id":857562257,
+    "wof:lastmodified":1464203207,
+    "wof:name":"Idaho Armored Svc",
+    "wof:parent_id":85805083,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "car",
+        "armored"
+    ]
+},
+  "bbox": [
+    -116.385947,
+    43.60589,
+    -116.385947,
+    43.60589
+],
+  "geometry": {"coordinates":[-116.385947,43.60589],"type":"Point"}
+}

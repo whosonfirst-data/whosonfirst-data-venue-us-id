@@ -1,0 +1,69 @@
+{
+  "id": 857545395,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-116.797122,47.83143,-116.797122,47.83143",
+    "geom:latitude":47.83143,
+    "geom:longitude":-116.797122,
+    "iso:country":"US",
+    "sg:address":"17703 N Circle S Trl",
+    "sg:city":"Rathdrum",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Natural Gas",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 687 5070",
+    "sg:postcode":"83858",
+    "sg:province":"ID",
+    "sg:tags":[
+        "transmission"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85821457,
+        102086085
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5n6aop9VVcJefnAgtkmTMo_47.831430_-116.797122@1294099250"
+    },
+    "wof:country":"US",
+    "wof:created":1464202846,
+    "wof:geomhash":"c98bf5687750fc5e810517d8e8f25233",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086085,
+            "neighbourhood_id":85821457,
+            "region_id":85688657,
+            "venue_id":857545395
+        }
+    ],
+    "wof:id":857545395,
+    "wof:lastmodified":1464202846,
+    "wof:name":"Specialty Gas Service",
+    "wof:parent_id":85821457,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "transmission"
+    ]
+},
+  "bbox": [
+    -116.797122,
+    47.83143,
+    -116.797122,
+    47.83143
+],
+  "geometry": {"coordinates":[-116.797122,47.83143],"type":"Point"}
+}

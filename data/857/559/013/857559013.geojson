@@ -1,0 +1,71 @@
+{
+  "id": 857559013,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-116.784029,47.676415,-116.784029,47.676415",
+    "geom:latitude":47.676415,
+    "geom:longitude":-116.784029,
+    "iso:country":"US",
+    "sg:address":"401 N 2nd St",
+    "sg:city":"Coeur D Alene",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Specialty",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 664 3083",
+    "sg:postcode":"83814",
+    "sg:province":"ID",
+    "sg:tags":[
+        "tea",
+        "coffee"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85821457,
+        102086085
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5uDiZyuDPzLBsb7su1vVMF_47.676415_-116.784029@1294099250"
+    },
+    "wof:country":"US",
+    "wof:created":1464203127,
+    "wof:geomhash":"128737bb91354d3601481250ec0c3728",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086085,
+            "neighbourhood_id":85821457,
+            "region_id":85688657,
+            "venue_id":857559013
+        }
+    ],
+    "wof:id":857559013,
+    "wof:lastmodified":1464203127,
+    "wof:name":"Coeur D Alene Tea House",
+    "wof:parent_id":85821457,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "tea",
+        "coffee"
+    ]
+},
+  "bbox": [
+    -116.784029,
+    47.676415,
+    -116.784029,
+    47.676415
+],
+  "geometry": {"coordinates":[-116.784029,47.676415],"type":"Point"}
+}

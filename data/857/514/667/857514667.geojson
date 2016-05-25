@@ -1,0 +1,71 @@
+{
+  "id": 857514667,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-116.753367,47.673379,-116.753367,47.673379",
+    "geom:latitude":47.673379,
+    "geom:longitude":-116.753367,
+    "iso:country":"US",
+    "sg:address":"2315 E Sherman Ave",
+    "sg:city":"Coeur D Alene",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Car Wash",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 665 7700",
+    "sg:postcode":"83814",
+    "sg:province":"ID",
+    "sg:tags":[
+        "polishing",
+        "washing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85821457,
+        102086085
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2bVKgwCCKUqYYaVAE4qjam_47.673379_-116.753367@1294099250"
+    },
+    "wof:country":"US",
+    "wof:created":1464202245,
+    "wof:geomhash":"26b97de3da7f047e0aaaf90ad58a671a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086085,
+            "neighbourhood_id":85821457,
+            "region_id":85688657,
+            "venue_id":857514667
+        }
+    ],
+    "wof:id":857514667,
+    "wof:lastmodified":1464202245,
+    "wof:name":"Sparkle Car Wash",
+    "wof:parent_id":85821457,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "polishing",
+        "washing"
+    ]
+},
+  "bbox": [
+    -116.753367,
+    47.673379,
+    -116.753367,
+    47.673379
+],
+  "geometry": {"coordinates":[-116.753367,47.673379],"type":"Point"}
+}

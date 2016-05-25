@@ -1,0 +1,84 @@
+{
+  "id": 857618733,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-116.983211,46.385639,-116.983211,46.385639",
+    "geom:latitude":46.385639,
+    "geom:longitude":-116.983211,
+    "iso:country":"US",
+    "sg:address":"245 Thain Rd",
+    "sg:city":"Lewiston",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 798 1660",
+    "sg:postcode":"83501",
+    "sg:province":"ID",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85937743,
+        102086039,
+        85837769,
+        102191575,
+        85830385
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7JSBkWj9Fz04qst9s485Zm_46.385639_-116.983211@1294099250"
+    },
+    "wof:country":"US",
+    "wof:created":1464204395,
+    "wof:geomhash":"bddc645f79703bafc763308ab9a54572",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086039,
+            "locality_id":85937743,
+            "neighbourhood_id":85837769,
+            "region_id":85688657,
+            "venue_id":857618733
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086039,
+            "locality_id":85937743,
+            "neighbourhood_id":85830385,
+            "region_id":85688657,
+            "venue_id":857618733
+        }
+    ],
+    "wof:id":857618733,
+    "wof:lastmodified":1464204395,
+    "wof:name":"Meineke Car Care Ctr",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -116.983211,
+    46.385639,
+    -116.983211,
+    46.385639
+],
+  "geometry": {"coordinates":[-116.983211,46.385639],"type":"Point"}
+}

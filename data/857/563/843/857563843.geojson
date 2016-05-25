@@ -1,0 +1,71 @@
+{
+  "id": 857563843,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-116.839434,47.726785,-116.839434,47.726785",
+    "geom:latitude":47.726785,
+    "geom:longitude":-116.839434,
+    "iso:country":"US",
+    "sg:address":"4810 Industrial Ave W",
+    "sg:city":"Coeur D Alene",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 765 3418",
+    "sg:postcode":"83815",
+    "sg:province":"ID",
+    "sg:tags":[
+        "mechanical",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85821457,
+        102086085
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3koymU3ANIm1ui6jPM5qAN_47.726785_-116.839434@1294099250"
+    },
+    "wof:country":"US",
+    "wof:created":1464203236,
+    "wof:geomhash":"6427a222efb9fe38fd5d3ccd452431c1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086085,
+            "neighbourhood_id":85821457,
+            "region_id":85688657,
+            "venue_id":857563843
+        }
+    ],
+    "wof:id":857563843,
+    "wof:lastmodified":1464203236,
+    "wof:name":"Current Electrical",
+    "wof:parent_id":85821457,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mechanical",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -116.839434,
+    47.726785,
+    -116.839434,
+    47.726785
+],
+  "geometry": {"coordinates":[-116.839434,47.726785],"type":"Point"}
+}

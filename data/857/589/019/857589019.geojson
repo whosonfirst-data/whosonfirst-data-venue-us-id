@@ -1,0 +1,71 @@
+{
+  "id": 857589019,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-116.596411,43.586659,-116.596411,43.586659",
+    "geom:latitude":43.586659,
+    "geom:longitude":-116.596411,
+    "iso:country":"US",
+    "sg:address":"215 N Bonner Dr",
+    "sg:city":"Nampa",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"Child Care",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 466 0156",
+    "sg:postcode":"83651",
+    "sg:province":"ID",
+    "sg:tags":[
+        "day"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85938009,
+        102085081,
+        85827787
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3GXL0jZa38OQLANFg4Knnj_43.586659_-116.596411@1294099250"
+    },
+    "wof:country":"US",
+    "wof:created":1464203740,
+    "wof:geomhash":"5ad99c5e2e7c7efc9ed230e38a81ff27",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085081,
+            "locality_id":85938009,
+            "neighbourhood_id":85827787,
+            "region_id":85688657,
+            "venue_id":857589019
+        }
+    ],
+    "wof:id":857589019,
+    "wof:lastmodified":1464203740,
+    "wof:name":"Happy Days Child Care Center",
+    "wof:parent_id":85827787,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "day"
+    ]
+},
+  "bbox": [
+    -116.596411,
+    43.586659,
+    -116.596411,
+    43.586659
+],
+  "geometry": {"coordinates":[-116.596411,43.586659],"type":"Point"}
+}

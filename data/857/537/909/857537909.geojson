@@ -1,0 +1,71 @@
+{
+  "id": 857537909,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-116.790161,47.752406,-116.790161,47.752406",
+    "geom:latitude":47.752406,
+    "geom:longitude":-116.790161,
+    "iso:country":"US",
+    "sg:address":"8895 N Commerce Dr",
+    "sg:city":"Hayden Lake",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 762 8203",
+    "sg:postcode":"83835",
+    "sg:province":"ID",
+    "sg:tags":[
+        "automobile",
+        "lubrication"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85821457,
+        102086085
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6dM0vuHCZszILCfrVWJJZz_47.752406_-116.790161@1294099250"
+    },
+    "wof:country":"US",
+    "wof:created":1464202696,
+    "wof:geomhash":"afb88301ab7ef4fc54b716e56205d3c9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086085,
+            "neighbourhood_id":85821457,
+            "region_id":85688657,
+            "venue_id":857537909
+        }
+    ],
+    "wof:id":857537909,
+    "wof:lastmodified":1464202696,
+    "wof:name":"Texaco Xpress Lube",
+    "wof:parent_id":85821457,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automobile",
+        "lubrication"
+    ]
+},
+  "bbox": [
+    -116.790161,
+    47.752406,
+    -116.790161,
+    47.752406
+],
+  "geometry": {"coordinates":[-116.790161,47.752406],"type":"Point"}
+}

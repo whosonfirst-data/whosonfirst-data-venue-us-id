@@ -1,0 +1,71 @@
+{
+  "id": 857503211,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-116.785591,47.691234,-116.785591,47.691234",
+    "geom:latitude":47.691234,
+    "geom:longitude":-116.785591,
+    "iso:country":"US",
+    "sg:address":"107 E Spruce Ave",
+    "sg:city":"Coeur D Alene",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 667 3067",
+    "sg:postcode":"83814",
+    "sg:province":"ID",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85821457,
+        102086085
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3VwkqilJ3ZgYa4vqPUpy4H_47.691234_-116.785591@1294099250"
+    },
+    "wof:country":"US",
+    "wof:created":1464201989,
+    "wof:geomhash":"74692c5756b01c9a87bcc7d4b4406b9d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086085,
+            "neighbourhood_id":85821457,
+            "region_id":85688657,
+            "venue_id":857503211
+        }
+    ],
+    "wof:id":857503211,
+    "wof:lastmodified":1464201989,
+    "wof:name":"Herman's Automotive Ctr",
+    "wof:parent_id":85821457,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -116.785591,
+    47.691234,
+    -116.785591,
+    47.691234
+],
+  "geometry": {"coordinates":[-116.785591,47.691234],"type":"Point"}
+}

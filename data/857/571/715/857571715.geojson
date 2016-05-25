@@ -1,0 +1,73 @@
+{
+  "id": 857571715,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-116.393556,43.601466,-116.393556,43.601466",
+    "geom:latitude":43.601466,
+    "geom:longitude":-116.393556,
+    "iso:country":"US",
+    "sg:address":"324 S Meridian Rd",
+    "sg:city":"Meridian",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Health Practitioner",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 887 7719",
+    "sg:postcode":"83642",
+    "sg:province":"ID",
+    "sg:tags":[
+        "nurse",
+        "registry"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85937915,
+        102086087,
+        85805083
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0TdYN2gDR7Jr32mNHX8Iuw_43.601466_-116.393556@1294099250"
+    },
+    "wof:country":"US",
+    "wof:created":1464203384,
+    "wof:geomhash":"926b869051341ca8b405f5f9e0a0b47a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086087,
+            "locality_id":85937915,
+            "neighbourhood_id":85805083,
+            "region_id":85688657,
+            "venue_id":857571715
+        }
+    ],
+    "wof:id":857571715,
+    "wof:lastmodified":1464203384,
+    "wof:name":"Multi-Care Staffing Svc",
+    "wof:parent_id":85805083,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "nurse",
+        "registry"
+    ]
+},
+  "bbox": [
+    -116.393556,
+    43.601466,
+    -116.393556,
+    43.601466
+],
+  "geometry": {"coordinates":[-116.393556,43.601466],"type":"Point"}
+}

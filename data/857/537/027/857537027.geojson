@@ -1,0 +1,73 @@
+{
+  "id": 857537027,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-116.584441,43.559986,-116.584441,43.559986",
+    "geom:latitude":43.559986,
+    "geom:longitude":-116.584441,
+    "iso:country":"US",
+    "sg:address":"916 Arrowhead St",
+    "sg:city":"Nampa",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 461 7506",
+    "sg:postcode":"83686",
+    "sg:province":"ID",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85938009,
+        102085081,
+        85827787
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5wifuo4MNcrYZFlVCvpQ1I_43.559986_-116.584441@1294099250"
+    },
+    "wof:country":"US",
+    "wof:created":1464202681,
+    "wof:geomhash":"0502d40d73a53187db031478debe181b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085081,
+            "locality_id":85938009,
+            "neighbourhood_id":85827787,
+            "region_id":85688657,
+            "venue_id":857537027
+        }
+    ],
+    "wof:id":857537027,
+    "wof:lastmodified":1464202681,
+    "wof:name":"All Tech Auto Repair",
+    "wof:parent_id":85827787,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -116.584441,
+    43.559986,
+    -116.584441,
+    43.559986
+],
+  "geometry": {"coordinates":[-116.584441,43.559986],"type":"Point"}
+}

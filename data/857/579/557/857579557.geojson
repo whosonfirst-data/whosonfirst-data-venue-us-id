@@ -1,0 +1,73 @@
+{
+  "id": 857579557,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-116.786085,47.689773,-116.786085,47.689773",
+    "geom:latitude":47.689773,
+    "geom:longitude":-116.786085,
+    "iso:country":"US",
+    "sg:address":"1512 N Government Way",
+    "sg:city":"Coeur D Alene",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 667 5545",
+    "sg:postcode":"83814",
+    "sg:province":"ID",
+    "sg:tags":[
+        "renting",
+        "truck",
+        "leasing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85821457,
+        102086085
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2bTaEjPnfDf6wQ7ANGoAPH_47.689773_-116.786085@1294099250"
+    },
+    "wof:country":"US",
+    "wof:created":1464203544,
+    "wof:geomhash":"e96a9d0dad443a913276c7e081cf1df5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086085,
+            "neighbourhood_id":85821457,
+            "region_id":85688657,
+            "venue_id":857579557
+        }
+    ],
+    "wof:id":857579557,
+    "wof:lastmodified":1464203544,
+    "wof:name":"U-Haul Co",
+    "wof:parent_id":85821457,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "renting",
+        "truck",
+        "leasing"
+    ]
+},
+  "bbox": [
+    -116.786085,
+    47.689773,
+    -116.786085,
+    47.689773
+],
+  "geometry": {"coordinates":[-116.786085,47.689773],"type":"Point"}
+}

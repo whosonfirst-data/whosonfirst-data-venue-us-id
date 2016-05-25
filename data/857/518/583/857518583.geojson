@@ -1,0 +1,71 @@
+{
+  "id": 857518583,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-116.513495,43.453516,-116.513495,43.453516",
+    "geom:latitude":43.453516,
+    "geom:longitude":-116.513495,
+    "iso:country":"US",
+    "sg:address":"5489 Happy Valley Rd",
+    "sg:city":"Kuna",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 466 1045",
+    "sg:postcode":"83634",
+    "sg:province":"ID",
+    "sg:tags":[
+        "septic"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85938009,
+        102085081,
+        85827787
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3H4lKcEsw0WOZt1WGR83RY_43.453516_-116.513495@1294099250"
+    },
+    "wof:country":"US",
+    "wof:created":1464202321,
+    "wof:geomhash":"fbbb7eef61446206cafd1adad2cb9885",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085081,
+            "locality_id":85938009,
+            "neighbourhood_id":85827787,
+            "region_id":85688657,
+            "venue_id":857518583
+        }
+    ],
+    "wof:id":857518583,
+    "wof:lastmodified":1464202321,
+    "wof:name":"Nampa Septic Svc",
+    "wof:parent_id":85827787,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "septic"
+    ]
+},
+  "bbox": [
+    -116.513495,
+    43.453516,
+    -116.513495,
+    43.453516
+],
+  "geometry": {"coordinates":[-116.51349500000001,43.453516],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 857561383,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-116.804704,46.407434,-116.804704,46.407434",
+    "geom:latitude":46.407434,
+    "geom:longitude":-116.804704,
+    "iso:country":"US",
+    "sg:address":"111 Main St N",
+    "sg:city":"Lewiston",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Telephone",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 748 4000",
+    "sg:postcode":"83501",
+    "sg:province":"ID",
+    "sg:tags":[
+        "company"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85937743,
+        102086039,
+        85837769
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0fjxpeBd3XtTJ6yQLXQjrb_46.407434_-116.804704@1294099250"
+    },
+    "wof:country":"US",
+    "wof:created":1464203189,
+    "wof:geomhash":"4aaf364d3fc7b1d6811f11436401abe2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086039,
+            "locality_id":85937743,
+            "neighbourhood_id":85837769,
+            "region_id":85688657,
+            "venue_id":857561383
+        }
+    ],
+    "wof:id":857561383,
+    "wof:lastmodified":1464203189,
+    "wof:name":"X O Communications Inc",
+    "wof:parent_id":85837769,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "company"
+    ]
+},
+  "bbox": [
+    -116.804704,
+    46.407434,
+    -116.804704,
+    46.407434
+],
+  "geometry": {"coordinates":[-116.804704,46.407434],"type":"Point"}
+}

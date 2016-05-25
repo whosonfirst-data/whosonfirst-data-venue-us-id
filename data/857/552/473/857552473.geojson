@@ -1,0 +1,73 @@
+{
+  "id": 857552473,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-116.787331,47.675527,-116.787331,47.675527",
+    "geom:latitude":47.675527,
+    "geom:longitude":-116.787331,
+    "iso:country":"US",
+    "sg:address":"250 Northwest Blvd",
+    "sg:city":"Coeur D Alene",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Clinic",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 676 9970",
+    "sg:postcode":"83814",
+    "sg:province":"ID",
+    "sg:tags":[
+        "organization",
+        "medical",
+        "surgical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85821457,
+        102086085
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0ceVSQFR7j9Sfd5oXHBuPv_47.675527_-116.787331@1294099250"
+    },
+    "wof:country":"US",
+    "wof:created":1464202979,
+    "wof:geomhash":"78204542005cf8ad4d7387973f108eaa",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086085,
+            "neighbourhood_id":85821457,
+            "region_id":85688657,
+            "venue_id":857552473
+        }
+    ],
+    "wof:id":857552473,
+    "wof:lastmodified":1464202979,
+    "wof:name":"MD3",
+    "wof:parent_id":85821457,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "organization",
+        "medical",
+        "surgical"
+    ]
+},
+  "bbox": [
+    -116.787331,
+    47.675527,
+    -116.787331,
+    47.675527
+],
+  "geometry": {"coordinates":[-116.78733099999999,47.675527],"type":"Point"}
+}

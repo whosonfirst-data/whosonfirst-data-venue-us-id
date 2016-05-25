@@ -1,0 +1,77 @@
+{
+  "id": 857545023,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-116.220106,43.589755,-116.220106,43.589755",
+    "geom:latitude":43.589755,
+    "geom:longitude":-116.220106,
+    "iso:country":"US",
+    "sg:address":"3107 Overland Rd",
+    "sg:city":"Boise",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Tobacco",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 426 0887",
+    "sg:postcode":"83705",
+    "sg:province":"ID",
+    "sg:tags":[
+        "cigarette",
+        "cigar",
+        "dealer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        102191575,
+        85633793,
+        85937923,
+        102086087,
+        85825393
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7bbQInE6gIOzQsYcA4vqiM_43.589755_-116.220106@1294099250"
+    },
+    "wof:country":"US",
+    "wof:created":1464202840,
+    "wof:geomhash":"dca2a549ed1f014a04fcb537efedbdb9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086087,
+            "locality_id":85937923,
+            "neighbourhood_id":85825393,
+            "region_id":85688657,
+            "venue_id":857545023
+        }
+    ],
+    "wof:id":857545023,
+    "wof:lastmodified":1464202840,
+    "wof:name":"Big Smoke",
+    "wof:parent_id":85825393,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cigarette",
+        "cigar",
+        "dealer"
+    ]
+},
+  "bbox": [
+    -116.220106,
+    43.589755,
+    -116.220106,
+    43.589755
+],
+  "geometry": {"coordinates":[-116.220106,43.589755],"type":"Point"}
+}

@@ -1,0 +1,77 @@
+{
+  "id": 857511211,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-116.977632,46.381416,-116.977632,46.381416",
+    "geom:latitude":46.381416,
+    "geom:longitude":-116.977632,
+    "iso:country":"US",
+    "sg:address":"356 Thain Rd",
+    "sg:city":"Lewiston",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Florist",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 743 1569",
+    "sg:postcode":"83501",
+    "sg:province":"ID",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85937743,
+        102086039,
+        85837769,
+        102191575,
+        85830385
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_53uWRU6PRm4RrYtwce8MS8_46.381416_-116.977632@1294099250"
+    },
+    "wof:country":"US",
+    "wof:created":1464202171,
+    "wof:geomhash":"ab8ee35659dffcbb88f8e5bb1b20087d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086039,
+            "locality_id":85937743,
+            "neighbourhood_id":85837769,
+            "region_id":85688657,
+            "venue_id":857511211
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086039,
+            "locality_id":85937743,
+            "neighbourhood_id":85830385,
+            "region_id":85688657,
+            "venue_id":857511211
+        }
+    ],
+    "wof:id":857511211,
+    "wof:lastmodified":1464202171,
+    "wof:name":"Lewiston Floral",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -116.977632,
+    46.381416,
+    -116.977632,
+    46.381416
+],
+  "geometry": {"coordinates":[-116.977632,46.381416],"type":"Point"}
+}

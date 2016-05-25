@@ -1,0 +1,71 @@
+{
+  "id": 857601091,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-115.920709,47.471618,-115.920709,47.471618",
+    "geom:latitude":47.471618,
+    "geom:longitude":-115.920709,
+    "iso:country":"US",
+    "sg:address":"806 Bank St",
+    "sg:city":"Wallace",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 752 1233",
+    "sg:postcode":"83873",
+    "sg:province":"ID",
+    "sg:tags":[
+        "grocer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85937825,
+        102086103,
+        85849049
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2xXUIO5G0GodJdTgDNkOTz_47.471618_-115.920709@1294099250"
+    },
+    "wof:country":"US",
+    "wof:created":1464204010,
+    "wof:geomhash":"8411c3be7517c8774b4f10ff8fe886ad",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086103,
+            "locality_id":85937825,
+            "neighbourhood_id":85849049,
+            "region_id":85688657,
+            "venue_id":857601091
+        }
+    ],
+    "wof:id":857601091,
+    "wof:lastmodified":1464204010,
+    "wof:name":"Excel Foods",
+    "wof:parent_id":85849049,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "grocer"
+    ]
+},
+  "bbox": [
+    -115.920709,
+    47.471618,
+    -115.920709,
+    47.471618
+],
+  "geometry": {"coordinates":[-115.920709,47.471618],"type":"Point"}
+}

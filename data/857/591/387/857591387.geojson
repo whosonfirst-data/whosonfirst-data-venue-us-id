@@ -1,0 +1,73 @@
+{
+  "id": 857591387,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-116.95457,46.368023,-116.95457,46.368023",
+    "geom:latitude":46.368023,
+    "geom:longitude":-116.95457,
+    "iso:country":"US",
+    "sg:address":"3715 15th St",
+    "sg:city":"Lewiston",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 798 4959",
+    "sg:postcode":"83501",
+    "sg:province":"ID",
+    "sg:tags":[
+        "loan",
+        "real estate"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85937743,
+        102086039,
+        85837769
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5kDxhQFb1Ja2yVfsR8Wusr_46.368023_-116.954570@1294099250"
+    },
+    "wof:country":"US",
+    "wof:created":1464203792,
+    "wof:geomhash":"a56ae401fb46ccc40cd3fa248a792b9f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086039,
+            "locality_id":85937743,
+            "neighbourhood_id":85837769,
+            "region_id":85688657,
+            "venue_id":857591387
+        }
+    ],
+    "wof:id":857591387,
+    "wof:lastmodified":1464203792,
+    "wof:name":"Benchmark Mortgage",
+    "wof:parent_id":85837769,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "loan",
+        "real estate"
+    ]
+},
+  "bbox": [
+    -116.95457,
+    46.368023,
+    -116.95457,
+    46.368023
+],
+  "geometry": {"coordinates":[-116.95457,46.368023],"type":"Point"}
+}

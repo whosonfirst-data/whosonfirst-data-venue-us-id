@@ -1,0 +1,71 @@
+{
+  "id": 857572661,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-116.802294,47.761289,-116.802294,47.761289",
+    "geom:latitude":47.761289,
+    "geom:longitude":-116.802294,
+    "iso:country":"US",
+    "sg:address":"1101 W Kyler Ave",
+    "sg:city":"Hayden",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 661 0643",
+    "sg:postcode":"83835",
+    "sg:province":"ID",
+    "sg:tags":[
+        "concrete",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85821457,
+        102086085
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2iIquvjbV9hZty7BD2WUMr_47.761289_-116.802294@1294099250"
+    },
+    "wof:country":"US",
+    "wof:created":1464203402,
+    "wof:geomhash":"b73a1eb426aafca83b35cd14a65b22c2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086085,
+            "neighbourhood_id":85821457,
+            "region_id":85688657,
+            "venue_id":857572661
+        }
+    ],
+    "wof:id":857572661,
+    "wof:lastmodified":1464203402,
+    "wof:name":"Corbin Concrete",
+    "wof:parent_id":85821457,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "concrete",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -116.802294,
+    47.761289,
+    -116.802294,
+    47.761289
+],
+  "geometry": {"coordinates":[-116.802294,47.761289],"type":"Point"}
+}

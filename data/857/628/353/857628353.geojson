@@ -1,0 +1,72 @@
+{
+  "id": 857628353,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-116.352452,43.612229,-116.352452,43.612229",
+    "geom:latitude":43.612229,
+    "geom:longitude":-116.352452,
+    "iso:country":"US",
+    "sg:address":"3272 E Pine Ave",
+    "sg:city":"Meridian",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/id/boise-city/225070-ram/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 345 2929",
+    "sg:postcode":"83642",
+    "sg:province":"ID",
+    "sg:tags":[
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85937915,
+        102086087,
+        85805083
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2R2t4PHe7qLzDQ1vd53nmC_43.612229_-116.352452@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464204630,
+    "wof:geomhash":"c91e95d4059931dc0960a19b5c503f88",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086087,
+            "locality_id":85937915,
+            "neighbourhood_id":85805083,
+            "region_id":85688657,
+            "venue_id":857628353
+        }
+    ],
+    "wof:id":857628353,
+    "wof:lastmodified":1464204630,
+    "wof:name":"Ram Restaurant and Brewhouse",
+    "wof:parent_id":85805083,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american"
+    ]
+},
+  "bbox": [
+    -116.352452,
+    43.612229,
+    -116.352452,
+    43.612229
+],
+  "geometry": {"coordinates":[-116.352452,43.612229],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 857599429,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-116.243662,43.580753,-116.243662,43.580753",
+    "geom:latitude":43.580753,
+    "geom:longitude":-116.243662,
+    "iso:country":"US",
+    "sg:address":"2403 S Orchard St",
+    "sg:city":"Boise",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 342 1829",
+    "sg:postcode":"83705",
+    "sg:province":"ID",
+    "sg:tags":[
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        102191575,
+        85633793,
+        85937923,
+        102086087,
+        85825393
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5xEahvrP1Atvp90fuNWUBU_43.580753_-116.243662@1294099250"
+    },
+    "wof:country":"US",
+    "wof:created":1464203971,
+    "wof:geomhash":"dcad1da674c3bb0114ccd98b9c501bcb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086087,
+            "locality_id":85937923,
+            "neighbourhood_id":85825393,
+            "region_id":85688657,
+            "venue_id":857599429
+        }
+    ],
+    "wof:id":857599429,
+    "wof:lastmodified":1464203971,
+    "wof:name":"Wildwood Apartments",
+    "wof:parent_id":85825393,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "apartment"
+    ]
+},
+  "bbox": [
+    -116.243662,
+    43.580753,
+    -116.243662,
+    43.580753
+],
+  "geometry": {"coordinates":[-116.243662,43.580753],"type":"Point"}
+}

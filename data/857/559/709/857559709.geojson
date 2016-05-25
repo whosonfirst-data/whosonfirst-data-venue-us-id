@@ -1,0 +1,72 @@
+{
+  "id": 857559709,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-116.592993,43.594983,-116.592993,43.594983",
+    "geom:latitude":43.594983,
+    "geom:longitude":-116.592993,
+    "iso:country":"US",
+    "sg:address":"1222 N Midland Blvd",
+    "sg:city":"Nampa",
+    "sg:classifiers":[
+        {
+            "category":"Local Transit",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 466 8800",
+    "sg:postcode":"83651",
+    "sg:province":"ID",
+    "sg:tags":[
+        "ambulance"
+    ],
+    "sg:website":"www.ccparamedics.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85938009,
+        102085081,
+        85827787
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0zP0bHlOdJaBygBeAcAEec_43.594983_-116.592993@1294099250"
+    },
+    "wof:country":"US",
+    "wof:created":1464203143,
+    "wof:geomhash":"4a2d652ffbd551f55e69385b857eb3a2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085081,
+            "locality_id":85938009,
+            "neighbourhood_id":85827787,
+            "region_id":85688657,
+            "venue_id":857559709
+        }
+    ],
+    "wof:id":857559709,
+    "wof:lastmodified":1464203143,
+    "wof:name":"Canyon County Ambulance",
+    "wof:parent_id":85827787,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "ambulance"
+    ]
+},
+  "bbox": [
+    -116.592993,
+    43.594983,
+    -116.592993,
+    43.594983
+],
+  "geometry": {"coordinates":[-116.59299300000001,43.594983],"type":"Point"}
+}

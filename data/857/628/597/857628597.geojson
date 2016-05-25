@@ -1,0 +1,74 @@
+{
+  "id": 857628597,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-116.572927,43.554247,-116.572927,43.554247",
+    "geom:latitude":43.554247,
+    "geom:longitude":-116.572927,
+    "iso:country":"US",
+    "sg:address":"104 W Iowa Ave",
+    "sg:city":"Nampa",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/id/nampa/241827-idaho-pizza-company/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 467 1900",
+    "sg:postcode":"83686",
+    "sg:province":"ID",
+    "sg:tags":[
+        "american",
+        "pizza"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85938009,
+        102085081,
+        85827787
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3M5ncrepF4XvfcwpTSvWFR_43.554247_-116.572927@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464204635,
+    "wof:geomhash":"9417e293f260017f2d9ed2555803f003",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085081,
+            "locality_id":85938009,
+            "neighbourhood_id":85827787,
+            "region_id":85688657,
+            "venue_id":857628597
+        }
+    ],
+    "wof:id":857628597,
+    "wof:lastmodified":1464204635,
+    "wof:name":"Idaho Pizza Company",
+    "wof:parent_id":85827787,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "pizza"
+    ]
+},
+  "bbox": [
+    -116.572927,
+    43.554247,
+    -116.572927,
+    43.554247
+],
+  "geometry": {"coordinates":[-116.57292700000001,43.554247],"type":"Point"}
+}

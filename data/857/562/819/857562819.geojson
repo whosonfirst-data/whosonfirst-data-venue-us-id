@@ -1,0 +1,71 @@
+{
+  "id": 857562819,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-116.799822,47.824187,-116.799822,47.824187",
+    "geom:latitude":47.824187,
+    "geom:longitude":-116.799822,
+    "iso:country":"US",
+    "sg:address":"16480 N Spur St",
+    "sg:city":"Rathdrum",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 687 2022",
+    "sg:postcode":"83858",
+    "sg:province":"ID",
+    "sg:tags":[
+        "excavating",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85821457,
+        102086085
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2rIT8ZTT8RlUYAmhtdh2oV_47.824187_-116.799822@1294099250"
+    },
+    "wof:country":"US",
+    "wof:created":1464203217,
+    "wof:geomhash":"96081755248544d664a84fd21da7ee3d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086085,
+            "neighbourhood_id":85821457,
+            "region_id":85688657,
+            "venue_id":857562819
+        }
+    ],
+    "wof:id":857562819,
+    "wof:lastmodified":1464203217,
+    "wof:name":"On-Site Excavating",
+    "wof:parent_id":85821457,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "excavating",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -116.799822,
+    47.824187,
+    -116.799822,
+    47.824187
+],
+  "geometry": {"coordinates":[-116.79982200000001,47.824187],"type":"Point"}
+}

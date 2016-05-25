@@ -1,0 +1,76 @@
+{
+  "id": 857629355,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-116.243418,43.592443,-116.243418,43.592443",
+    "geom:latitude":43.592443,
+    "geom:longitude":-116.243418,
+    "iso:country":"US",
+    "sg:address":"1302 S Orchard St",
+    "sg:city":"Boise",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/id/boise-city/180352-jack-in-the-box/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 342 2666",
+    "sg:postcode":"83705",
+    "sg:province":"ID",
+    "sg:tags":[
+        "burger",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        102191575,
+        85633793,
+        85937923,
+        102086087,
+        85876295
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5GWeoTBdZ9YF2TWb8SXdJp_43.592443_-116.243418@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464204649,
+    "wof:geomhash":"9d594251f4254c020810f792d07083ea",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086087,
+            "locality_id":85937923,
+            "neighbourhood_id":85876295,
+            "region_id":85688657,
+            "venue_id":857629355
+        }
+    ],
+    "wof:id":857629355,
+    "wof:lastmodified":1464204649,
+    "wof:name":"Jack in the Box",
+    "wof:parent_id":85876295,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american"
+    ]
+},
+  "bbox": [
+    -116.243418,
+    43.592443,
+    -116.243418,
+    43.592443
+],
+  "geometry": {"coordinates":[-116.24341800000001,43.592443],"type":"Point"}
+}

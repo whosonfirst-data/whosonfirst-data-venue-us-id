@@ -1,0 +1,75 @@
+{
+  "id": 857587433,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-116.24351,43.579819,-116.24351,43.579819",
+    "geom:latitude":43.579819,
+    "geom:longitude":-116.24351,
+    "iso:country":"US",
+    "sg:address":"2300 S Orchard St",
+    "sg:city":"Boise",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Clinic",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 384 9702",
+    "sg:postcode":"83705",
+    "sg:province":"ID",
+    "sg:tags":[
+        "examination",
+        "insurance"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        102191575,
+        85633793,
+        85937923,
+        102086087,
+        85825393
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2TP74CIwN0SFjrxjOHuahV_43.579819_-116.243510@1294099250"
+    },
+    "wof:country":"US",
+    "wof:created":1464203702,
+    "wof:geomhash":"64d2139f374b4d9beaf783746687d4e8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086087,
+            "locality_id":85937923,
+            "neighbourhood_id":85825393,
+            "region_id":85688657,
+            "venue_id":857587433
+        }
+    ],
+    "wof:id":857587433,
+    "wof:lastmodified":1464203702,
+    "wof:name":"Apps",
+    "wof:parent_id":85825393,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "examination",
+        "insurance"
+    ]
+},
+  "bbox": [
+    -116.24351,
+    43.579819,
+    -116.24351,
+    43.579819
+],
+  "geometry": {"coordinates":[-116.24351,43.579819],"type":"Point"}
+}

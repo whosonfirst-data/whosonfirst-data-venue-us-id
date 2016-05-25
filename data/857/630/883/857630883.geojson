@@ -1,0 +1,74 @@
+{
+  "id": 857630883,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-116.391074,43.598154,-116.391074,43.598154",
+    "geom:latitude":43.598154,
+    "geom:longitude":-116.391074,
+    "iso:country":"US",
+    "sg:address":"675 S Progress Ave",
+    "sg:city":"Meridian",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/id/boise-city/78929-pizza-hut/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 888 1771",
+    "sg:postcode":"83642",
+    "sg:province":"ID",
+    "sg:tags":[
+        "american",
+        "pizza"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85937915,
+        102086087,
+        85805083
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3YyBZdvCNEXWkEeOglgrIJ_43.598693_-116.390823@1294099250"
+    },
+    "wof:country":"US",
+    "wof:created":1464204682,
+    "wof:geomhash":"a20a90fa45e0b104753206af676f6706",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086087,
+            "locality_id":85937915,
+            "neighbourhood_id":85805083,
+            "region_id":85688657,
+            "venue_id":857630883
+        }
+    ],
+    "wof:id":857630883,
+    "wof:lastmodified":1464204682,
+    "wof:name":"Pizza Hut",
+    "wof:parent_id":85805083,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "pizza"
+    ]
+},
+  "bbox": [
+    -116.391074,
+    43.598154,
+    -116.391074,
+    43.598154
+],
+  "geometry": {"coordinates":[-116.391074,43.598154],"type":"Point"}
+}

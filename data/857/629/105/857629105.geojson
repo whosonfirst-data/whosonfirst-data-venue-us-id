@@ -1,0 +1,78 @@
+{
+  "id": 857629105,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-116.281126,43.619059,-116.281126,43.619059",
+    "geom:latitude":43.619059,
+    "geom:longitude":-116.281126,
+    "iso:country":"US",
+    "sg:address":"7965 W Fairview Ave",
+    "sg:city":"Boise",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/id/boise-city/235334-taco-time/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 376 3281",
+    "sg:postcode":"83704",
+    "sg:province":"ID",
+    "sg:tags":[
+        "american",
+        "mexican",
+        "tex-mex"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        102191575,
+        85633793,
+        85937923,
+        102086087,
+        85841319
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0Nbdx2yx4b9CYeC2YCRl8j_43.619059_-116.281126@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464204644,
+    "wof:geomhash":"0d172a009eaf52161b16843b4736863d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086087,
+            "locality_id":85937923,
+            "neighbourhood_id":85841319,
+            "region_id":85688657,
+            "venue_id":857629105
+        }
+    ],
+    "wof:id":857629105,
+    "wof:lastmodified":1464204644,
+    "wof:name":"Taco Time",
+    "wof:parent_id":85841319,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "mexican",
+        "tex-mex"
+    ]
+},
+  "bbox": [
+    -116.281126,
+    43.619059,
+    -116.281126,
+    43.619059
+],
+  "geometry": {"coordinates":[-116.281126,43.619059],"type":"Point"}
+}

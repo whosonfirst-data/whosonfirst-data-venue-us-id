@@ -1,0 +1,84 @@
+{
+  "id": 857542929,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-116.801272,47.697015,-116.801272,47.697015",
+    "geom:latitude":47.697015,
+    "geom:longitude":-116.801272,
+    "iso:country":"US",
+    "sg:address":"1221 W Ironwood Dr",
+    "sg:city":"Coeur D Alene",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 667 3179",
+    "sg:postcode":"83814",
+    "sg:province":"ID",
+    "sg:tags":[
+        "senior",
+        "citizen"
+    ],
+    "sg:website":"www.agingadultsvcs.org",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85821457,
+        102086085,
+        102191575,
+        85938163,
+        85806325
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2gRRw1tP3tSvJSjEHtuG6d_47.697015_-116.801272@1294099250"
+    },
+    "wof:country":"US",
+    "wof:created":1464202799,
+    "wof:geomhash":"fa1c427396a7221593f0bded2c58b1d3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086085,
+            "neighbourhood_id":85821457,
+            "region_id":85688657,
+            "venue_id":857542929
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086085,
+            "locality_id":85938163,
+            "neighbourhood_id":85806325,
+            "region_id":85688657,
+            "venue_id":857542929
+        }
+    ],
+    "wof:id":857542929,
+    "wof:lastmodified":1464202799,
+    "wof:name":"Area Agency On Aging",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "senior",
+        "citizen"
+    ]
+},
+  "bbox": [
+    -116.801272,
+    47.697015,
+    -116.801272,
+    47.697015
+],
+  "geometry": {"coordinates":[-116.801272,47.697015],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 857508693,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-116.395927,43.609171,-116.395927,43.609171",
+    "geom:latitude":43.609171,
+    "geom:longitude":-116.395927,
+    "iso:country":"US",
+    "sg:address":"606 W 2nd St",
+    "sg:city":"Meridian",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 288 1300",
+    "sg:postcode":"83642",
+    "sg:province":"ID",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85937915,
+        102086087,
+        85805083
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3t9mfDgejExmFVJXXpmlEX_43.609171_-116.395927@1294099250"
+    },
+    "wof:country":"US",
+    "wof:created":1464202118,
+    "wof:geomhash":"4db9c719b60b2d286422cd5381513c3f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086087,
+            "locality_id":85937915,
+            "neighbourhood_id":85805083,
+            "region_id":85688657,
+            "venue_id":857508693
+        }
+    ],
+    "wof:id":857508693,
+    "wof:lastmodified":1464202118,
+    "wof:name":"Rides Unlimited",
+    "wof:parent_id":85805083,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -116.395927,
+    43.609171,
+    -116.395927,
+    43.609171
+],
+  "geometry": {"coordinates":[-116.395927,43.609171],"type":"Point"}
+}

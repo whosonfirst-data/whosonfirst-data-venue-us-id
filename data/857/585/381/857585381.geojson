@@ -1,0 +1,75 @@
+{
+  "id": 857585381,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-116.372557,43.595544,-116.372557,43.595544",
+    "geom:latitude":43.595544,
+    "geom:longitude":-116.372557,
+    "iso:country":"US",
+    "sg:address":"1160 Torino Ave",
+    "sg:city":"Meridian",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 846 8917",
+    "sg:postcode":"83642",
+    "sg:province":"ID",
+    "sg:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85937915,
+        102086087,
+        85805083
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0WsUWrzGQBAVyVn5klrtXb_43.595544_-116.372557@1294099250"
+    },
+    "wof:country":"US",
+    "wof:created":1464203653,
+    "wof:geomhash":"007610f5c701bef16aa10e9d0aa653ec",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086087,
+            "locality_id":85937915,
+            "neighbourhood_id":85805083,
+            "region_id":85688657,
+            "venue_id":857585381
+        }
+    ],
+    "wof:id":857585381,
+    "wof:lastmodified":1464203653,
+    "wof:name":"Melvin Enterprises Inc",
+    "wof:parent_id":85805083,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -116.372557,
+    43.595544,
+    -116.372557,
+    43.595544
+],
+  "geometry": {"coordinates":[-116.372557,43.595544],"type":"Point"}
+}

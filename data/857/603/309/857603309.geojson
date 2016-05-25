@@ -1,0 +1,71 @@
+{
+  "id": 857603309,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-116.772357,47.758863,-116.772357,47.758863",
+    "geom:latitude":47.758863,
+    "geom:longitude":-116.772357,
+    "iso:country":"US",
+    "sg:address":"1076 E Hayden Ave",
+    "sg:city":"Hayden",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 772 2823",
+    "sg:postcode":"83835",
+    "sg:province":"ID",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85821457,
+        102086085
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6MTJxryLGS6MwjaJHpAerh_47.758863_-116.772357@1294099250"
+    },
+    "wof:country":"US",
+    "wof:created":1464204058,
+    "wof:geomhash":"e4ea4d7b943486b7f34e6fb5d706e224",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086085,
+            "neighbourhood_id":85821457,
+            "region_id":85688657,
+            "venue_id":857603309
+        }
+    ],
+    "wof:id":857603309,
+    "wof:lastmodified":1464204058,
+    "wof:name":"Dayspring Midwifery Svc",
+    "wof:parent_id":85821457,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -116.772357,
+    47.758863,
+    -116.772357,
+    47.758863
+],
+  "geometry": {"coordinates":[-116.772357,47.758863],"type":"Point"}
+}

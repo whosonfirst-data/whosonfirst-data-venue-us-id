@@ -1,0 +1,73 @@
+{
+  "id": 857513873,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-116.352128,43.604865,-116.352128,43.604865",
+    "geom:latitude":43.604865,
+    "geom:longitude":-116.352128,
+    "iso:country":"US",
+    "sg:address":"3335 E Franklin Rd",
+    "sg:city":"Meridian",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Groceries",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 884 5371",
+    "sg:postcode":"83642",
+    "sg:province":"ID",
+    "sg:tags":[
+        "food",
+        "broker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85937915,
+        102086087,
+        85805083
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4oEqaED3b2qZzanJQ46DFA_43.604865_-116.352128@1294099250"
+    },
+    "wof:country":"US",
+    "wof:created":1464202227,
+    "wof:geomhash":"ed0b1a29cc38c4fd543d126599c69079",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086087,
+            "locality_id":85937915,
+            "neighbourhood_id":85805083,
+            "region_id":85688657,
+            "venue_id":857513873
+        }
+    ],
+    "wof:id":857513873,
+    "wof:lastmodified":1464202227,
+    "wof:name":"Main Street Marketing",
+    "wof:parent_id":85805083,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "food",
+        "broker"
+    ]
+},
+  "bbox": [
+    -116.352128,
+    43.604865,
+    -116.352128,
+    43.604865
+],
+  "geometry": {"coordinates":[-116.35212799999999,43.604865],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 857602879,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-116.741986,47.96073,-116.741986,47.96073",
+    "geom:latitude":47.96073,
+    "geom:longitude":-116.741986,
+    "iso:country":"US",
+    "sg:address":"30917 N Clagstone Rd",
+    "sg:city":"Athol",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 683 6026",
+    "sg:postcode":"83801",
+    "sg:province":"ID",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85821457,
+        102086085
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2dLKAMdMa1W2jgqacFgsNP_47.960730_-116.741986@1294099250"
+    },
+    "wof:country":"US",
+    "wof:created":1464204047,
+    "wof:geomhash":"cc2959d7c91fb571d7078d141c9c6dd3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086085,
+            "neighbourhood_id":85821457,
+            "region_id":85688657,
+            "venue_id":857602879
+        }
+    ],
+    "wof:id":857602879,
+    "wof:lastmodified":1464204047,
+    "wof:name":"Clyde's Automotive",
+    "wof:parent_id":85821457,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -116.741986,
+    47.96073,
+    -116.741986,
+    47.96073
+],
+  "geometry": {"coordinates":[-116.741986,47.96073],"type":"Point"}
+}

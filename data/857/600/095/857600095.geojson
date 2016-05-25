@@ -1,0 +1,69 @@
+{
+  "id": 857600095,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-116.778544,47.757055,-116.778544,47.757055",
+    "geom:latitude":47.757055,
+    "geom:longitude":-116.778544,
+    "iso:country":"US",
+    "sg:address":"9230 N Maple St",
+    "sg:city":"Hayden",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 762 3007",
+    "sg:postcode":"83835",
+    "sg:province":"ID",
+    "sg:tags":[
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85821457,
+        102086085
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2EMWJUTHZ5HclDCNJ79ntO_47.757055_-116.778544@1294099250"
+    },
+    "wof:country":"US",
+    "wof:created":1464203989,
+    "wof:geomhash":"00073c1e13795a140cfa4c5675b43799",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086085,
+            "neighbourhood_id":85821457,
+            "region_id":85688657,
+            "venue_id":857600095
+        }
+    ],
+    "wof:id":857600095,
+    "wof:lastmodified":1464203989,
+    "wof:name":"Precision Materials Placement",
+    "wof:parent_id":85821457,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "trucking"
+    ]
+},
+  "bbox": [
+    -116.778544,
+    47.757055,
+    -116.778544,
+    47.757055
+],
+  "geometry": {"coordinates":[-116.778544,47.757055],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 857607035,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-116.400471,43.590168,-116.400471,43.590168",
+    "geom:latitude":43.590168,
+    "geom:longitude":-116.400471,
+    "iso:country":"US",
+    "sg:address":"1385 S Blue Marlin Ln",
+    "sg:city":"Meridian",
+    "sg:classifiers":[
+        {
+            "category":"Recreation",
+            "subcategory":"Amusement Park",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 898 0900",
+    "sg:postcode":"83642",
+    "sg:province":"ID",
+    "sg:website":"www.boondocks.info",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85937915,
+        102086087,
+        85805083
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7m60L7WGni4NrXzTAyR7Wa_43.590168_-116.400471@1294099250"
+    },
+    "wof:country":"US",
+    "wof:created":1464204135,
+    "wof:geomhash":"fa02f2c76ea5adc03cea9ba9bde748ae",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086087,
+            "locality_id":85937915,
+            "neighbourhood_id":85805083,
+            "region_id":85688657,
+            "venue_id":857607035
+        }
+    ],
+    "wof:id":857607035,
+    "wof:lastmodified":1464204135,
+    "wof:name":"Boondocks Fun Ctr",
+    "wof:parent_id":85805083,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -116.400471,
+    43.590168,
+    -116.400471,
+    43.590168
+],
+  "geometry": {"coordinates":[-116.400471,43.590168],"type":"Point"}
+}

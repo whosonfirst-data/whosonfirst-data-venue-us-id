@@ -1,0 +1,71 @@
+{
+  "id": 857560207,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-116.882814,47.718526,-116.882814,47.718526",
+    "geom:latitude":47.718526,
+    "geom:longitude":-116.882814,
+    "iso:country":"US",
+    "sg:address":"1239 N Glasgow Dr",
+    "sg:city":"Post Falls",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 773 3274",
+    "sg:postcode":"83854",
+    "sg:province":"ID",
+    "sg:tags":[
+        "electrical",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85821457,
+        102086085
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3gV6NZFGDMk43JU54Xm9qf_47.718526_-116.882814@1294099250"
+    },
+    "wof:country":"US",
+    "wof:created":1464203156,
+    "wof:geomhash":"217ed5b55b7227e0d0bf82af2d71bf77",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086085,
+            "neighbourhood_id":85821457,
+            "region_id":85688657,
+            "venue_id":857560207
+        }
+    ],
+    "wof:id":857560207,
+    "wof:lastmodified":1464203156,
+    "wof:name":"Consolidated Northwest",
+    "wof:parent_id":85821457,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electrical",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -116.882814,
+    47.718526,
+    -116.882814,
+    47.718526
+],
+  "geometry": {"coordinates":[-116.882814,47.718526],"type":"Point"}
+}

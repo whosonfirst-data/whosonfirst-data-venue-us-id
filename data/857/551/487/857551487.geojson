@@ -1,0 +1,69 @@
+{
+  "id": 857551487,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-116.785529,47.67521,-116.785529,47.67521",
+    "geom:latitude":47.67521,
+    "geom:longitude":-116.785529,
+    "iso:country":"US",
+    "sg:address":"100 E Coeur D Alene Ave",
+    "sg:city":"Coeur D Alene",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 664 4242",
+    "sg:postcode":"83814",
+    "sg:province":"ID",
+    "sg:tags":[
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85821457,
+        102086085
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7kOv77RFTsnCp2G4sjSj8O_47.675210_-116.785529@1294099250"
+    },
+    "wof:country":"US",
+    "wof:created":1464202961,
+    "wof:geomhash":"39173d72ec5659c25be213527e75b1e6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086085,
+            "neighbourhood_id":85821457,
+            "region_id":85688657,
+            "venue_id":857551487
+        }
+    ],
+    "wof:id":857551487,
+    "wof:lastmodified":1464202961,
+    "wof:name":"Lake Tower Apartments",
+    "wof:parent_id":85821457,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "apartment"
+    ]
+},
+  "bbox": [
+    -116.785529,
+    47.67521,
+    -116.785529,
+    47.67521
+],
+  "geometry": {"coordinates":[-116.785529,47.67521],"type":"Point"}
+}

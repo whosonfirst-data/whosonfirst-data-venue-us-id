@@ -1,0 +1,74 @@
+{
+  "id": 857630757,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-117.001887,46.411505,-117.001887,46.411505",
+    "geom:latitude":46.411505,
+    "geom:longitude":-117.001887,
+    "iso:country":"US",
+    "sg:address":"920 21st St",
+    "sg:city":"Lewiston",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/id/lewiston/160851-burger-king/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 743 3961",
+    "sg:postcode":"83501",
+    "sg:province":"ID",
+    "sg:tags":[
+        "burger",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85937743,
+        102086039,
+        85837769
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7WmgkbZMbdlPEHNMnxd3EV_46.411171_-117.002001@1294099250"
+    },
+    "wof:country":"US",
+    "wof:created":1464204680,
+    "wof:geomhash":"cbb8f646859cbee141ec52dd2bc85dab",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086039,
+            "locality_id":85937743,
+            "neighbourhood_id":85837769,
+            "region_id":85688657,
+            "venue_id":857630757
+        }
+    ],
+    "wof:id":857630757,
+    "wof:lastmodified":1464204680,
+    "wof:name":"Burger King",
+    "wof:parent_id":85837769,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american"
+    ]
+},
+  "bbox": [
+    -117.001887,
+    46.411505,
+    -117.001887,
+    46.411505
+],
+  "geometry": {"coordinates":[-117.001887,46.411505],"type":"Point"}
+}

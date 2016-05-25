@@ -1,0 +1,77 @@
+{
+  "id": 857546825,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-116.229134,43.560919,-116.229134,43.560919",
+    "geom:latitude":43.560919,
+    "geom:longitude":-116.229134,
+    "iso:country":"US",
+    "sg:address":"4474 de Haviland St",
+    "sg:city":"Boise",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 422 7915",
+    "sg:postcode":"83705",
+    "sg:province":"ID",
+    "sg:tags":[
+        "state",
+        "security"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        102527733,
+        85876337,
+        102191575,
+        85633793,
+        85937923,
+        102086087,
+        85688657
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1npbm1Iucr2U9KJ3rtxSuk_43.560919_-116.229134@1294099250"
+    },
+    "wof:country":"US",
+    "wof:created":1464202871,
+    "wof:geomhash":"129de3dc7182c63be9d0038575f5d723",
+    "wof:hierarchy":[
+        {
+            "campus_id":102527733,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086087,
+            "locality_id":85937923,
+            "neighbourhood_id":85876337,
+            "region_id":85688657,
+            "venue_id":857546825
+        }
+    ],
+    "wof:id":857546825,
+    "wof:lastmodified":1464202871,
+    "wof:name":"National Guard",
+    "wof:parent_id":102527733,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "state",
+        "security"
+    ]
+},
+  "bbox": [
+    -116.229134,
+    43.560919,
+    -116.229134,
+    43.560919
+],
+  "geometry": {"coordinates":[-116.229134,43.560919],"type":"Point"}
+}

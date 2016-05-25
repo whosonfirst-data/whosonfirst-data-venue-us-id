@@ -1,0 +1,71 @@
+{
+  "id": 857537049,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-116.561545,43.57121,-116.561545,43.57121",
+    "geom:latitude":43.57121,
+    "geom:longitude":-116.561545,
+    "iso:country":"US",
+    "sg:address":"716 16th Ave S",
+    "sg:city":"Nampa",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 467 1311",
+    "sg:postcode":"83651",
+    "sg:province":"ID",
+    "sg:tags":[
+        "dentist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85938009,
+        102085081,
+        85827787
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_38MmKerhuuqsP601GvZhCh_43.571210_-116.561545@1294099250"
+    },
+    "wof:country":"US",
+    "wof:created":1464202681,
+    "wof:geomhash":"84997f075ce34d71cd426c69d3c697f3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085081,
+            "locality_id":85938009,
+            "neighbourhood_id":85827787,
+            "region_id":85688657,
+            "venue_id":857537049
+        }
+    ],
+    "wof:id":857537049,
+    "wof:lastmodified":1464202681,
+    "wof:name":"Thomas R Waskow DDS",
+    "wof:parent_id":85827787,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dentist"
+    ]
+},
+  "bbox": [
+    -116.561545,
+    43.57121,
+    -116.561545,
+    43.57121
+],
+  "geometry": {"coordinates":[-116.561545,43.57121],"type":"Point"}
+}

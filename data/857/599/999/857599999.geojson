@@ -1,0 +1,69 @@
+{
+  "id": 857599999,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-116.780775,47.699418,-116.780775,47.699418",
+    "geom:latitude":47.699418,
+    "geom:longitude":-116.780775,
+    "iso:country":"US",
+    "sg:address":"2520 N 4th St",
+    "sg:city":"Coeur D Alene",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Bakery",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 664 1701",
+    "sg:postcode":"83814",
+    "sg:province":"ID",
+    "sg:tags":[
+        "doughnut"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85821457,
+        102086085
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0GuAiaXXRmICe6DxqY6hcE_47.699418_-116.780775@1294099250"
+    },
+    "wof:country":"US",
+    "wof:created":1464203983,
+    "wof:geomhash":"bccfb31ad383466c5b4c5c9dd9dc7a67",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086085,
+            "neighbourhood_id":85821457,
+            "region_id":85688657,
+            "venue_id":857599999
+        }
+    ],
+    "wof:id":857599999,
+    "wof:lastmodified":1464203983,
+    "wof:name":"Davis Donuts",
+    "wof:parent_id":85821457,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "doughnut"
+    ]
+},
+  "bbox": [
+    -116.780775,
+    47.699418,
+    -116.780775,
+    47.699418
+],
+  "geometry": {"coordinates":[-116.78077500000001,47.699418],"type":"Point"}
+}

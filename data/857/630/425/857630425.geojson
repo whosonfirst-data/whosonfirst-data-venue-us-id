@@ -1,0 +1,72 @@
+{
+  "id": 857630425,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-116.895288,47.708481,-116.895288,47.708481",
+    "geom:latitude":47.708481,
+    "geom:longitude":-116.895288,
+    "iso:country":"US",
+    "sg:address":"325 N Ross Point Rd",
+    "sg:city":"Post Falls",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/id/post-falls-rathdrum/198416-kfc---kentucky-fried-chicken/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 773 3534",
+    "sg:postcode":"83854",
+    "sg:province":"ID",
+    "sg:tags":[
+        "american",
+        "chicken"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85821457,
+        102086085
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7bOswLpnc9hsx8CzSrfZhy_47.708481_-116.895288@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464204674,
+    "wof:geomhash":"88876e025cd8664d55d52178ff43337d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086085,
+            "neighbourhood_id":85821457,
+            "region_id":85688657,
+            "venue_id":857630425
+        }
+    ],
+    "wof:id":857630425,
+    "wof:lastmodified":1464204674,
+    "wof:name":"KFC - Kentucky Fried Chicken",
+    "wof:parent_id":85821457,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "chicken"
+    ]
+},
+  "bbox": [
+    -116.895288,
+    47.708481,
+    -116.895288,
+    47.708481
+],
+  "geometry": {"coordinates":[-116.89528799999999,47.708481],"type":"Point"}
+}

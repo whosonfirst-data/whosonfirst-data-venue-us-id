@@ -1,0 +1,72 @@
+{
+  "id": 857630291,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-116.068215,47.533748,-116.068215,47.533748",
+    "geom:latitude":47.533748,
+    "geom:longitude":-116.068215,
+    "iso:country":"US",
+    "sg:address":"2 Emerson Ln",
+    "sg:city":"Kellogg",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/id/kellogg/3491-the-veranda-restaurant/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 783 2625",
+    "sg:postcode":"83837",
+    "sg:province":"ID",
+    "sg:tags":[
+        "italian"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85937825,
+        102086103,
+        85849049
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_36R3JMZDA8WWJ9LCqwwwdG_47.533748_-116.068215@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464204671,
+    "wof:geomhash":"f02f1cb6dceb447e3303020e047d46a7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086103,
+            "locality_id":85937825,
+            "neighbourhood_id":85849049,
+            "region_id":85688657,
+            "venue_id":857630291
+        }
+    ],
+    "wof:id":857630291,
+    "wof:lastmodified":1464204671,
+    "wof:name":"The Veranda Restaurant",
+    "wof:parent_id":85849049,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "italian"
+    ]
+},
+  "bbox": [
+    -116.068215,
+    47.533748,
+    -116.068215,
+    47.533748
+],
+  "geometry": {"coordinates":[-116.068215,47.533748],"type":"Point"}
+}

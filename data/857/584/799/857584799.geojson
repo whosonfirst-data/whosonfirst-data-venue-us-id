@@ -1,0 +1,71 @@
+{
+  "id": 857584799,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-116.122713,47.53495,-116.122713,47.53495",
+    "geom:latitude":47.53495,
+    "geom:longitude":-116.122713,
+    "iso:country":"US",
+    "sg:address":"302 S Main St",
+    "sg:city":"Kellogg",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Jewelry",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 786 9301",
+    "sg:postcode":"83837",
+    "sg:province":"ID",
+    "sg:tags":[
+        "jeweler"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85937825,
+        102086103,
+        85849049
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4Ret6B89r9YgoPnoY90SSr_47.534950_-116.122713@1294099250"
+    },
+    "wof:country":"US",
+    "wof:created":1464203640,
+    "wof:geomhash":"44fe75a549dd8b0968db0a4b8d5dc953",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086103,
+            "locality_id":85937825,
+            "neighbourhood_id":85849049,
+            "region_id":85688657,
+            "venue_id":857584799
+        }
+    ],
+    "wof:id":857584799,
+    "wof:lastmodified":1464203640,
+    "wof:name":"Sass Jewelry",
+    "wof:parent_id":85849049,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "jeweler"
+    ]
+},
+  "bbox": [
+    -116.122713,
+    47.53495,
+    -116.122713,
+    47.53495
+],
+  "geometry": {"coordinates":[-116.122713,47.53495],"type":"Point"}
+}

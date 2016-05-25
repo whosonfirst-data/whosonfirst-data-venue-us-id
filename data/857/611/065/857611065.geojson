@@ -1,0 +1,71 @@
+{
+  "id": 857611065,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-116.78062,47.685375,-116.78062,47.685375",
+    "geom:latitude":47.685375,
+    "geom:longitude":-116.78062,
+    "iso:country":"US",
+    "sg:address":"1148 N 4th St",
+    "sg:city":"Coeur D Alene",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 664 9319",
+    "sg:postcode":"83814",
+    "sg:province":"ID",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85821457,
+        102086085
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0rjFmbYMX8ddbr1f35nq8E_47.685375_-116.780620@1294099250"
+    },
+    "wof:country":"US",
+    "wof:created":1464204228,
+    "wof:geomhash":"f2ac89bf229273f6a77d81c54494f557",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086085,
+            "neighbourhood_id":85821457,
+            "region_id":85688657,
+            "venue_id":857611065
+        }
+    ],
+    "wof:id":857611065,
+    "wof:lastmodified":1464204228,
+    "wof:name":"Boller's Automotive",
+    "wof:parent_id":85821457,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -116.78062,
+    47.685375,
+    -116.78062,
+    47.685375
+],
+  "geometry": {"coordinates":[-116.78062,47.685375],"type":"Point"}
+}

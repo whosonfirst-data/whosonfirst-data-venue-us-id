@@ -1,0 +1,84 @@
+{
+  "id": 857507799,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-116.793276,47.715501,-116.793276,47.715501",
+    "geom:latitude":47.715501,
+    "geom:longitude":-116.793276,
+    "iso:country":"US",
+    "sg:address":"711 W Kathleen Ave",
+    "sg:city":"Coeur D Alene",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"School",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 676 1667",
+    "sg:postcode":"83815",
+    "sg:province":"ID",
+    "sg:tags":[
+        "academic",
+        "special"
+    ],
+    "sg:website":"www.cdacharter.org",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85821457,
+        102086085,
+        102191575,
+        85938163,
+        85806325
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4IURn5tnYs0tNqAQyIMUCn_47.715501_-116.793276@1294099250"
+    },
+    "wof:country":"US",
+    "wof:created":1464202102,
+    "wof:geomhash":"395fb9801116e1fa93ea8730e862d088",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086085,
+            "neighbourhood_id":85821457,
+            "region_id":85688657,
+            "venue_id":857507799
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086085,
+            "locality_id":85938163,
+            "neighbourhood_id":85806325,
+            "region_id":85688657,
+            "venue_id":857507799
+        }
+    ],
+    "wof:id":857507799,
+    "wof:lastmodified":1464202102,
+    "wof:name":"Couer D Alene Charter Public",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "academic",
+        "special"
+    ]
+},
+  "bbox": [
+    -116.793276,
+    47.715501,
+    -116.793276,
+    47.715501
+],
+  "geometry": {"coordinates":[-116.79327600000001,47.715501],"type":"Point"}
+}

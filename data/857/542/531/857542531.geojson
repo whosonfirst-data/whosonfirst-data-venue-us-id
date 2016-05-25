@@ -1,0 +1,73 @@
+{
+  "id": 857542531,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-116.348256,43.590299,-116.348256,43.590299",
+    "geom:latitude":43.590299,
+    "geom:longitude":-116.348256,
+    "iso:country":"US",
+    "sg:address":"3581 E Overland Rd",
+    "sg:city":"Meridian",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 846 7494",
+    "sg:postcode":"83642",
+    "sg:province":"ID",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85937915,
+        102086087,
+        85805083
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2IB8h3eOOYyo061DqjYkNo_43.590299_-116.348256@1294099250"
+    },
+    "wof:country":"US",
+    "wof:created":1464202792,
+    "wof:geomhash":"6a13356d42e7812e933ea62b440d5f40",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086087,
+            "locality_id":85937915,
+            "neighbourhood_id":85805083,
+            "region_id":85688657,
+            "venue_id":857542531
+        }
+    ],
+    "wof:id":857542531,
+    "wof:lastmodified":1464202792,
+    "wof:name":"Advanced Open Imaging",
+    "wof:parent_id":85805083,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -116.348256,
+    43.590299,
+    -116.348256,
+    43.590299
+],
+  "geometry": {"coordinates":[-116.34825600000001,43.590299],"type":"Point"}
+}

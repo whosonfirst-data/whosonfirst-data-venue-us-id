@@ -1,0 +1,73 @@
+{
+  "id": 857527287,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-116.381361,43.604851,-116.381361,43.604851",
+    "geom:latitude":43.604851,
+    "geom:longitude":-116.381361,
+    "iso:country":"US",
+    "sg:address":"850 E Franklin Rd",
+    "sg:city":"Meridian",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 884 1891",
+    "sg:postcode":"83642",
+    "sg:province":"ID",
+    "sg:tags":[
+        "concrete",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85937915,
+        102086087,
+        85805083
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_12BuBQDcmKLMNiPXB7oKFy_43.604851_-116.381361@1294099250"
+    },
+    "wof:country":"US",
+    "wof:created":1464202491,
+    "wof:geomhash":"2493036ee6be1182fd37ebbb044d70a3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086087,
+            "locality_id":85937915,
+            "neighbourhood_id":85805083,
+            "region_id":85688657,
+            "venue_id":857527287
+        }
+    ],
+    "wof:id":857527287,
+    "wof:lastmodified":1464202491,
+    "wof:name":"Concrete Maintenance",
+    "wof:parent_id":85805083,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "concrete",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -116.381361,
+    43.604851,
+    -116.381361,
+    43.604851
+],
+  "geometry": {"coordinates":[-116.381361,43.604851],"type":"Point"}
+}

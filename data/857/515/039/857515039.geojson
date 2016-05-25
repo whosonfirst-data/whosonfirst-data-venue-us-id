@@ -1,0 +1,73 @@
+{
+  "id": 857515039,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-116.941748,47.708288,-116.941748,47.708288",
+    "geom:latitude":47.708288,
+    "geom:longitude":-116.941748,
+    "iso:country":"US",
+    "sg:address":"515 E 3rd Ave",
+    "sg:city":"Post Falls",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 773 7715",
+    "sg:postcode":"83854",
+    "sg:province":"ID",
+    "sg:tags":[
+        "transmission"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        102191575,
+        85633793,
+        85938145,
+        102086085,
+        85833263
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4plqBBfZ0JGotcy6KSdrqw_47.708288_-116.941748@1294099250"
+    },
+    "wof:country":"US",
+    "wof:created":1464202252,
+    "wof:geomhash":"3e606e91968d6654c56f5685a6acfcf6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086085,
+            "locality_id":85938145,
+            "neighbourhood_id":85833263,
+            "region_id":85688657,
+            "venue_id":857515039
+        }
+    ],
+    "wof:id":857515039,
+    "wof:lastmodified":1464202252,
+    "wof:name":"Pat's Trans-Doc",
+    "wof:parent_id":85833263,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "transmission"
+    ]
+},
+  "bbox": [
+    -116.941748,
+    47.708288,
+    -116.941748,
+    47.708288
+],
+  "geometry": {"coordinates":[-116.941748,47.708288],"type":"Point"}
+}

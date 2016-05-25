@@ -1,0 +1,71 @@
+{
+  "id": 857603371,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-116.836988,47.725832,-116.836988,47.725832",
+    "geom:latitude":47.725832,
+    "geom:longitude":-116.836988,
+    "iso:country":"US",
+    "sg:address":"4930 Industrial Way",
+    "sg:city":"Coeur D Alene",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 664 2268",
+    "sg:postcode":"83815",
+    "sg:province":"ID",
+    "sg:tags":[
+        "automobile",
+        "customizing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85821457,
+        102086085
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0zN8wi25a04xCqq9Cjvdvf_47.725832_-116.836988@1294099250"
+    },
+    "wof:country":"US",
+    "wof:created":1464204060,
+    "wof:geomhash":"cff1cd7bfb40aebb867b8bfb3a87f93e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086085,
+            "neighbourhood_id":85821457,
+            "region_id":85688657,
+            "venue_id":857603371
+        }
+    ],
+    "wof:id":857603371,
+    "wof:lastmodified":1464204060,
+    "wof:name":"Colorflex Bedliners",
+    "wof:parent_id":85821457,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automobile",
+        "customizing"
+    ]
+},
+  "bbox": [
+    -116.836988,
+    47.725832,
+    -116.836988,
+    47.725832
+],
+  "geometry": {"coordinates":[-116.83698800000001,47.725832],"type":"Point"}
+}

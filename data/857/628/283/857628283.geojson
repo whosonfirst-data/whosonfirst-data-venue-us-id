@@ -1,0 +1,73 @@
+{
+  "id": 857628283,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-116.355954,43.599748,-116.355954,43.599748",
+    "geom:latitude":43.599748,
+    "geom:longitude":-116.355954,
+    "iso:country":"US",
+    "sg:address":"3100 E Magic View Dr",
+    "sg:city":"Meridian",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/id/boise-city/212100-mcdonalds/menu/",
+    "sg:owner":"simplegeo",
+    "sg:postcode":"83642",
+    "sg:province":"ID",
+    "sg:tags":[
+        "burger",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85937915,
+        102086087,
+        85805083
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5rxUljioG1j40mZFCmWGee_43.599748_-116.355954@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464204629,
+    "wof:geomhash":"3dacadc827d333e89d583654dda87d62",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086087,
+            "locality_id":85937915,
+            "neighbourhood_id":85805083,
+            "region_id":85688657,
+            "venue_id":857628283
+        }
+    ],
+    "wof:id":857628283,
+    "wof:lastmodified":1464204629,
+    "wof:name":"McDonald's",
+    "wof:parent_id":85805083,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american"
+    ]
+},
+  "bbox": [
+    -116.355954,
+    43.599748,
+    -116.355954,
+    43.599748
+],
+  "geometry": {"coordinates":[-116.355954,43.599748],"type":"Point"}
+}

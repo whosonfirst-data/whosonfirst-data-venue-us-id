@@ -1,0 +1,73 @@
+{
+  "id": 857516683,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-116.594996,43.566667,-116.594996,43.566667",
+    "geom:latitude":43.566667,
+    "geom:longitude":-116.594996,
+    "iso:country":"US",
+    "sg:address":"317 Creekside Pl",
+    "sg:city":"Nampa",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 463 4299",
+    "sg:postcode":"83686",
+    "sg:province":"ID",
+    "sg:tags":[
+        "tile",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85938009,
+        102085081,
+        85827787
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1ymLQgx2h76l2rv9iejde7_43.566667_-116.594996@1294099250"
+    },
+    "wof:country":"US",
+    "wof:created":1464202283,
+    "wof:geomhash":"38a0e74bbcfa01b47755cf8dced76658",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085081,
+            "locality_id":85938009,
+            "neighbourhood_id":85827787,
+            "region_id":85688657,
+            "venue_id":857516683
+        }
+    ],
+    "wof:id":857516683,
+    "wof:lastmodified":1464202283,
+    "wof:name":"Ben Haragos",
+    "wof:parent_id":85827787,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "tile",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -116.594996,
+    43.566667,
+    -116.594996,
+    43.566667
+],
+  "geometry": {"coordinates":[-116.59499599999999,43.566667],"type":"Point"}
+}

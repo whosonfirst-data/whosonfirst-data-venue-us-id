@@ -1,0 +1,73 @@
+{
+  "id": 857597407,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-116.370687,43.59582,-116.370687,43.59582",
+    "geom:latitude":43.59582,
+    "geom:longitude":-116.370687,
+    "iso:country":"US",
+    "sg:address":"2068 E Bentley Ave",
+    "sg:city":"Meridian",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 888 1113",
+    "sg:postcode":"83642",
+    "sg:province":"ID",
+    "sg:tags":[
+        "well",
+        "drilling"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85937915,
+        102086087,
+        85805083
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_72qLbKmTOK93lqDMvPudgm_43.595820_-116.370687@1294099250"
+    },
+    "wof:country":"US",
+    "wof:created":1464203930,
+    "wof:geomhash":"71db988dfc9fea48cb7afaf9d6c067bc",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086087,
+            "locality_id":85937915,
+            "neighbourhood_id":85805083,
+            "region_id":85688657,
+            "venue_id":857597407
+        }
+    ],
+    "wof:id":857597407,
+    "wof:lastmodified":1464203930,
+    "wof:name":"Dennis Phipps Well Drilling",
+    "wof:parent_id":85805083,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "well",
+        "drilling"
+    ]
+},
+  "bbox": [
+    -116.370687,
+    43.59582,
+    -116.370687,
+    43.59582
+],
+  "geometry": {"coordinates":[-116.370687,43.59582],"type":"Point"}
+}

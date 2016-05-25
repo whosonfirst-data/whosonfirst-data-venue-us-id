@@ -1,0 +1,71 @@
+{
+  "id": 857547419,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-116.60813,43.596304,-116.60813,43.596304",
+    "geom:latitude":43.596304,
+    "geom:longitude":-116.60813,
+    "iso:country":"US",
+    "sg:address":"1404 Burnett Dr",
+    "sg:city":"Nampa",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 465 5064",
+    "sg:postcode":"83651",
+    "sg:province":"ID",
+    "sg:tags":[
+        "house"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85938009,
+        102085081,
+        85827787
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0LIxEvbKxOiNubksJMr283_43.596304_-116.608130@1294099250"
+    },
+    "wof:country":"US",
+    "wof:created":1464202881,
+    "wof:geomhash":"69026d9193d67761a5f84094edcd7dfe",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085081,
+            "locality_id":85938009,
+            "neighbourhood_id":85827787,
+            "region_id":85688657,
+            "venue_id":857547419
+        }
+    ],
+    "wof:id":857547419,
+    "wof:lastmodified":1464202881,
+    "wof:name":"Inland Builders",
+    "wof:parent_id":85827787,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "house"
+    ]
+},
+  "bbox": [
+    -116.60813,
+    43.596304,
+    -116.60813,
+    43.596304
+],
+  "geometry": {"coordinates":[-116.60813,43.596304],"type":"Point"}
+}

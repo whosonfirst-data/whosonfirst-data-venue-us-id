@@ -1,0 +1,90 @@
+{
+  "id": 857601475,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-116.786635,47.726147,-116.786635,47.726147",
+    "geom:latitude":47.726147,
+    "geom:longitude":-116.786635,
+    "iso:country":"US",
+    "sg:address":"5872 N Government Way",
+    "sg:city":"Dalton Gardens",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Furniture",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Home & Garden",
+            "subcategory":"Furniture",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 762 7064",
+    "sg:postcode":"83815",
+    "sg:province":"ID",
+    "sg:tags":[
+        "household",
+        "wood",
+        "mfg"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85821457,
+        102086085,
+        102191575,
+        85938163,
+        85806325
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6EJ5IYmmu2H3wAiL9Efke0_47.726147_-116.786635@1294099250"
+    },
+    "wof:country":"US",
+    "wof:created":1464204017,
+    "wof:geomhash":"1a1032478a97bb0252714e3ca3dd697b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086085,
+            "neighbourhood_id":85821457,
+            "region_id":85688657,
+            "venue_id":857601475
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086085,
+            "locality_id":85938163,
+            "neighbourhood_id":85806325,
+            "region_id":85688657,
+            "venue_id":857601475
+        }
+    ],
+    "wof:id":857601475,
+    "wof:lastmodified":1464204017,
+    "wof:name":"North Idaho Log Furniture Co",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "household",
+        "wood",
+        "mfg"
+    ]
+},
+  "bbox": [
+    -116.786635,
+    47.726147,
+    -116.786635,
+    47.726147
+],
+  "geometry": {"coordinates":[-116.786635,47.726147],"type":"Point"}
+}

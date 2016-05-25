@@ -1,0 +1,70 @@
+{
+  "id": 857544999,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-116.787713,47.694897,-116.787713,47.694897",
+    "geom:latitude":47.694897,
+    "geom:longitude":-116.787713,
+    "iso:country":"US",
+    "sg:address":"202 W Ironwood Dr",
+    "sg:city":"Coeur D Alene",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Fruits & Vegetables",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 664 3206",
+    "sg:postcode":"83814",
+    "sg:province":"ID",
+    "sg:tags":[
+        "juice"
+    ],
+    "sg:website":"www.jambajuice.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85821457,
+        102086085
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_10anfOsFpFNW8zKESgE842_47.694897_-116.787713@1294099250"
+    },
+    "wof:country":"US",
+    "wof:created":1464202840,
+    "wof:geomhash":"d12b4c5dc0e726e1c64a1c1835e4b040",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086085,
+            "neighbourhood_id":85821457,
+            "region_id":85688657,
+            "venue_id":857544999
+        }
+    ],
+    "wof:id":857544999,
+    "wof:lastmodified":1464202840,
+    "wof:name":"Jamba Juice",
+    "wof:parent_id":85821457,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "juice"
+    ]
+},
+  "bbox": [
+    -116.787713,
+    47.694897,
+    -116.787713,
+    47.694897
+],
+  "geometry": {"coordinates":[-116.787713,47.694897],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 857595983,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-116.777168,47.768611,-116.777168,47.768611",
+    "geom:latitude":47.768611,
+    "geom:longitude":-116.777168,
+    "iso:country":"US",
+    "sg:address":"10755 N Ash St",
+    "sg:city":"Hayden Lake",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 762 4775",
+    "sg:postcode":"83835",
+    "sg:province":"ID",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85821457,
+        102086085
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_01Sb2OeVZ3VhBde4Mudyd5_47.768611_-116.777168@1294099250"
+    },
+    "wof:country":"US",
+    "wof:created":1464203895,
+    "wof:geomhash":"33347f4a7b878d69163d0299a0ba6a01",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086085,
+            "neighbourhood_id":85821457,
+            "region_id":85688657,
+            "venue_id":857595983
+        }
+    ],
+    "wof:id":857595983,
+    "wof:lastmodified":1464203895,
+    "wof:name":"Wiltrek Automotive",
+    "wof:parent_id":85821457,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -116.777168,
+    47.768611,
+    -116.777168,
+    47.768611
+],
+  "geometry": {"coordinates":[-116.777168,47.768611],"type":"Point"}
+}

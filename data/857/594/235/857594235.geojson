@@ -1,0 +1,71 @@
+{
+  "id": 857594235,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-116.793908,47.694308,-116.793908,47.694308",
+    "geom:latitude":47.694308,
+    "geom:longitude":-116.793908,
+    "iso:country":"US",
+    "sg:address":"950 W Ironwood Dr",
+    "sg:city":"Coeur D Alene",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 765 5457",
+    "sg:postcode":"83814",
+    "sg:province":"ID",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85821457,
+        102086085
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_77ggkjqfsqLU5Sbzpqz8hK_47.694308_-116.793908@1294099250"
+    },
+    "wof:country":"US",
+    "wof:created":1464203853,
+    "wof:geomhash":"78cd0de13e5d86a8d65434fb0b6ee2bf",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086085,
+            "neighbourhood_id":85821457,
+            "region_id":85688657,
+            "venue_id":857594235
+        }
+    ],
+    "wof:id":857594235,
+    "wof:lastmodified":1464203853,
+    "wof:name":"Coeur D'Alene Arthritis Clinic",
+    "wof:parent_id":85821457,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -116.793908,
+    47.694308,
+    -116.793908,
+    47.694308
+],
+  "geometry": {"coordinates":[-116.793908,47.694308],"type":"Point"}
+}

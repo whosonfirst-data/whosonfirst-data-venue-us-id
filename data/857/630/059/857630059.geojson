@@ -1,0 +1,72 @@
+{
+  "id": 857630059,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-116.780694,47.698021,-116.780694,47.698021",
+    "geom:latitude":47.698021,
+    "geom:longitude":-116.780694,
+    "iso:country":"US",
+    "sg:address":"2300 N 4th St",
+    "sg:city":"Coeur D Alene",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/id/coeur-dalene/6726-dennys/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 664 3712",
+    "sg:postcode":"83814",
+    "sg:province":"ID",
+    "sg:tags":[
+        "american",
+        "diner"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85821457,
+        102086085
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_097RCVH4UnxuACGU3Ht8mX_47.698021_-116.780694@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464204661,
+    "wof:geomhash":"1e780a57046be1c8e762eae88c0f0783",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086085,
+            "neighbourhood_id":85821457,
+            "region_id":85688657,
+            "venue_id":857630059
+        }
+    ],
+    "wof:id":857630059,
+    "wof:lastmodified":1464204661,
+    "wof:name":"Denny's",
+    "wof:parent_id":85821457,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "diner"
+    ]
+},
+  "bbox": [
+    -116.780694,
+    47.698021,
+    -116.780694,
+    47.698021
+],
+  "geometry": {"coordinates":[-116.780694,47.698021],"type":"Point"}
+}

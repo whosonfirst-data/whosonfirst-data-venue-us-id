@@ -1,0 +1,74 @@
+{
+  "id": 857575675,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-116.553159,43.595266,-116.553159,43.595266",
+    "geom:latitude":43.595266,
+    "geom:longitude":-116.553159,
+    "iso:country":"US",
+    "sg:address":"1201 Franklin Blvd",
+    "sg:city":"Nampa",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Pet Food",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 465 3626",
+    "sg:postcode":"83687",
+    "sg:province":"ID",
+    "sg:tags":[
+        "dog",
+        "cat"
+    ],
+    "sg:website":"www.zamzows.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85938009,
+        102085081,
+        85827787
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0Z6CZykFEyCGIpEeCzU2ku_43.595266_-116.553159@1294099250"
+    },
+    "wof:country":"US",
+    "wof:created":1464203464,
+    "wof:geomhash":"0d76e0eff6f6e5c5ac8c13a1d8de4839",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085081,
+            "locality_id":85938009,
+            "neighbourhood_id":85827787,
+            "region_id":85688657,
+            "venue_id":857575675
+        }
+    ],
+    "wof:id":857575675,
+    "wof:lastmodified":1464203464,
+    "wof:name":"Zamzows",
+    "wof:parent_id":85827787,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dog",
+        "cat"
+    ]
+},
+  "bbox": [
+    -116.553159,
+    43.595266,
+    -116.553159,
+    43.595266
+],
+  "geometry": {"coordinates":[-116.55315899999999,43.595266],"type":"Point"}
+}

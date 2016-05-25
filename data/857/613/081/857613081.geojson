@@ -1,0 +1,69 @@
+{
+  "id": 857613081,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-116.859576,47.822528,-116.859576,47.822528",
+    "geom:latitude":47.822528,
+    "geom:longitude":-116.859576,
+    "iso:country":"US",
+    "sg:address":"6250 W Mallory Rd",
+    "sg:city":"Rathdrum",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 687 9380",
+    "sg:postcode":"83858",
+    "sg:province":"ID",
+    "sg:tags":[
+        "telephone"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85821457,
+        102086085
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1eXqJmtw61wRiWEZAmnTRi_47.822528_-116.859576@1294099250"
+    },
+    "wof:country":"US",
+    "wof:created":1464204282,
+    "wof:geomhash":"eaf23a2408f542aae3e0e75c1e272066",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086085,
+            "neighbourhood_id":85821457,
+            "region_id":85688657,
+            "venue_id":857613081
+        }
+    ],
+    "wof:id":857613081,
+    "wof:lastmodified":1464204282,
+    "wof:name":"Cascade Communications",
+    "wof:parent_id":85821457,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "telephone"
+    ]
+},
+  "bbox": [
+    -116.859576,
+    47.822528,
+    -116.859576,
+    47.822528
+],
+  "geometry": {"coordinates":[-116.859576,47.822528],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 857577443,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-116.569761,43.571185,-116.569761,43.571185",
+    "geom:latitude":43.571185,
+    "geom:longitude":-116.569761,
+    "iso:country":"US",
+    "sg:address":"1115 12th Ave S",
+    "sg:city":"Nampa",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Health Practitioner",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 468 0485",
+    "sg:postcode":"83651",
+    "sg:province":"ID",
+    "sg:tags":[
+        "physician"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85938009,
+        102085081,
+        85827787
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3ENADdZ6OQRL9EJR7RDiZk_43.571185_-116.569761@1294099250"
+    },
+    "wof:country":"US",
+    "wof:created":1464203500,
+    "wof:geomhash":"145dfcc9ea2ed5d0ecd904517e088124",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085081,
+            "locality_id":85938009,
+            "neighbourhood_id":85827787,
+            "region_id":85688657,
+            "venue_id":857577443
+        }
+    ],
+    "wof:id":857577443,
+    "wof:lastmodified":1464203500,
+    "wof:name":"Mountain Family Wellness",
+    "wof:parent_id":85827787,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician"
+    ]
+},
+  "bbox": [
+    -116.569761,
+    43.571185,
+    -116.569761,
+    43.571185
+],
+  "geometry": {"coordinates":[-116.569761,43.571185],"type":"Point"}
+}

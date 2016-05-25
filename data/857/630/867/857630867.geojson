@@ -1,0 +1,83 @@
+{
+  "id": 857630867,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-116.391344,43.600161,-116.391344,43.600161",
+    "geom:latitude":43.600161,
+    "geom:longitude":-116.391344,
+    "iso:country":"US",
+    "sg:address":"107 E Watertower St",
+    "sg:city":"Meridian",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Ice Cream",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/id/boise-city/172797-dairy-queen/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 888 9029",
+    "sg:postcode":"83642",
+    "sg:province":"ID",
+    "sg:tags":[
+        "burger",
+        "american",
+        "ice",
+        "cream"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85937915,
+        102086087,
+        85805083
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1Ao9vYECAItZaT9PEg8Vyl_43.600436_-116.391680@1294099250"
+    },
+    "wof:country":"US",
+    "wof:created":1464204682,
+    "wof:geomhash":"18a50123f153749a8ed1d7a400f45013",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086087,
+            "locality_id":85937915,
+            "neighbourhood_id":85805083,
+            "region_id":85688657,
+            "venue_id":857630867
+        }
+    ],
+    "wof:id":857630867,
+    "wof:lastmodified":1464204682,
+    "wof:name":"Dairy Queen",
+    "wof:parent_id":85805083,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american",
+        "ice",
+        "cream"
+    ]
+},
+  "bbox": [
+    -116.391344,
+    43.600161,
+    -116.391344,
+    43.600161
+],
+  "geometry": {"coordinates":[-116.391344,43.600161],"type":"Point"}
+}

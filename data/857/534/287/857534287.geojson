@@ -1,0 +1,68 @@
+{
+  "id": 857534287,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-116.261843,43.569165,-116.261843,43.569165",
+    "geom:latitude":43.569165,
+    "geom:longitude":-116.261843,
+    "iso:country":"US",
+    "sg:address":"6372 W Contractors St",
+    "sg:city":"Boise",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Cleaning & Sanitation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 424 7616",
+    "sg:postcode":"83709",
+    "sg:province":"ID",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        102191575,
+        85633793,
+        85937923,
+        102086087,
+        85825393
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6d9PhDvow56c0BbkG7XcSl_43.569165_-116.261843@1294099250"
+    },
+    "wof:country":"US",
+    "wof:created":1464202626,
+    "wof:geomhash":"9578b6accf17eb551c357f0257296566",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086087,
+            "locality_id":85937923,
+            "neighbourhood_id":85825393,
+            "region_id":85688657,
+            "venue_id":857534287
+        }
+    ],
+    "wof:id":857534287,
+    "wof:lastmodified":1464202626,
+    "wof:name":"Cold Clean Inc",
+    "wof:parent_id":85825393,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -116.261843,
+    43.569165,
+    -116.261843,
+    43.569165
+],
+  "geometry": {"coordinates":[-116.261843,43.569165],"type":"Point"}
+}

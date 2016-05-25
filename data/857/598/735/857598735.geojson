@@ -1,0 +1,71 @@
+{
+  "id": 857598735,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-116.766772,47.71596,-116.766772,47.71596",
+    "geom:latitude":47.71596,
+    "geom:longitude":-116.766772,
+    "iso:country":"US",
+    "sg:address":"1291 E Sebrina Ave",
+    "sg:city":"Coeur D Alene",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 765 0447",
+    "sg:postcode":"83815",
+    "sg:province":"ID",
+    "sg:tags":[
+        "tile",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85821457,
+        102086085
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7PJAT2d7CICUwQ7vGeJJYf_47.715960_-116.766772@1294099250"
+    },
+    "wof:country":"US",
+    "wof:created":1464203956,
+    "wof:geomhash":"042e4c83513f50721717f2ed999f6164",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086085,
+            "neighbourhood_id":85821457,
+            "region_id":85688657,
+            "venue_id":857598735
+        }
+    ],
+    "wof:id":857598735,
+    "wof:lastmodified":1464203956,
+    "wof:name":"Custom Tile Company",
+    "wof:parent_id":85821457,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "tile",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -116.766772,
+    47.71596,
+    -116.766772,
+    47.71596
+],
+  "geometry": {"coordinates":[-116.766772,47.71596],"type":"Point"}
+}

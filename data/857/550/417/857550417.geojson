@@ -1,0 +1,69 @@
+{
+  "id": 857550417,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-116.771625,47.686217,-116.771625,47.686217",
+    "geom:latitude":47.686217,
+    "geom:longitude":-116.771625,
+    "iso:country":"US",
+    "sg:address":"1134 N 10th St",
+    "sg:city":"Coeur D Alene",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Fruits & Vegetables",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 772 8414",
+    "sg:postcode":"83814",
+    "sg:province":"ID",
+    "sg:tags":[
+        "produce"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85821457,
+        102086085
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0aHlWRo49RlC8VkU2pqSpn_47.686217_-116.771625@1294099250"
+    },
+    "wof:country":"US",
+    "wof:created":1464202938,
+    "wof:geomhash":"ea4ee202be9b66d7e72b51ecc2f9d5c8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086085,
+            "neighbourhood_id":85821457,
+            "region_id":85688657,
+            "venue_id":857550417
+        }
+    ],
+    "wof:id":857550417,
+    "wof:lastmodified":1464202938,
+    "wof:name":"Produce Guys",
+    "wof:parent_id":85821457,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "produce"
+    ]
+},
+  "bbox": [
+    -116.771625,
+    47.686217,
+    -116.771625,
+    47.686217
+],
+  "geometry": {"coordinates":[-116.771625,47.686217],"type":"Point"}
+}

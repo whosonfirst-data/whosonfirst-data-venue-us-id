@@ -1,0 +1,69 @@
+{
+  "id": 857575807,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-116.786175,47.687152,-116.786175,47.687152",
+    "geom:latitude":47.687152,
+    "geom:longitude":-116.786175,
+    "iso:country":"US",
+    "sg:address":"1201 N Government Way",
+    "sg:city":"Coeur D Alene",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 667 6816",
+    "sg:postcode":"83814",
+    "sg:province":"ID",
+    "sg:tags":[
+        "grocer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85821457,
+        102086085
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_72t5mkyunIFD3bS9TVCKMO_47.687152_-116.786175@1294099250"
+    },
+    "wof:country":"US",
+    "wof:created":1464203467,
+    "wof:geomhash":"40a8c922a99ca7be23bba85d649b863e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086085,
+            "neighbourhood_id":85821457,
+            "region_id":85688657,
+            "venue_id":857575807
+        }
+    ],
+    "wof:id":857575807,
+    "wof:lastmodified":1464203467,
+    "wof:name":"Gittel's Grocery",
+    "wof:parent_id":85821457,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "grocer"
+    ]
+},
+  "bbox": [
+    -116.786175,
+    47.687152,
+    -116.786175,
+    47.687152
+],
+  "geometry": {"coordinates":[-116.786175,47.687152],"type":"Point"}
+}

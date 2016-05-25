@@ -1,0 +1,73 @@
+{
+  "id": 857539369,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-116.274305,43.633708,-116.274305,43.633708",
+    "geom:latitude":43.633708,
+    "geom:longitude":-116.274305,
+    "iso:country":"US",
+    "sg:address":"3027 N Cole Rd",
+    "sg:city":"Boise",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 378 9933",
+    "sg:postcode":"83704",
+    "sg:province":"ID",
+    "sg:tags":[
+        "school"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        102191575,
+        85633793,
+        85937923,
+        102086087,
+        85841319
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3BGo08Oylq37MxDnfppVpX_43.633708_-116.274305@1294099250"
+    },
+    "wof:country":"US",
+    "wof:created":1464202726,
+    "wof:geomhash":"bcaa825626af5ed75a26f4c2e8b40da2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086087,
+            "locality_id":85937923,
+            "neighbourhood_id":85841319,
+            "region_id":85688657,
+            "venue_id":857539369
+        }
+    ],
+    "wof:id":857539369,
+    "wof:lastmodified":1464202726,
+    "wof:name":"Boise Barber College",
+    "wof:parent_id":85841319,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "school"
+    ]
+},
+  "bbox": [
+    -116.274305,
+    43.633708,
+    -116.274305,
+    43.633708
+],
+  "geometry": {"coordinates":[-116.274305,43.633708],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 857606453,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-116.550465,43.517276,-116.550465,43.517276",
+    "geom:latitude":43.517276,
+    "geom:longitude":-116.550465,
+    "iso:country":"US",
+    "sg:address":"1621 E Lewis Ln",
+    "sg:city":"Nampa",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Water",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 466 9124",
+    "sg:postcode":"83686",
+    "sg:province":"ID",
+    "sg:tags":[
+        "supply"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85938009,
+        102085081,
+        85827787
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4LlG1e2ybMOgJueBUlz8P6_43.517276_-116.550465@1294099250"
+    },
+    "wof:country":"US",
+    "wof:created":1464204124,
+    "wof:geomhash":"cea4d31e43ba3195147b4594d59a29b8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085081,
+            "locality_id":85938009,
+            "neighbourhood_id":85827787,
+            "region_id":85688657,
+            "venue_id":857606453
+        }
+    ],
+    "wof:id":857606453,
+    "wof:lastmodified":1464204124,
+    "wof:name":"Lewis Addition Water Corp",
+    "wof:parent_id":85827787,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "supply"
+    ]
+},
+  "bbox": [
+    -116.550465,
+    43.517276,
+    -116.550465,
+    43.517276
+],
+  "geometry": {"coordinates":[-116.550465,43.517276],"type":"Point"}
+}

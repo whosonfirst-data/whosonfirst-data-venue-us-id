@@ -1,0 +1,75 @@
+{
+  "id": 857614013,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-116.430722,43.546475,-116.430722,43.546475",
+    "geom:latitude":43.546475,
+    "geom:longitude":-116.430722,
+    "iso:country":"US",
+    "sg:address":"2765 W Lake Hazel Rd",
+    "sg:city":"Meridian",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 922 9000",
+    "sg:postcode":"83642",
+    "sg:province":"ID",
+    "sg:tags":[
+        "bathtub",
+        "sink",
+        "refinishing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85937915,
+        102086087,
+        85805083
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5sE7YRxzPjHbylSkZzzx1s_43.546475_-116.430722@1294099250"
+    },
+    "wof:country":"US",
+    "wof:created":1464204301,
+    "wof:geomhash":"d0ff66ad52f6eca9c9ab702656e3ea39",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086087,
+            "locality_id":85937915,
+            "neighbourhood_id":85805083,
+            "region_id":85688657,
+            "venue_id":857614013
+        }
+    ],
+    "wof:id":857614013,
+    "wof:lastmodified":1464204301,
+    "wof:name":"Dark Star Refinishing Inc",
+    "wof:parent_id":85805083,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "bathtub",
+        "sink",
+        "refinishing"
+    ]
+},
+  "bbox": [
+    -116.430722,
+    43.546475,
+    -116.430722,
+    43.546475
+],
+  "geometry": {"coordinates":[-116.430722,43.546475],"type":"Point"}
+}

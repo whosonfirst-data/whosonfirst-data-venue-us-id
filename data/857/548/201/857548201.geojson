@@ -1,0 +1,73 @@
+{
+  "id": 857548201,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-116.415064,43.602484,-116.415064,43.602484",
+    "geom:latitude":43.602484,
+    "geom:longitude":-116.415064,
+    "iso:country":"US",
+    "sg:address":"1846 W Greenhead Dr",
+    "sg:city":"Meridian",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Management & Consulting",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 884 3012",
+    "sg:postcode":"83642",
+    "sg:province":"ID",
+    "sg:tags":[
+        "consultant",
+        "training"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85937915,
+        102086087,
+        85805083
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_186UkAlzhYaCBFyzGN3y4k_43.602484_-116.415064@1294099250"
+    },
+    "wof:country":"US",
+    "wof:created":1464202897,
+    "wof:geomhash":"e921c721ae4b956e73108d44fa97575e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086087,
+            "locality_id":85937915,
+            "neighbourhood_id":85805083,
+            "region_id":85688657,
+            "venue_id":857548201
+        }
+    ],
+    "wof:id":857548201,
+    "wof:lastmodified":1464202897,
+    "wof:name":"Technical Training Systems",
+    "wof:parent_id":85805083,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "consultant",
+        "training"
+    ]
+},
+  "bbox": [
+    -116.415064,
+    43.602484,
+    -116.415064,
+    43.602484
+],
+  "geometry": {"coordinates":[-116.415064,43.602484],"type":"Point"}
+}

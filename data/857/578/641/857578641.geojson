@@ -1,0 +1,73 @@
+{
+  "id": 857578641,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-116.443828,43.591818,-116.443828,43.591818",
+    "geom:latitude":43.591818,
+    "geom:longitude":-116.443828,
+    "iso:country":"US",
+    "sg:address":"1500 Nova Ln",
+    "sg:city":"Meridian",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Specialty",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 888 2138",
+    "sg:postcode":"83642",
+    "sg:province":"ID",
+    "sg:tags":[
+        "bars",
+        "espresso"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85937915,
+        102086087,
+        85805083
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5JPQxhrHq1IniGy3n2ACZu_43.591818_-116.443828@1294099250"
+    },
+    "wof:country":"US",
+    "wof:created":1464203523,
+    "wof:geomhash":"84c9e258941eefe7e3501ee475800053",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086087,
+            "locality_id":85937915,
+            "neighbourhood_id":85805083,
+            "region_id":85688657,
+            "venue_id":857578641
+        }
+    ],
+    "wof:id":857578641,
+    "wof:lastmodified":1464203523,
+    "wof:name":"Service Tech",
+    "wof:parent_id":85805083,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "bars",
+        "espresso"
+    ]
+},
+  "bbox": [
+    -116.443828,
+    43.591818,
+    -116.443828,
+    43.591818
+],
+  "geometry": {"coordinates":[-116.443828,43.591818],"type":"Point"}
+}

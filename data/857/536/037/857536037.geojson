@@ -1,0 +1,69 @@
+{
+  "id": 857536037,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-116.786225,47.677354,-116.786225,47.677354",
+    "geom:latitude":47.677354,
+    "geom:longitude":-116.786225,
+    "iso:country":"US",
+    "sg:address":"500 N Government Way",
+    "sg:city":"Coeur D Alene",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Hospital",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 676 1003",
+    "sg:postcode":"83814",
+    "sg:province":"ID",
+    "sg:tags":[
+        "mental"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85821457,
+        102086085
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2unQNprATvPbibPyGvRaSj_47.677354_-116.786225@1294099250"
+    },
+    "wof:country":"US",
+    "wof:created":1464202664,
+    "wof:geomhash":"60efae8289d268c443632d0b9f3a84b7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086085,
+            "neighbourhood_id":85821457,
+            "region_id":85688657,
+            "venue_id":857536037
+        }
+    ],
+    "wof:id":857536037,
+    "wof:lastmodified":1464202664,
+    "wof:name":"Mental Wellness Ctr",
+    "wof:parent_id":85821457,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mental"
+    ]
+},
+  "bbox": [
+    -116.786225,
+    47.677354,
+    -116.786225,
+    47.677354
+],
+  "geometry": {"coordinates":[-116.786225,47.677354],"type":"Point"}
+}

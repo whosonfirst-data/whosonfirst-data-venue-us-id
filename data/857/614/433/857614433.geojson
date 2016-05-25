@@ -1,0 +1,69 @@
+{
+  "id": 857614433,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-116.850999,47.701001,-116.850999,47.701001",
+    "geom:latitude":47.701001,
+    "geom:longitude":-116.850999,
+    "iso:country":"US",
+    "sg:address":"3201 N Huetter Rd",
+    "sg:city":"Coeur D Alene",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 777 7000",
+    "sg:postcode":"83814",
+    "sg:province":"ID",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85821457,
+        102086085
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1c0PJRfIWg2Ab7i4JpjE44_47.701001_-116.850999@1294099250"
+    },
+    "wof:country":"US",
+    "wof:created":1464204309,
+    "wof:geomhash":"a3e727f064dab1db6c9211b0e71507b3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086085,
+            "neighbourhood_id":85821457,
+            "region_id":85688657,
+            "venue_id":857614433
+        }
+    ],
+    "wof:id":857614433,
+    "wof:lastmodified":1464204309,
+    "wof:name":"Crescent Homes",
+    "wof:parent_id":85821457,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -116.850999,
+    47.701001,
+    -116.850999,
+    47.701001
+],
+  "geometry": {"coordinates":[-116.850999,47.701001],"type":"Point"}
+}

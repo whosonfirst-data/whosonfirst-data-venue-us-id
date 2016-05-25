@@ -1,0 +1,73 @@
+{
+  "id": 857603329,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-116.808161,47.755465,-116.808161,47.755465",
+    "geom:latitude":47.755465,
+    "geom:longitude":-116.808161,
+    "iso:country":"US",
+    "sg:address":"9390 N Ramsey Rd",
+    "sg:city":"Hayden",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 772 7206",
+    "sg:postcode":"83835",
+    "sg:province":"ID",
+    "sg:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85821457,
+        102086085
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0Y5GJ5R57B6RxBvIZqPZrQ_47.755465_-116.808161@1294099250"
+    },
+    "wof:country":"US",
+    "wof:created":1464204059,
+    "wof:geomhash":"5e96d8a623b2bebc18475a7cdea04e47",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086085,
+            "neighbourhood_id":85821457,
+            "region_id":85688657,
+            "venue_id":857603329
+        }
+    ],
+    "wof:id":857603329,
+    "wof:lastmodified":1464204059,
+    "wof:name":"Mark Bremner Trucking",
+    "wof:parent_id":85821457,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -116.808161,
+    47.755465,
+    -116.808161,
+    47.755465
+],
+  "geometry": {"coordinates":[-116.808161,47.755465],"type":"Point"}
+}

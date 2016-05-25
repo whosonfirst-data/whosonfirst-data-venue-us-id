@@ -1,0 +1,71 @@
+{
+  "id": 857576285,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-116.553142,43.589581,-116.553142,43.589581",
+    "geom:latitude":43.589581,
+    "geom:longitude":-116.553142,
+    "iso:country":"US",
+    "sg:address":"807 Franklin Blvd",
+    "sg:city":"Nampa",
+    "sg:classifiers":[
+        {
+            "category":"Travel",
+            "subcategory":"Campground",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 465 7199",
+    "sg:postcode":"83687",
+    "sg:province":"ID",
+    "sg:tags":[
+        "trailer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85938009,
+        102085081,
+        85827787
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5gSlEsCUBbnwsnKQswDcx2_43.589581_-116.553142@1294099250"
+    },
+    "wof:country":"US",
+    "wof:created":1464203476,
+    "wof:geomhash":"34af17717eabdb24498c01f761aed0ad",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085081,
+            "locality_id":85938009,
+            "neighbourhood_id":85827787,
+            "region_id":85688657,
+            "venue_id":857576285
+        }
+    ],
+    "wof:id":857576285,
+    "wof:lastmodified":1464203476,
+    "wof:name":"Mason Creek Rv Park",
+    "wof:parent_id":85827787,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "trailer"
+    ]
+},
+  "bbox": [
+    -116.553142,
+    43.589581,
+    -116.553142,
+    43.589581
+],
+  "geometry": {"coordinates":[-116.55314199999999,43.589581],"type":"Point"}
+}

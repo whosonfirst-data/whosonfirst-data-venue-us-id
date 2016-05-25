@@ -1,0 +1,85 @@
+{
+  "id": 857607539,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-116.791365,47.713423,-116.791365,47.713423",
+    "geom:latitude":47.713423,
+    "geom:longitude":-116.791365,
+    "iso:country":"US",
+    "sg:address":"235 W Sunset Ave",
+    "sg:city":"Coeur D Alene",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 765 5220",
+    "sg:postcode":"83815",
+    "sg:province":"ID",
+    "sg:tags":[
+        "spa",
+        "hot",
+        "tub"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85821457,
+        102086085,
+        102191575,
+        85938163,
+        85806325
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_30LpJKaltYpM8DdaL6YxHx_47.713423_-116.791365@1294099250"
+    },
+    "wof:country":"US",
+    "wof:created":1464204153,
+    "wof:geomhash":"7a3a779324250378ac9374540166da36",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086085,
+            "neighbourhood_id":85821457,
+            "region_id":85688657,
+            "venue_id":857607539
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086085,
+            "locality_id":85938163,
+            "neighbourhood_id":85806325,
+            "region_id":85688657,
+            "venue_id":857607539
+        }
+    ],
+    "wof:id":857607539,
+    "wof:lastmodified":1464204153,
+    "wof:name":"Pool World",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "spa",
+        "hot",
+        "tub"
+    ]
+},
+  "bbox": [
+    -116.791365,
+    47.713423,
+    -116.791365,
+    47.713423
+],
+  "geometry": {"coordinates":[-116.791365,47.713423],"type":"Point"}
+}

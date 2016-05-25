@@ -1,0 +1,71 @@
+{
+  "id": 857564211,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-116.839479,47.710617,-116.839479,47.710617",
+    "geom:latitude":47.710617,
+    "geom:longitude":-116.839479,
+    "iso:country":"US",
+    "sg:address":"3507 Buckskin Rd",
+    "sg:city":"Coeur D Alene",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 664 4040",
+    "sg:postcode":"83815",
+    "sg:province":"ID",
+    "sg:tags":[
+        "excavation",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85821457,
+        102086085
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4g2r9icUO4nxpquLzviZbE_47.710617_-116.839479@1294099250"
+    },
+    "wof:country":"US",
+    "wof:created":1464203242,
+    "wof:geomhash":"d407e69dd51ad561cb333d3cac7971da",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086085,
+            "neighbourhood_id":85821457,
+            "region_id":85688657,
+            "venue_id":857564211
+        }
+    ],
+    "wof:id":857564211,
+    "wof:lastmodified":1464203242,
+    "wof:name":"Nearpass Excavation",
+    "wof:parent_id":85821457,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "excavation",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -116.839479,
+    47.710617,
+    -116.839479,
+    47.710617
+],
+  "geometry": {"coordinates":[-116.839479,47.710617],"type":"Point"}
+}

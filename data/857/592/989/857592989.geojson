@@ -1,0 +1,71 @@
+{
+  "id": 857592989,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-116.666714,46.373442,-116.666714,46.373442",
+    "geom:latitude":46.373442,
+    "geom:longitude":-116.666714,
+    "iso:country":"US",
+    "sg:address":"902 Main St",
+    "sg:city":"Culdesac",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 843 7282",
+    "sg:postcode":"83524",
+    "sg:province":"ID",
+    "sg:tags":[
+        "church"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85937743,
+        102086039,
+        85837769
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_571TEGRgZwRQn8Azx9Ud94_46.373442_-116.666714@1294099250"
+    },
+    "wof:country":"US",
+    "wof:created":1464203827,
+    "wof:geomhash":"e485a635578bf196c7dd12429dfdd46d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086039,
+            "locality_id":85937743,
+            "neighbourhood_id":85837769,
+            "region_id":85688657,
+            "venue_id":857592989
+        }
+    ],
+    "wof:id":857592989,
+    "wof:lastmodified":1464203827,
+    "wof:name":"Culdesac Community Church",
+    "wof:parent_id":85837769,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "church"
+    ]
+},
+  "bbox": [
+    -116.666714,
+    46.373442,
+    -116.666714,
+    46.373442
+],
+  "geometry": {"coordinates":[-116.666714,46.373442],"type":"Point"}
+}

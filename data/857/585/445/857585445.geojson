@@ -1,0 +1,71 @@
+{
+  "id": 857585445,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-116.813643,47.744493,-116.813643,47.744493",
+    "geom:latitude":47.744493,
+    "geom:longitude":-116.813643,
+    "iso:country":"US",
+    "sg:address":"1914 W Prairie Ave",
+    "sg:city":"Coeur D Alene",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Aerospace",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 772 5494",
+    "sg:postcode":"83815",
+    "sg:province":"ID",
+    "sg:tags":[
+        "aircraft",
+        "mfg"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85821457,
+        102086085
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5wPanvZrX2shXwMNG7gYTf_47.744493_-116.813643@1294099250"
+    },
+    "wof:country":"US",
+    "wof:created":1464203655,
+    "wof:geomhash":"49f41b7149df224d1a0dfc8911dae659",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086085,
+            "neighbourhood_id":85821457,
+            "region_id":85688657,
+            "venue_id":857585445
+        }
+    ],
+    "wof:id":857585445,
+    "wof:lastmodified":1464203655,
+    "wof:name":"CC & B",
+    "wof:parent_id":85821457,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "aircraft",
+        "mfg"
+    ]
+},
+  "bbox": [
+    -116.813643,
+    47.744493,
+    -116.813643,
+    47.744493
+],
+  "geometry": {"coordinates":[-116.813643,47.744493],"type":"Point"}
+}

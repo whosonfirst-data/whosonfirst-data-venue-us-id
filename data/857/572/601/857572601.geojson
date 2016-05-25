@@ -1,0 +1,71 @@
+{
+  "id": 857572601,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-116.55278,43.532733,-116.55278,43.532733",
+    "geom:latitude":43.532733,
+    "geom:longitude":-116.55278,
+    "iso:country":"US",
+    "sg:address":"3806 S Powerline Rd",
+    "sg:city":"Nampa",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 465 8479",
+    "sg:postcode":"83686",
+    "sg:province":"ID",
+    "sg:tags":[
+        "state"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85938009,
+        102085081,
+        85827787
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0x2w6rE1FqglWj4X8ZouPB_43.532733_-116.552780@1294099250"
+    },
+    "wof:country":"US",
+    "wof:created":1464203401,
+    "wof:geomhash":"bb4fc50cf84f8d03d27d27e482d7e797",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085081,
+            "locality_id":85938009,
+            "neighbourhood_id":85827787,
+            "region_id":85688657,
+            "venue_id":857572601
+        }
+    ],
+    "wof:id":857572601,
+    "wof:lastmodified":1464203401,
+    "wof:name":"Fish Hatchery",
+    "wof:parent_id":85827787,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "state"
+    ]
+},
+  "bbox": [
+    -116.55278,
+    43.532733,
+    -116.55278,
+    43.532733
+],
+  "geometry": {"coordinates":[-116.55278,43.532733],"type":"Point"}
+}

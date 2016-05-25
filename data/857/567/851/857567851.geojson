@@ -1,0 +1,75 @@
+{
+  "id": 857567851,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-116.255888,43.575432,-116.255888,43.575432",
+    "geom:latitude":43.575432,
+    "geom:longitude":-116.255888,
+    "iso:country":"US",
+    "sg:address":"5932 W Victory Rd",
+    "sg:city":"Boise",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 362 2900",
+    "sg:postcode":"83709",
+    "sg:province":"ID",
+    "sg:tags":[
+        "well",
+        "drilling"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        102191575,
+        85633793,
+        85937923,
+        102086087,
+        85825393
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5MJCWcGmisFmLd9WzxmVYE_43.575432_-116.255888@1294099250"
+    },
+    "wof:country":"US",
+    "wof:created":1464203313,
+    "wof:geomhash":"475a671ae6d40e7d234fc568911c65b2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086087,
+            "locality_id":85937923,
+            "neighbourhood_id":85825393,
+            "region_id":85688657,
+            "venue_id":857567851
+        }
+    ],
+    "wof:id":857567851,
+    "wof:lastmodified":1464203313,
+    "wof:name":"Hiddleston Drilling & Pump Co",
+    "wof:parent_id":85825393,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "well",
+        "drilling"
+    ]
+},
+  "bbox": [
+    -116.255888,
+    43.575432,
+    -116.255888,
+    43.575432
+],
+  "geometry": {"coordinates":[-116.255888,43.575432],"type":"Point"}
+}

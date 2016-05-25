@@ -1,0 +1,73 @@
+{
+  "id": 857540371,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-116.572665,43.712714,-116.572665,43.712714",
+    "geom:latitude":43.712714,
+    "geom:longitude":-116.572665,
+    "iso:country":"US",
+    "sg:address":"23304 Lansing Ln",
+    "sg:city":"Middleton",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 585 9393",
+    "sg:postcode":"83644",
+    "sg:province":"ID",
+    "sg:tags":[
+        "excavating",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85938009,
+        102085081,
+        85835387
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7VMEZSi4z9H0QinuOdMjMO_43.712714_-116.572665@1294099250"
+    },
+    "wof:country":"US",
+    "wof:created":1464202743,
+    "wof:geomhash":"35bc9bcc5b866bad5c6ca73e6cfa3c13",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085081,
+            "locality_id":85938009,
+            "neighbourhood_id":85835387,
+            "region_id":85688657,
+            "venue_id":857540371
+        }
+    ],
+    "wof:id":857540371,
+    "wof:lastmodified":1464202743,
+    "wof:name":"Standard Construction",
+    "wof:parent_id":85835387,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "excavating",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -116.572665,
+    43.712714,
+    -116.572665,
+    43.712714
+],
+  "geometry": {"coordinates":[-116.572665,43.712714],"type":"Point"}
+}

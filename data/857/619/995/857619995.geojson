@@ -1,0 +1,75 @@
+{
+  "id": 857619995,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-116.254705,43.589825,-116.254705,43.589825",
+    "geom:latitude":43.589825,
+    "geom:longitude":-116.254705,
+    "iso:country":"US",
+    "sg:address":"5805 Overland Rd",
+    "sg:city":"Boise",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 424 0091",
+    "sg:postcode":"83709",
+    "sg:province":"ID",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        102191575,
+        85633793,
+        85937923,
+        102086087,
+        85876295
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6Skb6dBRSnrLagQpZdSXKX_43.589825_-116.254705@1294099250"
+    },
+    "wof:country":"US",
+    "wof:created":1464204434,
+    "wof:geomhash":"c9443158a96212eed147dddae7a52d09",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086087,
+            "locality_id":85937923,
+            "neighbourhood_id":85876295,
+            "region_id":85688657,
+            "venue_id":857619995
+        }
+    ],
+    "wof:id":857619995,
+    "wof:lastmodified":1464204434,
+    "wof:name":"Nelson Auto Care",
+    "wof:parent_id":85876295,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -116.254705,
+    43.589825,
+    -116.254705,
+    43.589825
+],
+  "geometry": {"coordinates":[-116.254705,43.589825],"type":"Point"}
+}

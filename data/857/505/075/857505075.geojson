@@ -1,0 +1,73 @@
+{
+  "id": 857505075,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-116.272401,43.601697,-116.272401,43.601697",
+    "geom:latitude":43.601697,
+    "geom:longitude":-116.272401,
+    "iso:country":"US",
+    "sg:address":"7243 Colonial St",
+    "sg:city":"Boise",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Cleaning & Sanitation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 672 1288",
+    "sg:postcode":"83709",
+    "sg:province":"ID",
+    "sg:tags":[
+        "maintenance"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        102191575,
+        85633793,
+        85937923,
+        102086087,
+        85841319
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6UXl2GfpQiIxoNkcH02mWg_43.601697_-116.272401@1294099250"
+    },
+    "wof:country":"US",
+    "wof:created":1464202034,
+    "wof:geomhash":"9789689f1487230bca0e990edb8651ea",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086087,
+            "locality_id":85937923,
+            "neighbourhood_id":85841319,
+            "region_id":85688657,
+            "venue_id":857505075
+        }
+    ],
+    "wof:id":857505075,
+    "wof:lastmodified":1464202034,
+    "wof:name":"Sunset Cleaning Services",
+    "wof:parent_id":85841319,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "maintenance"
+    ]
+},
+  "bbox": [
+    -116.272401,
+    43.601697,
+    -116.272401,
+    43.601697
+],
+  "geometry": {"coordinates":[-116.272401,43.601697],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 857569297,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-116.272998,43.595676,-116.272998,43.595676",
+    "geom:latitude":43.595676,
+    "geom:longitude":-116.272998,
+    "iso:country":"US",
+    "sg:address":"914 Beechwood Dr",
+    "sg:city":"Boise",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 323 9505",
+    "sg:postcode":"83709",
+    "sg:province":"ID",
+    "sg:tags":[
+        "electrical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        102191575,
+        85633793,
+        85937923,
+        102086087,
+        85876293
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4HOvIPHL9ZBVvSE8NTrcUI_43.595676_-116.272998@1294099250"
+    },
+    "wof:country":"US",
+    "wof:created":1464203339,
+    "wof:geomhash":"91e6030f14000a9300016128a57e04d2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086087,
+            "locality_id":85937923,
+            "neighbourhood_id":85876293,
+            "region_id":85688657,
+            "venue_id":857569297
+        }
+    ],
+    "wof:id":857569297,
+    "wof:lastmodified":1464203339,
+    "wof:name":"G N Halsted Home Repair",
+    "wof:parent_id":85876293,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electrical"
+    ]
+},
+  "bbox": [
+    -116.272998,
+    43.595676,
+    -116.272998,
+    43.595676
+],
+  "geometry": {"coordinates":[-116.272998,43.595676],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 857581829,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-116.553066,43.611589,-116.553066,43.611589",
+    "geom:latitude":43.611589,
+    "geom:longitude":-116.553066,
+    "iso:country":"US",
+    "sg:address":"16438 Franklin Rd",
+    "sg:city":"Nampa",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Computers & Home Electronics",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 466 0094",
+    "sg:postcode":"83687",
+    "sg:province":"ID",
+    "sg:tags":[
+        "equipment",
+        "dealer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85938009,
+        102085081,
+        85827787
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_27bHaZ6pqLwvW4AyocGelA_43.611589_-116.553066@1294099250"
+    },
+    "wof:country":"US",
+    "wof:created":1464203585,
+    "wof:geomhash":"2c076e011962785ef5730d394c4c0c13",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085081,
+            "locality_id":85938009,
+            "neighbourhood_id":85827787,
+            "region_id":85688657,
+            "venue_id":857581829
+        }
+    ],
+    "wof:id":857581829,
+    "wof:lastmodified":1464203585,
+    "wof:name":"Computer Central",
+    "wof:parent_id":85827787,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "equipment",
+        "dealer"
+    ]
+},
+  "bbox": [
+    -116.553066,
+    43.611589,
+    -116.553066,
+    43.611589
+],
+  "geometry": {"coordinates":[-116.553066,43.611589],"type":"Point"}
+}

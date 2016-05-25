@@ -1,0 +1,83 @@
+{
+  "id": 857522723,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-116.834725,47.70534,-116.834725,47.70534",
+    "geom:latitude":47.70534,
+    "geom:longitude":-116.834725,
+    "iso:country":"US",
+    "sg:address":"3207 Lodgepole Rd",
+    "sg:city":"Coeur D Alene",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 765 1500",
+    "sg:postcode":"83815",
+    "sg:province":"ID",
+    "sg:tags":[
+        "hanging",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85821457,
+        102086085,
+        102191575,
+        85938163,
+        85806325
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0m34ezGUqnBPCNC1KpP7qh_47.705340_-116.834725@1294099250"
+    },
+    "wof:country":"US",
+    "wof:created":1464202403,
+    "wof:geomhash":"5fbe84bc75e864fc0494d6a3b6594d30",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086085,
+            "neighbourhood_id":85821457,
+            "region_id":85688657,
+            "venue_id":857522723
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086085,
+            "locality_id":85938163,
+            "neighbourhood_id":85806325,
+            "region_id":85688657,
+            "venue_id":857522723
+        }
+    ],
+    "wof:id":857522723,
+    "wof:lastmodified":1464202403,
+    "wof:name":"Kens Painting",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "hanging",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -116.834725,
+    47.70534,
+    -116.834725,
+    47.70534
+],
+  "geometry": {"coordinates":[-116.83472500000001,47.70534],"type":"Point"}
+}

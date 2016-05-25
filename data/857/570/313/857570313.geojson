@@ -1,0 +1,75 @@
+{
+  "id": 857570313,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-116.900164,47.803185,-116.900164,47.803185",
+    "geom:latitude":47.803185,
+    "geom:longitude":-116.900164,
+    "iso:country":"US",
+    "sg:address":"846 W Larch St",
+    "sg:city":"Rathdrum",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 687 2435",
+    "sg:postcode":"83858",
+    "sg:province":"ID",
+    "sg:tags":[
+        "heating",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        102191575,
+        85633793,
+        85938145,
+        102086085,
+        85833263
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3R25RstdNT81N5coAGivp7_47.803185_-116.900164@1294099250"
+    },
+    "wof:country":"US",
+    "wof:created":1464203359,
+    "wof:geomhash":"55db3268ca4430843a1f1ec1e653e47e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086085,
+            "locality_id":85938145,
+            "neighbourhood_id":85833263,
+            "region_id":85688657,
+            "venue_id":857570313
+        }
+    ],
+    "wof:id":857570313,
+    "wof:lastmodified":1464203359,
+    "wof:name":"Alpine Refrigeration",
+    "wof:parent_id":85833263,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "heating",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -116.900164,
+    47.803185,
+    -116.900164,
+    47.803185
+],
+  "geometry": {"coordinates":[-116.900164,47.803185],"type":"Point"}
+}

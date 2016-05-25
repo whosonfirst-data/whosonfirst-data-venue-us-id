@@ -1,0 +1,71 @@
+{
+  "id": 857545439,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-116.792103,47.774135,-116.792103,47.774135",
+    "geom:latitude":47.774135,
+    "geom:longitude":-116.792103,
+    "iso:country":"US",
+    "sg:address":"11547 N Warren St",
+    "sg:city":"Hayden",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 772 3911",
+    "sg:postcode":"83835",
+    "sg:province":"ID",
+    "sg:tags":[
+        "heating",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85821457,
+        102086085
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7FpX1FSEftIPO38CEdSqWf_47.774135_-116.792103@1294099250"
+    },
+    "wof:country":"US",
+    "wof:created":1464202847,
+    "wof:geomhash":"94c35f93294aa02855adc8c7aa41da4a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086085,
+            "neighbourhood_id":85821457,
+            "region_id":85688657,
+            "venue_id":857545439
+        }
+    ],
+    "wof:id":857545439,
+    "wof:lastmodified":1464202847,
+    "wof:name":"Tyko Mechanical",
+    "wof:parent_id":85821457,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "heating",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -116.792103,
+    47.774135,
+    -116.792103,
+    47.774135
+],
+  "geometry": {"coordinates":[-116.792103,47.774135],"type":"Point"}
+}

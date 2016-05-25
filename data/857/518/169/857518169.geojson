@@ -1,0 +1,71 @@
+{
+  "id": 857518169,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-116.780916,47.681766,-116.780916,47.681766",
+    "geom:latitude":47.681766,
+    "geom:longitude":-116.780916,
+    "iso:country":"US",
+    "sg:address":"849 N 4th St",
+    "sg:city":"Coeur D Alene",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Cable",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 664 7799",
+    "sg:postcode":"83814",
+    "sg:province":"ID",
+    "sg:tags":[
+        "satellite",
+        "carrier"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85821457,
+        102086085
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2MSG5XuqWvEw1JEJhbOMOn_47.681766_-116.780916@1294099250"
+    },
+    "wof:country":"US",
+    "wof:created":1464202311,
+    "wof:geomhash":"471e3f188a43fe7c08697b43a1658c09",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086085,
+            "neighbourhood_id":85821457,
+            "region_id":85688657,
+            "venue_id":857518169
+        }
+    ],
+    "wof:id":857518169,
+    "wof:lastmodified":1464202311,
+    "wof:name":"Olympic Communications",
+    "wof:parent_id":85821457,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "satellite",
+        "carrier"
+    ]
+},
+  "bbox": [
+    -116.780916,
+    47.681766,
+    -116.780916,
+    47.681766
+],
+  "geometry": {"coordinates":[-116.780916,47.681766],"type":"Point"}
+}

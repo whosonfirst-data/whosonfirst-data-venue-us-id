@@ -1,0 +1,72 @@
+{
+  "id": 857628265,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-116.39159,43.608817,-116.39159,43.608817",
+    "geom:latitude":43.608817,
+    "geom:longitude":-116.39159,
+    "iso:country":"US",
+    "sg:address":"601 N Main St",
+    "sg:city":"Meridian",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/id/boise-city/38010-pair/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 343 7034",
+    "sg:postcode":"83642",
+    "sg:province":"ID",
+    "sg:tags":[
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85937915,
+        102086087,
+        85805083
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3Vq5OuJBhcfSPoXVCQw2jM_43.608817_-116.391590@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464204629,
+    "wof:geomhash":"98416cfb2b3843b501378b30bd3a6da5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086087,
+            "locality_id":85937915,
+            "neighbourhood_id":85805083,
+            "region_id":85688657,
+            "venue_id":857628265
+        }
+    ],
+    "wof:id":857628265,
+    "wof:lastmodified":1464204629,
+    "wof:name":"Pair",
+    "wof:parent_id":85805083,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american"
+    ]
+},
+  "bbox": [
+    -116.39159,
+    43.608817,
+    -116.39159,
+    43.608817
+],
+  "geometry": {"coordinates":[-116.39158999999999,43.608817],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 857628395,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-116.391716,43.618719,-116.391716,43.618719",
+    "geom:latitude":43.618719,
+    "geom:longitude":-116.391716,
+    "iso:country":"US",
+    "sg:address":"1629 N Main St",
+    "sg:city":"Meridian",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/id/boise-city/225042-chicago-connection/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 888 1986",
+    "sg:postcode":"83642",
+    "sg:province":"ID",
+    "sg:tags":[
+        "italian"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        102191575,
+        85633793,
+        85937915,
+        102086087,
+        85811491
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4f2lCaOyjE6zVCaxmjOFD0_43.618719_-116.391716@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464204631,
+    "wof:geomhash":"46d32d8f1ddca5caf91893672c405fdc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086087,
+            "locality_id":85937915,
+            "neighbourhood_id":85811491,
+            "region_id":85688657,
+            "venue_id":857628395
+        }
+    ],
+    "wof:id":857628395,
+    "wof:lastmodified":1464204631,
+    "wof:name":"Chicago Connection",
+    "wof:parent_id":85811491,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "italian"
+    ]
+},
+  "bbox": [
+    -116.391716,
+    43.618719,
+    -116.391716,
+    43.618719
+],
+  "geometry": {"coordinates":[-116.391716,43.618719],"type":"Point"}
+}

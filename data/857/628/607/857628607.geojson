@@ -1,0 +1,73 @@
+{
+  "id": 857628607,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-116.572744,43.548793,-116.572744,43.548793",
+    "geom:latitude":43.548793,
+    "geom:longitude":-116.572744,
+    "iso:country":"US",
+    "sg:address":"2100 12th Ave Rd",
+    "sg:city":"Nampa",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/id/nampa/212109-mcdonalds/menu/",
+    "sg:owner":"simplegeo",
+    "sg:postcode":"83686",
+    "sg:province":"ID",
+    "sg:tags":[
+        "burger",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85938009,
+        102085081,
+        85827787
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4DYnI5OAgpZpiL7AKVzZPB_43.548793_-116.572744@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464204635,
+    "wof:geomhash":"8f68188d0723b61255953495d988e53b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085081,
+            "locality_id":85938009,
+            "neighbourhood_id":85827787,
+            "region_id":85688657,
+            "venue_id":857628607
+        }
+    ],
+    "wof:id":857628607,
+    "wof:lastmodified":1464204635,
+    "wof:name":"McDonald's",
+    "wof:parent_id":85827787,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american"
+    ]
+},
+  "bbox": [
+    -116.572744,
+    43.548793,
+    -116.572744,
+    43.548793
+],
+  "geometry": {"coordinates":[-116.572744,43.548793],"type":"Point"}
+}

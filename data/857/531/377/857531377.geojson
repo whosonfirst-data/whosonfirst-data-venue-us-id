@@ -1,0 +1,73 @@
+{
+  "id": 857531377,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-116.272401,43.60168,-116.272401,43.60168",
+    "geom:latitude":43.60168,
+    "geom:longitude":-116.272401,
+    "iso:country":"US",
+    "sg:address":"7249 Colonial St",
+    "sg:city":"Boise",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 703 3802",
+    "sg:postcode":"83709",
+    "sg:province":"ID",
+    "sg:tags":[
+        "house"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        102191575,
+        85633793,
+        85937923,
+        102086087,
+        85841319
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0JA1rjsCo4KH6DBZduIMBH_43.601680_-116.272401@1294099250"
+    },
+    "wof:country":"US",
+    "wof:created":1464202573,
+    "wof:geomhash":"30b13588c1d196588ae49b0b8f4d4a38",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086087,
+            "locality_id":85937923,
+            "neighbourhood_id":85841319,
+            "region_id":85688657,
+            "venue_id":857531377
+        }
+    ],
+    "wof:id":857531377,
+    "wof:lastmodified":1464202573,
+    "wof:name":"Custom Exterior",
+    "wof:parent_id":85841319,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "house"
+    ]
+},
+  "bbox": [
+    -116.272401,
+    43.60168,
+    -116.272401,
+    43.60168
+],
+  "geometry": {"coordinates":[-116.272401,43.60168],"type":"Point"}
+}

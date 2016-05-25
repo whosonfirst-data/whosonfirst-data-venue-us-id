@@ -1,0 +1,69 @@
+{
+  "id": 857611009,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-116.786727,47.750302,-116.786727,47.750302",
+    "geom:latitude":47.750302,
+    "geom:longitude":-116.786727,
+    "iso:country":"US",
+    "sg:address":"8761 N Government Way",
+    "sg:city":"Hayden",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Tattoo Parlor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 762 3999",
+    "sg:postcode":"83835",
+    "sg:province":"ID",
+    "sg:tags":[
+        "tattooing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85821457,
+        102086085
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6jpOgQri9vI4kHSJvTDnS9_47.750302_-116.786727@1294099250"
+    },
+    "wof:country":"US",
+    "wof:created":1464204227,
+    "wof:geomhash":"f35a09385560d9113d6dd53c5a7a4c52",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086085,
+            "neighbourhood_id":85821457,
+            "region_id":85688657,
+            "venue_id":857611009
+        }
+    ],
+    "wof:id":857611009,
+    "wof:lastmodified":1464204227,
+    "wof:name":"Dan's Tattoo Shop",
+    "wof:parent_id":85821457,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "tattooing"
+    ]
+},
+  "bbox": [
+    -116.786727,
+    47.750302,
+    -116.786727,
+    47.750302
+],
+  "geometry": {"coordinates":[-116.786727,47.750302],"type":"Point"}
+}

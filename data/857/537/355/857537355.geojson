@@ -1,0 +1,83 @@
+{
+  "id": 857537355,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-116.817152,47.714273,-116.817152,47.714273",
+    "geom:latitude":47.714273,
+    "geom:longitude":-116.817152,
+    "iso:country":"US",
+    "sg:address":"3997 Nicklaus Dr",
+    "sg:city":"Coeur D Alene",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Furniture",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 765 5020",
+    "sg:postcode":"83815",
+    "sg:province":"ID",
+    "sg:tags":[
+        "builder",
+        "custom"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85821457,
+        102086085,
+        102191575,
+        85938163,
+        85806325
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3mBz4vFv1wffjpXzBaHQjZ_47.714273_-116.817152@1294099250"
+    },
+    "wof:country":"US",
+    "wof:created":1464202687,
+    "wof:geomhash":"865b7d5b2fadc1d29cec0d804f6beee8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086085,
+            "neighbourhood_id":85821457,
+            "region_id":85688657,
+            "venue_id":857537355
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086085,
+            "locality_id":85938163,
+            "neighbourhood_id":85806325,
+            "region_id":85688657,
+            "venue_id":857537355
+        }
+    ],
+    "wof:id":857537355,
+    "wof:lastmodified":1464202687,
+    "wof:name":"Country By Design",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "builder",
+        "custom"
+    ]
+},
+  "bbox": [
+    -116.817152,
+    47.714273,
+    -116.817152,
+    47.714273
+],
+  "geometry": {"coordinates":[-116.81715199999999,47.714273],"type":"Point"}
+}

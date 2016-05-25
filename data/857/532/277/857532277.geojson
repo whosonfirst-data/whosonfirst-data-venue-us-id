@@ -1,0 +1,73 @@
+{
+  "id": 857532277,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-116.570537,43.543004,-116.570537,43.543004",
+    "geom:latitude":43.543004,
+    "geom:longitude":-116.570537,
+    "iso:country":"US",
+    "sg:address":"2609 Sunnybrook Dr",
+    "sg:city":"Nampa",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Nursing And Care Facility",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 467 7298",
+    "sg:postcode":"83686",
+    "sg:province":"ID",
+    "sg:tags":[
+        "home",
+        "convalescent"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85938009,
+        102085081,
+        85827787
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3SvTXikeoHCrDCNk47oHZJ_43.543004_-116.570537@1294099250"
+    },
+    "wof:country":"US",
+    "wof:created":1464202590,
+    "wof:geomhash":"ee669e912934cba4619a5e918b43ca75",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085081,
+            "locality_id":85938009,
+            "neighbourhood_id":85827787,
+            "region_id":85688657,
+            "venue_id":857532277
+        }
+    ],
+    "wof:id":857532277,
+    "wof:lastmodified":1464202590,
+    "wof:name":"Sun Bridge Retirement & Rehab",
+    "wof:parent_id":85827787,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "home",
+        "convalescent"
+    ]
+},
+  "bbox": [
+    -116.570537,
+    43.543004,
+    -116.570537,
+    43.543004
+],
+  "geometry": {"coordinates":[-116.570537,43.543004],"type":"Point"}
+}

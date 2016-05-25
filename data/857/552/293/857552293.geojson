@@ -1,0 +1,73 @@
+{
+  "id": 857552293,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-116.326081,43.611198,-116.326081,43.611198",
+    "geom:latitude":43.611198,
+    "geom:longitude":-116.326081,
+    "iso:country":"US",
+    "sg:address":"11560 President Dr",
+    "sg:city":"Boise",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 377 1661",
+    "sg:postcode":"83713",
+    "sg:province":"ID",
+    "sg:tags":[
+        "broker",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85937915,
+        102086087,
+        85805083
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5Eu0JNTMQMHqCcXnRjXWgc_43.611198_-116.326081@1294099250"
+    },
+    "wof:country":"US",
+    "wof:created":1464202976,
+    "wof:geomhash":"96a197fb83e0aeac688037f68b41f856",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086087,
+            "locality_id":85937915,
+            "neighbourhood_id":85805083,
+            "region_id":85688657,
+            "venue_id":857552293
+        }
+    ],
+    "wof:id":857552293,
+    "wof:lastmodified":1464202976,
+    "wof:name":"Rayco Transportation Inc",
+    "wof:parent_id":85805083,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "broker",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -116.326081,
+    43.611198,
+    -116.326081,
+    43.611198
+],
+  "geometry": {"coordinates":[-116.326081,43.611198],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 857619191,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-116.393302,43.619269,-116.393302,43.619269",
+    "geom:latitude":43.619269,
+    "geom:longitude":-116.393302,
+    "iso:country":"US",
+    "sg:address":"100 E Fairview Ave",
+    "sg:city":"Meridian",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Department Store",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 887 9477",
+    "sg:postcode":"83642",
+    "sg:province":"ID",
+    "sg:tags":[
+        "shop"
+    ],
+    "sg:website":"www.biglot.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        102191575,
+        85633793,
+        85937915,
+        102086087,
+        85811491
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1pcAJq5jWsdRp6rH4UqY9U_43.619269_-116.393302@1294099250"
+    },
+    "wof:country":"US",
+    "wof:created":1464204407,
+    "wof:geomhash":"c8afbfed9cded0f706bcb0dfe7cb85d6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086087,
+            "locality_id":85937915,
+            "neighbourhood_id":85811491,
+            "region_id":85688657,
+            "venue_id":857619191
+        }
+    ],
+    "wof:id":857619191,
+    "wof:lastmodified":1464204407,
+    "wof:name":"Big Lots",
+    "wof:parent_id":85811491,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop"
+    ]
+},
+  "bbox": [
+    -116.393302,
+    43.619269,
+    -116.393302,
+    43.619269
+],
+  "geometry": {"coordinates":[-116.39330200000001,43.619269],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 857612063,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-116.243389,43.591654,-116.243389,43.591654",
+    "geom:latitude":43.591654,
+    "geom:longitude":-116.243389,
+    "iso:country":"US",
+    "sg:address":"4874 Clark St",
+    "sg:city":"Boise",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 342 0428",
+    "sg:postcode":"83705",
+    "sg:province":"ID",
+    "sg:tags":[
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        102191575,
+        85633793,
+        85937923,
+        102086087,
+        85876295
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0JRh3dYyngCbiPPpUVg8R8_43.591654_-116.243389@1294099250"
+    },
+    "wof:country":"US",
+    "wof:created":1464204259,
+    "wof:geomhash":"484dceea106a1ccaedc1f9fe17b54e2c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086087,
+            "locality_id":85937923,
+            "neighbourhood_id":85876295,
+            "region_id":85688657,
+            "venue_id":857612063
+        }
+    ],
+    "wof:id":857612063,
+    "wof:lastmodified":1464204259,
+    "wof:name":"Parkwood Apartments",
+    "wof:parent_id":85876295,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "apartment"
+    ]
+},
+  "bbox": [
+    -116.243389,
+    43.591654,
+    -116.243389,
+    43.591654
+],
+  "geometry": {"coordinates":[-116.24338899999999,43.591654],"type":"Point"}
+}

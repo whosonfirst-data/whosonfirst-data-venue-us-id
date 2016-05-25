@@ -1,0 +1,68 @@
+{
+  "id": 857517005,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-116.243583,43.578904,-116.243583,43.578904",
+    "geom:latitude":43.578904,
+    "geom:longitude":-116.243583,
+    "iso:country":"US",
+    "sg:address":"2728 S Orchard St",
+    "sg:city":"Boise",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 336 0250",
+    "sg:postcode":"83705",
+    "sg:province":"ID",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        102191575,
+        85633793,
+        85937923,
+        102086087,
+        85825393
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0E6vf6KqrK7OXu0tCmizGf_43.578904_-116.243583@1294099250"
+    },
+    "wof:country":"US",
+    "wof:created":1464202291,
+    "wof:geomhash":"82195766b3ef9aa731c913211b7d28ce",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086087,
+            "locality_id":85937923,
+            "neighbourhood_id":85825393,
+            "region_id":85688657,
+            "venue_id":857517005
+        }
+    ],
+    "wof:id":857517005,
+    "wof:lastmodified":1464202291,
+    "wof:name":"Jackson's Food",
+    "wof:parent_id":85825393,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -116.243583,
+    43.578904,
+    -116.243583,
+    43.578904
+],
+  "geometry": {"coordinates":[-116.243583,43.578904],"type":"Point"}
+}

@@ -1,0 +1,81 @@
+{
+  "id": 857610223,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-116.786307,47.705829,-116.786307,47.705829",
+    "geom:latitude":47.705829,
+    "geom:longitude":-116.786307,
+    "iso:country":"US",
+    "sg:address":"3112 N Government Way",
+    "sg:city":"Coeur D Alene",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Machinery & Supplies",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 765 6033",
+    "sg:postcode":"83815",
+    "sg:province":"ID",
+    "sg:tags":[
+        "industrial"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85821457,
+        102086085,
+        102191575,
+        85938163,
+        85806325
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6rkvu3CyUWdjp3SJYH98uG_47.705829_-116.786307@1294099250"
+    },
+    "wof:country":"US",
+    "wof:created":1464204214,
+    "wof:geomhash":"1918d0181b52cb8e1211b1e3feb22d46",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086085,
+            "neighbourhood_id":85821457,
+            "region_id":85688657,
+            "venue_id":857610223
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086085,
+            "locality_id":85938163,
+            "neighbourhood_id":85806325,
+            "region_id":85688657,
+            "venue_id":857610223
+        }
+    ],
+    "wof:id":857610223,
+    "wof:lastmodified":1464204214,
+    "wof:name":"Green Mountain Mfg",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "industrial"
+    ]
+},
+  "bbox": [
+    -116.786307,
+    47.705829,
+    -116.786307,
+    47.705829
+],
+  "geometry": {"coordinates":[-116.78630699999999,47.705829],"type":"Point"}
+}

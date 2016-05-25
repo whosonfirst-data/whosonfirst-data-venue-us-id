@@ -1,0 +1,71 @@
+{
+  "id": 857517771,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-115.991375,47.502503,-115.991375,47.502503",
+    "geom:latitude":47.502503,
+    "geom:longitude":-115.991375,
+    "iso:country":"US",
+    "sg:address":"921 E Mullan Ave",
+    "sg:city":"Osburn",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 752 0001",
+    "sg:postcode":"83849",
+    "sg:province":"ID",
+    "sg:tags":[
+        "city"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85937825,
+        102086103,
+        85849049
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5q1j3EXtZnd6Nca0P6zbLK_47.502503_-115.991375@1294099250"
+    },
+    "wof:country":"US",
+    "wof:created":1464202304,
+    "wof:geomhash":"d69d8213134963a23eaffaada1188f43",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086103,
+            "locality_id":85937825,
+            "neighbourhood_id":85849049,
+            "region_id":85688657,
+            "venue_id":857517771
+        }
+    ],
+    "wof:id":857517771,
+    "wof:lastmodified":1464202304,
+    "wof:name":"Osburn City Clerk",
+    "wof:parent_id":85849049,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "city"
+    ]
+},
+  "bbox": [
+    -115.991375,
+    47.502503,
+    -115.991375,
+    47.502503
+],
+  "geometry": {"coordinates":[-115.99137500000001,47.502503],"type":"Point"}
+}

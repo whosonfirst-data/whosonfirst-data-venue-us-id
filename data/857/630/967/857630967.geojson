@@ -1,0 +1,76 @@
+{
+  "id": 857630967,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-116.56375,43.578456,-116.56375,43.578456",
+    "geom:latitude":43.578456,
+    "geom:longitude":-116.56375,
+    "iso:country":"US",
+    "sg:address":"1015 3rd St S",
+    "sg:city":"Nampa",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/id/nampa/235349-taco-time/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 466 7761",
+    "sg:postcode":"83651",
+    "sg:province":"ID",
+    "sg:tags":[
+        "american",
+        "mexican",
+        "tex-mex"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85938009,
+        102085081,
+        85827787
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2GismqP0DZP93Cd1kQVq5M_43.578553_-116.563763@1294099250"
+    },
+    "wof:country":"US",
+    "wof:created":1464204685,
+    "wof:geomhash":"0314fe7b43d77037d0690ab30c2c6969",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085081,
+            "locality_id":85938009,
+            "neighbourhood_id":85827787,
+            "region_id":85688657,
+            "venue_id":857630967
+        }
+    ],
+    "wof:id":857630967,
+    "wof:lastmodified":1464204685,
+    "wof:name":"Taco Time",
+    "wof:parent_id":85827787,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "mexican",
+        "tex-mex"
+    ]
+},
+  "bbox": [
+    -116.56375,
+    43.578456,
+    -116.56375,
+    43.578456
+],
+  "geometry": {"coordinates":[-116.56375,43.578456],"type":"Point"}
+}

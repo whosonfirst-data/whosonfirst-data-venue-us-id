@@ -1,0 +1,69 @@
+{
+  "id": 857555651,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-116.753228,47.745168,-116.753228,47.745168",
+    "geom:latitude":47.745168,
+    "geom:longitude":-116.753228,
+    "iso:country":"US",
+    "sg:address":"2500 E Grandview Dr",
+    "sg:city":"Coeur D Alene",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Testing Lab",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 762 1531",
+    "sg:postcode":"83815",
+    "sg:province":"ID",
+    "sg:tags":[
+        "metallurgist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85821457,
+        102086085
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0rkOnhOJEnDVfcWwBe3VJ1_47.745168_-116.753228@1294099250"
+    },
+    "wof:country":"US",
+    "wof:created":1464203046,
+    "wof:geomhash":"a3619a7de7018fc572354487f6106d2e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086085,
+            "neighbourhood_id":85821457,
+            "region_id":85688657,
+            "venue_id":857555651
+        }
+    ],
+    "wof:id":857555651,
+    "wof:lastmodified":1464203046,
+    "wof:name":"Materials Technology",
+    "wof:parent_id":85821457,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "metallurgist"
+    ]
+},
+  "bbox": [
+    -116.753228,
+    47.745168,
+    -116.753228,
+    47.745168
+],
+  "geometry": {"coordinates":[-116.75322799999999,47.745168],"type":"Point"}
+}

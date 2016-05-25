@@ -1,0 +1,77 @@
+{
+  "id": 857555587,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-116.9809,46.382152,-116.9809,46.382152",
+    "geom:latitude":46.382152,
+    "geom:longitude":-116.9809,
+    "iso:country":"US",
+    "sg:address":"3323 10th St",
+    "sg:city":"Lewiston",
+    "sg:classifiers":[
+        {
+            "category":"Cinema",
+            "subcategory":"Movie Theater",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 743 3052",
+    "sg:postcode":"83501",
+    "sg:province":"ID",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85937743,
+        102086039,
+        85837769,
+        102191575,
+        85830385
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_75eTOjMm1cFkv54gS0S4kc_46.382152_-116.980900@1294099250"
+    },
+    "wof:country":"US",
+    "wof:created":1464203045,
+    "wof:geomhash":"161b5bbe0a1b806cf671c77fb09c0fbb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086039,
+            "locality_id":85937743,
+            "neighbourhood_id":85837769,
+            "region_id":85688657,
+            "venue_id":857555587
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086039,
+            "locality_id":85937743,
+            "neighbourhood_id":85830385,
+            "region_id":85688657,
+            "venue_id":857555587
+        }
+    ],
+    "wof:id":857555587,
+    "wof:lastmodified":1464203045,
+    "wof:name":"Orchards Cinema",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -116.9809,
+    46.382152,
+    -116.9809,
+    46.382152
+],
+  "geometry": {"coordinates":[-116.98090000000001,46.382152],"type":"Point"}
+}

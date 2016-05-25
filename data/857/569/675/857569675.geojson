@@ -1,0 +1,76 @@
+{
+  "id": 857569675,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-116.388923,43.606913,-116.388923,43.606913",
+    "geom:latitude":43.606913,
+    "geom:longitude":-116.388923,
+    "iso:country":"US",
+    "sg:address":"217 E Ada Ave",
+    "sg:city":"Meridian",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"",
+            "type":"Services"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 888 6910",
+    "sg:postcode":"83642",
+    "sg:province":"ID",
+    "sg:tags":[
+        "automotive"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85937915,
+        102086087,
+        85805083
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7kbbN9cSx8v5z4ElNfLZUz_43.606913_-116.388923@1294099250"
+    },
+    "wof:country":"US",
+    "wof:created":1464203346,
+    "wof:geomhash":"78fd8bc221c3562da6290b3287294b3d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086087,
+            "locality_id":85937915,
+            "neighbourhood_id":85805083,
+            "region_id":85688657,
+            "venue_id":857569675
+        }
+    ],
+    "wof:id":857569675,
+    "wof:lastmodified":1464203346,
+    "wof:name":"Bears Bolts N Bodies",
+    "wof:parent_id":85805083,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automotive"
+    ]
+},
+  "bbox": [
+    -116.388923,
+    43.606913,
+    -116.388923,
+    43.606913
+],
+  "geometry": {"coordinates":[-116.38892300000001,43.606913],"type":"Point"}
+}

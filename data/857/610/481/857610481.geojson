@@ -1,0 +1,73 @@
+{
+  "id": 857610481,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-116.433862,43.581051,-116.433862,43.581051",
+    "geom:latitude":43.581051,
+    "geom:longitude":-116.433862,
+    "iso:country":"US",
+    "sg:address":"3001 S Ten Mile Rd",
+    "sg:city":"Meridian",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 888 6449",
+    "sg:postcode":"83642",
+    "sg:province":"ID",
+    "sg:tags":[
+        "general",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85937915,
+        102086087,
+        85805083
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6VwE0dO1Sc6ipCD1F9wCHU_43.581051_-116.433862@1294099250"
+    },
+    "wof:country":"US",
+    "wof:created":1464204218,
+    "wof:geomhash":"40c3664bf562ddc622a05e7a042709f9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086087,
+            "locality_id":85937915,
+            "neighbourhood_id":85805083,
+            "region_id":85688657,
+            "venue_id":857610481
+        }
+    ],
+    "wof:id":857610481,
+    "wof:lastmodified":1464204218,
+    "wof:name":"Doug Larsen Construction Inc",
+    "wof:parent_id":85805083,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "general",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -116.433862,
+    43.581051,
+    -116.433862,
+    43.581051
+],
+  "geometry": {"coordinates":[-116.433862,43.581051],"type":"Point"}
+}

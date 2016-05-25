@@ -1,0 +1,79 @@
+{
+  "id": 857593825,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-116.746601,47.672005,-116.746601,47.672005",
+    "geom:latitude":47.672005,
+    "geom:longitude":-116.746601,
+    "iso:country":"US",
+    "sg:address":"112 Hazelwood Dr",
+    "sg:city":"Coeur D Alene",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Food",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Wholesale",
+            "subcategory":"Groceries",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 676 9550",
+    "sg:postcode":"83814",
+    "sg:province":"ID",
+    "sg:tags":[
+        "preparation",
+        "product",
+        "mfg"
+    ],
+    "sg:website":"www.heidispancakes.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85821457,
+        102086085
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0HOyyDEdkxvAGcyD5O3hWd_47.672005_-116.746601@1294099250"
+    },
+    "wof:country":"US",
+    "wof:created":1464203846,
+    "wof:geomhash":"e7d27dde60f9eca750f0ddab707675b0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086085,
+            "neighbourhood_id":85821457,
+            "region_id":85688657,
+            "venue_id":857593825
+        }
+    ],
+    "wof:id":857593825,
+    "wof:lastmodified":1464203846,
+    "wof:name":"Heidi's Cottage Classics",
+    "wof:parent_id":85821457,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "preparation",
+        "product",
+        "mfg"
+    ]
+},
+  "bbox": [
+    -116.746601,
+    47.672005,
+    -116.746601,
+    47.672005
+],
+  "geometry": {"coordinates":[-116.746601,47.672005],"type":"Point"}
+}

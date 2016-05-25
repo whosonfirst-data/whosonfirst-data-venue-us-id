@@ -1,0 +1,73 @@
+{
+  "id": 857567003,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-116.124446,47.535655,-116.124446,47.535655",
+    "geom:latitude":47.535655,
+    "geom:longitude":-116.124446,
+    "iso:country":"US",
+    "sg:address":"100 McKinley Ave",
+    "sg:city":"Kellogg",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 448 0963",
+    "sg:postcode":"83837",
+    "sg:province":"ID",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85937825,
+        102086103,
+        85849049
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6fdlESSy81DTkEw2bNmoW0_47.535655_-116.124446@1294099250"
+    },
+    "wof:country":"US",
+    "wof:created":1464203298,
+    "wof:geomhash":"5937fffbde66ed83e3315b8b9aed92f9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086103,
+            "locality_id":85937825,
+            "neighbourhood_id":85849049,
+            "region_id":85688657,
+            "venue_id":857567003
+        }
+    ],
+    "wof:id":857567003,
+    "wof:lastmodified":1464203298,
+    "wof:name":"Dr Gideon Kite Boards",
+    "wof:parent_id":85849049,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -116.124446,
+    47.535655,
+    -116.124446,
+    47.535655
+],
+  "geometry": {"coordinates":[-116.12444600000001,47.535655],"type":"Point"}
+}

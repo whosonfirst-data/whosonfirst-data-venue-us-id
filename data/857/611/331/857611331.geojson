@@ -1,0 +1,71 @@
+{
+  "id": 857611331,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-116.577941,43.557836,-116.577941,43.557836",
+    "geom:latitude":43.557836,
+    "geom:longitude":-116.577941,
+    "iso:country":"US",
+    "sg:address":"1203 S Canyon St",
+    "sg:city":"Nampa",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Agent",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 880 0391",
+    "sg:postcode":"83686",
+    "sg:province":"ID",
+    "sg:tags":[
+        "inspection"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85938009,
+        102085081,
+        85827787
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2ykh57pjHiMO9gOqWYdHCT_43.557836_-116.577941@1294099250"
+    },
+    "wof:country":"US",
+    "wof:created":1464204239,
+    "wof:geomhash":"21f5ab9c966df9dd56a9043039060e74",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085081,
+            "locality_id":85938009,
+            "neighbourhood_id":85827787,
+            "region_id":85688657,
+            "venue_id":857611331
+        }
+    ],
+    "wof:id":857611331,
+    "wof:lastmodified":1464204239,
+    "wof:name":"Treasure Valley Home Inspctn",
+    "wof:parent_id":85827787,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "inspection"
+    ]
+},
+  "bbox": [
+    -116.577941,
+    43.557836,
+    -116.577941,
+    43.557836
+],
+  "geometry": {"coordinates":[-116.577941,43.557836],"type":"Point"}
+}

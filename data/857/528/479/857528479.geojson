@@ -1,0 +1,71 @@
+{
+  "id": 857528479,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-116.79525,47.694157,-116.79525,47.694157",
+    "geom:latitude":47.694157,
+    "geom:longitude":-116.79525,
+    "iso:country":"US",
+    "sg:address":"850 W Ironwood Dr",
+    "sg:city":"Coeur D Alene",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 765 8808",
+    "sg:postcode":"83814",
+    "sg:province":"ID",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85821457,
+        102086085
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_32w059926GeEwf8ep30xqq_47.694157_-116.795250@1294099250"
+    },
+    "wof:country":"US",
+    "wof:created":1464202514,
+    "wof:geomhash":"e19687b2a225b67b9becad4dbd57da00",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086085,
+            "neighbourhood_id":85821457,
+            "region_id":85688657,
+            "venue_id":857528479
+        }
+    ],
+    "wof:id":857528479,
+    "wof:lastmodified":1464202514,
+    "wof:name":"Northwest Orthopedics",
+    "wof:parent_id":85821457,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -116.79525,
+    47.694157,
+    -116.79525,
+    47.694157
+],
+  "geometry": {"coordinates":[-116.79525,47.694157],"type":"Point"}
+}

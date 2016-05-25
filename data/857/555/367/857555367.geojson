@@ -1,0 +1,73 @@
+{
+  "id": 857555367,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-116.120452,43.563371,-116.120452,43.563371",
+    "geom:latitude":43.563371,
+    "geom:longitude":-116.120452,
+    "iso:country":"US",
+    "sg:address":"4946 S Sawmill Way",
+    "sg:city":"Boise",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 343 1201",
+    "sg:postcode":"83716",
+    "sg:province":"ID",
+    "sg:tags":[
+        "elevator"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        102191575,
+        85633793,
+        85937923,
+        102086087,
+        85804435
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0iSP8IYp6CWlOv0Y3f8UNK_43.563371_-116.120452@1294099250"
+    },
+    "wof:country":"US",
+    "wof:created":1464203040,
+    "wof:geomhash":"655d602dde2d60d3284a3bfca71f0e9f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086087,
+            "locality_id":85937923,
+            "neighbourhood_id":85804435,
+            "region_id":85688657,
+            "venue_id":857555367
+        }
+    ],
+    "wof:id":857555367,
+    "wof:lastmodified":1464203040,
+    "wof:name":"Otis Elevator Co",
+    "wof:parent_id":85804435,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "elevator"
+    ]
+},
+  "bbox": [
+    -116.120452,
+    43.563371,
+    -116.120452,
+    43.563371
+],
+  "geometry": {"coordinates":[-116.120452,43.563371],"type":"Point"}
+}

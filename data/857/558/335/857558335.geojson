@@ -1,0 +1,71 @@
+{
+  "id": 857558335,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-116.560831,43.576537,-116.560831,43.576537",
+    "geom:latitude":43.576537,
+    "geom:longitude":-116.560831,
+    "iso:country":"US",
+    "sg:address":"315 13th Ave S",
+    "sg:city":"Nampa",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 465 0507",
+    "sg:postcode":"83651",
+    "sg:province":"ID",
+    "sg:tags":[
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85938009,
+        102085081,
+        85827787
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6HR769vKLQkn26eiT15IfB_43.576537_-116.560831@1294099250"
+    },
+    "wof:country":"US",
+    "wof:created":1464203115,
+    "wof:geomhash":"a6be211aa48dd68c76e4e1c248050222",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085081,
+            "locality_id":85938009,
+            "neighbourhood_id":85827787,
+            "region_id":85688657,
+            "venue_id":857558335
+        }
+    ],
+    "wof:id":857558335,
+    "wof:lastmodified":1464203115,
+    "wof:name":"Colonial Apartments",
+    "wof:parent_id":85827787,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "apartment"
+    ]
+},
+  "bbox": [
+    -116.560831,
+    43.576537,
+    -116.560831,
+    43.576537
+],
+  "geometry": {"coordinates":[-116.56083099999999,43.576537],"type":"Point"}
+}

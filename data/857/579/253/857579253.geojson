@@ -1,0 +1,73 @@
+{
+  "id": 857579253,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-116.23313,43.587175,-116.23313,43.587175",
+    "geom:latitude":43.587175,
+    "geom:longitude":-116.23313,
+    "iso:country":"US",
+    "sg:address":"4141 Nez Perce St",
+    "sg:city":"Boise",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 344 3468",
+    "sg:postcode":"83705",
+    "sg:province":"ID",
+    "sg:tags":[
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        102191575,
+        85633793,
+        85937923,
+        102086087,
+        85825393
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2cL9SjQ5JP2HBz1cyoVkIz_43.587175_-116.233130@1294099250"
+    },
+    "wof:country":"US",
+    "wof:created":1464203538,
+    "wof:geomhash":"4fbd5828f0cecddf9ac084755b7b52b5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086087,
+            "locality_id":85937923,
+            "neighbourhood_id":85825393,
+            "region_id":85688657,
+            "venue_id":857579253
+        }
+    ],
+    "wof:id":857579253,
+    "wof:lastmodified":1464203538,
+    "wof:name":"Kingston House Apartments",
+    "wof:parent_id":85825393,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "apartment"
+    ]
+},
+  "bbox": [
+    -116.23313,
+    43.587175,
+    -116.23313,
+    43.587175
+],
+  "geometry": {"coordinates":[-116.23313,43.587175],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 857630035,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-116.782342,47.673323,-116.782342,47.673323",
+    "geom:latitude":47.673323,
+    "geom:longitude":-116.782342,
+    "iso:country":"US",
+    "sg:address":"317 E Sherman Ave",
+    "sg:city":"Coeur D Alene",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/id/coeur-dalene/3444-brix-restaurant/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 665 7407",
+    "sg:postcode":"83814",
+    "sg:province":"ID",
+    "sg:tags":[
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85821457,
+        102086085
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5EgGNseLMWSYL4PZV9PmkL_47.673323_-116.782342@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464204660,
+    "wof:geomhash":"f26a6a03880c05b951be951ec6459ef9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086085,
+            "neighbourhood_id":85821457,
+            "region_id":85688657,
+            "venue_id":857630035
+        }
+    ],
+    "wof:id":857630035,
+    "wof:lastmodified":1464204660,
+    "wof:name":"Brix Restaurant",
+    "wof:parent_id":85821457,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american"
+    ]
+},
+  "bbox": [
+    -116.782342,
+    47.673323,
+    -116.782342,
+    47.673323
+],
+  "geometry": {"coordinates":[-116.782342,47.673323],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 857630363,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-116.999255,47.711706,-116.999255,47.711706",
+    "geom:latitude":47.711706,
+    "geom:longitude":-116.999255,
+    "iso:country":"US",
+    "sg:address":"3820 W 5th Ave",
+    "sg:city":"Post Falls",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/id/post-falls-rathdrum/212114-mcdonalds/menu/",
+    "sg:owner":"simplegeo",
+    "sg:postcode":"83854",
+    "sg:province":"ID",
+    "sg:tags":[
+        "burger",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        102191575,
+        85633793,
+        85938145,
+        102086085,
+        85833263
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_56VSbCfZGxDQGr0dDQFnDs_47.711706_-116.999255@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464204673,
+    "wof:geomhash":"97a87ca9e9f8e660d39ab386eb80333e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086085,
+            "locality_id":85938145,
+            "neighbourhood_id":85833263,
+            "region_id":85688657,
+            "venue_id":857630363
+        }
+    ],
+    "wof:id":857630363,
+    "wof:lastmodified":1464204673,
+    "wof:name":"McDonald's",
+    "wof:parent_id":85833263,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american"
+    ]
+},
+  "bbox": [
+    -116.999255,
+    47.711706,
+    -116.999255,
+    47.711706
+],
+  "geometry": {"coordinates":[-116.99925500000001,47.711706],"type":"Point"}
+}

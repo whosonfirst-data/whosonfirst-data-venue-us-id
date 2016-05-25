@@ -1,0 +1,73 @@
+{
+  "id": 857564215,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-116.394851,43.606326,-116.394851,43.606326",
+    "geom:latitude":43.606326,
+    "geom:longitude":-116.394851,
+    "iso:country":"US",
+    "sg:address":"125 Taylor Ave",
+    "sg:city":"Meridian",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Architect",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 288 2571",
+    "sg:postcode":"83642",
+    "sg:province":"ID",
+    "sg:tags":[
+        "building",
+        "construction"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85937915,
+        102086087,
+        85805083
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2C4KVZFbXEIyjfU2vEDJ26_43.606326_-116.394851@1294099250"
+    },
+    "wof:country":"US",
+    "wof:created":1464203242,
+    "wof:geomhash":"5560b37f005513e8b6c131c17ca99a36",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086087,
+            "locality_id":85937915,
+            "neighbourhood_id":85805083,
+            "region_id":85688657,
+            "venue_id":857564215
+        }
+    ],
+    "wof:id":857564215,
+    "wof:lastmodified":1464203242,
+    "wof:name":"Calply",
+    "wof:parent_id":85805083,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "building",
+        "construction"
+    ]
+},
+  "bbox": [
+    -116.394851,
+    43.606326,
+    -116.394851,
+    43.606326
+],
+  "geometry": {"coordinates":[-116.394851,43.606326],"type":"Point"}
+}

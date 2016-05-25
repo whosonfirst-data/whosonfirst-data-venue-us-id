@@ -1,0 +1,69 @@
+{
+  "id": 857613309,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-116.762764,47.714324,-116.762764,47.714324",
+    "geom:latitude":47.714324,
+    "geom:longitude":-116.762764,
+    "iso:country":"US",
+    "sg:address":"3873 N Alex St",
+    "sg:city":"Coeur D Alene",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 765 3539",
+    "sg:postcode":"83815",
+    "sg:province":"ID",
+    "sg:tags":[
+        "nonresidential"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85821457,
+        102086085
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6zEJUF0kUQjJi7PmlqCF6t_47.714324_-116.762764@1294099250"
+    },
+    "wof:country":"US",
+    "wof:created":1464204288,
+    "wof:geomhash":"ecf2eddfcdf697e1808bd090893297cd",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086085,
+            "neighbourhood_id":85821457,
+            "region_id":85688657,
+            "venue_id":857613309
+        }
+    ],
+    "wof:id":857613309,
+    "wof:lastmodified":1464204288,
+    "wof:name":"Tank Guys",
+    "wof:parent_id":85821457,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "nonresidential"
+    ]
+},
+  "bbox": [
+    -116.762764,
+    47.714324,
+    -116.762764,
+    47.714324
+],
+  "geometry": {"coordinates":[-116.762764,47.714324],"type":"Point"}
+}

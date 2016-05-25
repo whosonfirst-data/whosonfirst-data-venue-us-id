@@ -1,0 +1,68 @@
+{
+  "id": 857541331,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-116.372895,43.619504,-116.372895,43.619504",
+    "geom:latitude":43.619504,
+    "geom:longitude":-116.372895,
+    "iso:country":"US",
+    "sg:address":"1850 E Fairview Ave",
+    "sg:city":"Meridian",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 884 2104",
+    "sg:postcode":"83642",
+    "sg:province":"ID",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        102191575,
+        85633793,
+        85937915,
+        102086087,
+        85811491
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_18j9PxUHLJAKbJ9YHxuAEX_43.619504_-116.372895@1294099250"
+    },
+    "wof:country":"US",
+    "wof:created":1464202763,
+    "wof:geomhash":"6eb6691587a3839add4b3e22d455aa3b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086087,
+            "locality_id":85937915,
+            "neighbourhood_id":85811491,
+            "region_id":85688657,
+            "venue_id":857541331
+        }
+    ],
+    "wof:id":857541331,
+    "wof:lastmodified":1464202763,
+    "wof:name":"Washington Mutual",
+    "wof:parent_id":85811491,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -116.372895,
+    43.619504,
+    -116.372895,
+    43.619504
+],
+  "geometry": {"coordinates":[-116.372895,43.619504],"type":"Point"}
+}

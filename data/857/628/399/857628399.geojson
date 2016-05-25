@@ -1,0 +1,76 @@
+{
+  "id": 857628399,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-116.352732,43.619421,-116.352732,43.619421",
+    "geom:latitude":43.619421,
+    "geom:longitude":-116.352732,
+    "iso:country":"US",
+    "sg:address":"3801 E Fairview Ave",
+    "sg:city":"Meridian",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/id/boise-city/3799-texas-roadhouse/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 887 9401",
+    "sg:postcode":"83642",
+    "sg:province":"ID",
+    "sg:tags":[
+        "american",
+        "steakhouse"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        102191575,
+        85633793,
+        85937915,
+        102086087,
+        85811491
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_01FyVDCGfK2zYuLCPtcoZJ_43.619421_-116.352732@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464204631,
+    "wof:geomhash":"45b42375592b190f6a03e3e5f4449281",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086087,
+            "locality_id":85937915,
+            "neighbourhood_id":85811491,
+            "region_id":85688657,
+            "venue_id":857628399
+        }
+    ],
+    "wof:id":857628399,
+    "wof:lastmodified":1464204631,
+    "wof:name":"Texas Roadhouse",
+    "wof:parent_id":85811491,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "steakhouse"
+    ]
+},
+  "bbox": [
+    -116.352732,
+    43.619421,
+    -116.352732,
+    43.619421
+],
+  "geometry": {"coordinates":[-116.352732,43.619421],"type":"Point"}
+}

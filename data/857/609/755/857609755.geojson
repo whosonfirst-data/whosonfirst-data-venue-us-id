@@ -1,0 +1,73 @@
+{
+  "id": 857609755,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-116.122653,47.531041,-116.122653,47.531041",
+    "geom:latitude":47.531041,
+    "geom:longitude":-116.122653,
+    "iso:country":"US",
+    "sg:address":"692 Main St",
+    "sg:city":"Kellogg",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 783 8501",
+    "sg:postcode":"83837",
+    "sg:province":"ID",
+    "sg:tags":[
+        "general",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85937825,
+        102086103,
+        85849049
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6SVmpizUxJ5XI2LV3ntf3R_47.531041_-116.122653@1294099250"
+    },
+    "wof:country":"US",
+    "wof:created":1464204201,
+    "wof:geomhash":"86a8d0295c473bd107dfa15e087897c7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086103,
+            "locality_id":85937825,
+            "neighbourhood_id":85849049,
+            "region_id":85688657,
+            "venue_id":857609755
+        }
+    ],
+    "wof:id":857609755,
+    "wof:lastmodified":1464204201,
+    "wof:name":"Bekel Construction Inc",
+    "wof:parent_id":85849049,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "general",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -116.122653,
+    47.531041,
+    -116.122653,
+    47.531041
+],
+  "geometry": {"coordinates":[-116.122653,47.531041],"type":"Point"}
+}

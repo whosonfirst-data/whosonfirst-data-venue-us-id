@@ -1,0 +1,71 @@
+{
+  "id": 857532003,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-116.393639,43.609108,-116.393639,43.609108",
+    "geom:latitude":43.609108,
+    "geom:longitude":-116.393639,
+    "iso:country":"US",
+    "sg:address":"603 N Meridian Rd",
+    "sg:city":"Meridian",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Gifts & Souvenirs",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 884 0675",
+    "sg:postcode":"83642",
+    "sg:province":"ID",
+    "sg:tags":[
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85937915,
+        102086087,
+        85805083
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_65qgxt2LeKT28lvZO2TEKA_43.609108_-116.393639@1294099250"
+    },
+    "wof:country":"US",
+    "wof:created":1464202585,
+    "wof:geomhash":"8db965acbab1455930422aaea1460d9c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086087,
+            "locality_id":85937915,
+            "neighbourhood_id":85805083,
+            "region_id":85688657,
+            "venue_id":857532003
+        }
+    ],
+    "wof:id":857532003,
+    "wof:lastmodified":1464202585,
+    "wof:name":"Pepper & Co",
+    "wof:parent_id":85805083,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop"
+    ]
+},
+  "bbox": [
+    -116.393639,
+    43.609108,
+    -116.393639,
+    43.609108
+],
+  "geometry": {"coordinates":[-116.39363899999999,43.609108],"type":"Point"}
+}

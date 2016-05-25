@@ -1,0 +1,69 @@
+{
+  "id": 857522249,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-116.933408,46.427445,-116.933408,46.427445",
+    "geom:latitude":46.427445,
+    "geom:longitude":-116.933408,
+    "iso:country":"US",
+    "sg:address":"16070 Hatwai Byp",
+    "sg:city":"Lewiston",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 743 7779",
+    "sg:postcode":"83501",
+    "sg:province":"ID",
+    "sg:tags":[
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85824237,
+        102086039
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4HSxQ3gDlxjGR6JWawU6nL_46.427445_-116.933408@1294099250"
+    },
+    "wof:country":"US",
+    "wof:created":1464202394,
+    "wof:geomhash":"6edc3676fa02befa1d7fc8f7eb349548",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086039,
+            "neighbourhood_id":85824237,
+            "region_id":85688657,
+            "venue_id":857522249
+        }
+    ],
+    "wof:id":857522249,
+    "wof:lastmodified":1464202394,
+    "wof:name":"Freightways Inc",
+    "wof:parent_id":85824237,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "trucking"
+    ]
+},
+  "bbox": [
+    -116.933408,
+    46.427445,
+    -116.933408,
+    46.427445
+],
+  "geometry": {"coordinates":[-116.933408,46.427445],"type":"Point"}
+}

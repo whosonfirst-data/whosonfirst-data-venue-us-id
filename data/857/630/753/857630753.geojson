@@ -1,0 +1,74 @@
+{
+  "id": 857630753,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-117.00189,46.412321,-117.00189,46.412321",
+    "geom:latitude":46.412321,
+    "geom:longitude":-117.00189,
+    "iso:country":"US",
+    "sg:address":"833 21st St",
+    "sg:city":"Lewiston",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/id/lewiston/236697-mandarin-pine-restaurant/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 746 4919",
+    "sg:postcode":"83501",
+    "sg:province":"ID",
+    "sg:tags":[
+        "asian",
+        "chinese"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85937743,
+        102086039,
+        85837769
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6ogf16RTgMcPsegP7kcdIc_46.412063_-117.001846@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1464204680,
+    "wof:geomhash":"98c83c00a44f667624511cd908bf5915",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086039,
+            "locality_id":85937743,
+            "neighbourhood_id":85837769,
+            "region_id":85688657,
+            "venue_id":857630753
+        }
+    ],
+    "wof:id":857630753,
+    "wof:lastmodified":1464204680,
+    "wof:name":"Mandarin Pine Restaurant",
+    "wof:parent_id":85837769,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "asian",
+        "chinese"
+    ]
+},
+  "bbox": [
+    -117.00189,
+    46.412321,
+    -117.00189,
+    46.412321
+],
+  "geometry": {"coordinates":[-117.00189,46.412321],"type":"Point"}
+}

@@ -1,0 +1,89 @@
+{
+  "id": 857537185,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-116.978332,46.380253,-116.978332,46.380253",
+    "geom:latitude":46.380253,
+    "geom:longitude":-116.978332,
+    "iso:country":"US",
+    "sg:address":"1030 Bryden Ave",
+    "sg:city":"Lewiston",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Cleaning & Sanitation",
+            "type":"Services"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 798 8178",
+    "sg:postcode":"83501",
+    "sg:province":"ID",
+    "sg:tags":[
+        "filter",
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85937743,
+        102086039,
+        85837769,
+        102191575,
+        85830385
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2TFbV2je1dHhISU2sPtVoT_46.380253_-116.978332@1294099250"
+    },
+    "wof:country":"US",
+    "wof:created":1464202684,
+    "wof:geomhash":"ed8411d28e82009d2a8ebc6d90896318",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086039,
+            "locality_id":85937743,
+            "neighbourhood_id":85837769,
+            "region_id":85688657,
+            "venue_id":857537185
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086039,
+            "locality_id":85937743,
+            "neighbourhood_id":85830385,
+            "region_id":85688657,
+            "venue_id":857537185
+        }
+    ],
+    "wof:id":857537185,
+    "wof:lastmodified":1464202684,
+    "wof:name":"Lee's Filter Clean",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "filter",
+        "general"
+    ]
+},
+  "bbox": [
+    -116.978332,
+    46.380253,
+    -116.978332,
+    46.380253
+],
+  "geometry": {"coordinates":[-116.97833199999999,46.380253],"type":"Point"}
+}

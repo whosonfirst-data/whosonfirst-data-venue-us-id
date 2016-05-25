@@ -1,0 +1,71 @@
+{
+  "id": 857534397,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-116.786192,47.699899,-116.786192,47.699899",
+    "geom:latitude":47.699899,
+    "geom:longitude":-116.786192,
+    "iso:country":"US",
+    "sg:address":"2500 N Government Way",
+    "sg:city":"Coeur D Alene",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 765 3004",
+    "sg:postcode":"83814",
+    "sg:province":"ID",
+    "sg:tags":[
+        "loan",
+        "real estate"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85821457,
+        102086085
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5mOjrbavMDxerdwywIYnsi_47.699899_-116.786192@1294099250"
+    },
+    "wof:country":"US",
+    "wof:created":1464202628,
+    "wof:geomhash":"30536a4df09236aa555b7495eea9f320",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086085,
+            "neighbourhood_id":85821457,
+            "region_id":85688657,
+            "venue_id":857534397
+        }
+    ],
+    "wof:id":857534397,
+    "wof:lastmodified":1464202628,
+    "wof:name":"Wells Fargo Home Mortgage",
+    "wof:parent_id":85821457,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "loan",
+        "real estate"
+    ]
+},
+  "bbox": [
+    -116.786192,
+    47.699899,
+    -116.786192,
+    47.699899
+],
+  "geometry": {"coordinates":[-116.786192,47.699899],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 857505039,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-116.334462,43.606992,-116.334462,43.606992",
+    "geom:latitude":43.606992,
+    "geom:longitude":-116.334462,
+    "iso:country":"US",
+    "sg:address":"301 N Cloverdale Rd",
+    "sg:city":"Boise",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 378 0194",
+    "sg:postcode":"83713",
+    "sg:province":"ID",
+    "sg:tags":[
+        "dry",
+        "bulk",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85937915,
+        102086087,
+        85805083
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_10NjUg7Rx9t2Q88bC0qrcr_43.606992_-116.334462@1294099250"
+    },
+    "wof:country":"US",
+    "wof:created":1464202033,
+    "wof:geomhash":"87d692d17e113317ea87012b130bb54c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086087,
+            "locality_id":85937915,
+            "neighbourhood_id":85805083,
+            "region_id":85688657,
+            "venue_id":857505039
+        }
+    ],
+    "wof:id":857505039,
+    "wof:lastmodified":1464202033,
+    "wof:name":"Empire Transport",
+    "wof:parent_id":85805083,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dry",
+        "bulk",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -116.334462,
+    43.606992,
+    -116.334462,
+    43.606992
+],
+  "geometry": {"coordinates":[-116.334462,43.606992],"type":"Point"}
+}

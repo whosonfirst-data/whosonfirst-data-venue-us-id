@@ -1,0 +1,71 @@
+{
+  "id": 857584749,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-116.944821,46.364109,-116.944821,46.364109",
+    "geom:latitude":46.364109,
+    "geom:longitude":-116.944821,
+    "iso:country":"US",
+    "sg:address":"1621 Hemlock Ave",
+    "sg:city":"Lewiston",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 743 5919",
+    "sg:postcode":"83501",
+    "sg:province":"ID",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85937743,
+        102086039,
+        85837769
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0aBVclP8kGKOa0nmQeeWhC_46.364109_-116.944821@1294099250"
+    },
+    "wof:country":"US",
+    "wof:created":1464203638,
+    "wof:geomhash":"6797021f2ba2c843cd7f084da05b828b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086039,
+            "locality_id":85937743,
+            "neighbourhood_id":85837769,
+            "region_id":85688657,
+            "venue_id":857584749
+        }
+    ],
+    "wof:id":857584749,
+    "wof:lastmodified":1464203638,
+    "wof:name":"Classic Builders Inc",
+    "wof:parent_id":85837769,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -116.944821,
+    46.364109,
+    -116.944821,
+    46.364109
+],
+  "geometry": {"coordinates":[-116.944821,46.364109],"type":"Point"}
+}

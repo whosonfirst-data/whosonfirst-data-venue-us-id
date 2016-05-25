@@ -1,0 +1,72 @@
+{
+  "id": 857630273,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-116.790691,47.744599,-116.790691,47.744599",
+    "geom:latitude":47.744599,
+    "geom:longitude":-116.790691,
+    "iso:country":"US",
+    "sg:address":"301 W Prairie Ave",
+    "sg:city":"Hayden",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/id/coeur-dalene/77695-papa-murphys/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 772 0552",
+    "sg:postcode":"83835",
+    "sg:province":"ID",
+    "sg:tags":[
+        "american",
+        "pizza"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85821457,
+        102086085
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5eZOn3hNRjhFqoFxChfDjf_47.744599_-116.790691@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464204671,
+    "wof:geomhash":"258d3555e854bcc6324b9e33f87f2309",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086085,
+            "neighbourhood_id":85821457,
+            "region_id":85688657,
+            "venue_id":857630273
+        }
+    ],
+    "wof:id":857630273,
+    "wof:lastmodified":1464204671,
+    "wof:name":"Papa Murphy's",
+    "wof:parent_id":85821457,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "pizza"
+    ]
+},
+  "bbox": [
+    -116.790691,
+    47.744599,
+    -116.790691,
+    47.744599
+],
+  "geometry": {"coordinates":[-116.790691,47.744599],"type":"Point"}
+}

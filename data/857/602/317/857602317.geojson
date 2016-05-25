@@ -1,0 +1,73 @@
+{
+  "id": 857602317,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-116.377417,43.601172,-116.377417,43.601172",
+    "geom:latitude":43.601172,
+    "geom:longitude":-116.377417,
+    "iso:country":"US",
+    "sg:address":"345 S Adkins Way",
+    "sg:city":"Meridian",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 288 0416",
+    "sg:postcode":"83642",
+    "sg:province":"ID",
+    "sg:tags":[
+        "general",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85937915,
+        102086087,
+        85805083
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7D8UotBLsdmRJHGiRJkE17_43.601172_-116.377417@1294099250"
+    },
+    "wof:country":"US",
+    "wof:created":1464204035,
+    "wof:geomhash":"a16757bbab0bb314f53d60ee583153ec",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086087,
+            "locality_id":85937915,
+            "neighbourhood_id":85805083,
+            "region_id":85688657,
+            "venue_id":857602317
+        }
+    ],
+    "wof:id":857602317,
+    "wof:lastmodified":1464204035,
+    "wof:name":"Walt Morrow Construction",
+    "wof:parent_id":85805083,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "general",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -116.377417,
+    43.601172,
+    -116.377417,
+    43.601172
+],
+  "geometry": {"coordinates":[-116.37741699999999,43.601172],"type":"Point"}
+}

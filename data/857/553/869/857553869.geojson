@@ -1,0 +1,71 @@
+{
+  "id": 857553869,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-116.989497,46.428826,-116.989497,46.428826",
+    "geom:latitude":46.428826,
+    "geom:longitude":-116.989497,
+    "iso:country":"US",
+    "sg:address":"701 29th St N",
+    "sg:city":"Lewiston",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 746 7961",
+    "sg:postcode":"83501",
+    "sg:province":"ID",
+    "sg:tags":[
+        "mover"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85937743,
+        102086039,
+        85837769
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7PeMN78jQqYggVZL1iLF5D_46.428826_-116.989497@1294099250"
+    },
+    "wof:country":"US",
+    "wof:created":1464203004,
+    "wof:geomhash":"eadbd86a81ceade033234e20d442519b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086039,
+            "locality_id":85937743,
+            "neighbourhood_id":85837769,
+            "region_id":85688657,
+            "venue_id":857553869
+        }
+    ],
+    "wof:id":857553869,
+    "wof:lastmodified":1464203004,
+    "wof:name":"Eagle Transfer Trinaco Inc",
+    "wof:parent_id":85837769,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mover"
+    ]
+},
+  "bbox": [
+    -116.989497,
+    46.428826,
+    -116.989497,
+    46.428826
+],
+  "geometry": {"coordinates":[-116.989497,46.428826],"type":"Point"}
+}

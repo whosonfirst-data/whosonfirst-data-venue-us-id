@@ -1,0 +1,75 @@
+{
+  "id": 857629771,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-116.288674,43.604649,-116.288674,43.604649",
+    "geom:latitude":43.604649,
+    "geom:longitude":-116.288674,
+    "iso:country":"US",
+    "sg:address":"8571 W Franklin Rd",
+    "sg:city":"Boise",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/id/boise-city/212077-mcdonalds/menu/",
+    "sg:owner":"simplegeo",
+    "sg:postcode":"83709",
+    "sg:province":"ID",
+    "sg:tags":[
+        "burger",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        102191575,
+        85633793,
+        85937923,
+        102086087,
+        85841319
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2CnlFHMw6msM2bG12xC7qj_43.604649_-116.288674@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464204656,
+    "wof:geomhash":"9b5153e1ea70f009694540e1116a54e3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086087,
+            "locality_id":85937923,
+            "neighbourhood_id":85841319,
+            "region_id":85688657,
+            "venue_id":857629771
+        }
+    ],
+    "wof:id":857629771,
+    "wof:lastmodified":1464204656,
+    "wof:name":"McDonald's",
+    "wof:parent_id":85841319,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american"
+    ]
+},
+  "bbox": [
+    -116.288674,
+    43.604649,
+    -116.288674,
+    43.604649
+],
+  "geometry": {"coordinates":[-116.288674,43.604649],"type":"Point"}
+}

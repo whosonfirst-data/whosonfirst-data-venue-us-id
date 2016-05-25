@@ -1,0 +1,71 @@
+{
+  "id": 857553089,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-116.565081,43.579333,-116.565081,43.579333",
+    "geom:latitude":43.579333,
+    "geom:longitude":-116.565081,
+    "iso:country":"US",
+    "sg:address":"319 9th Ave S",
+    "sg:city":"Nampa",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Architect",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 466 2100",
+    "sg:postcode":"83651",
+    "sg:province":"ID",
+    "sg:tags":[
+        "architectural"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85938009,
+        102085081,
+        85827787
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3xnkhK9B1F48clPiEzmX5B_43.579333_-116.565081@1294099250"
+    },
+    "wof:country":"US",
+    "wof:created":1464202991,
+    "wof:geomhash":"5ce860b48d88ecca87ef89e9dd5fd6c8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085081,
+            "locality_id":85938009,
+            "neighbourhood_id":85827787,
+            "region_id":85688657,
+            "venue_id":857553089
+        }
+    ],
+    "wof:id":857553089,
+    "wof:lastmodified":1464202991,
+    "wof:name":"Shelly Hanway Designs",
+    "wof:parent_id":85827787,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "architectural"
+    ]
+},
+  "bbox": [
+    -116.565081,
+    43.579333,
+    -116.565081,
+    43.579333
+],
+  "geometry": {"coordinates":[-116.56508100000001,43.579333],"type":"Point"}
+}

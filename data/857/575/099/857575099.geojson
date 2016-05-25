@@ -1,0 +1,73 @@
+{
+  "id": 857575099,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-116.120477,47.537051,-116.120477,47.537051",
+    "geom:latitude":47.537051,
+    "geom:longitude":-116.120477,
+    "iso:country":"US",
+    "sg:address":"2 N Division St",
+    "sg:city":"Kellogg",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 786 4431",
+    "sg:postcode":"83837",
+    "sg:province":"ID",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85937825,
+        102086103,
+        85849049
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_02hsxDOXf9f9h4EB9eLP7X_47.537051_-116.120477@1294099250"
+    },
+    "wof:country":"US",
+    "wof:created":1464203452,
+    "wof:geomhash":"8237a1a6483b79e8e9fe1b34f46e104f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086103,
+            "locality_id":85937825,
+            "neighbourhood_id":85849049,
+            "region_id":85688657,
+            "venue_id":857575099
+        }
+    ],
+    "wof:id":857575099,
+    "wof:lastmodified":1464203452,
+    "wof:name":"Reco's Muffler & Auto Repair",
+    "wof:parent_id":85849049,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -116.120477,
+    47.537051,
+    -116.120477,
+    47.537051
+],
+  "geometry": {"coordinates":[-116.12047699999999,47.537051],"type":"Point"}
+}

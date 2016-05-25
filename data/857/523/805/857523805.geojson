@@ -1,0 +1,75 @@
+{
+  "id": 857523805,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-116.767619,47.696991,-116.767619,47.696991",
+    "geom:latitude":47.696991,
+    "geom:longitude":-116.767619,
+    "iso:country":"US",
+    "sg:address":"2112 N 13th St",
+    "sg:city":"Coeur D Alene",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 667 0338",
+    "sg:postcode":"83814",
+    "sg:province":"ID",
+    "sg:tags":[
+        "local",
+        "without",
+        "storage",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85821457,
+        102086085
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6rQyvWM2lC7ITBkTcmaYQW_47.696991_-116.767619@1294099250"
+    },
+    "wof:country":"US",
+    "wof:created":1464202426,
+    "wof:geomhash":"bc76ab4d100eec7eb44dce9c570b7f55",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086085,
+            "neighbourhood_id":85821457,
+            "region_id":85688657,
+            "venue_id":857523805
+        }
+    ],
+    "wof:id":857523805,
+    "wof:lastmodified":1464202426,
+    "wof:name":"Meckle Trucking",
+    "wof:parent_id":85821457,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "local",
+        "without",
+        "storage",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -116.767619,
+    47.696991,
+    -116.767619,
+    47.696991
+],
+  "geometry": {"coordinates":[-116.767619,47.696991],"type":"Point"}
+}

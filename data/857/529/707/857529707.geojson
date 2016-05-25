@@ -1,0 +1,71 @@
+{
+  "id": 857529707,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-116.687603,47.957627,-116.687603,47.957627",
+    "geom:latitude":47.957627,
+    "geom:longitude":-116.687603,
+    "iso:country":"US",
+    "sg:address":"6524 E Trinity Ln",
+    "sg:city":"Athol",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 683 2181",
+    "sg:postcode":"83801",
+    "sg:province":"ID",
+    "sg:tags":[
+        "commercial",
+        "storage"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85821457,
+        102086085
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0ES61UGLcAntPa4BX77bbU_47.957627_-116.687603@1294099250"
+    },
+    "wof:country":"US",
+    "wof:created":1464202538,
+    "wof:geomhash":"578a7ca97adc607b697ea31166d13256",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086085,
+            "neighbourhood_id":85821457,
+            "region_id":85688657,
+            "venue_id":857529707
+        }
+    ],
+    "wof:id":857529707,
+    "wof:lastmodified":1464202538,
+    "wof:name":"Farragut Mini Storage",
+    "wof:parent_id":85821457,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "commercial",
+        "storage"
+    ]
+},
+  "bbox": [
+    -116.687603,
+    47.957627,
+    -116.687603,
+    47.957627
+],
+  "geometry": {"coordinates":[-116.687603,47.957627],"type":"Point"}
+}

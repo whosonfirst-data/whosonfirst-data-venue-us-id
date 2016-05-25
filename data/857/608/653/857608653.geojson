@@ -1,0 +1,75 @@
+{
+  "id": 857608653,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-116.268415,43.669505,-116.268415,43.669505",
+    "geom:latitude":43.669505,
+    "geom:longitude":-116.268415,
+    "iso:country":"US",
+    "sg:address":"5500 N Pierce Park Ln",
+    "sg:city":"Boise",
+    "sg:classifiers":[
+        {
+            "category":"Recreation",
+            "subcategory":"",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 853 7946",
+    "sg:postcode":"83714",
+    "sg:province":"ID",
+    "sg:tags":[
+        "instruction",
+        "swimming"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        102191575,
+        85633793,
+        85938191,
+        102086087,
+        85811879
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0v7r0x9Y8yoVZuR4wC607h_43.669505_-116.268415@1294099250"
+    },
+    "wof:country":"US",
+    "wof:created":1464204179,
+    "wof:geomhash":"fada29007ea1d1acfcb584095591ab68",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086087,
+            "locality_id":85938191,
+            "neighbourhood_id":85811879,
+            "region_id":85688657,
+            "venue_id":857608653
+        }
+    ],
+    "wof:id":857608653,
+    "wof:lastmodified":1464204179,
+    "wof:name":"Pat's Pool",
+    "wof:parent_id":85811879,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "instruction",
+        "swimming"
+    ]
+},
+  "bbox": [
+    -116.268415,
+    43.669505,
+    -116.268415,
+    43.669505
+],
+  "geometry": {"coordinates":[-116.268415,43.669505],"type":"Point"}
+}

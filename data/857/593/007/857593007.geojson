@@ -1,0 +1,75 @@
+{
+  "id": 857593007,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-116.999749,47.718123,-116.999749,47.718123",
+    "geom:latitude":47.718123,
+    "geom:longitude":-116.999749,
+    "iso:country":"US",
+    "sg:address":"995 N Boulder Ct",
+    "sg:city":"Post Falls",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 457 8733",
+    "sg:postcode":"83854",
+    "sg:province":"ID",
+    "sg:tags":[
+        "commercial",
+        "storage"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        102191575,
+        85633793,
+        85938145,
+        102086085,
+        85833263
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_28YD2qxUXLiBgIC73Aj6Yd_47.718123_-116.999749@1294099250"
+    },
+    "wof:country":"US",
+    "wof:created":1464203827,
+    "wof:geomhash":"78b427d32a56bd73b3b85ddf3407e534",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086085,
+            "locality_id":85938145,
+            "neighbourhood_id":85833263,
+            "region_id":85688657,
+            "venue_id":857593007
+        }
+    ],
+    "wof:id":857593007,
+    "wof:lastmodified":1464203827,
+    "wof:name":"A Better Storage Solution",
+    "wof:parent_id":85833263,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "commercial",
+        "storage"
+    ]
+},
+  "bbox": [
+    -116.999749,
+    47.718123,
+    -116.999749,
+    47.718123
+],
+  "geometry": {"coordinates":[-116.99974899999999,47.718123],"type":"Point"}
+}

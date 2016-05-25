@@ -1,0 +1,71 @@
+{
+  "id": 857582783,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-116.713235,47.951171,-116.713235,47.951171",
+    "geom:latitude":47.951171,
+    "geom:longitude":-116.713235,
+    "iso:country":"US",
+    "sg:address":"30720 N Meadow St",
+    "sg:city":"Athol",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 263 4583",
+    "sg:postcode":"83801",
+    "sg:province":"ID",
+    "sg:tags":[
+        "heating",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85821457,
+        102086085
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3j1cLvmcKYPQZDZGRfzbCV_47.951171_-116.713235@1294099250"
+    },
+    "wof:country":"US",
+    "wof:created":1464203604,
+    "wof:geomhash":"4afb4f43266b7516510080f105f5b098",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086085,
+            "neighbourhood_id":85821457,
+            "region_id":85688657,
+            "venue_id":857582783
+        }
+    ],
+    "wof:id":857582783,
+    "wof:lastmodified":1464203604,
+    "wof:name":"All Seasons Heating & Air Cond",
+    "wof:parent_id":85821457,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "heating",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -116.713235,
+    47.951171,
+    -116.713235,
+    47.951171
+],
+  "geometry": {"coordinates":[-116.713235,47.951171],"type":"Point"}
+}

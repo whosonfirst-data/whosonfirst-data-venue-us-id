@@ -1,0 +1,71 @@
+{
+  "id": 857553295,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-116.682156,47.786324,-116.682156,47.786324",
+    "geom:latitude":47.786324,
+    "geom:longitude":-116.682156,
+    "iso:country":"US",
+    "sg:address":"12535 N Chicken Point Rd",
+    "sg:city":"Hayden",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Tools & Machinery",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 772 5509",
+    "sg:postcode":"83835",
+    "sg:province":"ID",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85821457,
+        102086085
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1KK3J9DqAqD9Y3jQQaz8Z8_47.786324_-116.682156@1294099250"
+    },
+    "wof:country":"US",
+    "wof:created":1464202995,
+    "wof:geomhash":"57b9d813a456e621afb22267e5f1fbb8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086085,
+            "neighbourhood_id":85821457,
+            "region_id":85688657,
+            "venue_id":857553295
+        }
+    ],
+    "wof:id":857553295,
+    "wof:lastmodified":1464202995,
+    "wof:name":"Bio-Works Corp",
+    "wof:parent_id":85821457,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -116.682156,
+    47.786324,
+    -116.682156,
+    47.786324
+],
+  "geometry": {"coordinates":[-116.68215600000001,47.786324],"type":"Point"}
+}

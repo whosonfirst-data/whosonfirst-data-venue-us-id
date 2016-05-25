@@ -1,0 +1,72 @@
+{
+  "id": 857626693,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-117.013289,46.418123,-117.013289,46.418123",
+    "geom:latitude":46.418123,
+    "geom:longitude":-117.013289,
+    "iso:country":"US",
+    "sg:address":"1407 Main St",
+    "sg:city":"Lewiston",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 746 6262",
+    "sg:postcode":"83501",
+    "sg:province":"ID",
+    "sg:tags":[
+        "pizza"
+    ],
+    "sg:website":"http://www.antonioslewiston.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85937743,
+        102086039,
+        85837769
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7aFr39qPgYNrkks30HEhe8_46.418201_-117.013291@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1464204595,
+    "wof:geomhash":"52fc2cb957efc53dc9a70ce753fd2bdb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086039,
+            "locality_id":85937743,
+            "neighbourhood_id":85837769,
+            "region_id":85688657,
+            "venue_id":857626693
+        }
+    ],
+    "wof:id":857626693,
+    "wof:lastmodified":1464204595,
+    "wof:name":"Antonio's Pizza & Pasta",
+    "wof:parent_id":85837769,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pizza"
+    ]
+},
+  "bbox": [
+    -117.013289,
+    46.418123,
+    -117.013289,
+    46.418123
+],
+  "geometry": {"coordinates":[-117.013289,46.418123],"type":"Point"}
+}

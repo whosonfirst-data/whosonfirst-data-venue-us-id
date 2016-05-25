@@ -1,0 +1,85 @@
+{
+  "id": 857584265,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-116.796436,47.697768,-116.796436,47.697768",
+    "geom:latitude":47.697768,
+    "geom:longitude":-116.796436,
+    "iso:country":"US",
+    "sg:address":"2190 W Ironwood Center Dr",
+    "sg:city":"Coeur D Alene",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Investment Brokerage",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 664 0458",
+    "sg:postcode":"83814",
+    "sg:province":"ID",
+    "sg:tags":[
+        "consultant",
+        "planning",
+        "financial"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85821457,
+        102086085,
+        102191575,
+        85938163,
+        85806325
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1ipkOuzXnP4sAejNSFXA0D_47.697768_-116.796436@1294099250"
+    },
+    "wof:country":"US",
+    "wof:created":1464203629,
+    "wof:geomhash":"fee366abd7d69144d97a115ea397bf81",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086085,
+            "neighbourhood_id":85821457,
+            "region_id":85688657,
+            "venue_id":857584265
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086085,
+            "locality_id":85938163,
+            "neighbourhood_id":85806325,
+            "region_id":85688657,
+            "venue_id":857584265
+        }
+    ],
+    "wof:id":857584265,
+    "wof:lastmodified":1464203629,
+    "wof:name":"Financial Strategies",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "consultant",
+        "planning",
+        "financial"
+    ]
+},
+  "bbox": [
+    -116.796436,
+    47.697768,
+    -116.796436,
+    47.697768
+],
+  "geometry": {"coordinates":[-116.796436,47.697768],"type":"Point"}
+}

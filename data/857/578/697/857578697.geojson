@@ -1,0 +1,73 @@
+{
+  "id": 857578697,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-116.322177,43.602471,-116.322177,43.602471",
+    "geom:latitude":43.602471,
+    "geom:longitude":-116.322177,
+    "iso:country":"US",
+    "sg:address":"11099 W Highmont Dr",
+    "sg:city":"Boise",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"Adult Care",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 377 4107",
+    "sg:postcode":"83709",
+    "sg:province":"ID",
+    "sg:tags":[
+        "home",
+        "residential"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85937915,
+        102086087,
+        85805083
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_53z8otXFXSnlfjIZNhITbr_43.602471_-116.322177@1294099250"
+    },
+    "wof:country":"US",
+    "wof:created":1464203525,
+    "wof:geomhash":"78537411093d80a563ab6253f63ca157",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086087,
+            "locality_id":85937915,
+            "neighbourhood_id":85805083,
+            "region_id":85688657,
+            "venue_id":857578697
+        }
+    ],
+    "wof:id":857578697,
+    "wof:lastmodified":1464203525,
+    "wof:name":"Ashley Manor Care Ctr",
+    "wof:parent_id":85805083,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "home",
+        "residential"
+    ]
+},
+  "bbox": [
+    -116.322177,
+    43.602471,
+    -116.322177,
+    43.602471
+],
+  "geometry": {"coordinates":[-116.322177,43.602471],"type":"Point"}
+}

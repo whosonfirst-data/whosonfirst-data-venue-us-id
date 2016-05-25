@@ -1,0 +1,71 @@
+{
+  "id": 857556563,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-116.195326,43.62033,-116.195326,43.62033",
+    "geom:latitude":43.62033,
+    "geom:longitude":-116.195326,
+    "iso:country":"US",
+    "sg:address":"550 W Fort St",
+    "sg:city":"Boise",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 334 1451",
+    "sg:postcode":"83702",
+    "sg:province":"ID",
+    "sg:tags":[
+        "federal",
+        "security"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85876291,
+        102086087
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0lOS3CsAPcZ2Qh5vIJ5v7x_43.620330_-116.195326@1294099250"
+    },
+    "wof:country":"US",
+    "wof:created":1464203063,
+    "wof:geomhash":"1e125004f0064fd0e1d2482e072f5777",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086087,
+            "neighbourhood_id":85876291,
+            "region_id":85688657,
+            "venue_id":857556563
+        }
+    ],
+    "wof:id":857556563,
+    "wof:lastmodified":1464203063,
+    "wof:name":"US Defense Contract Audit Agcy",
+    "wof:parent_id":85876291,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "federal",
+        "security"
+    ]
+},
+  "bbox": [
+    -116.195326,
+    43.62033,
+    -116.195326,
+    43.62033
+],
+  "geometry": {"coordinates":[-116.19532599999999,43.62033],"type":"Point"}
+}

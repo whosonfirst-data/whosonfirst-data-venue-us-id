@@ -1,0 +1,73 @@
+{
+  "id": 857615883,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-117.003009,46.422731,-117.003009,46.422731",
+    "geom:latitude":46.422731,
+    "geom:longitude":-117.003009,
+    "iso:country":"US",
+    "sg:address":"2125 2nd Ave N",
+    "sg:city":"Lewiston",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 746 7336",
+    "sg:postcode":"83501",
+    "sg:province":"ID",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85937743,
+        102086039,
+        85837769
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1QV46FWaUB5TG8ixd6UQL7_46.422731_-117.003009@1294099250"
+    },
+    "wof:country":"US",
+    "wof:created":1464204337,
+    "wof:geomhash":"991217ac24d12014456ac03d3366c95c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086039,
+            "locality_id":85937743,
+            "neighbourhood_id":85837769,
+            "region_id":85688657,
+            "venue_id":857615883
+        }
+    ],
+    "wof:id":857615883,
+    "wof:lastmodified":1464204337,
+    "wof:name":"Idaho Machine & Svc Inc",
+    "wof:parent_id":85837769,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -117.003009,
+    46.422731,
+    -117.003009,
+    46.422731
+],
+  "geometry": {"coordinates":[-117.00300900000001,46.422731],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 857596547,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-116.563425,43.571205,-116.563425,43.571205",
+    "geom:latitude":43.571205,
+    "geom:longitude":-116.563425,
+    "iso:country":"US",
+    "sg:address":"1515 8th St S",
+    "sg:city":"Nampa",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"School",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 467 3601",
+    "sg:postcode":"83651",
+    "sg:province":"ID",
+    "sg:website":"www.stpaulnampa.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85938009,
+        102085081,
+        85827787
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4X6z8FVJLaHC9wATmmMMwI_43.571205_-116.563425@1294099250"
+    },
+    "wof:country":"US",
+    "wof:created":1464203907,
+    "wof:geomhash":"0fa253ee994deb95309d9885dfbcde57",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085081,
+            "locality_id":85938009,
+            "neighbourhood_id":85827787,
+            "region_id":85688657,
+            "venue_id":857596547
+        }
+    ],
+    "wof:id":857596547,
+    "wof:lastmodified":1464203907,
+    "wof:name":"St Paul's School",
+    "wof:parent_id":85827787,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -116.563425,
+    43.571205,
+    -116.563425,
+    43.571205
+],
+  "geometry": {"coordinates":[-116.563425,43.571205],"type":"Point"}
+}

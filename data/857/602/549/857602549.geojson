@@ -1,0 +1,73 @@
+{
+  "id": 857602549,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-116.272919,43.610338,-116.272919,43.610338",
+    "geom:latitude":43.610338,
+    "geom:longitude":-116.272919,
+    "iso:country":"US",
+    "sg:address":"7161 Potomac Dr",
+    "sg:city":"Boise",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Hospital",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 321 0160",
+    "sg:postcode":"83704",
+    "sg:province":"ID",
+    "sg:tags":[
+        "mental"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        102191575,
+        85633793,
+        85937923,
+        102086087,
+        85841319
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2DgBHIbxDqA8hKeGmShE4g_43.610338_-116.272919@1294099250"
+    },
+    "wof:country":"US",
+    "wof:created":1464204039,
+    "wof:geomhash":"f34d89c778cf85d358cd0a6be7589532",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086087,
+            "locality_id":85937923,
+            "neighbourhood_id":85841319,
+            "region_id":85688657,
+            "venue_id":857602549
+        }
+    ],
+    "wof:id":857602549,
+    "wof:lastmodified":1464204039,
+    "wof:name":"Human Supports Of Idaho",
+    "wof:parent_id":85841319,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mental"
+    ]
+},
+  "bbox": [
+    -116.272919,
+    43.610338,
+    -116.272919,
+    43.610338
+],
+  "geometry": {"coordinates":[-116.272919,43.610338],"type":"Point"}
+}

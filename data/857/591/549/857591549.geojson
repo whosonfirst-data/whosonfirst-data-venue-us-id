@@ -1,0 +1,73 @@
+{
+  "id": 857591549,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-116.482808,43.604858,-116.482808,43.604858",
+    "geom:latitude":43.604858,
+    "geom:longitude":-116.482808,
+    "iso:country":"US",
+    "sg:address":"4491 E Franklin Rd",
+    "sg:city":"Nampa",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Animal Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 467 9236",
+    "sg:postcode":"83687",
+    "sg:province":"ID",
+    "sg:tags":[
+        "training",
+        "dog"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85938009,
+        102085081,
+        85827787
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0ZVcFa7Yj06ykwrpBGr4X4_43.604858_-116.482808@1294099250"
+    },
+    "wof:country":"US",
+    "wof:created":1464203795,
+    "wof:geomhash":"02dd2ffd220c15c55ebe48aa57332a0a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085081,
+            "locality_id":85938009,
+            "neighbourhood_id":85827787,
+            "region_id":85688657,
+            "venue_id":857591549
+        }
+    ],
+    "wof:id":857591549,
+    "wof:lastmodified":1464203795,
+    "wof:name":"Morning Mist Kennels",
+    "wof:parent_id":85827787,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "training",
+        "dog"
+    ]
+},
+  "bbox": [
+    -116.482808,
+    43.604858,
+    -116.482808,
+    43.604858
+],
+  "geometry": {"coordinates":[-116.48280800000001,43.604858],"type":"Point"}
+}

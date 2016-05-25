@@ -1,0 +1,73 @@
+{
+  "id": 857511247,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-116.930486,44.078219,-116.930486,44.078219",
+    "geom:latitude":44.078219,
+    "geom:longitude":-116.930486,
+    "iso:country":"US",
+    "sg:address":"1105 3rd Ave N",
+    "sg:city":"Payette",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 642 9763",
+    "sg:postcode":"83661",
+    "sg:province":"ID",
+    "sg:tags":[
+        "dentist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        102191575,
+        85633793,
+        85937905,
+        102086023,
+        85840959
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6Q07UmuORulYv9pY43qz0y_44.078219_-116.930486@1294099250"
+    },
+    "wof:country":"US",
+    "wof:created":1464202172,
+    "wof:geomhash":"8248627a70092eb63e091080190dc548",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086023,
+            "locality_id":85937905,
+            "neighbourhood_id":85840959,
+            "region_id":85688657,
+            "venue_id":857511247
+        }
+    ],
+    "wof:id":857511247,
+    "wof:lastmodified":1464202172,
+    "wof:name":"Aspen Dental Ctr",
+    "wof:parent_id":85840959,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dentist"
+    ]
+},
+  "bbox": [
+    -116.930486,
+    44.078219,
+    -116.930486,
+    44.078219
+],
+  "geometry": {"coordinates":[-116.930486,44.078219],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 857631199,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-116.7858,47.700604,-116.7858,47.700604",
+    "geom:latitude":47.700604,
+    "geom:longitude":-116.7858,
+    "iso:country":"US",
+    "sg:address":"106 E Appleway Ave",
+    "sg:city":"Coeur D Alene",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/id/coeur-dalene/161078-carls-jr/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 666 0957",
+    "sg:postcode":"83814",
+    "sg:province":"ID",
+    "sg:tags":[
+        "burger",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85821457,
+        102086085
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4V7WZ0SXQSr5FnBJr5fiXb_47.700659_-116.785338@1294099250"
+    },
+    "wof:country":"US",
+    "wof:created":1464204689,
+    "wof:geomhash":"2263a10787411b62136a28ab72a8cb97",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086085,
+            "neighbourhood_id":85821457,
+            "region_id":85688657,
+            "venue_id":857631199
+        }
+    ],
+    "wof:id":857631199,
+    "wof:lastmodified":1464204689,
+    "wof:name":"Carl's Jr.",
+    "wof:parent_id":85821457,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american"
+    ]
+},
+  "bbox": [
+    -116.7858,
+    47.700604,
+    -116.7858,
+    47.700604
+],
+  "geometry": {"coordinates":[-116.78579999999999,47.700604],"type":"Point"}
+}

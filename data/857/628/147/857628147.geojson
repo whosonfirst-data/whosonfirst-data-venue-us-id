@@ -1,0 +1,76 @@
+{
+  "id": 857628147,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-116.392257,43.600247,-116.392257,43.600247",
+    "geom:latitude":43.600247,
+    "geom:longitude":-116.392257,
+    "iso:country":"US",
+    "sg:address":"521 S Main St",
+    "sg:city":"Meridian",
+    "sg:classifiers":[
+        {
+            "category":"Deli",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/id/boise-city/127127-blimpie-subs--sandwiches/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 887 1234",
+    "sg:postcode":"83642",
+    "sg:province":"ID",
+    "sg:tags":[
+        "wrap",
+        "american",
+        "sandwich"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85937915,
+        102086087,
+        85805083
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5Ytvl4S1lWTS8M7NSnxbWi_43.600247_-116.392257@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464204626,
+    "wof:geomhash":"1d71e1f2fee3c047e2d89c2a73d85742",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086087,
+            "locality_id":85937915,
+            "neighbourhood_id":85805083,
+            "region_id":85688657,
+            "venue_id":857628147
+        }
+    ],
+    "wof:id":857628147,
+    "wof:lastmodified":1464204626,
+    "wof:name":"Blimpie Subs & Sandwiches",
+    "wof:parent_id":85805083,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "wrap",
+        "american",
+        "sandwich"
+    ]
+},
+  "bbox": [
+    -116.392257,
+    43.600247,
+    -116.392257,
+    43.600247
+],
+  "geometry": {"coordinates":[-116.392257,43.600247],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 857555283,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-116.122914,47.537004,-116.122914,47.537004",
+    "geom:latitude":47.537004,
+    "geom:longitude":-116.122914,
+    "iso:country":"US",
+    "sg:address":"35 Railroad Ave",
+    "sg:city":"Kellogg",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 784 3009",
+    "sg:postcode":"83837",
+    "sg:province":"ID",
+    "sg:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85937825,
+        102086103,
+        85849049
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6eu8N371JPZ1E1e9yuoWas_47.537004_-116.122914@1294099250"
+    },
+    "wof:country":"US",
+    "wof:created":1464203038,
+    "wof:geomhash":"c3983bb87e7c28b94b2a229e50f76a79",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086103,
+            "locality_id":85937825,
+            "neighbourhood_id":85849049,
+            "region_id":85688657,
+            "venue_id":857555283
+        }
+    ],
+    "wof:id":857555283,
+    "wof:lastmodified":1464203038,
+    "wof:name":"Hickey's Collision Repair",
+    "wof:parent_id":85849049,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ]
+},
+  "bbox": [
+    -116.122914,
+    47.537004,
+    -116.122914,
+    47.537004
+],
+  "geometry": {"coordinates":[-116.12291399999999,47.537004],"type":"Point"}
+}

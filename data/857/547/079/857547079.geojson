@@ -1,0 +1,71 @@
+{
+  "id": 857547079,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-117.000953,46.424929,-117.000953,46.424929",
+    "geom:latitude":46.424929,
+    "geom:longitude":-117.000953,
+    "iso:country":"US",
+    "sg:address":"421 22nd St N",
+    "sg:city":"Lewiston",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Veterinary Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 743 6553",
+    "sg:postcode":"83501",
+    "sg:province":"ID",
+    "sg:tags":[
+        "veterinarian"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85937743,
+        102086039,
+        85837769
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_540KsfpLiABfapQItvfZYQ_46.424929_-117.000953@1294099250"
+    },
+    "wof:country":"US",
+    "wof:created":1464202875,
+    "wof:geomhash":"2d866bb43b3bbd763031b5d2a4d0f518",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086039,
+            "locality_id":85937743,
+            "neighbourhood_id":85837769,
+            "region_id":85688657,
+            "venue_id":857547079
+        }
+    ],
+    "wof:id":857547079,
+    "wof:lastmodified":1464202875,
+    "wof:name":"Lewiston Veterinary Clinic",
+    "wof:parent_id":85837769,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "veterinarian"
+    ]
+},
+  "bbox": [
+    -117.000953,
+    46.424929,
+    -117.000953,
+    46.424929
+],
+  "geometry": {"coordinates":[-117.000953,46.424929],"type":"Point"}
+}

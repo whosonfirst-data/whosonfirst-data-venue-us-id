@@ -1,0 +1,74 @@
+{
+  "id": 857630139,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-116.762528,47.700756,-116.762528,47.700756",
+    "geom:latitude":47.700756,
+    "geom:longitude":-116.762528,
+    "iso:country":"US",
+    "sg:address":"1650 E Best Ave",
+    "sg:city":"Coeur D Alene",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/id/coeur-dalene/235336-taco-time/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 765 8668",
+    "sg:postcode":"83814",
+    "sg:province":"ID",
+    "sg:tags":[
+        "american",
+        "mexican",
+        "tex-mex"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85821457,
+        102086085
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4eY95eCabZE04XSWftFDQz_47.700756_-116.762528@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464204668,
+    "wof:geomhash":"e9d7dca577d34c0bb4adff9641efa99d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086085,
+            "neighbourhood_id":85821457,
+            "region_id":85688657,
+            "venue_id":857630139
+        }
+    ],
+    "wof:id":857630139,
+    "wof:lastmodified":1464204668,
+    "wof:name":"Taco Time",
+    "wof:parent_id":85821457,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "mexican",
+        "tex-mex"
+    ]
+},
+  "bbox": [
+    -116.762528,
+    47.700756,
+    -116.762528,
+    47.700756
+],
+  "geometry": {"coordinates":[-116.762528,47.700756],"type":"Point"}
+}

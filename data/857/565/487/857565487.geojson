@@ -1,0 +1,71 @@
+{
+  "id": 857565487,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-116.392021,43.612944,-116.392021,43.612944",
+    "geom:latitude":43.612944,
+    "geom:longitude":-116.392021,
+    "iso:country":"US",
+    "sg:address":"32 E State Ave",
+    "sg:city":"Meridian",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Art Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 888 1769",
+    "sg:postcode":"83642",
+    "sg:province":"ID",
+    "sg:tags":[
+        "artist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85937915,
+        102086087,
+        85805083
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7DI5RpmigfVy7YUzav7k2X_43.612944_-116.392021@1294099250"
+    },
+    "wof:country":"US",
+    "wof:created":1464203264,
+    "wof:geomhash":"5c91690a2c99132775f7fa1f7e5ac420",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086087,
+            "locality_id":85937915,
+            "neighbourhood_id":85805083,
+            "region_id":85688657,
+            "venue_id":857565487
+        }
+    ],
+    "wof:id":857565487,
+    "wof:lastmodified":1464203264,
+    "wof:name":"Window Art By Ellen",
+    "wof:parent_id":85805083,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "artist"
+    ]
+},
+  "bbox": [
+    -116.392021,
+    43.612944,
+    -116.392021,
+    43.612944
+],
+  "geometry": {"coordinates":[-116.392021,43.612944],"type":"Point"}
+}

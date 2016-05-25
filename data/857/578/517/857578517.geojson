@@ -1,0 +1,80 @@
+{
+  "id": 857578517,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-116.381805,43.604845,-116.381805,43.604845",
+    "geom:latitude":43.604845,
+    "geom:longitude":-116.381805,
+    "iso:country":"US",
+    "sg:address":"890 E Franklin Rd",
+    "sg:city":"Meridian",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Management & Consulting",
+            "type":"Services"
+        },
+        {
+            "category":"Wholesale",
+            "subcategory":"Groceries",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 288 2225",
+    "sg:postcode":"83642",
+    "sg:province":"ID",
+    "sg:tags":[
+        "food",
+        "broker",
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85937915,
+        102086087,
+        85805083
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5WPviFE3q7ZicZXNS7XzAc_43.604845_-116.381805@1294099250"
+    },
+    "wof:country":"US",
+    "wof:created":1464203520,
+    "wof:geomhash":"36d40938c84ccebf90df7eacd9c3d7e8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086087,
+            "locality_id":85937915,
+            "neighbourhood_id":85805083,
+            "region_id":85688657,
+            "venue_id":857578517
+        }
+    ],
+    "wof:id":857578517,
+    "wof:lastmodified":1464203520,
+    "wof:name":"Elite Foodservice Assoc",
+    "wof:parent_id":85805083,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "food",
+        "broker",
+        "general"
+    ]
+},
+  "bbox": [
+    -116.381805,
+    43.604845,
+    -116.381805,
+    43.604845
+],
+  "geometry": {"coordinates":[-116.381805,43.604845],"type":"Point"}
+}

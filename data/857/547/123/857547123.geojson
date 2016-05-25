@@ -1,0 +1,73 @@
+{
+  "id": 857547123,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-116.232155,43.600609,-116.232155,43.600609",
+    "geom:latitude":43.600609,
+    "geom:longitude":-116.232155,
+    "iso:country":"US",
+    "sg:address":"4013 Rose Hill St",
+    "sg:city":"Boise",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Animal Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 250 2595",
+    "sg:postcode":"83705",
+    "sg:province":"ID",
+    "sg:tags":[
+        "pet"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        102191575,
+        85633793,
+        85937923,
+        102086087,
+        85876295
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_671Z4fzdy3o0YlUhvFccsf_43.600609_-116.232155@1294099250"
+    },
+    "wof:country":"US",
+    "wof:created":1464202876,
+    "wof:geomhash":"5e4dd17747a2189eae9230d21c82cb0d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086087,
+            "locality_id":85937923,
+            "neighbourhood_id":85876295,
+            "region_id":85688657,
+            "venue_id":857547123
+        }
+    ],
+    "wof:id":857547123,
+    "wof:lastmodified":1464202876,
+    "wof:name":"Squatting Dog",
+    "wof:parent_id":85876295,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pet"
+    ]
+},
+  "bbox": [
+    -116.232155,
+    43.600609,
+    -116.232155,
+    43.600609
+],
+  "geometry": {"coordinates":[-116.23215500000001,43.600609],"type":"Point"}
+}

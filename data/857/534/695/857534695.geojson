@@ -1,0 +1,71 @@
+{
+  "id": 857534695,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-116.562287,43.569165,-116.562287,43.569165",
+    "geom:latitude":43.569165,
+    "geom:longitude":-116.562287,
+    "iso:country":"US",
+    "sg:address":"1712 9th St S",
+    "sg:city":"Nampa",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Accounting & Tax Preparation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 467 1894",
+    "sg:postcode":"83651",
+    "sg:province":"ID",
+    "sg:tags":[
+        "accountant"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85938009,
+        102085081,
+        85827787
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5OByyERGCmNxCu8A2pzTOI_43.569165_-116.562287@1294099250"
+    },
+    "wof:country":"US",
+    "wof:created":1464202633,
+    "wof:geomhash":"ef31b48a3de12ef492d18eabd987b17a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085081,
+            "locality_id":85938009,
+            "neighbourhood_id":85827787,
+            "region_id":85688657,
+            "venue_id":857534695
+        }
+    ],
+    "wof:id":857534695,
+    "wof:lastmodified":1464202633,
+    "wof:name":"Locknane Accounting",
+    "wof:parent_id":85827787,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "accountant"
+    ]
+},
+  "bbox": [
+    -116.562287,
+    43.569165,
+    -116.562287,
+    43.569165
+],
+  "geometry": {"coordinates":[-116.562287,43.569165],"type":"Point"}
+}

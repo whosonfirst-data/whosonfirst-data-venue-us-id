@@ -1,0 +1,71 @@
+{
+  "id": 857584299,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-116.518557,43.549345,-116.518557,43.549345",
+    "geom:latitude":43.549345,
+    "geom:longitude":-116.518557,
+    "iso:country":"US",
+    "sg:address":"2108 S Secretariat Way",
+    "sg:city":"Nampa",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 467 0903",
+    "sg:postcode":"83686",
+    "sg:province":"ID",
+    "sg:tags":[
+        "painter"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85938009,
+        102085081,
+        85827787
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2sRnukE9CfxgIqeJPszHIy_43.549345_-116.518557@1294099250"
+    },
+    "wof:country":"US",
+    "wof:created":1464203630,
+    "wof:geomhash":"b4687b7058954e5cf9b15b0ad81d22e8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085081,
+            "locality_id":85938009,
+            "neighbourhood_id":85827787,
+            "region_id":85688657,
+            "venue_id":857584299
+        }
+    ],
+    "wof:id":857584299,
+    "wof:lastmodified":1464203630,
+    "wof:name":"Extreme Painting Inc",
+    "wof:parent_id":85827787,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "painter"
+    ]
+},
+  "bbox": [
+    -116.518557,
+    43.549345,
+    -116.518557,
+    43.549345
+],
+  "geometry": {"coordinates":[-116.518557,43.549345],"type":"Point"}
+}

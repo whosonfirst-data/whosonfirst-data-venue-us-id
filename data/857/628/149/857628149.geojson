@@ -1,0 +1,74 @@
+{
+  "id": 857628149,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-116.355072,43.586067,-116.355072,43.586067",
+    "geom:latitude":43.586067,
+    "geom:longitude":-116.355072,
+    "iso:country":"US",
+    "sg:address":"3010 E Goldstone Dr",
+    "sg:city":"Meridian",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/id/boise-city/180366-jack-in-the-box/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 884 3755",
+    "sg:postcode":"83642",
+    "sg:province":"ID",
+    "sg:tags":[
+        "burger",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85937915,
+        102086087,
+        85805083
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2DtGukEuUrWNd0WPC4USvw_43.586067_-116.355072@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464204626,
+    "wof:geomhash":"16a9ae521c0ecbc6d1219064bc709c89",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086087,
+            "locality_id":85937915,
+            "neighbourhood_id":85805083,
+            "region_id":85688657,
+            "venue_id":857628149
+        }
+    ],
+    "wof:id":857628149,
+    "wof:lastmodified":1464204626,
+    "wof:name":"Jack in the Box",
+    "wof:parent_id":85805083,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american"
+    ]
+},
+  "bbox": [
+    -116.355072,
+    43.586067,
+    -116.355072,
+    43.586067
+],
+  "geometry": {"coordinates":[-116.35507200000001,43.586067],"type":"Point"}
+}

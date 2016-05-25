@@ -1,0 +1,73 @@
+{
+  "id": 857529241,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-115.998354,47.507577,-115.998354,47.507577",
+    "geom:latitude":47.507577,
+    "geom:longitude":-115.998354,
+    "iso:country":"US",
+    "sg:address":"220 N 3rd St",
+    "sg:city":"Osburn",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 753 4461",
+    "sg:postcode":"83849",
+    "sg:province":"ID",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85937825,
+        102086103,
+        85849049
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0znOoZRVC0vSsC0zTWSiBl_47.507577_-115.998354@1294099250"
+    },
+    "wof:country":"US",
+    "wof:created":1464202528,
+    "wof:geomhash":"ff8495ebfcd7f5ed9e87b196b980171e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086103,
+            "locality_id":85937825,
+            "neighbourhood_id":85849049,
+            "region_id":85688657,
+            "venue_id":857529241
+        }
+    ],
+    "wof:id":857529241,
+    "wof:lastmodified":1464202528,
+    "wof:name":"Garry's Lube & Oil",
+    "wof:parent_id":85849049,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -115.998354,
+    47.507577,
+    -115.998354,
+    47.507577
+],
+  "geometry": {"coordinates":[-115.99835400000001,47.507577],"type":"Point"}
+}

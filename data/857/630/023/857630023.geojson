@@ -1,0 +1,72 @@
+{
+  "id": 857630023,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-116.782479,47.70044,-116.782479,47.70044",
+    "geom:latitude":47.70044,
+    "geom:longitude":-116.782479,
+    "iso:country":"US",
+    "sg:address":"218 E Appleway Ave",
+    "sg:city":"Coeur D Alene",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/id/coeur-dalene/198415-kfc---kentucky-fried-chicken/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 667 8747",
+    "sg:postcode":"83814",
+    "sg:province":"ID",
+    "sg:tags":[
+        "american",
+        "chicken"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85821457,
+        102086085
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1GhtK4NgbGECRvZQfSjYXz_47.700440_-116.782479@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464204660,
+    "wof:geomhash":"1c0b26865e4e457961206d060e49352b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086085,
+            "neighbourhood_id":85821457,
+            "region_id":85688657,
+            "venue_id":857630023
+        }
+    ],
+    "wof:id":857630023,
+    "wof:lastmodified":1464204660,
+    "wof:name":"KFC - Kentucky Fried Chicken",
+    "wof:parent_id":85821457,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "chicken"
+    ]
+},
+  "bbox": [
+    -116.782479,
+    47.70044,
+    -116.782479,
+    47.70044
+],
+  "geometry": {"coordinates":[-116.782479,47.70044],"type":"Point"}
+}

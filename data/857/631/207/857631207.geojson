@@ -1,0 +1,84 @@
+{
+  "id": 857631207,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-116.804672,47.698587,-116.804672,47.698587",
+    "geom:latitude":47.698587,
+    "geom:longitude":-116.804672,
+    "iso:country":"US",
+    "sg:address":"1381 W Northwood Center Ct",
+    "sg:city":"Coeur D Alene",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/id/coeur-dalene/3449-outback-steakhouse/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 666 1500",
+    "sg:postcode":"83814",
+    "sg:province":"ID",
+    "sg:tags":[
+        "american",
+        "steakhouse"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85821457,
+        102086085,
+        102191575,
+        85938163,
+        85806325
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3eHq5MXlhqYguLC5macGov_47.698063_-116.803919@1294099250"
+    },
+    "wof:country":"US",
+    "wof:created":1464204689,
+    "wof:geomhash":"9c62bbd392443c53fb98ff92b77d25c1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086085,
+            "neighbourhood_id":85821457,
+            "region_id":85688657,
+            "venue_id":857631207
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086085,
+            "locality_id":85938163,
+            "neighbourhood_id":85806325,
+            "region_id":85688657,
+            "venue_id":857631207
+        }
+    ],
+    "wof:id":857631207,
+    "wof:lastmodified":1464204689,
+    "wof:name":"Outback Steakhouse",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "steakhouse"
+    ]
+},
+  "bbox": [
+    -116.804672,
+    47.698587,
+    -116.804672,
+    47.698587
+],
+  "geometry": {"coordinates":[-116.804672,47.698587],"type":"Point"}
+}

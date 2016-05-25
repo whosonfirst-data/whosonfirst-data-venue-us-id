@@ -1,0 +1,73 @@
+{
+  "id": 857541539,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-117.003289,46.403125,-117.003289,46.403125",
+    "geom:latitude":46.403125,
+    "geom:longitude":-117.003289,
+    "iso:country":"US",
+    "sg:address":"2009 17th Ave",
+    "sg:city":"Lewiston",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Car Wash",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 746 8873",
+    "sg:postcode":"83501",
+    "sg:province":"ID",
+    "sg:tags":[
+        "polishing",
+        "washing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85937743,
+        102086039,
+        85837769
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4zx4BZxlrn55ZGwQweUJZw_46.403125_-117.003289@1294099250"
+    },
+    "wof:country":"US",
+    "wof:created":1464202766,
+    "wof:geomhash":"b3559f0ee4feb95f9696c458fed00960",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086039,
+            "locality_id":85937743,
+            "neighbourhood_id":85837769,
+            "region_id":85688657,
+            "venue_id":857541539
+        }
+    ],
+    "wof:id":857541539,
+    "wof:lastmodified":1464202766,
+    "wof:name":"Aqua Touch Car Wash",
+    "wof:parent_id":85837769,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "polishing",
+        "washing"
+    ]
+},
+  "bbox": [
+    -117.003289,
+    46.403125,
+    -117.003289,
+    46.403125
+],
+  "geometry": {"coordinates":[-117.003289,46.403125],"type":"Point"}
+}

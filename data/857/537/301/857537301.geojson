@@ -1,0 +1,68 @@
+{
+  "id": 857537301,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-116.257122,43.724626,-116.257122,43.724626",
+    "geom:latitude":43.724626,
+    "geom:longitude":-116.257122,
+    "iso:country":"US",
+    "sg:address":"5480 W Hidden Springs Dr",
+    "sg:city":"Boise",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"School",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 229 4727",
+    "sg:postcode":"83714",
+    "sg:province":"ID",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        102191575,
+        85633793,
+        85938191,
+        102086087,
+        85811879
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6ANIvAilEyqYL5G1DB3KZu_43.724626_-116.257122@1294099250"
+    },
+    "wof:country":"US",
+    "wof:created":1464202686,
+    "wof:geomhash":"9762fb6beef628dc6779c1980ea2ca3e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086087,
+            "locality_id":85938191,
+            "neighbourhood_id":85811879,
+            "region_id":85688657,
+            "venue_id":857537301
+        }
+    ],
+    "wof:id":857537301,
+    "wof:lastmodified":1464202686,
+    "wof:name":"Hidden Springs Charter School",
+    "wof:parent_id":85811879,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -116.257122,
+    43.724626,
+    -116.257122,
+    43.724626
+],
+  "geometry": {"coordinates":[-116.257122,43.724626],"type":"Point"}
+}

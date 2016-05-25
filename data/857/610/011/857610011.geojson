@@ -1,0 +1,71 @@
+{
+  "id": 857610011,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-116.580447,43.590234,-116.580447,43.590234",
+    "geom:latitude":43.590234,
+    "geom:longitude":-116.580447,
+    "iso:country":"US",
+    "sg:address":"318 Caldwell Blvd",
+    "sg:city":"Nampa",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 463 9490",
+    "sg:postcode":"83651",
+    "sg:province":"ID",
+    "sg:tags":[
+        "delicatessen"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85938009,
+        102085081,
+        85827787
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5DuY6HQmy85SbV6M53u35N_43.590234_-116.580447@1294099250"
+    },
+    "wof:country":"US",
+    "wof:created":1464204206,
+    "wof:geomhash":"3b806ce79e76df6f3dd41303f75a3964",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085081,
+            "locality_id":85938009,
+            "neighbourhood_id":85827787,
+            "region_id":85688657,
+            "venue_id":857610011
+        }
+    ],
+    "wof:id":857610011,
+    "wof:lastmodified":1464204206,
+    "wof:name":"Marrianne's Deli & Coffee",
+    "wof:parent_id":85827787,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "delicatessen"
+    ]
+},
+  "bbox": [
+    -116.580447,
+    43.590234,
+    -116.580447,
+    43.590234
+],
+  "geometry": {"coordinates":[-116.58044700000001,43.590234],"type":"Point"}
+}

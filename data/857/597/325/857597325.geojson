@@ -1,0 +1,74 @@
+{
+  "id": 857597325,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-116.572868,43.549907,-116.572868,43.549907",
+    "geom:latitude":43.549907,
+    "geom:longitude":-116.572868,
+    "iso:country":"US",
+    "sg:address":"2005 12th Ave Rd",
+    "sg:city":"Nampa",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Health Practitioner",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 463 0022",
+    "sg:postcode":"83686",
+    "sg:province":"ID",
+    "sg:tags":[
+        "therapist",
+        "physical"
+    ],
+    "sg:website":"www.idahopt.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85938009,
+        102085081,
+        85827787
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4XnZyRab1lyCk64OAeQFbH_43.549907_-116.572868@1294099250"
+    },
+    "wof:country":"US",
+    "wof:created":1464203929,
+    "wof:geomhash":"ff84526833ca20a13deeca1b801a382e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085081,
+            "locality_id":85938009,
+            "neighbourhood_id":85827787,
+            "region_id":85688657,
+            "venue_id":857597325
+        }
+    ],
+    "wof:id":857597325,
+    "wof:lastmodified":1464203929,
+    "wof:name":"Idaho Physical Therapy",
+    "wof:parent_id":85827787,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "therapist",
+        "physical"
+    ]
+},
+  "bbox": [
+    -116.572868,
+    43.549907,
+    -116.572868,
+    43.549907
+],
+  "geometry": {"coordinates":[-116.572868,43.549907],"type":"Point"}
+}

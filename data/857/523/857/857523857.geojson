@@ -1,0 +1,73 @@
+{
+  "id": 857523857,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-116.518268,43.531783,-116.518268,43.531783",
+    "geom:latitude":43.531783,
+    "geom:longitude":-116.518268,
+    "iso:country":"US",
+    "sg:address":"4301 E Locust Ln",
+    "sg:city":"Nampa",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Retail Goods",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 466 5811",
+    "sg:postcode":"83686",
+    "sg:province":"ID",
+    "sg:tags":[
+        "product",
+        "mfg"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85938009,
+        102085081,
+        85827787
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6Iiwns3BBmBl7rPtPx3oKK_43.531783_-116.518268@1294099250"
+    },
+    "wof:country":"US",
+    "wof:created":1464202427,
+    "wof:geomhash":"40b3153256799ae95b09fe33cc60b5e1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085081,
+            "locality_id":85938009,
+            "neighbourhood_id":85827787,
+            "region_id":85688657,
+            "venue_id":857523857
+        }
+    ],
+    "wof:id":857523857,
+    "wof:lastmodified":1464202427,
+    "wof:name":"Everton Custom Mfg",
+    "wof:parent_id":85827787,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "product",
+        "mfg"
+    ]
+},
+  "bbox": [
+    -116.518268,
+    43.531783,
+    -116.518268,
+    43.531783
+],
+  "geometry": {"coordinates":[-116.51826800000001,43.531783],"type":"Point"}
+}

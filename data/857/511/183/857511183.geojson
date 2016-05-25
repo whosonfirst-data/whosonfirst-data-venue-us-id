@@ -1,0 +1,83 @@
+{
+  "id": 857511183,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-116.805206,47.698285,-116.805206,47.698285",
+    "geom:latitude":47.698285,
+    "geom:longitude":-116.805206,
+    "iso:country":"US",
+    "sg:address":"1233 W Northwood Center Ct",
+    "sg:city":"Coeur D Alene",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Investment Brokerage",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 667 2495",
+    "sg:postcode":"83814",
+    "sg:province":"ID",
+    "sg:tags":[
+        "stock",
+        "bond"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85821457,
+        102086085,
+        102191575,
+        85938163,
+        85806325
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4R8YzdjuMlriE5s4L4d1kM_47.698285_-116.805206@1294099250"
+    },
+    "wof:country":"US",
+    "wof:created":1464202171,
+    "wof:geomhash":"359c37fb7b614e034717a7203aca0bb7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086085,
+            "neighbourhood_id":85821457,
+            "region_id":85688657,
+            "venue_id":857511183
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086085,
+            "locality_id":85938163,
+            "neighbourhood_id":85806325,
+            "region_id":85688657,
+            "venue_id":857511183
+        }
+    ],
+    "wof:id":857511183,
+    "wof:lastmodified":1464202171,
+    "wof:name":"Smith Barney",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "stock",
+        "bond"
+    ]
+},
+  "bbox": [
+    -116.805206,
+    47.698285,
+    -116.805206,
+    47.698285
+],
+  "geometry": {"coordinates":[-116.805206,47.698285],"type":"Point"}
+}

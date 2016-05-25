@@ -1,0 +1,71 @@
+{
+  "id": 857587767,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-116.989533,46.429776,-116.989533,46.429776",
+    "geom:latitude":46.429776,
+    "geom:longitude":-116.989533,
+    "iso:country":"US",
+    "sg:address":"812 29th St N",
+    "sg:city":"Lewiston",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 743 5504",
+    "sg:postcode":"83501",
+    "sg:province":"ID",
+    "sg:tags":[
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85937743,
+        102086039,
+        85837769
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3XNr22rqgre9JCfacjyOHw_46.429776_-116.989533@1294099250"
+    },
+    "wof:country":"US",
+    "wof:created":1464203709,
+    "wof:geomhash":"481c1d8891352fb4cd4e45cf374d66ff",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086039,
+            "locality_id":85937743,
+            "neighbourhood_id":85837769,
+            "region_id":85688657,
+            "venue_id":857587767
+        }
+    ],
+    "wof:id":857587767,
+    "wof:lastmodified":1464203709,
+    "wof:name":"Fast Way Freight System",
+    "wof:parent_id":85837769,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "trucking"
+    ]
+},
+  "bbox": [
+    -116.989533,
+    46.429776,
+    -116.989533,
+    46.429776
+],
+  "geometry": {"coordinates":[-116.98953299999999,46.429776],"type":"Point"}
+}

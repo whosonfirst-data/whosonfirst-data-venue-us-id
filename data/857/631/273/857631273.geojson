@@ -1,0 +1,76 @@
+{
+  "id": 857631273,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-116.922155,47.711923,-116.922155,47.711923",
+    "geom:latitude":47.711923,
+    "geom:longitude":-116.922155,
+    "iso:country":"US",
+    "sg:address":"1670 E Schneidmiller Ave",
+    "sg:city":"Post Falls",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/id/post-falls-rathdrum/6724-dennys/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 773 6988",
+    "sg:postcode":"83854",
+    "sg:province":"ID",
+    "sg:tags":[
+        "american",
+        "diner"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        102191575,
+        85633793,
+        85938145,
+        102086085,
+        85833263
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5rX5uqZrGo6kjbFodM0fl4_47.712081_-116.921650@1294099250"
+    },
+    "wof:country":"US",
+    "wof:created":1464204691,
+    "wof:geomhash":"fc75adec3a190644713859920e0d9e17",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086085,
+            "locality_id":85938145,
+            "neighbourhood_id":85833263,
+            "region_id":85688657,
+            "venue_id":857631273
+        }
+    ],
+    "wof:id":857631273,
+    "wof:lastmodified":1464204691,
+    "wof:name":"Denny's",
+    "wof:parent_id":85833263,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "diner"
+    ]
+},
+  "bbox": [
+    -116.922155,
+    47.711923,
+    -116.922155,
+    47.711923
+],
+  "geometry": {"coordinates":[-116.922155,47.711923],"type":"Point"}
+}

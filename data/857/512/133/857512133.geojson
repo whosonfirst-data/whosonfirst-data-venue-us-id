@@ -1,0 +1,73 @@
+{
+  "id": 857512133,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-117.021498,46.412431,-117.021498,46.412431",
+    "geom:latitude":46.412431,
+    "geom:longitude":-117.021498,
+    "iso:country":"US",
+    "sg:address":"801 8th St",
+    "sg:city":"Lewiston",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Textiles",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 746 9745",
+    "sg:postcode":"83501",
+    "sg:province":"ID",
+    "sg:tags":[
+        "shop",
+        "barber"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85937743,
+        102086039,
+        85837769
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2AjGsILK7xzexE35kUowW2_46.412431_-117.021498@1294099250"
+    },
+    "wof:country":"US",
+    "wof:created":1464202188,
+    "wof:geomhash":"229c3e971db33fd10601d41dae065a09",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086039,
+            "locality_id":85937743,
+            "neighbourhood_id":85837769,
+            "region_id":85688657,
+            "venue_id":857512133
+        }
+    ],
+    "wof:id":857512133,
+    "wof:lastmodified":1464202188,
+    "wof:name":"Lafays Barber Shop",
+    "wof:parent_id":85837769,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop",
+        "barber"
+    ]
+},
+  "bbox": [
+    -117.021498,
+    46.412431,
+    -117.021498,
+    46.412431
+],
+  "geometry": {"coordinates":[-117.02149799999999,46.412431],"type":"Point"}
+}

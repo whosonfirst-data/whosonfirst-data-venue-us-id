@@ -1,0 +1,71 @@
+{
+  "id": 857529695,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-116.192015,43.570123,-116.192015,43.570123",
+    "geom:latitude":43.570123,
+    "geom:longitude":-116.192015,
+    "iso:country":"US",
+    "sg:address":"3562 S Tk Ave",
+    "sg:city":"Boise",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Non-profit Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 336 9643",
+    "sg:postcode":"83705",
+    "sg:province":"ID",
+    "sg:website":"www.idahofoodbank.org",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        102527733,
+        85876337,
+        102191575,
+        85633793,
+        85937923,
+        102086087,
+        85688657
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0YzsmaKYnOsdYjgtdUjAp3_43.570123_-116.192015@1294099250"
+    },
+    "wof:country":"US",
+    "wof:created":1464202537,
+    "wof:geomhash":"434ca35a80f5ee7ba0842032f90c9bee",
+    "wof:hierarchy":[
+        {
+            "campus_id":102527733,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086087,
+            "locality_id":85937923,
+            "neighbourhood_id":85876337,
+            "region_id":85688657,
+            "venue_id":857529695
+        }
+    ],
+    "wof:id":857529695,
+    "wof:lastmodified":1464202537,
+    "wof:name":"Idaho Food Bank Warehouse",
+    "wof:parent_id":102527733,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -116.192015,
+    43.570123,
+    -116.192015,
+    43.570123
+],
+  "geometry": {"coordinates":[-116.192015,43.570123],"type":"Point"}
+}

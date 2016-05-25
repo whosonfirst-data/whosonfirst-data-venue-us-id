@@ -1,0 +1,69 @@
+{
+  "id": 857542943,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-116.753527,47.710791,-116.753527,47.710791",
+    "geom:latitude":47.710791,
+    "geom:longitude":-116.753527,
+    "iso:country":"US",
+    "sg:address":"2513 E Thomas Hill Dr",
+    "sg:city":"Coeur D Alene",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 676 0737",
+    "sg:postcode":"83815",
+    "sg:province":"ID",
+    "sg:tags":[
+        "loan"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85821457,
+        102086085
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3mz61EX49e32Tncs0C2eOa_47.710791_-116.753527@1294099250"
+    },
+    "wof:country":"US",
+    "wof:created":1464202799,
+    "wof:geomhash":"f2d6642033a273a65297abce7db88a71",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086085,
+            "neighbourhood_id":85821457,
+            "region_id":85688657,
+            "venue_id":857542943
+        }
+    ],
+    "wof:id":857542943,
+    "wof:lastmodified":1464202799,
+    "wof:name":"Pre-Settlement Funding",
+    "wof:parent_id":85821457,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "loan"
+    ]
+},
+  "bbox": [
+    -116.753527,
+    47.710791,
+    -116.753527,
+    47.710791
+],
+  "geometry": {"coordinates":[-116.75352700000001,47.710791],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 857619419,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-116.27413,43.612644,-116.27413,43.612644",
+    "geom:latitude":43.612644,
+    "geom:longitude":-116.27413,
+    "iso:country":"US",
+    "sg:address":"950 N Cole Rd",
+    "sg:city":"Boise",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Agent",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 321 9001",
+    "sg:postcode":"83704",
+    "sg:province":"ID",
+    "sg:tags":[
+        "buyer",
+        "broker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        102191575,
+        85633793,
+        85937923,
+        102086087,
+        85841319
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3ecnumgfhr68GQMksCPDyN_43.612644_-116.274130@1294099250"
+    },
+    "wof:country":"US",
+    "wof:created":1464204419,
+    "wof:geomhash":"bc8dd73643b3d32738a2f5a33549d3bc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086087,
+            "locality_id":85937923,
+            "neighbourhood_id":85841319,
+            "region_id":85688657,
+            "venue_id":857619419
+        }
+    ],
+    "wof:id":857619419,
+    "wof:lastmodified":1464204419,
+    "wof:name":"Devco Properties",
+    "wof:parent_id":85841319,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "buyer",
+        "broker"
+    ]
+},
+  "bbox": [
+    -116.27413,
+    43.612644,
+    -116.27413,
+    43.612644
+],
+  "geometry": {"coordinates":[-116.27413,43.612644],"type":"Point"}
+}

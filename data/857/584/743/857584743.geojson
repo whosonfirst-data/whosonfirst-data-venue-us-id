@@ -1,0 +1,75 @@
+{
+  "id": 857584743,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-117.004072,46.425582,-117.004072,46.425582",
+    "geom:latitude":46.425582,
+    "geom:longitude":-117.004072,
+    "iso:country":"US",
+    "sg:address":"405 20th St N",
+    "sg:city":"Lewiston",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 746 8932",
+    "sg:postcode":"83501",
+    "sg:province":"ID",
+    "sg:tags":[
+        "repairing",
+        "automobile",
+        "radiator"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85937743,
+        102086039,
+        85837769
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5DjWMKCGZOo1jbZs328zAZ_46.425582_-117.004072@1294099250"
+    },
+    "wof:country":"US",
+    "wof:created":1464203638,
+    "wof:geomhash":"741e7af2bac6ae39c5ad6e36eb6a9b83",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086039,
+            "locality_id":85937743,
+            "neighbourhood_id":85837769,
+            "region_id":85688657,
+            "venue_id":857584743
+        }
+    ],
+    "wof:id":857584743,
+    "wof:lastmodified":1464203638,
+    "wof:name":"Ed's Radiator",
+    "wof:parent_id":85837769,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile",
+        "radiator"
+    ]
+},
+  "bbox": [
+    -117.004072,
+    46.425582,
+    -117.004072,
+    46.425582
+],
+  "geometry": {"coordinates":[-117.00407199999999,46.425582],"type":"Point"}
+}

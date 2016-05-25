@@ -1,0 +1,73 @@
+{
+  "id": 857604963,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-117.015094,46.426563,-117.015094,46.426563",
+    "geom:latitude":46.426563,
+    "geom:longitude":-117.015094,
+    "iso:country":"US",
+    "sg:address":"1224 6th Ave N",
+    "sg:city":"Lewiston",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 743 3209",
+    "sg:postcode":"83501",
+    "sg:province":"ID",
+    "sg:tags":[
+        "state",
+        "program"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85937743,
+        102086039,
+        85837769
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5OyXPIcceB1EtQNlyt5x5B_46.426563_-117.015094@1294099250"
+    },
+    "wof:country":"US",
+    "wof:created":1464204096,
+    "wof:geomhash":"7189ce8455c25fac91efde5136e5c05a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086039,
+            "locality_id":85937743,
+            "neighbourhood_id":85837769,
+            "region_id":85688657,
+            "venue_id":857604963
+        }
+    ],
+    "wof:id":857604963,
+    "wof:lastmodified":1464204096,
+    "wof:name":"Port Of Lewiston Container",
+    "wof:parent_id":85837769,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "state",
+        "program"
+    ]
+},
+  "bbox": [
+    -117.015094,
+    46.426563,
+    -117.015094,
+    46.426563
+],
+  "geometry": {"coordinates":[-117.015094,46.426563],"type":"Point"}
+}

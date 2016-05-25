@@ -1,0 +1,69 @@
+{
+  "id": 857553113,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-116.803034,47.691963,-116.803034,47.691963",
+    "geom:latitude":47.691963,
+    "geom:longitude":-116.803034,
+    "iso:country":"US",
+    "sg:address":"2344 N Merrit Creek Loop",
+    "sg:city":"Coeur D Alene",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 676 8500",
+    "sg:postcode":"83814",
+    "sg:province":"ID",
+    "sg:tags":[
+        "dentist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85821457,
+        102086085
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1ZzlblxesenMcSyr2HBv36_47.691963_-116.803034@1294099250"
+    },
+    "wof:country":"US",
+    "wof:created":1464202991,
+    "wof:geomhash":"9d6c021dc19d45de5470c8461d4d979c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086085,
+            "neighbourhood_id":85821457,
+            "region_id":85688657,
+            "venue_id":857553113
+        }
+    ],
+    "wof:id":857553113,
+    "wof:lastmodified":1464202991,
+    "wof:name":"Riverstone Dental Care",
+    "wof:parent_id":85821457,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dentist"
+    ]
+},
+  "bbox": [
+    -116.803034,
+    47.691963,
+    -116.803034,
+    47.691963
+],
+  "geometry": {"coordinates":[-116.803034,47.691963],"type":"Point"}
+}

@@ -1,0 +1,83 @@
+{
+  "id": 857631083,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-116.257091,43.654926,-116.257091,43.654926",
+    "geom:latitude":43.654926,
+    "geom:longitude":-116.257091,
+    "iso:country":"US",
+    "sg:address":"5517 W State St",
+    "sg:city":"Boise",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Specialty",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Coffee & Tea",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/id/boise-city/30242-big-city-coffee/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 853 9161",
+    "sg:postcode":"83703",
+    "sg:province":"ID",
+    "sg:tags":[
+        "tea",
+        "coffee",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        102191575,
+        85633793,
+        85938191,
+        102086087,
+        85811879
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5kabSWggrWt9WUyjQeb8OU_43.654612_-116.257076@1294099250"
+    },
+    "wof:country":"US",
+    "wof:created":1464204687,
+    "wof:geomhash":"411588c66c7e87b95ac2e6f40f877b86",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086087,
+            "locality_id":85938191,
+            "neighbourhood_id":85811879,
+            "region_id":85688657,
+            "venue_id":857631083
+        }
+    ],
+    "wof:id":857631083,
+    "wof:lastmodified":1464204687,
+    "wof:name":"Big City Coffee",
+    "wof:parent_id":85811879,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "tea",
+        "coffee",
+        "american"
+    ]
+},
+  "bbox": [
+    -116.257091,
+    43.654926,
+    -116.257091,
+    43.654926
+],
+  "geometry": {"coordinates":[-116.257091,43.654926],"type":"Point"}
+}

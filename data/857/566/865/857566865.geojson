@@ -1,0 +1,84 @@
+{
+  "id": 857566865,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-116.991715,46.397287,-116.991715,46.397287",
+    "geom:latitude":46.397287,
+    "geom:longitude":-116.991715,
+    "iso:country":"US",
+    "sg:address":"2841 Juniper Dr",
+    "sg:city":"Lewiston",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 743 9712",
+    "sg:postcode":"83501",
+    "sg:province":"ID",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85937743,
+        102086039,
+        85837769,
+        102191575,
+        85830385
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_69pwdzOndPep4JrW5Tr5rJ_46.397287_-116.991715@1294099250"
+    },
+    "wof:country":"US",
+    "wof:created":1464203295,
+    "wof:geomhash":"c886882e9884c2f9be304c48035a6434",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086039,
+            "locality_id":85937743,
+            "neighbourhood_id":85837769,
+            "region_id":85688657,
+            "venue_id":857566865
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086039,
+            "locality_id":85937743,
+            "neighbourhood_id":85830385,
+            "region_id":85688657,
+            "venue_id":857566865
+        }
+    ],
+    "wof:id":857566865,
+    "wof:lastmodified":1464203295,
+    "wof:name":"Interventional Pain Consultant",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -116.991715,
+    46.397287,
+    -116.991715,
+    46.397287
+],
+  "geometry": {"coordinates":[-116.991715,46.397287],"type":"Point"}
+}

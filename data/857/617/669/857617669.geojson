@@ -1,0 +1,73 @@
+{
+  "id": 857617669,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-116.593264,43.590229,-116.593264,43.590229",
+    "geom:latitude":43.590229,
+    "geom:longitude":-116.593264,
+    "iso:country":"US",
+    "sg:address":"617 N Midland Blvd",
+    "sg:city":"Nampa",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 442 1471",
+    "sg:postcode":"83651",
+    "sg:province":"ID",
+    "sg:tags":[
+        "loan",
+        "real estate"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85938009,
+        102085081,
+        85827787
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1rpg4hAm9ocb6h1TLK5u3Q_43.590229_-116.593264@1294099250"
+    },
+    "wof:country":"US",
+    "wof:created":1464204370,
+    "wof:geomhash":"1a185072461b283ce5558ae1f6203340",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085081,
+            "locality_id":85938009,
+            "neighbourhood_id":85827787,
+            "region_id":85688657,
+            "venue_id":857617669
+        }
+    ],
+    "wof:id":857617669,
+    "wof:lastmodified":1464204370,
+    "wof:name":"Direct Mortgage",
+    "wof:parent_id":85827787,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "loan",
+        "real estate"
+    ]
+},
+  "bbox": [
+    -116.593264,
+    43.590229,
+    -116.593264,
+    43.590229
+],
+  "geometry": {"coordinates":[-116.593264,43.590229],"type":"Point"}
+}

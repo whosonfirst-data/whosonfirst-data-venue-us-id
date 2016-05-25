@@ -1,0 +1,70 @@
+{
+  "id": 857616845,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-116.789794,47.75321,-116.789794,47.75321",
+    "geom:latitude":47.75321,
+    "geom:longitude":-116.789794,
+    "iso:country":"US",
+    "sg:address":"21 W Commerce Dr",
+    "sg:city":"Hayden",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Engineering",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 667 2600",
+    "sg:postcode":"83835",
+    "sg:province":"ID",
+    "sg:tags":[
+        "engineer"
+    ],
+    "sg:website":"www.alpineengineering.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85821457,
+        102086085
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4Gqvbw5M95mxwMvWZNakXF_47.753210_-116.789794@1294099250"
+    },
+    "wof:country":"US",
+    "wof:created":1464204355,
+    "wof:geomhash":"d7c4273f37db5db77441bc6cb57dcebc",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086085,
+            "neighbourhood_id":85821457,
+            "region_id":85688657,
+            "venue_id":857616845
+        }
+    ],
+    "wof:id":857616845,
+    "wof:lastmodified":1464204355,
+    "wof:name":"Alpine Engineering",
+    "wof:parent_id":85821457,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "engineer"
+    ]
+},
+  "bbox": [
+    -116.789794,
+    47.75321,
+    -116.789794,
+    47.75321
+],
+  "geometry": {"coordinates":[-116.789794,47.75321],"type":"Point"}
+}

@@ -1,0 +1,76 @@
+{
+  "id": 857629029,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-116.257212,43.652162,-116.257212,43.652162",
+    "geom:latitude":43.652162,
+    "geom:longitude":-116.257212,
+    "iso:country":"US",
+    "sg:address":"3000 N Lakeharbor Ln",
+    "sg:city":"Boise",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/id/boise-city/3626-montego-bay/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 853 5070",
+    "sg:postcode":"83703",
+    "sg:province":"ID",
+    "sg:tags":[
+        "seafood",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        102191575,
+        85633793,
+        85938191,
+        102086087,
+        85811879
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4IqFREangG1xARSXIXDKTY_43.652162_-116.257212@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464204643,
+    "wof:geomhash":"208ba44459c5a7bd3f77273a054cd7c8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086087,
+            "locality_id":85938191,
+            "neighbourhood_id":85811879,
+            "region_id":85688657,
+            "venue_id":857629029
+        }
+    ],
+    "wof:id":857629029,
+    "wof:lastmodified":1464204643,
+    "wof:name":"Montego Bay",
+    "wof:parent_id":85811879,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "seafood",
+        "american"
+    ]
+},
+  "bbox": [
+    -116.257212,
+    43.652162,
+    -116.257212,
+    43.652162
+],
+  "geometry": {"coordinates":[-116.257212,43.652162],"type":"Point"}
+}

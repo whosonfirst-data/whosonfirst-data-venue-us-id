@@ -1,0 +1,71 @@
+{
+  "id": 857528767,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-116.575058,43.586355,-116.575058,43.586355",
+    "geom:latitude":43.586355,
+    "geom:longitude":-116.575058,
+    "iso:country":"US",
+    "sg:address":"100 Caldwell Blvd",
+    "sg:city":"Nampa",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 466 9379",
+    "sg:postcode":"83651",
+    "sg:province":"ID",
+    "sg:tags":[
+        "station"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85938009,
+        102085081,
+        85827787
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4cadXhbis4c1qLCqw6Yauy_43.586355_-116.575058@1294099250"
+    },
+    "wof:country":"US",
+    "wof:created":1464202520,
+    "wof:geomhash":"bfba1f27834cb195c739e97352e37963",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085081,
+            "locality_id":85938009,
+            "neighbourhood_id":85827787,
+            "region_id":85688657,
+            "venue_id":857528767
+        }
+    ],
+    "wof:id":857528767,
+    "wof:lastmodified":1464202520,
+    "wof:name":"Jackson Food Stores Inc",
+    "wof:parent_id":85827787,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "station"
+    ]
+},
+  "bbox": [
+    -116.575058,
+    43.586355,
+    -116.575058,
+    43.586355
+],
+  "geometry": {"coordinates":[-116.575058,43.586355],"type":"Point"}
+}

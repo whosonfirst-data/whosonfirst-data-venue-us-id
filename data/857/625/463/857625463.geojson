@@ -1,0 +1,74 @@
+{
+  "id": 857625463,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-116.391672,43.599188,-116.391672,43.599188",
+    "geom:latitude":43.599188,
+    "geom:longitude":-116.391672,
+    "iso:country":"US",
+    "sg:address":"210 E Corporate Dr",
+    "sg:city":"Meridian",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 884 2780",
+    "sg:postcode":"83642",
+    "sg:province":"ID",
+    "sg:tags":[
+        "commercial",
+        "saving"
+    ],
+    "sg:website":"http://www.wellsfargo.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85937915,
+        102086087,
+        85805083
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4xfn5QXpQGzzPKhvmMLqYg_43.599329_-116.391825@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1464204572,
+    "wof:geomhash":"8a66a2d3f7eb5af7086ede6e2da61697",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086087,
+            "locality_id":85937915,
+            "neighbourhood_id":85805083,
+            "region_id":85688657,
+            "venue_id":857625463
+        }
+    ],
+    "wof:id":857625463,
+    "wof:lastmodified":1464204572,
+    "wof:name":"Wells Fargo Bank",
+    "wof:parent_id":85805083,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "commercial",
+        "saving"
+    ]
+},
+  "bbox": [
+    -116.391672,
+    43.599188,
+    -116.391672,
+    43.599188
+],
+  "geometry": {"coordinates":[-116.391672,43.599188],"type":"Point"}
+}

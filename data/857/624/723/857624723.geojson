@@ -1,0 +1,84 @@
+{
+  "id": 857624723,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-117.022374,46.419885,-117.022374,46.419885",
+    "geom:latitude":46.419885,
+    "geom:longitude":-117.022374,
+    "iso:country":"US",
+    "sg:address":"851 Main St",
+    "sg:city":"Lewiston",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        },
+        {
+            "category":"Shopping",
+            "subcategory":"Used Merchandise",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 798 0565",
+    "sg:postcode":"83501",
+    "sg:province":"ID",
+    "sg:tags":[
+        "electrical",
+        "refrigeration",
+        "appliance",
+        "se",
+        "appliances-major-used"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85937743,
+        102086039,
+        85852537
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3tCgeKqHqcbeCr8PJ5jhVC_46.419891_-117.022244@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1464204557,
+    "wof:geomhash":"31fbdef743b852ec2325246ac93484a8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086039,
+            "locality_id":85937743,
+            "neighbourhood_id":85852537,
+            "region_id":85688657,
+            "venue_id":857624723
+        }
+    ],
+    "wof:id":857624723,
+    "wof:lastmodified":1464204557,
+    "wof:name":"Action Appliance",
+    "wof:parent_id":85852537,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electrical",
+        "refrigeration",
+        "appliance",
+        "se",
+        "appliances-major-used"
+    ]
+},
+  "bbox": [
+    -117.022374,
+    46.419885,
+    -117.022374,
+    46.419885
+],
+  "geometry": {"coordinates":[-117.022374,46.419885],"type":"Point"}
+}

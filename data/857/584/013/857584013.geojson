@@ -1,0 +1,71 @@
+{
+  "id": 857584013,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-116.592951,43.57457,-116.592951,43.57457",
+    "geom:latitude":43.57457,
+    "geom:longitude":-116.592951,
+    "iso:country":"US",
+    "sg:address":"9 S Midland Blvd",
+    "sg:city":"Nampa",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"Adult Care",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 466 6792",
+    "sg:postcode":"83651",
+    "sg:province":"ID",
+    "sg:tags":[
+        "residential"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85938009,
+        102085081,
+        85827787
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5f4TI3GGB1N1dMmzIPWP8D_43.574570_-116.592951@1294099250"
+    },
+    "wof:country":"US",
+    "wof:created":1464203625,
+    "wof:geomhash":"0c71c9a1b05c5503408f126b0a3090f2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085081,
+            "locality_id":85938009,
+            "neighbourhood_id":85827787,
+            "region_id":85688657,
+            "venue_id":857584013
+        }
+    ],
+    "wof:id":857584013,
+    "wof:lastmodified":1464203625,
+    "wof:name":"Gem State Residential Home",
+    "wof:parent_id":85827787,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "residential"
+    ]
+},
+  "bbox": [
+    -116.592951,
+    43.57457,
+    -116.592951,
+    43.57457
+],
+  "geometry": {"coordinates":[-116.592951,43.57457],"type":"Point"}
+}

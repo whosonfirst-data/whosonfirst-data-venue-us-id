@@ -1,0 +1,71 @@
+{
+  "id": 857553665,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-116.471574,47.52364,-116.471574,47.52364",
+    "geom:latitude":47.52364,
+    "geom:longitude":-116.471574,
+    "iso:country":"US",
+    "sg:address":"17355 S Bull Run Rd",
+    "sg:city":"Cataldo",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 682 3258",
+    "sg:postcode":"83810",
+    "sg:province":"ID",
+    "sg:tags":[
+        "road",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85821457,
+        102086085
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2kvlRz3bcaM80gSJCe2fPi_47.523640_-116.471574@1294099250"
+    },
+    "wof:country":"US",
+    "wof:created":1464203001,
+    "wof:geomhash":"287f99e2de0525a96e1c3b487419be71",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086085,
+            "neighbourhood_id":85821457,
+            "region_id":85688657,
+            "venue_id":857553665
+        }
+    ],
+    "wof:id":857553665,
+    "wof:lastmodified":1464203001,
+    "wof:name":"RDS Excavation",
+    "wof:parent_id":85821457,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "road",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -116.471574,
+    47.52364,
+    -116.471574,
+    47.52364
+],
+  "geometry": {"coordinates":[-116.471574,47.52364],"type":"Point"}
+}

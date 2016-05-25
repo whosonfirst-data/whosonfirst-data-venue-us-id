@@ -1,0 +1,73 @@
+{
+  "id": 857597999,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-117.005809,47.706478,-117.005809,47.706478",
+    "geom:latitude":47.706478,
+    "geom:longitude":-117.005809,
+    "iso:country":"US",
+    "sg:address":"4454 W Riverbend Rd",
+    "sg:city":"Post Falls",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Books",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 773 1628",
+    "sg:postcode":"83854",
+    "sg:province":"ID",
+    "sg:tags":[
+        "dealer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        102191575,
+        85633793,
+        85938145,
+        102086085,
+        85833263
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_71g7kcm2ZXhMHmhhhsINLj_47.706478_-117.005809@1294099250"
+    },
+    "wof:country":"US",
+    "wof:created":1464203941,
+    "wof:geomhash":"c3cca0ee5f1c087f71e3e11d11cfdda5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086085,
+            "locality_id":85938145,
+            "neighbourhood_id":85833263,
+            "region_id":85688657,
+            "venue_id":857597999
+        }
+    ],
+    "wof:id":857597999,
+    "wof:lastmodified":1464203941,
+    "wof:name":"Book Warehouse",
+    "wof:parent_id":85833263,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dealer"
+    ]
+},
+  "bbox": [
+    -117.005809,
+    47.706478,
+    -117.005809,
+    47.706478
+],
+  "geometry": {"coordinates":[-117.005809,47.706478],"type":"Point"}
+}

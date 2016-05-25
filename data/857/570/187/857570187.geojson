@@ -1,0 +1,83 @@
+{
+  "id": 857570187,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-116.796435,47.697864,-116.796435,47.697864",
+    "geom:latitude":47.697864,
+    "geom:longitude":-116.796435,
+    "iso:country":"US",
+    "sg:address":"2180 W Ironwood Center Dr",
+    "sg:city":"Coeur D Alene",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Health Practitioner",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 667 6264",
+    "sg:postcode":"83814",
+    "sg:province":"ID",
+    "sg:tags":[
+        "therapist",
+        "physical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85821457,
+        102086085,
+        102191575,
+        85938163,
+        85806325
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4Jg7tLxkOMtHaqMsEdCPLj_47.697864_-116.796435@1294099250"
+    },
+    "wof:country":"US",
+    "wof:created":1464203357,
+    "wof:geomhash":"9c80340b87a17641eb2bc8a763d8e729",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086085,
+            "neighbourhood_id":85821457,
+            "region_id":85688657,
+            "venue_id":857570187
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086085,
+            "locality_id":85938163,
+            "neighbourhood_id":85806325,
+            "region_id":85688657,
+            "venue_id":857570187
+        }
+    ],
+    "wof:id":857570187,
+    "wof:lastmodified":1464203357,
+    "wof:name":"Ironwood Drive Physical Thrpy",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "therapist",
+        "physical"
+    ]
+},
+  "bbox": [
+    -116.796435,
+    47.697864,
+    -116.796435,
+    47.697864
+],
+  "geometry": {"coordinates":[-116.796435,47.697864],"type":"Point"}
+}

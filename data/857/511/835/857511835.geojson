@@ -1,0 +1,68 @@
+{
+  "id": 857511835,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-116.39157,43.61461,-116.39157,43.61461",
+    "geom:latitude":43.61461,
+    "geom:longitude":-116.39157,
+    "iso:country":"US",
+    "sg:address":"1200 E 1st St",
+    "sg:city":"Meridian",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Post Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 000 1111",
+    "sg:postcode":"83642",
+    "sg:province":"ID",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        102191575,
+        85633793,
+        85937915,
+        102086087,
+        85811491
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1GytCDxR51pnSp7QBKqGVQ_43.614610_-116.391570@1294099250"
+    },
+    "wof:country":"US",
+    "wof:created":1464202183,
+    "wof:geomhash":"3f1f2ef41464af87abb73f49d193b1f9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086087,
+            "locality_id":85937915,
+            "neighbourhood_id":85811491,
+            "region_id":85688657,
+            "venue_id":857511835
+        }
+    ],
+    "wof:id":857511835,
+    "wof:lastmodified":1464202183,
+    "wof:name":"US Post Office",
+    "wof:parent_id":85811491,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -116.39157,
+    43.61461,
+    -116.39157,
+    43.61461
+],
+  "geometry": {"coordinates":[-116.39157,43.61461],"type":"Point"}
+}

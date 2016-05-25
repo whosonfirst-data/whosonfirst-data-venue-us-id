@@ -1,0 +1,73 @@
+{
+  "id": 857582173,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-116.960665,46.436778,-116.960665,46.436778",
+    "geom:latitude":46.436778,
+    "geom:longitude":-116.960665,
+    "iso:country":"US",
+    "sg:address":"4940 Hatwai Rd",
+    "sg:city":"Lewiston",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 746 1577",
+    "sg:postcode":"83501",
+    "sg:province":"ID",
+    "sg:tags":[
+        "concrete",
+        "pumping"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85937743,
+        102086039,
+        85837769
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_65NDUbFaNFRS5Gfz8nqtdf_46.436778_-116.960665@1294099250"
+    },
+    "wof:country":"US",
+    "wof:created":1464203593,
+    "wof:geomhash":"3a2da2cb7d449f36b0c53740ae6121f6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086039,
+            "locality_id":85937743,
+            "neighbourhood_id":85837769,
+            "region_id":85688657,
+            "venue_id":857582173
+        }
+    ],
+    "wof:id":857582173,
+    "wof:lastmodified":1464203593,
+    "wof:name":"S & S Concrete Pumping",
+    "wof:parent_id":85837769,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "concrete",
+        "pumping"
+    ]
+},
+  "bbox": [
+    -116.960665,
+    46.436778,
+    -116.960665,
+    46.436778
+],
+  "geometry": {"coordinates":[-116.96066500000001,46.436778],"type":"Point"}
+}

@@ -1,0 +1,84 @@
+{
+  "id": 857512505,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-116.99023,46.391069,-116.99023,46.391069",
+    "geom:latitude":46.391069,
+    "geom:longitude":-116.99023,
+    "iso:country":"US",
+    "sg:address":"105 Thain Rd",
+    "sg:city":"Lewiston",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Auto Supplies",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 798 4657",
+    "sg:postcode":"83501",
+    "sg:province":"ID",
+    "sg:tags":[
+        "automobile",
+        "parts"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85937743,
+        102086039,
+        85837769,
+        102191575,
+        85830385
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7NMMLxDR3Kb9tyokvoHRvV_46.391069_-116.990230@1294099250"
+    },
+    "wof:country":"US",
+    "wof:created":1464202197,
+    "wof:geomhash":"961b18695a9870e1ca2adb2077b654e2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086039,
+            "locality_id":85937743,
+            "neighbourhood_id":85837769,
+            "region_id":85688657,
+            "venue_id":857512505
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086039,
+            "locality_id":85937743,
+            "neighbourhood_id":85830385,
+            "region_id":85688657,
+            "venue_id":857512505
+        }
+    ],
+    "wof:id":857512505,
+    "wof:lastmodified":1464202197,
+    "wof:name":"Schuck's Auto Supply",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automobile",
+        "parts"
+    ]
+},
+  "bbox": [
+    -116.99023,
+    46.391069,
+    -116.99023,
+    46.391069
+],
+  "geometry": {"coordinates":[-116.99023,46.391069],"type":"Point"}
+}

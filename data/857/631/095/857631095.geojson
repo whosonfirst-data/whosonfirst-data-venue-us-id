@@ -1,0 +1,78 @@
+{
+  "id": 857631095,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-116.251206,43.651644,-116.251206,43.651644",
+    "geom:latitude":43.651644,
+    "geom:longitude":-116.251206,
+    "iso:country":"US",
+    "sg:address":"5000 W State St",
+    "sg:city":"Boise",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/id/boise-city/78144-dominos-pizza/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 853 6060",
+    "sg:postcode":"83703",
+    "sg:province":"ID",
+    "sg:tags":[
+        "american",
+        "wing",
+        "pizza"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        102191575,
+        85633793,
+        85938191,
+        102086087,
+        85811879
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_47W8s2evsryHd2unwquLit_43.651562_-116.251700@1294099250"
+    },
+    "wof:country":"US",
+    "wof:created":1464204687,
+    "wof:geomhash":"1a61641709d1c3baba9d904309dd7c30",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086087,
+            "locality_id":85938191,
+            "neighbourhood_id":85811879,
+            "region_id":85688657,
+            "venue_id":857631095
+        }
+    ],
+    "wof:id":857631095,
+    "wof:lastmodified":1464204687,
+    "wof:name":"Domino's Pizza",
+    "wof:parent_id":85811879,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "wing",
+        "pizza"
+    ]
+},
+  "bbox": [
+    -116.251206,
+    43.651644,
+    -116.251206,
+    43.651644
+],
+  "geometry": {"coordinates":[-116.251206,43.651644],"type":"Point"}
+}

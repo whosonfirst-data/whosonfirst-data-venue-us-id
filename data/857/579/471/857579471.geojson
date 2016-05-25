@@ -1,0 +1,71 @@
+{
+  "id": 857579471,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-116.789703,47.763091,-116.789703,47.763091",
+    "geom:latitude":47.763091,
+    "geom:longitude":-116.789703,
+    "iso:country":"US",
+    "sg:address":"10048 N Taryne St",
+    "sg:city":"Hayden",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 676 8455",
+    "sg:postcode":"83835",
+    "sg:province":"ID",
+    "sg:tags":[
+        "automobile",
+        "lubrication"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85821457,
+        102086085
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_207lDQvWDBuVcsRaWrJw45_47.763091_-116.789703@1294099250"
+    },
+    "wof:country":"US",
+    "wof:created":1464203543,
+    "wof:geomhash":"719db4671a2ca68727cafa8bfe504174",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086085,
+            "neighbourhood_id":85821457,
+            "region_id":85688657,
+            "venue_id":857579471
+        }
+    ],
+    "wof:id":857579471,
+    "wof:lastmodified":1464203543,
+    "wof:name":"Pro-Formance Lube Ctr",
+    "wof:parent_id":85821457,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automobile",
+        "lubrication"
+    ]
+},
+  "bbox": [
+    -116.789703,
+    47.763091,
+    -116.789703,
+    47.763091
+],
+  "geometry": {"coordinates":[-116.789703,47.763091],"type":"Point"}
+}

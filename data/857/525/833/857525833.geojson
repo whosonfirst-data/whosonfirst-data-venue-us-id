@@ -1,0 +1,71 @@
+{
+  "id": 857525833,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-116.540888,43.556498,-116.540888,43.556498",
+    "geom:latitude":43.556498,
+    "geom:longitude":-116.540888,
+    "iso:country":"US",
+    "sg:address":"1307 Dogwood Dr",
+    "sg:city":"Nampa",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Laundry & Dry Cleaning",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 463 0165",
+    "sg:postcode":"83686",
+    "sg:province":"ID",
+    "sg:tags":[
+        "carpet"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85938009,
+        102085081,
+        85827787
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4y2olL1cD29ptvAitXxono_43.556498_-116.540888@1294099250"
+    },
+    "wof:country":"US",
+    "wof:created":1464202465,
+    "wof:geomhash":"c8eb88461c79e2f0d2cd84ade5eb73cd",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085081,
+            "locality_id":85938009,
+            "neighbourhood_id":85827787,
+            "region_id":85688657,
+            "venue_id":857525833
+        }
+    ],
+    "wof:id":857525833,
+    "wof:lastmodified":1464202465,
+    "wof:name":"Magic Carpet Cleaning",
+    "wof:parent_id":85827787,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "carpet"
+    ]
+},
+  "bbox": [
+    -116.540888,
+    43.556498,
+    -116.540888,
+    43.556498
+],
+  "geometry": {"coordinates":[-116.540888,43.556498],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 857510725,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-116.334447,43.605718,-116.334447,43.605718",
+    "geom:latitude":43.605718,
+    "geom:longitude":-116.334447,
+    "iso:country":"US",
+    "sg:address":"111 N Cloverdale Rd",
+    "sg:city":"Boise",
+    "sg:classifiers":[
+        {
+            "category":"Airline",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 378 8940",
+    "sg:postcode":"83713",
+    "sg:province":"ID",
+    "sg:tags":[
+        "cargo",
+        "air"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85937915,
+        102086087,
+        85805083
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7QM1MeegRgd9ECuXDProh6_43.605718_-116.334447@1294099250"
+    },
+    "wof:country":"US",
+    "wof:created":1464202161,
+    "wof:geomhash":"612f0b05177a907fac88bf174db2f55e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086087,
+            "locality_id":85937915,
+            "neighbourhood_id":85805083,
+            "region_id":85688657,
+            "venue_id":857510725
+        }
+    ],
+    "wof:id":857510725,
+    "wof:lastmodified":1464202161,
+    "wof:name":"Fedex Freight",
+    "wof:parent_id":85805083,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cargo",
+        "air"
+    ]
+},
+  "bbox": [
+    -116.334447,
+    43.605718,
+    -116.334447,
+    43.605718
+],
+  "geometry": {"coordinates":[-116.334447,43.605718],"type":"Point"}
+}

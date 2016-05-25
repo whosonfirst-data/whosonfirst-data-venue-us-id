@@ -1,0 +1,73 @@
+{
+  "id": 857619861,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-116.990088,46.431308,-116.990088,46.431308",
+    "geom:latitude":46.431308,
+    "geom:longitude":-116.990088,
+    "iso:country":"US",
+    "sg:address":"2804 Panorama Dr",
+    "sg:city":"Lewiston",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 743 2122",
+    "sg:postcode":"83501",
+    "sg:province":"ID",
+    "sg:tags":[
+        "building",
+        "nonresidential"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85937743,
+        102086039,
+        85837769
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5p8P7vAJlTCJ5j5sX7GUfd_46.431308_-116.990088@1294099250"
+    },
+    "wof:country":"US",
+    "wof:created":1464204429,
+    "wof:geomhash":"d0d82f4356bf56b04faeb99148431fb6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086039,
+            "locality_id":85937743,
+            "neighbourhood_id":85837769,
+            "region_id":85688657,
+            "venue_id":857619861
+        }
+    ],
+    "wof:id":857619861,
+    "wof:lastmodified":1464204429,
+    "wof:name":"Burton Wood",
+    "wof:parent_id":85837769,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "building",
+        "nonresidential"
+    ]
+},
+  "bbox": [
+    -116.990088,
+    46.431308,
+    -116.990088,
+    46.431308
+],
+  "geometry": {"coordinates":[-116.990088,46.431308],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 857555601,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-116.564678,43.574815,-116.564678,43.574815",
+    "geom:latitude":43.574815,
+    "geom:longitude":-116.564678,
+    "iso:country":"US",
+    "sg:address":"616 12th Ave S",
+    "sg:city":"Nampa",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 465 0261",
+    "sg:postcode":"83651",
+    "sg:province":"ID",
+    "sg:tags":[
+        "loan",
+        "real estate"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85938009,
+        102085081,
+        85827787
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_61emcZ66hz6B526zvYZNLM_43.574815_-116.564678@1294099250"
+    },
+    "wof:country":"US",
+    "wof:created":1464203045,
+    "wof:geomhash":"05340b9b58cb02bbed6fa39af44aa0a0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085081,
+            "locality_id":85938009,
+            "neighbourhood_id":85827787,
+            "region_id":85688657,
+            "venue_id":857555601
+        }
+    ],
+    "wof:id":857555601,
+    "wof:lastmodified":1464203045,
+    "wof:name":"Beneficial Idaho Inc",
+    "wof:parent_id":85827787,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "loan",
+        "real estate"
+    ]
+},
+  "bbox": [
+    -116.564678,
+    43.574815,
+    -116.564678,
+    43.574815
+],
+  "geometry": {"coordinates":[-116.564678,43.574815],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 857630297,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-116.130128,47.545424,-116.130128,47.545424",
+    "geom:latitude":47.545424,
+    "geom:longitude":-116.130128,
+    "iso:country":"US",
+    "sg:address":"745 W Cameron Ave",
+    "sg:city":"Kellogg",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/id/kellogg/120417-subway/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 784 2027",
+    "sg:postcode":"83837",
+    "sg:province":"ID",
+    "sg:tags":[
+        "american",
+        "sandwich"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85937825,
+        102086103,
+        85849049
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1nt99vtLr16h1Ofs3zJ23U_47.545424_-116.130128@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464204672,
+    "wof:geomhash":"49b6e49725f7516b8730856d616fcc31",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086103,
+            "locality_id":85937825,
+            "neighbourhood_id":85849049,
+            "region_id":85688657,
+            "venue_id":857630297
+        }
+    ],
+    "wof:id":857630297,
+    "wof:lastmodified":1464204672,
+    "wof:name":"Subway",
+    "wof:parent_id":85849049,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "sandwich"
+    ]
+},
+  "bbox": [
+    -116.130128,
+    47.545424,
+    -116.130128,
+    47.545424
+],
+  "geometry": {"coordinates":[-116.130128,47.545424],"type":"Point"}
+}

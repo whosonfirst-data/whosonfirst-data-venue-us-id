@@ -1,0 +1,76 @@
+{
+  "id": 857629817,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-116.316417,43.619468,-116.316417,43.619468",
+    "geom:latitude":43.619468,
+    "geom:longitude":-116.316417,
+    "iso:country":"US",
+    "sg:address":"10715 W Fairview Ave",
+    "sg:city":"Boise",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/id/boise-city/120328-subway/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 375 8525",
+    "sg:postcode":"83713",
+    "sg:province":"ID",
+    "sg:tags":[
+        "american",
+        "sandwich"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        102191575,
+        85633793,
+        85937915,
+        102086087,
+        85811491
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4TroEQxjbb2kZFYls68ZxJ_43.619468_-116.316417@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464204657,
+    "wof:geomhash":"887967992fa9529560905c46805a79ac",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086087,
+            "locality_id":85937915,
+            "neighbourhood_id":85811491,
+            "region_id":85688657,
+            "venue_id":857629817
+        }
+    ],
+    "wof:id":857629817,
+    "wof:lastmodified":1464204657,
+    "wof:name":"Subway",
+    "wof:parent_id":85811491,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "sandwich"
+    ]
+},
+  "bbox": [
+    -116.316417,
+    43.619468,
+    -116.316417,
+    43.619468
+],
+  "geometry": {"coordinates":[-116.316417,43.619468],"type":"Point"}
+}

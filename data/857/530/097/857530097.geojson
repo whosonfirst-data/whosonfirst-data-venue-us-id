@@ -1,0 +1,69 @@
+{
+  "id": 857530097,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-116.782627,47.676273,-116.782627,47.676273",
+    "geom:latitude":47.676273,
+    "geom:longitude":-116.782627,
+    "iso:country":"US",
+    "sg:address":"415 N 3rd St",
+    "sg:city":"Coeur D Alene",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 664 1402",
+    "sg:postcode":"83814",
+    "sg:province":"ID",
+    "sg:tags":[
+        "transmission"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85821457,
+        102086085
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_40uizOM1oENUYPwh8Kj6kj_47.676273_-116.782627@1294099250"
+    },
+    "wof:country":"US",
+    "wof:created":1464202545,
+    "wof:geomhash":"95da501d4a41e87cba9c302fe3500d48",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086085,
+            "neighbourhood_id":85821457,
+            "region_id":85688657,
+            "venue_id":857530097
+        }
+    ],
+    "wof:id":857530097,
+    "wof:lastmodified":1464202545,
+    "wof:name":"AAMCO Transmissions",
+    "wof:parent_id":85821457,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "transmission"
+    ]
+},
+  "bbox": [
+    -116.782627,
+    47.676273,
+    -116.782627,
+    47.676273
+],
+  "geometry": {"coordinates":[-116.78262700000001,47.676273],"type":"Point"}
+}

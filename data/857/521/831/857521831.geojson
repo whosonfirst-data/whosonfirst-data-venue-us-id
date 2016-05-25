@@ -1,0 +1,75 @@
+{
+  "id": 857521831,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-116.413699,43.610556,-116.413699,43.610556",
+    "geom:latitude":43.610556,
+    "geom:longitude":-116.413699,
+    "iso:country":"US",
+    "sg:address":"657 N Linder Rd",
+    "sg:city":"Meridian",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 887 7674",
+    "sg:postcode":"83642",
+    "sg:province":"ID",
+    "sg:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85937915,
+        102086087,
+        85805083
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2BgkwI2rT9SXdBsJVdHzuj_43.610556_-116.413699@1294099250"
+    },
+    "wof:country":"US",
+    "wof:created":1464202387,
+    "wof:geomhash":"96f6ac2a70ef88bd44dbe8009fc9172d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086087,
+            "locality_id":85937915,
+            "neighbourhood_id":85805083,
+            "region_id":85688657,
+            "venue_id":857521831
+        }
+    ],
+    "wof:id":857521831,
+    "wof:lastmodified":1464202387,
+    "wof:name":"Ace Auto Body",
+    "wof:parent_id":85805083,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ]
+},
+  "bbox": [
+    -116.413699,
+    43.610556,
+    -116.413699,
+    43.610556
+],
+  "geometry": {"coordinates":[-116.41369899999999,43.610556],"type":"Point"}
+}

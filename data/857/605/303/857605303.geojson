@@ -1,0 +1,71 @@
+{
+  "id": 857605303,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-116.12538,47.538728,-116.12538,47.538728",
+    "geom:latitude":47.538728,
+    "geom:longitude":-116.12538,
+    "iso:country":"US",
+    "sg:address":"101 N Hill St",
+    "sg:city":"Kellogg",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Building Materials",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 786 9271",
+    "sg:postcode":"83837",
+    "sg:province":"ID",
+    "sg:tags":[
+        "paint"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85937825,
+        102086103,
+        85849049
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4whqb336GPqBVrQJE4tR9x_47.538728_-116.125380@1294099250"
+    },
+    "wof:country":"US",
+    "wof:created":1464204102,
+    "wof:geomhash":"ec0d9c4a8a89bbf1b1522de8cbf5864b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086103,
+            "locality_id":85937825,
+            "neighbourhood_id":85849049,
+            "region_id":85688657,
+            "venue_id":857605303
+        }
+    ],
+    "wof:id":857605303,
+    "wof:lastmodified":1464204102,
+    "wof:name":"Furniture Exchange",
+    "wof:parent_id":85849049,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "paint"
+    ]
+},
+  "bbox": [
+    -116.12538,
+    47.538728,
+    -116.12538,
+    47.538728
+],
+  "geometry": {"coordinates":[-116.12538000000001,47.538728],"type":"Point"}
+}

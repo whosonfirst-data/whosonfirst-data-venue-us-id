@@ -1,0 +1,71 @@
+{
+  "id": 857578255,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-116.745824,47.847778,-116.745824,47.847778",
+    "geom:latitude":47.847778,
+    "geom:longitude":-116.745824,
+    "iso:country":"US",
+    "sg:address":"19406 N Pinecone Rd",
+    "sg:city":"Hayden",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 772 6233",
+    "sg:postcode":"83835",
+    "sg:province":"ID",
+    "sg:tags":[
+        "excavating",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85821457,
+        102086085
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6Wa4gH3aXGDzzNG5XkvPfg_47.847778_-116.745824@1294099250"
+    },
+    "wof:country":"US",
+    "wof:created":1464203515,
+    "wof:geomhash":"3b0dd854480c8d14b42d81b88df185c8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086085,
+            "neighbourhood_id":85821457,
+            "region_id":85688657,
+            "venue_id":857578255
+        }
+    ],
+    "wof:id":857578255,
+    "wof:lastmodified":1464203515,
+    "wof:name":"Beamis Excavating",
+    "wof:parent_id":85821457,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "excavating",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -116.745824,
+    47.847778,
+    -116.745824,
+    47.847778
+],
+  "geometry": {"coordinates":[-116.745824,47.847778],"type":"Point"}
+}

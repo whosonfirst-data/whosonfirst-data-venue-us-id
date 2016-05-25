@@ -1,0 +1,71 @@
+{
+  "id": 857627923,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-117.00198,46.403949,-117.00198,46.403949",
+    "geom:latitude":46.403949,
+    "geom:longitude":-117.00198,
+    "iso:country":"US",
+    "sg:address":"1717 21st St",
+    "sg:city":"Lewiston",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/id/lewiston/196142-taco-bell/menu/",
+    "sg:owner":"simplegeo",
+    "sg:postcode":"83501",
+    "sg:province":"ID",
+    "sg:tags":[
+        "mexican"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85937743,
+        102086039,
+        85837769
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_04UE9vlSY0bAVaesFateNZ_46.403949_-117.001980@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464204620,
+    "wof:geomhash":"bd69e7a2319abbba54ae4a413362fb05",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086039,
+            "locality_id":85937743,
+            "neighbourhood_id":85837769,
+            "region_id":85688657,
+            "venue_id":857627923
+        }
+    ],
+    "wof:id":857627923,
+    "wof:lastmodified":1464204620,
+    "wof:name":"Taco Bell",
+    "wof:parent_id":85837769,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mexican"
+    ]
+},
+  "bbox": [
+    -117.00198,
+    46.403949,
+    -117.00198,
+    46.403949
+],
+  "geometry": {"coordinates":[-117.00198,46.403949],"type":"Point"}
+}

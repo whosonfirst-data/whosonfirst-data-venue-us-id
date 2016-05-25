@@ -1,0 +1,78 @@
+{
+  "id": 857607085,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-116.222804,43.571079,-116.222804,43.571079",
+    "geom:latitude":43.571079,
+    "geom:longitude":-116.222804,
+    "iso:country":"US",
+    "sg:address":"3201 Airport Way",
+    "sg:city":"Boise",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 381 0650",
+    "sg:postcode":"83705",
+    "sg:province":"ID",
+    "sg:tags":[
+        "renting",
+        "automobile"
+    ],
+    "sg:website":"www.enterprise.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        102527733,
+        85876337,
+        102191575,
+        85633793,
+        85937923,
+        102086087,
+        85688657
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_68ci76haUjgmjzCO2P3jfb_43.571079_-116.222804@1294099250"
+    },
+    "wof:country":"US",
+    "wof:created":1464204136,
+    "wof:geomhash":"7c7d94490bd0a205a8508d9f9224a8f6",
+    "wof:hierarchy":[
+        {
+            "campus_id":102527733,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086087,
+            "locality_id":85937923,
+            "neighbourhood_id":85876337,
+            "region_id":85688657,
+            "venue_id":857607085
+        }
+    ],
+    "wof:id":857607085,
+    "wof:lastmodified":1464204136,
+    "wof:name":"Enterprise Rent-A-Car",
+    "wof:parent_id":102527733,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "renting",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -116.222804,
+    43.571079,
+    -116.222804,
+    43.571079
+],
+  "geometry": {"coordinates":[-116.222804,43.571079],"type":"Point"}
+}

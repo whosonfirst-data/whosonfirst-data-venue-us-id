@@ -1,0 +1,71 @@
+{
+  "id": 857524033,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-116.422574,43.581091,-116.422574,43.581091",
+    "geom:latitude":43.581091,
+    "geom:longitude":-116.422574,
+    "iso:country":"US",
+    "sg:address":"2288 Aspen Cove Dr",
+    "sg:city":"Meridian",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 895 9722",
+    "sg:postcode":"83642",
+    "sg:province":"ID",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85937915,
+        102086087,
+        85805083
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0LXghezWFjzPhDuOyS1pEa_43.581091_-116.422574@1294099250"
+    },
+    "wof:country":"US",
+    "wof:created":1464202430,
+    "wof:geomhash":"3724789ed300782c407e926f11e1892b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086087,
+            "locality_id":85937915,
+            "neighbourhood_id":85805083,
+            "region_id":85688657,
+            "venue_id":857524033
+        }
+    ],
+    "wof:id":857524033,
+    "wof:lastmodified":1464202430,
+    "wof:name":"Ponderosa Building Co",
+    "wof:parent_id":85805083,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -116.422574,
+    43.581091,
+    -116.422574,
+    43.581091
+],
+  "geometry": {"coordinates":[-116.422574,43.581091],"type":"Point"}
+}

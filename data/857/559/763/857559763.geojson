@@ -1,0 +1,71 @@
+{
+  "id": 857559763,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-116.788922,47.761233,-116.788922,47.761233",
+    "geom:latitude":47.761233,
+    "geom:longitude":-116.788922,
+    "iso:country":"US",
+    "sg:address":"138 W Hilgren Ave",
+    "sg:city":"Hayden Lake",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 762 1418",
+    "sg:postcode":"83835",
+    "sg:province":"ID",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85821457,
+        102086085
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2Lq8Zk7c4LgJnWYNQJK5hX_47.761233_-116.788922@1294099250"
+    },
+    "wof:country":"US",
+    "wof:created":1464203144,
+    "wof:geomhash":"1a5e5b7e9b54913deb9cf1c1980e7727",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086085,
+            "neighbourhood_id":85821457,
+            "region_id":85688657,
+            "venue_id":857559763
+        }
+    ],
+    "wof:id":857559763,
+    "wof:lastmodified":1464203144,
+    "wof:name":"Mechanic",
+    "wof:parent_id":85821457,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -116.788922,
+    47.761233,
+    -116.788922,
+    47.761233
+],
+  "geometry": {"coordinates":[-116.788922,47.761233],"type":"Point"}
+}

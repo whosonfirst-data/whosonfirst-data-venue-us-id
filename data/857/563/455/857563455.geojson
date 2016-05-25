@@ -1,0 +1,85 @@
+{
+  "id": 857563455,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-116.791053,47.727198,-116.791053,47.727198",
+    "geom:latitude":47.727198,
+    "geom:longitude":-116.791053,
+    "iso:country":"US",
+    "sg:address":"6125 N Sunshine St",
+    "sg:city":"Coeur D Alene",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 762 0959",
+    "sg:postcode":"83815",
+    "sg:province":"ID",
+    "sg:tags":[
+        "glass",
+        "coating",
+        "tinting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85821457,
+        102086085,
+        102191575,
+        85938163,
+        85806325
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5Xt12zKw1vWbvyz7zf2wAq_47.727198_-116.791053@1294099250"
+    },
+    "wof:country":"US",
+    "wof:created":1464203228,
+    "wof:geomhash":"0dd8ac4e9fb12523b1d17d56886bb01e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086085,
+            "neighbourhood_id":85821457,
+            "region_id":85688657,
+            "venue_id":857563455
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086085,
+            "locality_id":85938163,
+            "neighbourhood_id":85806325,
+            "region_id":85688657,
+            "venue_id":857563455
+        }
+    ],
+    "wof:id":857563455,
+    "wof:lastmodified":1464203228,
+    "wof:name":"Solar Eclipse",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "glass",
+        "coating",
+        "tinting"
+    ]
+},
+  "bbox": [
+    -116.791053,
+    47.727198,
+    -116.791053,
+    47.727198
+],
+  "geometry": {"coordinates":[-116.79105300000001,47.727198],"type":"Point"}
+}

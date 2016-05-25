@@ -1,0 +1,71 @@
+{
+  "id": 857529371,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-116.798723,47.695848,-116.798723,47.695848",
+    "geom:latitude":47.695848,
+    "geom:longitude":-116.798723,
+    "iso:country":"US",
+    "sg:address":"1106 W Ironwood Dr",
+    "sg:city":"Coeur D Alene",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 667 5415",
+    "sg:postcode":"83814",
+    "sg:province":"ID",
+    "sg:tags":[
+        "county",
+        "resource"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85821457,
+        102086085
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6nksmUkvWfZF4JrYadnlXM_47.695848_-116.798723@1294099250"
+    },
+    "wof:country":"US",
+    "wof:created":1464202531,
+    "wof:geomhash":"c09e66728a7c2f86675441b5276597e7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086085,
+            "neighbourhood_id":85821457,
+            "region_id":85688657,
+            "venue_id":857529371
+        }
+    ],
+    "wof:id":857529371,
+    "wof:lastmodified":1464202531,
+    "wof:name":"Kootenai County WIC",
+    "wof:parent_id":85821457,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "county",
+        "resource"
+    ]
+},
+  "bbox": [
+    -116.798723,
+    47.695848,
+    -116.798723,
+    47.695848
+],
+  "geometry": {"coordinates":[-116.798723,47.695848],"type":"Point"}
+}

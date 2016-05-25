@@ -1,0 +1,71 @@
+{
+  "id": 857563815,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-116.369894,43.596819,-116.369894,43.596819",
+    "geom:latitude":43.596819,
+    "geom:longitude":-116.369894,
+    "iso:country":"US",
+    "sg:address":"1840 Cadillac Dr",
+    "sg:city":"Meridian",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 888 3635",
+    "sg:postcode":"83642",
+    "sg:province":"ID",
+    "sg:tags":[
+        "electrical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85937915,
+        102086087,
+        85805083
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_47KC60LGiLopmzHRpyQT5z_43.596819_-116.369894@1294099250"
+    },
+    "wof:country":"US",
+    "wof:created":1464203236,
+    "wof:geomhash":"f808ea7dadad7f87dc63ed68fe2a80a1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086087,
+            "locality_id":85937915,
+            "neighbourhood_id":85805083,
+            "region_id":85688657,
+            "venue_id":857563815
+        }
+    ],
+    "wof:id":857563815,
+    "wof:lastmodified":1464203236,
+    "wof:name":"Alan Fox Repairs",
+    "wof:parent_id":85805083,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electrical"
+    ]
+},
+  "bbox": [
+    -116.369894,
+    43.596819,
+    -116.369894,
+    43.596819
+],
+  "geometry": {"coordinates":[-116.369894,43.596819],"type":"Point"}
+}

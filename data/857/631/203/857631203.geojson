@@ -1,0 +1,72 @@
+{
+  "id": 857631203,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-116.781292,47.699983,-116.781292,47.699983",
+    "geom:latitude":47.699983,
+    "geom:longitude":-116.781292,
+    "iso:country":"US",
+    "sg:address":"2517 N 4th St",
+    "sg:city":"Coeur D Alene",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/id/coeur-dalene/96156-taco-johns/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 667 4188",
+    "sg:postcode":"83814",
+    "sg:province":"ID",
+    "sg:tags":[
+        "american",
+        "mexican"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85821457,
+        102086085
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5zzuyFOJd2dk6cUrJJBOFb_47.699442_-116.780925@1294099250"
+    },
+    "wof:country":"US",
+    "wof:created":1464204689,
+    "wof:geomhash":"1a81fb85a82bcc6fa0a96364ed4d2793",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086085,
+            "neighbourhood_id":85821457,
+            "region_id":85688657,
+            "venue_id":857631203
+        }
+    ],
+    "wof:id":857631203,
+    "wof:lastmodified":1464204689,
+    "wof:name":"Taco John's",
+    "wof:parent_id":85821457,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "mexican"
+    ]
+},
+  "bbox": [
+    -116.781292,
+    47.699983,
+    -116.781292,
+    47.699983
+],
+  "geometry": {"coordinates":[-116.78129199999999,47.699983],"type":"Point"}
+}

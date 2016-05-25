@@ -1,0 +1,68 @@
+{
+  "id": 857526751,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-116.243648,43.59289,-116.243648,43.59289",
+    "geom:latitude":43.59289,
+    "geom:longitude":-116.243648,
+    "iso:country":"US",
+    "sg:address":"1345 S Orchard St",
+    "sg:city":"Boise",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Medical Lab",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 344 0504",
+    "sg:postcode":"83705",
+    "sg:province":"ID",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        102191575,
+        85633793,
+        85937923,
+        102086087,
+        85876295
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0zArdJf3SjnoOvtl95dtiR_43.592890_-116.243648@1294099250"
+    },
+    "wof:country":"US",
+    "wof:created":1464202482,
+    "wof:geomhash":"a7b9d6cdccc92208e427eed4c77cf0a4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086087,
+            "locality_id":85937923,
+            "neighbourhood_id":85876295,
+            "region_id":85688657,
+            "venue_id":857526751
+        }
+    ],
+    "wof:id":857526751,
+    "wof:lastmodified":1464202482,
+    "wof:name":"People's Denture Ctr",
+    "wof:parent_id":85876295,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -116.243648,
+    43.59289,
+    -116.243648,
+    43.59289
+],
+  "geometry": {"coordinates":[-116.24364799999999,43.59289],"type":"Point"}
+}

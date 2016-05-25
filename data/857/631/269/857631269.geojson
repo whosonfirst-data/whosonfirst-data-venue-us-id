@@ -1,0 +1,73 @@
+{
+  "id": 857631269,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-116.918811,47.71086,-116.918811,47.71086",
+    "geom:latitude":47.71086,
+    "geom:longitude":-116.918811,
+    "iso:country":"US",
+    "sg:address":"1785 E Seltice Way",
+    "sg:city":"Post Falls",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/id/post-falls-rathdrum/196147-taco-bell/menu/",
+    "sg:owner":"simplegeo",
+    "sg:postcode":"83854",
+    "sg:province":"ID",
+    "sg:tags":[
+        "mexican"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        102191575,
+        85633793,
+        85938145,
+        102086085,
+        85833263
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1JcmkLmbHhuQIMDoY1XlQ4_47.710539_-116.918815@1294099250"
+    },
+    "wof:country":"US",
+    "wof:created":1464204690,
+    "wof:geomhash":"a53d8588f2bbbf494c101d7a89d4a51d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086085,
+            "locality_id":85938145,
+            "neighbourhood_id":85833263,
+            "region_id":85688657,
+            "venue_id":857631269
+        }
+    ],
+    "wof:id":857631269,
+    "wof:lastmodified":1464204690,
+    "wof:name":"Taco Bell",
+    "wof:parent_id":85833263,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mexican"
+    ]
+},
+  "bbox": [
+    -116.918811,
+    47.71086,
+    -116.918811,
+    47.71086
+],
+  "geometry": {"coordinates":[-116.91881100000001,47.71086],"type":"Point"}
+}

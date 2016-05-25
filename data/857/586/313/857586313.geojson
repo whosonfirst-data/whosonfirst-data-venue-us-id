@@ -1,0 +1,76 @@
+{
+  "id": 857586313,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-116.786601,47.763551,-116.786601,47.763551",
+    "geom:latitude":47.763551,
+    "geom:longitude":-116.786601,
+    "iso:country":"US",
+    "sg:address":"10191 N Government Way",
+    "sg:city":"Hayden Lake",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        },
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Recreational Vehicle Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 772 6581",
+    "sg:postcode":"83835",
+    "sg:province":"ID",
+    "sg:tags":[
+        "mobile",
+        "home"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85821457,
+        102086085
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0MJM32kxb4lFZRqfumEv6G_47.763551_-116.786601@1294099250"
+    },
+    "wof:country":"US",
+    "wof:created":1464203679,
+    "wof:geomhash":"708369183e90976290864e44e41f31e5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086085,
+            "neighbourhood_id":85821457,
+            "region_id":85688657,
+            "venue_id":857586313
+        }
+    ],
+    "wof:id":857586313,
+    "wof:lastmodified":1464203679,
+    "wof:name":"All Seasons R V",
+    "wof:parent_id":85821457,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mobile",
+        "home"
+    ]
+},
+  "bbox": [
+    -116.786601,
+    47.763551,
+    -116.786601,
+    47.763551
+],
+  "geometry": {"coordinates":[-116.786601,47.763551],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 857546445,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-116.82267,47.768064,-116.82267,47.768064",
+    "geom:latitude":47.768064,
+    "geom:longitude":-116.82267,
+    "iso:country":"US",
+    "sg:address":"10390 N Sensor Ave",
+    "sg:city":"Hayden Lake",
+    "sg:classifiers":[
+        {
+            "category":"Airport",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 772 6404",
+    "sg:postcode":"83835",
+    "sg:province":"ID",
+    "sg:tags":[
+        "aircraft",
+        "maintenance"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85821457,
+        102086085
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5Y4gl3qmbdmPvV92ORH5Cm_47.768064_-116.822670@1294099250"
+    },
+    "wof:country":"US",
+    "wof:created":1464202864,
+    "wof:geomhash":"096b4ea0e5dae1e6db4e184bba576459",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086085,
+            "neighbourhood_id":85821457,
+            "region_id":85688657,
+            "venue_id":857546445
+        }
+    ],
+    "wof:id":857546445,
+    "wof:lastmodified":1464202864,
+    "wof:name":"Heli-Prop Aircraft Inc",
+    "wof:parent_id":85821457,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "aircraft",
+        "maintenance"
+    ]
+},
+  "bbox": [
+    -116.82267,
+    47.768064,
+    -116.82267,
+    47.768064
+],
+  "geometry": {"coordinates":[-116.82267,47.768064],"type":"Point"}
+}

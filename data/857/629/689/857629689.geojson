@@ -1,0 +1,78 @@
+{
+  "id": 857629689,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-116.267688,43.59044,-116.267688,43.59044",
+    "geom:latitude":43.59044,
+    "geom:longitude":-116.267688,
+    "iso:country":"US",
+    "sg:address":"6940 W Overland Rd",
+    "sg:city":"Boise",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/id/boise-city/235333-taco-time/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 376 3621",
+    "sg:postcode":"83709",
+    "sg:province":"ID",
+    "sg:tags":[
+        "american",
+        "mexican",
+        "tex-mex"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        102191575,
+        85633793,
+        85937923,
+        102086087,
+        85876293
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_55hdPLNEc1bPoIvTRKxAjy_43.590440_-116.267688@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464204654,
+    "wof:geomhash":"8679586fabbdbd4ad6f5ec50d3228c77",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086087,
+            "locality_id":85937923,
+            "neighbourhood_id":85876293,
+            "region_id":85688657,
+            "venue_id":857629689
+        }
+    ],
+    "wof:id":857629689,
+    "wof:lastmodified":1464204654,
+    "wof:name":"Taco Time",
+    "wof:parent_id":85876293,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "mexican",
+        "tex-mex"
+    ]
+},
+  "bbox": [
+    -116.267688,
+    43.59044,
+    -116.267688,
+    43.59044
+],
+  "geometry": {"coordinates":[-116.26768800000001,43.59044],"type":"Point"}
+}

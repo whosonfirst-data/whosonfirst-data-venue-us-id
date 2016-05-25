@@ -1,0 +1,73 @@
+{
+  "id": 857585751,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-116.329291,43.591943,-116.329291,43.591943",
+    "geom:latitude":43.591943,
+    "geom:longitude":-116.329291,
+    "iso:country":"US",
+    "sg:address":"11830 Florida Dr",
+    "sg:city":"Boise",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 322 3400",
+    "sg:postcode":"83709",
+    "sg:province":"ID",
+    "sg:tags":[
+        "heating",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85937915,
+        102086087,
+        85805083
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0tm3Xw3Ysz4AShYq7uq0qR_43.591943_-116.329291@1294099250"
+    },
+    "wof:country":"US",
+    "wof:created":1464203666,
+    "wof:geomhash":"e2186650914b2e232c0b646ba7838272",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086087,
+            "locality_id":85937915,
+            "neighbourhood_id":85805083,
+            "region_id":85688657,
+            "venue_id":857585751
+        }
+    ],
+    "wof:id":857585751,
+    "wof:lastmodified":1464203666,
+    "wof:name":"Henson's Heating & Air Cond",
+    "wof:parent_id":85805083,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "heating",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -116.329291,
+    43.591943,
+    -116.329291,
+    43.591943
+],
+  "geometry": {"coordinates":[-116.329291,43.591943],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 857572157,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-116.354443,43.587963,-116.354443,43.587963",
+    "geom:latitude":43.587963,
+    "geom:longitude":-116.354443,
+    "iso:country":"US",
+    "sg:address":"2082 S Eagle Rd",
+    "sg:city":"Meridian",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 846 8327",
+    "sg:postcode":"83642",
+    "sg:province":"ID",
+    "sg:tags":[
+        "medical",
+        "imaging"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85937915,
+        102086087,
+        85805083
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7APbsyb1fcKIUvSwj4g1Av_43.587963_-116.354443@1294099250"
+    },
+    "wof:country":"US",
+    "wof:created":1464203391,
+    "wof:geomhash":"52ad313cad230f139e35d9e6e3e407d9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086087,
+            "locality_id":85937915,
+            "neighbourhood_id":85805083,
+            "region_id":85688657,
+            "venue_id":857572157
+        }
+    ],
+    "wof:id":857572157,
+    "wof:lastmodified":1464203391,
+    "wof:name":"Boise Up Right MRI",
+    "wof:parent_id":85805083,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medical",
+        "imaging"
+    ]
+},
+  "bbox": [
+    -116.354443,
+    43.587963,
+    -116.354443,
+    43.587963
+],
+  "geometry": {"coordinates":[-116.354443,43.587963],"type":"Point"}
+}

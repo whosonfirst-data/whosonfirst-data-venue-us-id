@@ -1,0 +1,73 @@
+{
+  "id": 857582675,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-117.027232,46.421515,-117.027232,46.421515",
+    "geom:latitude":46.421515,
+    "geom:longitude":-117.027232,
+    "iso:country":"US",
+    "sg:address":"301 Main St",
+    "sg:city":"Lewiston",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"Special Training",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 746 6357",
+    "sg:postcode":"83501",
+    "sg:province":"ID",
+    "sg:tags":[
+        "instruction",
+        "music"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85937743,
+        102086039,
+        85852537
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0qQyPrrjBFFJOqB6xSIHqJ_46.421515_-117.027232@1294099250"
+    },
+    "wof:country":"US",
+    "wof:created":1464203603,
+    "wof:geomhash":"e5535d257ed9f7e6c71d789b179a2554",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086039,
+            "locality_id":85937743,
+            "neighbourhood_id":85852537,
+            "region_id":85688657,
+            "venue_id":857582675
+        }
+    ],
+    "wof:id":857582675,
+    "wof:lastmodified":1464203603,
+    "wof:name":"Main Street Music Studio",
+    "wof:parent_id":85852537,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "instruction",
+        "music"
+    ]
+},
+  "bbox": [
+    -117.027232,
+    46.421515,
+    -117.027232,
+    46.421515
+],
+  "geometry": {"coordinates":[-117.027232,46.421515],"type":"Point"}
+}

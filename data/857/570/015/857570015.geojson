@@ -1,0 +1,73 @@
+{
+  "id": 857570015,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-116.421778,43.576965,-116.421778,43.576965",
+    "geom:latitude":43.576965,
+    "geom:longitude":-116.421778,
+    "iso:country":"US",
+    "sg:address":"3001 S Francine Ln",
+    "sg:city":"Meridian",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 884 8800",
+    "sg:postcode":"83642",
+    "sg:province":"ID",
+    "sg:tags":[
+        "leasing",
+        "tractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85937915,
+        102086087,
+        85805083
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6vXccyQExdoSWXu8QhlOVV_43.576965_-116.421778@1294099250"
+    },
+    "wof:country":"US",
+    "wof:created":1464203353,
+    "wof:geomhash":"9177bc126eab470aeb12c8a42f8fddf2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086087,
+            "locality_id":85937915,
+            "neighbourhood_id":85805083,
+            "region_id":85688657,
+            "venue_id":857570015
+        }
+    ],
+    "wof:id":857570015,
+    "wof:lastmodified":1464203353,
+    "wof:name":"Security West Financial Co",
+    "wof:parent_id":85805083,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "leasing",
+        "tractor"
+    ]
+},
+  "bbox": [
+    -116.421778,
+    43.576965,
+    -116.421778,
+    43.576965
+],
+  "geometry": {"coordinates":[-116.421778,43.576965],"type":"Point"}
+}

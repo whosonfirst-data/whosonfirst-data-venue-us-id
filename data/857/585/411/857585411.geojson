@@ -1,0 +1,78 @@
+{
+  "id": 857585411,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-116.243457,43.597196,-116.243457,43.597196",
+    "geom:latitude":43.597196,
+    "geom:longitude":-116.243457,
+    "iso:country":"US",
+    "sg:address":"710 S Orchard St",
+    "sg:city":"Boise",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 344 3660",
+    "sg:postcode":"83705",
+    "sg:province":"ID",
+    "sg:tags":[
+        "equipment",
+        "telephone",
+        "system"
+    ],
+    "sg:website":"www.telephoneexchange.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        102191575,
+        85633793,
+        85937923,
+        102086087,
+        85876295
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2DymVvjm0K7tnzcvYldVjd_43.597196_-116.243457@1294099250"
+    },
+    "wof:country":"US",
+    "wof:created":1464203654,
+    "wof:geomhash":"92f0927917b4e9e7ad0e51132f914e6c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086087,
+            "locality_id":85937923,
+            "neighbourhood_id":85876295,
+            "region_id":85688657,
+            "venue_id":857585411
+        }
+    ],
+    "wof:id":857585411,
+    "wof:lastmodified":1464203654,
+    "wof:name":"Telephone Exchange",
+    "wof:parent_id":85876295,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "equipment",
+        "telephone",
+        "system"
+    ]
+},
+  "bbox": [
+    -116.243457,
+    43.597196,
+    -116.243457,
+    43.597196
+],
+  "geometry": {"coordinates":[-116.24345700000001,43.597196],"type":"Point"}
+}

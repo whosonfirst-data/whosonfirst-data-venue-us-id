@@ -1,0 +1,83 @@
+{
+  "id": 857527805,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-116.80969,47.704432,-116.80969,47.704432",
+    "geom:latitude":47.704432,
+    "geom:longitude":-116.80969,
+    "iso:country":"US",
+    "sg:address":"1712 W Golf Course Rd",
+    "sg:city":"Coeur D Alene",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Fire Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 765 1112",
+    "sg:postcode":"83815",
+    "sg:province":"ID",
+    "sg:tags":[
+        "county",
+        "protection"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85821457,
+        102086085,
+        102191575,
+        85938163,
+        85806325
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4NA3ZqC6SIIvsNYE7m14aL_47.704432_-116.809690@1294099250"
+    },
+    "wof:country":"US",
+    "wof:created":1464202500,
+    "wof:geomhash":"19befcfcbf0d83d872f62d066c5eb33f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086085,
+            "neighbourhood_id":85821457,
+            "region_id":85688657,
+            "venue_id":857527805
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086085,
+            "locality_id":85938163,
+            "neighbourhood_id":85806325,
+            "region_id":85688657,
+            "venue_id":857527805
+        }
+    ],
+    "wof:id":857527805,
+    "wof:lastmodified":1464202500,
+    "wof:name":"Kootenai County Fire Dept",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "county",
+        "protection"
+    ]
+},
+  "bbox": [
+    -116.80969,
+    47.704432,
+    -116.80969,
+    47.704432
+],
+  "geometry": {"coordinates":[-116.80969,47.704432],"type":"Point"}
+}

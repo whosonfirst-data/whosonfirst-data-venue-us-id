@@ -1,0 +1,71 @@
+{
+  "id": 857523981,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-116.712918,43.52549,-116.712918,43.52549",
+    "geom:latitude":43.52549,
+    "geom:longitude":-116.712918,
+    "iso:country":"US",
+    "sg:address":"10495 Perch Rd",
+    "sg:city":"Caldwell",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 453 2761",
+    "sg:postcode":"83607",
+    "sg:province":"ID",
+    "sg:tags":[
+        "clutches"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85938009,
+        102085081,
+        85827787
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_48GuiJdDkeeowT44od9qmL_43.525490_-116.712918@1294099250"
+    },
+    "wof:country":"US",
+    "wof:created":1464202429,
+    "wof:geomhash":"2cc64992156b373b75c729eb05e95b40",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085081,
+            "locality_id":85938009,
+            "neighbourhood_id":85827787,
+            "region_id":85688657,
+            "venue_id":857523981
+        }
+    ],
+    "wof:id":857523981,
+    "wof:lastmodified":1464202429,
+    "wof:name":"OEM Clutch",
+    "wof:parent_id":85827787,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "clutches"
+    ]
+},
+  "bbox": [
+    -116.712918,
+    43.52549,
+    -116.712918,
+    43.52549
+],
+  "geometry": {"coordinates":[-116.712918,43.52549],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 857616701,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-116.523178,43.596416,-116.523178,43.596416",
+    "geom:latitude":43.596416,
+    "geom:longitude":-116.523178,
+    "iso:country":"US",
+    "sg:address":"1309 N 39th St",
+    "sg:city":"Nampa",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 463 8204",
+    "sg:postcode":"83687",
+    "sg:province":"ID",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85938009,
+        102085081,
+        85827787
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_66NAgz45vpXdJSPrxA9C48_43.596416_-116.523178@1294099250"
+    },
+    "wof:country":"US",
+    "wof:created":1464204352,
+    "wof:geomhash":"a6536f3d4798d03ab7a303b6103da6e1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085081,
+            "locality_id":85938009,
+            "neighbourhood_id":85827787,
+            "region_id":85688657,
+            "venue_id":857616701
+        }
+    ],
+    "wof:id":857616701,
+    "wof:lastmodified":1464204352,
+    "wof:name":"Builders Interiors",
+    "wof:parent_id":85827787,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -116.523178,
+    43.596416,
+    -116.523178,
+    43.596416
+],
+  "geometry": {"coordinates":[-116.523178,43.596416],"type":"Point"}
+}

@@ -1,0 +1,84 @@
+{
+  "id": 857550539,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-116.94932,46.383911,-116.94932,46.383911",
+    "geom:latitude":46.383911,
+    "geom:longitude":-116.94932,
+    "iso:country":"US",
+    "sg:address":"1520 Warner Ave",
+    "sg:city":"Lewiston",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 743 9153",
+    "sg:postcode":"83501",
+    "sg:province":"ID",
+    "sg:tags":[
+        "drywall",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85937743,
+        102086039,
+        85837769,
+        102191575,
+        85830385
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1P6pBuABgfGuCzchuGfaQL_46.383911_-116.949320@1294099250"
+    },
+    "wof:country":"US",
+    "wof:created":1464202941,
+    "wof:geomhash":"31889bb9fc9f76381bcc8006c24ff8a8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086039,
+            "locality_id":85937743,
+            "neighbourhood_id":85837769,
+            "region_id":85688657,
+            "venue_id":857550539
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086039,
+            "locality_id":85937743,
+            "neighbourhood_id":85830385,
+            "region_id":85688657,
+            "venue_id":857550539
+        }
+    ],
+    "wof:id":857550539,
+    "wof:lastmodified":1464202941,
+    "wof:name":"Valley Drywall",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "drywall",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -116.94932,
+    46.383911,
+    -116.94932,
+    46.383911
+],
+  "geometry": {"coordinates":[-116.94932,46.383911],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 857610961,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-117.019425,46.418351,-117.019425,46.418351",
+    "geom:latitude":46.418351,
+    "geom:longitude":-117.019425,
+    "iso:country":"US",
+    "sg:address":"1109 F St",
+    "sg:city":"Lewiston",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Court House",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 799 3073",
+    "sg:postcode":"83501",
+    "sg:province":"ID",
+    "sg:tags":[
+        "county",
+        "counsel"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85937743,
+        102086039,
+        85837769
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3ksE9bYsqmEeJA40RzNy99_46.418351_-117.019425@1294099250"
+    },
+    "wof:country":"US",
+    "wof:created":1464204226,
+    "wof:geomhash":"895a257fa61dc0e0744118ac11267f7d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086039,
+            "locality_id":85937743,
+            "neighbourhood_id":85837769,
+            "region_id":85688657,
+            "venue_id":857610961
+        }
+    ],
+    "wof:id":857610961,
+    "wof:lastmodified":1464204226,
+    "wof:name":"Nez Perce Prosecuting Attorney",
+    "wof:parent_id":85837769,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "county",
+        "counsel"
+    ]
+},
+  "bbox": [
+    -117.019425,
+    46.418351,
+    -117.019425,
+    46.418351
+],
+  "geometry": {"coordinates":[-117.019425,46.418351],"type":"Point"}
+}

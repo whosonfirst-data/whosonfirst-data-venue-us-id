@@ -1,0 +1,71 @@
+{
+  "id": 857603191,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-116.545993,43.551018,-116.545993,43.551018",
+    "geom:latitude":43.551018,
+    "geom:longitude":-116.545993,
+    "iso:country":"US",
+    "sg:address":"2101 E Louisiana Dr",
+    "sg:city":"Nampa",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 467 2666",
+    "sg:postcode":"83686",
+    "sg:province":"ID",
+    "sg:tags":[
+        "counseling"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85938009,
+        102085081,
+        85827787
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2FlYXYcPwYKdycLZeb4Du5_43.551018_-116.545993@1294099250"
+    },
+    "wof:country":"US",
+    "wof:created":1464204054,
+    "wof:geomhash":"6be8752f92b26984e3426ea519d5639d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085081,
+            "locality_id":85938009,
+            "neighbourhood_id":85827787,
+            "region_id":85688657,
+            "venue_id":857603191
+        }
+    ],
+    "wof:id":857603191,
+    "wof:lastmodified":1464204054,
+    "wof:name":"Broker Assist Co Counseling",
+    "wof:parent_id":85827787,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "counseling"
+    ]
+},
+  "bbox": [
+    -116.545993,
+    43.551018,
+    -116.545993,
+    43.551018
+],
+  "geometry": {"coordinates":[-116.545993,43.551018],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 857575183,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-116.811443,47.773012,-116.811443,47.773012",
+    "geom:latitude":47.773012,
+    "geom:longitude":-116.811443,
+    "iso:country":"US",
+    "sg:address":"11405 N Airport Rd",
+    "sg:city":"Hayden Lake",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"Special Training",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 762 2567",
+    "sg:postcode":"83835",
+    "sg:province":"ID",
+    "sg:tags":[
+        "aircraft",
+        "school"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85821457,
+        102086085
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_20zVQTf9qnpg8Pe1SFH4i4_47.773012_-116.811443@1294099250"
+    },
+    "wof:country":"US",
+    "wof:created":1464203454,
+    "wof:geomhash":"e71dcb13049a05fd5414f52175ff31be",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086085,
+            "neighbourhood_id":85821457,
+            "region_id":85688657,
+            "venue_id":857575183
+        }
+    ],
+    "wof:id":857575183,
+    "wof:lastmodified":1464203454,
+    "wof:name":"Action Flying Svc",
+    "wof:parent_id":85821457,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "aircraft",
+        "school"
+    ]
+},
+  "bbox": [
+    -116.811443,
+    47.773012,
+    -116.811443,
+    47.773012
+],
+  "geometry": {"coordinates":[-116.811443,47.773012],"type":"Point"}
+}

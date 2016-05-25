@@ -1,0 +1,73 @@
+{
+  "id": 857555447,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-116.321568,43.611676,-116.321568,43.611676",
+    "geom:latitude":43.611676,
+    "geom:longitude":-116.321568,
+    "iso:country":"US",
+    "sg:address":"755 Meadowland Dr",
+    "sg:city":"Boise",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 375 8200",
+    "sg:postcode":"83713",
+    "sg:province":"ID",
+    "sg:tags":[
+        "electric",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85937915,
+        102086087,
+        85805083
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7lNFOBIKSAytcpxou3D0xy_43.611676_-116.321568@1294099250"
+    },
+    "wof:country":"US",
+    "wof:created":1464203042,
+    "wof:geomhash":"5092f0cb1ef435fc798cf521d0eb8bf4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086087,
+            "locality_id":85937915,
+            "neighbourhood_id":85805083,
+            "region_id":85688657,
+            "venue_id":857555447
+        }
+    ],
+    "wof:id":857555447,
+    "wof:lastmodified":1464203042,
+    "wof:name":"Better Homes Electric Inc",
+    "wof:parent_id":85805083,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electric",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -116.321568,
+    43.611676,
+    -116.321568,
+    43.611676
+],
+  "geometry": {"coordinates":[-116.321568,43.611676],"type":"Point"}
+}

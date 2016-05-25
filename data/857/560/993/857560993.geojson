@@ -1,0 +1,71 @@
+{
+  "id": 857560993,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-116.714482,47.84211,-116.714482,47.84211",
+    "geom:latitude":47.84211,
+    "geom:longitude":-116.714482,
+    "iso:country":"US",
+    "sg:address":"5315 E Ohio Match Rd",
+    "sg:city":"Hayden Lake",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 772 7219",
+    "sg:postcode":"83835",
+    "sg:province":"ID",
+    "sg:tags":[
+        "plumbing",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85821457,
+        102086085
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_40m455FY7qj1auQ7YlfgFk_47.842110_-116.714482@1294099250"
+    },
+    "wof:country":"US",
+    "wof:created":1464203182,
+    "wof:geomhash":"b70cf3ddc287b9869a3836362fcd3360",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086085,
+            "neighbourhood_id":85821457,
+            "region_id":85688657,
+            "venue_id":857560993
+        }
+    ],
+    "wof:id":857560993,
+    "wof:lastmodified":1464203182,
+    "wof:name":"Bud's Plumbing & Repair",
+    "wof:parent_id":85821457,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "plumbing",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -116.714482,
+    47.84211,
+    -116.714482,
+    47.84211
+],
+  "geometry": {"coordinates":[-116.714482,47.84211],"type":"Point"}
+}

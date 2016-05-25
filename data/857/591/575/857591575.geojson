@@ -1,0 +1,73 @@
+{
+  "id": 857591575,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-116.315714,43.623353,-116.315714,43.623353",
+    "geom:latitude":43.623353,
+    "geom:longitude":-116.315714,
+    "iso:country":"US",
+    "sg:address":"2085 W Charitan Dr",
+    "sg:city":"Boise",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 327 9974",
+    "sg:postcode":"83713",
+    "sg:province":"ID",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        102191575,
+        85633793,
+        85937915,
+        102086087,
+        85811491
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5h8x2ftMOfxp367apn4QZs_43.623353_-116.315714@1294099250"
+    },
+    "wof:country":"US",
+    "wof:created":1464203795,
+    "wof:geomhash":"2f11d38ded83511f0a264bba1be3914b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086087,
+            "locality_id":85937915,
+            "neighbourhood_id":85811491,
+            "region_id":85688657,
+            "venue_id":857591575
+        }
+    ],
+    "wof:id":857591575,
+    "wof:lastmodified":1464203795,
+    "wof:name":"Northwest Siding",
+    "wof:parent_id":85811491,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -116.315714,
+    43.623353,
+    -116.315714,
+    43.623353
+],
+  "geometry": {"coordinates":[-116.315714,43.623353],"type":"Point"}
+}

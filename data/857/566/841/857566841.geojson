@@ -1,0 +1,71 @@
+{
+  "id": 857566841,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-116.512979,43.534645,-116.512979,43.534645",
+    "geom:latitude":43.534645,
+    "geom:longitude":-116.512979,
+    "iso:country":"US",
+    "sg:address":"3606 S Happy Valley Rd",
+    "sg:city":"Nampa",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 465 0091",
+    "sg:postcode":"83686",
+    "sg:province":"ID",
+    "sg:tags":[
+        "appliance"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85938009,
+        102085081,
+        85827787
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0Wx4HFTxcj1s4MPJcXAMho_43.534645_-116.512979@1294099250"
+    },
+    "wof:country":"US",
+    "wof:created":1464203294,
+    "wof:geomhash":"d67cb651d938c362bb568487cafde307",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085081,
+            "locality_id":85938009,
+            "neighbourhood_id":85827787,
+            "region_id":85688657,
+            "venue_id":857566841
+        }
+    ],
+    "wof:id":857566841,
+    "wof:lastmodified":1464203294,
+    "wof:name":"Atlas Appliance Svc",
+    "wof:parent_id":85827787,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "appliance"
+    ]
+},
+  "bbox": [
+    -116.512979,
+    43.534645,
+    -116.512979,
+    43.534645
+],
+  "geometry": {"coordinates":[-116.512979,43.534645],"type":"Point"}
+}

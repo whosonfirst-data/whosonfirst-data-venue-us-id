@@ -1,0 +1,73 @@
+{
+  "id": 857569423,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-116.544522,43.587785,-116.544522,43.587785",
+    "geom:latitude":43.587785,
+    "geom:longitude":-116.544522,
+    "iso:country":"US",
+    "sg:address":"401 Cavalry St",
+    "sg:city":"Nampa",
+    "sg:classifiers":[
+        {
+            "category":"Recreation",
+            "subcategory":"",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 466 0237",
+    "sg:postcode":"83687",
+    "sg:province":"ID",
+    "sg:tags":[
+        "club",
+        "baseball"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85938009,
+        102085081,
+        85827787
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6YqzRJXxzAi20euYNYK324_43.587785_-116.544522@1294099250"
+    },
+    "wof:country":"US",
+    "wof:created":1464203342,
+    "wof:geomhash":"f0ef4bb214d22acc8859552c2d015d3f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085081,
+            "locality_id":85938009,
+            "neighbourhood_id":85827787,
+            "region_id":85688657,
+            "venue_id":857569423
+        }
+    ],
+    "wof:id":857569423,
+    "wof:lastmodified":1464203342,
+    "wof:name":"Nampa American Legion Baseball",
+    "wof:parent_id":85827787,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "club",
+        "baseball"
+    ]
+},
+  "bbox": [
+    -116.544522,
+    43.587785,
+    -116.544522,
+    43.587785
+],
+  "geometry": {"coordinates":[-116.544522,43.587785],"type":"Point"}
+}

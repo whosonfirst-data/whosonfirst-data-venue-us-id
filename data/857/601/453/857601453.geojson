@@ -1,0 +1,84 @@
+{
+  "id": 857601453,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-116.984677,46.380313,-116.984677,46.380313",
+    "geom:latitude":46.380313,
+    "geom:longitude":-116.984677,
+    "iso:country":"US",
+    "sg:address":"940 Bryden Ave",
+    "sg:city":"Lewiston",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Investment Brokerage",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 746 3875",
+    "sg:postcode":"83501",
+    "sg:province":"ID",
+    "sg:tags":[
+        "stock",
+        "bond"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85937743,
+        102086039,
+        85837769,
+        102191575,
+        85830385
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2hvqIorKjfIK9ngkyZQLY8_46.380313_-116.984677@1294099250"
+    },
+    "wof:country":"US",
+    "wof:created":1464204017,
+    "wof:geomhash":"04c85e98b26da999dc1b618afd10a903",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086039,
+            "locality_id":85937743,
+            "neighbourhood_id":85837769,
+            "region_id":85688657,
+            "venue_id":857601453
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086039,
+            "locality_id":85937743,
+            "neighbourhood_id":85830385,
+            "region_id":85688657,
+            "venue_id":857601453
+        }
+    ],
+    "wof:id":857601453,
+    "wof:lastmodified":1464204017,
+    "wof:name":"Edward Jones Co",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "stock",
+        "bond"
+    ]
+},
+  "bbox": [
+    -116.984677,
+    46.380313,
+    -116.984677,
+    46.380313
+],
+  "geometry": {"coordinates":[-116.984677,46.380313],"type":"Point"}
+}

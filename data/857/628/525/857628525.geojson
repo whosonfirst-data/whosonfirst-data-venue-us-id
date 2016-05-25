@@ -1,0 +1,71 @@
+{
+  "id": 857628525,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-116.59788,43.60192,-116.59788,43.60192",
+    "geom:latitude":43.60192,
+    "geom:longitude":-116.59788,
+    "iso:country":"US",
+    "sg:address":"1415 Caldwell Blvd",
+    "sg:city":"Nampa",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/id/nampa/196144-taco-bell/menu/",
+    "sg:owner":"simplegeo",
+    "sg:postcode":"83651",
+    "sg:province":"ID",
+    "sg:tags":[
+        "mexican"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85938009,
+        102085081,
+        85827787
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7UJnkLAy6GFuOTKcPxq3aZ_43.601920_-116.597880@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464204634,
+    "wof:geomhash":"16c7facc7dbc5721c5f1f87c95a0edf6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085081,
+            "locality_id":85938009,
+            "neighbourhood_id":85827787,
+            "region_id":85688657,
+            "venue_id":857628525
+        }
+    ],
+    "wof:id":857628525,
+    "wof:lastmodified":1464204634,
+    "wof:name":"Taco Bell",
+    "wof:parent_id":85827787,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mexican"
+    ]
+},
+  "bbox": [
+    -116.59788,
+    43.60192,
+    -116.59788,
+    43.60192
+],
+  "geometry": {"coordinates":[-116.59788,43.60192],"type":"Point"}
+}

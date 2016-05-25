@@ -1,0 +1,67 @@
+{
+  "id": 857569123,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-117.024423,46.415676,-117.024423,46.415676",
+    "geom:latitude":46.415676,
+    "geom:longitude":-117.024423,
+    "iso:country":"US",
+    "sg:address":"641 5th Ave",
+    "sg:city":"Lewiston",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"School",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 743 4411",
+    "sg:postcode":"83501",
+    "sg:province":"ID",
+    "sg:website":"www.sstps.org",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85937743,
+        102086039,
+        85852537
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2KmdomLebJE0avO8cZTVhI_46.415676_-117.024423@1294099250"
+    },
+    "wof:country":"US",
+    "wof:created":1464203335,
+    "wof:geomhash":"1aacca94ba21575482fc447013549307",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086039,
+            "locality_id":85937743,
+            "neighbourhood_id":85852537,
+            "region_id":85688657,
+            "venue_id":857569123
+        }
+    ],
+    "wof:id":857569123,
+    "wof:lastmodified":1464203335,
+    "wof:name":"St Stanislaus Tri-Parish Schl",
+    "wof:parent_id":85852537,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -117.024423,
+    46.415676,
+    -117.024423,
+    46.415676
+],
+  "geometry": {"coordinates":[-117.024423,46.415676],"type":"Point"}
+}

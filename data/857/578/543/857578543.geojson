@@ -1,0 +1,71 @@
+{
+  "id": 857578543,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-116.775067,47.68191,-116.775067,47.68191",
+    "geom:latitude":47.68191,
+    "geom:longitude":-116.775067,
+    "iso:country":"US",
+    "sg:address":"823 E Boyd Ave",
+    "sg:city":"Coeur D Alene",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 660 3355",
+    "sg:postcode":"83814",
+    "sg:province":"ID",
+    "sg:tags":[
+        "concrete",
+        "pumping"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85821457,
+        102086085
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3vOuK4T7CtSAIP8p1RGQWe_47.681910_-116.775067@1294099250"
+    },
+    "wof:country":"US",
+    "wof:created":1464203521,
+    "wof:geomhash":"a12cea155ce21cb5248eceac16777b24",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086085,
+            "neighbourhood_id":85821457,
+            "region_id":85688657,
+            "venue_id":857578543
+        }
+    ],
+    "wof:id":857578543,
+    "wof:lastmodified":1464203521,
+    "wof:name":"Pilot Concrete Pumping",
+    "wof:parent_id":85821457,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "concrete",
+        "pumping"
+    ]
+},
+  "bbox": [
+    -116.775067,
+    47.68191,
+    -116.775067,
+    47.68191
+],
+  "geometry": {"coordinates":[-116.77506700000001,47.68191],"type":"Point"}
+}

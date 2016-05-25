@@ -1,0 +1,86 @@
+{
+  "id": 857624385,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-116.977936,46.381918,-116.977936,46.381918",
+    "geom:latitude":46.381918,
+    "geom:longitude":-116.977936,
+    "iso:country":"US",
+    "sg:address":"340 Thain Rd",
+    "sg:city":"Lewiston",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Musical Instruments",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 743 7865",
+    "sg:postcode":"83501",
+    "sg:province":"ID",
+    "sg:tags":[
+        "repair",
+        "music",
+        "instruction-instrumental"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85937743,
+        102086039,
+        85837769,
+        102191575,
+        85830385
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_35BNrvLQfmbmDz5fspy2aH_46.381862_-116.978070@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1464204550,
+    "wof:geomhash":"131dd1f2eb0486966b026129133fdbd4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086039,
+            "locality_id":85937743,
+            "neighbourhood_id":85837769,
+            "region_id":85688657,
+            "venue_id":857624385
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086039,
+            "locality_id":85937743,
+            "neighbourhood_id":85830385,
+            "region_id":85688657,
+            "venue_id":857624385
+        }
+    ],
+    "wof:id":857624385,
+    "wof:lastmodified":1464204550,
+    "wof:name":"Seidel Music & Repair",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repair",
+        "music",
+        "instruction-instrumental"
+    ]
+},
+  "bbox": [
+    -116.977936,
+    46.381918,
+    -116.977936,
+    46.381918
+],
+  "geometry": {"coordinates":[-116.977936,46.381918],"type":"Point"}
+}

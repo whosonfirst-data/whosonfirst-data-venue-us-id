@@ -1,0 +1,75 @@
+{
+  "id": 857544785,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-116.258847,43.56346,-116.258847,43.56346",
+    "geom:latitude":43.56346,
+    "geom:longitude":-116.258847,
+    "iso:country":"US",
+    "sg:address":"4302 Henry St",
+    "sg:city":"Boise",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 362 7522",
+    "sg:postcode":"83709",
+    "sg:province":"ID",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        102191575,
+        85633793,
+        85937923,
+        102086087,
+        85825393
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3dUILRp5Zl4hXWyGfyP2LY_43.563460_-116.258847@1294099250"
+    },
+    "wof:country":"US",
+    "wof:created":1464202835,
+    "wof:geomhash":"126842febdfa9bcbeafe0281dc3aa166",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086087,
+            "locality_id":85937923,
+            "neighbourhood_id":85825393,
+            "region_id":85688657,
+            "venue_id":857544785
+        }
+    ],
+    "wof:id":857544785,
+    "wof:lastmodified":1464202835,
+    "wof:name":"Grove Auto Repair",
+    "wof:parent_id":85825393,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -116.258847,
+    43.56346,
+    -116.258847,
+    43.56346
+],
+  "geometry": {"coordinates":[-116.258847,43.56346],"type":"Point"}
+}

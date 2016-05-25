@@ -1,0 +1,71 @@
+{
+  "id": 857572829,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-116.789665,47.743049,-116.789665,47.743049",
+    "geom:latitude":47.743049,
+    "geom:longitude":-116.789665,
+    "iso:country":"US",
+    "sg:address":"7820 Franklin St",
+    "sg:city":"Coeur D Alene",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 772 6096",
+    "sg:postcode":"83815",
+    "sg:province":"ID",
+    "sg:tags":[
+        "heating",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85821457,
+        102086085
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6bPdA6F7JDMA8GvUccDcVe_47.743049_-116.789665@1294099250"
+    },
+    "wof:country":"US",
+    "wof:created":1464203408,
+    "wof:geomhash":"0233ddef44e0e5366e7d5d909e4ce142",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086085,
+            "neighbourhood_id":85821457,
+            "region_id":85688657,
+            "venue_id":857572829
+        }
+    ],
+    "wof:id":857572829,
+    "wof:lastmodified":1464203408,
+    "wof:name":"Air Tech",
+    "wof:parent_id":85821457,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "heating",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -116.789665,
+    47.743049,
+    -116.789665,
+    47.743049
+],
+  "geometry": {"coordinates":[-116.789665,47.743049],"type":"Point"}
+}

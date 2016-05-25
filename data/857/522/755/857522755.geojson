@@ -1,0 +1,71 @@
+{
+  "id": 857522755,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-116.786595,47.764639,-116.786595,47.764639",
+    "geom:latitude":47.764639,
+    "geom:longitude":-116.786595,
+    "iso:country":"US",
+    "sg:address":"10075 N Government Way",
+    "sg:city":"Hayden Lake",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 666 1111",
+    "sg:postcode":"83835",
+    "sg:province":"ID",
+    "sg:tags":[
+        "general",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85821457,
+        102086085
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1OSqr0YdJCuyhKOV1jYpdU_47.764639_-116.786595@1294099250"
+    },
+    "wof:country":"US",
+    "wof:created":1464202403,
+    "wof:geomhash":"a59612ff12eb0c63141c80e3377c7b84",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086085,
+            "neighbourhood_id":85821457,
+            "region_id":85688657,
+            "venue_id":857522755
+        }
+    ],
+    "wof:id":857522755,
+    "wof:lastmodified":1464202403,
+    "wof:name":"Creekside Construction",
+    "wof:parent_id":85821457,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "general",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -116.786595,
+    47.764639,
+    -116.786595,
+    47.764639
+],
+  "geometry": {"coordinates":[-116.78659500000001,47.764639],"type":"Point"}
+}

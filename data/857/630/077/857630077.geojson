@@ -1,0 +1,72 @@
+{
+  "id": 857630077,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-116.78582,47.692605,-116.78582,47.692605",
+    "geom:latitude":47.692605,
+    "geom:longitude":-116.78582,
+    "iso:country":"US",
+    "sg:address":"1800 N Government Way",
+    "sg:city":"Coeur D Alene",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/id/coeur-dalene/77694-papa-murphys/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 765 8878",
+    "sg:postcode":"83814",
+    "sg:province":"ID",
+    "sg:tags":[
+        "american",
+        "pizza"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85821457,
+        102086085
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3rapZpmzDstKz64FQqJ4f0_47.692605_-116.785820@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464204661,
+    "wof:geomhash":"df4984f171d8475af61f4531809bd3b0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086085,
+            "neighbourhood_id":85821457,
+            "region_id":85688657,
+            "venue_id":857630077
+        }
+    ],
+    "wof:id":857630077,
+    "wof:lastmodified":1464204661,
+    "wof:name":"Papa Murphy's",
+    "wof:parent_id":85821457,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "pizza"
+    ]
+},
+  "bbox": [
+    -116.78582,
+    47.692605,
+    -116.78582,
+    47.692605
+],
+  "geometry": {"coordinates":[-116.78582,47.692605],"type":"Point"}
+}

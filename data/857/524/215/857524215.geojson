@@ -1,0 +1,71 @@
+{
+  "id": 857524215,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-116.796462,47.695805,-116.796462,47.695805",
+    "geom:latitude":47.695805,
+    "geom:longitude":-116.796462,
+    "iso:country":"US",
+    "sg:address":"1015 W Ironwood Dr",
+    "sg:city":"Coeur D Alene",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 667 2663",
+    "sg:postcode":"83814",
+    "sg:province":"ID",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85821457,
+        102086085
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7lcX2M1vS7Mi7os1CnNWM5_47.695805_-116.796462@1294099250"
+    },
+    "wof:country":"US",
+    "wof:created":1464202434,
+    "wof:geomhash":"bbcc7f29706d07937507148dfb6dc15a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086085,
+            "neighbourhood_id":85821457,
+            "region_id":85688657,
+            "venue_id":857524215
+        }
+    ],
+    "wof:id":857524215,
+    "wof:lastmodified":1464202434,
+    "wof:name":"North Idaho Internal Medicine",
+    "wof:parent_id":85821457,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -116.796462,
+    47.695805,
+    -116.796462,
+    47.695805
+],
+  "geometry": {"coordinates":[-116.79646200000001,47.695805],"type":"Point"}
+}

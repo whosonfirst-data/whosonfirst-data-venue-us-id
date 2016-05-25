@@ -1,0 +1,85 @@
+{
+  "id": 857542327,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-116.786611,47.720894,-116.786611,47.720894",
+    "geom:latitude":47.720894,
+    "geom:longitude":-116.786611,
+    "iso:country":"US",
+    "sg:address":"5500 N Government Way",
+    "sg:city":"Coeur D Alene",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Jail",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 765 6232",
+    "sg:postcode":"83815",
+    "sg:province":"ID",
+    "sg:tags":[
+        "county",
+        "govt",
+        "institution"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85821457,
+        102086085,
+        102191575,
+        85938163,
+        85806325
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2oYtlpUqoVM0ioj9JTVk4L_47.720894_-116.786611@1294099250"
+    },
+    "wof:country":"US",
+    "wof:created":1464202787,
+    "wof:geomhash":"201be29e1f57bad7ca0eb5035d9fb2b1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086085,
+            "neighbourhood_id":85821457,
+            "region_id":85688657,
+            "venue_id":857542327
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086085,
+            "locality_id":85938163,
+            "neighbourhood_id":85806325,
+            "region_id":85688657,
+            "venue_id":857542327
+        }
+    ],
+    "wof:id":857542327,
+    "wof:lastmodified":1464202787,
+    "wof:name":"Kootenai Correctional Facility",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "county",
+        "govt",
+        "institution"
+    ]
+},
+  "bbox": [
+    -116.786611,
+    47.720894,
+    -116.786611,
+    47.720894
+],
+  "geometry": {"coordinates":[-116.78661099999999,47.720894],"type":"Point"}
+}

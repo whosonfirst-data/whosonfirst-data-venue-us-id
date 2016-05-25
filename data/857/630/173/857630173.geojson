@@ -1,0 +1,84 @@
+{
+  "id": 857630173,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-116.785697,47.71482,-116.785697,47.71482",
+    "geom:latitude":47.71482,
+    "geom:longitude":-116.785697,
+    "iso:country":"US",
+    "sg:address":"3840 N Government Way",
+    "sg:city":"Coeur D Alene",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/id/coeur-dalene/120383-subway/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 676 0995",
+    "sg:postcode":"83815",
+    "sg:province":"ID",
+    "sg:tags":[
+        "american",
+        "sandwich"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85821457,
+        102086085,
+        102191575,
+        85938163,
+        85806325
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7NSA1GSksg3YU7ZrnLQlSL_47.714820_-116.785697@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464204669,
+    "wof:geomhash":"b77ea90732974f29dfcae235f64c5534",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086085,
+            "neighbourhood_id":85821457,
+            "region_id":85688657,
+            "venue_id":857630173
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086085,
+            "locality_id":85938163,
+            "neighbourhood_id":85806325,
+            "region_id":85688657,
+            "venue_id":857630173
+        }
+    ],
+    "wof:id":857630173,
+    "wof:lastmodified":1464204669,
+    "wof:name":"Subway",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "sandwich"
+    ]
+},
+  "bbox": [
+    -116.785697,
+    47.71482,
+    -116.785697,
+    47.71482
+],
+  "geometry": {"coordinates":[-116.785697,47.71482],"type":"Point"}
+}

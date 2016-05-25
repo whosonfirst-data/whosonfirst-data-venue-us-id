@@ -1,0 +1,71 @@
+{
+  "id": 857587577,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-116.801292,47.691753,-116.801292,47.691753",
+    "geom:latitude":47.691753,
+    "geom:longitude":-116.801292,
+    "iso:country":"US",
+    "sg:address":"1820 Northwest Blvd",
+    "sg:city":"Coeur D Alene",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Specialty",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 667 5371",
+    "sg:postcode":"83814",
+    "sg:province":"ID",
+    "sg:tags":[
+        "tea",
+        "coffee"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85821457,
+        102086085
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6TdXKn1kUJqy9YcVHhdf44_47.691753_-116.801292@1294099250"
+    },
+    "wof:country":"US",
+    "wof:created":1464203705,
+    "wof:geomhash":"5ed4f3a743c412f8cadfede87c2bec40",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086085,
+            "neighbourhood_id":85821457,
+            "region_id":85688657,
+            "venue_id":857587577
+        }
+    ],
+    "wof:id":857587577,
+    "wof:lastmodified":1464203705,
+    "wof:name":"Dagny's Coffee Co",
+    "wof:parent_id":85821457,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "tea",
+        "coffee"
+    ]
+},
+  "bbox": [
+    -116.801292,
+    47.691753,
+    -116.801292,
+    47.691753
+],
+  "geometry": {"coordinates":[-116.801292,47.691753],"type":"Point"}
+}

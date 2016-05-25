@@ -1,0 +1,83 @@
+{
+  "id": 857538653,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-116.787799,47.722571,-116.787799,47.722571",
+    "geom:latitude":47.722571,
+    "geom:longitude":-116.787799,
+    "iso:country":"US",
+    "sg:address":"180 W Dalton Ave",
+    "sg:city":"Coeur D Alene",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 765 6497",
+    "sg:postcode":"83815",
+    "sg:province":"ID",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85821457,
+        102086085,
+        102191575,
+        85938163,
+        85806325
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7XLD5YV5HD9joWlWly8rhQ_47.722571_-116.787799@1294099250"
+    },
+    "wof:country":"US",
+    "wof:created":1464202711,
+    "wof:geomhash":"235d1f56ebc6afc39680b0a1ed30bc6d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086085,
+            "neighbourhood_id":85821457,
+            "region_id":85688657,
+            "venue_id":857538653
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086085,
+            "locality_id":85938163,
+            "neighbourhood_id":85806325,
+            "region_id":85688657,
+            "venue_id":857538653
+        }
+    ],
+    "wof:id":857538653,
+    "wof:lastmodified":1464202711,
+    "wof:name":"Elder Automotive",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -116.787799,
+    47.722571,
+    -116.787799,
+    47.722571
+],
+  "geometry": {"coordinates":[-116.78779900000001,47.722571],"type":"Point"}
+}

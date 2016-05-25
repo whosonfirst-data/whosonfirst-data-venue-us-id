@@ -1,0 +1,74 @@
+{
+  "id": 857505389,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-116.391882,43.619243,-116.391882,43.619243",
+    "geom:latitude":43.619243,
+    "geom:longitude":-116.391882,
+    "iso:country":"US",
+    "sg:address":"20 E Fairview Ave",
+    "sg:city":"Meridian",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 888 4792",
+    "sg:postcode":"83642",
+    "sg:province":"ID",
+    "sg:tags":[
+        "grocer"
+    ],
+    "sg:website":"www.albertsons.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        102191575,
+        85633793,
+        85937915,
+        102086087,
+        85811491
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3ukjUOLloeiuh0NeAfKwR4_43.619243_-116.391882@1294099250"
+    },
+    "wof:country":"US",
+    "wof:created":1464202046,
+    "wof:geomhash":"96164f43b2edc54f8f78959599693834",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086087,
+            "locality_id":85937915,
+            "neighbourhood_id":85811491,
+            "region_id":85688657,
+            "venue_id":857505389
+        }
+    ],
+    "wof:id":857505389,
+    "wof:lastmodified":1464202046,
+    "wof:name":"Albertsons",
+    "wof:parent_id":85811491,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "grocer"
+    ]
+},
+  "bbox": [
+    -116.391882,
+    43.619243,
+    -116.391882,
+    43.619243
+],
+  "geometry": {"coordinates":[-116.391882,43.619243],"type":"Point"}
+}

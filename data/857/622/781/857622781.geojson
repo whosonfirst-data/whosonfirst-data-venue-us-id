@@ -1,0 +1,76 @@
+{
+  "id": 857622781,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-116.396265,43.604693,-116.396265,43.604693",
+    "geom:latitude":43.604693,
+    "geom:longitude":-116.396265,
+    "iso:country":"US",
+    "sg:address":"216 W Franklin Rd",
+    "sg:city":"Meridian",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 888 1841",
+    "sg:postcode":"83642",
+    "sg:province":"ID",
+    "sg:tags":[
+        "repairing",
+        "automobile",
+        "truck"
+    ],
+    "sg:website":"http://clickserve.dartsearch.net/link/click?lid=43000000313869915&ds_s_kwgid=58000000006820725&ds_e_matchtype={MatchType}&ds_e_kwdid={OrderItemId}&ds_e_adid={AdId}&ds_url_v=2",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85937915,
+        102086087,
+        85805083
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0PzRMfRRSagJfqZPEw7pmi_43.604730_-116.395654@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1464204503,
+    "wof:geomhash":"9b147e096d86702f0356b94c7cc9b54d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086087,
+            "locality_id":85937915,
+            "neighbourhood_id":85805083,
+            "region_id":85688657,
+            "venue_id":857622781
+        }
+    ],
+    "wof:id":857622781,
+    "wof:lastmodified":1464204503,
+    "wof:name":"Giesler's Auto Repair",
+    "wof:parent_id":85805083,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile",
+        "truck"
+    ]
+},
+  "bbox": [
+    -116.396265,
+    43.604693,
+    -116.396265,
+    43.604693
+],
+  "geometry": {"coordinates":[-116.396265,43.604693],"type":"Point"}
+}

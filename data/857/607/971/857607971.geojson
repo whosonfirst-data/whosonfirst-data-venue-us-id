@@ -1,0 +1,73 @@
+{
+  "id": 857607971,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-116.243422,43.585392,-116.243422,43.585392",
+    "geom:latitude":43.585392,
+    "geom:longitude":-116.243422,
+    "iso:country":"US",
+    "sg:address":"4718 Greenbrier Dr",
+    "sg:city":"Boise",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Cleaning & Sanitation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 345 4122",
+    "sg:postcode":"83705",
+    "sg:province":"ID",
+    "sg:tags":[
+        "janitorial"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        102191575,
+        85633793,
+        85937923,
+        102086087,
+        85825393
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0WMvFsrW9LREjlHnigZI0z_43.585392_-116.243422@1294099250"
+    },
+    "wof:country":"US",
+    "wof:created":1464204165,
+    "wof:geomhash":"130d000680de93da3f584f1c6e29c01f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086087,
+            "locality_id":85937923,
+            "neighbourhood_id":85825393,
+            "region_id":85688657,
+            "venue_id":857607971
+        }
+    ],
+    "wof:id":857607971,
+    "wof:lastmodified":1464204165,
+    "wof:name":"Pats Cleaning Service",
+    "wof:parent_id":85825393,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "janitorial"
+    ]
+},
+  "bbox": [
+    -116.243422,
+    43.585392,
+    -116.243422,
+    43.585392
+],
+  "geometry": {"coordinates":[-116.243422,43.585392],"type":"Point"}
+}

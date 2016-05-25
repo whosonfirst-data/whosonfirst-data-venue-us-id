@@ -1,0 +1,71 @@
+{
+  "id": 857532731,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-117.018399,46.412509,-117.018399,46.412509",
+    "geom:latitude":46.412509,
+    "geom:longitude":-117.018399,
+    "iso:country":"US",
+    "sg:address":"1005 8th Ave",
+    "sg:city":"Lewiston",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Barber",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 746 5981",
+    "sg:postcode":"83501",
+    "sg:province":"ID",
+    "sg:tags":[
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85937743,
+        102086039,
+        85837769
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2d9bh54IuDK22IAzPCpjq7_46.412509_-117.018399@1294099250"
+    },
+    "wof:country":"US",
+    "wof:created":1464202598,
+    "wof:geomhash":"8b6b583217e0b6e9a33619de3a5f76be",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086039,
+            "locality_id":85937743,
+            "neighbourhood_id":85837769,
+            "region_id":85688657,
+            "venue_id":857532731
+        }
+    ],
+    "wof:id":857532731,
+    "wof:lastmodified":1464202598,
+    "wof:name":"Warren's Barber Shop",
+    "wof:parent_id":85837769,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop"
+    ]
+},
+  "bbox": [
+    -117.018399,
+    46.412509,
+    -117.018399,
+    46.412509
+],
+  "geometry": {"coordinates":[-117.018399,46.412509],"type":"Point"}
+}

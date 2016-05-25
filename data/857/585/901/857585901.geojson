@@ -1,0 +1,73 @@
+{
+  "id": 857585901,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-116.947933,47.708285,-116.947933,47.708285",
+    "geom:latitude":47.708285,
+    "geom:longitude":-116.947933,
+    "iso:country":"US",
+    "sg:address":"115 E 3rd Ave",
+    "sg:city":"Post Falls",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 773 3140",
+    "sg:postcode":"83854",
+    "sg:province":"ID",
+    "sg:tags":[
+        "exhaust"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        102191575,
+        85633793,
+        85938145,
+        102086085,
+        85833263
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1rhG3NQ8Jz8WcHJu9gdKrJ_47.708285_-116.947933@1294099250"
+    },
+    "wof:country":"US",
+    "wof:created":1464203669,
+    "wof:geomhash":"b7aeb41c41d41b4112546917b3fc5eed",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086085,
+            "locality_id":85938145,
+            "neighbourhood_id":85833263,
+            "region_id":85688657,
+            "venue_id":857585901
+        }
+    ],
+    "wof:id":857585901,
+    "wof:lastmodified":1464203669,
+    "wof:name":"A & B Muffler",
+    "wof:parent_id":85833263,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "exhaust"
+    ]
+},
+  "bbox": [
+    -116.947933,
+    47.708285,
+    -116.947933,
+    47.708285
+],
+  "geometry": {"coordinates":[-116.94793300000001,47.708285],"type":"Point"}
+}

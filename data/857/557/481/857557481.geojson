@@ -1,0 +1,75 @@
+{
+  "id": 857557481,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-116.568823,43.583569,-116.568823,43.583569",
+    "geom:latitude":43.583569,
+    "geom:longitude":-116.568823,
+    "iso:country":"US",
+    "sg:address":"432 Nampa-Caldwell Blvd",
+    "sg:city":"Nampa",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"Child Care",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 465 7413",
+    "sg:postcode":"83651",
+    "sg:province":"ID",
+    "sg:tags":[
+        "kindergarten",
+        "academic",
+        "school"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85938009,
+        102085081,
+        85827787
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4UHUVZxakfulNZ2lulfGz8_43.583569_-116.568823@1294099250"
+    },
+    "wof:country":"US",
+    "wof:created":1464203082,
+    "wof:geomhash":"d9420c7bdb29c88de78f9fd86ec2528b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085081,
+            "locality_id":85938009,
+            "neighbourhood_id":85827787,
+            "region_id":85688657,
+            "venue_id":857557481
+        }
+    ],
+    "wof:id":857557481,
+    "wof:lastmodified":1464203082,
+    "wof:name":"ABC Country",
+    "wof:parent_id":85827787,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "kindergarten",
+        "academic",
+        "school"
+    ]
+},
+  "bbox": [
+    -116.568823,
+    43.583569,
+    -116.568823,
+    43.583569
+],
+  "geometry": {"coordinates":[-116.56882299999999,43.583569],"type":"Point"}
+}

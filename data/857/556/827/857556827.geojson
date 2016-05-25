@@ -1,0 +1,73 @@
+{
+  "id": 857556827,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-116.600237,43.605062,-116.600237,43.605062",
+    "geom:latitude":43.605062,
+    "geom:longitude":-116.600237,
+    "iso:country":"US",
+    "sg:address":"1514 W Karcher Rd",
+    "sg:city":"Nampa",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 467 4416",
+    "sg:postcode":"83651",
+    "sg:province":"ID",
+    "sg:tags":[
+        "plumbing",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85938009,
+        102085081,
+        85835387
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6ojoN5Tr3DSrrgU3xg7e2Q_43.605062_-116.600237@1294099250"
+    },
+    "wof:country":"US",
+    "wof:created":1464203068,
+    "wof:geomhash":"1a674d24bab85f54744c8722b28bb1fb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085081,
+            "locality_id":85938009,
+            "neighbourhood_id":85835387,
+            "region_id":85688657,
+            "venue_id":857556827
+        }
+    ],
+    "wof:id":857556827,
+    "wof:lastmodified":1464203068,
+    "wof:name":"Bob Inselman Plumbing & Excvtn",
+    "wof:parent_id":85835387,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "plumbing",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -116.600237,
+    43.605062,
+    -116.600237,
+    43.605062
+],
+  "geometry": {"coordinates":[-116.60023700000001,43.605062],"type":"Point"}
+}

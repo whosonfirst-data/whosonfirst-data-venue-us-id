@@ -1,0 +1,71 @@
+{
+  "id": 857550027,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-116.409545,43.594877,-116.409545,43.594877",
+    "geom:latitude":43.594877,
+    "geom:longitude":-116.409545,
+    "iso:country":"US",
+    "sg:address":"1435 W Verbena Dr",
+    "sg:city":"Meridian",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Fire Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 887 1549",
+    "sg:postcode":"83642",
+    "sg:province":"ID",
+    "sg:tags":[
+        "firefighter"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85937915,
+        102086087,
+        85805083
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0hxD5J5pf2Kr7uPgtXHp3e_43.594877_-116.409545@1294099250"
+    },
+    "wof:country":"US",
+    "wof:created":1464202932,
+    "wof:geomhash":"8e1a7b747dd2c3ccb731261fa6789b5d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086087,
+            "locality_id":85937915,
+            "neighbourhood_id":85805083,
+            "region_id":85688657,
+            "venue_id":857550027
+        }
+    ],
+    "wof:id":857550027,
+    "wof:lastmodified":1464202932,
+    "wof:name":"Michael Brunson",
+    "wof:parent_id":85805083,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "firefighter"
+    ]
+},
+  "bbox": [
+    -116.409545,
+    43.594877,
+    -116.409545,
+    43.594877
+],
+  "geometry": {"coordinates":[-116.40954499999999,43.594877],"type":"Point"}
+}

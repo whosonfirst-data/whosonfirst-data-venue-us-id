@@ -1,0 +1,71 @@
+{
+  "id": 857615087,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-117.011024,46.40175,-117.011024,46.40175",
+    "geom:latitude":46.40175,
+    "geom:longitude":-117.011024,
+    "iso:country":"US",
+    "sg:address":"1826 15th St",
+    "sg:city":"Lewiston",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 746 0967",
+    "sg:postcode":"83501",
+    "sg:province":"ID",
+    "sg:tags":[
+        "painter"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85937743,
+        102086039,
+        85837769
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_69LO686MNhl7gb9sGNSaEs_46.401750_-117.011024@1294099250"
+    },
+    "wof:country":"US",
+    "wof:created":1464204324,
+    "wof:geomhash":"f0f8bab69a996180d85ba42b7a567ed8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086039,
+            "locality_id":85937743,
+            "neighbourhood_id":85837769,
+            "region_id":85688657,
+            "venue_id":857615087
+        }
+    ],
+    "wof:id":857615087,
+    "wof:lastmodified":1464204324,
+    "wof:name":"Joe's Painting",
+    "wof:parent_id":85837769,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "painter"
+    ]
+},
+  "bbox": [
+    -117.011024,
+    46.40175,
+    -117.011024,
+    46.40175
+],
+  "geometry": {"coordinates":[-117.01102400000001,46.40175],"type":"Point"}
+}

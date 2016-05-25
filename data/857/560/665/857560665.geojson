@@ -1,0 +1,71 @@
+{
+  "id": 857560665,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-117.020065,46.415928,-117.020065,46.415928",
+    "geom:latitude":46.415928,
+    "geom:longitude":-117.020065,
+    "iso:country":"US",
+    "sg:address":"422 Adams Ln",
+    "sg:city":"Lewiston",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 743 2092",
+    "sg:postcode":"83501",
+    "sg:province":"ID",
+    "sg:tags":[
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85937743,
+        102086039,
+        85837769
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5UAhLIzLndpQ2oUtYqYYQC_46.415928_-117.020065@1294099250"
+    },
+    "wof:country":"US",
+    "wof:created":1464203174,
+    "wof:geomhash":"b630dfc1b1d805d67914ca829e157edd",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086039,
+            "locality_id":85937743,
+            "neighbourhood_id":85837769,
+            "region_id":85688657,
+            "venue_id":857560665
+        }
+    ],
+    "wof:id":857560665,
+    "wof:lastmodified":1464203174,
+    "wof:name":"Adams Lane Apartments",
+    "wof:parent_id":85837769,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "apartment"
+    ]
+},
+  "bbox": [
+    -117.020065,
+    46.415928,
+    -117.020065,
+    46.415928
+],
+  "geometry": {"coordinates":[-117.020065,46.415928],"type":"Point"}
+}

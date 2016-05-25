@@ -1,0 +1,73 @@
+{
+  "id": 857605103,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-115.995728,47.504336,-115.995728,47.504336",
+    "geom:latitude":47.504336,
+    "geom:longitude":-115.995728,
+    "iso:country":"US",
+    "sg:address":"611 E Mullan Ave",
+    "sg:city":"Osburn",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 753 2503",
+    "sg:postcode":"83849",
+    "sg:province":"ID",
+    "sg:tags":[
+        "plumbing",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85937825,
+        102086103,
+        85849049
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6ctGKy3UGiq1ISHq6iadLm_47.504336_-115.995728@1294099250"
+    },
+    "wof:country":"US",
+    "wof:created":1464204098,
+    "wof:geomhash":"ca896b60b713ff31199dd315b4134195",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086103,
+            "locality_id":85937825,
+            "neighbourhood_id":85849049,
+            "region_id":85688657,
+            "venue_id":857605103
+        }
+    ],
+    "wof:id":857605103,
+    "wof:lastmodified":1464204098,
+    "wof:name":"Bell Plumbing & Heating",
+    "wof:parent_id":85849049,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "plumbing",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -115.995728,
+    47.504336,
+    -115.995728,
+    47.504336
+],
+  "geometry": {"coordinates":[-115.995728,47.504336],"type":"Point"}
+}

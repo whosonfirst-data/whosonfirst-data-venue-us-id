@@ -1,0 +1,69 @@
+{
+  "id": 857522059,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-116.851086,47.70312,-116.851086,47.70312",
+    "geom:latitude":47.70312,
+    "geom:longitude":-116.851086,
+    "iso:country":"US",
+    "sg:address":"3443 N Huetter Rd",
+    "sg:city":"Coeur D Alene",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Retail Goods",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 664 1243",
+    "sg:postcode":"83814",
+    "sg:province":"ID",
+    "sg:tags":[
+        "manufacturer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85821457,
+        102086085
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1lghxaOqMSaWGZuelBdgcq_47.703120_-116.851086@1294099250"
+    },
+    "wof:country":"US",
+    "wof:created":1464202391,
+    "wof:geomhash":"7a9be587d8cc550c16cb87f4387f829b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086085,
+            "neighbourhood_id":85821457,
+            "region_id":85688657,
+            "venue_id":857522059
+        }
+    ],
+    "wof:id":857522059,
+    "wof:lastmodified":1464202391,
+    "wof:name":"Echelon Manufacturing Inc",
+    "wof:parent_id":85821457,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "manufacturer"
+    ]
+},
+  "bbox": [
+    -116.851086,
+    47.70312,
+    -116.851086,
+    47.70312
+],
+  "geometry": {"coordinates":[-116.851086,47.70312],"type":"Point"}
+}

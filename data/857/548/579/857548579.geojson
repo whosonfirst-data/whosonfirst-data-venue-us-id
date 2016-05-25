@@ -1,0 +1,71 @@
+{
+  "id": 857548579,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-116.76909,47.679273,-116.76909,47.679273",
+    "geom:latitude":47.679273,
+    "geom:longitude":-116.76909,
+    "iso:country":"US",
+    "sg:address":"1208 E Pennsylvania Ave",
+    "sg:city":"Coeur D Alene",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Boat Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 664 6934",
+    "sg:postcode":"83814",
+    "sg:province":"ID",
+    "sg:tags":[
+        "dealer",
+        "sales"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85821457,
+        102086085
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6jDgBQYKSWnhBURxth7X5x_47.679273_-116.769090@1294099250"
+    },
+    "wof:country":"US",
+    "wof:created":1464202904,
+    "wof:geomhash":"1748f7ad800366eccdb3e277807efa36",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086085,
+            "neighbourhood_id":85821457,
+            "region_id":85688657,
+            "venue_id":857548579
+        }
+    ],
+    "wof:id":857548579,
+    "wof:lastmodified":1464202904,
+    "wof:name":"Buck Johnson Co",
+    "wof:parent_id":85821457,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dealer",
+        "sales"
+    ]
+},
+  "bbox": [
+    -116.76909,
+    47.679273,
+    -116.76909,
+    47.679273
+],
+  "geometry": {"coordinates":[-116.76909000000001,47.679273],"type":"Point"}
+}

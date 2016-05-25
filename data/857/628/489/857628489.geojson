@@ -1,0 +1,74 @@
+{
+  "id": 857628489,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-116.603141,43.603275,-116.603141,43.603275",
+    "geom:latitude":43.603275,
+    "geom:longitude":-116.603141,
+    "iso:country":"US",
+    "sg:address":"2122 N Cassia St",
+    "sg:city":"Nampa",
+    "sg:classifiers":[
+        {
+            "category":"Bakery",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/id/nampa/100037-golden-corral/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 466 2883",
+    "sg:postcode":"83651",
+    "sg:province":"ID",
+    "sg:tags":[
+        "american",
+        "pastry"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85938009,
+        102085081,
+        85827787
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6f8vlGxTYhFnovZOvYv7zf_43.603275_-116.603141@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464204633,
+    "wof:geomhash":"78f2a5058a37fac64213f9f06b091d89",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085081,
+            "locality_id":85938009,
+            "neighbourhood_id":85827787,
+            "region_id":85688657,
+            "venue_id":857628489
+        }
+    ],
+    "wof:id":857628489,
+    "wof:lastmodified":1464204633,
+    "wof:name":"Golden Corral",
+    "wof:parent_id":85827787,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "pastry"
+    ]
+},
+  "bbox": [
+    -116.603141,
+    43.603275,
+    -116.603141,
+    43.603275
+],
+  "geometry": {"coordinates":[-116.60314099999999,43.603275],"type":"Point"}
+}

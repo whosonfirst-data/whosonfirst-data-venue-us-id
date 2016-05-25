@@ -1,0 +1,75 @@
+{
+  "id": 857600123,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-117.008713,47.69662,-117.008713,47.69662",
+    "geom:latitude":47.69662,
+    "geom:longitude":-117.008713,
+    "iso:country":"US",
+    "sg:address":"721 S Lochsa St",
+    "sg:city":"Post Falls",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"College",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 777 4700",
+    "sg:postcode":"83854",
+    "sg:province":"ID",
+    "sg:tags":[
+        "academic",
+        "school"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        102191575,
+        85633793,
+        85938145,
+        102086085,
+        85833263
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5cS5czlBoGGXmRAmW7dN6G_47.696620_-117.008713@1294099250"
+    },
+    "wof:country":"US",
+    "wof:created":1464203990,
+    "wof:geomhash":"331ea00985b24d374af0998c3fc82abc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086085,
+            "locality_id":85938145,
+            "neighbourhood_id":85833263,
+            "region_id":85688657,
+            "venue_id":857600123
+        }
+    ],
+    "wof:id":857600123,
+    "wof:lastmodified":1464203990,
+    "wof:name":"University-Idaho Research Park",
+    "wof:parent_id":85833263,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "academic",
+        "school"
+    ]
+},
+  "bbox": [
+    -117.008713,
+    47.69662,
+    -117.008713,
+    47.69662
+],
+  "geometry": {"coordinates":[-117.008713,47.69662],"type":"Point"}
+}

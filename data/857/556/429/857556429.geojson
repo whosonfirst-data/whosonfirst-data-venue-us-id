@@ -1,0 +1,73 @@
+{
+  "id": 857556429,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-117.024653,46.414636,-117.024653,46.414636",
+    "geom:latitude":46.414636,
+    "geom:longitude":-117.024653,
+    "iso:country":"US",
+    "sg:address":"625 6th Ave",
+    "sg:city":"Lewiston",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 743 8226",
+    "sg:postcode":"83501",
+    "sg:province":"ID",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85937743,
+        102086039,
+        85852537
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4x9tMWTFG3wlTLb4Yk51Rn_46.414636_-117.024653@1294099250"
+    },
+    "wof:country":"US",
+    "wof:created":1464203060,
+    "wof:geomhash":"8f695dce34550e48a7c71cec2a0ad889",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086039,
+            "locality_id":85937743,
+            "neighbourhood_id":85852537,
+            "region_id":85688657,
+            "venue_id":857556429
+        }
+    ],
+    "wof:id":857556429,
+    "wof:lastmodified":1464203060,
+    "wof:name":"Christina Bjornstad MD",
+    "wof:parent_id":85852537,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -117.024653,
+    46.414636,
+    -117.024653,
+    46.414636
+],
+  "geometry": {"coordinates":[-117.024653,46.414636],"type":"Point"}
+}

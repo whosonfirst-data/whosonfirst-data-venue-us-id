@@ -1,0 +1,73 @@
+{
+  "id": 857550643,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-116.24358,43.600355,-116.24358,43.600355",
+    "geom:latitude":43.600355,
+    "geom:longitude":-116.24358,
+    "iso:country":"US",
+    "sg:address":"325 S Orchard St",
+    "sg:city":"Boise",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 343 7450",
+    "sg:postcode":"83705",
+    "sg:province":"ID",
+    "sg:tags":[
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        102191575,
+        85633793,
+        85937923,
+        102086087,
+        85876295
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1ISFbH8usKphc6Ki9443lx_43.600355_-116.243580@1294099250"
+    },
+    "wof:country":"US",
+    "wof:created":1464202942,
+    "wof:geomhash":"c20ffb1ee0a2c08d4c2787bcb89ead94",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086087,
+            "locality_id":85937923,
+            "neighbourhood_id":85876295,
+            "region_id":85688657,
+            "venue_id":857550643
+        }
+    ],
+    "wof:id":857550643,
+    "wof:lastmodified":1464202942,
+    "wof:name":"Rose's Hair Shop",
+    "wof:parent_id":85876295,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop"
+    ]
+},
+  "bbox": [
+    -116.24358,
+    43.600355,
+    -116.24358,
+    43.600355
+],
+  "geometry": {"coordinates":[-116.24357999999999,43.600355],"type":"Point"}
+}

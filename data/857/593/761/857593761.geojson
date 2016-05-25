@@ -1,0 +1,73 @@
+{
+  "id": 857593761,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-116.010784,47.508315,-116.010784,47.508315",
+    "geom:latitude":47.508315,
+    "geom:longitude":-116.010784,
+    "iso:country":"US",
+    "sg:address":"332 W Yellowstone Ave",
+    "sg:city":"Osburn",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Refuse",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 753 6322",
+    "sg:postcode":"83849",
+    "sg:province":"ID",
+    "sg:tags":[
+        "garbage",
+        "collection"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85937825,
+        102086103,
+        85849049
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2KbRFZaEomwMLz2FVLW8Ii_47.508315_-116.010784@1294099250"
+    },
+    "wof:country":"US",
+    "wof:created":1464203844,
+    "wof:geomhash":"0bf251b67269f699650c16e314fe1a41",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086103,
+            "locality_id":85937825,
+            "neighbourhood_id":85849049,
+            "region_id":85688657,
+            "venue_id":857593761
+        }
+    ],
+    "wof:id":857593761,
+    "wof:lastmodified":1464203844,
+    "wof:name":"Waters Garbage & Refuse",
+    "wof:parent_id":85849049,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "garbage",
+        "collection"
+    ]
+},
+  "bbox": [
+    -116.010784,
+    47.508315,
+    -116.010784,
+    47.508315
+],
+  "geometry": {"coordinates":[-116.010784,47.508315],"type":"Point"}
+}

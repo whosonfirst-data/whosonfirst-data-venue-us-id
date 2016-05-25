@@ -1,0 +1,72 @@
+{
+  "id": 857628651,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-116.511545,43.605043,-116.511545,43.605043",
+    "geom:latitude":43.605043,
+    "geom:longitude":-116.511545,
+    "iso:country":"US",
+    "sg:address":"5830 E Franklin Rd",
+    "sg:city":"Nampa",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/id/nampa/104858-taco-del-mar/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 468 8833",
+    "sg:postcode":"83687",
+    "sg:province":"ID",
+    "sg:tags":[
+        "mexican"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85938009,
+        102085081,
+        85827787
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_24uboWAkJPj9WKizfvit1u_43.605043_-116.511545@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464204636,
+    "wof:geomhash":"0a270e5b499fb887423d37d420d68611",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085081,
+            "locality_id":85938009,
+            "neighbourhood_id":85827787,
+            "region_id":85688657,
+            "venue_id":857628651
+        }
+    ],
+    "wof:id":857628651,
+    "wof:lastmodified":1464204636,
+    "wof:name":"Taco Del Mar",
+    "wof:parent_id":85827787,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mexican"
+    ]
+},
+  "bbox": [
+    -116.511545,
+    43.605043,
+    -116.511545,
+    43.605043
+],
+  "geometry": {"coordinates":[-116.511545,43.605043],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 857566685,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-116.786632,47.760909,-116.786632,47.760909",
+    "geom:latitude":47.760909,
+    "geom:longitude":-116.786632,
+    "iso:country":"US",
+    "sg:address":"9883 N Government Way",
+    "sg:city":"Hayden",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 772 7037",
+    "sg:postcode":"83835",
+    "sg:province":"ID",
+    "sg:tags":[
+        "heating",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85821457,
+        102086085
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5CzDeCjoQDfxyFniAoPX0G_47.760909_-116.786632@1294099250"
+    },
+    "wof:country":"US",
+    "wof:created":1464203291,
+    "wof:geomhash":"a76a9efeaa89716f264d1fb363d9d1ab",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086085,
+            "neighbourhood_id":85821457,
+            "region_id":85688657,
+            "venue_id":857566685
+        }
+    ],
+    "wof:id":857566685,
+    "wof:lastmodified":1464203291,
+    "wof:name":"J B Heating & Sheet Metal Inc",
+    "wof:parent_id":85821457,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "heating",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -116.786632,
+    47.760909,
+    -116.786632,
+    47.760909
+],
+  "geometry": {"coordinates":[-116.786632,47.760909],"type":"Point"}
+}

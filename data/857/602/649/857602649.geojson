@@ -1,0 +1,71 @@
+{
+  "id": 857602649,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-117.001164,46.387851,-117.001164,46.387851",
+    "geom:latitude":46.387851,
+    "geom:longitude":-117.001164,
+    "iso:country":"US",
+    "sg:address":"611 Preston Ave",
+    "sg:city":"Lewiston",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Medical Lab",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 746 2663",
+    "sg:postcode":"83501",
+    "sg:province":"ID",
+    "sg:tags":[
+        "laboratory"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85937743,
+        102086039,
+        85837769
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_45HJcWlit4kiOAuosPq1zA_46.387851_-117.001164@1294099250"
+    },
+    "wof:country":"US",
+    "wof:created":1464204041,
+    "wof:geomhash":"6a3a908dd00c163c31c9b539ddbd6750",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086039,
+            "locality_id":85937743,
+            "neighbourhood_id":85837769,
+            "region_id":85688657,
+            "venue_id":857602649
+        }
+    ],
+    "wof:id":857602649,
+    "wof:lastmodified":1464204041,
+    "wof:name":"Kight Dental Lab",
+    "wof:parent_id":85837769,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "laboratory"
+    ]
+},
+  "bbox": [
+    -117.001164,
+    46.387851,
+    -117.001164,
+    46.387851
+],
+  "geometry": {"coordinates":[-117.001164,46.387851],"type":"Point"}
+}

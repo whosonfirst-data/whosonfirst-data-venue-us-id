@@ -1,0 +1,73 @@
+{
+  "id": 857552963,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-116.438314,43.583068,-116.438314,43.583068",
+    "geom:latitude":43.583068,
+    "geom:longitude":-116.438314,
+    "iso:country":"US",
+    "sg:address":"3610 W Lamont Rd",
+    "sg:city":"Meridian",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"Adult Care",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 888 4111",
+    "sg:postcode":"83642",
+    "sg:province":"ID",
+    "sg:tags":[
+        "home",
+        "residential"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85937915,
+        102086087,
+        85805083
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3p5oxc3BqRFrs0fJMBhFMC_43.583068_-116.438314@1294099250"
+    },
+    "wof:country":"US",
+    "wof:created":1464202988,
+    "wof:geomhash":"29d0a48e7aef1336a88f1d43455745a9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086087,
+            "locality_id":85937915,
+            "neighbourhood_id":85805083,
+            "region_id":85688657,
+            "venue_id":857552963
+        }
+    ],
+    "wof:id":857552963,
+    "wof:lastmodified":1464202988,
+    "wof:name":"Meyer Manor Residential Care",
+    "wof:parent_id":85805083,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "home",
+        "residential"
+    ]
+},
+  "bbox": [
+    -116.438314,
+    43.583068,
+    -116.438314,
+    43.583068
+],
+  "geometry": {"coordinates":[-116.43831400000001,43.583068],"type":"Point"}
+}

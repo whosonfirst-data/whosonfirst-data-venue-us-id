@@ -1,0 +1,78 @@
+{
+  "id": 857526449,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-116.507046,43.473801,-116.507046,43.473801",
+    "geom:latitude":43.473801,
+    "geom:longitude":-116.507046,
+    "iso:country":"US",
+    "sg:address":"5679 Bennett Rd",
+    "sg:city":"Kuna",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        },
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 465 0927",
+    "sg:postcode":"83634",
+    "sg:province":"ID",
+    "sg:tags":[
+        "welding",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85938009,
+        102085081,
+        85827787
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6TGubwaawZZWQmQyUPA2mP_43.473801_-116.507046@1294099250"
+    },
+    "wof:country":"US",
+    "wof:created":1464202476,
+    "wof:geomhash":"8e30bfb7d19319621590188e40668308",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085081,
+            "locality_id":85938009,
+            "neighbourhood_id":85827787,
+            "region_id":85688657,
+            "venue_id":857526449
+        }
+    ],
+    "wof:id":857526449,
+    "wof:lastmodified":1464202476,
+    "wof:name":"Jim's Welding",
+    "wof:parent_id":85827787,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "welding",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -116.507046,
+    43.473801,
+    -116.507046,
+    43.473801
+],
+  "geometry": {"coordinates":[-116.507046,43.473801],"type":"Point"}
+}

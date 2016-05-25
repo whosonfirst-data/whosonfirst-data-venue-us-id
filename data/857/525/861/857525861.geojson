@@ -1,0 +1,71 @@
+{
+  "id": 857525861,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-116.554455,43.597527,-116.554455,43.597527",
+    "geom:latitude":43.597527,
+    "geom:longitude":-116.554455,
+    "iso:country":"US",
+    "sg:address":"1409 3rd Ave N",
+    "sg:city":"Nampa",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 466 8276",
+    "sg:postcode":"83687",
+    "sg:province":"ID",
+    "sg:tags":[
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85938009,
+        102085081,
+        85827787
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_14iBEEonIaisC8y7j9W9az_43.597527_-116.554455@1294099250"
+    },
+    "wof:country":"US",
+    "wof:created":1464202466,
+    "wof:geomhash":"f6b9125fb55a65e8d3a9275cf7deae68",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085081,
+            "locality_id":85938009,
+            "neighbourhood_id":85827787,
+            "region_id":85688657,
+            "venue_id":857525861
+        }
+    ],
+    "wof:id":857525861,
+    "wof:lastmodified":1464202466,
+    "wof:name":"CCX Inc",
+    "wof:parent_id":85827787,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "trucking"
+    ]
+},
+  "bbox": [
+    -116.554455,
+    43.597527,
+    -116.554455,
+    43.597527
+],
+  "geometry": {"coordinates":[-116.554455,43.597527],"type":"Point"}
+}

@@ -1,0 +1,78 @@
+{
+  "id": 857630411,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-116.895264,47.713391,-116.895264,47.713391",
+    "geom:latitude":47.713391,
+    "geom:longitude":-116.895264,
+    "iso:country":"US",
+    "sg:address":"3939 E Central Ave",
+    "sg:city":"Post Falls",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/id/post-falls-rathdrum/180934-wendys/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 777 8369",
+    "sg:postcode":"83854",
+    "sg:province":"ID",
+    "sg:tags":[
+        "burger",
+        "american",
+        "soup"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        102191575,
+        85633793,
+        85938145,
+        102086085,
+        85833263
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_18eU12zhlApPCYfLanwjIE_47.713391_-116.895264@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464204674,
+    "wof:geomhash":"cd110a6845d8c96ff603a0345777eeb1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086085,
+            "locality_id":85938145,
+            "neighbourhood_id":85833263,
+            "region_id":85688657,
+            "venue_id":857630411
+        }
+    ],
+    "wof:id":857630411,
+    "wof:lastmodified":1464204674,
+    "wof:name":"Wendy's",
+    "wof:parent_id":85833263,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american",
+        "soup"
+    ]
+},
+  "bbox": [
+    -116.895264,
+    47.713391,
+    -116.895264,
+    47.713391
+],
+  "geometry": {"coordinates":[-116.895264,47.713391],"type":"Point"}
+}

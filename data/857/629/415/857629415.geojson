@@ -1,0 +1,76 @@
+{
+  "id": 857629415,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-116.233845,43.589756,-116.233845,43.589756",
+    "geom:latitude":43.589756,
+    "geom:longitude":-116.233845,
+    "iso:country":"US",
+    "sg:address":"E Cleveland Blvd",
+    "sg:city":"Boise",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/id/boise-city/241825-idaho-pizza-company/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 454 3000",
+    "sg:postcode":"83705",
+    "sg:province":"ID",
+    "sg:tags":[
+        "american",
+        "pizza"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        102191575,
+        85633793,
+        85937923,
+        102086087,
+        85825393
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5vTKBql7VLSpVdQSMuvrO2_43.589756_-116.233845@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464204650,
+    "wof:geomhash":"fff061664290f466ebc9fe8352a3a267",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086087,
+            "locality_id":85937923,
+            "neighbourhood_id":85825393,
+            "region_id":85688657,
+            "venue_id":857629415
+        }
+    ],
+    "wof:id":857629415,
+    "wof:lastmodified":1464204650,
+    "wof:name":"Idaho Pizza Company",
+    "wof:parent_id":85825393,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "pizza"
+    ]
+},
+  "bbox": [
+    -116.233845,
+    43.589756,
+    -116.233845,
+    43.589756
+],
+  "geometry": {"coordinates":[-116.233845,43.589756],"type":"Point"}
+}

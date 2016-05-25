@@ -1,0 +1,74 @@
+{
+  "id": 857630069,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-116.783423,47.700486,-116.783423,47.700486",
+    "geom:latitude":47.700486,
+    "geom:longitude":-116.783423,
+    "iso:country":"US",
+    "sg:address":"202 E Appleway Ave",
+    "sg:city":"Coeur D Alene",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/id/coeur-dalene/180918-wendys/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 676 8699",
+    "sg:postcode":"83814",
+    "sg:province":"ID",
+    "sg:tags":[
+        "burger",
+        "american",
+        "soup"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85821457,
+        102086085
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4tqT9E2O27hiwaryiIXeW0_47.700486_-116.783423@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464204661,
+    "wof:geomhash":"0b816fa2db40c638559eda8b17915d45",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086085,
+            "neighbourhood_id":85821457,
+            "region_id":85688657,
+            "venue_id":857630069
+        }
+    ],
+    "wof:id":857630069,
+    "wof:lastmodified":1464204661,
+    "wof:name":"Wendy's",
+    "wof:parent_id":85821457,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american",
+        "soup"
+    ]
+},
+  "bbox": [
+    -116.783423,
+    47.700486,
+    -116.783423,
+    47.700486
+],
+  "geometry": {"coordinates":[-116.783423,47.700486],"type":"Point"}
+}

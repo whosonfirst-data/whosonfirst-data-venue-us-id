@@ -1,0 +1,75 @@
+{
+  "id": 857550471,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-116.249295,43.580145,-116.249295,43.580145",
+    "geom:latitude":43.580145,
+    "geom:longitude":-116.249295,
+    "iso:country":"US",
+    "sg:address":"2541 Almador Way",
+    "sg:city":"Boise",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 376 5043",
+    "sg:postcode":"83705",
+    "sg:province":"ID",
+    "sg:tags":[
+        "tile",
+        "dealer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        102191575,
+        85633793,
+        85937923,
+        102086087,
+        85825393
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2wCavzQVmCZwQIcvkdH4XM_43.580145_-116.249295@1294099250"
+    },
+    "wof:country":"US",
+    "wof:created":1464202939,
+    "wof:geomhash":"cb06e9ebf4aa948ed8226f2047a237c9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086087,
+            "locality_id":85937923,
+            "neighbourhood_id":85825393,
+            "region_id":85688657,
+            "venue_id":857550471
+        }
+    ],
+    "wof:id":857550471,
+    "wof:lastmodified":1464202939,
+    "wof:name":"Tile & All",
+    "wof:parent_id":85825393,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "tile",
+        "dealer"
+    ]
+},
+  "bbox": [
+    -116.249295,
+    43.580145,
+    -116.249295,
+    43.580145
+],
+  "geometry": {"coordinates":[-116.249295,43.580145],"type":"Point"}
+}

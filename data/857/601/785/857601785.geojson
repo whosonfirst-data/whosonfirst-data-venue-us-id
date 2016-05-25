@@ -1,0 +1,71 @@
+{
+  "id": 857601785,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-115.925086,47.471531,-115.925086,47.471531",
+    "geom:latitude":47.471531,
+    "geom:longitude":-115.925086,
+    "iso:country":"US",
+    "sg:address":"524 Bank St",
+    "sg:city":"Wallace",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 752 1781",
+    "sg:postcode":"83873",
+    "sg:province":"ID",
+    "sg:tags":[
+        "consultant"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85937825,
+        102086103,
+        85849049
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6Ah99AgJQV0GLu67Ud1beu_47.471531_-115.925086@1294099250"
+    },
+    "wof:country":"US",
+    "wof:created":1464204023,
+    "wof:geomhash":"fd2500c71a399b73d7517856537aaaea",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086103,
+            "locality_id":85937825,
+            "neighbourhood_id":85849049,
+            "region_id":85688657,
+            "venue_id":857601785
+        }
+    ],
+    "wof:id":857601785,
+    "wof:lastmodified":1464204023,
+    "wof:name":"J M Harkness Freight",
+    "wof:parent_id":85849049,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "consultant"
+    ]
+},
+  "bbox": [
+    -115.925086,
+    47.471531,
+    -115.925086,
+    47.471531
+],
+  "geometry": {"coordinates":[-115.92508599999999,47.471531],"type":"Point"}
+}

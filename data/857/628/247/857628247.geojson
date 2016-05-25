@@ -1,0 +1,71 @@
+{
+  "id": 857628247,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-116.392856,43.598322,-116.392856,43.598322",
+    "geom:latitude":43.598322,
+    "geom:longitude":-116.392856,
+    "iso:country":"US",
+    "sg:address":"645 S Main St",
+    "sg:city":"Meridian",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/id/boise-city/196143-taco-bell/menu/",
+    "sg:owner":"simplegeo",
+    "sg:postcode":"83642",
+    "sg:province":"ID",
+    "sg:tags":[
+        "mexican"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85937915,
+        102086087,
+        85805083
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_66esbyh8rJc3hUeYeT61tu_43.598322_-116.392856@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464204628,
+    "wof:geomhash":"76ffc1611f6c207ef1e1011b5fe08636",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086087,
+            "locality_id":85937915,
+            "neighbourhood_id":85805083,
+            "region_id":85688657,
+            "venue_id":857628247
+        }
+    ],
+    "wof:id":857628247,
+    "wof:lastmodified":1464204628,
+    "wof:name":"Taco Bell",
+    "wof:parent_id":85805083,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mexican"
+    ]
+},
+  "bbox": [
+    -116.392856,
+    43.598322,
+    -116.392856,
+    43.598322
+],
+  "geometry": {"coordinates":[-116.39285599999999,43.598322],"type":"Point"}
+}

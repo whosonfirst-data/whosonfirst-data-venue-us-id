@@ -1,0 +1,83 @@
+{
+  "id": 857572597,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-116.786514,47.711845,-116.786514,47.711845",
+    "geom:latitude":47.711845,
+    "geom:longitude":-116.786514,
+    "iso:country":"US",
+    "sg:address":"3800 N Government Way",
+    "sg:city":"Coeur D Alene",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Carpets & Floor Coverings",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 765 6014",
+    "sg:postcode":"83815",
+    "sg:province":"ID",
+    "sg:tags":[
+        "dealer",
+        "rug"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85821457,
+        102086085,
+        102191575,
+        85938163,
+        85806325
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_28eaQa58SEfYaLLVCXoOt1_47.711845_-116.786514@1294099250"
+    },
+    "wof:country":"US",
+    "wof:created":1464203401,
+    "wof:geomhash":"8f823efc86f8c56bc64923a5a5cc414c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086085,
+            "neighbourhood_id":85821457,
+            "region_id":85688657,
+            "venue_id":857572597
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086085,
+            "locality_id":85938163,
+            "neighbourhood_id":85806325,
+            "region_id":85688657,
+            "venue_id":857572597
+        }
+    ],
+    "wof:id":857572597,
+    "wof:lastmodified":1464203401,
+    "wof:name":"Flooring Sales Group",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dealer",
+        "rug"
+    ]
+},
+  "bbox": [
+    -116.786514,
+    47.711845,
+    -116.786514,
+    47.711845
+],
+  "geometry": {"coordinates":[-116.786514,47.711845],"type":"Point"}
+}

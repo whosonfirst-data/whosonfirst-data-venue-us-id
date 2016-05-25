@@ -1,0 +1,71 @@
+{
+  "id": 857615705,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-116.791676,47.689815,-116.791676,47.689815",
+    "geom:latitude":47.689815,
+    "geom:longitude":-116.791676,
+    "iso:country":"US",
+    "sg:address":"210 W Lacrosse Ave",
+    "sg:city":"Coeur D Alene",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Nursing And Care Facility",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 664 2185",
+    "sg:postcode":"83814",
+    "sg:province":"ID",
+    "sg:tags":[
+        "home",
+        "convalescent"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85821457,
+        102086085
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_19odVtp7LYLUYZn7DzbYk5_47.689815_-116.791676@1294099250"
+    },
+    "wof:country":"US",
+    "wof:created":1464204334,
+    "wof:geomhash":"39502557225d804deaa3d319c821625a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086085,
+            "neighbourhood_id":85821457,
+            "region_id":85688657,
+            "venue_id":857615705
+        }
+    ],
+    "wof:id":857615705,
+    "wof:lastmodified":1464204334,
+    "wof:name":"Lacrosse Health & Rehab Ctr",
+    "wof:parent_id":85821457,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "home",
+        "convalescent"
+    ]
+},
+  "bbox": [
+    -116.791676,
+    47.689815,
+    -116.791676,
+    47.689815
+],
+  "geometry": {"coordinates":[-116.791676,47.689815],"type":"Point"}
+}

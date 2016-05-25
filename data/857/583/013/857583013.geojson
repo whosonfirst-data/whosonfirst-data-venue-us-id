@@ -1,0 +1,75 @@
+{
+  "id": 857583013,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-116.54202,43.573068,-116.54202,43.573068",
+    "geom:latitude":43.573068,
+    "geom:longitude":-116.54202,
+    "iso:country":"US",
+    "sg:address":"62 S Peppermint Dr",
+    "sg:city":"Nampa",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Animal Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 463 9000",
+    "sg:postcode":"83687",
+    "sg:province":"ID",
+    "sg:tags":[
+        "pet",
+        "grooming",
+        "washing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85938009,
+        102085081,
+        85827787
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4TDim4ydtBLxS7XayRbxBf_43.573068_-116.542020@1294099250"
+    },
+    "wof:country":"US",
+    "wof:created":1464203608,
+    "wof:geomhash":"b3f1a0f851be65c68a9b4ecec835465a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085081,
+            "locality_id":85938009,
+            "neighbourhood_id":85827787,
+            "region_id":85688657,
+            "venue_id":857583013
+        }
+    ],
+    "wof:id":857583013,
+    "wof:lastmodified":1464203608,
+    "wof:name":"Four Paws Grooming",
+    "wof:parent_id":85827787,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pet",
+        "grooming",
+        "washing"
+    ]
+},
+  "bbox": [
+    -116.54202,
+    43.573068,
+    -116.54202,
+    43.573068
+],
+  "geometry": {"coordinates":[-116.54201999999999,43.573068],"type":"Point"}
+}

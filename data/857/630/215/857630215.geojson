@@ -1,0 +1,84 @@
+{
+  "id": 857630215,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-116.784231,47.707214,-116.784231,47.707214",
+    "geom:latitude":47.707214,
+    "geom:longitude":-116.784231,
+    "iso:country":"US",
+    "sg:address":"212 E Neider Ave",
+    "sg:city":"Coeur D Alene",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/id/coeur-dalene/128303-red-lobster/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 667 3369",
+    "sg:postcode":"83815",
+    "sg:province":"ID",
+    "sg:tags":[
+        "seafood",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85821457,
+        102086085,
+        102191575,
+        85938163,
+        85806325
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4f0Kix9194d8lB5438B4cR_47.707214_-116.784231@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464204670,
+    "wof:geomhash":"7b65158696f0d88a6cc6b15f1a97d0ae",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086085,
+            "neighbourhood_id":85821457,
+            "region_id":85688657,
+            "venue_id":857630215
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086085,
+            "locality_id":85938163,
+            "neighbourhood_id":85806325,
+            "region_id":85688657,
+            "venue_id":857630215
+        }
+    ],
+    "wof:id":857630215,
+    "wof:lastmodified":1464204670,
+    "wof:name":"Red Lobster",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "seafood",
+        "american"
+    ]
+},
+  "bbox": [
+    -116.784231,
+    47.707214,
+    -116.784231,
+    47.707214
+],
+  "geometry": {"coordinates":[-116.78423100000001,47.707214],"type":"Point"}
+}

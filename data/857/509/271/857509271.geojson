@@ -1,0 +1,73 @@
+{
+  "id": 857509271,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-116.562538,43.473945,-116.562538,43.473945",
+    "geom:latitude":43.473945,
+    "geom:longitude":-116.562538,
+    "iso:country":"US",
+    "sg:address":"8422 Bennett Rd",
+    "sg:city":"Nampa",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Tools & Machinery",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 466 4263",
+    "sg:postcode":"83686",
+    "sg:province":"ID",
+    "sg:tags":[
+        "equipment",
+        "veterinarian"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85938009,
+        102085081,
+        85827787
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0y0oGRE9LGpJEK3wEtTvlJ_43.473945_-116.562538@1294099250"
+    },
+    "wof:country":"US",
+    "wof:created":1464202129,
+    "wof:geomhash":"9db833a0681716526650f09cfe98d3c5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085081,
+            "locality_id":85938009,
+            "neighbourhood_id":85827787,
+            "region_id":85688657,
+            "venue_id":857509271
+        }
+    ],
+    "wof:id":857509271,
+    "wof:lastmodified":1464202129,
+    "wof:name":"Beef & Dairy Cattle Vet Svc",
+    "wof:parent_id":85827787,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "equipment",
+        "veterinarian"
+    ]
+},
+  "bbox": [
+    -116.562538,
+    43.473945,
+    -116.562538,
+    43.473945
+],
+  "geometry": {"coordinates":[-116.562538,43.473945],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 857575543,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-116.591199,43.535432,-116.591199,43.535432",
+    "geom:latitude":43.535432,
+    "geom:longitude":-116.591199,
+    "iso:country":"US",
+    "sg:address":"3520 Vista Dr",
+    "sg:city":"Nampa",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 461 4777",
+    "sg:postcode":"83686",
+    "sg:province":"ID",
+    "sg:tags":[
+        "house"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85938009,
+        102085081,
+        85827787
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0iVstcBMYjEam80BApCsD9_43.535432_-116.591199@1294099250"
+    },
+    "wof:country":"US",
+    "wof:created":1464203462,
+    "wof:geomhash":"16da5b5a3c26647249b16629918b6ae0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085081,
+            "locality_id":85938009,
+            "neighbourhood_id":85827787,
+            "region_id":85688657,
+            "venue_id":857575543
+        }
+    ],
+    "wof:id":857575543,
+    "wof:lastmodified":1464203462,
+    "wof:name":"G7 Construction",
+    "wof:parent_id":85827787,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "house"
+    ]
+},
+  "bbox": [
+    -116.591199,
+    43.535432,
+    -116.591199,
+    43.535432
+],
+  "geometry": {"coordinates":[-116.591199,43.535432],"type":"Point"}
+}

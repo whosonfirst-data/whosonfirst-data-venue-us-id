@@ -1,0 +1,71 @@
+{
+  "id": 857561495,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-116.881438,47.699587,-116.881438,47.699587",
+    "geom:latitude":47.699587,
+    "geom:longitude":-116.881438,
+    "iso:country":"US",
+    "sg:address":"701 S Shoreline Ct",
+    "sg:city":"Post Falls",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Architect",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 773 8685",
+    "sg:postcode":"83854",
+    "sg:province":"ID",
+    "sg:tags":[
+        "building",
+        "designer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85821457,
+        102086085
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7RclWZvGfIb0RoTmfw449e_47.699587_-116.881438@1294099250"
+    },
+    "wof:country":"US",
+    "wof:created":1464203191,
+    "wof:geomhash":"751f1214885f47132278d34cc619396d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086085,
+            "neighbourhood_id":85821457,
+            "region_id":85688657,
+            "venue_id":857561495
+        }
+    ],
+    "wof:id":857561495,
+    "wof:lastmodified":1464203191,
+    "wof:name":"Lucas Design Group",
+    "wof:parent_id":85821457,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "building",
+        "designer"
+    ]
+},
+  "bbox": [
+    -116.881438,
+    47.699587,
+    -116.881438,
+    47.699587
+],
+  "geometry": {"coordinates":[-116.881438,47.699587],"type":"Point"}
+}

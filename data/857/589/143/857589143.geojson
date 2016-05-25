@@ -1,0 +1,72 @@
+{
+  "id": 857589143,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-116.16973,43.617346,-116.16973,43.617346",
+    "geom:latitude":43.617346,
+    "geom:longitude":-116.16973,
+    "iso:country":"US",
+    "sg:address":"1680 Shaw Mountain Rd",
+    "sg:city":"Boise",
+    "sg:classifiers":[
+        {
+            "category":"Travel",
+            "subcategory":"Travel Agent",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 385 9510",
+    "sg:postcode":"83712",
+    "sg:province":"ID",
+    "sg:tags":[
+        "destination",
+        "management"
+    ],
+    "sg:website":"www.themeetingnetworkinc.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85876291,
+        102086087
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_10C1PEBIUd87KKwxMnq9Ha_43.617346_-116.169730@1294099250"
+    },
+    "wof:country":"US",
+    "wof:created":1464203743,
+    "wof:geomhash":"b5bd3d54424860677a55a1834b13163e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086087,
+            "neighbourhood_id":85876291,
+            "region_id":85688657,
+            "venue_id":857589143
+        }
+    ],
+    "wof:id":857589143,
+    "wof:lastmodified":1464203743,
+    "wof:name":"Meeting Network",
+    "wof:parent_id":85876291,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "destination",
+        "management"
+    ]
+},
+  "bbox": [
+    -116.16973,
+    43.617346,
+    -116.16973,
+    43.617346
+],
+  "geometry": {"coordinates":[-116.16973,43.617346],"type":"Point"}
+}

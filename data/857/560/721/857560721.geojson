@@ -1,0 +1,82 @@
+{
+  "id": 857560721,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-116.990267,46.384166,-116.990267,46.384166",
+    "geom:latitude":46.384166,
+    "geom:longitude":-116.990267,
+    "iso:country":"US",
+    "sg:address":"813 Warner Ave",
+    "sg:city":"Lewiston",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Gifts & Souvenirs",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 746 4443",
+    "sg:postcode":"83501",
+    "sg:province":"ID",
+    "sg:tags":[
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85937743,
+        102086039,
+        85837769,
+        102191575,
+        85830385
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0Nj2Wv7loxk2DB6p1WL9km_46.384166_-116.990267@1294099250"
+    },
+    "wof:country":"US",
+    "wof:created":1464203175,
+    "wof:geomhash":"1ac65ff1733fab2fe832caa9800358fc",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086039,
+            "locality_id":85937743,
+            "neighbourhood_id":85837769,
+            "region_id":85688657,
+            "venue_id":857560721
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086039,
+            "locality_id":85937743,
+            "neighbourhood_id":85830385,
+            "region_id":85688657,
+            "venue_id":857560721
+        }
+    ],
+    "wof:id":857560721,
+    "wof:lastmodified":1464203175,
+    "wof:name":"Daydreams",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop"
+    ]
+},
+  "bbox": [
+    -116.990267,
+    46.384166,
+    -116.990267,
+    46.384166
+],
+  "geometry": {"coordinates":[-116.990267,46.384166],"type":"Point"}
+}

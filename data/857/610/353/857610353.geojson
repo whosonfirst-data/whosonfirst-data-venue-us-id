@@ -1,0 +1,68 @@
+{
+  "id": 857610353,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-116.93335,44.074895,-116.93335,44.074895",
+    "geom:latitude":44.074895,
+    "geom:longitude":-116.93335,
+    "iso:country":"US",
+    "sg:address":"915 Center Ave",
+    "sg:city":"Payette",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Post Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 642 3211",
+    "sg:postcode":"83661",
+    "sg:province":"ID",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        102191575,
+        85633793,
+        85937905,
+        102086023,
+        85840959
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1ALAsxOYM7MF1A3myOVhAY_44.074895_-116.933350@1294099250"
+    },
+    "wof:country":"US",
+    "wof:created":1464204216,
+    "wof:geomhash":"fa6caeb254c530f2a4aac3fd0bd2e598",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086023,
+            "locality_id":85937905,
+            "neighbourhood_id":85840959,
+            "region_id":85688657,
+            "venue_id":857610353
+        }
+    ],
+    "wof:id":857610353,
+    "wof:lastmodified":1464204216,
+    "wof:name":"US Post Office",
+    "wof:parent_id":85840959,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -116.93335,
+    44.074895,
+    -116.93335,
+    44.074895
+],
+  "geometry": {"coordinates":[-116.93335,44.074895],"type":"Point"}
+}

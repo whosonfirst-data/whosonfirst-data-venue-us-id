@@ -1,0 +1,88 @@
+{
+  "id": 857623739,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-116.989769,46.390273,-116.989769,46.390273",
+    "geom:latitude":46.390273,
+    "geom:longitude":-116.989769,
+    "iso:country":"US",
+    "sg:address":"122 Thain Rd",
+    "sg:city":"Lewiston",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Specialty",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 746 3009",
+    "sg:postcode":"83501",
+    "sg:province":"ID",
+    "sg:tags":[
+        "shop",
+        "bar",
+        "coffee",
+        "espresso"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85937743,
+        102086039,
+        85837769,
+        102191575,
+        85830385
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_259DjZ2WPcIq99HUDentRl_46.389893_-116.989409@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1464204527,
+    "wof:geomhash":"74775f516a2780d90f4af66aa6c58fd3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086039,
+            "locality_id":85937743,
+            "neighbourhood_id":85837769,
+            "region_id":85688657,
+            "venue_id":857623739
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086039,
+            "locality_id":85937743,
+            "neighbourhood_id":85830385,
+            "region_id":85688657,
+            "venue_id":857623739
+        }
+    ],
+    "wof:id":857623739,
+    "wof:lastmodified":1464204527,
+    "wof:name":"Java Stop",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop",
+        "bar",
+        "coffee",
+        "espresso"
+    ]
+},
+  "bbox": [
+    -116.989769,
+    46.390273,
+    -116.989769,
+    46.390273
+],
+  "geometry": {"coordinates":[-116.989769,46.390273],"type":"Point"}
+}

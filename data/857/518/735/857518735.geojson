@@ -1,0 +1,71 @@
+{
+  "id": 857518735,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-116.75766,47.706932,-116.75766,47.706932",
+    "geom:latitude":47.706932,
+    "geom:longitude":-116.75766,
+    "iso:country":"US",
+    "sg:address":"3210 W Pinehill Dr",
+    "sg:city":"Coeur D Alene",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Durable Goods & Equipment",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 667 3086",
+    "sg:postcode":"83815",
+    "sg:province":"ID",
+    "sg:tags":[
+        "fire",
+        "extinguisher"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85821457,
+        102086085
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5q72BNUnj6K7RQl7ps7JZw_47.706932_-116.757660@1294099250"
+    },
+    "wof:country":"US",
+    "wof:created":1464202324,
+    "wof:geomhash":"89d57f9a9a60a78070a4d97fb5decda4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086085,
+            "neighbourhood_id":85821457,
+            "region_id":85688657,
+            "venue_id":857518735
+        }
+    ],
+    "wof:id":857518735,
+    "wof:lastmodified":1464202324,
+    "wof:name":"Valley Fire & Safety Svc",
+    "wof:parent_id":85821457,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "fire",
+        "extinguisher"
+    ]
+},
+  "bbox": [
+    -116.75766,
+    47.706932,
+    -116.75766,
+    47.706932
+],
+  "geometry": {"coordinates":[-116.75766,47.706932],"type":"Point"}
+}

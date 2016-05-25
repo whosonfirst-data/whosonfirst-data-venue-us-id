@@ -1,0 +1,71 @@
+{
+  "id": 857518799,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-116.839542,47.724713,-116.839542,47.724713",
+    "geom:latitude":47.724713,
+    "geom:longitude":-116.839542,
+    "iso:country":"US",
+    "sg:address":"4901 Industrial Ave W",
+    "sg:city":"Coeur D Alene",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 664 4671",
+    "sg:postcode":"83815",
+    "sg:province":"ID",
+    "sg:tags":[
+        "commercial",
+        "storage"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85821457,
+        102086085
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7BJEZVUegLlQd8VldE2yih_47.724713_-116.839542@1294099250"
+    },
+    "wof:country":"US",
+    "wof:created":1464202327,
+    "wof:geomhash":"6420c730aaeda20ece4dd8544f329c7d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086085,
+            "neighbourhood_id":85821457,
+            "region_id":85688657,
+            "venue_id":857518799
+        }
+    ],
+    "wof:id":857518799,
+    "wof:lastmodified":1464202327,
+    "wof:name":"Industrial Park Mini Storage",
+    "wof:parent_id":85821457,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "commercial",
+        "storage"
+    ]
+},
+  "bbox": [
+    -116.839542,
+    47.724713,
+    -116.839542,
+    47.724713
+],
+  "geometry": {"coordinates":[-116.83954199999999,47.724713],"type":"Point"}
+}

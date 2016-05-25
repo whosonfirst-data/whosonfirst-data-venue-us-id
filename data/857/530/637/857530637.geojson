@@ -1,0 +1,69 @@
+{
+  "id": 857530637,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-116.7888,47.677586,-116.7888,47.677586",
+    "geom:latitude":47.677586,
+    "geom:longitude":-116.7888,
+    "iso:country":"US",
+    "sg:address":"324 W Garden Ave",
+    "sg:city":"Coeur D Alene",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Police Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 769 4481",
+    "sg:postcode":"83814",
+    "sg:province":"ID",
+    "sg:tags":[
+        "sheriff"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85821457,
+        102086085
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2jLGQ8ThstDOH6MNsZDqHM_47.677586_-116.788800@1294099250"
+    },
+    "wof:country":"US",
+    "wof:created":1464202556,
+    "wof:geomhash":"8846bce6a5a8a51c17b3fb678dc46713",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086085,
+            "neighbourhood_id":85821457,
+            "region_id":85688657,
+            "venue_id":857530637
+        }
+    ],
+    "wof:id":857530637,
+    "wof:lastmodified":1464202556,
+    "wof:name":"Criminal Court-Collections",
+    "wof:parent_id":85821457,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "sheriff"
+    ]
+},
+  "bbox": [
+    -116.7888,
+    47.677586,
+    -116.7888,
+    47.677586
+],
+  "geometry": {"coordinates":[-116.78879999999999,47.677586],"type":"Point"}
+}

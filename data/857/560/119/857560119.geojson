@@ -1,0 +1,71 @@
+{
+  "id": 857560119,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-116.882397,47.713801,-116.882397,47.713801",
+    "geom:latitude":47.713801,
+    "geom:longitude":-116.882397,
+    "iso:country":"US",
+    "sg:address":"5220 E Inverness Dr",
+    "sg:city":"Post Falls",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 773 4443",
+    "sg:postcode":"83854",
+    "sg:province":"ID",
+    "sg:tags":[
+        "general",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85821457,
+        102086085
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3ZJoAfEvvcVboPfrwO4ehu_47.713801_-116.882397@1294099250"
+    },
+    "wof:country":"US",
+    "wof:created":1464203153,
+    "wof:geomhash":"caa629062bdd08c0789ab47f6617f56b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086085,
+            "neighbourhood_id":85821457,
+            "region_id":85688657,
+            "venue_id":857560119
+        }
+    ],
+    "wof:id":857560119,
+    "wof:lastmodified":1464203153,
+    "wof:name":"Morgan Cole Inc",
+    "wof:parent_id":85821457,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "general",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -116.882397,
+    47.713801,
+    -116.882397,
+    47.713801
+],
+  "geometry": {"coordinates":[-116.882397,47.713801],"type":"Point"}
+}

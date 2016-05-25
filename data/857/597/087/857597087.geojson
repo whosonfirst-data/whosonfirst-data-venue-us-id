@@ -1,0 +1,71 @@
+{
+  "id": 857597087,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-116.572962,43.553372,-116.572962,43.553372",
+    "geom:latitude":43.553372,
+    "geom:longitude":-116.572962,
+    "iso:country":"US",
+    "sg:address":"1613 12th Ave Rd",
+    "sg:city":"Nampa",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 467 3399",
+    "sg:postcode":"83686",
+    "sg:province":"ID",
+    "sg:tags":[
+        "dentist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85938009,
+        102085081,
+        85827787
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4DSQbolRBqjxcsTcMZzwXH_43.553372_-116.572962@1294099250"
+    },
+    "wof:country":"US",
+    "wof:created":1464203925,
+    "wof:geomhash":"88b3f0c7c4fe4ba2fcd363a588ff040b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085081,
+            "locality_id":85938009,
+            "neighbourhood_id":85827787,
+            "region_id":85688657,
+            "venue_id":857597087
+        }
+    ],
+    "wof:id":857597087,
+    "wof:lastmodified":1464203925,
+    "wof:name":"Nampa Plaza Dental Assoc",
+    "wof:parent_id":85827787,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dentist"
+    ]
+},
+  "bbox": [
+    -116.572962,
+    43.553372,
+    -116.572962,
+    43.553372
+],
+  "geometry": {"coordinates":[-116.572962,43.553372],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 857583159,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-116.564352,43.612308,-116.564352,43.612308",
+    "geom:latitude":43.612308,
+    "geom:longitude":-116.564352,
+    "iso:country":"US",
+    "sg:address":"8572 Birch Ln",
+    "sg:city":"Nampa",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 467 7789",
+    "sg:postcode":"83687",
+    "sg:province":"ID",
+    "sg:tags":[
+        "product",
+        "asphalt"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85938009,
+        102085081,
+        85827787
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_23kLjvpf7xEFvyZPp0yNol_43.612308_-116.564352@1294099250"
+    },
+    "wof:country":"US",
+    "wof:created":1464203610,
+    "wof:geomhash":"bd04d494b43ea2a67fa4279d8d85bf74",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085081,
+            "locality_id":85938009,
+            "neighbourhood_id":85827787,
+            "region_id":85688657,
+            "venue_id":857583159
+        }
+    ],
+    "wof:id":857583159,
+    "wof:lastmodified":1464203610,
+    "wof:name":"Bob Hazel Asphalt Maintenance",
+    "wof:parent_id":85827787,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "product",
+        "asphalt"
+    ]
+},
+  "bbox": [
+    -116.564352,
+    43.612308,
+    -116.564352,
+    43.612308
+],
+  "geometry": {"coordinates":[-116.564352,43.612308],"type":"Point"}
+}

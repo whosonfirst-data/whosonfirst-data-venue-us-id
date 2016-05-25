@@ -1,0 +1,85 @@
+{
+  "id": 857577021,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-116.824281,47.700881,-116.824281,47.700881",
+    "geom:latitude":47.700881,
+    "geom:longitude":-116.824281,
+    "iso:country":"US",
+    "sg:address":"2845 W Seltice Way",
+    "sg:city":"Coeur D Alene",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"Vocational School",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 773 4388",
+    "sg:postcode":"83814",
+    "sg:province":"ID",
+    "sg:tags":[
+        "instruction",
+        "truck",
+        "driving"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85821457,
+        102086085,
+        102191575,
+        85938163,
+        85806325
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2ffBL4a7JuBCGnznMMSYCc_47.700881_-116.824281@1294099250"
+    },
+    "wof:country":"US",
+    "wof:created":1464203493,
+    "wof:geomhash":"c30b1a66b850add438afdd71ece6fd8b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086085,
+            "neighbourhood_id":85821457,
+            "region_id":85688657,
+            "venue_id":857577021
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086085,
+            "locality_id":85938163,
+            "neighbourhood_id":85806325,
+            "region_id":85688657,
+            "venue_id":857577021
+        }
+    ],
+    "wof:id":857577021,
+    "wof:lastmodified":1464203493,
+    "wof:name":"Sage Truck Driving School",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "instruction",
+        "truck",
+        "driving"
+    ]
+},
+  "bbox": [
+    -116.824281,
+    47.700881,
+    -116.824281,
+    47.700881
+],
+  "geometry": {"coordinates":[-116.824281,47.700881],"type":"Point"}
+}

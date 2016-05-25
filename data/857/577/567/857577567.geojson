@@ -1,0 +1,71 @@
+{
+  "id": 857577567,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-116.786725,47.750996,-116.786725,47.750996",
+    "geom:latitude":47.750996,
+    "geom:longitude":-116.786725,
+    "iso:country":"US",
+    "sg:address":"8685 N Government Way",
+    "sg:city":"Hayden Lake",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Car Wash",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 772 1625",
+    "sg:postcode":"83835",
+    "sg:province":"ID",
+    "sg:tags":[
+        "polishing",
+        "washing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85821457,
+        102086085
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0bNxOP7DFvNu3osUeMmBFR_47.750996_-116.786725@1294099250"
+    },
+    "wof:country":"US",
+    "wof:created":1464203503,
+    "wof:geomhash":"7af05ed3b78816e718f709fc372afbcd",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086085,
+            "neighbourhood_id":85821457,
+            "region_id":85688657,
+            "venue_id":857577567
+        }
+    ],
+    "wof:id":857577567,
+    "wof:lastmodified":1464203503,
+    "wof:name":"Zip Shine Car Wash",
+    "wof:parent_id":85821457,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "polishing",
+        "washing"
+    ]
+},
+  "bbox": [
+    -116.786725,
+    47.750996,
+    -116.786725,
+    47.750996
+],
+  "geometry": {"coordinates":[-116.786725,47.750996],"type":"Point"}
+}

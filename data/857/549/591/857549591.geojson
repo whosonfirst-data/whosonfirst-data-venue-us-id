@@ -1,0 +1,71 @@
+{
+  "id": 857549591,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-116.834793,47.724383,-116.834793,47.724383",
+    "geom:latitude":47.724383,
+    "geom:longitude":-116.834793,
+    "iso:country":"US",
+    "sg:address":"3850 Industrial Ave E",
+    "sg:city":"Coeur D Alene",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Tools & Machinery",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 765 3401",
+    "sg:postcode":"83815",
+    "sg:province":"ID",
+    "sg:tags":[
+        "machine",
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85821457,
+        102086085
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_62q1cPN4vojA1uqPQ4yzKD_47.724383_-116.834793@1294099250"
+    },
+    "wof:country":"US",
+    "wof:created":1464202923,
+    "wof:geomhash":"ed8f79a922d9bb6e6819c4525ca83832",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086085,
+            "neighbourhood_id":85821457,
+            "region_id":85688657,
+            "venue_id":857549591
+        }
+    ],
+    "wof:id":857549591,
+    "wof:lastmodified":1464202923,
+    "wof:name":"Northwest Machine Inc",
+    "wof:parent_id":85821457,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "machine",
+        "shop"
+    ]
+},
+  "bbox": [
+    -116.834793,
+    47.724383,
+    -116.834793,
+    47.724383
+],
+  "geometry": {"coordinates":[-116.834793,47.724383],"type":"Point"}
+}

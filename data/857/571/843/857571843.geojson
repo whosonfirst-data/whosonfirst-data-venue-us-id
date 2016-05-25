@@ -1,0 +1,69 @@
+{
+  "id": 857571843,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-116.796308,47.695752,-116.796308,47.695752",
+    "geom:latitude":47.695752,
+    "geom:longitude":-116.796308,
+    "iso:country":"US",
+    "sg:address":"1025 W Ironwood Dr",
+    "sg:city":"Coeur D Alene",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 667 2322",
+    "sg:postcode":"83814",
+    "sg:province":"ID",
+    "sg:tags":[
+        "dentist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85821457,
+        102086085
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4xSOEsE356pV9PaoqUCFHD_47.695752_-116.796308@1294099250"
+    },
+    "wof:country":"US",
+    "wof:created":1464203386,
+    "wof:geomhash":"5b3cd5cf420d9ab2fdfa6b615076baae",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086085,
+            "neighbourhood_id":85821457,
+            "region_id":85688657,
+            "venue_id":857571843
+        }
+    ],
+    "wof:id":857571843,
+    "wof:lastmodified":1464203386,
+    "wof:name":"James J Lee DDS",
+    "wof:parent_id":85821457,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dentist"
+    ]
+},
+  "bbox": [
+    -116.796308,
+    47.695752,
+    -116.796308,
+    47.695752
+],
+  "geometry": {"coordinates":[-116.796308,47.695752],"type":"Point"}
+}

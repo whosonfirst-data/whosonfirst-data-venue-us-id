@@ -1,0 +1,69 @@
+{
+  "id": 857509105,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-116.759644,47.710736,-116.759644,47.710736",
+    "geom:latitude":47.710736,
+    "geom:longitude":-116.759644,
+    "iso:country":"US",
+    "sg:address":"3929 N 19th St",
+    "sg:city":"Coeur D Alene",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 667 1468",
+    "sg:postcode":"83815",
+    "sg:province":"ID",
+    "sg:tags":[
+        "automotive"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85821457,
+        102086085
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6AtwLKLXsfUWxD3bKgLMrD_47.710736_-116.759644@1294099250"
+    },
+    "wof:country":"US",
+    "wof:created":1464202126,
+    "wof:geomhash":"74997f5f082c515013117ae51e78d6bf",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086085,
+            "neighbourhood_id":85821457,
+            "region_id":85688657,
+            "venue_id":857509105
+        }
+    ],
+    "wof:id":857509105,
+    "wof:lastmodified":1464202126,
+    "wof:name":"Kevin Blake Johnson",
+    "wof:parent_id":85821457,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automotive"
+    ]
+},
+  "bbox": [
+    -116.759644,
+    47.710736,
+    -116.759644,
+    47.710736
+],
+  "geometry": {"coordinates":[-116.75964399999999,47.710736],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 857630203,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-116.792957,47.743596,-116.792957,47.743596",
+    "geom:latitude":47.743596,
+    "geom:longitude":-116.792957,
+    "iso:country":"US",
+    "sg:address":"540 W Prairie Ave",
+    "sg:city":"Coeur D Alene",
+    "sg:classifiers":[
+        {
+            "category":"Coffee & Tea",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/id/coeur-dalene/108635-starbucks-coffee/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 762 7069",
+    "sg:postcode":"83815",
+    "sg:province":"ID",
+    "sg:tags":[
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85821457,
+        102086085
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6Mi9arrfwitVKuY3rHg7uR_47.743596_-116.792957@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464204670,
+    "wof:geomhash":"3a7fa7d114ea70d10fd26e0ea16739f0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086085,
+            "neighbourhood_id":85821457,
+            "region_id":85688657,
+            "venue_id":857630203
+        }
+    ],
+    "wof:id":857630203,
+    "wof:lastmodified":1464204670,
+    "wof:name":"Starbucks Coffee",
+    "wof:parent_id":85821457,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american"
+    ]
+},
+  "bbox": [
+    -116.792957,
+    47.743596,
+    -116.792957,
+    47.743596
+],
+  "geometry": {"coordinates":[-116.792957,47.743596],"type":"Point"}
+}

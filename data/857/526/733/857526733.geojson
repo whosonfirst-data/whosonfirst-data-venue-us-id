@@ -1,0 +1,71 @@
+{
+  "id": 857526733,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-116.78979,47.685083,-116.78979,47.685083",
+    "geom:latitude":47.685083,
+    "geom:longitude":-116.78979,
+    "iso:country":"US",
+    "sg:address":"1044 N C St",
+    "sg:city":"Coeur D Alene",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 664 8101",
+    "sg:postcode":"83814",
+    "sg:province":"ID",
+    "sg:tags":[
+        "company",
+        "title"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85821457,
+        102086085
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_01jH2nrrIXOXxvTkrWMEkv_47.685083_-116.789790@1294099250"
+    },
+    "wof:country":"US",
+    "wof:created":1464202481,
+    "wof:geomhash":"7da22551913b7b8e877a6157b4fab025",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086085,
+            "neighbourhood_id":85821457,
+            "region_id":85688657,
+            "venue_id":857526733
+        }
+    ],
+    "wof:id":857526733,
+    "wof:lastmodified":1464202481,
+    "wof:name":"Stewart Title Co",
+    "wof:parent_id":85821457,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "company",
+        "title"
+    ]
+},
+  "bbox": [
+    -116.78979,
+    47.685083,
+    -116.78979,
+    47.685083
+],
+  "geometry": {"coordinates":[-116.78979,47.685083],"type":"Point"}
+}

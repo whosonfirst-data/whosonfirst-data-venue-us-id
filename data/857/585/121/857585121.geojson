@@ -1,0 +1,71 @@
+{
+  "id": 857585121,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-116.8472,47.841362,-116.8472,47.841362",
+    "geom:latitude":47.841362,
+    "geom:longitude":-116.8472,
+    "iso:country":"US",
+    "sg:address":"5375 W Diagonal Rd",
+    "sg:city":"Rathdrum",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 687 5499",
+    "sg:postcode":"83858",
+    "sg:province":"ID",
+    "sg:tags":[
+        "acoustical",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85821457,
+        102086085
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_54377pyrD03XrTv11MYEL9_47.841362_-116.847200@1294099250"
+    },
+    "wof:country":"US",
+    "wof:created":1464203648,
+    "wof:geomhash":"039f1e7b90436ba32991e03a17a53503",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086085,
+            "neighbourhood_id":85821457,
+            "region_id":85688657,
+            "venue_id":857585121
+        }
+    ],
+    "wof:id":857585121,
+    "wof:lastmodified":1464203648,
+    "wof:name":"Northern Acoustical",
+    "wof:parent_id":85821457,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "acoustical",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -116.8472,
+    47.841362,
+    -116.8472,
+    47.841362
+],
+  "geometry": {"coordinates":[-116.8472,47.841362],"type":"Point"}
+}

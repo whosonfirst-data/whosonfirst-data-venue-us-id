@@ -1,0 +1,71 @@
+{
+  "id": 857594109,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-116.781455,47.733222,-116.781455,47.733222",
+    "geom:latitude":47.733222,
+    "geom:longitude":-116.781455,
+    "iso:country":"US",
+    "sg:address":"147 E Canfield Ave",
+    "sg:city":"Dalton Gardens",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 772 6247",
+    "sg:postcode":"83815",
+    "sg:province":"ID",
+    "sg:tags":[
+        "commercial",
+        "storage"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85821457,
+        102086085
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2yV8nbIe6W9qXZwVJ8u9dE_47.733222_-116.781455@1294099250"
+    },
+    "wof:country":"US",
+    "wof:created":1464203851,
+    "wof:geomhash":"381bf5926b1aacf57600c0455abae0e6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086085,
+            "neighbourhood_id":85821457,
+            "region_id":85688657,
+            "venue_id":857594109
+        }
+    ],
+    "wof:id":857594109,
+    "wof:lastmodified":1464203851,
+    "wof:name":"Silver Lake Storage",
+    "wof:parent_id":85821457,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "commercial",
+        "storage"
+    ]
+},
+  "bbox": [
+    -116.781455,
+    47.733222,
+    -116.781455,
+    47.733222
+],
+  "geometry": {"coordinates":[-116.78145499999999,47.733222],"type":"Point"}
+}

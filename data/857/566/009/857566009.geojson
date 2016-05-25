@@ -1,0 +1,69 @@
+{
+  "id": 857566009,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-116.777886,47.689168,-116.777886,47.689168",
+    "geom:latitude":47.689168,
+    "geom:longitude":-116.777886,
+    "iso:country":"US",
+    "sg:address":"1405 N 6th St",
+    "sg:city":"Coeur D Alene",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 765 8888",
+    "sg:postcode":"83814",
+    "sg:province":"ID",
+    "sg:tags":[
+        "telephone"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85821457,
+        102086085
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_041iVh4l3JfEMSzQlVAJ58_47.689168_-116.777886@1294099250"
+    },
+    "wof:country":"US",
+    "wof:created":1464203273,
+    "wof:geomhash":"d52d1f0778ec1a0ef75c195a1fbb66ee",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086085,
+            "neighbourhood_id":85821457,
+            "region_id":85688657,
+            "venue_id":857566009
+        }
+    ],
+    "wof:id":857566009,
+    "wof:lastmodified":1464203273,
+    "wof:name":"County Telephone & Data",
+    "wof:parent_id":85821457,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "telephone"
+    ]
+},
+  "bbox": [
+    -116.777886,
+    47.689168,
+    -116.777886,
+    47.689168
+],
+  "geometry": {"coordinates":[-116.777886,47.689168],"type":"Point"}
+}

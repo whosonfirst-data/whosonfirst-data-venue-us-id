@@ -1,0 +1,73 @@
+{
+  "id": 857593751,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-117.003991,46.423728,-117.003991,46.423728",
+    "geom:latitude":46.423728,
+    "geom:longitude":-117.003991,
+    "iso:country":"US",
+    "sg:address":"2017 3rd Ave N",
+    "sg:city":"Lewiston",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 750 0496",
+    "sg:postcode":"83501",
+    "sg:province":"ID",
+    "sg:tags":[
+        "mechanical",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85937743,
+        102086039,
+        85837769
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1xxG9IBig87WCsJL9Rbw1r_46.423728_-117.003991@1294099250"
+    },
+    "wof:country":"US",
+    "wof:created":1464203843,
+    "wof:geomhash":"4a33dc539c89c0703574defe15a988c1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086039,
+            "locality_id":85937743,
+            "neighbourhood_id":85837769,
+            "region_id":85688657,
+            "venue_id":857593751
+        }
+    ],
+    "wof:id":857593751,
+    "wof:lastmodified":1464203843,
+    "wof:name":"R & M Mechanical",
+    "wof:parent_id":85837769,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mechanical",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -117.003991,
+    46.423728,
+    -117.003991,
+    46.423728
+],
+  "geometry": {"coordinates":[-117.003991,46.423728],"type":"Point"}
+}

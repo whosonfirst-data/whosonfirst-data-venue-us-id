@@ -1,0 +1,75 @@
+{
+  "id": 857532023,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-116.125482,47.535741,-116.125482,47.535741",
+    "geom:latitude":47.535741,
+    "geom:longitude":-116.125482,
+    "iso:country":"US",
+    "sg:address":"327 McKinley Ave",
+    "sg:city":"Kellogg",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 786 9481",
+    "sg:postcode":"83837",
+    "sg:province":"ID",
+    "sg:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85937825,
+        102086103,
+        85849049
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_28aSypsMGprZmGrpu5KD1w_47.535741_-116.125482@1294099250"
+    },
+    "wof:country":"US",
+    "wof:created":1464202585,
+    "wof:geomhash":"db889952c4450973d2cdb116cd9ca2fe",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086103,
+            "locality_id":85937825,
+            "neighbourhood_id":85849049,
+            "region_id":85688657,
+            "venue_id":857532023
+        }
+    ],
+    "wof:id":857532023,
+    "wof:lastmodified":1464202585,
+    "wof:name":"Reco's Auto Body Shop",
+    "wof:parent_id":85849049,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ]
+},
+  "bbox": [
+    -116.125482,
+    47.535741,
+    -116.125482,
+    47.535741
+],
+  "geometry": {"coordinates":[-116.12548200000001,47.535741],"type":"Point"}
+}

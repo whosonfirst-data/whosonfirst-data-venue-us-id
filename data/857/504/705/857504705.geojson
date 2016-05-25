@@ -1,0 +1,71 @@
+{
+  "id": 857504705,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-116.783363,47.759103,-116.783363,47.759103",
+    "geom:latitude":47.759103,
+    "geom:longitude":-116.783363,
+    "iso:country":"US",
+    "sg:address":"207 E Hayden Ave",
+    "sg:city":"Hayden Lake",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Water",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 772 5657",
+    "sg:postcode":"83835",
+    "sg:province":"ID",
+    "sg:tags":[
+        "company",
+        "sewage"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85821457,
+        102086085
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2CvWoE4waClmkbYkxA23GG_47.759103_-116.783363@1294099250"
+    },
+    "wof:country":"US",
+    "wof:created":1464202022,
+    "wof:geomhash":"571237d8e9a8ca07f7eb55865bd0d7ea",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086085,
+            "neighbourhood_id":85821457,
+            "region_id":85688657,
+            "venue_id":857504705
+        }
+    ],
+    "wof:id":857504705,
+    "wof:lastmodified":1464202022,
+    "wof:name":"Avondale Irrigation District",
+    "wof:parent_id":85821457,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "company",
+        "sewage"
+    ]
+},
+  "bbox": [
+    -116.783363,
+    47.759103,
+    -116.783363,
+    47.759103
+],
+  "geometry": {"coordinates":[-116.78336299999999,47.759103],"type":"Point"}
+}

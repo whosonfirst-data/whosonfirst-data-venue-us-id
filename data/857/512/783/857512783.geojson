@@ -1,0 +1,71 @@
+{
+  "id": 857512783,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-116.772128,47.717268,-116.772128,47.717268",
+    "geom:latitude":47.717268,
+    "geom:longitude":-116.772128,
+    "iso:country":"US",
+    "sg:address":"4780 N Troy St",
+    "sg:city":"Coeur D Alene",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 765 2826",
+    "sg:postcode":"83815",
+    "sg:province":"ID",
+    "sg:tags":[
+        "plumbing",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85821457,
+        102086085
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2QxewetRvN0mkGNOPALYa1_47.717268_-116.772128@1294099250"
+    },
+    "wof:country":"US",
+    "wof:created":1464202202,
+    "wof:geomhash":"699c6674d091a4457cfd6d622eeb96cf",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086085,
+            "neighbourhood_id":85821457,
+            "region_id":85688657,
+            "venue_id":857512783
+        }
+    ],
+    "wof:id":857512783,
+    "wof:lastmodified":1464202202,
+    "wof:name":"Matsons Plumbing",
+    "wof:parent_id":85821457,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "plumbing",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -116.772128,
+    47.717268,
+    -116.772128,
+    47.717268
+],
+  "geometry": {"coordinates":[-116.772128,47.717268],"type":"Point"}
+}

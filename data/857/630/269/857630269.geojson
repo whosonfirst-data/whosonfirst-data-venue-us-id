@@ -1,0 +1,72 @@
+{
+  "id": 857630269,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-116.792205,47.755119,-116.792205,47.755119",
+    "geom:latitude":47.755119,
+    "geom:longitude":-116.792205,
+    "iso:country":"US",
+    "sg:address":"9170 N Hess St",
+    "sg:city":"Hayden",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/id/coeur-dalene/120423-subway/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 762 1124",
+    "sg:postcode":"83835",
+    "sg:province":"ID",
+    "sg:tags":[
+        "american",
+        "sandwich"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85821457,
+        102086085
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6VJxXm7Fw7VEB1s9MaGVM4_47.755119_-116.792205@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464204671,
+    "wof:geomhash":"3d99f53ffb774948528e2610aa971070",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086085,
+            "neighbourhood_id":85821457,
+            "region_id":85688657,
+            "venue_id":857630269
+        }
+    ],
+    "wof:id":857630269,
+    "wof:lastmodified":1464204671,
+    "wof:name":"Subway",
+    "wof:parent_id":85821457,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "sandwich"
+    ]
+},
+  "bbox": [
+    -116.792205,
+    47.755119,
+    -116.792205,
+    47.755119
+],
+  "geometry": {"coordinates":[-116.792205,47.755119],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 857605741,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-116.32585,43.596366,-116.32585,43.596366",
+    "geom:latitude":43.596366,
+    "geom:longitude":-116.32585,
+    "iso:country":"US",
+    "sg:address":"11709 Camas St",
+    "sg:city":"Boise",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 323 8926",
+    "sg:postcode":"83709",
+    "sg:province":"ID",
+    "sg:tags":[
+        "house"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85937915,
+        102086087,
+        85805083
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2Tyy1CYqiTOIzzOKkJNslH_43.596366_-116.325850@1294099250"
+    },
+    "wof:country":"US",
+    "wof:created":1464204111,
+    "wof:geomhash":"5fa0fa1056d4c0828e702fbc3e89a3f9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086087,
+            "locality_id":85937915,
+            "neighbourhood_id":85805083,
+            "region_id":85688657,
+            "venue_id":857605741
+        }
+    ],
+    "wof:id":857605741,
+    "wof:lastmodified":1464204111,
+    "wof:name":"Knd Home Improvement",
+    "wof:parent_id":85805083,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "house"
+    ]
+},
+  "bbox": [
+    -116.32585,
+    43.596366,
+    -116.32585,
+    43.596366
+],
+  "geometry": {"coordinates":[-116.32585,43.596366],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 857629069,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-116.271521,43.619652,-116.271521,43.619652",
+    "geom:latitude":43.619652,
+    "geom:longitude":-116.271521,
+    "iso:country":"US",
+    "sg:address":"7172 W Fairview Ave",
+    "sg:city":"Boise",
+    "sg:classifiers":[
+        {
+            "category":"Ice Cream",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/id/boise-city/243110-baskin-robbins/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 378 9203",
+    "sg:postcode":"83704",
+    "sg:province":"ID",
+    "sg:tags":[
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        102191575,
+        85633793,
+        85937923,
+        102086087,
+        85841319
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6xs9xRIwHsJZxsTOmdxsrb_43.619652_-116.271521@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464204644,
+    "wof:geomhash":"5152104a8d3d0e24112bba3fc1470ee2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086087,
+            "locality_id":85937923,
+            "neighbourhood_id":85841319,
+            "region_id":85688657,
+            "venue_id":857629069
+        }
+    ],
+    "wof:id":857629069,
+    "wof:lastmodified":1464204644,
+    "wof:name":"Baskin-Robbins",
+    "wof:parent_id":85841319,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american"
+    ]
+},
+  "bbox": [
+    -116.271521,
+    43.619652,
+    -116.271521,
+    43.619652
+],
+  "geometry": {"coordinates":[-116.27152100000001,43.619652],"type":"Point"}
+}

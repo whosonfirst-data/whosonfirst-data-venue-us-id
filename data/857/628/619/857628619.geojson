@@ -1,0 +1,74 @@
+{
+  "id": 857628619,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-116.553146,43.61312,-116.553146,43.61312",
+    "geom:latitude":43.61312,
+    "geom:longitude":-116.553146,
+    "iso:country":"US",
+    "sg:address":"16476 Franklin Rd",
+    "sg:city":"Nampa",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/id/nampa/120347-subway/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 466 3310",
+    "sg:postcode":"83687",
+    "sg:province":"ID",
+    "sg:tags":[
+        "american",
+        "sandwich"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85938009,
+        102085081,
+        85827787
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1wMyvYwdW4MtorUMTQBwCf_43.613120_-116.553146@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464204635,
+    "wof:geomhash":"9ddad358b4c1d1a8306d9a6ccf7c1531",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085081,
+            "locality_id":85938009,
+            "neighbourhood_id":85827787,
+            "region_id":85688657,
+            "venue_id":857628619
+        }
+    ],
+    "wof:id":857628619,
+    "wof:lastmodified":1464204635,
+    "wof:name":"Subway",
+    "wof:parent_id":85827787,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "sandwich"
+    ]
+},
+  "bbox": [
+    -116.553146,
+    43.61312,
+    -116.553146,
+    43.61312
+],
+  "geometry": {"coordinates":[-116.553146,43.61312],"type":"Point"}
+}

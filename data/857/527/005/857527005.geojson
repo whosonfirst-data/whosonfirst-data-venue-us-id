@@ -1,0 +1,73 @@
+{
+  "id": 857527005,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-116.893963,46.373165,-116.893963,46.373165",
+    "geom:latitude":46.373165,
+    "geom:longitude":-116.893963,
+    "iso:country":"US",
+    "sg:address":"2627 Grelle Ave",
+    "sg:city":"Lewiston",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Lumber",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 746 6633",
+    "sg:postcode":"83501",
+    "sg:province":"ID",
+    "sg:tags":[
+        "company",
+        "logging"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85937743,
+        102086039,
+        85837769
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5i7KFk2GHbO9d9ujNwJMk0_46.373165_-116.893963@1294099250"
+    },
+    "wof:country":"US",
+    "wof:created":1464202486,
+    "wof:geomhash":"56d9d3b6bb4f06f261f1b1e44b9d88ca",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086039,
+            "locality_id":85937743,
+            "neighbourhood_id":85837769,
+            "region_id":85688657,
+            "venue_id":857527005
+        }
+    ],
+    "wof:id":857527005,
+    "wof:lastmodified":1464202486,
+    "wof:name":"Independence Logging",
+    "wof:parent_id":85837769,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "company",
+        "logging"
+    ]
+},
+  "bbox": [
+    -116.893963,
+    46.373165,
+    -116.893963,
+    46.373165
+],
+  "geometry": {"coordinates":[-116.893963,46.373165],"type":"Point"}
+}

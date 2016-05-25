@@ -1,0 +1,71 @@
+{
+  "id": 857541279,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-116.812771,47.751715,-116.812771,47.751715",
+    "geom:latitude":47.751715,
+    "geom:longitude":-116.812771,
+    "iso:country":"US",
+    "sg:address":"1714 W Honeysuckle Ave",
+    "sg:city":"Hayden",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Lumber",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 772 3015",
+    "sg:postcode":"83835",
+    "sg:province":"ID",
+    "sg:tags":[
+        "company",
+        "logging"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85821457,
+        102086085
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5sx1e1GFyBLeafo8rK0uwl_47.751715_-116.812771@1294099250"
+    },
+    "wof:country":"US",
+    "wof:created":1464202761,
+    "wof:geomhash":"be6bc4b73e1c551957ae7f273cbc1075",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086085,
+            "neighbourhood_id":85821457,
+            "region_id":85688657,
+            "venue_id":857541279
+        }
+    ],
+    "wof:id":857541279,
+    "wof:lastmodified":1464202761,
+    "wof:name":"Howerton Logging Inc",
+    "wof:parent_id":85821457,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "company",
+        "logging"
+    ]
+},
+  "bbox": [
+    -116.812771,
+    47.751715,
+    -116.812771,
+    47.751715
+],
+  "geometry": {"coordinates":[-116.812771,47.751715],"type":"Point"}
+}

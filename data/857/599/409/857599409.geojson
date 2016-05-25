@@ -1,0 +1,81 @@
+{
+  "id": 857599409,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-116.807978,47.708623,-116.807978,47.708623",
+    "geom:latitude":47.708623,
+    "geom:longitude":-116.807978,
+    "iso:country":"US",
+    "sg:address":"3500 N Ramsey Rd",
+    "sg:city":"Coeur D Alene",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 765 9721",
+    "sg:postcode":"83815",
+    "sg:province":"ID",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85821457,
+        102086085,
+        102191575,
+        85938163,
+        85806325
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5YRNHeQNmcGtddN0Gqh61H_47.708623_-116.807978@1294099250"
+    },
+    "wof:country":"US",
+    "wof:created":1464203971,
+    "wof:geomhash":"1b2e766be5fec66fc0d1c555b4d41d81",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086085,
+            "neighbourhood_id":85821457,
+            "region_id":85688657,
+            "venue_id":857599409
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086085,
+            "locality_id":85938163,
+            "neighbourhood_id":85806325,
+            "region_id":85688657,
+            "venue_id":857599409
+        }
+    ],
+    "wof:id":857599409,
+    "wof:lastmodified":1464203971,
+    "wof:name":"Contractors Northwest Inc",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -116.807978,
+    47.708623,
+    -116.807978,
+    47.708623
+],
+  "geometry": {"coordinates":[-116.80797800000001,47.708623],"type":"Point"}
+}

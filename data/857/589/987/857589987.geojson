@@ -1,0 +1,72 @@
+{
+  "id": 857589987,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-116.794417,47.68253,-116.794417,47.68253",
+    "geom:latitude":47.68253,
+    "geom:longitude":-116.794417,
+    "iso:country":"US",
+    "sg:address":"1000 W Hubbard St",
+    "sg:city":"Coeur D Alene",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"College",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 667 2588",
+    "sg:postcode":"83814",
+    "sg:province":"ID",
+    "sg:tags":[
+        "academic",
+        "school"
+    ],
+    "sg:website":"www.uicda.uidaho.edu",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85821457,
+        102086085
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_11WHfWAatfSX74f5dKz218_47.682530_-116.794417@1294099250"
+    },
+    "wof:country":"US",
+    "wof:created":1464203758,
+    "wof:geomhash":"64c19114e0e768cfd74ed629a518c01f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086085,
+            "neighbourhood_id":85821457,
+            "region_id":85688657,
+            "venue_id":857589987
+        }
+    ],
+    "wof:id":857589987,
+    "wof:lastmodified":1464203758,
+    "wof:name":"University Of Idaho",
+    "wof:parent_id":85821457,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "academic",
+        "school"
+    ]
+},
+  "bbox": [
+    -116.794417,
+    47.68253,
+    -116.794417,
+    47.68253
+],
+  "geometry": {"coordinates":[-116.794417,47.68253],"type":"Point"}
+}

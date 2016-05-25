@@ -1,0 +1,71 @@
+{
+  "id": 857578721,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-117.018525,46.413422,-117.018525,46.413422",
+    "geom:latitude":46.413422,
+    "geom:longitude":-117.018525,
+    "iso:country":"US",
+    "sg:address":"708 10th St",
+    "sg:city":"Lewiston",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Cleaning & Sanitation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 746 9355",
+    "sg:postcode":"83501",
+    "sg:province":"ID",
+    "sg:tags":[
+        "maintenance"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85937743,
+        102086039,
+        85837769
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3f0FIbhhiF4A3sTYgSZo3L_46.413422_-117.018525@1294099250"
+    },
+    "wof:country":"US",
+    "wof:created":1464203526,
+    "wof:geomhash":"b44a8025a18033477620b26f37f08d86",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086039,
+            "locality_id":85937743,
+            "neighbourhood_id":85837769,
+            "region_id":85688657,
+            "venue_id":857578721
+        }
+    ],
+    "wof:id":857578721,
+    "wof:lastmodified":1464203526,
+    "wof:name":"Daves Maintance & Repair",
+    "wof:parent_id":85837769,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "maintenance"
+    ]
+},
+  "bbox": [
+    -117.018525,
+    46.413422,
+    -117.018525,
+    46.413422
+],
+  "geometry": {"coordinates":[-117.018525,46.413422],"type":"Point"}
+}

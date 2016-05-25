@@ -1,0 +1,73 @@
+{
+  "id": 857509231,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-116.24362,43.560508,-116.24362,43.560508",
+    "geom:latitude":43.560508,
+    "geom:longitude":-116.24362,
+    "iso:country":"US",
+    "sg:address":"4833 W Dorman St",
+    "sg:city":"Boise",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 381 8426",
+    "sg:postcode":"83705",
+    "sg:province":"ID",
+    "sg:tags":[
+        "village"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        102191575,
+        85633793,
+        85937923,
+        102086087,
+        85825393
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3eBwXgJ0HnsBClIUdTP3js_43.560508_-116.243620@1294099250"
+    },
+    "wof:country":"US",
+    "wof:created":1464202129,
+    "wof:geomhash":"5232e9c0eecf164a7ff9e96a0b293079",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086087,
+            "locality_id":85937923,
+            "neighbourhood_id":85825393,
+            "region_id":85688657,
+            "venue_id":857509231
+        }
+    ],
+    "wof:id":857509231,
+    "wof:lastmodified":1464202129,
+    "wof:name":"Boise City Office",
+    "wof:parent_id":85825393,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "village"
+    ]
+},
+  "bbox": [
+    -116.24362,
+    43.560508,
+    -116.24362,
+    43.560508
+],
+  "geometry": {"coordinates":[-116.24362000000001,43.560508],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 857619059,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-116.285486,43.626674,-116.285486,43.626674",
+    "geom:latitude":43.626674,
+    "geom:longitude":-116.285486,
+    "iso:country":"US",
+    "sg:address":"8336 Northview St",
+    "sg:city":"Boise",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 375 4544",
+    "sg:postcode":"83704",
+    "sg:province":"ID",
+    "sg:tags":[
+        "dentist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        102191575,
+        85633793,
+        85937923,
+        102086087,
+        85841319
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0TTHKSQgkEEw1vAGXKWQnU_43.626674_-116.285486@1294099250"
+    },
+    "wof:country":"US",
+    "wof:created":1464204403,
+    "wof:geomhash":"9908fa2a3671ef185c5c6d2b8493558f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086087,
+            "locality_id":85937923,
+            "neighbourhood_id":85841319,
+            "region_id":85688657,
+            "venue_id":857619059
+        }
+    ],
+    "wof:id":857619059,
+    "wof:lastmodified":1464204403,
+    "wof:name":"David W Cutler DDS",
+    "wof:parent_id":85841319,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dentist"
+    ]
+},
+  "bbox": [
+    -116.285486,
+    43.626674,
+    -116.285486,
+    43.626674
+],
+  "geometry": {"coordinates":[-116.28548600000001,43.626674],"type":"Point"}
+}

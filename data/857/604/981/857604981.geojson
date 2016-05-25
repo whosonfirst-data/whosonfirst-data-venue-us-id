@@ -1,0 +1,73 @@
+{
+  "id": 857604981,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-116.358647,43.579639,-116.358647,43.579639",
+    "geom:latitude":43.579639,
+    "geom:longitude":-116.358647,
+    "iso:country":"US",
+    "sg:address":"2709 S Zims Ct",
+    "sg:city":"Meridian",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 409 9110",
+    "sg:postcode":"83642",
+    "sg:province":"ID",
+    "sg:tags":[
+        "hanging",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85937915,
+        102086087,
+        85805083
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6r4l75MAfGRAreJ28PB0nb_43.579639_-116.358647@1294099250"
+    },
+    "wof:country":"US",
+    "wof:created":1464204096,
+    "wof:geomhash":"54b29e484576b0cf5edefb2bc7339ad8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086087,
+            "locality_id":85937915,
+            "neighbourhood_id":85805083,
+            "region_id":85688657,
+            "venue_id":857604981
+        }
+    ],
+    "wof:id":857604981,
+    "wof:lastmodified":1464204096,
+    "wof:name":"Faux Effects",
+    "wof:parent_id":85805083,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "hanging",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -116.358647,
+    43.579639,
+    -116.358647,
+    43.579639
+],
+  "geometry": {"coordinates":[-116.358647,43.579639],"type":"Point"}
+}

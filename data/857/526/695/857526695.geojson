@@ -1,0 +1,75 @@
+{
+  "id": 857526695,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-116.252195,43.563897,-116.252195,43.563897",
+    "geom:latitude":43.563897,
+    "geom:longitude":-116.252195,
+    "iso:country":"US",
+    "sg:address":"5720 Albatros St",
+    "sg:city":"Boise",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 362 2101",
+    "sg:postcode":"83705",
+    "sg:province":"ID",
+    "sg:tags":[
+        "heating",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        102191575,
+        85633793,
+        85937923,
+        102086087,
+        85825393
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4CFTGIXLkSzcIn4qe9uksQ_43.563897_-116.252195@1294099250"
+    },
+    "wof:country":"US",
+    "wof:created":1464202481,
+    "wof:geomhash":"6ba7d63c0e61a2009c9d962c9a3884c7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086087,
+            "locality_id":85937923,
+            "neighbourhood_id":85825393,
+            "region_id":85688657,
+            "venue_id":857526695
+        }
+    ],
+    "wof:id":857526695,
+    "wof:lastmodified":1464202481,
+    "wof:name":"CMC Inc",
+    "wof:parent_id":85825393,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "heating",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -116.252195,
+    43.563897,
+    -116.252195,
+    43.563897
+],
+  "geometry": {"coordinates":[-116.252195,43.563897],"type":"Point"}
+}

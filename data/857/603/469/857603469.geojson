@@ -1,0 +1,71 @@
+{
+  "id": 857603469,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-116.564232,43.567465,-116.564232,43.567465",
+    "geom:latitude":43.567465,
+    "geom:longitude":-116.564232,
+    "iso:country":"US",
+    "sg:address":"214 Holly St",
+    "sg:city":"Nampa",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 466 7424",
+    "sg:postcode":"83686",
+    "sg:province":"ID",
+    "sg:tags":[
+        "dentist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85938009,
+        102085081,
+        85827787
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5ZY2LsQny6Ddm62EMi0oOV_43.567465_-116.564232@1294099250"
+    },
+    "wof:country":"US",
+    "wof:created":1464204061,
+    "wof:geomhash":"74574d01c5e68e0577bb5b7babf7af41",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085081,
+            "locality_id":85938009,
+            "neighbourhood_id":85827787,
+            "region_id":85688657,
+            "venue_id":857603469
+        }
+    ],
+    "wof:id":857603469,
+    "wof:lastmodified":1464204061,
+    "wof:name":"Holly Dental Care",
+    "wof:parent_id":85827787,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dentist"
+    ]
+},
+  "bbox": [
+    -116.564232,
+    43.567465,
+    -116.564232,
+    43.567465
+],
+  "geometry": {"coordinates":[-116.564232,43.567465],"type":"Point"}
+}

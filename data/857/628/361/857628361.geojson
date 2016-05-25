@@ -1,0 +1,72 @@
+{
+  "id": 857628361,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-116.368715,43.590701,-116.368715,43.590701",
+    "geom:latitude":43.590701,
+    "geom:longitude":-116.368715,
+    "iso:country":"US",
+    "sg:address":"2020 E Overland Rd",
+    "sg:city":"Meridian",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/id/boise-city/104857-taco-del-mar/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 895 6616",
+    "sg:postcode":"83642",
+    "sg:province":"ID",
+    "sg:tags":[
+        "mexican"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85937915,
+        102086087,
+        85805083
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3EjC65qvIfOL7OltRL371U_43.590701_-116.368715@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464204630,
+    "wof:geomhash":"d101defedbf793bb17d29d4f85c544f7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086087,
+            "locality_id":85937915,
+            "neighbourhood_id":85805083,
+            "region_id":85688657,
+            "venue_id":857628361
+        }
+    ],
+    "wof:id":857628361,
+    "wof:lastmodified":1464204630,
+    "wof:name":"Taco Del Mar",
+    "wof:parent_id":85805083,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mexican"
+    ]
+},
+  "bbox": [
+    -116.368715,
+    43.590701,
+    -116.368715,
+    43.590701
+],
+  "geometry": {"coordinates":[-116.36871499999999,43.590701],"type":"Point"}
+}

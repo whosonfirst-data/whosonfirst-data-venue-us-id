@@ -1,0 +1,82 @@
+{
+  "id": 857629743,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-116.282238,43.604913,-116.282238,43.604913",
+    "geom:latitude":43.604913,
+    "geom:longitude":-116.282238,
+    "iso:country":"US",
+    "sg:address":"7997 W Franklin Rd",
+    "sg:city":"Boise",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/id/boise-city/30312-chilis/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 327 0088",
+    "sg:postcode":"83709",
+    "sg:province":"ID",
+    "sg:tags":[
+        "burger",
+        "american",
+        "sandwich",
+        "tex-mex",
+        "soup"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        102191575,
+        85633793,
+        85937923,
+        102086087,
+        85841319
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_03mHnZgWppdsZtOohuI6WV_43.604913_-116.282238@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464204655,
+    "wof:geomhash":"73a89b17c4ee866271939f7cb4d94536",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086087,
+            "locality_id":85937923,
+            "neighbourhood_id":85841319,
+            "region_id":85688657,
+            "venue_id":857629743
+        }
+    ],
+    "wof:id":857629743,
+    "wof:lastmodified":1464204655,
+    "wof:name":"Chili's",
+    "wof:parent_id":85841319,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american",
+        "sandwich",
+        "tex-mex",
+        "soup"
+    ]
+},
+  "bbox": [
+    -116.282238,
+    43.604913,
+    -116.282238,
+    43.604913
+],
+  "geometry": {"coordinates":[-116.28223800000001,43.604913],"type":"Point"}
+}

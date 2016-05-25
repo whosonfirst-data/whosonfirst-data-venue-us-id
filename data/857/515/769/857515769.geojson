@@ -1,0 +1,71 @@
+{
+  "id": 857515769,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-116.794328,47.694241,-116.794328,47.694241",
+    "geom:latitude":47.694241,
+    "geom:longitude":-116.794328,
+    "iso:country":"US",
+    "sg:address":"914 W Ironwood Dr",
+    "sg:city":"Coeur D Alene",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 765 5922",
+    "sg:postcode":"83814",
+    "sg:province":"ID",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85821457,
+        102086085
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1O3kN2FBpjKhLUS2JmUbuj_47.694241_-116.794328@1294099250"
+    },
+    "wof:country":"US",
+    "wof:created":1464202266,
+    "wof:geomhash":"458e1cba356877c28d3729c0a233be64",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086085,
+            "neighbourhood_id":85821457,
+            "region_id":85688657,
+            "venue_id":857515769
+        }
+    ],
+    "wof:id":857515769,
+    "wof:lastmodified":1464202266,
+    "wof:name":"Family Health Assoc",
+    "wof:parent_id":85821457,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -116.794328,
+    47.694241,
+    -116.794328,
+    47.694241
+],
+  "geometry": {"coordinates":[-116.79432799999999,47.694241],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 857591875,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-116.274134,43.622629,-116.274134,43.622629",
+    "geom:latitude":43.622629,
+    "geom:longitude":-116.274134,
+    "iso:country":"US",
+    "sg:address":"2020 N Cole Rd",
+    "sg:city":"Boise",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 375 0631",
+    "sg:postcode":"83704",
+    "sg:province":"ID",
+    "sg:tags":[
+        "dentist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        102191575,
+        85633793,
+        85937923,
+        102086087,
+        85841319
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6RaP3QtnJ1FbR5H6gpHZHI_43.622629_-116.274134@1294099250"
+    },
+    "wof:country":"US",
+    "wof:created":1464203803,
+    "wof:geomhash":"9a273ffe4351a2311098ac29c277c594",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086087,
+            "locality_id":85937923,
+            "neighbourhood_id":85841319,
+            "region_id":85688657,
+            "venue_id":857591875
+        }
+    ],
+    "wof:id":857591875,
+    "wof:lastmodified":1464203803,
+    "wof:name":"Terry Tingey Orthodontics",
+    "wof:parent_id":85841319,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dentist"
+    ]
+},
+  "bbox": [
+    -116.274134,
+    43.622629,
+    -116.274134,
+    43.622629
+],
+  "geometry": {"coordinates":[-116.274134,43.622629],"type":"Point"}
+}

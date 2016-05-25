@@ -1,0 +1,73 @@
+{
+  "id": 857557435,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-116.915045,46.373301,-116.915045,46.373301",
+    "geom:latitude":46.373301,
+    "geom:longitude":-116.915045,
+    "iso:country":"US",
+    "sg:address":"2229 Grelle Ave",
+    "sg:city":"Lewiston",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 746 2042",
+    "sg:postcode":"83501",
+    "sg:province":"ID",
+    "sg:tags":[
+        "excavation",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85937743,
+        102086039,
+        85837769
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0UipgLlOCsFC47ORQI5Vch_46.373301_-116.915045@1294099250"
+    },
+    "wof:country":"US",
+    "wof:created":1464203080,
+    "wof:geomhash":"417603f0439a1c06868266413058508c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086039,
+            "locality_id":85937743,
+            "neighbourhood_id":85837769,
+            "region_id":85688657,
+            "venue_id":857557435
+        }
+    ],
+    "wof:id":857557435,
+    "wof:lastmodified":1464203080,
+    "wof:name":"Midland Construction",
+    "wof:parent_id":85837769,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "excavation",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -116.915045,
+    46.373301,
+    -116.915045,
+    46.373301
+],
+  "geometry": {"coordinates":[-116.91504500000001,46.373301],"type":"Point"}
+}

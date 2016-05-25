@@ -1,0 +1,81 @@
+{
+  "id": 857542879,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-116.833976,47.708179,-116.833976,47.708179",
+    "geom:latitude":47.708179,
+    "geom:longitude":-116.833976,
+    "iso:country":"US",
+    "sg:address":"4101 Appaloosa Rd",
+    "sg:city":"Coeur D Alene",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Portrait Studio",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 765 2795",
+    "sg:postcode":"83815",
+    "sg:province":"ID",
+    "sg:tags":[
+        "photo"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85821457,
+        102086085,
+        102191575,
+        85938163,
+        85806325
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5KIfFTHR4SuciS0O8GNN21_47.708179_-116.833976@1294099250"
+    },
+    "wof:country":"US",
+    "wof:created":1464202798,
+    "wof:geomhash":"5f42fd7e39ea88d244e15afe870ad771",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086085,
+            "neighbourhood_id":85821457,
+            "region_id":85688657,
+            "venue_id":857542879
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086085,
+            "locality_id":85938163,
+            "neighbourhood_id":85806325,
+            "region_id":85688657,
+            "venue_id":857542879
+        }
+    ],
+    "wof:id":857542879,
+    "wof:lastmodified":1464202798,
+    "wof:name":"Tim Christie Photographer",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "photo"
+    ]
+},
+  "bbox": [
+    -116.833976,
+    47.708179,
+    -116.833976,
+    47.708179
+],
+  "geometry": {"coordinates":[-116.83397600000001,47.708179],"type":"Point"}
+}

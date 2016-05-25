@@ -1,0 +1,71 @@
+{
+  "id": 857585207,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-116.586598,43.530001,-116.586598,43.530001",
+    "geom:latitude":43.530001,
+    "geom:longitude":-116.586598,
+    "iso:country":"US",
+    "sg:address":"4100 Pintail Ln",
+    "sg:city":"Nampa",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 466 6748",
+    "sg:postcode":"83686",
+    "sg:province":"ID",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85938009,
+        102085081,
+        85827787
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4pMBoNqCeb1aZsKUNFLSnH_43.530001_-116.586598@1294099250"
+    },
+    "wof:country":"US",
+    "wof:created":1464203650,
+    "wof:geomhash":"003e1cf55fce70230e7c2c0c40574de4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085081,
+            "locality_id":85938009,
+            "neighbourhood_id":85827787,
+            "region_id":85688657,
+            "venue_id":857585207
+        }
+    ],
+    "wof:id":857585207,
+    "wof:lastmodified":1464203650,
+    "wof:name":"Extreme Measures Mfg",
+    "wof:parent_id":85827787,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -116.586598,
+    43.530001,
+    -116.586598,
+    43.530001
+],
+  "geometry": {"coordinates":[-116.586598,43.530001],"type":"Point"}
+}

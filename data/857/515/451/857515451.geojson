@@ -1,0 +1,66 @@
+{
+  "id": 857515451,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-116.556474,43.575235,-116.556474,43.575235",
+    "geom:latitude":43.575235,
+    "geom:longitude":-116.556474,
+    "iso:country":"US",
+    "sg:address":"1604 2nd St S",
+    "sg:city":"Nampa",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 467 3421",
+    "sg:postcode":"83651",
+    "sg:province":"ID",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85938009,
+        102085081,
+        85827787
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1nofZHPLqRXiIgCDetwjvD_43.575235_-116.556474@1294099250"
+    },
+    "wof:country":"US",
+    "wof:created":1464202259,
+    "wof:geomhash":"4d8e809cf98e4090a96780b686d4a05b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085081,
+            "locality_id":85938009,
+            "neighbourhood_id":85827787,
+            "region_id":85688657,
+            "venue_id":857515451
+        }
+    ],
+    "wof:id":857515451,
+    "wof:lastmodified":1464202259,
+    "wof:name":"Chevron Gem Stop",
+    "wof:parent_id":85827787,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -116.556474,
+    43.575235,
+    -116.556474,
+    43.575235
+],
+  "geometry": {"coordinates":[-116.55647399999999,43.575235],"type":"Point"}
+}

@@ -1,0 +1,76 @@
+{
+  "id": 857628499,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-116.604432,43.604036,-116.604432,43.604036",
+    "geom:latitude":43.604036,
+    "geom:longitude":-116.604432,
+    "iso:country":"US",
+    "sg:address":"2207 N Cassia St",
+    "sg:city":"Nampa",
+    "sg:classifiers":[
+        {
+            "category":"Deli",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/id/nampa/127130-blimpie-subs--sandwiches/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 467 5332",
+    "sg:postcode":"83651",
+    "sg:province":"ID",
+    "sg:tags":[
+        "wrap",
+        "american",
+        "sandwich"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85938009,
+        102085081,
+        85835387
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_663n5BAaXQG8xO1dYUP3X2_43.604036_-116.604432@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464204633,
+    "wof:geomhash":"75dea24418191654e3366441da79d3b3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085081,
+            "locality_id":85938009,
+            "neighbourhood_id":85835387,
+            "region_id":85688657,
+            "venue_id":857628499
+        }
+    ],
+    "wof:id":857628499,
+    "wof:lastmodified":1464204633,
+    "wof:name":"Blimpie Subs & Sandwiches",
+    "wof:parent_id":85835387,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "wrap",
+        "american",
+        "sandwich"
+    ]
+},
+  "bbox": [
+    -116.604432,
+    43.604036,
+    -116.604432,
+    43.604036
+],
+  "geometry": {"coordinates":[-116.604432,43.604036],"type":"Point"}
+}

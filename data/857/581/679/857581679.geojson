@@ -1,0 +1,75 @@
+{
+  "id": 857581679,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-116.513121,43.6196,-116.513121,43.6196",
+    "geom:latitude":43.6196,
+    "geom:longitude":-116.513121,
+    "iso:country":"US",
+    "sg:address":"16971 Can-Ada Rd",
+    "sg:city":"Nampa",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 338 0020",
+    "sg:postcode":"83687",
+    "sg:province":"ID",
+    "sg:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85938009,
+        102085081,
+        85827787
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4PnwJq55XZ5vJJSAgdJh2Y_43.619600_-116.513121@1294099250"
+    },
+    "wof:country":"US",
+    "wof:created":1464203582,
+    "wof:geomhash":"1f12d9b75e8ce1e80540a75e1b3f68d2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085081,
+            "locality_id":85938009,
+            "neighbourhood_id":85827787,
+            "region_id":85688657,
+            "venue_id":857581679
+        }
+    ],
+    "wof:id":857581679,
+    "wof:lastmodified":1464203582,
+    "wof:name":"Bad Boy Movers",
+    "wof:parent_id":85827787,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -116.513121,
+    43.6196,
+    -116.513121,
+    43.6196
+],
+  "geometry": {"coordinates":[-116.513121,43.6196],"type":"Point"}
+}

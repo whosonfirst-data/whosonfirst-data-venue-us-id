@@ -1,0 +1,76 @@
+{
+  "id": 857629711,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-116.273458,43.604582,-116.273458,43.604582",
+    "geom:latitude":43.604582,
+    "geom:longitude":-116.273458,
+    "iso:country":"US",
+    "sg:address":"7373 W Franklin Rd",
+    "sg:city":"Boise",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/id/boise-city/120416-subway/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 377 0688",
+    "sg:postcode":"83709",
+    "sg:province":"ID",
+    "sg:tags":[
+        "american",
+        "sandwich"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        102191575,
+        85633793,
+        85937923,
+        102086087,
+        85841319
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4C0Q0YX31i2BOKdbxpEdFX_43.604582_-116.273458@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464204655,
+    "wof:geomhash":"1bde11ef89017b13dedec05f1202ee36",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086087,
+            "locality_id":85937923,
+            "neighbourhood_id":85841319,
+            "region_id":85688657,
+            "venue_id":857629711
+        }
+    ],
+    "wof:id":857629711,
+    "wof:lastmodified":1464204655,
+    "wof:name":"Subway",
+    "wof:parent_id":85841319,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "sandwich"
+    ]
+},
+  "bbox": [
+    -116.273458,
+    43.604582,
+    -116.273458,
+    43.604582
+],
+  "geometry": {"coordinates":[-116.27345800000001,43.604582],"type":"Point"}
+}

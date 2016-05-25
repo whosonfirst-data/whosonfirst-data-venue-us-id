@@ -1,0 +1,75 @@
+{
+  "id": 857612071,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-116.321274,43.61209,-116.321274,43.61209",
+    "geom:latitude":43.61209,
+    "geom:longitude":-116.321274,
+    "iso:country":"US",
+    "sg:address":"10951 Emerald St",
+    "sg:city":"Boise",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 377 4575",
+    "sg:postcode":"83713",
+    "sg:province":"ID",
+    "sg:tags":[
+        "electric",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        102191575,
+        85633793,
+        85937915,
+        102086087,
+        85811491
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6fANizJUkECbafm7TahEMR_43.612090_-116.321274@1294099250"
+    },
+    "wof:country":"US",
+    "wof:created":1464204259,
+    "wof:geomhash":"ef6f9f649fbcf9190cb1e476a8400628",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086087,
+            "locality_id":85937915,
+            "neighbourhood_id":85811491,
+            "region_id":85688657,
+            "venue_id":857612071
+        }
+    ],
+    "wof:id":857612071,
+    "wof:lastmodified":1464204259,
+    "wof:name":"Romar Electric Co Inc",
+    "wof:parent_id":85811491,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electric",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -116.321274,
+    43.61209,
+    -116.321274,
+    43.61209
+],
+  "geometry": {"coordinates":[-116.321274,43.61209],"type":"Point"}
+}

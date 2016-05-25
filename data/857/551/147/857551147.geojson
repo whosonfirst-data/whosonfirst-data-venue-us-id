@@ -1,0 +1,75 @@
+{
+  "id": 857551147,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-116.894318,47.724726,-116.894318,47.724726",
+    "geom:latitude":47.724726,
+    "geom:longitude":-116.894318,
+    "iso:country":"US",
+    "sg:address":"1820 State Hwy 41",
+    "sg:city":"Post Falls",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Refuse",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 457 1820",
+    "sg:postcode":"83854",
+    "sg:province":"ID",
+    "sg:tags":[
+        "garbage",
+        "collection"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        102191575,
+        85633793,
+        85938145,
+        102086085,
+        85833263
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0Ifn4CarEvh5tQbnQSaRVe_47.724726_-116.894318@1294099250"
+    },
+    "wof:country":"US",
+    "wof:created":1464202951,
+    "wof:geomhash":"4eb7f3234036cd0393fffb55dd89cd94",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086085,
+            "locality_id":85938145,
+            "neighbourhood_id":85833263,
+            "region_id":85688657,
+            "venue_id":857551147
+        }
+    ],
+    "wof:id":857551147,
+    "wof:lastmodified":1464202951,
+    "wof:name":"Coeur D'Alene Garbage Svc/Post",
+    "wof:parent_id":85833263,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "garbage",
+        "collection"
+    ]
+},
+  "bbox": [
+    -116.894318,
+    47.724726,
+    -116.894318,
+    47.724726
+],
+  "geometry": {"coordinates":[-116.894318,47.724726],"type":"Point"}
+}

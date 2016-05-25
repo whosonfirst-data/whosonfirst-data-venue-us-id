@@ -1,0 +1,71 @@
+{
+  "id": 857528803,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-116.593001,43.585035,-116.593001,43.585035",
+    "geom:latitude":43.585035,
+    "geom:longitude":-116.593001,
+    "iso:country":"US",
+    "sg:address":"108 N Midland Blvd",
+    "sg:city":"Nampa",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 442 0907",
+    "sg:postcode":"83651",
+    "sg:province":"ID",
+    "sg:tags":[
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85938009,
+        102085081,
+        85827787
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6vWaGOzkQ2trC80Z4sNyZz_43.585035_-116.593001@1294099250"
+    },
+    "wof:country":"US",
+    "wof:created":1464202521,
+    "wof:geomhash":"d48b1a495cfe0689c598936bef6a9e9b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085081,
+            "locality_id":85938009,
+            "neighbourhood_id":85827787,
+            "region_id":85688657,
+            "venue_id":857528803
+        }
+    ],
+    "wof:id":857528803,
+    "wof:lastmodified":1464202521,
+    "wof:name":"A Step Above",
+    "wof:parent_id":85827787,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop"
+    ]
+},
+  "bbox": [
+    -116.593001,
+    43.585035,
+    -116.593001,
+    43.585035
+],
+  "geometry": {"coordinates":[-116.593001,43.585035],"type":"Point"}
+}

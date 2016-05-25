@@ -1,0 +1,71 @@
+{
+  "id": 857534077,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-116.784242,47.454421,-116.784242,47.454421",
+    "geom:latitude":47.454421,
+    "geom:longitude":-116.784242,
+    "iso:country":"US",
+    "sg:address":"202 Garfield Ave",
+    "sg:city":"Harrison",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Agent",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 689 3525",
+    "sg:postcode":"83833",
+    "sg:province":"ID",
+    "sg:tags":[
+        "rental",
+        "vacation"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85821457,
+        102086085
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1u8fOtMtzjMVkr13mE7PAW_47.454421_-116.784242@1294099250"
+    },
+    "wof:country":"US",
+    "wof:created":1464202622,
+    "wof:geomhash":"404e9908984d2778745bf61eae77cf2f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086085,
+            "neighbourhood_id":85821457,
+            "region_id":85688657,
+            "venue_id":857534077
+        }
+    ],
+    "wof:id":857534077,
+    "wof:lastmodified":1464202622,
+    "wof:name":"Peg's Bed N Breakfast Place",
+    "wof:parent_id":85821457,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "rental",
+        "vacation"
+    ]
+},
+  "bbox": [
+    -116.784242,
+    47.454421,
+    -116.784242,
+    47.454421
+],
+  "geometry": {"coordinates":[-116.78424200000001,47.454421],"type":"Point"}
+}

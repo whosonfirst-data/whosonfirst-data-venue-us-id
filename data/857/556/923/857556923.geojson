@@ -1,0 +1,75 @@
+{
+  "id": 857556923,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-116.391854,43.604754,-116.391854,43.604754",
+    "geom:latitude":43.604754,
+    "geom:longitude":-116.391854,
+    "iso:country":"US",
+    "sg:address":"30 E Franklin Rd",
+    "sg:city":"Meridian",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 888 1415",
+    "sg:postcode":"83642",
+    "sg:province":"ID",
+    "sg:tags":[
+        "repairing",
+        "remodeling",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85937915,
+        102086087,
+        85805083
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2GwDNk4jT2io5rSnOLaOqf_43.604754_-116.391854@1294099250"
+    },
+    "wof:country":"US",
+    "wof:created":1464203071,
+    "wof:geomhash":"7a4047f8238e0473b94436dd46115e70",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086087,
+            "locality_id":85937915,
+            "neighbourhood_id":85805083,
+            "region_id":85688657,
+            "venue_id":857556923
+        }
+    ],
+    "wof:id":857556923,
+    "wof:lastmodified":1464203071,
+    "wof:name":"Frost Construction",
+    "wof:parent_id":85805083,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "remodeling",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -116.391854,
+    43.604754,
+    -116.391854,
+    43.604754
+],
+  "geometry": {"coordinates":[-116.391854,43.604754],"type":"Point"}
+}

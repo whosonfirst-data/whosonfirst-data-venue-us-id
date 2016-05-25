@@ -1,0 +1,76 @@
+{
+  "id": 857630387,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-116.922588,47.710741,-116.922588,47.710741",
+    "geom:latitude":47.710741,
+    "geom:longitude":-116.922588,
+    "iso:country":"US",
+    "sg:address":"1605 E Seltice Way",
+    "sg:city":"Post Falls",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/id/post-falls-rathdrum/120345-subway/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 773 8797",
+    "sg:postcode":"83854",
+    "sg:province":"ID",
+    "sg:tags":[
+        "american",
+        "sandwich"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        102191575,
+        85633793,
+        85938145,
+        102086085,
+        85833263
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3oyXAEg3paKVE9IdA7Zm0w_47.710741_-116.922588@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464204673,
+    "wof:geomhash":"e1c18f15286adadbdf7c634dc247decb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086085,
+            "locality_id":85938145,
+            "neighbourhood_id":85833263,
+            "region_id":85688657,
+            "venue_id":857630387
+        }
+    ],
+    "wof:id":857630387,
+    "wof:lastmodified":1464204673,
+    "wof:name":"Subway",
+    "wof:parent_id":85833263,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "sandwich"
+    ]
+},
+  "bbox": [
+    -116.922588,
+    47.710741,
+    -116.922588,
+    47.710741
+],
+  "geometry": {"coordinates":[-116.922588,47.710741],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 857577467,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-116.363458,43.604898,-116.363458,43.604898",
+    "geom:latitude":43.604898,
+    "geom:longitude":-116.363458,
+    "iso:country":"US",
+    "sg:address":"2459 E Franklin Rd",
+    "sg:city":"Meridian",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 887 3504",
+    "sg:postcode":"83642",
+    "sg:province":"ID",
+    "sg:tags":[
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85937915,
+        102086087,
+        85805083
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2BEjzuq0xB0TPYdlTF2XWU_43.604898_-116.363458@1294099250"
+    },
+    "wof:country":"US",
+    "wof:created":1464203501,
+    "wof:geomhash":"34c8a8e1747669a111a3efd68bfcc9f9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086087,
+            "locality_id":85937915,
+            "neighbourhood_id":85805083,
+            "region_id":85688657,
+            "venue_id":857577467
+        }
+    ],
+    "wof:id":857577467,
+    "wof:lastmodified":1464203501,
+    "wof:name":"Finishline Automotive",
+    "wof:parent_id":85805083,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "general"
+    ]
+},
+  "bbox": [
+    -116.363458,
+    43.604898,
+    -116.363458,
+    43.604898
+],
+  "geometry": {"coordinates":[-116.36345799999999,43.604898],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 857601181,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-116.36719,43.609794,-116.36719,43.609794",
+    "geom:latitude":43.609794,
+    "geom:longitude":-116.36719,
+    "iso:country":"US",
+    "sg:address":"2390 E Commercial St",
+    "sg:city":"Meridian",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 898 0512",
+    "sg:postcode":"83642",
+    "sg:province":"ID",
+    "sg:tags":[
+        "locating"
+    ],
+    "sg:website":"www.elmlocating.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85937915,
+        102086087,
+        85805083
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3QvGG1EP7A9NHRI8oVn4kw_43.609794_-116.367190@1294099250"
+    },
+    "wof:country":"US",
+    "wof:created":1464204011,
+    "wof:geomhash":"8a67671f07f794a8cc8b3e2d1fe502f7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086087,
+            "locality_id":85937915,
+            "neighbourhood_id":85805083,
+            "region_id":85688657,
+            "venue_id":857601181
+        }
+    ],
+    "wof:id":857601181,
+    "wof:lastmodified":1464204011,
+    "wof:name":"ELM Locating & Utility Svc",
+    "wof:parent_id":85805083,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "locating"
+    ]
+},
+  "bbox": [
+    -116.36719,
+    43.609794,
+    -116.36719,
+    43.609794
+],
+  "geometry": {"coordinates":[-116.36718999999999,43.609794],"type":"Point"}
+}

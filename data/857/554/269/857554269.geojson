@@ -1,0 +1,71 @@
+{
+  "id": 857554269,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-116.782273,47.692752,-116.782273,47.692752",
+    "geom:latitude":47.692752,
+    "geom:longitude":-116.782273,
+    "iso:country":"US",
+    "sg:address":"1851 N 3rd St",
+    "sg:city":"Coeur D Alene",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 769 9926",
+    "sg:postcode":"83814",
+    "sg:province":"ID",
+    "sg:tags":[
+        "commercial",
+        "storage"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85821457,
+        102086085
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5hmkAiLwCMo4wyzxDJv2yo_47.692752_-116.782273@1294099250"
+    },
+    "wof:country":"US",
+    "wof:created":1464203013,
+    "wof:geomhash":"ba83611e2189a619b4c86b387d76c599",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086085,
+            "neighbourhood_id":85821457,
+            "region_id":85688657,
+            "venue_id":857554269
+        }
+    ],
+    "wof:id":857554269,
+    "wof:lastmodified":1464203013,
+    "wof:name":"Third Street Self Storage",
+    "wof:parent_id":85821457,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "commercial",
+        "storage"
+    ]
+},
+  "bbox": [
+    -116.782273,
+    47.692752,
+    -116.782273,
+    47.692752
+],
+  "geometry": {"coordinates":[-116.782273,47.692752],"type":"Point"}
+}

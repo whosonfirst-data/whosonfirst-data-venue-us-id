@@ -1,0 +1,71 @@
+{
+  "id": 857572089,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-116.124182,47.536814,-116.124182,47.536814",
+    "geom:latitude":47.536814,
+    "geom:longitude":-116.124182,
+    "iso:country":"US",
+    "sg:address":"202 W Station Ave",
+    "sg:city":"Kellogg",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Building Materials",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 786 3101",
+    "sg:postcode":"83837",
+    "sg:province":"ID",
+    "sg:tags":[
+        "lumber"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85937825,
+        102086103,
+        85849049
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3aJ0dSmY7qCKEZJ5hkZ2nj_47.536814_-116.124182@1294099250"
+    },
+    "wof:country":"US",
+    "wof:created":1464203390,
+    "wof:geomhash":"e4361ce23fe9c5362bb7a06f8841f600",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086103,
+            "locality_id":85937825,
+            "neighbourhood_id":85849049,
+            "region_id":85688657,
+            "venue_id":857572089
+        }
+    ],
+    "wof:id":857572089,
+    "wof:lastmodified":1464203390,
+    "wof:name":"Kellogg Lumber Co",
+    "wof:parent_id":85849049,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "lumber"
+    ]
+},
+  "bbox": [
+    -116.124182,
+    47.536814,
+    -116.124182,
+    47.536814
+],
+  "geometry": {"coordinates":[-116.124182,47.536814],"type":"Point"}
+}

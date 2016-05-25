@@ -1,0 +1,73 @@
+{
+  "id": 857575973,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-116.958215,46.36573,-116.958215,46.36573",
+    "geom:latitude":46.36573,
+    "geom:longitude":-116.958215,
+    "iso:country":"US",
+    "sg:address":"1414 Ripon Ave",
+    "sg:city":"Lewiston",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 746 5865",
+    "sg:postcode":"83501",
+    "sg:province":"ID",
+    "sg:tags":[
+        "commercial",
+        "storage"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85937743,
+        102086039,
+        85837769
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1UaxyZt318V4aCRNealBBS_46.365730_-116.958215@1294099250"
+    },
+    "wof:country":"US",
+    "wof:created":1464203470,
+    "wof:geomhash":"73a9931c3dc5b480927103c494ec7064",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086039,
+            "locality_id":85937743,
+            "neighbourhood_id":85837769,
+            "region_id":85688657,
+            "venue_id":857575973
+        }
+    ],
+    "wof:id":857575973,
+    "wof:lastmodified":1464203470,
+    "wof:name":"Bob's Mini Storage",
+    "wof:parent_id":85837769,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "commercial",
+        "storage"
+    ]
+},
+  "bbox": [
+    -116.958215,
+    46.36573,
+    -116.958215,
+    46.36573
+],
+  "geometry": {"coordinates":[-116.958215,46.36573],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 857543153,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-116.55312,43.609705,-116.55312,43.609705",
+    "geom:latitude":43.609705,
+    "geom:longitude":-116.55312,
+    "iso:country":"US",
+    "sg:address":"16390 Franklin Rd",
+    "sg:city":"Nampa",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 442 1460",
+    "sg:postcode":"83687",
+    "sg:province":"ID",
+    "sg:tags":[
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85938009,
+        102085081,
+        85827787
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6ShIZrWqB9lz7GyomkFvhc_43.609705_-116.553120@1294099250"
+    },
+    "wof:country":"US",
+    "wof:created":1464202804,
+    "wof:geomhash":"aa01ff076458a8da5485759db571bcba",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085081,
+            "locality_id":85938009,
+            "neighbourhood_id":85827787,
+            "region_id":85688657,
+            "venue_id":857543153
+        }
+    ],
+    "wof:id":857543153,
+    "wof:lastmodified":1464202804,
+    "wof:name":"Birches At Brandts Landing",
+    "wof:parent_id":85827787,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "apartment"
+    ]
+},
+  "bbox": [
+    -116.55312,
+    43.609705,
+    -116.55312,
+    43.609705
+],
+  "geometry": {"coordinates":[-116.55312000000001,43.609705],"type":"Point"}
+}

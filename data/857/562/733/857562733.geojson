@@ -1,0 +1,73 @@
+{
+  "id": 857562733,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-116.565951,43.580037,-116.565951,43.580037",
+    "geom:latitude":43.580037,
+    "geom:longitude":-116.565951,
+    "iso:country":"US",
+    "sg:address":"807 3rd St S",
+    "sg:city":"Nampa",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 465 0603",
+    "sg:postcode":"83651",
+    "sg:province":"ID",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85938009,
+        102085081,
+        85827787
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0uoHMXQvjaa5RSE9Kh7O8P_43.580037_-116.565951@1294099250"
+    },
+    "wof:country":"US",
+    "wof:created":1464203216,
+    "wof:geomhash":"5056f73fba78e1ff24401169c50b1812",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085081,
+            "locality_id":85938009,
+            "neighbourhood_id":85827787,
+            "region_id":85688657,
+            "venue_id":857562733
+        }
+    ],
+    "wof:id":857562733,
+    "wof:lastmodified":1464203216,
+    "wof:name":"Whit's Auto Repair Inc",
+    "wof:parent_id":85827787,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -116.565951,
+    43.580037,
+    -116.565951,
+    43.580037
+],
+  "geometry": {"coordinates":[-116.565951,43.580037],"type":"Point"}
+}

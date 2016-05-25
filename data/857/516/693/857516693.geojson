@@ -1,0 +1,76 @@
+{
+  "id": 857516693,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-116.538444,43.565225,-116.538444,43.565225",
+    "geom:latitude":43.565225,
+    "geom:longitude":-116.538444,
+    "iso:country":"US",
+    "sg:address":"2586 2nd St S Exd",
+    "sg:city":"Nampa",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Farm Supplies",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 466 7811",
+    "sg:postcode":"83686",
+    "sg:province":"ID",
+    "sg:tags":[
+        "auction",
+        "livestock",
+        "market"
+    ],
+    "sg:website":"www.nampalivestock.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85938009,
+        102085081,
+        85827787
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0wZfSxdam45wIjiA9FMtqK_43.565225_-116.538444@1294099250"
+    },
+    "wof:country":"US",
+    "wof:created":1464202283,
+    "wof:geomhash":"c9e42d5d5daa147475064094a61fd8b5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085081,
+            "locality_id":85938009,
+            "neighbourhood_id":85827787,
+            "region_id":85688657,
+            "venue_id":857516693
+        }
+    ],
+    "wof:id":857516693,
+    "wof:lastmodified":1464202283,
+    "wof:name":"Nampa Livestock Market Inc",
+    "wof:parent_id":85827787,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "auction",
+        "livestock",
+        "market"
+    ]
+},
+  "bbox": [
+    -116.538444,
+    43.565225,
+    -116.538444,
+    43.565225
+],
+  "geometry": {"coordinates":[-116.538444,43.565225],"type":"Point"}
+}

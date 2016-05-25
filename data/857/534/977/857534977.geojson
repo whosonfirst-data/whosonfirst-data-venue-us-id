@@ -1,0 +1,75 @@
+{
+  "id": 857534977,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-116.393664,43.605378,-116.393664,43.605378",
+    "geom:latitude":43.605378,
+    "geom:longitude":-116.393664,
+    "iso:country":"US",
+    "sg:address":"225 N Meridian Rd",
+    "sg:city":"Meridian",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 888 5166",
+    "sg:postcode":"83642",
+    "sg:province":"ID",
+    "sg:tags":[
+        "pipe",
+        "line",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85937915,
+        102086087,
+        85805083
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4HJIE1U8DFJIF0W8s0iFpi_43.605378_-116.393664@1294099250"
+    },
+    "wof:country":"US",
+    "wof:created":1464202638,
+    "wof:geomhash":"da78ffe993d5df085eb161916acdbb0f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086087,
+            "locality_id":85937915,
+            "neighbourhood_id":85805083,
+            "region_id":85688657,
+            "venue_id":857534977
+        }
+    ],
+    "wof:id":857534977,
+    "wof:lastmodified":1464202638,
+    "wof:name":"Davco Services",
+    "wof:parent_id":85805083,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pipe",
+        "line",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -116.393664,
+    43.605378,
+    -116.393664,
+    43.605378
+],
+  "geometry": {"coordinates":[-116.393664,43.605378],"type":"Point"}
+}

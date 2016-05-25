@@ -1,0 +1,70 @@
+{
+  "id": 857517143,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-116.216504,43.568477,-116.216504,43.568477",
+    "geom:latitude":43.568477,
+    "geom:longitude":-116.216504,
+    "iso:country":"US",
+    "sg:address":"2625 Apollo St",
+    "sg:city":"Boise",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Post Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 000 1111",
+    "sg:postcode":"83705",
+    "sg:province":"ID",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        102527733,
+        85876337,
+        102191575,
+        85633793,
+        85937923,
+        102086087,
+        85688657
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3Zui6SJ0aLcbPSadKqUytT_43.568477_-116.216504@1294099250"
+    },
+    "wof:country":"US",
+    "wof:created":1464202293,
+    "wof:geomhash":"8a1af0cdfebf085edc84db1666fb75b7",
+    "wof:hierarchy":[
+        {
+            "campus_id":102527733,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086087,
+            "locality_id":85937923,
+            "neighbourhood_id":85876337,
+            "region_id":85688657,
+            "venue_id":857517143
+        }
+    ],
+    "wof:id":857517143,
+    "wof:lastmodified":1464202293,
+    "wof:name":"US Post Office",
+    "wof:parent_id":102527733,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -116.216504,
+    43.568477,
+    -116.216504,
+    43.568477
+],
+  "geometry": {"coordinates":[-116.216504,43.568477],"type":"Point"}
+}

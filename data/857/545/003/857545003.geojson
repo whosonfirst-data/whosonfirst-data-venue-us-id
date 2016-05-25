@@ -1,0 +1,73 @@
+{
+  "id": 857545003,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-116.243674,43.588987,-116.243674,43.588987",
+    "geom:latitude":43.588987,
+    "geom:longitude":-116.243674,
+    "iso:country":"US",
+    "sg:address":"1627 S Orchard St",
+    "sg:city":"Boise",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Equipment Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 336 1111",
+    "sg:postcode":"83705",
+    "sg:province":"ID",
+    "sg:tags":[
+        "leasing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        102191575,
+        85633793,
+        85937923,
+        102086087,
+        85876295
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_22Izou8b81P2qP3OM7PlUs_43.588987_-116.243674@1294099250"
+    },
+    "wof:country":"US",
+    "wof:created":1464202840,
+    "wof:geomhash":"0b711d0d345d58cdf0fbb42acdcafa79",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086087,
+            "locality_id":85937923,
+            "neighbourhood_id":85876295,
+            "region_id":85688657,
+            "venue_id":857545003
+        }
+    ],
+    "wof:id":857545003,
+    "wof:lastmodified":1464202840,
+    "wof:name":"Les Bois Leasing Inc",
+    "wof:parent_id":85876295,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "leasing"
+    ]
+},
+  "bbox": [
+    -116.243674,
+    43.588987,
+    -116.243674,
+    43.588987
+],
+  "geometry": {"coordinates":[-116.243674,43.588987],"type":"Point"}
+}

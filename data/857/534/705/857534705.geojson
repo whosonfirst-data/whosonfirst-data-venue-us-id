@@ -1,0 +1,75 @@
+{
+  "id": 857534705,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-116.274308,43.633846,-116.274308,43.633846",
+    "geom:latitude":43.633846,
+    "geom:longitude":-116.274308,
+    "iso:country":"US",
+    "sg:address":"2993 N Cole Rd",
+    "sg:city":"Boise",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 378 0400",
+    "sg:postcode":"83704",
+    "sg:province":"ID",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        102191575,
+        85633793,
+        85937923,
+        102086087,
+        85841319
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5RMO2MENsATm68JTLUQBCn_43.633846_-116.274308@1294099250"
+    },
+    "wof:country":"US",
+    "wof:created":1464202633,
+    "wof:geomhash":"f1cf5fba6acd04200b2ad2418ad22415",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086087,
+            "locality_id":85937923,
+            "neighbourhood_id":85841319,
+            "region_id":85688657,
+            "venue_id":857534705
+        }
+    ],
+    "wof:id":857534705,
+    "wof:lastmodified":1464202633,
+    "wof:name":"Boise Minor Emergency Ctr",
+    "wof:parent_id":85841319,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -116.274308,
+    43.633846,
+    -116.274308,
+    43.633846
+],
+  "geometry": {"coordinates":[-116.274308,43.633846],"type":"Point"}
+}

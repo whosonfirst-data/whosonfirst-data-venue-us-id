@@ -1,0 +1,71 @@
+{
+  "id": 857541803,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-116.788459,47.7517,-116.788459,47.7517",
+    "geom:latitude":47.7517,
+    "geom:longitude":-116.788459,
+    "iso:country":"US",
+    "sg:address":"112 W Honeysuckle Ave",
+    "sg:city":"Hayden Lake",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 772 2141",
+    "sg:postcode":"83835",
+    "sg:province":"ID",
+    "sg:tags":[
+        "commercial",
+        "storage"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85821457,
+        102086085
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0JfLNlSaOMW46BXTCwK7iN_47.751700_-116.788459@1294099250"
+    },
+    "wof:country":"US",
+    "wof:created":1464202770,
+    "wof:geomhash":"0dd033f553a00cabda3519f8fe441dea",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086085,
+            "neighbourhood_id":85821457,
+            "region_id":85688657,
+            "venue_id":857541803
+        }
+    ],
+    "wof:id":857541803,
+    "wof:lastmodified":1464202770,
+    "wof:name":"Storage World Inc",
+    "wof:parent_id":85821457,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "commercial",
+        "storage"
+    ]
+},
+  "bbox": [
+    -116.788459,
+    47.7517,
+    -116.788459,
+    47.7517
+],
+  "geometry": {"coordinates":[-116.788459,47.7517],"type":"Point"}
+}

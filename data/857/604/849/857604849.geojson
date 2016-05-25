@@ -1,0 +1,71 @@
+{
+  "id": 857604849,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-116.780316,47.78245,-116.780316,47.78245",
+    "geom:latitude":47.78245,
+    "geom:longitude":-116.780316,
+    "iso:country":"US",
+    "sg:address":"12012 N Emerald Dr",
+    "sg:city":"Hayden",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 762 2769",
+    "sg:postcode":"83835",
+    "sg:province":"ID",
+    "sg:tags":[
+        "electrical",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85821457,
+        102086085
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6RTvb3odUcdPxcmOF2oSp6_47.782450_-116.780316@1294099250"
+    },
+    "wof:country":"US",
+    "wof:created":1464204093,
+    "wof:geomhash":"366e87ed6c89a935c4470637079311f8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086085,
+            "neighbourhood_id":85821457,
+            "region_id":85688657,
+            "venue_id":857604849
+        }
+    ],
+    "wof:id":857604849,
+    "wof:lastmodified":1464204093,
+    "wof:name":"Franssen S Electric LLC",
+    "wof:parent_id":85821457,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electrical",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -116.780316,
+    47.78245,
+    -116.780316,
+    47.78245
+],
+  "geometry": {"coordinates":[-116.780316,47.78245],"type":"Point"}
+}

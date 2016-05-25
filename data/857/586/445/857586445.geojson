@@ -1,0 +1,71 @@
+{
+  "id": 857586445,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-117.009536,46.417698,-117.009536,46.417698",
+    "geom:latitude":46.417698,
+    "geom:longitude":-117.009536,
+    "iso:country":"US",
+    "sg:address":"1603 Main St",
+    "sg:city":"Lewiston",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 743 2471",
+    "sg:postcode":"83501",
+    "sg:province":"ID",
+    "sg:tags":[
+        "monument"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85937743,
+        102086039,
+        85837769
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6PiWlSCxR9tIDaNSapOQd9_46.417698_-117.009536@1294099250"
+    },
+    "wof:country":"US",
+    "wof:created":1464203683,
+    "wof:geomhash":"0d994876be096f7ae8cc6744839e249d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086039,
+            "locality_id":85937743,
+            "neighbourhood_id":85837769,
+            "region_id":85688657,
+            "venue_id":857586445
+        }
+    ],
+    "wof:id":857586445,
+    "wof:lastmodified":1464203683,
+    "wof:name":"Garlinghouse Memorials",
+    "wof:parent_id":85837769,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "monument"
+    ]
+},
+  "bbox": [
+    -117.009536,
+    46.417698,
+    -117.009536,
+    46.417698
+],
+  "geometry": {"coordinates":[-117.009536,46.417698],"type":"Point"}
+}

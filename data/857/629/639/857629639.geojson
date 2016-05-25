@@ -1,0 +1,76 @@
+{
+  "id": 857629639,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-116.26692,43.589741,-116.26692,43.589741",
+    "geom:latitude":43.589741,
+    "geom:longitude":-116.26692,
+    "iso:country":"US",
+    "sg:address":"6871 W Overland Rd",
+    "sg:city":"Boise",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/id/boise-city/78923-pizza-hut/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 375 3590",
+    "sg:postcode":"83709",
+    "sg:province":"ID",
+    "sg:tags":[
+        "american",
+        "pizza"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        102191575,
+        85633793,
+        85937923,
+        102086087,
+        85876293
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2OU0wpQOiyfDfLQRNg4zmZ_43.589741_-116.266920@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464204654,
+    "wof:geomhash":"cfa8059035cbf281c00e008a9746b123",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086087,
+            "locality_id":85937923,
+            "neighbourhood_id":85876293,
+            "region_id":85688657,
+            "venue_id":857629639
+        }
+    ],
+    "wof:id":857629639,
+    "wof:lastmodified":1464204654,
+    "wof:name":"Pizza Hut",
+    "wof:parent_id":85876293,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "pizza"
+    ]
+},
+  "bbox": [
+    -116.26692,
+    43.589741,
+    -116.26692,
+    43.589741
+],
+  "geometry": {"coordinates":[-116.26692,43.589741],"type":"Point"}
+}

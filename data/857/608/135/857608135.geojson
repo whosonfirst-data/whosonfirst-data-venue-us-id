@@ -1,0 +1,83 @@
+{
+  "id": 857608135,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-116.786593,47.710924,-116.786593,47.710924",
+    "geom:latitude":47.710924,
+    "geom:longitude":-116.786593,
+    "iso:country":"US",
+    "sg:address":"3655 N Government Way",
+    "sg:city":"Coeur D Alene",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Computers & Home Electronics",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 665 9165",
+    "sg:postcode":"83815",
+    "sg:province":"ID",
+    "sg:tags":[
+        "equipment",
+        "dealer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85821457,
+        102086085,
+        102191575,
+        85938163,
+        85806325
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6Xgt7uJe581qEIkQTTrZPs_47.710924_-116.786593@1294099250"
+    },
+    "wof:country":"US",
+    "wof:created":1464204168,
+    "wof:geomhash":"35111bdc2405c2fe6681c0c306db5aca",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086085,
+            "neighbourhood_id":85821457,
+            "region_id":85688657,
+            "venue_id":857608135
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086085,
+            "locality_id":85938163,
+            "neighbourhood_id":85806325,
+            "region_id":85688657,
+            "venue_id":857608135
+        }
+    ],
+    "wof:id":857608135,
+    "wof:lastmodified":1464204168,
+    "wof:name":"Apex Office Systems",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "equipment",
+        "dealer"
+    ]
+},
+  "bbox": [
+    -116.786593,
+    47.710924,
+    -116.786593,
+    47.710924
+],
+  "geometry": {"coordinates":[-116.786593,47.710924],"type":"Point"}
+}

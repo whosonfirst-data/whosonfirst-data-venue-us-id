@@ -1,0 +1,71 @@
+{
+  "id": 857605529,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-116.780665,47.690869,-116.780665,47.690869",
+    "geom:latitude":47.690869,
+    "geom:longitude":-116.780665,
+    "iso:country":"US",
+    "sg:address":"1628 N 4th St",
+    "sg:city":"Coeur D Alene",
+    "sg:classifiers":[
+        {
+            "category":"Bars & Pubs",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 667 9084",
+    "sg:postcode":"83814",
+    "sg:province":"ID",
+    "sg:tags":[
+        "lounge",
+        "cocktail"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85821457,
+        102086085
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0XOOUjrOwWykJrDI4X5NQy_47.690869_-116.780665@1294099250"
+    },
+    "wof:country":"US",
+    "wof:created":1464204108,
+    "wof:geomhash":"20bd67020052d12c002f2e394428a27a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086085,
+            "neighbourhood_id":85821457,
+            "region_id":85688657,
+            "venue_id":857605529
+        }
+    ],
+    "wof:id":857605529,
+    "wof:lastmodified":1464204108,
+    "wof:name":"Corner Bar",
+    "wof:parent_id":85821457,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "lounge",
+        "cocktail"
+    ]
+},
+  "bbox": [
+    -116.780665,
+    47.690869,
+    -116.780665,
+    47.690869
+],
+  "geometry": {"coordinates":[-116.780665,47.690869],"type":"Point"}
+}

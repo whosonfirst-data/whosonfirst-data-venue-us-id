@@ -1,0 +1,73 @@
+{
+  "id": 857550109,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-116.391216,43.612034,-116.391216,43.612034",
+    "geom:latitude":43.612034,
+    "geom:longitude":-116.391216,
+    "iso:country":"US",
+    "sg:address":"134 E Pine Ave",
+    "sg:city":"Meridian",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 884 5584",
+    "sg:postcode":"83642",
+    "sg:province":"ID",
+    "sg:tags":[
+        "general",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85937915,
+        102086087,
+        85805083
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3Gdvik6iuiQGw0NoOORFNe_43.612034_-116.391216@1294099250"
+    },
+    "wof:country":"US",
+    "wof:created":1464202933,
+    "wof:geomhash":"84849f9931401f024929dd3110c17fdc",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086087,
+            "locality_id":85937915,
+            "neighbourhood_id":85805083,
+            "region_id":85688657,
+            "venue_id":857550109
+        }
+    ],
+    "wof:id":857550109,
+    "wof:lastmodified":1464202933,
+    "wof:name":"High Desert Construction",
+    "wof:parent_id":85805083,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "general",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -116.391216,
+    43.612034,
+    -116.391216,
+    43.612034
+],
+  "geometry": {"coordinates":[-116.391216,43.612034],"type":"Point"}
+}

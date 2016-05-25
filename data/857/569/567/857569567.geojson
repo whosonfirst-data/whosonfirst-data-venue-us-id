@@ -1,0 +1,71 @@
+{
+  "id": 857569567,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-116.815499,47.727397,-116.815499,47.727397",
+    "geom:latitude":47.727397,
+    "geom:longitude":-116.815499,
+    "iso:country":"US",
+    "sg:address":"5943 N Harcourt Dr",
+    "sg:city":"Coeur D Alene",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 665 5780",
+    "sg:postcode":"83815",
+    "sg:province":"ID",
+    "sg:tags":[
+        "general",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85821457,
+        102086085
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6dtwCtxHq44O8nvs0pbjG7_47.727397_-116.815499@1294099250"
+    },
+    "wof:country":"US",
+    "wof:created":1464203344,
+    "wof:geomhash":"aba9090ed0546e6c5d49619c96bacfb4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086085,
+            "neighbourhood_id":85821457,
+            "region_id":85688657,
+            "venue_id":857569567
+        }
+    ],
+    "wof:id":857569567,
+    "wof:lastmodified":1464203344,
+    "wof:name":"Graystone Construction",
+    "wof:parent_id":85821457,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "general",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -116.815499,
+    47.727397,
+    -116.815499,
+    47.727397
+],
+  "geometry": {"coordinates":[-116.815499,47.727397],"type":"Point"}
+}

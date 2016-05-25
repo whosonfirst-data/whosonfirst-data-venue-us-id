@@ -1,0 +1,71 @@
+{
+  "id": 857568133,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-116.79885,47.695867,-116.79885,47.695867",
+    "geom:latitude":47.695867,
+    "geom:longitude":-116.79885,
+    "iso:country":"US",
+    "sg:address":"1104 W Ironwood Dr",
+    "sg:city":"Coeur D Alene",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 667 9400",
+    "sg:postcode":"83814",
+    "sg:province":"ID",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85821457,
+        102086085
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2Uhe15O9IdhlLQAKOnVy4C_47.695867_-116.798850@1294099250"
+    },
+    "wof:country":"US",
+    "wof:created":1464203318,
+    "wof:geomhash":"a4fe873366d6abb7ba435db20c1a423b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086085,
+            "neighbourhood_id":85821457,
+            "region_id":85688657,
+            "venue_id":857568133
+        }
+    ],
+    "wof:id":857568133,
+    "wof:lastmodified":1464203318,
+    "wof:name":"Gateway Services",
+    "wof:parent_id":85821457,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -116.79885,
+    47.695867,
+    -116.79885,
+    47.695867
+],
+  "geometry": {"coordinates":[-116.79885,47.695867],"type":"Point"}
+}

@@ -1,0 +1,84 @@
+{
+  "id": 857539469,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-116.98088,46.389441,-116.98088,46.389441",
+    "geom:latitude":46.389441,
+    "geom:longitude":-116.98088,
+    "iso:country":"US",
+    "sg:address":"3122 10th St",
+    "sg:city":"Lewiston",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 743 0191",
+    "sg:postcode":"83501",
+    "sg:province":"ID",
+    "sg:tags":[
+        "general",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85937743,
+        102086039,
+        85837769,
+        102191575,
+        85830385
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1Y7aWbl7Ie4hqk6nU9AuIh_46.389441_-116.980880@1294099250"
+    },
+    "wof:country":"US",
+    "wof:created":1464202727,
+    "wof:geomhash":"c5c4beed5cc5753f18f7b3dac875806e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086039,
+            "locality_id":85937743,
+            "neighbourhood_id":85837769,
+            "region_id":85688657,
+            "venue_id":857539469
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086039,
+            "locality_id":85937743,
+            "neighbourhood_id":85830385,
+            "region_id":85688657,
+            "venue_id":857539469
+        }
+    ],
+    "wof:id":857539469,
+    "wof:lastmodified":1464202727,
+    "wof:name":"J K Light Construction",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "general",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -116.98088,
+    46.389441,
+    -116.98088,
+    46.389441
+],
+  "geometry": {"coordinates":[-116.98088,46.389441],"type":"Point"}
+}

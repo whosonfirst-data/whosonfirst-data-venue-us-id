@@ -1,0 +1,71 @@
+{
+  "id": 857569349,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-117.020642,46.41851,-117.020642,46.41851",
+    "geom:latitude":46.41851,
+    "geom:longitude":-117.020642,
+    "iso:country":"US",
+    "sg:address":"1028 F St",
+    "sg:city":"Lewiston",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 746 0692",
+    "sg:postcode":"83501",
+    "sg:province":"ID",
+    "sg:tags":[
+        "escrow"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85937743,
+        102086039,
+        85837769
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3G6TIEG8zLvEg4HoklhpfR_46.418510_-117.020642@1294099250"
+    },
+    "wof:country":"US",
+    "wof:created":1464203341,
+    "wof:geomhash":"afc1701c520e018b11fa0e3a3bf60590",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086039,
+            "locality_id":85937743,
+            "neighbourhood_id":85837769,
+            "region_id":85688657,
+            "venue_id":857569349
+        }
+    ],
+    "wof:id":857569349,
+    "wof:lastmodified":1464203341,
+    "wof:name":"Fidelity Blue Mountain Escrow",
+    "wof:parent_id":85837769,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "escrow"
+    ]
+},
+  "bbox": [
+    -117.020642,
+    46.41851,
+    -117.020642,
+    46.41851
+],
+  "geometry": {"coordinates":[-117.020642,46.41851],"type":"Point"}
+}

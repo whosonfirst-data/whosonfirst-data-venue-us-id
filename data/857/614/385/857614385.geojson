@@ -1,0 +1,71 @@
+{
+  "id": 857614385,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-116.513413,43.469997,-116.513413,43.469997",
+    "geom:latitude":43.469997,
+    "geom:longitude":-116.513413,
+    "iso:country":"US",
+    "sg:address":"6677 Happy Valley Rd",
+    "sg:city":"Kuna",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 463 8700",
+    "sg:postcode":"83634",
+    "sg:province":"ID",
+    "sg:tags":[
+        "body"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85938009,
+        102085081,
+        85827787
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1XYHbVwmb0flPllq2kqrzd_43.469997_-116.513413@1294099250"
+    },
+    "wof:country":"US",
+    "wof:created":1464204308,
+    "wof:geomhash":"fd312b23ffb8e6703fca8f33619b3194",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085081,
+            "locality_id":85938009,
+            "neighbourhood_id":85827787,
+            "region_id":85688657,
+            "venue_id":857614385
+        }
+    ],
+    "wof:id":857614385,
+    "wof:lastmodified":1464204308,
+    "wof:name":"Metric Wrench",
+    "wof:parent_id":85827787,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body"
+    ]
+},
+  "bbox": [
+    -116.513413,
+    43.469997,
+    -116.513413,
+    43.469997
+],
+  "geometry": {"coordinates":[-116.513413,43.469997],"type":"Point"}
+}

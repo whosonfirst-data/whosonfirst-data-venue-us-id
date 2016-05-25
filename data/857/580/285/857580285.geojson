@@ -1,0 +1,75 @@
+{
+  "id": 857580285,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-116.23713,43.590644,-116.23713,43.590644",
+    "geom:latitude":43.590644,
+    "geom:longitude":-116.23713,
+    "iso:country":"US",
+    "sg:address":"4419 Marvin St",
+    "sg:city":"Boise",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 342 5821",
+    "sg:postcode":"83705",
+    "sg:province":"ID",
+    "sg:tags":[
+        "transmission",
+        "automotive"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        102191575,
+        85633793,
+        85937923,
+        102086087,
+        85876295
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_01NB3IJmTxEH2bhhAdl7zh_43.590644_-116.237130@1294099250"
+    },
+    "wof:country":"US",
+    "wof:created":1464203559,
+    "wof:geomhash":"c415e278cd6b162ce3a7ac26375285ad",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086087,
+            "locality_id":85937923,
+            "neighbourhood_id":85876295,
+            "region_id":85688657,
+            "venue_id":857580285
+        }
+    ],
+    "wof:id":857580285,
+    "wof:lastmodified":1464203559,
+    "wof:name":"Holland's Automotive",
+    "wof:parent_id":85876295,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "transmission",
+        "automotive"
+    ]
+},
+  "bbox": [
+    -116.23713,
+    43.590644,
+    -116.23713,
+    43.590644
+],
+  "geometry": {"coordinates":[-116.23712999999999,43.590644],"type":"Point"}
+}

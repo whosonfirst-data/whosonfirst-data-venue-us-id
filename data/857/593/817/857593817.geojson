@@ -1,0 +1,82 @@
+{
+  "id": 857593817,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-116.958431,46.380323,-116.958431,46.380323",
+    "geom:latitude":46.380323,
+    "geom:longitude":-116.958431,
+    "iso:country":"US",
+    "sg:address":"1419 Bryden Ave",
+    "sg:city":"Lewiston",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Garden Supply",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 746 1548",
+    "sg:postcode":"83501",
+    "sg:province":"ID",
+    "sg:tags":[
+        "sprinkler"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85937743,
+        102086039,
+        85837769,
+        102191575,
+        85830385
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0LdALP8rx1kExaW5sTp0UE_46.380323_-116.958431@1294099250"
+    },
+    "wof:country":"US",
+    "wof:created":1464203846,
+    "wof:geomhash":"56c29f2de41731660ab1962e1002ca5c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086039,
+            "locality_id":85937743,
+            "neighbourhood_id":85837769,
+            "region_id":85688657,
+            "venue_id":857593817
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086039,
+            "locality_id":85937743,
+            "neighbourhood_id":85830385,
+            "region_id":85688657,
+            "venue_id":857593817
+        }
+    ],
+    "wof:id":857593817,
+    "wof:lastmodified":1464203846,
+    "wof:name":"Valley Green Sprinklers",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "sprinkler"
+    ]
+},
+  "bbox": [
+    -116.958431,
+    46.380323,
+    -116.958431,
+    46.380323
+],
+  "geometry": {"coordinates":[-116.958431,46.380323],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 857628165,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-116.392897,43.599064,-116.392897,43.599064",
+    "geom:latitude":43.599064,
+    "geom:longitude":-116.392897,
+    "iso:country":"US",
+    "sg:address":"601 S Main St",
+    "sg:city":"Meridian",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/id/boise-city/225037-masons/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 884 3737",
+    "sg:postcode":"83642",
+    "sg:province":"ID",
+    "sg:tags":[
+        "new",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85937915,
+        102086087,
+        85805083
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3abwPfMsTr0UN02xB02fWE_43.599064_-116.392897@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464204627,
+    "wof:geomhash":"ce6cdc0978def71a8f76e57bfcda5966",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086087,
+            "locality_id":85937915,
+            "neighbourhood_id":85805083,
+            "region_id":85688657,
+            "venue_id":857628165
+        }
+    ],
+    "wof:id":857628165,
+    "wof:lastmodified":1464204627,
+    "wof:name":"Mason's",
+    "wof:parent_id":85805083,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "new",
+        "american"
+    ]
+},
+  "bbox": [
+    -116.392897,
+    43.599064,
+    -116.392897,
+    43.599064
+],
+  "geometry": {"coordinates":[-116.392897,43.599064],"type":"Point"}
+}

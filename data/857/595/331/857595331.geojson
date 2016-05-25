@@ -1,0 +1,71 @@
+{
+  "id": 857595331,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-116.918375,47.398751,-116.918375,47.398751",
+    "geom:latitude":47.398751,
+    "geom:longitude":-116.918375,
+    "iso:country":"US",
+    "sg:address":"9721 W H St",
+    "sg:city":"Worley",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 686 2410",
+    "sg:postcode":"83876",
+    "sg:province":"ID",
+    "sg:tags":[
+        "concrete",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85821457,
+        102086085
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_46RfX1PNnvuAkHAWAyIIAY_47.398751_-116.918375@1294099250"
+    },
+    "wof:country":"US",
+    "wof:created":1464203879,
+    "wof:geomhash":"a02c2b74cb302bd338c3bcc90e8510b3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086085,
+            "neighbourhood_id":85821457,
+            "region_id":85688657,
+            "venue_id":857595331
+        }
+    ],
+    "wof:id":857595331,
+    "wof:lastmodified":1464203879,
+    "wof:name":"T & R Concrete",
+    "wof:parent_id":85821457,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "concrete",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -116.918375,
+    47.398751,
+    -116.918375,
+    47.398751
+],
+  "geometry": {"coordinates":[-116.918375,47.398751],"type":"Point"}
+}

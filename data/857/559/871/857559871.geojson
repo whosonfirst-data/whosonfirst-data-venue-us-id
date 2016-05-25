@@ -1,0 +1,73 @@
+{
+  "id": 857559871,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-116.98912,47.716124,-116.98912,47.716124",
+    "geom:latitude":47.716124,
+    "geom:longitude":-116.98912,
+    "iso:country":"US",
+    "sg:address":"3002 W Seltice Way",
+    "sg:city":"Post Falls",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 773 7722",
+    "sg:postcode":"83854",
+    "sg:province":"ID",
+    "sg:tags":[
+        "wrecker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        102191575,
+        85633793,
+        85938145,
+        102086085,
+        85833263
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7W0slKkUG7lC1CErYG7NRj_47.716124_-116.989120@1294099250"
+    },
+    "wof:country":"US",
+    "wof:created":1464203147,
+    "wof:geomhash":"1d03789db544953b40bd908a8363f6ed",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086085,
+            "locality_id":85938145,
+            "neighbourhood_id":85833263,
+            "region_id":85688657,
+            "venue_id":857559871
+        }
+    ],
+    "wof:id":857559871,
+    "wof:lastmodified":1464203147,
+    "wof:name":"Westside Towing & Auto Body",
+    "wof:parent_id":85833263,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "wrecker"
+    ]
+},
+  "bbox": [
+    -116.98912,
+    47.716124,
+    -116.98912,
+    47.716124
+],
+  "geometry": {"coordinates":[-116.98912,47.716124],"type":"Point"}
+}

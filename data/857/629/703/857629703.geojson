@@ -1,0 +1,73 @@
+{
+  "id": 857629703,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-116.269569,43.590474,-116.269569,43.590474",
+    "geom:latitude":43.590474,
+    "geom:longitude":-116.269569,
+    "iso:country":"US",
+    "sg:address":"7070 W Overland Rd",
+    "sg:city":"Boise",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/id/boise-city/196135-taco-bell/menu/",
+    "sg:owner":"simplegeo",
+    "sg:postcode":"83709",
+    "sg:province":"ID",
+    "sg:tags":[
+        "mexican"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        102191575,
+        85633793,
+        85937923,
+        102086087,
+        85876293
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7AxHaUvD6pPJoATrWE7CRA_43.590474_-116.269569@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464204655,
+    "wof:geomhash":"8d1d8b7555299e7e83463c9dca2c97f7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086087,
+            "locality_id":85937923,
+            "neighbourhood_id":85876293,
+            "region_id":85688657,
+            "venue_id":857629703
+        }
+    ],
+    "wof:id":857629703,
+    "wof:lastmodified":1464204655,
+    "wof:name":"Taco Bell",
+    "wof:parent_id":85876293,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mexican"
+    ]
+},
+  "bbox": [
+    -116.269569,
+    43.590474,
+    -116.269569,
+    43.590474
+],
+  "geometry": {"coordinates":[-116.269569,43.590474],"type":"Point"}
+}

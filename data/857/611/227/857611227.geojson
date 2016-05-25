@@ -1,0 +1,71 @@
+{
+  "id": 857611227,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-116.321543,43.610702,-116.321543,43.610702",
+    "geom:latitude":43.610702,
+    "geom:longitude":-116.321543,
+    "iso:country":"US",
+    "sg:address":"605 Meadowland Dr",
+    "sg:city":"Boise",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Metals",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 377 1157",
+    "sg:postcode":"83713",
+    "sg:province":"ID",
+    "sg:tags":[
+        "spring"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85937915,
+        102086087,
+        85805083
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2f6JQXCrVymEp27e1S4MCa_43.610702_-116.321543@1294099250"
+    },
+    "wof:country":"US",
+    "wof:created":1464204235,
+    "wof:geomhash":"128231ea97ac5cd0d02325e786661a8c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086087,
+            "locality_id":85937915,
+            "neighbourhood_id":85805083,
+            "region_id":85688657,
+            "venue_id":857611227
+        }
+    ],
+    "wof:id":857611227,
+    "wof:lastmodified":1464204235,
+    "wof:name":"Boise Spring Works",
+    "wof:parent_id":85805083,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "spring"
+    ]
+},
+  "bbox": [
+    -116.321543,
+    43.610702,
+    -116.321543,
+    43.610702
+],
+  "geometry": {"coordinates":[-116.32154300000001,43.610702],"type":"Point"}
+}

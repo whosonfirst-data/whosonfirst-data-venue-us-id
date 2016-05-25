@@ -1,0 +1,75 @@
+{
+  "id": 857615843,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-116.253685,43.586742,-116.253685,43.586742",
+    "geom:latitude":43.586742,
+    "geom:longitude":-116.253685,
+    "iso:country":"US",
+    "sg:address":"1625 S Curtis Rd",
+    "sg:city":"Boise",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Groceries",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 375 6960",
+    "sg:postcode":"83705",
+    "sg:province":"ID",
+    "sg:tags":[
+        "tea",
+        "coffee"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        102191575,
+        85633793,
+        85937923,
+        102086087,
+        85825393
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5FCT1GSQQrudRZkMdY9qR3_43.586742_-116.253685@1294099250"
+    },
+    "wof:country":"US",
+    "wof:created":1464204337,
+    "wof:geomhash":"b579e433bd02b09fc49c3fce8c142aba",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086087,
+            "locality_id":85937923,
+            "neighbourhood_id":85825393,
+            "region_id":85688657,
+            "venue_id":857615843
+        }
+    ],
+    "wof:id":857615843,
+    "wof:lastmodified":1464204337,
+    "wof:name":"Farmer Brothers Coffee",
+    "wof:parent_id":85825393,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "tea",
+        "coffee"
+    ]
+},
+  "bbox": [
+    -116.253685,
+    43.586742,
+    -116.253685,
+    43.586742
+],
+  "geometry": {"coordinates":[-116.253685,43.586742],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 857534461,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-116.39174,43.607911,-116.39174,43.607911",
+    "geom:latitude":43.607911,
+    "geom:longitude":-116.39174,
+    "iso:country":"US",
+    "sg:address":"11 E Bower Ave",
+    "sg:city":"Meridian",
+    "sg:classifiers":[
+        {
+            "category":"Recreation",
+            "subcategory":"",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 888 3579",
+    "sg:postcode":"83642",
+    "sg:province":"ID",
+    "sg:tags":[
+        "parks"
+    ],
+    "sg:website":"www.meridiancity.org",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85937915,
+        102086087,
+        85805083
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1n9p4d4Izl1feBqtDihTZx_43.607911_-116.391740@1294099250"
+    },
+    "wof:country":"US",
+    "wof:created":1464202629,
+    "wof:geomhash":"16729987c0e57c0f7a8349ce0b26b356",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086087,
+            "locality_id":85937915,
+            "neighbourhood_id":85805083,
+            "region_id":85688657,
+            "venue_id":857534461
+        }
+    ],
+    "wof:id":857534461,
+    "wof:lastmodified":1464202629,
+    "wof:name":"Meridian City Parks & Rec",
+    "wof:parent_id":85805083,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "parks"
+    ]
+},
+  "bbox": [
+    -116.39174,
+    43.607911,
+    -116.39174,
+    43.607911
+],
+  "geometry": {"coordinates":[-116.39174,43.607911],"type":"Point"}
+}

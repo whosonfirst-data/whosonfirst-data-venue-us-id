@@ -1,0 +1,71 @@
+{
+  "id": 857505335,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-116.066725,47.515483,-116.066725,47.515483",
+    "geom:latitude":47.515483,
+    "geom:longitude":-116.066725,
+    "iso:country":"US",
+    "sg:address":"173 Sunshine Rd",
+    "sg:city":"Kellogg",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 783 2446",
+    "sg:postcode":"83837",
+    "sg:province":"ID",
+    "sg:tags":[
+        "house"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85937825,
+        102086103,
+        85849049
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1Hmlo1QGiOdQHpZdOeCFjs_47.515483_-116.066725@1294099250"
+    },
+    "wof:country":"US",
+    "wof:created":1464202044,
+    "wof:geomhash":"d7c9eaa6364ca77963376d829216621e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086103,
+            "locality_id":85937825,
+            "neighbourhood_id":85849049,
+            "region_id":85688657,
+            "venue_id":857505335
+        }
+    ],
+    "wof:id":857505335,
+    "wof:lastmodified":1464202044,
+    "wof:name":"North State Construction",
+    "wof:parent_id":85849049,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "house"
+    ]
+},
+  "bbox": [
+    -116.066725,
+    47.515483,
+    -116.066725,
+    47.515483
+],
+  "geometry": {"coordinates":[-116.06672500000001,47.515483],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 857549199,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-116.895765,47.713072,-116.895765,47.713072",
+    "geom:latitude":47.713072,
+    "geom:longitude":-116.895765,
+    "iso:country":"US",
+    "sg:address":"3874 E Primrose Ln",
+    "sg:city":"Post Falls",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Water",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 773 1120",
+    "sg:postcode":"83854",
+    "sg:province":"ID",
+    "sg:tags":[
+        "company",
+        "sewage"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        102191575,
+        85633793,
+        85938145,
+        102086085,
+        85833263
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3S9cfvzNvz88ZFucuxZi9O_47.713072_-116.895765@1294099250"
+    },
+    "wof:country":"US",
+    "wof:created":1464202915,
+    "wof:geomhash":"ee1ad9b5513a605bcb35c2f2fbbbf47e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086085,
+            "locality_id":85938145,
+            "neighbourhood_id":85833263,
+            "region_id":85688657,
+            "venue_id":857549199
+        }
+    ],
+    "wof:id":857549199,
+    "wof:lastmodified":1464202915,
+    "wof:name":"Ross Point Water District",
+    "wof:parent_id":85833263,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "company",
+        "sewage"
+    ]
+},
+  "bbox": [
+    -116.895765,
+    47.713072,
+    -116.895765,
+    47.713072
+],
+  "geometry": {"coordinates":[-116.895765,47.713072],"type":"Point"}
+}

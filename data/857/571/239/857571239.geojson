@@ -1,0 +1,71 @@
+{
+  "id": 857571239,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-116.572605,43.546098,-116.572605,43.546098",
+    "geom:latitude":43.546098,
+    "geom:longitude":-116.572605,
+    "iso:country":"US",
+    "sg:address":"2400 12th Ave Rd",
+    "sg:city":"Nampa",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 465 6597",
+    "sg:postcode":"83686",
+    "sg:province":"ID",
+    "sg:tags":[
+        "grocer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85938009,
+        102085081,
+        85827787
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6fSDKO2kmude81pyZs0K6g_43.546098_-116.572605@1294099250"
+    },
+    "wof:country":"US",
+    "wof:created":1464203375,
+    "wof:geomhash":"ad2b0355b3031800da929c1c71b60fa0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085081,
+            "locality_id":85938009,
+            "neighbourhood_id":85827787,
+            "region_id":85688657,
+            "venue_id":857571239
+        }
+    ],
+    "wof:id":857571239,
+    "wof:lastmodified":1464203375,
+    "wof:name":"Albertsons",
+    "wof:parent_id":85827787,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "grocer"
+    ]
+},
+  "bbox": [
+    -116.572605,
+    43.546098,
+    -116.572605,
+    43.546098
+],
+  "geometry": {"coordinates":[-116.572605,43.546098],"type":"Point"}
+}

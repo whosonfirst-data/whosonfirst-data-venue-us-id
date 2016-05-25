@@ -1,0 +1,75 @@
+{
+  "id": 857542071,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-117.007804,47.705345,-117.007804,47.705345",
+    "geom:latitude":47.705345,
+    "geom:longitude":-117.007804,
+    "iso:country":"US",
+    "sg:address":"4242 W Riverbend Ave",
+    "sg:city":"Post Falls",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Specialty",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 777 3022",
+    "sg:postcode":"83854",
+    "sg:province":"ID",
+    "sg:tags":[
+        "health",
+        "diet"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        102191575,
+        85633793,
+        85938145,
+        102086085,
+        85833263
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2zJGfLPUkluhyez2SUsr3P_47.705345_-117.007804@1294099250"
+    },
+    "wof:country":"US",
+    "wof:created":1464202776,
+    "wof:geomhash":"878d19b70af6f264dfe9a54ac6aa69b7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086085,
+            "locality_id":85938145,
+            "neighbourhood_id":85833263,
+            "region_id":85688657,
+            "venue_id":857542071
+        }
+    ],
+    "wof:id":857542071,
+    "wof:lastmodified":1464202776,
+    "wof:name":"GNC",
+    "wof:parent_id":85833263,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "health",
+        "diet"
+    ]
+},
+  "bbox": [
+    -117.007804,
+    47.705345,
+    -117.007804,
+    47.705345
+],
+  "geometry": {"coordinates":[-117.00780399999999,47.705345],"type":"Point"}
+}

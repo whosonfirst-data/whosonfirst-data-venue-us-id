@@ -1,0 +1,76 @@
+{
+  "id": 857630373,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-116.92616,47.710594,-116.92616,47.710594",
+    "geom:latitude":47.710594,
+    "geom:longitude":-116.92616,
+    "iso:country":"US",
+    "sg:address":"1500 E Seltice Way",
+    "sg:city":"Post Falls",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/id/post-falls-rathdrum/96162-taco-johns/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 777 8200",
+    "sg:postcode":"83854",
+    "sg:province":"ID",
+    "sg:tags":[
+        "american",
+        "mexican"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        102191575,
+        85633793,
+        85938145,
+        102086085,
+        85833263
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6l92MuZzyg4h5WaoN4XMmr_47.710594_-116.926160@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464204673,
+    "wof:geomhash":"543ff329670c5dc276e815998770ad01",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086085,
+            "locality_id":85938145,
+            "neighbourhood_id":85833263,
+            "region_id":85688657,
+            "venue_id":857630373
+        }
+    ],
+    "wof:id":857630373,
+    "wof:lastmodified":1464204673,
+    "wof:name":"Taco John's",
+    "wof:parent_id":85833263,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "mexican"
+    ]
+},
+  "bbox": [
+    -116.92616,
+    47.710594,
+    -116.92616,
+    47.710594
+],
+  "geometry": {"coordinates":[-116.92616,47.710594],"type":"Point"}
+}

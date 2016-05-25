@@ -1,0 +1,70 @@
+{
+  "id": 857575455,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-116.779709,47.672682,-116.779709,47.672682",
+    "geom:latitude":47.672682,
+    "geom:longitude":-116.779709,
+    "iso:country":"US",
+    "sg:address":"505 E Front Ave",
+    "sg:city":"Coeur D Alene",
+    "sg:classifiers":[
+        {
+            "category":"Communications",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 769 7000",
+    "sg:postcode":"83814",
+    "sg:province":"ID",
+    "sg:tags":[
+        "carrier"
+    ],
+    "sg:website":"www.fastsync.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85821457,
+        102086085
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_69A1jdb4bmfrImwDSuxFdB_47.672682_-116.779709@1294099250"
+    },
+    "wof:country":"US",
+    "wof:created":1464203460,
+    "wof:geomhash":"eea2fb5c19b927474510f26a1c3adaad",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086085,
+            "neighbourhood_id":85821457,
+            "region_id":85688657,
+            "venue_id":857575455
+        }
+    ],
+    "wof:id":857575455,
+    "wof:lastmodified":1464203460,
+    "wof:name":"CTI Communications",
+    "wof:parent_id":85821457,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "carrier"
+    ]
+},
+  "bbox": [
+    -116.779709,
+    47.672682,
+    -116.779709,
+    47.672682
+],
+  "geometry": {"coordinates":[-116.779709,47.672682],"type":"Point"}
+}

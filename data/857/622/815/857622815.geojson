@@ -1,0 +1,72 @@
+{
+  "id": 857622815,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-117.022992,46.409144,-117.022992,46.409144",
+    "geom:latitude":46.409144,
+    "geom:longitude":-117.022992,
+    "iso:country":"US",
+    "sg:address":"1122 7th St",
+    "sg:city":"Lewiston",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Developer",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 746 6857",
+    "sg:postcode":"83501",
+    "sg:province":"ID",
+    "sg:tags":[
+        "cemetery"
+    ],
+    "sg:website":"http://www.lctoday.net/CEMETERY/DEFAULT.HTM",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85937743,
+        102086039,
+        85852537
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0R2i4JN82y9N2FluAu2TV0_46.409145_-117.023066@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1464204504,
+    "wof:geomhash":"d4d3fc7397d2c0c3bc7e3948fd10cf68",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086039,
+            "locality_id":85937743,
+            "neighbourhood_id":85852537,
+            "region_id":85688657,
+            "venue_id":857622815
+        }
+    ],
+    "wof:id":857622815,
+    "wof:lastmodified":1464204504,
+    "wof:name":"Normal Hill Cemetery",
+    "wof:parent_id":85852537,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cemetery"
+    ]
+},
+  "bbox": [
+    -117.022992,
+    46.409144,
+    -117.022992,
+    46.409144
+],
+  "geometry": {"coordinates":[-117.022992,46.409144],"type":"Point"}
+}

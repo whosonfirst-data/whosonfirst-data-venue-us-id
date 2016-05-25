@@ -1,0 +1,70 @@
+{
+  "id": 857574383,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-116.704109,47.947861,-116.704109,47.947861",
+    "geom:latitude":47.947861,
+    "geom:longitude":-116.704109,
+    "iso:country":"US",
+    "sg:address":"5985 State Hwy 54",
+    "sg:city":"Athol",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Fire Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 683 3100",
+    "sg:postcode":"83801",
+    "sg:province":"ID",
+    "sg:tags":[
+        "department"
+    ],
+    "sg:website":"www.timberlakefire.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85821457,
+        102086085
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5tCyGPMR4Y9HRm2Q9wRItd_47.947861_-116.704109@1294099250"
+    },
+    "wof:country":"US",
+    "wof:created":1464203440,
+    "wof:geomhash":"f25fdaedeb81499953a7f3087290be7f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086085,
+            "neighbourhood_id":85821457,
+            "region_id":85688657,
+            "venue_id":857574383
+        }
+    ],
+    "wof:id":857574383,
+    "wof:lastmodified":1464203440,
+    "wof:name":"Timberlake Fire Protction Dist",
+    "wof:parent_id":85821457,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "department"
+    ]
+},
+  "bbox": [
+    -116.704109,
+    47.947861,
+    -116.704109,
+    47.947861
+],
+  "geometry": {"coordinates":[-116.704109,47.947861],"type":"Point"}
+}

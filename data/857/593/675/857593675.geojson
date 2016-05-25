@@ -1,0 +1,74 @@
+{
+  "id": 857593675,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-116.794379,47.758962,-116.794379,47.758962",
+    "geom:latitude":47.758962,
+    "geom:longitude":-116.794379,
+    "iso:country":"US",
+    "sg:address":"582 W Hayden Ave",
+    "sg:city":"Hayden Lake",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 772 4004",
+    "sg:postcode":"83835",
+    "sg:province":"ID",
+    "sg:tags":[
+        "water",
+        "well",
+        "drilling"
+    ],
+    "sg:website":"www.h2owell.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85821457,
+        102086085
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4WX7vdOnj3W4EKxyQfb5Yy_47.758962_-116.794379@1294099250"
+    },
+    "wof:country":"US",
+    "wof:created":1464203842,
+    "wof:geomhash":"a5a6b04c01746c81f1dc6189998fa1de",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086085,
+            "neighbourhood_id":85821457,
+            "region_id":85688657,
+            "venue_id":857593675
+        }
+    ],
+    "wof:id":857593675,
+    "wof:lastmodified":1464203842,
+    "wof:name":"H2o Well Svc",
+    "wof:parent_id":85821457,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "water",
+        "well",
+        "drilling"
+    ]
+},
+  "bbox": [
+    -116.794379,
+    47.758962,
+    -116.794379,
+    47.758962
+],
+  "geometry": {"coordinates":[-116.79437900000001,47.758962],"type":"Point"}
+}

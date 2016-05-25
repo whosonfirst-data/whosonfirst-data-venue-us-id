@@ -1,0 +1,71 @@
+{
+  "id": 857610737,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-116.570102,43.584266,-116.570102,43.584266",
+    "geom:latitude":43.584266,
+    "geom:longitude":-116.570102,
+    "iso:country":"US",
+    "sg:address":"321 2nd St S",
+    "sg:city":"Nampa",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Clinic",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 468 9504",
+    "sg:postcode":"83651",
+    "sg:province":"ID",
+    "sg:tags":[
+        "home"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85938009,
+        102085081,
+        85827787
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4w7NTDh8wgDv8sb5CP2J1K_43.584266_-116.570102@1294099250"
+    },
+    "wof:country":"US",
+    "wof:created":1464204222,
+    "wof:geomhash":"f379afd23a995c2ad5f5361b2475ff8b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085081,
+            "locality_id":85938009,
+            "neighbourhood_id":85827787,
+            "region_id":85688657,
+            "venue_id":857610737
+        }
+    ],
+    "wof:id":857610737,
+    "wof:lastmodified":1464204222,
+    "wof:name":"Above & Beyond Home Health",
+    "wof:parent_id":85827787,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "home"
+    ]
+},
+  "bbox": [
+    -116.570102,
+    43.584266,
+    -116.570102,
+    43.584266
+],
+  "geometry": {"coordinates":[-116.57010200000001,43.584266],"type":"Point"}
+}

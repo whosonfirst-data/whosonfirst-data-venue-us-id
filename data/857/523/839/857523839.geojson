@@ -1,0 +1,70 @@
+{
+  "id": 857523839,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-116.204605,43.570044,-116.204605,43.570044",
+    "geom:latitude":43.570044,
+    "geom:longitude":-116.204605,
+    "iso:country":"US",
+    "sg:address":"1901 Sunrise Rim Rd",
+    "sg:city":"Boise",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 342 0581",
+    "sg:postcode":"83705",
+    "sg:province":"ID",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        102527733,
+        85876337,
+        102191575,
+        85633793,
+        85937923,
+        102086087,
+        85688657
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5QCZTDJUoocBJErMJCdfOO_43.570044_-116.204605@1294099250"
+    },
+    "wof:country":"US",
+    "wof:created":1464202427,
+    "wof:geomhash":"e778ca99ddc8cad54c968afbd81ca9fd",
+    "wof:hierarchy":[
+        {
+            "campus_id":102527733,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086087,
+            "locality_id":85937923,
+            "neighbourhood_id":85876337,
+            "region_id":85688657,
+            "venue_id":857523839
+        }
+    ],
+    "wof:id":857523839,
+    "wof:lastmodified":1464202427,
+    "wof:name":"Boise Speaker Repair",
+    "wof:parent_id":102527733,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -116.204605,
+    43.570044,
+    -116.204605,
+    43.570044
+],
+  "geometry": {"coordinates":[-116.204605,43.570044],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 857526475,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-116.698587,47.801275,-116.698587,47.801275",
+    "geom:latitude":47.801275,
+    "geom:longitude":-116.698587,
+    "iso:country":"US",
+    "sg:address":"14979 N Shenandoah Dr",
+    "sg:city":"Hayden",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Agent",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 762 7715",
+    "sg:postcode":"83835",
+    "sg:province":"ID",
+    "sg:tags":[
+        "rental",
+        "vacation"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85821457,
+        102086085
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6Wbn6rOMHdZxGNiVNriz1F_47.801275_-116.698587@1294099250"
+    },
+    "wof:country":"US",
+    "wof:created":1464202477,
+    "wof:geomhash":"0568e0952fc833f6027983329d3fb65b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086085,
+            "neighbourhood_id":85821457,
+            "region_id":85688657,
+            "venue_id":857526475
+        }
+    ],
+    "wof:id":857526475,
+    "wof:lastmodified":1464202477,
+    "wof:name":"Hayden Hideaway",
+    "wof:parent_id":85821457,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "rental",
+        "vacation"
+    ]
+},
+  "bbox": [
+    -116.698587,
+    47.801275,
+    -116.698587,
+    47.801275
+],
+  "geometry": {"coordinates":[-116.698587,47.801275],"type":"Point"}
+}

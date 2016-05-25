@@ -1,0 +1,74 @@
+{
+  "id": 857546853,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-116.997207,46.415515,-116.997207,46.415515",
+    "geom:latitude":46.415515,
+    "geom:longitude":-116.997207,
+    "iso:country":"US",
+    "sg:address":"2335 Main St",
+    "sg:city":"Lewiston",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 743 8285",
+    "sg:postcode":"83501",
+    "sg:province":"ID",
+    "sg:tags":[
+        "organization",
+        "welfare"
+    ],
+    "sg:website":"www.giin.org",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85937743,
+        102086039,
+        85837769
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3b9G1gL3uOGDQawgGp6m9Q_46.415515_-116.997207@1294099250"
+    },
+    "wof:country":"US",
+    "wof:created":1464202871,
+    "wof:geomhash":"00a4d75428ee14674814fece612c6451",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086039,
+            "locality_id":85937743,
+            "neighbourhood_id":85837769,
+            "region_id":85688657,
+            "venue_id":857546853
+        }
+    ],
+    "wof:id":857546853,
+    "wof:lastmodified":1464202871,
+    "wof:name":"Goodwill Industries",
+    "wof:parent_id":85837769,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "organization",
+        "welfare"
+    ]
+},
+  "bbox": [
+    -116.997207,
+    46.415515,
+    -116.997207,
+    46.415515
+],
+  "geometry": {"coordinates":[-116.997207,46.415515],"type":"Point"}
+}

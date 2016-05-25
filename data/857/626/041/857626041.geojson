@@ -1,0 +1,82 @@
+{
+  "id": 857626041,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-116.989876,46.379527,-116.989876,46.379527",
+    "geom:latitude":46.379527,
+    "geom:longitude":-116.989876,
+    "iso:country":"US",
+    "sg:address":"812 Bryden Dr",
+    "sg:city":"Lewiston",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Landscaping Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 746 7467",
+    "sg:postcode":"83501",
+    "sg:province":"ID",
+    "sg:tags":[
+        "tree"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85937743,
+        102086039,
+        85837769,
+        102191575,
+        85830385
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_62oCeoYh8whF6ArAQPP7zp_46.379597_-116.989308@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1464204583,
+    "wof:geomhash":"e23484d0fb00b1858028fa4c3aaadaff",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086039,
+            "locality_id":85937743,
+            "neighbourhood_id":85837769,
+            "region_id":85688657,
+            "venue_id":857626041
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086039,
+            "locality_id":85937743,
+            "neighbourhood_id":85830385,
+            "region_id":85688657,
+            "venue_id":857626041
+        }
+    ],
+    "wof:id":857626041,
+    "wof:lastmodified":1464204583,
+    "wof:name":"Lewiston Shrub",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "tree"
+    ]
+},
+  "bbox": [
+    -116.989876,
+    46.379527,
+    -116.989876,
+    46.379527
+],
+  "geometry": {"coordinates":[-116.989876,46.379527],"type":"Point"}
+}

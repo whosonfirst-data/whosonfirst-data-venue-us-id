@@ -1,0 +1,71 @@
+{
+  "id": 857546501,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-116.845779,47.704184,-116.845779,47.704184",
+    "geom:latitude":47.704184,
+    "geom:longitude":-116.845779,
+    "iso:country":"US",
+    "sg:address":"4490 W Seltice Way",
+    "sg:city":"Coeur D Alene",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 765 0823",
+    "sg:postcode":"83814",
+    "sg:province":"ID",
+    "sg:tags":[
+        "commercial",
+        "storage"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85821457,
+        102086085
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3usslDyPOtMS27Wmt5lRiv_47.704184_-116.845779@1294099250"
+    },
+    "wof:country":"US",
+    "wof:created":1464202865,
+    "wof:geomhash":"d360b0bc765792731ff81801d557b003",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086085,
+            "neighbourhood_id":85821457,
+            "region_id":85688657,
+            "venue_id":857546501
+        }
+    ],
+    "wof:id":857546501,
+    "wof:lastmodified":1464202865,
+    "wof:name":"A & L Storage",
+    "wof:parent_id":85821457,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "commercial",
+        "storage"
+    ]
+},
+  "bbox": [
+    -116.845779,
+    47.704184,
+    -116.845779,
+    47.704184
+],
+  "geometry": {"coordinates":[-116.84577899999999,47.704184],"type":"Point"}
+}

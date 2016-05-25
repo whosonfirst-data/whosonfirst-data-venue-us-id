@@ -1,0 +1,81 @@
+{
+  "id": 857542951,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-116.827829,47.701489,-116.827829,47.701489",
+    "geom:latitude":47.701489,
+    "geom:longitude":-116.827829,
+    "iso:country":"US",
+    "sg:address":"3370 N Atlas Rd",
+    "sg:city":"Coeur D Alene",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 765 7672",
+    "sg:postcode":"83814",
+    "sg:province":"ID",
+    "sg:tags":[
+        "wrecker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85821457,
+        102086085,
+        102191575,
+        85938163,
+        85806325
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0qLwh2k0ho6AvjnlXQeLnJ_47.701489_-116.827829@1294099250"
+    },
+    "wof:country":"US",
+    "wof:created":1464202800,
+    "wof:geomhash":"8dd67b88b8c1231ee94f147410f626a0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086085,
+            "neighbourhood_id":85821457,
+            "region_id":85688657,
+            "venue_id":857542951
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086085,
+            "locality_id":85938163,
+            "neighbourhood_id":85806325,
+            "region_id":85688657,
+            "venue_id":857542951
+        }
+    ],
+    "wof:id":857542951,
+    "wof:lastmodified":1464202800,
+    "wof:name":"Rainbow Towing",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "wrecker"
+    ]
+},
+  "bbox": [
+    -116.827829,
+    47.701489,
+    -116.827829,
+    47.701489
+],
+  "geometry": {"coordinates":[-116.82782899999999,47.701489],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 857560639,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-116.329067,43.61123,-116.329067,43.61123",
+    "geom:latitude":43.61123,
+    "geom:longitude":-116.329067,
+    "iso:country":"US",
+    "sg:address":"11345 President Dr",
+    "sg:city":"Boise",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Metals",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 376 7777",
+    "sg:postcode":"83713",
+    "sg:province":"ID",
+    "sg:tags":[
+        "ornamental",
+        "work"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85937915,
+        102086087,
+        85805083
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6kZzdPKD37legm9i5aOMNR_43.611230_-116.329067@1294099250"
+    },
+    "wof:country":"US",
+    "wof:created":1464203173,
+    "wof:geomhash":"22ddc084a7fde1c24cc4c2b2df5c344f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086087,
+            "locality_id":85937915,
+            "neighbourhood_id":85805083,
+            "region_id":85688657,
+            "venue_id":857560639
+        }
+    ],
+    "wof:id":857560639,
+    "wof:lastmodified":1464203173,
+    "wof:name":"Boise Metal Works",
+    "wof:parent_id":85805083,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "ornamental",
+        "work"
+    ]
+},
+  "bbox": [
+    -116.329067,
+    43.61123,
+    -116.329067,
+    43.61123
+],
+  "geometry": {"coordinates":[-116.32906699999999,43.61123],"type":"Point"}
+}

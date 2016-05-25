@@ -1,0 +1,73 @@
+{
+  "id": 857569289,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-116.405619,43.60412,-116.405619,43.60412",
+    "geom:latitude":43.60412,
+    "geom:longitude":-116.405619,
+    "iso:country":"US",
+    "sg:address":"948 W Crest Wood Dr",
+    "sg:city":"Meridian",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Musical Instruments",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 888 3465",
+    "sg:postcode":"83642",
+    "sg:province":"ID",
+    "sg:tags":[
+        "music",
+        "dealer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85937915,
+        102086087,
+        85805083
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2dx4vV1fGoN3UNC2Yfl5BQ_43.604120_-116.405619@1294099250"
+    },
+    "wof:country":"US",
+    "wof:created":1464203338,
+    "wof:geomhash":"c298161b549eebd1f8aac47b00c2707c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086087,
+            "locality_id":85937915,
+            "neighbourhood_id":85805083,
+            "region_id":85688657,
+            "venue_id":857569289
+        }
+    ],
+    "wof:id":857569289,
+    "wof:lastmodified":1464203338,
+    "wof:name":"Douglas Music Systems",
+    "wof:parent_id":85805083,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "music",
+        "dealer"
+    ]
+},
+  "bbox": [
+    -116.405619,
+    43.60412,
+    -116.405619,
+    43.60412
+],
+  "geometry": {"coordinates":[-116.405619,43.60412],"type":"Point"}
+}

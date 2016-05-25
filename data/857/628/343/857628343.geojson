@@ -1,0 +1,76 @@
+{
+  "id": 857628343,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-116.354536,43.614824,-116.354536,43.614824",
+    "geom:latitude":43.614824,
+    "geom:longitude":-116.354536,
+    "iso:country":"US",
+    "sg:address":"1140 N Eagle Rd",
+    "sg:city":"Meridian",
+    "sg:classifiers":[
+        {
+            "category":"Bars & Pubs",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/id/boise-city/225069-goodwood-barbeque/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 884 1021",
+    "sg:postcode":"83642",
+    "sg:province":"ID",
+    "sg:tags":[
+        "barbecue",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        102191575,
+        85633793,
+        85937915,
+        102086087,
+        85811491
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1l3dLyHDE6rHToc62InOem_43.614824_-116.354536@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464204630,
+    "wof:geomhash":"ed940e53ba183945aeb0233614583995",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086087,
+            "locality_id":85937915,
+            "neighbourhood_id":85811491,
+            "region_id":85688657,
+            "venue_id":857628343
+        }
+    ],
+    "wof:id":857628343,
+    "wof:lastmodified":1464204630,
+    "wof:name":"Goodwood Barbeque",
+    "wof:parent_id":85811491,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "barbecue",
+        "american"
+    ]
+},
+  "bbox": [
+    -116.354536,
+    43.614824,
+    -116.354536,
+    43.614824
+],
+  "geometry": {"coordinates":[-116.354536,43.614824],"type":"Point"}
+}

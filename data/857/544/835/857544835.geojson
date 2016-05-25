@@ -1,0 +1,71 @@
+{
+  "id": 857544835,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-116.781098,47.673813,-116.781098,47.673813",
+    "geom:latitude":47.673813,
+    "geom:longitude":-116.781098,
+    "iso:country":"US",
+    "sg:address":"108 N 4th St",
+    "sg:city":"Coeur D Alene",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 665 1354",
+    "sg:postcode":"83814",
+    "sg:province":"ID",
+    "sg:tags":[
+        "shop",
+        "coffee"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85821457,
+        102086085
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0dW7AA1unXJObf4B5llMO4_47.673813_-116.781098@1294099250"
+    },
+    "wof:country":"US",
+    "wof:created":1464202837,
+    "wof:geomhash":"e3e10e660ab92f8f71e0f0605f66beb5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086085,
+            "neighbourhood_id":85821457,
+            "region_id":85688657,
+            "venue_id":857544835
+        }
+    ],
+    "wof:id":857544835,
+    "wof:lastmodified":1464202837,
+    "wof:name":"Coeur D'Alene City Perc",
+    "wof:parent_id":85821457,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop",
+        "coffee"
+    ]
+},
+  "bbox": [
+    -116.781098,
+    47.673813,
+    -116.781098,
+    47.673813
+],
+  "geometry": {"coordinates":[-116.781098,47.673813],"type":"Point"}
+}

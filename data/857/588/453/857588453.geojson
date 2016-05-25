@@ -1,0 +1,85 @@
+{
+  "id": 857588453,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-116.811316,47.724197,-116.811316,47.724197",
+    "geom:latitude":47.724197,
+    "geom:longitude":-116.811316,
+    "iso:country":"US",
+    "sg:address":"1663 W Tullis Dr",
+    "sg:city":"Coeur D Alene",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Construction Materials",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 664 2862",
+    "sg:postcode":"83815",
+    "sg:province":"ID",
+    "sg:tags":[
+        "garage",
+        "organizer",
+        "cabinet"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85821457,
+        102086085,
+        102191575,
+        85938163,
+        85806325
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6ZKBG2ggiNxgkF2UfDjdk9_47.724197_-116.811316@1294099250"
+    },
+    "wof:country":"US",
+    "wof:created":1464203730,
+    "wof:geomhash":"e134f69c0a3f978b92359a12a37886cd",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086085,
+            "neighbourhood_id":85821457,
+            "region_id":85688657,
+            "venue_id":857588453
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086085,
+            "locality_id":85938163,
+            "neighbourhood_id":85806325,
+            "region_id":85688657,
+            "venue_id":857588453
+        }
+    ],
+    "wof:id":857588453,
+    "wof:lastmodified":1464203730,
+    "wof:name":"Storage Overhead Systems",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "garage",
+        "organizer",
+        "cabinet"
+    ]
+},
+  "bbox": [
+    -116.811316,
+    47.724197,
+    -116.811316,
+    47.724197
+],
+  "geometry": {"coordinates":[-116.81131600000001,47.724197],"type":"Point"}
+}

@@ -1,0 +1,85 @@
+{
+  "id": 857512165,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-116.798517,47.696846,-116.798517,47.696846",
+    "geom:latitude":47.696846,
+    "geom:longitude":-116.798517,
+    "iso:country":"US",
+    "sg:address":"2201 Ironwood Pl",
+    "sg:city":"Coeur D Alene",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 765 6506",
+    "sg:postcode":"83814",
+    "sg:province":"ID",
+    "sg:tags":[
+        "federal",
+        "savings",
+        "institution"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85821457,
+        102086085,
+        102191575,
+        85938163,
+        85806325
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5W17PlIzPA5Vhg3EstHV9u_47.696846_-116.798517@1294099250"
+    },
+    "wof:country":"US",
+    "wof:created":1464202189,
+    "wof:geomhash":"6c1afa17ffc115fee56393aa2b58c998",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086085,
+            "neighbourhood_id":85821457,
+            "region_id":85688657,
+            "venue_id":857512165
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086085,
+            "locality_id":85938163,
+            "neighbourhood_id":85806325,
+            "region_id":85688657,
+            "venue_id":857512165
+        }
+    ],
+    "wof:id":857512165,
+    "wof:lastmodified":1464202189,
+    "wof:name":"Washington Mutual Bank",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "federal",
+        "savings",
+        "institution"
+    ]
+},
+  "bbox": [
+    -116.798517,
+    47.696846,
+    -116.798517,
+    47.696846
+],
+  "geometry": {"coordinates":[-116.798517,47.696846],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 857615251,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-116.384701,43.614744,-116.384701,43.614744",
+    "geom:latitude":43.614744,
+    "geom:longitude":-116.384701,
+    "iso:country":"US",
+    "sg:address":"510 E Washington Ave",
+    "sg:city":"Meridian",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 888 6319",
+    "sg:postcode":"83642",
+    "sg:province":"ID",
+    "sg:tags":[
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        102191575,
+        85633793,
+        85937915,
+        102086087,
+        85811491
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_551TpWsKHdbQcOIxGbhvVo_43.614744_-116.384701@1294099250"
+    },
+    "wof:country":"US",
+    "wof:created":1464204327,
+    "wof:geomhash":"bcbff270c67e7567f6b5a0c5f5b8cffb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086087,
+            "locality_id":85937915,
+            "neighbourhood_id":85811491,
+            "region_id":85688657,
+            "venue_id":857615251
+        }
+    ],
+    "wof:id":857615251,
+    "wof:lastmodified":1464204327,
+    "wof:name":"Washington Square Apartments",
+    "wof:parent_id":85811491,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "apartment"
+    ]
+},
+  "bbox": [
+    -116.384701,
+    43.614744,
+    -116.384701,
+    43.614744
+],
+  "geometry": {"coordinates":[-116.38470100000001,43.614744],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 857581489,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-116.558474,43.577988,-116.558474,43.577988",
+    "geom:latitude":43.577988,
+    "geom:longitude":-116.558474,
+    "iso:country":"US",
+    "sg:address":"1324 1st St S",
+    "sg:city":"Nampa",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Engineering",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 463 0333",
+    "sg:postcode":"83651",
+    "sg:province":"ID",
+    "sg:tags":[
+        "engineer"
+    ],
+    "sg:website":"www.leavittengineers.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85938009,
+        102085081,
+        85827787
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0cf5Y42wcRfC7ZOmk13o8r_43.577988_-116.558474@1294099250"
+    },
+    "wof:country":"US",
+    "wof:created":1464203579,
+    "wof:geomhash":"56aa9cf8a529c254ad66e2bd12de308f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085081,
+            "locality_id":85938009,
+            "neighbourhood_id":85827787,
+            "region_id":85688657,
+            "venue_id":857581489
+        }
+    ],
+    "wof:id":857581489,
+    "wof:lastmodified":1464203579,
+    "wof:name":"Leavitt & Assoc Engineers",
+    "wof:parent_id":85827787,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "engineer"
+    ]
+},
+  "bbox": [
+    -116.558474,
+    43.577988,
+    -116.558474,
+    43.577988
+],
+  "geometry": {"coordinates":[-116.558474,43.577988],"type":"Point"}
+}

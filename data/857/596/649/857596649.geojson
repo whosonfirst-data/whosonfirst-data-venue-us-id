@@ -1,0 +1,77 @@
+{
+  "id": 857596649,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-116.313657,43.619394,-116.313657,43.619394",
+    "geom:latitude":43.619394,
+    "geom:longitude":-116.313657,
+    "iso:country":"US",
+    "sg:address":"10477 Fairview Ave",
+    "sg:city":"Boise",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 377 2995",
+    "sg:postcode":"83704",
+    "sg:province":"ID",
+    "sg:tags":[
+        "automobile",
+        "testing",
+        "emission"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        102191575,
+        85633793,
+        85937915,
+        102086087,
+        85811491
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7DlyUXKBMVRW8fX69f4kmv_43.619394_-116.313657@1294099250"
+    },
+    "wof:country":"US",
+    "wof:created":1464203914,
+    "wof:geomhash":"ad4ce74a6ee1bf0bf1c985dac02b7949",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086087,
+            "locality_id":85937915,
+            "neighbourhood_id":85811491,
+            "region_id":85688657,
+            "venue_id":857596649
+        }
+    ],
+    "wof:id":857596649,
+    "wof:lastmodified":1464203914,
+    "wof:name":"A & J Emissions",
+    "wof:parent_id":85811491,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automobile",
+        "testing",
+        "emission"
+    ]
+},
+  "bbox": [
+    -116.313657,
+    43.619394,
+    -116.313657,
+    43.619394
+],
+  "geometry": {"coordinates":[-116.31365700000001,43.619394],"type":"Point"}
+}

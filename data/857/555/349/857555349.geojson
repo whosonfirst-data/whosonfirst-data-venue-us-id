@@ -1,0 +1,73 @@
+{
+  "id": 857555349,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-116.537209,43.552719,-116.537209,43.552719",
+    "geom:latitude":43.552719,
+    "geom:longitude":-116.537209,
+    "iso:country":"US",
+    "sg:address":"2712 E Iowa Ave",
+    "sg:city":"Nampa",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Cleaning & Sanitation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 461 6247",
+    "sg:postcode":"83686",
+    "sg:province":"ID",
+    "sg:tags":[
+        "sanitation",
+        "restroom"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85938009,
+        102085081,
+        85827787
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5jBwOzoBbFiqbIibeJCKtY_43.552719_-116.537209@1294099250"
+    },
+    "wof:country":"US",
+    "wof:created":1464203040,
+    "wof:geomhash":"6c010632348c3ae8d2a7b8d57bb761d6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085081,
+            "locality_id":85938009,
+            "neighbourhood_id":85827787,
+            "region_id":85688657,
+            "venue_id":857555349
+        }
+    ],
+    "wof:id":857555349,
+    "wof:lastmodified":1464203040,
+    "wof:name":"Aire-Master Of The Gem State",
+    "wof:parent_id":85827787,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "sanitation",
+        "restroom"
+    ]
+},
+  "bbox": [
+    -116.537209,
+    43.552719,
+    -116.537209,
+    43.552719
+],
+  "geometry": {"coordinates":[-116.537209,43.552719],"type":"Point"}
+}

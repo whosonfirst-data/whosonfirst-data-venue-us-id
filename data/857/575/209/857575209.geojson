@@ -1,0 +1,71 @@
+{
+  "id": 857575209,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-116.479217,43.510347,-116.479217,43.510347",
+    "geom:latitude":43.510347,
+    "geom:longitude":-116.479217,
+    "iso:country":"US",
+    "sg:address":"4288 Dye Ln",
+    "sg:city":"Kuna",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 466 1306",
+    "sg:postcode":"83634",
+    "sg:province":"ID",
+    "sg:tags":[
+        "refrigeration"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85938009,
+        102085081,
+        85827787
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_698ztMEKrx23O2vF8yObA3_43.510347_-116.479217@1294099250"
+    },
+    "wof:country":"US",
+    "wof:created":1464203454,
+    "wof:geomhash":"d92eecb8675f6a7b0aee669196c879f6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085081,
+            "locality_id":85938009,
+            "neighbourhood_id":85827787,
+            "region_id":85688657,
+            "venue_id":857575209
+        }
+    ],
+    "wof:id":857575209,
+    "wof:lastmodified":1464203454,
+    "wof:name":"Bb Refrigeration",
+    "wof:parent_id":85827787,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "refrigeration"
+    ]
+},
+  "bbox": [
+    -116.479217,
+    43.510347,
+    -116.479217,
+    43.510347
+],
+  "geometry": {"coordinates":[-116.47921700000001,43.510347],"type":"Point"}
+}

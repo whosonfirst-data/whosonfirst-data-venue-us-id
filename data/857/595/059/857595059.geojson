@@ -1,0 +1,73 @@
+{
+  "id": 857595059,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-116.331325,43.604932,-116.331325,43.604932",
+    "geom:latitude":43.604932,
+    "geom:longitude":-116.331325,
+    "iso:country":"US",
+    "sg:address":"12054 Franklin Rd",
+    "sg:city":"Boise",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 938 3507",
+    "sg:postcode":"83709",
+    "sg:province":"ID",
+    "sg:tags":[
+        "home",
+        "builder"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85937915,
+        102086087,
+        85805083
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_49ZjxrmbXLYAkKcnIry1Cd_43.604932_-116.331325@1294099250"
+    },
+    "wof:country":"US",
+    "wof:created":1464203874,
+    "wof:geomhash":"d133aaec29be286c441c518da0720eb3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086087,
+            "locality_id":85937915,
+            "neighbourhood_id":85805083,
+            "region_id":85688657,
+            "venue_id":857595059
+        }
+    ],
+    "wof:id":857595059,
+    "wof:lastmodified":1464203874,
+    "wof:name":"Aspen Homes",
+    "wof:parent_id":85805083,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "home",
+        "builder"
+    ]
+},
+  "bbox": [
+    -116.331325,
+    43.604932,
+    -116.331325,
+    43.604932
+],
+  "geometry": {"coordinates":[-116.33132500000001,43.604932],"type":"Point"}
+}

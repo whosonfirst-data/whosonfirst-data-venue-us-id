@@ -1,0 +1,76 @@
+{
+  "id": 857628203,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-116.391555,43.617678,-116.391555,43.617678",
+    "geom:latitude":43.617678,
+    "geom:longitude":-116.391555,
+    "iso:country":"US",
+    "sg:address":"1526 N Main St",
+    "sg:city":"Meridian",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/id/boise-city/81172-papa-johns-pizza/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 888 7272",
+    "sg:postcode":"83642",
+    "sg:province":"ID",
+    "sg:tags":[
+        "american",
+        "pizza"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        102191575,
+        85633793,
+        85937915,
+        102086087,
+        85811491
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_64zI5O0jh3Syfg1t1l6zgs_43.617678_-116.391555@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464204628,
+    "wof:geomhash":"ad3d76ac238b3610d04e9fc02b174072",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086087,
+            "locality_id":85937915,
+            "neighbourhood_id":85811491,
+            "region_id":85688657,
+            "venue_id":857628203
+        }
+    ],
+    "wof:id":857628203,
+    "wof:lastmodified":1464204628,
+    "wof:name":"Papa John's Pizza",
+    "wof:parent_id":85811491,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "pizza"
+    ]
+},
+  "bbox": [
+    -116.391555,
+    43.617678,
+    -116.391555,
+    43.617678
+],
+  "geometry": {"coordinates":[-116.391555,43.617678],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 857567665,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-116.366814,43.597051,-116.366814,43.597051",
+    "geom:latitude":43.597051,
+    "geom:longitude":-116.366814,
+    "iso:country":"US",
+    "sg:address":"2250 Cadillac Dr",
+    "sg:city":"Meridian",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 888 7086",
+    "sg:postcode":"83642",
+    "sg:province":"ID",
+    "sg:tags":[
+        "painting",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85937915,
+        102086087,
+        85805083
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6rhzzsD9iTsGeGLYB5HeOh_43.597051_-116.366814@1294099250"
+    },
+    "wof:country":"US",
+    "wof:created":1464203309,
+    "wof:geomhash":"77479fbe229daaf69e977df1948bd960",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086087,
+            "locality_id":85937915,
+            "neighbourhood_id":85805083,
+            "region_id":85688657,
+            "venue_id":857567665
+        }
+    ],
+    "wof:id":857567665,
+    "wof:lastmodified":1464203309,
+    "wof:name":"Hambley Painting",
+    "wof:parent_id":85805083,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "painting",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -116.366814,
+    43.597051,
+    -116.366814,
+    43.597051
+],
+  "geometry": {"coordinates":[-116.36681400000001,43.597051],"type":"Point"}
+}

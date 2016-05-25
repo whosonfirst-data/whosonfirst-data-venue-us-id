@@ -1,0 +1,71 @@
+{
+  "id": 857528895,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-116.532869,43.560402,-116.532869,43.560402",
+    "geom:latitude":43.560402,
+    "geom:longitude":-116.532869,
+    "iso:country":"US",
+    "sg:address":"914 Southside Blvd",
+    "sg:city":"Nampa",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Equipment Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 466 6462",
+    "sg:postcode":"83686",
+    "sg:province":"ID",
+    "sg:tags":[
+        "crane"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85938009,
+        102085081,
+        85827787
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4f0SpYcoOKvlJQQguvGYzt_43.560402_-116.532869@1294099250"
+    },
+    "wof:country":"US",
+    "wof:created":1464202522,
+    "wof:geomhash":"909f630aef3dec2243fafb0cac463935",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085081,
+            "locality_id":85938009,
+            "neighbourhood_id":85827787,
+            "region_id":85688657,
+            "venue_id":857528895
+        }
+    ],
+    "wof:id":857528895,
+    "wof:lastmodified":1464202522,
+    "wof:name":"Lightning Crane Svc",
+    "wof:parent_id":85827787,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "crane"
+    ]
+},
+  "bbox": [
+    -116.532869,
+    43.560402,
+    -116.532869,
+    43.560402
+],
+  "geometry": {"coordinates":[-116.53286900000001,43.560402],"type":"Point"}
+}

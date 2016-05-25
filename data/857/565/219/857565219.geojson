@@ -1,0 +1,71 @@
+{
+  "id": 857565219,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-116.59325,43.598984,-116.59325,43.598984",
+    "geom:latitude":43.598984,
+    "geom:longitude":-116.59325,
+    "iso:country":"US",
+    "sg:address":"1020 Caldwell Blvd",
+    "sg:city":"Nampa",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 466 8958",
+    "sg:postcode":"83651",
+    "sg:province":"ID",
+    "sg:tags":[
+        "loan"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85938009,
+        102085081,
+        85827787
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0d9KQzZUDn9XGlZafVS7ca_43.598984_-116.593250@1294099250"
+    },
+    "wof:country":"US",
+    "wof:created":1464203259,
+    "wof:geomhash":"6772d263a747f40f5f22ab238fe5dc86",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085081,
+            "locality_id":85938009,
+            "neighbourhood_id":85827787,
+            "region_id":85688657,
+            "venue_id":857565219
+        }
+    ],
+    "wof:id":857565219,
+    "wof:lastmodified":1464203259,
+    "wof:name":"Key Bank",
+    "wof:parent_id":85827787,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "loan"
+    ]
+},
+  "bbox": [
+    -116.59325,
+    43.598984,
+    -116.59325,
+    43.598984
+],
+  "geometry": {"coordinates":[-116.59325,43.598984],"type":"Point"}
+}

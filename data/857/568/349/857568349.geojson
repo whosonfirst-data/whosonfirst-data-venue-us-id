@@ -1,0 +1,76 @@
+{
+  "id": 857568349,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-116.796965,47.70069,-116.796965,47.70069",
+    "geom:latitude":47.70069,
+    "geom:longitude":-116.796965,
+    "iso:country":"US",
+    "sg:address":"704 W Appleway Ave",
+    "sg:city":"Coeur D Alene",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 765 3225",
+    "sg:postcode":"83814",
+    "sg:province":"ID",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85821457,
+        102086085,
+        102191575,
+        85938163,
+        85806325
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5lMI3KEZ9lKtxRRCAFQja3_47.700690_-116.796965@1294099250"
+    },
+    "wof:country":"US",
+    "wof:created":1464203322,
+    "wof:geomhash":"de5545103a9a018050236444b78c5c6a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086085,
+            "neighbourhood_id":85821457,
+            "region_id":85688657,
+            "venue_id":857568349
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086085,
+            "locality_id":85938163,
+            "neighbourhood_id":85806325,
+            "region_id":85688657,
+            "venue_id":857568349
+        }
+    ],
+    "wof:id":857568349,
+    "wof:lastmodified":1464203322,
+    "wof:name":"J B's Restaurant",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -116.796965,
+    47.70069,
+    -116.796965,
+    47.70069
+],
+  "geometry": {"coordinates":[-116.796965,47.70069],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 857570645,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-116.279277,43.633846,-116.279277,43.633846",
+    "geom:latitude":43.633846,
+    "geom:longitude":-116.279277,
+    "iso:country":"US",
+    "sg:address":"7911 Ustick Rd",
+    "sg:city":"Boise",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Medical Lab",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 322 8060",
+    "sg:postcode":"83704",
+    "sg:province":"ID",
+    "sg:tags":[
+        "laboratory",
+        "dental"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        102191575,
+        85633793,
+        85937923,
+        102086087,
+        85841319
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_00d8vWRyaBv5F0rGFeI9n6_43.633846_-116.279277@1294099250"
+    },
+    "wof:country":"US",
+    "wof:created":1464203365,
+    "wof:geomhash":"d3cda8ffd8a5ca3f20355a328955ce36",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086087,
+            "locality_id":85937923,
+            "neighbourhood_id":85841319,
+            "region_id":85688657,
+            "venue_id":857570645
+        }
+    ],
+    "wof:id":857570645,
+    "wof:lastmodified":1464203365,
+    "wof:name":"Seetin Dental Laboratory",
+    "wof:parent_id":85841319,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "laboratory",
+        "dental"
+    ]
+},
+  "bbox": [
+    -116.279277,
+    43.633846,
+    -116.279277,
+    43.633846
+],
+  "geometry": {"coordinates":[-116.27927699999999,43.633846],"type":"Point"}
+}

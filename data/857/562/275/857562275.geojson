@@ -1,0 +1,71 @@
+{
+  "id": 857562275,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-116.835105,47.717434,-116.835105,47.717434",
+    "geom:latitude":47.717434,
+    "geom:longitude":-116.835105,
+    "iso:country":"US",
+    "sg:address":"4007 Laurel Ave",
+    "sg:city":"Coeur D Alene",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 667 5228",
+    "sg:postcode":"83815",
+    "sg:province":"ID",
+    "sg:tags":[
+        "maintenance",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85821457,
+        102086085
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4ntmFCpCCt6efNG4Rhp0Lh_47.717434_-116.835105@1294099250"
+    },
+    "wof:country":"US",
+    "wof:created":1464203208,
+    "wof:geomhash":"b8de86177ad94c9c0d997e76ae50b8ec",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086085,
+            "neighbourhood_id":85821457,
+            "region_id":85688657,
+            "venue_id":857562275
+        }
+    ],
+    "wof:id":857562275,
+    "wof:lastmodified":1464203208,
+    "wof:name":"Sparkle Wash",
+    "wof:parent_id":85821457,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "maintenance",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -116.835105,
+    47.717434,
+    -116.835105,
+    47.717434
+],
+  "geometry": {"coordinates":[-116.835105,47.717434],"type":"Point"}
+}

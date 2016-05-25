@@ -1,0 +1,71 @@
+{
+  "id": 857604649,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-117.012764,46.418095,-117.012764,46.418095",
+    "geom:latitude":46.418095,
+    "geom:longitude":-117.012764,
+    "iso:country":"US",
+    "sg:address":"1449 Main St",
+    "sg:city":"Lewiston",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Cleaning & Sanitation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 798 1685",
+    "sg:postcode":"83501",
+    "sg:province":"ID",
+    "sg:tags":[
+        "janitor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85937743,
+        102086039,
+        85837769
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5Af92yFreQlU18tYyqLiUC_46.418095_-117.012764@1294099250"
+    },
+    "wof:country":"US",
+    "wof:created":1464204089,
+    "wof:geomhash":"1a7c0d4f4649f409080cdbe2d71cf5e9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086039,
+            "locality_id":85937743,
+            "neighbourhood_id":85837769,
+            "region_id":85688657,
+            "venue_id":857604649
+        }
+    ],
+    "wof:id":857604649,
+    "wof:lastmodified":1464204089,
+    "wof:name":"Service Master Building Mntnc",
+    "wof:parent_id":85837769,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "janitor"
+    ]
+},
+  "bbox": [
+    -117.012764,
+    46.418095,
+    -117.012764,
+    46.418095
+],
+  "geometry": {"coordinates":[-117.012764,46.418095],"type":"Point"}
+}

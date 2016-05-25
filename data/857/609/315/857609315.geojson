@@ -1,0 +1,71 @@
+{
+  "id": 857609315,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-116.768301,47.762461,-116.768301,47.762461",
+    "geom:latitude":47.762461,
+    "geom:longitude":-116.768301,
+    "iso:country":"US",
+    "sg:address":"2160 E Dakota Ave",
+    "sg:city":"Hayden",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Water",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 772 2612",
+    "sg:postcode":"83835",
+    "sg:province":"ID",
+    "sg:tags":[
+        "company",
+        "sewage"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85821457,
+        102086085
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_13gRGtz1p20NQtQU5YscwB_47.762461_-116.768301@1294099250"
+    },
+    "wof:country":"US",
+    "wof:created":1464204193,
+    "wof:geomhash":"ff9a3468a6bcd5460f55403488421f11",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086085,
+            "neighbourhood_id":85821457,
+            "region_id":85688657,
+            "venue_id":857609315
+        }
+    ],
+    "wof:id":857609315,
+    "wof:lastmodified":1464204193,
+    "wof:name":"Hayden Lake Irrigation Dist",
+    "wof:parent_id":85821457,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "company",
+        "sewage"
+    ]
+},
+  "bbox": [
+    -116.768301,
+    47.762461,
+    -116.768301,
+    47.762461
+],
+  "geometry": {"coordinates":[-116.76830099999999,47.762461],"type":"Point"}
+}

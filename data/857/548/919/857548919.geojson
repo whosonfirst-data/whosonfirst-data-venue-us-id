@@ -1,0 +1,73 @@
+{
+  "id": 857548919,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-117.011698,47.76893,-117.011698,47.76893",
+    "geom:latitude":47.76893,
+    "geom:longitude":-117.011698,
+    "iso:country":"US",
+    "sg:address":"10728 E Hauser Lake Rd",
+    "sg:city":"Hauser",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Fire Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 773 1174",
+    "sg:postcode":"83854",
+    "sg:province":"ID",
+    "sg:tags":[
+        "department"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        102191575,
+        85633793,
+        85938145,
+        102086085,
+        85833263
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2LS9IctrjymtThanwLfdMQ_47.768930_-117.011698@1294099250"
+    },
+    "wof:country":"US",
+    "wof:created":1464202910,
+    "wof:geomhash":"33230c5e08f478a07943af1dda99df48",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086085,
+            "locality_id":85938145,
+            "neighbourhood_id":85833263,
+            "region_id":85688657,
+            "venue_id":857548919
+        }
+    ],
+    "wof:id":857548919,
+    "wof:lastmodified":1464202910,
+    "wof:name":"Hauser Lake Fire Protection",
+    "wof:parent_id":85833263,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "department"
+    ]
+},
+  "bbox": [
+    -117.011698,
+    47.76893,
+    -117.011698,
+    47.76893
+],
+  "geometry": {"coordinates":[-117.011698,47.76893],"type":"Point"}
+}

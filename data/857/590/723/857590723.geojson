@@ -1,0 +1,73 @@
+{
+  "id": 857590723,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-116.571021,43.55286,-116.571021,43.55286",
+    "geom:latitude":43.55286,
+    "geom:longitude":-116.571021,
+    "iso:country":"US",
+    "sg:address":"207 Constitution Way",
+    "sg:city":"Nampa",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 467 7266",
+    "sg:postcode":"83686",
+    "sg:province":"ID",
+    "sg:tags":[
+        "senior",
+        "citizen"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85938009,
+        102085081,
+        85827787
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6MDGqx7HI30ONtTz5IMDar_43.552860_-116.571021@1294099250"
+    },
+    "wof:country":"US",
+    "wof:created":1464203778,
+    "wof:geomhash":"172a73e6900550e6b33f80a94501b9ff",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085081,
+            "locality_id":85938009,
+            "neighbourhood_id":85827787,
+            "region_id":85688657,
+            "venue_id":857590723
+        }
+    ],
+    "wof:id":857590723,
+    "wof:lastmodified":1464203778,
+    "wof:name":"Nampa Council On Aging",
+    "wof:parent_id":85827787,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "senior",
+        "citizen"
+    ]
+},
+  "bbox": [
+    -116.571021,
+    43.55286,
+    -116.571021,
+    43.55286
+],
+  "geometry": {"coordinates":[-116.571021,43.55286],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 857536395,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-116.321788,43.631116,-116.321788,43.631116",
+    "geom:latitude":43.631116,
+    "geom:longitude":-116.321788,
+    "iso:country":"US",
+    "sg:address":"2840 Wildwood St",
+    "sg:city":"Boise",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"Dance Studio",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 939 5302",
+    "sg:postcode":"83713",
+    "sg:province":"ID",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        102191575,
+        85633793,
+        85937915,
+        102086087,
+        85811491
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7h5BhYp2g60CRFRzhEuNWT_43.631116_-116.321788@1294099250"
+    },
+    "wof:country":"US",
+    "wof:created":1464202670,
+    "wof:geomhash":"a007eda3075b45d31ab5db0c464c7127",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086087,
+            "locality_id":85937915,
+            "neighbourhood_id":85811491,
+            "region_id":85688657,
+            "venue_id":857536395
+        }
+    ],
+    "wof:id":857536395,
+    "wof:lastmodified":1464202670,
+    "wof:name":"Boise Cloggers",
+    "wof:parent_id":85811491,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -116.321788,
+    43.631116,
+    -116.321788,
+    43.631116
+],
+  "geometry": {"coordinates":[-116.321788,43.631116],"type":"Point"}
+}

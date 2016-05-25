@@ -1,0 +1,73 @@
+{
+  "id": 857585393,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-116.411732,43.612627,-116.411732,43.612627",
+    "geom:latitude":43.612627,
+    "geom:longitude":-116.411732,
+    "iso:country":"US",
+    "sg:address":"1440 W Piedmont Ct",
+    "sg:city":"Meridian",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 888 5127",
+    "sg:postcode":"83642",
+    "sg:province":"ID",
+    "sg:tags":[
+        "stucco",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85937915,
+        102086087,
+        85805083
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0l0lljrpdZvdhJNXfiqFV1_43.612627_-116.411732@1294099250"
+    },
+    "wof:country":"US",
+    "wof:created":1464203654,
+    "wof:geomhash":"833472af99b161f956f79376ce09fa3a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086087,
+            "locality_id":85937915,
+            "neighbourhood_id":85805083,
+            "region_id":85688657,
+            "venue_id":857585393
+        }
+    ],
+    "wof:id":857585393,
+    "wof:lastmodified":1464203654,
+    "wof:name":"American Stucco Ents Inc",
+    "wof:parent_id":85805083,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "stucco",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -116.411732,
+    43.612627,
+    -116.411732,
+    43.612627
+],
+  "geometry": {"coordinates":[-116.411732,43.612627],"type":"Point"}
+}

@@ -1,0 +1,76 @@
+{
+  "id": 857630189,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-116.790607,47.729772,-116.790607,47.729772",
+    "geom:latitude":47.729772,
+    "geom:longitude":-116.790607,
+    "iso:country":"US",
+    "sg:address":"280 W Hanley Ave",
+    "sg:city":"Coeur D Alene",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/id/coeur-dalene/3442-applebees/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 762 1000",
+    "sg:postcode":"83815",
+    "sg:province":"ID",
+    "sg:tags":[
+        "burger",
+        "american",
+        "sandwich",
+        "soup"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85821457,
+        102086085
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4cQexDxpYb5VtL2Ss9FpA4_47.729772_-116.790607@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464204669,
+    "wof:geomhash":"25df1240689eb4b486407c638b948a74",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086085,
+            "neighbourhood_id":85821457,
+            "region_id":85688657,
+            "venue_id":857630189
+        }
+    ],
+    "wof:id":857630189,
+    "wof:lastmodified":1464204669,
+    "wof:name":"Applebee's",
+    "wof:parent_id":85821457,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american",
+        "sandwich",
+        "soup"
+    ]
+},
+  "bbox": [
+    -116.790607,
+    47.729772,
+    -116.790607,
+    47.729772
+],
+  "geometry": {"coordinates":[-116.79060699999999,47.729772],"type":"Point"}
+}

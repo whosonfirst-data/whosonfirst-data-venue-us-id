@@ -1,0 +1,68 @@
+{
+  "id": 857595729,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-116.233465,43.599805,-116.233465,43.599805",
+    "geom:latitude":43.599805,
+    "geom:longitude":-116.233465,
+    "iso:country":"US",
+    "sg:address":"404 S Roosevelt St",
+    "sg:city":"Boise",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 342 2859",
+    "sg:postcode":"83705",
+    "sg:province":"ID",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        102191575,
+        85633793,
+        85937923,
+        102086087,
+        85876295
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2v0ZkAvp3zk86lNgOeAc4r_43.599805_-116.233465@1294099250"
+    },
+    "wof:country":"US",
+    "wof:created":1464203889,
+    "wof:geomhash":"0f1143549740958c5288339bd00c93e9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086087,
+            "locality_id":85937923,
+            "neighbourhood_id":85876295,
+            "region_id":85688657,
+            "venue_id":857595729
+        }
+    ],
+    "wof:id":857595729,
+    "wof:lastmodified":1464203889,
+    "wof:name":"Jackson's Food",
+    "wof:parent_id":85876295,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -116.233465,
+    43.599805,
+    -116.233465,
+    43.599805
+],
+  "geometry": {"coordinates":[-116.233465,43.599805],"type":"Point"}
+}

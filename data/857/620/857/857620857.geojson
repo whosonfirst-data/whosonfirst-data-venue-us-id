@@ -1,0 +1,73 @@
+{
+  "id": 857620857,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-116.365518,43.609655,-116.365518,43.609655",
+    "geom:latitude":43.609655,
+    "geom:longitude":-116.365518,
+    "iso:country":"US",
+    "sg:address":"2201 E Commercial St",
+    "sg:city":"Meridian",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 888 2523",
+    "sg:postcode":"83642",
+    "sg:province":"ID",
+    "sg:tags":[
+        "electric",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85937915,
+        102086087,
+        85805083
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3OqpDBW9srLLqp8RYjqjG0_43.609655_-116.365518@1294099250"
+    },
+    "wof:country":"US",
+    "wof:created":1464204449,
+    "wof:geomhash":"15c599e82e1b8d1f3ded6b6dac8ddbd6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086087,
+            "locality_id":85937915,
+            "neighbourhood_id":85805083,
+            "region_id":85688657,
+            "venue_id":857620857
+        }
+    ],
+    "wof:id":857620857,
+    "wof:lastmodified":1464204449,
+    "wof:name":"Lea Electric",
+    "wof:parent_id":85805083,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electric",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -116.365518,
+    43.609655,
+    -116.365518,
+    43.609655
+],
+  "geometry": {"coordinates":[-116.36551799999999,43.609655],"type":"Point"}
+}

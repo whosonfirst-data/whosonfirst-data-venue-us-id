@@ -1,0 +1,71 @@
+{
+  "id": 857583845,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-116.564781,43.577866,-116.564781,43.577866",
+    "geom:latitude":43.577866,
+    "geom:longitude":-116.564781,
+    "iso:country":"US",
+    "sg:address":"404 10th Ave S",
+    "sg:city":"Nampa",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Funeral Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 466 3545",
+    "sg:postcode":"83651",
+    "sg:province":"ID",
+    "sg:tags":[
+        "director"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85938009,
+        102085081,
+        85827787
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3RpklkwQPpvziCuki0SMzG_43.577866_-116.564781@1294099250"
+    },
+    "wof:country":"US",
+    "wof:created":1464203623,
+    "wof:geomhash":"480a93b411e7e25e56b748d48aac9894",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085081,
+            "locality_id":85938009,
+            "neighbourhood_id":85827787,
+            "region_id":85688657,
+            "venue_id":857583845
+        }
+    ],
+    "wof:id":857583845,
+    "wof:lastmodified":1464203623,
+    "wof:name":"Alsip & Persons Funeral Chapel",
+    "wof:parent_id":85827787,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "director"
+    ]
+},
+  "bbox": [
+    -116.564781,
+    43.577866,
+    -116.564781,
+    43.577866
+],
+  "geometry": {"coordinates":[-116.564781,43.577866],"type":"Point"}
+}

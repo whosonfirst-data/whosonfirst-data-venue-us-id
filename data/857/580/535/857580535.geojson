@@ -1,0 +1,66 @@
+{
+  "id": 857580535,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-116.618532,46.5225,-116.618532,46.5225",
+    "geom:latitude":46.5225,
+    "geom:longitude":-116.618532,
+    "iso:country":"US",
+    "sg:address":"34098 US Hwy 12",
+    "sg:city":"Lenore",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Post Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 836 5455",
+    "sg:postcode":"83541",
+    "sg:province":"ID",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85937743,
+        102086039,
+        85837769
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0yjmQ9kWLZbM68xIbsNAIy_46.522500_-116.618532@1294099250"
+    },
+    "wof:country":"US",
+    "wof:created":1464203563,
+    "wof:geomhash":"0fad2296f19f600a71886204c53b6fc0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086039,
+            "locality_id":85937743,
+            "neighbourhood_id":85837769,
+            "region_id":85688657,
+            "venue_id":857580535
+        }
+    ],
+    "wof:id":857580535,
+    "wof:lastmodified":1464203563,
+    "wof:name":"US Post Office",
+    "wof:parent_id":85837769,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -116.618532,
+    46.5225,
+    -116.618532,
+    46.5225
+],
+  "geometry": {"coordinates":[-116.618532,46.5225],"type":"Point"}
+}

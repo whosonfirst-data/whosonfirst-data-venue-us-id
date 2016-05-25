@@ -1,0 +1,73 @@
+{
+  "id": 857567343,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-116.610206,43.605047,-116.610206,43.605047",
+    "geom:latitude":43.605047,
+    "geom:longitude":-116.610206,
+    "iso:country":"US",
+    "sg:address":"2302 W Karcher Rd",
+    "sg:city":"Nampa",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 467 2499",
+    "sg:postcode":"83651",
+    "sg:province":"ID",
+    "sg:tags":[
+        "storage",
+        "facility"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85938009,
+        102085081,
+        85835387
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1M8iBoX06VvVTMqwev61Dt_43.605047_-116.610206@1294099250"
+    },
+    "wof:country":"US",
+    "wof:created":1464203304,
+    "wof:geomhash":"e7948538693fcbd661b702ff6af75cd0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085081,
+            "locality_id":85938009,
+            "neighbourhood_id":85835387,
+            "region_id":85688657,
+            "venue_id":857567343
+        }
+    ],
+    "wof:id":857567343,
+    "wof:lastmodified":1464203304,
+    "wof:name":"Karcher Ranch Storage",
+    "wof:parent_id":85835387,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "storage",
+        "facility"
+    ]
+},
+  "bbox": [
+    -116.610206,
+    43.605047,
+    -116.610206,
+    43.605047
+],
+  "geometry": {"coordinates":[-116.61020600000001,43.605047],"type":"Point"}
+}

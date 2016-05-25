@@ -1,0 +1,69 @@
+{
+  "id": 857567339,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-116.757259,47.747397,-116.757259,47.747397",
+    "geom:latitude":47.747397,
+    "geom:longitude":-116.757259,
+    "iso:country":"US",
+    "sg:address":"2281 E Lookout Dr",
+    "sg:city":"Coeur D Alene",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 665 7579",
+    "sg:postcode":"83815",
+    "sg:province":"ID",
+    "sg:tags":[
+        "eating"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85821457,
+        102086085
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7iE2wFfht7weNLG5TUdsMM_47.747397_-116.757259@1294099250"
+    },
+    "wof:country":"US",
+    "wof:created":1464203304,
+    "wof:geomhash":"9628eeee8ebad4d19441477bcce43a62",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086085,
+            "neighbourhood_id":85821457,
+            "region_id":85688657,
+            "venue_id":857567339
+        }
+    ],
+    "wof:id":857567339,
+    "wof:lastmodified":1464203304,
+    "wof:name":"Proverbial Cup",
+    "wof:parent_id":85821457,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "eating"
+    ]
+},
+  "bbox": [
+    -116.757259,
+    47.747397,
+    -116.757259,
+    47.747397
+],
+  "geometry": {"coordinates":[-116.757259,47.747397],"type":"Point"}
+}

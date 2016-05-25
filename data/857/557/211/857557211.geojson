@@ -1,0 +1,73 @@
+{
+  "id": 857557211,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-116.689547,47.400995,-116.689547,47.400995",
+    "geom:latitude":47.400995,
+    "geom:longitude":-116.689547,
+    "iso:country":"US",
+    "sg:address":"12248 E Ogara Rd",
+    "sg:city":"Harrison",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Farm Supplies",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 689 3349",
+    "sg:postcode":"83833",
+    "sg:province":"ID",
+    "sg:tags":[
+        "corn",
+        "livestock",
+        "soybean"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85821457,
+        102086085
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_241br4LuBIazz7yMnYvD0c_47.400995_-116.689547@1294099250"
+    },
+    "wof:country":"US",
+    "wof:created":1464203076,
+    "wof:geomhash":"4858ee99b111fdb7869ed614abdc63f0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086085,
+            "neighbourhood_id":85821457,
+            "region_id":85688657,
+            "venue_id":857557211
+        }
+    ],
+    "wof:id":857557211,
+    "wof:lastmodified":1464203076,
+    "wof:name":"Don Heikkila",
+    "wof:parent_id":85821457,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "corn",
+        "livestock",
+        "soybean"
+    ]
+},
+  "bbox": [
+    -116.689547,
+    47.400995,
+    -116.689547,
+    47.400995
+],
+  "geometry": {"coordinates":[-116.689547,47.400995],"type":"Point"}
+}

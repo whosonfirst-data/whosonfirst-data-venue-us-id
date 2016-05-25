@@ -1,0 +1,71 @@
+{
+  "id": 857503537,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-116.387299,43.59029,-116.387299,43.59029",
+    "geom:latitude":43.59029,
+    "geom:longitude":-116.387299,
+    "iso:country":"US",
+    "sg:address":"600 E Overland Rd",
+    "sg:city":"Meridian",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Food",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 888 7420",
+    "sg:postcode":"83642",
+    "sg:province":"ID",
+    "sg:tags":[
+        "bottler"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85937915,
+        102086087,
+        85805083
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6FrsWUCgnrZDxAyzWb9rst_43.590290_-116.387299@1294099250"
+    },
+    "wof:country":"US",
+    "wof:created":1464201996,
+    "wof:geomhash":"5f4b3c347577bf3100fe90b235aada25",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086087,
+            "locality_id":85937915,
+            "neighbourhood_id":85805083,
+            "region_id":85688657,
+            "venue_id":857503537
+        }
+    ],
+    "wof:id":857503537,
+    "wof:lastmodified":1464201996,
+    "wof:name":"Swire Coca-Cola Bottling Co",
+    "wof:parent_id":85805083,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "bottler"
+    ]
+},
+  "bbox": [
+    -116.387299,
+    43.59029,
+    -116.387299,
+    43.59029
+],
+  "geometry": {"coordinates":[-116.387299,43.59029],"type":"Point"}
+}

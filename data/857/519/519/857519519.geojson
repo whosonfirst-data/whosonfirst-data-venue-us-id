@@ -1,0 +1,75 @@
+{
+  "id": 857519519,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-116.573088,43.689985,-116.573088,43.689985",
+    "geom:latitude":43.689985,
+    "geom:longitude":-116.573088,
+    "iso:country":"US",
+    "sg:address":"21901 Lansing Ln",
+    "sg:city":"Middleton",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Glass & Minerals",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 585 6206",
+    "sg:postcode":"83644",
+    "sg:province":"ID",
+    "sg:tags":[
+        "ready",
+        "concrete",
+        "mfg"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85938009,
+        102085081,
+        85835387
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6eemoylaOQRSm6GrXL9vPq_43.689985_-116.573088@1294099250"
+    },
+    "wof:country":"US",
+    "wof:created":1464202341,
+    "wof:geomhash":"87d704990e5b9f637e6a1f8f0abcd669",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085081,
+            "locality_id":85938009,
+            "neighbourhood_id":85835387,
+            "region_id":85688657,
+            "venue_id":857519519
+        }
+    ],
+    "wof:id":857519519,
+    "wof:lastmodified":1464202341,
+    "wof:name":"Always Ready",
+    "wof:parent_id":85835387,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "ready",
+        "concrete",
+        "mfg"
+    ]
+},
+  "bbox": [
+    -116.573088,
+    43.689985,
+    -116.573088,
+    43.689985
+],
+  "geometry": {"coordinates":[-116.573088,43.689985],"type":"Point"}
+}

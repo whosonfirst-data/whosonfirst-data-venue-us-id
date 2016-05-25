@@ -1,0 +1,69 @@
+{
+  "id": 857602355,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-116.782248,47.677534,-116.782248,47.677534",
+    "geom:latitude":47.677534,
+    "geom:longitude":-116.782248,
+    "iso:country":"US",
+    "sg:address":"324 E Garden Ave",
+    "sg:city":"Coeur D Alene",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Police Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 769 4400",
+    "sg:postcode":"83814",
+    "sg:province":"ID",
+    "sg:tags":[
+        "sheriff"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85821457,
+        102086085
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2wRNCjpj0ofBL1fP0nwDE9_47.677534_-116.782248@1294099250"
+    },
+    "wof:country":"US",
+    "wof:created":1464204036,
+    "wof:geomhash":"5e79c8f4ec251ea040527e74c9f71001",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086085,
+            "neighbourhood_id":85821457,
+            "region_id":85688657,
+            "venue_id":857602355
+        }
+    ],
+    "wof:id":857602355,
+    "wof:lastmodified":1464204036,
+    "wof:name":"Kootenai Criminal Div",
+    "wof:parent_id":85821457,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "sheriff"
+    ]
+},
+  "bbox": [
+    -116.782248,
+    47.677534,
+    -116.782248,
+    47.677534
+],
+  "geometry": {"coordinates":[-116.782248,47.677534],"type":"Point"}
+}

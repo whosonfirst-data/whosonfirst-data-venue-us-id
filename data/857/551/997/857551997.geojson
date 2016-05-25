@@ -1,0 +1,73 @@
+{
+  "id": 857551997,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-116.406197,43.606209,-116.406197,43.606209",
+    "geom:latitude":43.606209,
+    "geom:longitude":-116.406197,
+    "iso:country":"US",
+    "sg:address":"221 NW 10th St",
+    "sg:city":"Meridian",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 888 0023",
+    "sg:postcode":"83642",
+    "sg:province":"ID",
+    "sg:tags":[
+        "plumbing",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85937915,
+        102086087,
+        85805083
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7io2EMx2w3T76HgbGj29nY_43.606209_-116.406197@1294099250"
+    },
+    "wof:country":"US",
+    "wof:created":1464202971,
+    "wof:geomhash":"9f0438548b315984a0917ae54f08b520",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086087,
+            "locality_id":85937915,
+            "neighbourhood_id":85805083,
+            "region_id":85688657,
+            "venue_id":857551997
+        }
+    ],
+    "wof:id":857551997,
+    "wof:lastmodified":1464202971,
+    "wof:name":"Finest Plumbing",
+    "wof:parent_id":85805083,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "plumbing",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -116.406197,
+    43.606209,
+    -116.406197,
+    43.606209
+],
+  "geometry": {"coordinates":[-116.40619700000001,43.606209],"type":"Point"}
+}

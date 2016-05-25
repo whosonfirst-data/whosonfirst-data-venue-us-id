@@ -1,0 +1,69 @@
+{
+  "id": 857511515,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-116.781247,47.673869,-116.781247,47.673869",
+    "geom:latitude":47.673869,
+    "geom:longitude":-116.781247,
+    "iso:country":"US",
+    "sg:address":"103 N 4th St",
+    "sg:city":"Coeur D Alene",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Police Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 667 6130",
+    "sg:postcode":"83814",
+    "sg:province":"ID",
+    "sg:tags":[
+        "federal"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85821457,
+        102086085
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6Pe9PNaBN1NX2GPqBCL4vr_47.673869_-116.781247@1294099250"
+    },
+    "wof:country":"US",
+    "wof:created":1464202177,
+    "wof:geomhash":"d8df4e881feef695ed2c5d57ab1cacfd",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086085,
+            "neighbourhood_id":85821457,
+            "region_id":85688657,
+            "venue_id":857511515
+        }
+    ],
+    "wof:id":857511515,
+    "wof:lastmodified":1464202177,
+    "wof:name":"Senator Larry E Craig",
+    "wof:parent_id":85821457,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "federal"
+    ]
+},
+  "bbox": [
+    -116.781247,
+    47.673869,
+    -116.781247,
+    47.673869
+],
+  "geometry": {"coordinates":[-116.78124699999999,47.673869],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 857546493,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-116.121509,47.53381,-116.121509,47.53381",
+    "geom:latitude":47.53381,
+    "geom:longitude":-116.121509,
+    "iso:country":"US",
+    "sg:address":"14 W Market Ave",
+    "sg:city":"Kellogg",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Fire Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 784 1188",
+    "sg:postcode":"83837",
+    "sg:province":"ID",
+    "sg:tags":[
+        "department"
+    ],
+    "sg:website":"www.shoshonefd2.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85937825,
+        102086103,
+        85849049
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1pJaT6cVqaatuVWrst6G4r_47.533810_-116.121509@1294099250"
+    },
+    "wof:country":"US",
+    "wof:created":1464202865,
+    "wof:geomhash":"b8bb72a1bbf36e1d09e3c1b95b20dbde",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086103,
+            "locality_id":85937825,
+            "neighbourhood_id":85849049,
+            "region_id":85688657,
+            "venue_id":857546493
+        }
+    ],
+    "wof:id":857546493,
+    "wof:lastmodified":1464202865,
+    "wof:name":"Shoshone Fire #2",
+    "wof:parent_id":85849049,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "department"
+    ]
+},
+  "bbox": [
+    -116.121509,
+    47.53381,
+    -116.121509,
+    47.53381
+],
+  "geometry": {"coordinates":[-116.121509,47.53381],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 857530731,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-116.796442,47.697208,-116.796442,47.697208",
+    "geom:latitude":47.697208,
+    "geom:longitude":-116.796442,
+    "iso:country":"US",
+    "sg:address":"2248 W Ironwood Center Dr",
+    "sg:city":"Coeur D Alene",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Medical Equipment & Supplies",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 667 6579",
+    "sg:postcode":"83814",
+    "sg:province":"ID",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85821457,
+        102086085
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6wDJkQkB4OSofhzzsimsEz_47.697208_-116.796442@1294099250"
+    },
+    "wof:country":"US",
+    "wof:created":1464202558,
+    "wof:geomhash":"04d3e515a64396d1f327c0a3085b2693",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086085,
+            "neighbourhood_id":85821457,
+            "region_id":85688657,
+            "venue_id":857530731
+        }
+    ],
+    "wof:id":857530731,
+    "wof:lastmodified":1464202558,
+    "wof:name":"Advanced Home Med",
+    "wof:parent_id":85821457,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -116.796442,
+    47.697208,
+    -116.796442,
+    47.697208
+],
+  "geometry": {"coordinates":[-116.796442,47.697208],"type":"Point"}
+}

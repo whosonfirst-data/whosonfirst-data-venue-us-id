@@ -1,0 +1,73 @@
+{
+  "id": 857615617,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-116.89778,47.71006,-116.89778,47.71006",
+    "geom:latitude":47.71006,
+    "geom:longitude":-116.89778,
+    "iso:country":"US",
+    "sg:address":"310 N Herborn Pl",
+    "sg:city":"Post Falls",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Veterinary Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 777 9178",
+    "sg:postcode":"83854",
+    "sg:province":"ID",
+    "sg:tags":[
+        "veterinarian"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        102191575,
+        85633793,
+        85938145,
+        102086085,
+        85833263
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0ioNJNRPcAyFrGLAIvNV1g_47.710060_-116.897780@1294099250"
+    },
+    "wof:country":"US",
+    "wof:created":1464204333,
+    "wof:geomhash":"76d8aae89268f88bc9730ca32416abe6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086085,
+            "locality_id":85938145,
+            "neighbourhood_id":85833263,
+            "region_id":85688657,
+            "venue_id":857615617
+        }
+    ],
+    "wof:id":857615617,
+    "wof:lastmodified":1464204333,
+    "wof:name":"River City Animal Hospital",
+    "wof:parent_id":85833263,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "veterinarian"
+    ]
+},
+  "bbox": [
+    -116.89778,
+    47.71006,
+    -116.89778,
+    47.71006
+],
+  "geometry": {"coordinates":[-116.89778,47.71006],"type":"Point"}
+}

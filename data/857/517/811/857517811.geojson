@@ -1,0 +1,71 @@
+{
+  "id": 857517811,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-116.786411,47.767515,-116.786411,47.767515",
+    "geom:latitude":47.767515,
+    "geom:longitude":-116.786411,
+    "iso:country":"US",
+    "sg:address":"10664 N Government Way",
+    "sg:city":"Hayden Lake",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 772 7944",
+    "sg:postcode":"83835",
+    "sg:province":"ID",
+    "sg:tags":[
+        "car",
+        "dealer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85821457,
+        102086085
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3vk6NrARmjZAvIbxNb372Q_47.767515_-116.786411@1294099250"
+    },
+    "wof:country":"US",
+    "wof:created":1464202305,
+    "wof:geomhash":"29c65e1e740ca652864ae80206eacc5d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086085,
+            "neighbourhood_id":85821457,
+            "region_id":85688657,
+            "venue_id":857517811
+        }
+    ],
+    "wof:id":857517811,
+    "wof:lastmodified":1464202305,
+    "wof:name":"Car Lot",
+    "wof:parent_id":85821457,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "car",
+        "dealer"
+    ]
+},
+  "bbox": [
+    -116.786411,
+    47.767515,
+    -116.786411,
+    47.767515
+],
+  "geometry": {"coordinates":[-116.786411,47.767515],"type":"Point"}
+}

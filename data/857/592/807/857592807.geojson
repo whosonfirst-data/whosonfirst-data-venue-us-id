@@ -1,0 +1,82 @@
+{
+  "id": 857592807,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-116.988167,46.374995,-116.988167,46.374995",
+    "geom:latitude":46.374995,
+    "geom:longitude":-116.988167,
+    "iso:country":"US",
+    "sg:address":"3522 8th St E",
+    "sg:city":"Lewiston",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 746 0984",
+    "sg:postcode":"83501",
+    "sg:province":"ID",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85937743,
+        102086039,
+        85837769,
+        102191575,
+        85830385
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_76z152kn44XbK0kHN5x7K9_46.374995_-116.988167@1294099250"
+    },
+    "wof:country":"US",
+    "wof:created":1464203823,
+    "wof:geomhash":"c340a582aab714cfbc1b8480cd6b304b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086039,
+            "locality_id":85937743,
+            "neighbourhood_id":85837769,
+            "region_id":85688657,
+            "venue_id":857592807
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086039,
+            "locality_id":85937743,
+            "neighbourhood_id":85830385,
+            "region_id":85688657,
+            "venue_id":857592807
+        }
+    ],
+    "wof:id":857592807,
+    "wof:lastmodified":1464203823,
+    "wof:name":"Glen Rotz Drywall Etc",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -116.988167,
+    46.374995,
+    -116.988167,
+    46.374995
+],
+  "geometry": {"coordinates":[-116.988167,46.374995],"type":"Point"}
+}

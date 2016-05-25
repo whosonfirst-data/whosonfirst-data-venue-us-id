@@ -1,0 +1,72 @@
+{
+  "id": 857517533,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-116.756612,47.678146,-116.756612,47.678146",
+    "geom:latitude":47.678146,
+    "geom:longitude":-116.756612,
+    "iso:country":"US",
+    "sg:address":"632 N 21st St",
+    "sg:city":"Coeur D Alene",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Nursing And Care Facility",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 765 8364",
+    "sg:postcode":"83814",
+    "sg:province":"ID",
+    "sg:tags":[
+        "home",
+        "convalescent"
+    ],
+    "sg:website":"www.beehivehomes.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85821457,
+        102086085
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1kJvzf8Hphcf65mQ7LnAwo_47.678146_-116.756612@1294099250"
+    },
+    "wof:country":"US",
+    "wof:created":1464202300,
+    "wof:geomhash":"4f7a7877cb7c97a33265e090f7699568",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086085,
+            "neighbourhood_id":85821457,
+            "region_id":85688657,
+            "venue_id":857517533
+        }
+    ],
+    "wof:id":857517533,
+    "wof:lastmodified":1464202300,
+    "wof:name":"Beehive Homes Of North Idaho",
+    "wof:parent_id":85821457,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "home",
+        "convalescent"
+    ]
+},
+  "bbox": [
+    -116.756612,
+    47.678146,
+    -116.756612,
+    47.678146
+],
+  "geometry": {"coordinates":[-116.756612,47.678146],"type":"Point"}
+}

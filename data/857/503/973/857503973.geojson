@@ -1,0 +1,71 @@
+{
+  "id": 857503973,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-116.333629,43.599347,-116.333629,43.599347",
+    "geom:latitude":43.599347,
+    "geom:longitude":-116.333629,
+    "iso:country":"US",
+    "sg:address":"707 S Tennyson Way",
+    "sg:city":"Boise",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 761 0219",
+    "sg:postcode":"83709",
+    "sg:province":"ID",
+    "sg:tags":[
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85937915,
+        102086087,
+        85805083
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5EiYOvowFI5xLzJ1FKseDI_43.599347_-116.333629@1294099250"
+    },
+    "wof:country":"US",
+    "wof:created":1464202005,
+    "wof:geomhash":"6ab4c6ea4cc634e92277ea51baf49f99",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086087,
+            "locality_id":85937915,
+            "neighbourhood_id":85805083,
+            "region_id":85688657,
+            "venue_id":857503973
+        }
+    ],
+    "wof:id":857503973,
+    "wof:lastmodified":1464202005,
+    "wof:name":"Boise Mobile Car Repair",
+    "wof:parent_id":85805083,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "general"
+    ]
+},
+  "bbox": [
+    -116.333629,
+    43.599347,
+    -116.333629,
+    43.599347
+],
+  "geometry": {"coordinates":[-116.333629,43.599347],"type":"Point"}
+}

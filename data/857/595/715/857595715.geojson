@@ -1,0 +1,73 @@
+{
+  "id": 857595715,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-115.923676,47.471101,-115.923676,47.471101",
+    "geom:latitude":47.471101,
+    "geom:longitude":-115.923676,
+    "iso:country":"US",
+    "sg:address":"604 Hotel St",
+    "sg:city":"Wallace",
+    "sg:classifiers":[
+        {
+            "category":"Recreation",
+            "subcategory":"",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 556 6051",
+    "sg:postcode":"83873",
+    "sg:province":"ID",
+    "sg:tags":[
+        "pool",
+        "swimming"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85937825,
+        102086103,
+        85849049
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6titl55EeWTHnbRL16NT6k_47.471101_-115.923676@1294099250"
+    },
+    "wof:country":"US",
+    "wof:created":1464203888,
+    "wof:geomhash":"1c870a62929bacf930d7f8dd97170da4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086103,
+            "locality_id":85937825,
+            "neighbourhood_id":85849049,
+            "region_id":85688657,
+            "venue_id":857595715
+        }
+    ],
+    "wof:id":857595715,
+    "wof:lastmodified":1464203888,
+    "wof:name":"Wallace City Pool",
+    "wof:parent_id":85849049,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pool",
+        "swimming"
+    ]
+},
+  "bbox": [
+    -115.923676,
+    47.471101,
+    -115.923676,
+    47.471101
+],
+  "geometry": {"coordinates":[-115.923676,47.471101],"type":"Point"}
+}

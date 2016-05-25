@@ -1,0 +1,71 @@
+{
+  "id": 857560025,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-116.836888,47.728215,-116.836888,47.728215",
+    "geom:latitude":47.728215,
+    "geom:longitude":-116.836888,
+    "iso:country":"US",
+    "sg:address":"4810 Industrial Ave E",
+    "sg:city":"Coeur D Alene",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 667 4710",
+    "sg:postcode":"83815",
+    "sg:province":"ID",
+    "sg:tags":[
+        "concrete",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85821457,
+        102086085
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5pnGOmvlEazQl3jeYfskt4_47.728215_-116.836888@1294099250"
+    },
+    "wof:country":"US",
+    "wof:created":1464203150,
+    "wof:geomhash":"14a900cbee9938ef0e6c22ab38ddbae2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086085,
+            "neighbourhood_id":85821457,
+            "region_id":85688657,
+            "venue_id":857560025
+        }
+    ],
+    "wof:id":857560025,
+    "wof:lastmodified":1464203150,
+    "wof:name":"Reed Concrete Co",
+    "wof:parent_id":85821457,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "concrete",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -116.836888,
+    47.728215,
+    -116.836888,
+    47.728215
+],
+  "geometry": {"coordinates":[-116.836888,47.728215],"type":"Point"}
+}

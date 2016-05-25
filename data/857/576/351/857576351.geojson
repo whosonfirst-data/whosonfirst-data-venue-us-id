@@ -1,0 +1,73 @@
+{
+  "id": 857576351,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-116.331342,43.604932,-116.331342,43.604932",
+    "geom:latitude":43.604932,
+    "geom:longitude":-116.331342,
+    "iso:country":"US",
+    "sg:address":"12050 Franklin Rd",
+    "sg:city":"Boise",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 375 2020",
+    "sg:postcode":"83709",
+    "sg:province":"ID",
+    "sg:tags":[
+        "tile",
+        "dealer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85937915,
+        102086087,
+        85805083
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0xCLl0EGXBDUawTGmmct0N_43.604932_-116.331342@1294099250"
+    },
+    "wof:country":"US",
+    "wof:created":1464203477,
+    "wof:geomhash":"80d094d5340a0e577f0f056dc2177922",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086087,
+            "locality_id":85937915,
+            "neighbourhood_id":85805083,
+            "region_id":85688657,
+            "venue_id":857576351
+        }
+    ],
+    "wof:id":857576351,
+    "wof:lastmodified":1464203477,
+    "wof:name":"Emser Tile & Natural Stone",
+    "wof:parent_id":85805083,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "tile",
+        "dealer"
+    ]
+},
+  "bbox": [
+    -116.331342,
+    43.604932,
+    -116.331342,
+    43.604932
+],
+  "geometry": {"coordinates":[-116.33134200000001,43.604932],"type":"Point"}
+}

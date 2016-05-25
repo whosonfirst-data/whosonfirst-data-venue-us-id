@@ -1,0 +1,73 @@
+{
+  "id": 857621545,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-115.931369,47.47108,-115.931369,47.47108",
+    "geom:latitude":47.47108,
+    "geom:longitude":-115.931369,
+    "iso:country":"US",
+    "sg:address":"110 Elm St",
+    "sg:city":"Wallace",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 556 2083",
+    "sg:postcode":"83873",
+    "sg:province":"ID",
+    "sg:tags":[
+        "property",
+        "lessor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85937825,
+        102086103,
+        85849049
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4q3MlcXfNicEMg8Go3aCKo_47.471080_-115.931369@1294099250"
+    },
+    "wof:country":"US",
+    "wof:created":1464204464,
+    "wof:geomhash":"6f5128a32656f275c4e1666632bda9d4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086103,
+            "locality_id":85937825,
+            "neighbourhood_id":85849049,
+            "region_id":85688657,
+            "venue_id":857621545
+        }
+    ],
+    "wof:id":857621545,
+    "wof:lastmodified":1464204464,
+    "wof:name":"Jims Prop Management",
+    "wof:parent_id":85849049,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "property",
+        "lessor"
+    ]
+},
+  "bbox": [
+    -115.931369,
+    47.47108,
+    -115.931369,
+    47.47108
+],
+  "geometry": {"coordinates":[-115.931369,47.47108],"type":"Point"}
+}

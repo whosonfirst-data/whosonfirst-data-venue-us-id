@@ -1,0 +1,72 @@
+{
+  "id": 857630105,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-116.789009,47.694824,-116.789009,47.694824",
+    "geom:latitude":47.694824,
+    "geom:longitude":-116.789009,
+    "iso:country":"US",
+    "sg:address":"196 W Ironwood Dr",
+    "sg:city":"Coeur D Alene",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/id/coeur-dalene/180362-jack-in-the-box/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 664 8411",
+    "sg:postcode":"83814",
+    "sg:province":"ID",
+    "sg:tags":[
+        "burger",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85821457,
+        102086085
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4aUS7pp4x84YvSxeuRalFU_47.694824_-116.789009@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464204661,
+    "wof:geomhash":"2921d59c5ec7bc2b68c082aa4ad69bdf",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086085,
+            "neighbourhood_id":85821457,
+            "region_id":85688657,
+            "venue_id":857630105
+        }
+    ],
+    "wof:id":857630105,
+    "wof:lastmodified":1464204661,
+    "wof:name":"Jack in the Box",
+    "wof:parent_id":85821457,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american"
+    ]
+},
+  "bbox": [
+    -116.789009,
+    47.694824,
+    -116.789009,
+    47.694824
+],
+  "geometry": {"coordinates":[-116.78900899999999,47.694824],"type":"Point"}
+}

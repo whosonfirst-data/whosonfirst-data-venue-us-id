@@ -1,0 +1,68 @@
+{
+  "id": 857543551,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-116.27033,43.590081,-116.27033,43.590081",
+    "geom:latitude":43.590081,
+    "geom:longitude":-116.27033,
+    "iso:country":"US",
+    "sg:address":"6919 Overland Rd",
+    "sg:city":"Boise",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 375 3882",
+    "sg:postcode":"83709",
+    "sg:province":"ID",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        102191575,
+        85633793,
+        85937923,
+        102086087,
+        85876293
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_29UJmFAM2OEVkAFANuzMCd_43.590081_-116.270330@1294099250"
+    },
+    "wof:country":"US",
+    "wof:created":1464202812,
+    "wof:geomhash":"c2dcfe403594f2f29f032711c8016344",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086087,
+            "locality_id":85937923,
+            "neighbourhood_id":85876293,
+            "region_id":85688657,
+            "venue_id":857543551
+        }
+    ],
+    "wof:id":857543551,
+    "wof:lastmodified":1464202812,
+    "wof:name":"Cancun Authentic Mexican",
+    "wof:parent_id":85876293,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -116.27033,
+    43.590081,
+    -116.27033,
+    43.590081
+],
+  "geometry": {"coordinates":[-116.27033,43.590081],"type":"Point"}
+}

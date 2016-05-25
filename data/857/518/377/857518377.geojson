@@ -1,0 +1,83 @@
+{
+  "id": 857518377,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-116.990365,46.391365,-116.990365,46.391365",
+    "geom:latitude":46.391365,
+    "geom:longitude":-116.990365,
+    "iso:country":"US",
+    "sg:address":"101 Thain Rd",
+    "sg:city":"Lewiston",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Engineering",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 746 2661",
+    "sg:postcode":"83501",
+    "sg:province":"ID",
+    "sg:tags":[
+        "engineer"
+    ],
+    "sg:website":"www.uskh.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        102191575,
+        85633793,
+        85937743,
+        102086039,
+        85830385,
+        85837769
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_41IHHKL8jAh9ZJoOnzn7OI_46.391365_-116.990365@1294099250"
+    },
+    "wof:country":"US",
+    "wof:created":1464202315,
+    "wof:geomhash":"f4c2c904baccc6b06335ad7558d07326",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086039,
+            "locality_id":85937743,
+            "neighbourhood_id":85830385,
+            "region_id":85688657,
+            "venue_id":857518377
+        },
+        {
+            "country_id":85633793,
+            "county_id":102086039,
+            "locality_id":85937743,
+            "neighbourhood_id":85837769,
+            "region_id":85688657,
+            "venue_id":857518377
+        }
+    ],
+    "wof:id":857518377,
+    "wof:lastmodified":1464202315,
+    "wof:name":"Uskh Inc",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "engineer"
+    ]
+},
+  "bbox": [
+    -116.990365,
+    46.391365,
+    -116.990365,
+    46.391365
+],
+  "geometry": {"coordinates":[-116.990365,46.391365],"type":"Point"}
+}

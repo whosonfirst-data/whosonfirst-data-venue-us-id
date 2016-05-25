@@ -1,0 +1,71 @@
+{
+  "id": 857591033,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-116.799521,47.635135,-116.799521,47.635135",
+    "geom:latitude":47.635135,
+    "geom:longitude":-116.799521,
+    "iso:country":"US",
+    "sg:address":"1503 W Hull Loop",
+    "sg:city":"Coeur D Alene",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 667 2166",
+    "sg:postcode":"83814",
+    "sg:province":"ID",
+    "sg:tags":[
+        "residential",
+        "designer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85821457,
+        102086085
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5pfyPu1HsYBVC6r1n3y7Jc_47.635135_-116.799521@1294099250"
+    },
+    "wof:country":"US",
+    "wof:created":1464203785,
+    "wof:geomhash":"b00ce785b699b3387d051c70efa645d6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086085,
+            "neighbourhood_id":85821457,
+            "region_id":85688657,
+            "venue_id":857591033
+        }
+    ],
+    "wof:id":857591033,
+    "wof:lastmodified":1464203785,
+    "wof:name":"Robert Miller Designer",
+    "wof:parent_id":85821457,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "residential",
+        "designer"
+    ]
+},
+  "bbox": [
+    -116.799521,
+    47.635135,
+    -116.799521,
+    47.635135
+],
+  "geometry": {"coordinates":[-116.799521,47.635135],"type":"Point"}
+}

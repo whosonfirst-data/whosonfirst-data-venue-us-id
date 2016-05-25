@@ -1,0 +1,76 @@
+{
+  "id": 857629373,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-116.234494,43.589757,-116.234494,43.589757",
+    "geom:latitude":43.589757,
+    "geom:longitude":-116.234494,
+    "iso:country":"US",
+    "sg:address":"4218 W Overland Rd",
+    "sg:city":"Boise",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/id/boise-city/30432-idaho-pizza-company/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 343 5455",
+    "sg:postcode":"83705",
+    "sg:province":"ID",
+    "sg:tags":[
+        "american",
+        "pizza"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        102191575,
+        85633793,
+        85937923,
+        102086087,
+        85825393
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2wTxs2L9GRlKIUMOTMrSVw_43.589757_-116.234494@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464204649,
+    "wof:geomhash":"c629d645dc586017a0408245c52522d4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086087,
+            "locality_id":85937923,
+            "neighbourhood_id":85825393,
+            "region_id":85688657,
+            "venue_id":857629373
+        }
+    ],
+    "wof:id":857629373,
+    "wof:lastmodified":1464204649,
+    "wof:name":"Idaho Pizza Company",
+    "wof:parent_id":85825393,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "pizza"
+    ]
+},
+  "bbox": [
+    -116.234494,
+    43.589757,
+    -116.234494,
+    43.589757
+],
+  "geometry": {"coordinates":[-116.234494,43.589757],"type":"Point"}
+}

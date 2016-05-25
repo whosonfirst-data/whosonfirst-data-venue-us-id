@@ -1,0 +1,71 @@
+{
+  "id": 857558941,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-116.122627,47.533738,-116.122627,47.533738",
+    "geom:latitude":47.533738,
+    "geom:longitude":-116.122627,
+    "iso:country":"US",
+    "sg:address":"401 S Main St",
+    "sg:city":"Kellogg",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Printing",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 783 1107",
+    "sg:postcode":"83837",
+    "sg:province":"ID",
+    "sg:tags":[
+        "newspaper"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85937825,
+        102086103,
+        85849049
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1Q83iz9TQrf1gjJ4jI1b9y_47.533738_-116.122627@1294099250"
+    },
+    "wof:country":"US",
+    "wof:created":1464203126,
+    "wof:geomhash":"a3270a63de5b63dc32c3cb281efdc562",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086103,
+            "locality_id":85937825,
+            "neighbourhood_id":85849049,
+            "region_id":85688657,
+            "venue_id":857558941
+        }
+    ],
+    "wof:id":857558941,
+    "wof:lastmodified":1464203126,
+    "wof:name":"Shoshone News-Press",
+    "wof:parent_id":85849049,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "newspaper"
+    ]
+},
+  "bbox": [
+    -116.122627,
+    47.533738,
+    -116.122627,
+    47.533738
+],
+  "geometry": {"coordinates":[-116.12262699999999,47.533738],"type":"Point"}
+}

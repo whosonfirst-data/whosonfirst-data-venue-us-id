@@ -1,0 +1,74 @@
+{
+  "id": 857627929,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-117.001798,46.412541,-117.001798,46.412541",
+    "geom:latitude":46.412541,
+    "geom:longitude":-117.001798,
+    "iso:country":"US",
+    "sg:address":"2112 8th Ave",
+    "sg:city":"Lewiston",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/id/lewiston/120357-subway/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 743 4000",
+    "sg:postcode":"83501",
+    "sg:province":"ID",
+    "sg:tags":[
+        "american",
+        "sandwich"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85937743,
+        102086039,
+        85837769
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_76IlMRm8NVixlxgqOLrbg6_46.412541_-117.001798@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464204620,
+    "wof:geomhash":"c58ccecbfcce6dd148f132847148e919",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086039,
+            "locality_id":85937743,
+            "neighbourhood_id":85837769,
+            "region_id":85688657,
+            "venue_id":857627929
+        }
+    ],
+    "wof:id":857627929,
+    "wof:lastmodified":1464204620,
+    "wof:name":"Subway",
+    "wof:parent_id":85837769,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "sandwich"
+    ]
+},
+  "bbox": [
+    -117.001798,
+    46.412541,
+    -117.001798,
+    46.412541
+],
+  "geometry": {"coordinates":[-117.00179799999999,46.412541],"type":"Point"}
+}

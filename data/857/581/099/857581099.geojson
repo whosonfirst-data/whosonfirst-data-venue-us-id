@@ -1,0 +1,69 @@
+{
+  "id": 857581099,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-116.786684,47.735568,-116.786684,47.735568",
+    "geom:latitude":47.735568,
+    "geom:longitude":-116.786684,
+    "iso:country":"US",
+    "sg:address":"6960 N Government Way",
+    "sg:city":"Dalton Gardens",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 762 5157",
+    "sg:postcode":"83815",
+    "sg:province":"ID",
+    "sg:tags":[
+        "appliance"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85821457,
+        102086085
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4iAmQwLArbWyHrs1H8R0xx_47.735568_-116.786684@1294099250"
+    },
+    "wof:country":"US",
+    "wof:created":1464203573,
+    "wof:geomhash":"6d2d292a20433ce1c4845ab7a43ca347",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086085,
+            "neighbourhood_id":85821457,
+            "region_id":85688657,
+            "venue_id":857581099
+        }
+    ],
+    "wof:id":857581099,
+    "wof:lastmodified":1464203573,
+    "wof:name":"University Appliance",
+    "wof:parent_id":85821457,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "appliance"
+    ]
+},
+  "bbox": [
+    -116.786684,
+    47.735568,
+    -116.786684,
+    47.735568
+],
+  "geometry": {"coordinates":[-116.78668399999999,47.735568],"type":"Point"}
+}

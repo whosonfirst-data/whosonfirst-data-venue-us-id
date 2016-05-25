@@ -1,0 +1,71 @@
+{
+  "id": 857607153,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-116.540226,43.528598,-116.540226,43.528598",
+    "geom:latitude":43.528598,
+    "geom:longitude":-116.540226,
+    "iso:country":"US",
+    "sg:address":"4308 Choctaw Dr",
+    "sg:city":"Nampa",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Water",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 467 2092",
+    "sg:postcode":"83686",
+    "sg:province":"ID",
+    "sg:tags":[
+        "supply"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85938009,
+        102085081,
+        85827787
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2xjiD3oaYBZhp7Vs9ghQ7B_43.528598_-116.540226@1294099250"
+    },
+    "wof:country":"US",
+    "wof:created":1464204137,
+    "wof:geomhash":"9ae8b5d98f7dd998f5ba4a9d433c73cd",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085081,
+            "locality_id":85938009,
+            "neighbourhood_id":85827787,
+            "region_id":85688657,
+            "venue_id":857607153
+        }
+    ],
+    "wof:id":857607153,
+    "wof:lastmodified":1464204137,
+    "wof:name":"Apache Heights Water Corp",
+    "wof:parent_id":85827787,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "supply"
+    ]
+},
+  "bbox": [
+    -116.540226,
+    43.528598,
+    -116.540226,
+    43.528598
+],
+  "geometry": {"coordinates":[-116.540226,43.528598],"type":"Point"}
+}

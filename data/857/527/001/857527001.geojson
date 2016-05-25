@@ -1,0 +1,69 @@
+{
+  "id": 857527001,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-116.808272,47.760927,-116.808272,47.760927",
+    "geom:latitude":47.760927,
+    "geom:longitude":-116.808272,
+    "iso:country":"US",
+    "sg:address":"9741 N Ramsey Rd",
+    "sg:city":"Hayden Lake",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 772 3867",
+    "sg:postcode":"83835",
+    "sg:province":"ID",
+    "sg:tags":[
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85821457,
+        102086085
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4elHMunGBOyW3AHjvD3hHh_47.760927_-116.808272@1294099250"
+    },
+    "wof:country":"US",
+    "wof:created":1464202486,
+    "wof:geomhash":"4d6d3b90f99b66c74f04b32c8559e045",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086085,
+            "neighbourhood_id":85821457,
+            "region_id":85688657,
+            "venue_id":857527001
+        }
+    ],
+    "wof:id":857527001,
+    "wof:lastmodified":1464202486,
+    "wof:name":"Steve Heberer Trucking",
+    "wof:parent_id":85821457,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "trucking"
+    ]
+},
+  "bbox": [
+    -116.808272,
+    47.760927,
+    -116.808272,
+    47.760927
+],
+  "geometry": {"coordinates":[-116.808272,47.760927],"type":"Point"}
+}

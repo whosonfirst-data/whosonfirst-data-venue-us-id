@@ -1,0 +1,76 @@
+{
+  "id": 857628929,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-116.205025,43.616422,-116.205025,43.616422",
+    "geom:latitude":43.616422,
+    "geom:longitude":-116.205025,
+    "iso:country":"US",
+    "sg:address":"928 W Main St",
+    "sg:city":"Boise",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/id/boise-city/31421-bombay-grill/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 345 7888",
+    "sg:postcode":"83702",
+    "sg:province":"ID",
+    "sg:tags":[
+        "indian",
+        "asian"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        102191575,
+        85633793,
+        85937923,
+        102086087,
+        85876297
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6aHn8RGEl7hCrTcAGS90SJ_43.616422_-116.205025@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464204641,
+    "wof:geomhash":"108f9943c3b9344094181d333a9f04c2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086087,
+            "locality_id":85937923,
+            "neighbourhood_id":85876297,
+            "region_id":85688657,
+            "venue_id":857628929
+        }
+    ],
+    "wof:id":857628929,
+    "wof:lastmodified":1464204641,
+    "wof:name":"Bombay Grill",
+    "wof:parent_id":85876297,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "indian",
+        "asian"
+    ]
+},
+  "bbox": [
+    -116.205025,
+    43.616422,
+    -116.205025,
+    43.616422
+],
+  "geometry": {"coordinates":[-116.20502500000001,43.616422],"type":"Point"}
+}

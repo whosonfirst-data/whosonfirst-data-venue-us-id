@@ -1,0 +1,76 @@
+{
+  "id": 857628365,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-116.392179,43.618248,-116.392179,43.618248",
+    "geom:latitude":43.618248,
+    "geom:longitude":-116.392179,
+    "iso:country":"US",
+    "sg:address":"1603 N Main St",
+    "sg:city":"Meridian",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/id/boise-city/225039-kahootz/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 895 9861",
+    "sg:postcode":"83642",
+    "sg:province":"ID",
+    "sg:tags":[
+        "american",
+        "steakhouse"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        102191575,
+        85633793,
+        85937915,
+        102086087,
+        85811491
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7eCifXNxr5ZbeUp9I9N0Hq_43.618248_-116.392179@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464204630,
+    "wof:geomhash":"d17f4db5cc0f7ebae5a1c5418da1af31",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086087,
+            "locality_id":85937915,
+            "neighbourhood_id":85811491,
+            "region_id":85688657,
+            "venue_id":857628365
+        }
+    ],
+    "wof:id":857628365,
+    "wof:lastmodified":1464204630,
+    "wof:name":"Kahootz",
+    "wof:parent_id":85811491,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "steakhouse"
+    ]
+},
+  "bbox": [
+    -116.392179,
+    43.618248,
+    -116.392179,
+    43.618248
+],
+  "geometry": {"coordinates":[-116.392179,43.618248],"type":"Point"}
+}

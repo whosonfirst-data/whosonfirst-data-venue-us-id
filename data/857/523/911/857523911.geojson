@@ -1,0 +1,70 @@
+{
+  "id": 857523911,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-116.207357,43.568012,-116.207357,43.568012",
+    "geom:latitude":43.568012,
+    "geom:longitude":-116.207357,
+    "iso:country":"US",
+    "sg:address":"3998 Development Ave",
+    "sg:city":"Boise",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 384 3398",
+    "sg:postcode":"83705",
+    "sg:province":"ID",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        102527733,
+        85876337,
+        102191575,
+        85633793,
+        85937923,
+        102086087,
+        85688657
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7dm7ZhtLrnInPO5J6pCivT_43.568012_-116.207357@1294099250"
+    },
+    "wof:country":"US",
+    "wof:created":1464202428,
+    "wof:geomhash":"60d2e3a44b211badb31004e95c7d1e4e",
+    "wof:hierarchy":[
+        {
+            "campus_id":102527733,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086087,
+            "locality_id":85937923,
+            "neighbourhood_id":85876337,
+            "region_id":85688657,
+            "venue_id":857523911
+        }
+    ],
+    "wof:id":857523911,
+    "wof:lastmodified":1464202428,
+    "wof:name":"Fire Dispatch",
+    "wof:parent_id":102527733,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -116.207357,
+    43.568012,
+    -116.207357,
+    43.568012
+],
+  "geometry": {"coordinates":[-116.207357,43.568012],"type":"Point"}
+}

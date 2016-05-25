@@ -1,0 +1,71 @@
+{
+  "id": 857582597,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-115.796763,47.47099,-115.796763,47.47099",
+    "geom:latitude":47.47099,
+    "geom:longitude":-115.796763,
+    "iso:country":"US",
+    "sg:address":"520 Earle St",
+    "sg:city":"Mullan",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 744 1367",
+    "sg:postcode":"83846",
+    "sg:province":"ID",
+    "sg:tags":[
+        "wrecker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85937825,
+        102086103,
+        85849049
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4kenNKfeREfOywYovWwaEV_47.470990_-115.796763@1294099250"
+    },
+    "wof:country":"US",
+    "wof:created":1464203601,
+    "wof:geomhash":"eaddb7196fdbb78b575fb9ab1c20a47e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086103,
+            "locality_id":85937825,
+            "neighbourhood_id":85849049,
+            "region_id":85688657,
+            "venue_id":857582597
+        }
+    ],
+    "wof:id":857582597,
+    "wof:lastmodified":1464203601,
+    "wof:name":"Don's Towing Svc",
+    "wof:parent_id":85849049,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "wrecker"
+    ]
+},
+  "bbox": [
+    -115.796763,
+    47.47099,
+    -115.796763,
+    47.47099
+],
+  "geometry": {"coordinates":[-115.796763,47.47099],"type":"Point"}
+}

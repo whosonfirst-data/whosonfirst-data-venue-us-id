@@ -1,0 +1,71 @@
+{
+  "id": 857522387,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-116.413548,43.612795,-116.413548,43.612795",
+    "geom:latitude":43.612795,
+    "geom:longitude":-116.413548,
+    "iso:country":"US",
+    "sg:address":"900 N Linder Rd",
+    "sg:city":"Meridian",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Clinic",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 888 7877",
+    "sg:postcode":"83642",
+    "sg:province":"ID",
+    "sg:tags":[
+        "home"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85937915,
+        102086087,
+        85805083
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2i2XX9ZiCMWDF2R7KNIj99_43.612795_-116.413548@1294099250"
+    },
+    "wof:country":"US",
+    "wof:created":1464202397,
+    "wof:geomhash":"bdc62e85e88c9b76a61f3b2bd17b102f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086087,
+            "locality_id":85937915,
+            "neighbourhood_id":85805083,
+            "region_id":85688657,
+            "venue_id":857522387
+        }
+    ],
+    "wof:id":857522387,
+    "wof:lastmodified":1464202397,
+    "wof:name":"Horizon Home Health & Hospice",
+    "wof:parent_id":85805083,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "home"
+    ]
+},
+  "bbox": [
+    -116.413548,
+    43.612795,
+    -116.413548,
+    43.612795
+],
+  "geometry": {"coordinates":[-116.41354800000001,43.612795],"type":"Point"}
+}

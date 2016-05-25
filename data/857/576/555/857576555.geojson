@@ -1,0 +1,69 @@
+{
+  "id": 857576555,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-116.695451,47.842833,-116.695451,47.842833",
+    "geom:latitude":47.842833,
+    "geom:longitude":-116.695451,
+    "iso:country":"US",
+    "sg:address":"6643 E Ohio Match Rd",
+    "sg:city":"Hayden",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 772 7219",
+    "sg:postcode":"83835",
+    "sg:province":"ID",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85821457,
+        102086085
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7aqYwi1zB4P3YMgiZEVySs_47.842833_-116.695451@1294099250"
+    },
+    "wof:country":"US",
+    "wof:created":1464203481,
+    "wof:geomhash":"361cb4f29c993576778c01c6dba939fe",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086085,
+            "neighbourhood_id":85821457,
+            "region_id":85688657,
+            "venue_id":857576555
+        }
+    ],
+    "wof:id":857576555,
+    "wof:lastmodified":1464203481,
+    "wof:name":"Buds Plumbing Repair",
+    "wof:parent_id":85821457,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -116.695451,
+    47.842833,
+    -116.695451,
+    47.842833
+],
+  "geometry": {"coordinates":[-116.69545100000001,47.842833],"type":"Point"}
+}

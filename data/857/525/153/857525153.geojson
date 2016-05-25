@@ -1,0 +1,71 @@
+{
+  "id": 857525153,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-116.388589,43.575678,-116.388589,43.575678",
+    "geom:latitude":43.575678,
+    "geom:longitude":-116.388589,
+    "iso:country":"US",
+    "sg:address":"100 E Victory Rd",
+    "sg:city":"Meridian",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Garden Supply",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 888 5551",
+    "sg:postcode":"83642",
+    "sg:province":"ID",
+    "sg:tags":[
+        "nurseryman"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85937915,
+        102086087,
+        85805083
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4fcgEVulgLpmtDH5xIo0so_43.575678_-116.388589@1294099250"
+    },
+    "wof:country":"US",
+    "wof:created":1464202453,
+    "wof:geomhash":"6abb3066abc73fc439f6893e3a982b08",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086087,
+            "locality_id":85937915,
+            "neighbourhood_id":85805083,
+            "region_id":85688657,
+            "venue_id":857525153
+        }
+    ],
+    "wof:id":857525153,
+    "wof:lastmodified":1464202453,
+    "wof:name":"Victory Greens",
+    "wof:parent_id":85805083,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "nurseryman"
+    ]
+},
+  "bbox": [
+    -116.388589,
+    43.575678,
+    -116.388589,
+    43.575678
+],
+  "geometry": {"coordinates":[-116.388589,43.575678],"type":"Point"}
+}

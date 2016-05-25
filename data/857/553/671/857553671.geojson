@@ -1,0 +1,71 @@
+{
+  "id": 857553671,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-116.5661,43.581618,-116.5661,43.581618",
+    "geom:latitude":43.581618,
+    "geom:longitude":-116.5661,
+    "iso:country":"US",
+    "sg:address":"209 7th Ave S",
+    "sg:city":"Nampa",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Medical Lab",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 465 5992",
+    "sg:postcode":"83651",
+    "sg:province":"ID",
+    "sg:tags":[
+        "laboratory"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85938009,
+        102085081,
+        85827787
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2syDJRnvUnVnFT1OtcY2Q0_43.581618_-116.566100@1294099250"
+    },
+    "wof:country":"US",
+    "wof:created":1464203001,
+    "wof:geomhash":"657029aae90252df4e7d49c322dfa2c9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085081,
+            "locality_id":85938009,
+            "neighbourhood_id":85827787,
+            "region_id":85688657,
+            "venue_id":857553671
+        }
+    ],
+    "wof:id":857553671,
+    "wof:lastmodified":1464203001,
+    "wof:name":"Wright Dental Ceramics",
+    "wof:parent_id":85827787,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "laboratory"
+    ]
+},
+  "bbox": [
+    -116.5661,
+    43.581618,
+    -116.5661,
+    43.581618
+],
+  "geometry": {"coordinates":[-116.56610000000001,43.581618],"type":"Point"}
+}

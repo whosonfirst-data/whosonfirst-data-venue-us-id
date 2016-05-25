@@ -1,0 +1,73 @@
+{
+  "id": 857604801,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-116.591487,43.535441,-116.591487,43.535441",
+    "geom:latitude":43.535441,
+    "geom:longitude":-116.591487,
+    "iso:country":"US",
+    "sg:address":"3419 Vista Dr",
+    "sg:city":"Nampa",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Laundry & Dry Cleaning",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 467 6903",
+    "sg:postcode":"83686",
+    "sg:province":"ID",
+    "sg:tags":[
+        "clothing",
+        "alteration"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85938009,
+        102085081,
+        85827787
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6wUzx46MlIlmQUoIBvxe4r_43.535441_-116.591487@1294099250"
+    },
+    "wof:country":"US",
+    "wof:created":1464204092,
+    "wof:geomhash":"00dee13c5acff978b8bfd0f0dd7dc82d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085081,
+            "locality_id":85938009,
+            "neighbourhood_id":85827787,
+            "region_id":85688657,
+            "venue_id":857604801
+        }
+    ],
+    "wof:id":857604801,
+    "wof:lastmodified":1464204092,
+    "wof:name":"Alterations By Carol",
+    "wof:parent_id":85827787,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "clothing",
+        "alteration"
+    ]
+},
+  "bbox": [
+    -116.591487,
+    43.535441,
+    -116.591487,
+    43.535441
+],
+  "geometry": {"coordinates":[-116.591487,43.535441],"type":"Point"}
+}

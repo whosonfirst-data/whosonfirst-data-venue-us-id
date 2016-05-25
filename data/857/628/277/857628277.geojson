@@ -1,0 +1,76 @@
+{
+  "id": 857628277,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-116.367106,43.61982,-116.367106,43.61982",
+    "geom:latitude":43.61982,
+    "geom:longitude":-116.367106,
+    "iso:country":"US",
+    "sg:address":"2160 E Fairview Ave",
+    "sg:city":"Meridian",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/id/boise-city/207238-sonic/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 888 7110",
+    "sg:postcode":"83642",
+    "sg:province":"ID",
+    "sg:tags":[
+        "burger",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        102191575,
+        85633793,
+        85937915,
+        102086087,
+        85811491
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5TdEoY3qmMfkKih8Vp15y3_43.619820_-116.367106@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464204629,
+    "wof:geomhash":"9ff6e67e67ed30b57284d50c95e14d0e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086087,
+            "locality_id":85937915,
+            "neighbourhood_id":85811491,
+            "region_id":85688657,
+            "venue_id":857628277
+        }
+    ],
+    "wof:id":857628277,
+    "wof:lastmodified":1464204629,
+    "wof:name":"Sonic",
+    "wof:parent_id":85811491,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american"
+    ]
+},
+  "bbox": [
+    -116.367106,
+    43.61982,
+    -116.367106,
+    43.61982
+],
+  "geometry": {"coordinates":[-116.36710600000001,43.61982],"type":"Point"}
+}

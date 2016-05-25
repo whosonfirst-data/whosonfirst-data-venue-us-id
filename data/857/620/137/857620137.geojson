@@ -1,0 +1,71 @@
+{
+  "id": 857620137,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-116.639377,43.488411,-116.639377,43.488411",
+    "geom:latitude":43.488411,
+    "geom:longitude":-116.639377,
+    "iso:country":"US",
+    "sg:address":"12322 Missouri Ave",
+    "sg:city":"Nampa",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 880 0559",
+    "sg:postcode":"83686",
+    "sg:province":"ID",
+    "sg:tags":[
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85938009,
+        102085081,
+        85827787
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0qewAFIHso81ZBiKzyWI6h_43.488411_-116.639377@1294099250"
+    },
+    "wof:country":"US",
+    "wof:created":1464204436,
+    "wof:geomhash":"6a259854d0ddff50563b08f9e5c9a088",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085081,
+            "locality_id":85938009,
+            "neighbourhood_id":85827787,
+            "region_id":85688657,
+            "venue_id":857620137
+        }
+    ],
+    "wof:id":857620137,
+    "wof:lastmodified":1464204436,
+    "wof:name":"R Taggart Farms",
+    "wof:parent_id":85827787,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "trucking"
+    ]
+},
+  "bbox": [
+    -116.639377,
+    43.488411,
+    -116.639377,
+    43.488411
+],
+  "geometry": {"coordinates":[-116.639377,43.488411],"type":"Point"}
+}

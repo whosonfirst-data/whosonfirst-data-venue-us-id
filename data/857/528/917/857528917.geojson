@@ -1,0 +1,71 @@
+{
+  "id": 857528917,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-117.014005,46.416178,-117.014005,46.416178",
+    "geom:latitude":46.416178,
+    "geom:longitude":-117.014005,
+    "iso:country":"US",
+    "sg:address":"1323 Idaho St",
+    "sg:city":"Lewiston",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Portrait Studio",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 746 5325",
+    "sg:postcode":"83501",
+    "sg:province":"ID",
+    "sg:tags":[
+        "photographer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85937743,
+        102086039,
+        85837769
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3RBgyE4sdB8G714QtudWLH_46.416178_-117.014005@1294099250"
+    },
+    "wof:country":"US",
+    "wof:created":1464202523,
+    "wof:geomhash":"62c224eb93dadf239b5613943c4cd5be",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086039,
+            "locality_id":85937743,
+            "neighbourhood_id":85837769,
+            "region_id":85688657,
+            "venue_id":857528917
+        }
+    ],
+    "wof:id":857528917,
+    "wof:lastmodified":1464202523,
+    "wof:name":"Rainer's Portrait Studio",
+    "wof:parent_id":85837769,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "photographer"
+    ]
+},
+  "bbox": [
+    -117.014005,
+    46.416178,
+    -117.014005,
+    46.416178
+],
+  "geometry": {"coordinates":[-117.014005,46.416178],"type":"Point"}
+}

@@ -1,0 +1,69 @@
+{
+  "id": 857562761,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-116.453275,47.577909,-116.453275,47.577909",
+    "geom:latitude":47.577909,
+    "geom:longitude":-116.453275,
+    "iso:country":"US",
+    "sg:address":"24537 E Canyon Rd",
+    "sg:city":"Cataldo",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 682 4453",
+    "sg:postcode":"83810",
+    "sg:province":"ID",
+    "sg:tags":[
+        "taxidermist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85821457,
+        102086085
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5kVtqrUAQ7w3cKrnRcV781_47.577909_-116.453275@1294099250"
+    },
+    "wof:country":"US",
+    "wof:created":1464203216,
+    "wof:geomhash":"e491c882d9b5eb4bc8002cff3c4c9cd3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086085,
+            "neighbourhood_id":85821457,
+            "region_id":85688657,
+            "venue_id":857562761
+        }
+    ],
+    "wof:id":857562761,
+    "wof:lastmodified":1464203216,
+    "wof:name":"Dan's Headhunters Taxidermy",
+    "wof:parent_id":85821457,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "taxidermist"
+    ]
+},
+  "bbox": [
+    -116.453275,
+    47.577909,
+    -116.453275,
+    47.577909
+],
+  "geometry": {"coordinates":[-116.453275,47.577909],"type":"Point"}
+}

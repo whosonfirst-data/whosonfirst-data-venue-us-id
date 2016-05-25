@@ -1,0 +1,71 @@
+{
+  "id": 857590507,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-116.57435,43.585792,-116.57435,43.585792",
+    "geom:latitude":43.585792,
+    "geom:longitude":-116.57435,
+    "iso:country":"US",
+    "sg:address":"124 Caldwell Blvd",
+    "sg:city":"Nampa",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Equipment Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 461 3100",
+    "sg:postcode":"83651",
+    "sg:province":"ID",
+    "sg:tags":[
+        "yard"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85938009,
+        102085081,
+        85827787
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1b5u2TZpGwmGMeyYV9lReW_43.585792_-116.574350@1294099250"
+    },
+    "wof:country":"US",
+    "wof:created":1464203772,
+    "wof:geomhash":"5cff828381e774909256c19d5952c22c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085081,
+            "locality_id":85938009,
+            "neighbourhood_id":85827787,
+            "region_id":85688657,
+            "venue_id":857590507
+        }
+    ],
+    "wof:id":857590507,
+    "wof:lastmodified":1464203772,
+    "wof:name":"Color Tyme",
+    "wof:parent_id":85827787,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "yard"
+    ]
+},
+  "bbox": [
+    -116.57435,
+    43.585792,
+    -116.57435,
+    43.585792
+],
+  "geometry": {"coordinates":[-116.57435,43.585792],"type":"Point"}
+}

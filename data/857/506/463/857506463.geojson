@@ -1,0 +1,71 @@
+{
+  "id": 857506463,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-116.788442,47.744547,-116.788442,47.744547",
+    "geom:latitude":47.744547,
+    "geom:longitude":-116.788442,
+    "iso:country":"US",
+    "sg:address":"121 W Prairie Ave",
+    "sg:city":"Hayden",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Cleaning & Sanitation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 762 4157",
+    "sg:postcode":"83835",
+    "sg:province":"ID",
+    "sg:tags":[
+        "fireplace",
+        "chimney"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85821457,
+        102086085
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5voJBCzqbk09XvziPENXvj_47.744547_-116.788442@1294099250"
+    },
+    "wof:country":"US",
+    "wof:created":1464202069,
+    "wof:geomhash":"bc2bf4b24e7b6e594c308c12c2deca54",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086085,
+            "neighbourhood_id":85821457,
+            "region_id":85688657,
+            "venue_id":857506463
+        }
+    ],
+    "wof:id":857506463,
+    "wof:lastmodified":1464202069,
+    "wof:name":"Smoke Signals Chimney Cleaning",
+    "wof:parent_id":85821457,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "fireplace",
+        "chimney"
+    ]
+},
+  "bbox": [
+    -116.788442,
+    47.744547,
+    -116.788442,
+    47.744547
+],
+  "geometry": {"coordinates":[-116.788442,47.744547],"type":"Point"}
+}

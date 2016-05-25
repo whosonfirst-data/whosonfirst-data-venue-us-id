@@ -1,0 +1,69 @@
+{
+  "id": 857538883,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-116.774649,47.8246,-116.774649,47.8246",
+    "geom:latitude":47.8246,
+    "geom:longitude":-116.774649,
+    "iso:country":"US",
+    "sg:address":"1684 E Hudlow Rd",
+    "sg:city":"Hayden",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Retail Goods",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 762 0672",
+    "sg:postcode":"83835",
+    "sg:province":"ID",
+    "sg:tags":[
+        "manufacturer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85821457,
+        102086085
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0OiEHSTDywPi2lUx84zH6R_47.824600_-116.774649@1294099250"
+    },
+    "wof:country":"US",
+    "wof:created":1464202715,
+    "wof:geomhash":"da92f6a82ca735b07e4c63db6ae5a5c2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086085,
+            "neighbourhood_id":85821457,
+            "region_id":85688657,
+            "venue_id":857538883
+        }
+    ],
+    "wof:id":857538883,
+    "wof:lastmodified":1464202715,
+    "wof:name":"CMC",
+    "wof:parent_id":85821457,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "manufacturer"
+    ]
+},
+  "bbox": [
+    -116.774649,
+    47.8246,
+    -116.774649,
+    47.8246
+],
+  "geometry": {"coordinates":[-116.774649,47.8246],"type":"Point"}
+}

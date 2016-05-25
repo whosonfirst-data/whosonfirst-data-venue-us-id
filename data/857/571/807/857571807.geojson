@@ -1,0 +1,81 @@
+{
+  "id": 857571807,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-116.814648,47.70259,-116.814648,47.70259",
+    "geom:latitude":47.70259,
+    "geom:longitude":-116.814648,
+    "iso:country":"US",
+    "sg:address":"2080 S Fairway Dr",
+    "sg:city":"Coeur D Alene",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Metals & Minerals",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 661 2481",
+    "sg:postcode":"83815",
+    "sg:province":"ID",
+    "sg:tags":[
+        "center"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85821457,
+        102086085,
+        102191575,
+        85938163,
+        85806325
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7KQ6DwtBvci8950pFJXweW_47.702590_-116.814648@1294099250"
+    },
+    "wof:country":"US",
+    "wof:created":1464203385,
+    "wof:geomhash":"1de982ec7d1d77abe8cf775daf2bd42c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086085,
+            "neighbourhood_id":85821457,
+            "region_id":85688657,
+            "venue_id":857571807
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086085,
+            "locality_id":85938163,
+            "neighbourhood_id":85806325,
+            "region_id":85688657,
+            "venue_id":857571807
+        }
+    ],
+    "wof:id":857571807,
+    "wof:lastmodified":1464203385,
+    "wof:name":"K & K Distributors",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "center"
+    ]
+},
+  "bbox": [
+    -116.814648,
+    47.70259,
+    -116.814648,
+    47.70259
+],
+  "geometry": {"coordinates":[-116.81464800000001,47.70259],"type":"Point"}
+}

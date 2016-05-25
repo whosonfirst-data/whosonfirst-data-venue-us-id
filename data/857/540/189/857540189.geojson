@@ -1,0 +1,71 @@
+{
+  "id": 857540189,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-116.598482,43.538794,-116.598482,43.538794",
+    "geom:latitude":43.538794,
+    "geom:longitude":-116.598482,
+    "iso:country":"US",
+    "sg:address":"3123 Ginger Ln",
+    "sg:city":"Nampa",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 467 1322",
+    "sg:postcode":"83686",
+    "sg:province":"ID",
+    "sg:tags":[
+        "eating"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85938009,
+        102085081,
+        85827787
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4m4y42TH8DirxMtgKkVQ4z_43.538794_-116.598482@1294099250"
+    },
+    "wof:country":"US",
+    "wof:created":1464202740,
+    "wof:geomhash":"a0cb8ff3f5ba9c273ecb29b966604127",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085081,
+            "locality_id":85938009,
+            "neighbourhood_id":85827787,
+            "region_id":85688657,
+            "venue_id":857540189
+        }
+    ],
+    "wof:id":857540189,
+    "wof:lastmodified":1464202740,
+    "wof:name":"Trinity Catering",
+    "wof:parent_id":85827787,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "eating"
+    ]
+},
+  "bbox": [
+    -116.598482,
+    43.538794,
+    -116.598482,
+    43.538794
+],
+  "geometry": {"coordinates":[-116.598482,43.538794],"type":"Point"}
+}

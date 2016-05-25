@@ -1,0 +1,77 @@
+{
+  "id": 857555099,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-116.215732,43.568201,-116.215732,43.568201",
+    "geom:latitude":43.568201,
+    "geom:longitude":-116.215732,
+    "iso:country":"US",
+    "sg:address":"2703 Apollo St",
+    "sg:city":"Boise",
+    "sg:classifiers":[
+        {
+            "category":"Airline",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 336 2045",
+    "sg:postcode":"83705",
+    "sg:province":"ID",
+    "sg:tags":[
+        "cargo",
+        "air"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        102527733,
+        85876337,
+        102191575,
+        85633793,
+        85937923,
+        102086087,
+        85688657
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3dwkG7sBqHWr2Zz3mhWxxh_43.568201_-116.215732@1294099250"
+    },
+    "wof:country":"US",
+    "wof:created":1464203030,
+    "wof:geomhash":"036add02a352de057703764074c6dce5",
+    "wof:hierarchy":[
+        {
+            "campus_id":102527733,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086087,
+            "locality_id":85937923,
+            "neighbourhood_id":85876337,
+            "region_id":85688657,
+            "venue_id":857555099
+        }
+    ],
+    "wof:id":857555099,
+    "wof:lastmodified":1464203030,
+    "wof:name":"Southwest Airlines Cargo",
+    "wof:parent_id":102527733,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cargo",
+        "air"
+    ]
+},
+  "bbox": [
+    -116.215732,
+    43.568201,
+    -116.215732,
+    43.568201
+],
+  "geometry": {"coordinates":[-116.215732,43.568201],"type":"Point"}
+}

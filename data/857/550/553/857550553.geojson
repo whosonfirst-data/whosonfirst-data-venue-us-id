@@ -1,0 +1,71 @@
+{
+  "id": 857550553,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-116.785223,47.773426,-116.785223,47.773426",
+    "geom:latitude":47.773426,
+    "geom:longitude":-116.785223,
+    "iso:country":"US",
+    "sg:address":"116 E Wyoming Ave",
+    "sg:city":"Hayden",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Aerospace",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 762 1223",
+    "sg:postcode":"83835",
+    "sg:province":"ID",
+    "sg:tags":[
+        "aircraft",
+        "mfg"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85821457,
+        102086085
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3MwiFHIJdOMEiKmtZjegXS_47.773426_-116.785223@1294099250"
+    },
+    "wof:country":"US",
+    "wof:created":1464202941,
+    "wof:geomhash":"45770792ae3d861caf9568bf8edabb90",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086085,
+            "neighbourhood_id":85821457,
+            "region_id":85688657,
+            "venue_id":857550553
+        }
+    ],
+    "wof:id":857550553,
+    "wof:lastmodified":1464202941,
+    "wof:name":"Aeroplane Works",
+    "wof:parent_id":85821457,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "aircraft",
+        "mfg"
+    ]
+},
+  "bbox": [
+    -116.785223,
+    47.773426,
+    -116.785223,
+    47.773426
+],
+  "geometry": {"coordinates":[-116.785223,47.773426],"type":"Point"}
+}

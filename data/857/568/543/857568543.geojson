@@ -1,0 +1,86 @@
+{
+  "id": 857568543,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-116.97943,46.382442,-116.97943,46.382442",
+    "geom:latitude":46.382442,
+    "geom:longitude":-116.97943,
+    "iso:country":"US",
+    "sg:address":"324 Thain Rd",
+    "sg:city":"Lewiston",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 746 8136",
+    "sg:postcode":"83501",
+    "sg:province":"ID",
+    "sg:tags":[
+        "glass",
+        "coating",
+        "tinting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85937743,
+        102086039,
+        85837769,
+        102191575,
+        85830385
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3WwLktHtQTNB3wmj2geRqt_46.382442_-116.979430@1294099250"
+    },
+    "wof:country":"US",
+    "wof:created":1464203325,
+    "wof:geomhash":"6a9b0429662f6d75e3dc5bef9d0741d6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086039,
+            "locality_id":85937743,
+            "neighbourhood_id":85837769,
+            "region_id":85688657,
+            "venue_id":857568543
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086039,
+            "locality_id":85937743,
+            "neighbourhood_id":85830385,
+            "region_id":85688657,
+            "venue_id":857568543
+        }
+    ],
+    "wof:id":857568543,
+    "wof:lastmodified":1464203325,
+    "wof:name":"Class Tints",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "glass",
+        "coating",
+        "tinting"
+    ]
+},
+  "bbox": [
+    -116.97943,
+    46.382442,
+    -116.97943,
+    46.382442
+],
+  "geometry": {"coordinates":[-116.97942999999999,46.382442],"type":"Point"}
+}

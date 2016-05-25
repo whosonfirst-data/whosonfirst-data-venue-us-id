@@ -1,0 +1,73 @@
+{
+  "id": 857614991,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-116.570439,43.543912,-116.570439,43.543912",
+    "geom:latitude":43.543912,
+    "geom:longitude":-116.570439,
+    "iso:country":"US",
+    "sg:address":"2502 Sunnybrook Dr",
+    "sg:city":"Nampa",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 467 7533",
+    "sg:postcode":"83686",
+    "sg:province":"ID",
+    "sg:tags":[
+        "operator",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85938009,
+        102085081,
+        85827787
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5EgS1pjSsNuvW7VDIBL7eq_43.543912_-116.570439@1294099250"
+    },
+    "wof:country":"US",
+    "wof:created":1464204322,
+    "wof:geomhash":"b4c4a0b34e11f7a14b450cf6142abd76",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085081,
+            "locality_id":85938009,
+            "neighbourhood_id":85827787,
+            "region_id":85688657,
+            "venue_id":857614991
+        }
+    ],
+    "wof:id":857614991,
+    "wof:lastmodified":1464204322,
+    "wof:name":"Flonta Inc",
+    "wof:parent_id":85827787,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -116.570439,
+    43.543912,
+    -116.570439,
+    43.543912
+],
+  "geometry": {"coordinates":[-116.57043899999999,43.543912],"type":"Point"}
+}

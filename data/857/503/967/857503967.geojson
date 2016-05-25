@@ -1,0 +1,73 @@
+{
+  "id": 857503967,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-117.029764,46.415669,-117.029764,46.415669",
+    "geom:latitude":46.415669,
+    "geom:longitude":-117.029764,
+    "iso:country":"US",
+    "sg:address":"307 5th Ave",
+    "sg:city":"Lewiston",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 746 0133",
+    "sg:postcode":"83501",
+    "sg:province":"ID",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85937743,
+        102086039,
+        85852537
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0GX93Ifk8Vfv39xje20on8_46.415669_-117.029764@1294099250"
+    },
+    "wof:country":"US",
+    "wof:created":1464202005,
+    "wof:geomhash":"cb75a0cc7447074b9a2627c31293eead",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086039,
+            "locality_id":85937743,
+            "neighbourhood_id":85852537,
+            "region_id":85688657,
+            "venue_id":857503967
+        }
+    ],
+    "wof:id":857503967,
+    "wof:lastmodified":1464202005,
+    "wof:name":"Gary M Thorne MD",
+    "wof:parent_id":85852537,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -117.029764,
+    46.415669,
+    -117.029764,
+    46.415669
+],
+  "geometry": {"coordinates":[-117.029764,46.415669],"type":"Point"}
+}

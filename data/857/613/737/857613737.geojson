@@ -1,0 +1,71 @@
+{
+  "id": 857613737,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-116.418675,43.595098,-116.418675,43.595098",
+    "geom:latitude":43.595098,
+    "geom:longitude":-116.418675,
+    "iso:country":"US",
+    "sg:address":"1960 Verbena Dr",
+    "sg:city":"Meridian",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 895 8146",
+    "sg:postcode":"83642",
+    "sg:province":"ID",
+    "sg:tags":[
+        "electrical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85937915,
+        102086087,
+        85805083
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7M5VWwtLg868JUwv5xHrJk_43.595098_-116.418675@1294099250"
+    },
+    "wof:country":"US",
+    "wof:created":1464204296,
+    "wof:geomhash":"2643af97d477e1d7668becd0f7f0890c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086087,
+            "locality_id":85937915,
+            "neighbourhood_id":85805083,
+            "region_id":85688657,
+            "venue_id":857613737
+        }
+    ],
+    "wof:id":857613737,
+    "wof:lastmodified":1464204296,
+    "wof:name":"E B Enterprises",
+    "wof:parent_id":85805083,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electrical"
+    ]
+},
+  "bbox": [
+    -116.418675,
+    43.595098,
+    -116.418675,
+    43.595098
+],
+  "geometry": {"coordinates":[-116.41867499999999,43.595098],"type":"Point"}
+}

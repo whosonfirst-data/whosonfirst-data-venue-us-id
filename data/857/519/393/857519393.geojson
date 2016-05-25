@@ -1,0 +1,83 @@
+{
+  "id": 857519393,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-116.794856,47.717978,-116.794856,47.717978",
+    "geom:latitude":47.717978,
+    "geom:longitude":-116.794856,
+    "iso:country":"US",
+    "sg:address":"5083 N Building Center Dr",
+    "sg:city":"Coeur D Alene",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Machinery & Supplies",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 666 4080",
+    "sg:postcode":"83815",
+    "sg:province":"ID",
+    "sg:tags":[
+        "crane",
+        "derrick"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85821457,
+        102086085,
+        102191575,
+        85938163,
+        85806325
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5mPl0pBiqpVGBaSLiTocdb_47.717978_-116.794856@1294099250"
+    },
+    "wof:country":"US",
+    "wof:created":1464202338,
+    "wof:geomhash":"ca0a81f7bf461cb2bccbb4716e3873a8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086085,
+            "neighbourhood_id":85821457,
+            "region_id":85688657,
+            "venue_id":857519393
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086085,
+            "locality_id":85938163,
+            "neighbourhood_id":85806325,
+            "region_id":85688657,
+            "venue_id":857519393
+        }
+    ],
+    "wof:id":857519393,
+    "wof:lastmodified":1464202338,
+    "wof:name":"Excell Crane Inc",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "crane",
+        "derrick"
+    ]
+},
+  "bbox": [
+    -116.794856,
+    47.717978,
+    -116.794856,
+    47.717978
+],
+  "geometry": {"coordinates":[-116.794856,47.717978],"type":"Point"}
+}

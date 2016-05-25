@@ -1,0 +1,73 @@
+{
+  "id": 857536453,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-116.601139,43.583292,-116.601139,43.583292",
+    "geom:latitude":43.583292,
+    "geom:longitude":-116.601139,
+    "iso:country":"US",
+    "sg:address":"1500 Smith Ave",
+    "sg:city":"Nampa",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 466 3644",
+    "sg:postcode":"83651",
+    "sg:province":"ID",
+    "sg:tags":[
+        "mormon",
+        "church"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85938009,
+        102085081,
+        85827787
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5UtrqSYHfXYNGXCFiwJiFi_43.583292_-116.601139@1294099250"
+    },
+    "wof:country":"US",
+    "wof:created":1464202671,
+    "wof:geomhash":"aedf42bb309278be9e54254a90cc3a6f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085081,
+            "locality_id":85938009,
+            "neighbourhood_id":85827787,
+            "region_id":85688657,
+            "venue_id":857536453
+        }
+    ],
+    "wof:id":857536453,
+    "wof:lastmodified":1464202671,
+    "wof:name":"Nampa Idaho Stake",
+    "wof:parent_id":85827787,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mormon",
+        "church"
+    ]
+},
+  "bbox": [
+    -116.601139,
+    43.583292,
+    -116.601139,
+    43.583292
+],
+  "geometry": {"coordinates":[-116.601139,43.583292],"type":"Point"}
+}

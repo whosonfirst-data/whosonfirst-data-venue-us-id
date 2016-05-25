@@ -1,0 +1,76 @@
+{
+  "id": 857631261,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-116.935847,47.714032,-116.935847,47.714032",
+    "geom:latitude":47.714032,
+    "geom:longitude":-116.935847,
+    "iso:country":"US",
+    "sg:address":"920 E Polston Ave",
+    "sg:city":"Post Falls",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/id/post-falls-rathdrum/78952-pizza-hut/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 773 3538",
+    "sg:postcode":"83854",
+    "sg:province":"ID",
+    "sg:tags":[
+        "american",
+        "pizza"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        102191575,
+        85633793,
+        85938145,
+        102086085,
+        85833263
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_191nAq8YSnU8Xi85wBx2nE_47.714485_-116.936555@1294099250"
+    },
+    "wof:country":"US",
+    "wof:created":1464204690,
+    "wof:geomhash":"9849ab5d7c61913d8a3c4a5ed2178a01",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086085,
+            "locality_id":85938145,
+            "neighbourhood_id":85833263,
+            "region_id":85688657,
+            "venue_id":857631261
+        }
+    ],
+    "wof:id":857631261,
+    "wof:lastmodified":1464204690,
+    "wof:name":"Pizza Hut",
+    "wof:parent_id":85833263,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "pizza"
+    ]
+},
+  "bbox": [
+    -116.935847,
+    47.714032,
+    -116.935847,
+    47.714032
+],
+  "geometry": {"coordinates":[-116.935847,47.714032],"type":"Point"}
+}

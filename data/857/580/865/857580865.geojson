@@ -1,0 +1,75 @@
+{
+  "id": 857580865,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-116.553182,43.608545,-116.553182,43.608545",
+    "geom:latitude":43.608545,
+    "geom:longitude":-116.553182,
+    "iso:country":"US",
+    "sg:address":"16255 Franklin Rd",
+    "sg:city":"Nampa",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Building Materials",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 461 1234",
+    "sg:postcode":"83687",
+    "sg:province":"ID",
+    "sg:tags":[
+        "machine",
+        "wood",
+        "structural"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85938009,
+        102085081,
+        85827787
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1shfvmdVO9wpISQTCUGFY4_43.608545_-116.553182@1294099250"
+    },
+    "wof:country":"US",
+    "wof:created":1464203569,
+    "wof:geomhash":"4192eb562a2ee59163ea4aded7a1d3c2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085081,
+            "locality_id":85938009,
+            "neighbourhood_id":85827787,
+            "region_id":85688657,
+            "venue_id":857580865
+        }
+    ],
+    "wof:id":857580865,
+    "wof:lastmodified":1464203569,
+    "wof:name":"Gem State Truss",
+    "wof:parent_id":85827787,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "machine",
+        "wood",
+        "structural"
+    ]
+},
+  "bbox": [
+    -116.553182,
+    43.608545,
+    -116.553182,
+    43.608545
+],
+  "geometry": {"coordinates":[-116.55318200000001,43.608545],"type":"Point"}
+}

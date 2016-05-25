@@ -1,0 +1,73 @@
+{
+  "id": 857529203,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-116.524711,43.386457,-116.524711,43.386457",
+    "geom:latitude":43.386457,
+    "geom:longitude":-116.524711,
+    "iso:country":"US",
+    "sg:address":"6385 Melba Rd",
+    "sg:city":"Melba",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 362 9047",
+    "sg:postcode":"83641",
+    "sg:province":"ID",
+    "sg:tags":[
+        "mobile",
+        "home"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85938009,
+        102085081,
+        85827787
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_06OZ2dahG2bJLe7g7qIjnW_43.386457_-116.524711@1294099250"
+    },
+    "wof:country":"US",
+    "wof:created":1464202528,
+    "wof:geomhash":"a8ec26fed0a629244ff13f1e4fd3f94d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085081,
+            "locality_id":85938009,
+            "neighbourhood_id":85827787,
+            "region_id":85688657,
+            "venue_id":857529203
+        }
+    ],
+    "wof:id":857529203,
+    "wof:lastmodified":1464202528,
+    "wof:name":"Gem State Mobile Home",
+    "wof:parent_id":85827787,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mobile",
+        "home"
+    ]
+},
+  "bbox": [
+    -116.524711,
+    43.386457,
+    -116.524711,
+    43.386457
+],
+  "geometry": {"coordinates":[-116.524711,43.386457],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 857508679,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-116.57061,43.574659,-116.57061,43.574659",
+    "geom:latitude":43.574659,
+    "geom:longitude":-116.57061,
+    "iso:country":"US",
+    "sg:address":"923 9th St S",
+    "sg:city":"Nampa",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 467 9307",
+    "sg:postcode":"83651",
+    "sg:province":"ID",
+    "sg:tags":[
+        "house",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85938009,
+        102085081,
+        85827787
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_12mqbTWjJ6rFEdHJRcghMr_43.574659_-116.570610@1294099250"
+    },
+    "wof:country":"US",
+    "wof:created":1464202118,
+    "wof:geomhash":"1c852e04631b151fc10f56ff9b5a7a67",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085081,
+            "locality_id":85938009,
+            "neighbourhood_id":85827787,
+            "region_id":85688657,
+            "venue_id":857508679
+        }
+    ],
+    "wof:id":857508679,
+    "wof:lastmodified":1464202118,
+    "wof:name":"Remodels Plus",
+    "wof:parent_id":85827787,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "house",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -116.57061,
+    43.574659,
+    -116.57061,
+    43.574659
+],
+  "geometry": {"coordinates":[-116.57061,43.574659],"type":"Point"}
+}

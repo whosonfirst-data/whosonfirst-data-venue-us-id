@@ -1,0 +1,73 @@
+{
+  "id": 857561731,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-116.959985,46.362703,-116.959985,46.362703",
+    "geom:latitude":46.362703,
+    "geom:longitude":-116.959985,
+    "iso:country":"US",
+    "sg:address":"3834 14th St",
+    "sg:city":"Lewiston",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 743 3419",
+    "sg:postcode":"83501",
+    "sg:province":"ID",
+    "sg:tags":[
+        "electric",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85937743,
+        102086039,
+        85837769
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6eMWyuLW8Q0sEhU6Sw3SkR_46.362703_-116.959985@1294099250"
+    },
+    "wof:country":"US",
+    "wof:created":1464203195,
+    "wof:geomhash":"46dd8758d6d638d841a477a969d4199a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086039,
+            "locality_id":85937743,
+            "neighbourhood_id":85837769,
+            "region_id":85688657,
+            "venue_id":857561731
+        }
+    ],
+    "wof:id":857561731,
+    "wof:lastmodified":1464203195,
+    "wof:name":"Valley Electric Inc",
+    "wof:parent_id":85837769,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electric",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -116.959985,
+    46.362703,
+    -116.959985,
+    46.362703
+],
+  "geometry": {"coordinates":[-116.959985,46.362703],"type":"Point"}
+}

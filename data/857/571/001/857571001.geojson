@@ -1,0 +1,71 @@
+{
+  "id": 857571001,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-116.404174,43.601913,-116.404174,43.601913",
+    "geom:latitude":43.601913,
+    "geom:longitude":-116.404174,
+    "iso:country":"US",
+    "sg:address":"357 S Outfield Way",
+    "sg:city":"Meridian",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Membership Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 367 2813",
+    "sg:postcode":"83642",
+    "sg:province":"ID",
+    "sg:tags":[
+        "coalition"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85937915,
+        102086087,
+        85805083
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2WDiuaHHaQ5cK3AKaauZYR_43.601913_-116.404174@1294099250"
+    },
+    "wof:country":"US",
+    "wof:created":1464203371,
+    "wof:geomhash":"dfaf9e358a791c625f7974f8d7fe2507",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086087,
+            "locality_id":85937915,
+            "neighbourhood_id":85805083,
+            "region_id":85688657,
+            "venue_id":857571001
+        }
+    ],
+    "wof:id":857571001,
+    "wof:lastmodified":1464203371,
+    "wof:name":"Treasure Vly Alcohol Coalition",
+    "wof:parent_id":85805083,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "coalition"
+    ]
+},
+  "bbox": [
+    -116.404174,
+    43.601913,
+    -116.404174,
+    43.601913
+],
+  "geometry": {"coordinates":[-116.404174,43.601913],"type":"Point"}
+}

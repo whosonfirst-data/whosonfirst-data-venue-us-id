@@ -1,0 +1,86 @@
+{
+  "id": 857596089,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-116.98774,46.388392,-116.98774,46.388392",
+    "geom:latitude":46.388392,
+    "geom:longitude":-116.98774,
+    "iso:country":"US",
+    "sg:address":"142 Thain Rd",
+    "sg:city":"Lewiston",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Animal Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 798 3160",
+    "sg:postcode":"83501",
+    "sg:province":"ID",
+    "sg:tags":[
+        "pet",
+        "grooming",
+        "washing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85937743,
+        102086039,
+        85837769,
+        102191575,
+        85830385
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_23IoZKy74wcpMwUKaRWh7h_46.388392_-116.987740@1294099250"
+    },
+    "wof:country":"US",
+    "wof:created":1464203897,
+    "wof:geomhash":"06dbbed4d6bea58e2d76b37aa8f6d9bd",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086039,
+            "locality_id":85937743,
+            "neighbourhood_id":85837769,
+            "region_id":85688657,
+            "venue_id":857596089
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086039,
+            "locality_id":85937743,
+            "neighbourhood_id":85830385,
+            "region_id":85688657,
+            "venue_id":857596089
+        }
+    ],
+    "wof:id":857596089,
+    "wof:lastmodified":1464203897,
+    "wof:name":"Lorie's Pet Grooming",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pet",
+        "grooming",
+        "washing"
+    ]
+},
+  "bbox": [
+    -116.98774,
+    46.388392,
+    -116.98774,
+    46.388392
+],
+  "geometry": {"coordinates":[-116.98774,46.388392],"type":"Point"}
+}

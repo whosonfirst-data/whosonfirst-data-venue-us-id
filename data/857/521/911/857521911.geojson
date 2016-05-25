@@ -1,0 +1,73 @@
+{
+  "id": 857521911,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-116.578071,43.581048,-116.578071,43.581048",
+    "geom:latitude":43.581048,
+    "geom:longitude":-116.578071,
+    "iso:country":"US",
+    "sg:address":"325 N Canyon St",
+    "sg:city":"Nampa",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Bicycles & Sporting Goods",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 466 6093",
+    "sg:postcode":"83651",
+    "sg:province":"ID",
+    "sg:tags":[
+        "saddlery",
+        "harness"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85938009,
+        102085081,
+        85827787
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6DoBLum6JDn8k0DkKqRhM5_43.581048_-116.578071@1294099250"
+    },
+    "wof:country":"US",
+    "wof:created":1464202388,
+    "wof:geomhash":"4a3d648e81ef67f70755142aa5be0099",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085081,
+            "locality_id":85938009,
+            "neighbourhood_id":85827787,
+            "region_id":85688657,
+            "venue_id":857521911
+        }
+    ],
+    "wof:id":857521911,
+    "wof:lastmodified":1464202388,
+    "wof:name":"75 Saddle-N-Tack",
+    "wof:parent_id":85827787,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "saddlery",
+        "harness"
+    ]
+},
+  "bbox": [
+    -116.578071,
+    43.581048,
+    -116.578071,
+    43.581048
+],
+  "geometry": {"coordinates":[-116.57807099999999,43.581048],"type":"Point"}
+}

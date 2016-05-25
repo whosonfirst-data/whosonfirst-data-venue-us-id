@@ -1,0 +1,71 @@
+{
+  "id": 857533269,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-116.000963,47.506462,-116.000963,47.506462",
+    "geom:latitude":47.506462,
+    "geom:longitude":-116.000963,
+    "iso:country":"US",
+    "sg:address":"121 E Mullan Ave",
+    "sg:city":"Osburn",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Used Merchandise",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 752 3491",
+    "sg:postcode":"83837",
+    "sg:province":"ID",
+    "sg:tags":[
+        "pawnbroker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85937825,
+        102086103,
+        85849049
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_62Jhw5bJ61iyMOlkCAVpPq_47.506462_-116.000963@1294099250"
+    },
+    "wof:country":"US",
+    "wof:created":1464202608,
+    "wof:geomhash":"6a2ceff4526bf3b04e3adcf77114407c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086103,
+            "locality_id":85937825,
+            "neighbourhood_id":85849049,
+            "region_id":85688657,
+            "venue_id":857533269
+        }
+    ],
+    "wof:id":857533269,
+    "wof:lastmodified":1464202608,
+    "wof:name":"Everybody's Pawn Shop",
+    "wof:parent_id":85849049,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pawnbroker"
+    ]
+},
+  "bbox": [
+    -116.000963,
+    47.506462,
+    -116.000963,
+    47.506462
+],
+  "geometry": {"coordinates":[-116.000963,47.506462],"type":"Point"}
+}

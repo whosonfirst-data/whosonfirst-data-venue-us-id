@@ -1,0 +1,71 @@
+{
+  "id": 857550257,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-116.359057,43.581426,-116.359057,43.581426",
+    "geom:latitude":43.581426,
+    "geom:longitude":-116.359057,
+    "iso:country":"US",
+    "sg:address":"2797 E Indian Creek Dr",
+    "sg:city":"Meridian",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Cleaning & Sanitation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 888 8780",
+    "sg:postcode":"83642",
+    "sg:province":"ID",
+    "sg:tags":[
+        "janitor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85937915,
+        102086087,
+        85805083
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_12As0psgTQXovdCeZIf4SH_43.581426_-116.359057@1294099250"
+    },
+    "wof:country":"US",
+    "wof:created":1464202936,
+    "wof:geomhash":"58d125ac6f2374e0d1fe7ef02d345cfa",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086087,
+            "locality_id":85937915,
+            "neighbourhood_id":85805083,
+            "region_id":85688657,
+            "venue_id":857550257
+        }
+    ],
+    "wof:id":857550257,
+    "wof:lastmodified":1464202936,
+    "wof:name":"Will Clean",
+    "wof:parent_id":85805083,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "janitor"
+    ]
+},
+  "bbox": [
+    -116.359057,
+    43.581426,
+    -116.359057,
+    43.581426
+],
+  "geometry": {"coordinates":[-116.35905700000001,43.581426],"type":"Point"}
+}

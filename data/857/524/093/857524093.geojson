@@ -1,0 +1,73 @@
+{
+  "id": 857524093,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-116.27439,43.628419,-116.27439,43.628419",
+    "geom:latitude":43.628419,
+    "geom:longitude":-116.27439,
+    "iso:country":"US",
+    "sg:address":"2427 N Cole Rd",
+    "sg:city":"Boise",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 322 8877",
+    "sg:postcode":"83704",
+    "sg:province":"ID",
+    "sg:tags":[
+        "dentist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        102191575,
+        85633793,
+        85937923,
+        102086087,
+        85841319
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0CcrNdKKobD2FJFLn1TFEt_43.628419_-116.274390@1294099250"
+    },
+    "wof:country":"US",
+    "wof:created":1464202432,
+    "wof:geomhash":"ac10f94aeea4f307d0d1649900539fad",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086087,
+            "locality_id":85937923,
+            "neighbourhood_id":85841319,
+            "region_id":85688657,
+            "venue_id":857524093
+        }
+    ],
+    "wof:id":857524093,
+    "wof:lastmodified":1464202432,
+    "wof:name":"Wayne R Peterson PC",
+    "wof:parent_id":85841319,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dentist"
+    ]
+},
+  "bbox": [
+    -116.27439,
+    43.628419,
+    -116.27439,
+    43.628419
+],
+  "geometry": {"coordinates":[-116.27439,43.628419],"type":"Point"}
+}

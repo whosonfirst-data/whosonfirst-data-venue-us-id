@@ -1,0 +1,76 @@
+{
+  "id": 857629115,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-116.282154,43.606679,-116.282154,43.606679",
+    "geom:latitude":43.606679,
+    "geom:longitude":-116.282154,
+    "iso:country":"US",
+    "sg:address":"205 N Milwaukee St",
+    "sg:city":"Boise",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/id/boise-city/180357-jack-in-the-box/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 327 0100",
+    "sg:postcode":"83704",
+    "sg:province":"ID",
+    "sg:tags":[
+        "burger",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        102191575,
+        85633793,
+        85937923,
+        102086087,
+        85841319
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2FVYUIgyzs8hqSrPOnOVaL_43.606679_-116.282154@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464204644,
+    "wof:geomhash":"74b263dd50d01e1983a257f28593f163",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086087,
+            "locality_id":85937923,
+            "neighbourhood_id":85841319,
+            "region_id":85688657,
+            "venue_id":857629115
+        }
+    ],
+    "wof:id":857629115,
+    "wof:lastmodified":1464204644,
+    "wof:name":"Jack in the Box",
+    "wof:parent_id":85841319,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american"
+    ]
+},
+  "bbox": [
+    -116.282154,
+    43.606679,
+    -116.282154,
+    43.606679
+],
+  "geometry": {"coordinates":[-116.28215400000001,43.606679],"type":"Point"}
+}

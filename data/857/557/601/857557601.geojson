@@ -1,0 +1,73 @@
+{
+  "id": 857557601,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-116.268505,43.61197,-116.268505,43.61197",
+    "geom:latitude":43.61197,
+    "geom:longitude":-116.268505,
+    "iso:country":"US",
+    "sg:address":"6901 Emerald St",
+    "sg:city":"Boise",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Engineering",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 658 0506",
+    "sg:postcode":"83704",
+    "sg:province":"ID",
+    "sg:tags":[
+        "engineer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        102191575,
+        85633793,
+        85937923,
+        102086087,
+        85841319
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5AwYtXQr6szzoVuhbE318Y_43.611970_-116.268505@1294099250"
+    },
+    "wof:country":"US",
+    "wof:created":1464203089,
+    "wof:geomhash":"d70103891c4726a0c76484197ad78ae4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086087,
+            "locality_id":85937923,
+            "neighbourhood_id":85841319,
+            "region_id":85688657,
+            "venue_id":857557601
+        }
+    ],
+    "wof:id":857557601,
+    "wof:lastmodified":1464203089,
+    "wof:name":"Towercom Technologies",
+    "wof:parent_id":85841319,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "engineer"
+    ]
+},
+  "bbox": [
+    -116.268505,
+    43.61197,
+    -116.268505,
+    43.61197
+],
+  "geometry": {"coordinates":[-116.268505,43.61197],"type":"Point"}
+}

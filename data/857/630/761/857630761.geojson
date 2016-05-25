@@ -1,0 +1,76 @@
+{
+  "id": 857630761,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-117.006704,46.415915,-117.006704,46.415915",
+    "geom:latitude":46.415915,
+    "geom:longitude":-117.006704,
+    "iso:country":"US",
+    "sg:address":"316 18th St",
+    "sg:city":"Lewiston",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/id/lewiston/78156-dominos-pizza/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 746 9595",
+    "sg:postcode":"83501",
+    "sg:province":"ID",
+    "sg:tags":[
+        "american",
+        "wing",
+        "pizza"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85937743,
+        102086039,
+        85837769
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_78hRlftvpks8q7mi4EXTFE_46.415598_-117.006823@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1464204680,
+    "wof:geomhash":"b52fcf9bdd78fc293a465759eb052fc3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086039,
+            "locality_id":85937743,
+            "neighbourhood_id":85837769,
+            "region_id":85688657,
+            "venue_id":857630761
+        }
+    ],
+    "wof:id":857630761,
+    "wof:lastmodified":1464204680,
+    "wof:name":"Domino's Pizza",
+    "wof:parent_id":85837769,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "wing",
+        "pizza"
+    ]
+},
+  "bbox": [
+    -117.006704,
+    46.415915,
+    -117.006704,
+    46.415915
+],
+  "geometry": {"coordinates":[-117.006704,46.415915],"type":"Point"}
+}

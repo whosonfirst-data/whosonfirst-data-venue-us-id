@@ -1,0 +1,73 @@
+{
+  "id": 857569755,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-116.926379,47.709776,-116.926379,47.709776",
+    "geom:latitude":47.709776,
+    "geom:longitude":-116.926379,
+    "iso:country":"US",
+    "sg:address":"300 N Bay St",
+    "sg:city":"Post Falls",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 777 9511",
+    "sg:postcode":"83854",
+    "sg:province":"ID",
+    "sg:tags":[
+        "product"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        102191575,
+        85633793,
+        85938145,
+        102086085,
+        85833263
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2ZLx8IsE9RR8IVxBEt6QWK_47.709776_-116.926379@1294099250"
+    },
+    "wof:country":"US",
+    "wof:created":1464203348,
+    "wof:geomhash":"81825c883c7776afd9e1e04ece164457",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086085,
+            "locality_id":85938145,
+            "neighbourhood_id":85833263,
+            "region_id":85688657,
+            "venue_id":857569755
+        }
+    ],
+    "wof:id":857569755,
+    "wof:lastmodified":1464203348,
+    "wof:name":"Sysco Foods",
+    "wof:parent_id":85833263,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "product"
+    ]
+},
+  "bbox": [
+    -116.926379,
+    47.709776,
+    -116.926379,
+    47.709776
+],
+  "geometry": {"coordinates":[-116.926379,47.709776],"type":"Point"}
+}

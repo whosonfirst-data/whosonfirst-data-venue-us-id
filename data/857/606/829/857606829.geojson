@@ -1,0 +1,83 @@
+{
+  "id": 857606829,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-116.794665,47.718104,-116.794665,47.718104",
+    "geom:latitude":47.718104,
+    "geom:longitude":-116.794665,
+    "iso:country":"US",
+    "sg:address":"5067 N Building Center Dr",
+    "sg:city":"Coeur D Alene",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 765 5059",
+    "sg:postcode":"83815",
+    "sg:province":"ID",
+    "sg:tags":[
+        "general",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85821457,
+        102086085,
+        102191575,
+        85938163,
+        85806325
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3LVa86wpN52yjPwFp28P95_47.718104_-116.794665@1294099250"
+    },
+    "wof:country":"US",
+    "wof:created":1464204131,
+    "wof:geomhash":"eb1a24eda30a973a71f858942f29ee9d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086085,
+            "neighbourhood_id":85821457,
+            "region_id":85688657,
+            "venue_id":857606829
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086085,
+            "locality_id":85938163,
+            "neighbourhood_id":85806325,
+            "region_id":85688657,
+            "venue_id":857606829
+        }
+    ],
+    "wof:id":857606829,
+    "wof:lastmodified":1464204131,
+    "wof:name":"Copper Basin Construction",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "general",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -116.794665,
+    47.718104,
+    -116.794665,
+    47.718104
+],
+  "geometry": {"coordinates":[-116.79466499999999,47.718104],"type":"Point"}
+}

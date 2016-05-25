@@ -1,0 +1,73 @@
+{
+  "id": 857537635,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-116.003027,47.506213,-116.003027,47.506213",
+    "geom:latitude":47.506213,
+    "geom:longitude":-116.003027,
+    "iso:country":"US",
+    "sg:address":"120 S 1st St",
+    "sg:city":"Osburn",
+    "sg:classifiers":[
+        {
+            "category":"Communications",
+            "subcategory":"Radio Station",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 752 1141",
+    "sg:postcode":"83849",
+    "sg:province":"ID",
+    "sg:tags":[
+        "company",
+        "broadcasting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85937825,
+        102086103,
+        85849049
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1Ecxu4nVd9167Ld9rZx3uz_47.506213_-116.003027@1294099250"
+    },
+    "wof:country":"US",
+    "wof:created":1464202692,
+    "wof:geomhash":"d7230750b16003cc86068466a3aa2aef",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086103,
+            "locality_id":85937825,
+            "neighbourhood_id":85849049,
+            "region_id":85688657,
+            "venue_id":857537635
+        }
+    ],
+    "wof:id":857537635,
+    "wof:lastmodified":1464202692,
+    "wof:name":"KWAL",
+    "wof:parent_id":85849049,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "company",
+        "broadcasting"
+    ]
+},
+  "bbox": [
+    -116.003027,
+    47.506213,
+    -116.003027,
+    47.506213
+],
+  "geometry": {"coordinates":[-116.003027,47.506213],"type":"Point"}
+}

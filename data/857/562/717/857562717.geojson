@@ -1,0 +1,73 @@
+{
+  "id": 857562717,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-116.975326,46.380109,-116.975326,46.380109",
+    "geom:latitude":46.380109,
+    "geom:longitude":-116.975326,
+    "iso:country":"US",
+    "sg:address":"405 Thain Rd",
+    "sg:city":"Lewiston",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Specialty",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 743 1404",
+    "sg:postcode":"83501",
+    "sg:province":"ID",
+    "sg:tags":[
+        "bars",
+        "espresso"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85937743,
+        102086039,
+        85837769
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5UvbllTYndp2sCuJ9agxGK_46.380109_-116.975326@1294099250"
+    },
+    "wof:country":"US",
+    "wof:created":1464203216,
+    "wof:geomhash":"7c0411c0f6012468932946a44644bec3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086039,
+            "locality_id":85937743,
+            "neighbourhood_id":85837769,
+            "region_id":85688657,
+            "venue_id":857562717
+        }
+    ],
+    "wof:id":857562717,
+    "wof:lastmodified":1464203216,
+    "wof:name":"Jump Start Java",
+    "wof:parent_id":85837769,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "bars",
+        "espresso"
+    ]
+},
+  "bbox": [
+    -116.975326,
+    46.380109,
+    -116.975326,
+    46.380109
+],
+  "geometry": {"coordinates":[-116.975326,46.380109],"type":"Point"}
+}

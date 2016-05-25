@@ -1,0 +1,71 @@
+{
+  "id": 857538575,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-116.598422,43.587332,-116.598422,43.587332",
+    "geom:latitude":43.587332,
+    "geom:longitude":-116.598422,
+    "iso:country":"US",
+    "sg:address":"215 N Sherwood Dr",
+    "sg:city":"Nampa",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Computers & Home Electronics",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 466 5487",
+    "sg:postcode":"83651",
+    "sg:province":"ID",
+    "sg:tags":[
+        "hardware"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85938009,
+        102085081,
+        85827787
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2vCUk9uwGpFiA6UvQsJRgT_43.587332_-116.598422@1294099250"
+    },
+    "wof:country":"US",
+    "wof:created":1464202709,
+    "wof:geomhash":"c01ddb82007b666910adf7df41499826",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085081,
+            "locality_id":85938009,
+            "neighbourhood_id":85827787,
+            "region_id":85688657,
+            "venue_id":857538575
+        }
+    ],
+    "wof:id":857538575,
+    "wof:lastmodified":1464202709,
+    "wof:name":"Chips",
+    "wof:parent_id":85827787,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "hardware"
+    ]
+},
+  "bbox": [
+    -116.598422,
+    43.587332,
+    -116.598422,
+    43.587332
+],
+  "geometry": {"coordinates":[-116.598422,43.587332],"type":"Point"}
+}

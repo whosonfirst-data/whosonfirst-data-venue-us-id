@@ -1,0 +1,84 @@
+{
+  "id": 857626733,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-116.959831,46.37392,-116.959831,46.37392",
+    "geom:latitude":46.37392,
+    "geom:longitude":-116.959831,
+    "iso:country":"US",
+    "sg:address":"3532 14th St",
+    "sg:city":"Lewiston",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 743 1747",
+    "sg:postcode":"83501",
+    "sg:province":"ID",
+    "sg:tags":[
+        "residential",
+        "management"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85937743,
+        102086039,
+        85837769,
+        102191575,
+        85830385
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7cdeenidhWOMkNT3tnxNUh_46.373786_-116.959907@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1464204596,
+    "wof:geomhash":"6a06d3d7c362d34ad225d815fe0d83e1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086039,
+            "locality_id":85937743,
+            "neighbourhood_id":85837769,
+            "region_id":85688657,
+            "venue_id":857626733
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086039,
+            "locality_id":85937743,
+            "neighbourhood_id":85830385,
+            "region_id":85688657,
+            "venue_id":857626733
+        }
+    ],
+    "wof:id":857626733,
+    "wof:lastmodified":1464204596,
+    "wof:name":"Radar Construction",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "residential",
+        "management"
+    ]
+},
+  "bbox": [
+    -116.959831,
+    46.37392,
+    -116.959831,
+    46.37392
+],
+  "geometry": {"coordinates":[-116.95983099999999,46.37392],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 857557909,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-116.616743,43.614623,-116.616743,43.614623",
+    "geom:latitude":43.614623,
+    "geom:longitude":-116.616743,
+    "iso:country":"US",
+    "sg:address":"2717 Caldwell Blvd",
+    "sg:city":"Nampa",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 318 0323",
+    "sg:postcode":"83651",
+    "sg:province":"ID",
+    "sg:tags":[
+        "car",
+        "dealer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85938009,
+        102085081,
+        85835387
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4Sc2wx45jIEuldVxBYW5vt_43.614623_-116.616743@1294099250"
+    },
+    "wof:country":"US",
+    "wof:created":1464203097,
+    "wof:geomhash":"6d2ad83f6066ed5da6e1912a76b9159c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085081,
+            "locality_id":85938009,
+            "neighbourhood_id":85835387,
+            "region_id":85688657,
+            "venue_id":857557909
+        }
+    ],
+    "wof:id":857557909,
+    "wof:lastmodified":1464203097,
+    "wof:name":"Affordable Car Co",
+    "wof:parent_id":85835387,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "car",
+        "dealer"
+    ]
+},
+  "bbox": [
+    -116.616743,
+    43.614623,
+    -116.616743,
+    43.614623
+],
+  "geometry": {"coordinates":[-116.616743,43.614623],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 857630019,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-116.783068,47.700729,-116.783068,47.700729",
+    "geom:latitude":47.700729,
+    "geom:longitude":-116.783068,
+    "iso:country":"US",
+    "sg:address":"208 E Appleway Ave",
+    "sg:city":"Coeur D Alene",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/id/coeur-dalene/212087-mcdonalds/menu/",
+    "sg:owner":"simplegeo",
+    "sg:postcode":"83814",
+    "sg:province":"ID",
+    "sg:tags":[
+        "burger",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85821457,
+        102086085
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4dMp8wGezqBrjZ5EF40sqw_47.700729_-116.783068@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464204660,
+    "wof:geomhash":"8ee0afecb1a2f85c2bd7513ac1fb864d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086085,
+            "neighbourhood_id":85821457,
+            "region_id":85688657,
+            "venue_id":857630019
+        }
+    ],
+    "wof:id":857630019,
+    "wof:lastmodified":1464204660,
+    "wof:name":"McDonald's",
+    "wof:parent_id":85821457,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american"
+    ]
+},
+  "bbox": [
+    -116.783068,
+    47.700729,
+    -116.783068,
+    47.700729
+],
+  "geometry": {"coordinates":[-116.783068,47.700729],"type":"Point"}
+}

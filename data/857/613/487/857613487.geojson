@@ -1,0 +1,75 @@
+{
+  "id": 857613487,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-116.570175,43.555044,-116.570175,43.555044",
+    "geom:latitude":43.555044,
+    "geom:longitude":-116.570175,
+    "iso:country":"US",
+    "sg:address":"215 E Hawaii Ave",
+    "sg:city":"Nampa",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 459 3500",
+    "sg:postcode":"83686",
+    "sg:province":"ID",
+    "sg:tags":[
+        "machine",
+        "teller",
+        "automated"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85938009,
+        102085081,
+        85827787
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4KMuXaUHBL3fcyadun4HtP_43.555044_-116.570175@1294099250"
+    },
+    "wof:country":"US",
+    "wof:created":1464204292,
+    "wof:geomhash":"1bd8bcac67a0468850eec26f0dd043f2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085081,
+            "locality_id":85938009,
+            "neighbourhood_id":85827787,
+            "region_id":85688657,
+            "venue_id":857613487
+        }
+    ],
+    "wof:id":857613487,
+    "wof:lastmodified":1464204292,
+    "wof:name":"Canyon Medical Health CU",
+    "wof:parent_id":85827787,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "machine",
+        "teller",
+        "automated"
+    ]
+},
+  "bbox": [
+    -116.570175,
+    43.555044,
+    -116.570175,
+    43.555044
+],
+  "geometry": {"coordinates":[-116.57017500000001,43.555044],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 857575371,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-116.940564,47.727495,-116.940564,47.727495",
+    "geom:latitude":47.727495,
+    "geom:longitude":-116.940564,
+    "iso:country":"US",
+    "sg:address":"1923 N Lincoln St",
+    "sg:city":"Post Falls",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Medical Lab",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 777 9558",
+    "sg:postcode":"83854",
+    "sg:province":"ID",
+    "sg:tags":[
+        "laboratory",
+        "dental"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        102191575,
+        85633793,
+        85938145,
+        102086085,
+        85833263
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2mWU4cn8EOUYmBe9RoTWLj_47.727495_-116.940564@1294099250"
+    },
+    "wof:country":"US",
+    "wof:created":1464203459,
+    "wof:geomhash":"cb2fa94d29bcce6a4858b46a5ba644f8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086085,
+            "locality_id":85938145,
+            "neighbourhood_id":85833263,
+            "region_id":85688657,
+            "venue_id":857575371
+        }
+    ],
+    "wof:id":857575371,
+    "wof:lastmodified":1464203459,
+    "wof:name":"Ceramtech",
+    "wof:parent_id":85833263,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "laboratory",
+        "dental"
+    ]
+},
+  "bbox": [
+    -116.940564,
+    47.727495,
+    -116.940564,
+    47.727495
+],
+  "geometry": {"coordinates":[-116.94056399999999,47.727495],"type":"Point"}
+}

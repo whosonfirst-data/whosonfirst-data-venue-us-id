@@ -1,0 +1,83 @@
+{
+  "id": 857631011,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-116.572883,43.557105,-116.572883,43.557105",
+    "geom:latitude":43.557105,
+    "geom:longitude":-116.572883,
+    "iso:country":"US",
+    "sg:address":"1211 12th Ave Rd",
+    "sg:city":"Nampa",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Ice Cream",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/id/nampa/172815-dairy-queen/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 463 7739",
+    "sg:postcode":"83686",
+    "sg:province":"ID",
+    "sg:tags":[
+        "burger",
+        "american",
+        "ice",
+        "cream"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85938009,
+        102085081,
+        85827787
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4a35bPyXWDJwmFaseqVoaj_43.557131_-116.573015@1294099250"
+    },
+    "wof:country":"US",
+    "wof:created":1464204686,
+    "wof:geomhash":"fb9c17eaf308bb04f9178e512d262f26",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085081,
+            "locality_id":85938009,
+            "neighbourhood_id":85827787,
+            "region_id":85688657,
+            "venue_id":857631011
+        }
+    ],
+    "wof:id":857631011,
+    "wof:lastmodified":1464204686,
+    "wof:name":"Dairy Queen",
+    "wof:parent_id":85827787,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american",
+        "ice",
+        "cream"
+    ]
+},
+  "bbox": [
+    -116.572883,
+    43.557105,
+    -116.572883,
+    43.557105
+],
+  "geometry": {"coordinates":[-116.572883,43.557105],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 857630985,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-116.597698,43.601796,-116.597698,43.601796",
+    "geom:latitude":43.601796,
+    "geom:longitude":-116.597698,
+    "iso:country":"US",
+    "sg:address":"1360 Caldwell Blvd",
+    "sg:city":"Nampa",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/id/nampa/159450-arbys/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 442 2969",
+    "sg:postcode":"83651",
+    "sg:province":"ID",
+    "sg:tags":[
+        "burger",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85938009,
+        102085081,
+        85827787
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7ml3nFr2jDwQQkUiOEV9g7_43.601853_-116.597324@1294099250"
+    },
+    "wof:country":"US",
+    "wof:created":1464204685,
+    "wof:geomhash":"60a8dd75ae756cfa69349fc60240cb89",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085081,
+            "locality_id":85938009,
+            "neighbourhood_id":85827787,
+            "region_id":85688657,
+            "venue_id":857630985
+        }
+    ],
+    "wof:id":857630985,
+    "wof:lastmodified":1464204685,
+    "wof:name":"Arby's",
+    "wof:parent_id":85827787,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american"
+    ]
+},
+  "bbox": [
+    -116.597698,
+    43.601796,
+    -116.597698,
+    43.601796
+],
+  "geometry": {"coordinates":[-116.59769799999999,43.601796],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 857555213,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-116.813733,47.770439,-116.813733,47.770439",
+    "geom:latitude":47.770439,
+    "geom:longitude":-116.813733,
+    "iso:country":"US",
+    "sg:address":"10975 N Airport Rd",
+    "sg:city":"Hayden",
+    "sg:classifiers":[
+        {
+            "category":"Airport",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 772 7583",
+    "sg:postcode":"83835",
+    "sg:province":"ID",
+    "sg:tags":[
+        "aircraft",
+        "maintenance"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85821457,
+        102086085
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1qVEoGFTjkMrRpGCsXpH3M_47.770439_-116.813733@1294099250"
+    },
+    "wof:country":"US",
+    "wof:created":1464203037,
+    "wof:geomhash":"f4fe243e2e1512991b5223dbc40cb3dc",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086085,
+            "neighbourhood_id":85821457,
+            "region_id":85688657,
+            "venue_id":857555213
+        }
+    ],
+    "wof:id":857555213,
+    "wof:lastmodified":1464203037,
+    "wof:name":"Hagadone Jetport",
+    "wof:parent_id":85821457,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "aircraft",
+        "maintenance"
+    ]
+},
+  "bbox": [
+    -116.813733,
+    47.770439,
+    -116.813733,
+    47.770439
+],
+  "geometry": {"coordinates":[-116.813733,47.770439],"type":"Point"}
+}

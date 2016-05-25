@@ -1,0 +1,73 @@
+{
+  "id": 857513629,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-116.588099,43.595474,-116.588099,43.595474",
+    "geom:latitude":43.595474,
+    "geom:longitude":-116.588099,
+    "iso:country":"US",
+    "sg:address":"572 Caldwell Blvd",
+    "sg:city":"Nampa",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Wood Products",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 468 8623",
+    "sg:postcode":"83651",
+    "sg:province":"ID",
+    "sg:tags":[
+        "pallet",
+        "skid"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85938009,
+        102085081,
+        85827787
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6ASehTPsBFmTkvWeSvJve6_43.595474_-116.588099@1294099250"
+    },
+    "wof:country":"US",
+    "wof:created":1464202223,
+    "wof:geomhash":"5b8adf6e219b02e380d43aa827a479d1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085081,
+            "locality_id":85938009,
+            "neighbourhood_id":85827787,
+            "region_id":85688657,
+            "venue_id":857513629
+        }
+    ],
+    "wof:id":857513629,
+    "wof:lastmodified":1464202223,
+    "wof:name":"Pallet Shop",
+    "wof:parent_id":85827787,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pallet",
+        "skid"
+    ]
+},
+  "bbox": [
+    -116.588099,
+    43.595474,
+    -116.588099,
+    43.595474
+],
+  "geometry": {"coordinates":[-116.588099,43.595474],"type":"Point"}
+}

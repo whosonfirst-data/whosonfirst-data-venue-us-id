@@ -1,0 +1,82 @@
+{
+  "id": 857630193,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-116.784682,47.707139,-116.784682,47.707139",
+    "geom:latitude":47.707139,
+    "geom:longitude":-116.784682,
+    "iso:country":"US",
+    "sg:address":"121 E Neider Ave",
+    "sg:city":"Coeur D Alene",
+    "sg:classifiers":[
+        {
+            "category":"Coffee & Tea",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/id/coeur-dalene/108631-starbucks-coffee/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 765 4311",
+    "sg:postcode":"83815",
+    "sg:province":"ID",
+    "sg:tags":[
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85821457,
+        102086085,
+        102191575,
+        85938163,
+        85806325
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1ZTIX3zWlFygjTLL8QMern_47.707139_-116.784682@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464204669,
+    "wof:geomhash":"0cd96b6c90b78b1fe52a08d4c5b24ae3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086085,
+            "neighbourhood_id":85821457,
+            "region_id":85688657,
+            "venue_id":857630193
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086085,
+            "locality_id":85938163,
+            "neighbourhood_id":85806325,
+            "region_id":85688657,
+            "venue_id":857630193
+        }
+    ],
+    "wof:id":857630193,
+    "wof:lastmodified":1464204669,
+    "wof:name":"Starbucks Coffee",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american"
+    ]
+},
+  "bbox": [
+    -116.784682,
+    47.707139,
+    -116.784682,
+    47.707139
+],
+  "geometry": {"coordinates":[-116.784682,47.707139],"type":"Point"}
+}

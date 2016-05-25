@@ -1,0 +1,74 @@
+{
+  "id": 857629267,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-116.264104,43.619178,-116.264104,43.619178",
+    "geom:latitude":43.619178,
+    "geom:longitude":-116.264104,
+    "iso:country":"US",
+    "sg:address":"6565 W Fairview Ave",
+    "sg:city":"Boise",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/id/boise-city/26223-los-mariachis/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 323 5917",
+    "sg:postcode":"83704",
+    "sg:province":"ID",
+    "sg:tags":[
+        "mexican"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        102191575,
+        85633793,
+        85937923,
+        102086087,
+        85841319
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3lH43OTGPRCiiSJSDo2UkS_43.619178_-116.264104@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464204647,
+    "wof:geomhash":"1b9b7c3505ea9d42202f601603521485",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086087,
+            "locality_id":85937923,
+            "neighbourhood_id":85841319,
+            "region_id":85688657,
+            "venue_id":857629267
+        }
+    ],
+    "wof:id":857629267,
+    "wof:lastmodified":1464204647,
+    "wof:name":"Los Mariachis",
+    "wof:parent_id":85841319,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mexican"
+    ]
+},
+  "bbox": [
+    -116.264104,
+    43.619178,
+    -116.264104,
+    43.619178
+],
+  "geometry": {"coordinates":[-116.264104,43.619178],"type":"Point"}
+}

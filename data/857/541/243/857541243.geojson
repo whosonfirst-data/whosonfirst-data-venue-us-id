@@ -1,0 +1,73 @@
+{
+  "id": 857541243,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-117.021412,46.411467,-117.021412,46.411467",
+    "geom:latitude":46.411467,
+    "geom:longitude":-117.021412,
+    "iso:country":"US",
+    "sg:address":"807 9th Ave",
+    "sg:city":"Lewiston",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 746 4049",
+    "sg:postcode":"83501",
+    "sg:province":"ID",
+    "sg:tags":[
+        "building",
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85937743,
+        102086039,
+        85837769
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5EalH6PlOTmYRJ8UfFqIho_46.411467_-117.021412@1294099250"
+    },
+    "wof:country":"US",
+    "wof:created":1464202761,
+    "wof:geomhash":"f30df1bcab2eaa3f3b383c857f6f5032",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086039,
+            "locality_id":85937743,
+            "neighbourhood_id":85837769,
+            "region_id":85688657,
+            "venue_id":857541243
+        }
+    ],
+    "wof:id":857541243,
+    "wof:lastmodified":1464202761,
+    "wof:name":"Normal Hills Apartments",
+    "wof:parent_id":85837769,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "building",
+        "apartment"
+    ]
+},
+  "bbox": [
+    -117.021412,
+    46.411467,
+    -117.021412,
+    46.411467
+],
+  "geometry": {"coordinates":[-117.021412,46.411467],"type":"Point"}
+}

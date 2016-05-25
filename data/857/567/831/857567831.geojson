@@ -1,0 +1,71 @@
+{
+  "id": 857567831,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-116.7785,47.782189,-116.7785,47.782189",
+    "geom:latitude":47.782189,
+    "geom:longitude":-116.7785,
+    "iso:country":"US",
+    "sg:address":"610 E Topaz Dr",
+    "sg:city":"Hayden",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 666 8978",
+    "sg:postcode":"83835",
+    "sg:province":"ID",
+    "sg:tags":[
+        "general",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85821457,
+        102086085
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3ZRb7GPRdEnfaT4XX69rNR_47.782189_-116.778500@1294099250"
+    },
+    "wof:country":"US",
+    "wof:created":1464203312,
+    "wof:geomhash":"056ee97e4aaa7bf6d579ee555a89e75b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086085,
+            "neighbourhood_id":85821457,
+            "region_id":85688657,
+            "venue_id":857567831
+        }
+    ],
+    "wof:id":857567831,
+    "wof:lastmodified":1464203312,
+    "wof:name":"Century Construction",
+    "wof:parent_id":85821457,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "general",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -116.7785,
+    47.782189,
+    -116.7785,
+    47.782189
+],
+  "geometry": {"coordinates":[-116.77849999999999,47.782189],"type":"Point"}
+}

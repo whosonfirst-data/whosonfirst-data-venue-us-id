@@ -1,0 +1,71 @@
+{
+  "id": 857516501,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-116.780772,47.700826,-116.780772,47.700826",
+    "geom:latitude":47.700826,
+    "geom:longitude":-116.780772,
+    "iso:country":"US",
+    "sg:address":"409 E Best Ave",
+    "sg:city":"Coeur D Alene",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Shoe Repair & Shine",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 664 3010",
+    "sg:postcode":"83814",
+    "sg:province":"ID",
+    "sg:tags":[
+        "repairing",
+        "boot"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85821457,
+        102086085
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1eYVm4QGXnsRcO6e5XQwtG_47.700826_-116.780772@1294099250"
+    },
+    "wof:country":"US",
+    "wof:created":1464202279,
+    "wof:geomhash":"311074b91d40218a00017de5dc94b91b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086085,
+            "neighbourhood_id":85821457,
+            "region_id":85688657,
+            "venue_id":857516501
+        }
+    ],
+    "wof:id":857516501,
+    "wof:lastmodified":1464202279,
+    "wof:name":"Lake City Shoe Repair",
+    "wof:parent_id":85821457,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "boot"
+    ]
+},
+  "bbox": [
+    -116.780772,
+    47.700826,
+    -116.780772,
+    47.700826
+],
+  "geometry": {"coordinates":[-116.780772,47.700826],"type":"Point"}
+}

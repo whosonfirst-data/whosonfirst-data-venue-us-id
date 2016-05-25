@@ -1,0 +1,71 @@
+{
+  "id": 857575711,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-117.005832,46.382054,-117.005832,46.382054",
+    "geom:latitude":46.382054,
+    "geom:longitude":-117.005832,
+    "iso:country":"US",
+    "sg:address":"3337 5th St B",
+    "sg:city":"Lewiston",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 746 4732",
+    "sg:postcode":"83501",
+    "sg:province":"ID",
+    "sg:tags":[
+        "house"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85937743,
+        102086039,
+        85837769
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1bsgVCbJ5nridiD20NvwK0_46.382054_-117.005832@1294099250"
+    },
+    "wof:country":"US",
+    "wof:created":1464203465,
+    "wof:geomhash":"cbb00d527ae079aaa557e54882b999fb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086039,
+            "locality_id":85937743,
+            "neighbourhood_id":85837769,
+            "region_id":85688657,
+            "venue_id":857575711
+        }
+    ],
+    "wof:id":857575711,
+    "wof:lastmodified":1464203465,
+    "wof:name":"Double S Construction",
+    "wof:parent_id":85837769,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "house"
+    ]
+},
+  "bbox": [
+    -117.005832,
+    46.382054,
+    -117.005832,
+    46.382054
+],
+  "geometry": {"coordinates":[-117.005832,46.382054],"type":"Point"}
+}

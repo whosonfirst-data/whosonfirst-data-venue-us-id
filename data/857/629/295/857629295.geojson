@@ -1,0 +1,76 @@
+{
+  "id": 857629295,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-116.263756,43.61918,-116.263756,43.61918",
+    "geom:latitude":43.61918,
+    "geom:longitude":-116.263756,
+    "iso:country":"US",
+    "sg:address":"6508 W Fairview Ave",
+    "sg:city":"Boise",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/id/boise-city/38012-whirled-famous-pizza/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 345 0000",
+    "sg:postcode":"83704",
+    "sg:province":"ID",
+    "sg:tags":[
+        "american",
+        "pizza"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        102191575,
+        85633793,
+        85937923,
+        102086087,
+        85841319
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6JGRRRG4tdytAhDXTdoPxF_43.619180_-116.263756@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464204647,
+    "wof:geomhash":"0c602bac8d8cb6e4db06161b941b5669",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086087,
+            "locality_id":85937923,
+            "neighbourhood_id":85841319,
+            "region_id":85688657,
+            "venue_id":857629295
+        }
+    ],
+    "wof:id":857629295,
+    "wof:lastmodified":1464204647,
+    "wof:name":"Whirled Famous Pizza",
+    "wof:parent_id":85841319,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "pizza"
+    ]
+},
+  "bbox": [
+    -116.263756,
+    43.61918,
+    -116.263756,
+    43.61918
+],
+  "geometry": {"coordinates":[-116.263756,43.61918],"type":"Point"}
+}

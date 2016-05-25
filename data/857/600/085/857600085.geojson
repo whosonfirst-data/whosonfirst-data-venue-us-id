@@ -1,0 +1,68 @@
+{
+  "id": 857600085,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-116.285779,43.626525,-116.285779,43.626525",
+    "geom:latitude":43.626525,
+    "geom:longitude":-116.285779,
+    "iso:country":"US",
+    "sg:address":"8305 Northview St",
+    "sg:city":"Boise",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Chiropractor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 377 2266",
+    "sg:postcode":"83704",
+    "sg:province":"ID",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        102191575,
+        85633793,
+        85937923,
+        102086087,
+        85841319
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2huGjiH8qENta13o8G19Kw_43.626525_-116.285779@1294099250"
+    },
+    "wof:country":"US",
+    "wof:created":1464203988,
+    "wof:geomhash":"217e12233d43e95dcb1c1c6646dbc2ab",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086087,
+            "locality_id":85937923,
+            "neighbourhood_id":85841319,
+            "region_id":85688657,
+            "venue_id":857600085
+        }
+    ],
+    "wof:id":857600085,
+    "wof:lastmodified":1464203988,
+    "wof:name":"Cramer Chiropractic Clinic",
+    "wof:parent_id":85841319,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -116.285779,
+    43.626525,
+    -116.285779,
+    43.626525
+],
+  "geometry": {"coordinates":[-116.28577900000001,43.626525],"type":"Point"}
+}

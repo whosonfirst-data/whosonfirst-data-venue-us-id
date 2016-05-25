@@ -1,0 +1,71 @@
+{
+  "id": 857568075,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-116.38875,43.607922,-116.38875,43.607922",
+    "geom:latitude":43.607922,
+    "geom:longitude":-116.38875,
+    "iso:country":"US",
+    "sg:address":"300 E Bower Ave",
+    "sg:city":"Meridian",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 888 7389",
+    "sg:postcode":"83642",
+    "sg:province":"ID",
+    "sg:tags":[
+        "storage"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85937915,
+        102086087,
+        85805083
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1FcSiWZGCTRhFq8nbGTUlo_43.607922_-116.388750@1294099250"
+    },
+    "wof:country":"US",
+    "wof:created":1464203317,
+    "wof:geomhash":"e823b3d4e17230a773221800593607ca",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086087,
+            "locality_id":85937915,
+            "neighbourhood_id":85805083,
+            "region_id":85688657,
+            "venue_id":857568075
+        }
+    ],
+    "wof:id":857568075,
+    "wof:lastmodified":1464203317,
+    "wof:name":"Ameri Gas Inc",
+    "wof:parent_id":85805083,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "storage"
+    ]
+},
+  "bbox": [
+    -116.38875,
+    43.607922,
+    -116.38875,
+    43.607922
+],
+  "geometry": {"coordinates":[-116.38875,43.607922],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 857526037,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-116.239526,43.593319,-116.239526,43.593319",
+    "geom:latitude":43.593319,
+    "geom:longitude":-116.239526,
+    "iso:country":"US",
+    "sg:address":"4703 Kootenai St",
+    "sg:city":"Boise",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 342 2371",
+    "sg:postcode":"83705",
+    "sg:province":"ID",
+    "sg:tags":[
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        102191575,
+        85633793,
+        85937923,
+        102086087,
+        85876295
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2hKFuI7RMpWB5DxW0fp6sV_43.593319_-116.239526@1294099250"
+    },
+    "wof:country":"US",
+    "wof:created":1464202469,
+    "wof:geomhash":"a37ba8a5b5c7e60cb2f2eb4d9df3145e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086087,
+            "locality_id":85937923,
+            "neighbourhood_id":85876295,
+            "region_id":85688657,
+            "venue_id":857526037
+        }
+    ],
+    "wof:id":857526037,
+    "wof:lastmodified":1464202469,
+    "wof:name":"Mount Vernon Townhouse Apt",
+    "wof:parent_id":85876295,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "apartment"
+    ]
+},
+  "bbox": [
+    -116.239526,
+    43.593319,
+    -116.239526,
+    43.593319
+],
+  "geometry": {"coordinates":[-116.239526,43.593319],"type":"Point"}
+}

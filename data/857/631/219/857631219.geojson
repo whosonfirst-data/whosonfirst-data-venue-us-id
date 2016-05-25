@@ -1,0 +1,83 @@
+{
+  "id": 857631219,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-116.787927,47.744494,-116.787927,47.744494",
+    "geom:latitude":47.744494,
+    "geom:longitude":-116.787927,
+    "iso:country":"US",
+    "sg:address":"121 W Prairie Ave",
+    "sg:city":"Hayden",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Ice Cream",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/id/coeur-dalene/209018-tcby/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 762 3300",
+    "sg:postcode":"83835",
+    "sg:province":"ID",
+    "sg:tags":[
+        "smoothy",
+        "juice",
+        "american",
+        "ice",
+        "cream"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85821457,
+        102086085
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1rIuuqcTFSfOBQjh6OByvQ_47.744547_-116.788442@1294099250"
+    },
+    "wof:country":"US",
+    "wof:created":1464204690,
+    "wof:geomhash":"36597dd52de6dd6c9f164b231fc8e074",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086085,
+            "neighbourhood_id":85821457,
+            "region_id":85688657,
+            "venue_id":857631219
+        }
+    ],
+    "wof:id":857631219,
+    "wof:lastmodified":1464204690,
+    "wof:name":"TCBY",
+    "wof:parent_id":85821457,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "smoothy",
+        "juice",
+        "american",
+        "ice",
+        "cream"
+    ]
+},
+  "bbox": [
+    -116.787927,
+    47.744494,
+    -116.787927,
+    47.744494
+],
+  "geometry": {"coordinates":[-116.787927,47.744494],"type":"Point"}
+}

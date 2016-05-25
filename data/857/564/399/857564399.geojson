@@ -1,0 +1,71 @@
+{
+  "id": 857564399,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-116.784007,47.678597,-116.784007,47.678597",
+    "geom:latitude":47.678597,
+    "geom:longitude":-116.784007,
+    "iso:country":"US",
+    "sg:address":"721 N 2nd St",
+    "sg:city":"Coeur D Alene",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 665 9231",
+    "sg:postcode":"83814",
+    "sg:province":"ID",
+    "sg:tags":[
+        "masonry",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85821457,
+        102086085
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6G8JlqUfzSBUsau20rIHvU_47.678597_-116.784007@1294099250"
+    },
+    "wof:country":"US",
+    "wof:created":1464203245,
+    "wof:geomhash":"21a5bb1c34c511f7484543eb2d294ffb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086085,
+            "neighbourhood_id":85821457,
+            "region_id":85688657,
+            "venue_id":857564399
+        }
+    ],
+    "wof:id":857564399,
+    "wof:lastmodified":1464203245,
+    "wof:name":"Pat's Masonry",
+    "wof:parent_id":85821457,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "masonry",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -116.784007,
+    47.678597,
+    -116.784007,
+    47.678597
+],
+  "geometry": {"coordinates":[-116.784007,47.678597],"type":"Point"}
+}

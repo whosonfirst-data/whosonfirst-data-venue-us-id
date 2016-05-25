@@ -1,0 +1,71 @@
+{
+  "id": 857591103,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-116.575905,43.554262,-116.575905,43.554262",
+    "geom:latitude":43.554262,
+    "geom:longitude":-116.575905,
+    "iso:country":"US",
+    "sg:address":"339 W Iowa Ave",
+    "sg:city":"Nampa",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 467 1227",
+    "sg:postcode":"83686",
+    "sg:province":"ID",
+    "sg:tags":[
+        "dentist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85938009,
+        102085081,
+        85827787
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5yOV45pK0JmTx2dd6PpUeq_43.554262_-116.575905@1294099250"
+    },
+    "wof:country":"US",
+    "wof:created":1464203786,
+    "wof:geomhash":"70ad5f817443b9af71bb33e14c072410",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085081,
+            "locality_id":85938009,
+            "neighbourhood_id":85827787,
+            "region_id":85688657,
+            "venue_id":857591103
+        }
+    ],
+    "wof:id":857591103,
+    "wof:lastmodified":1464203786,
+    "wof:name":"Joe D Ballenger Jr DDS",
+    "wof:parent_id":85827787,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dentist"
+    ]
+},
+  "bbox": [
+    -116.575905,
+    43.554262,
+    -116.575905,
+    43.554262
+],
+  "geometry": {"coordinates":[-116.57590500000001,43.554262],"type":"Point"}
+}

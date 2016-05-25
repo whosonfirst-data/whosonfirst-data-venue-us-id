@@ -1,0 +1,73 @@
+{
+  "id": 857557181,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-116.601152,43.558828,-116.601152,43.558828",
+    "geom:latitude":43.558828,
+    "geom:longitude":-116.601152,
+    "iso:country":"US",
+    "sg:address":"1103 S Camas St",
+    "sg:city":"Nampa",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Landscaping Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 467 7453",
+    "sg:postcode":"83686",
+    "sg:province":"ID",
+    "sg:tags":[
+        "landscape",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85938009,
+        102085081,
+        85827787
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1WXEJqnmOg6zYe8Y74VV3m_43.558828_-116.601152@1294099250"
+    },
+    "wof:country":"US",
+    "wof:created":1464203076,
+    "wof:geomhash":"ca997c819c0cf6819c000c97708c2d76",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085081,
+            "locality_id":85938009,
+            "neighbourhood_id":85827787,
+            "region_id":85688657,
+            "venue_id":857557181
+        }
+    ],
+    "wof:id":857557181,
+    "wof:lastmodified":1464203076,
+    "wof:name":"Boise Valley Lawn Sprinkler",
+    "wof:parent_id":85827787,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "landscape",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -116.601152,
+    43.558828,
+    -116.601152,
+    43.558828
+],
+  "geometry": {"coordinates":[-116.601152,43.558828],"type":"Point"}
+}

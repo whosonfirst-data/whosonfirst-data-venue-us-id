@@ -1,0 +1,75 @@
+{
+  "id": 857600611,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-116.401943,43.590159,-116.401943,43.590159",
+    "geom:latitude":43.590159,
+    "geom:longitude":-116.401943,
+    "iso:country":"US",
+    "sg:address":"800 W Overland Rd",
+    "sg:city":"Meridian",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Animal Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 888 7978",
+    "sg:postcode":"83642",
+    "sg:province":"ID",
+    "sg:tags":[
+        "pet",
+        "boarding",
+        "sitting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85937915,
+        102086087,
+        85805083
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5iIw3H9nnrSgFaShQKb5D1_43.590159_-116.401943@1294099250"
+    },
+    "wof:country":"US",
+    "wof:created":1464203999,
+    "wof:geomhash":"af5e843045a9c8e4049c5534868269ae",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086087,
+            "locality_id":85937915,
+            "neighbourhood_id":85805083,
+            "region_id":85688657,
+            "venue_id":857600611
+        }
+    ],
+    "wof:id":857600611,
+    "wof:lastmodified":1464203999,
+    "wof:name":"A Better Pet School-Dog Trng",
+    "wof:parent_id":85805083,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pet",
+        "boarding",
+        "sitting"
+    ]
+},
+  "bbox": [
+    -116.401943,
+    43.590159,
+    -116.401943,
+    43.590159
+],
+  "geometry": {"coordinates":[-116.401943,43.590159],"type":"Point"}
+}

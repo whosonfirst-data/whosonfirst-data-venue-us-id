@@ -1,0 +1,71 @@
+{
+  "id": 857590151,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-115.923903,47.471532,-115.923903,47.471532",
+    "geom:latitude":47.471532,
+    "geom:longitude":-115.923903,
+    "iso:country":"US",
+    "sg:address":"606 Bank St",
+    "sg:city":"Wallace",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Gifts & Souvenirs",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 556 1171",
+    "sg:postcode":"83873",
+    "sg:province":"ID",
+    "sg:tags":[
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85937825,
+        102086103,
+        85849049
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0jzc203hYDTNCOAXWg68gM_47.471532_-115.923903@1294099250"
+    },
+    "wof:country":"US",
+    "wof:created":1464203763,
+    "wof:geomhash":"4673e77f1e767920f683cfff7fbb8717",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086103,
+            "locality_id":85937825,
+            "neighbourhood_id":85849049,
+            "region_id":85688657,
+            "venue_id":857590151
+        }
+    ],
+    "wof:id":857590151,
+    "wof:lastmodified":1464203763,
+    "wof:name":"Idaho Silver",
+    "wof:parent_id":85849049,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop"
+    ]
+},
+  "bbox": [
+    -115.923903,
+    47.471532,
+    -115.923903,
+    47.471532
+],
+  "geometry": {"coordinates":[-115.923903,47.471532],"type":"Point"}
+}

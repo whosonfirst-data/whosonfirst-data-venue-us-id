@@ -1,0 +1,71 @@
+{
+  "id": 857521025,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-116.83901,47.728446,-116.83901,47.728446",
+    "geom:latitude":47.728446,
+    "geom:longitude":-116.83901,
+    "iso:country":"US",
+    "sg:address":"4920 Industrial Ave W",
+    "sg:city":"Coeur D Alene",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Auto Parts",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 664 9486",
+    "sg:postcode":"83815",
+    "sg:province":"ID",
+    "sg:tags":[
+        "automobile",
+        "supply"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85821457,
+        102086085
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6y8CU6w7rS7bPpRPjmnN2N_47.728446_-116.839010@1294099250"
+    },
+    "wof:country":"US",
+    "wof:created":1464202372,
+    "wof:geomhash":"f26fd3f20e9b527ebcc73877864c1c75",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086085,
+            "neighbourhood_id":85821457,
+            "region_id":85688657,
+            "venue_id":857521025
+        }
+    ],
+    "wof:id":857521025,
+    "wof:lastmodified":1464202372,
+    "wof:name":"Lighthouse Import Auto Parts",
+    "wof:parent_id":85821457,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automobile",
+        "supply"
+    ]
+},
+  "bbox": [
+    -116.83901,
+    47.728446,
+    -116.83901,
+    47.728446
+],
+  "geometry": {"coordinates":[-116.83901,47.728446],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 857577873,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-116.209542,43.616497,-116.209542,43.616497",
+    "geom:latitude":43.616497,
+    "geom:longitude":-116.209542,
+    "iso:country":"US",
+    "sg:address":"1108 W Front St",
+    "sg:city":"Boise",
+    "sg:classifiers":[
+        {
+            "category":"Bars & Pubs",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 333 0074",
+    "sg:postcode":"83702",
+    "sg:province":"ID",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        102191575,
+        85633793,
+        85937923,
+        102086087,
+        85876297
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5mCrOkLXD5WE6GmnmLoqbn_43.616497_-116.209542@1294099250"
+    },
+    "wof:country":"US",
+    "wof:created":1464203508,
+    "wof:geomhash":"9ef5193e02fe718a2cfeb3a27b599b66",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086087,
+            "locality_id":85937923,
+            "neighbourhood_id":85876297,
+            "region_id":85688657,
+            "venue_id":857577873
+        }
+    ],
+    "wof:id":857577873,
+    "wof:lastmodified":1464203508,
+    "wof:name":"Locker Room",
+    "wof:parent_id":85876297,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -116.209542,
+    43.616497,
+    -116.209542,
+    43.616497
+],
+  "geometry": {"coordinates":[-116.209542,43.616497],"type":"Point"}
+}

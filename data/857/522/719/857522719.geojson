@@ -1,0 +1,75 @@
+{
+  "id": 857522719,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-116.374598,43.591612,-116.374598,43.591612",
+    "geom:latitude":43.591612,
+    "geom:longitude":-116.374598,
+    "iso:country":"US",
+    "sg:address":"1301 S Locust Grove Rd",
+    "sg:city":"Meridian",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Petroleum",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 884 4300",
+    "sg:postcode":"83642",
+    "sg:province":"ID",
+    "sg:tags":[
+        "pipe",
+        "line",
+        "company"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85937915,
+        102086087,
+        85805083
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3AfBp45SR0oc7vobocszp1_43.591612_-116.374598@1294099250"
+    },
+    "wof:country":"US",
+    "wof:created":1464202403,
+    "wof:geomhash":"13a675876c92ea84ffffc518d2a3c31c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086087,
+            "locality_id":85937915,
+            "neighbourhood_id":85805083,
+            "region_id":85688657,
+            "venue_id":857522719
+        }
+    ],
+    "wof:id":857522719,
+    "wof:lastmodified":1464202403,
+    "wof:name":"Williams Gas Pipeline-West",
+    "wof:parent_id":85805083,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pipe",
+        "line",
+        "company"
+    ]
+},
+  "bbox": [
+    -116.374598,
+    43.591612,
+    -116.374598,
+    43.591612
+],
+  "geometry": {"coordinates":[-116.37459800000001,43.591612],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 857510741,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-116.797379,47.758957,-116.797379,47.758957",
+    "geom:latitude":47.758957,
+    "geom:longitude":-116.797379,
+    "iso:country":"US",
+    "sg:address":"616 W Hayden Ave",
+    "sg:city":"Hayden Lake",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 762 9761",
+    "sg:postcode":"83835",
+    "sg:province":"ID",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85821457,
+        102086085
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1deZW90qbJkiUQL5KRz1vN_47.758957_-116.797379@1294099250"
+    },
+    "wof:country":"US",
+    "wof:created":1464202161,
+    "wof:geomhash":"83733b67486843690c70a3b5fa2c3d70",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086085,
+            "neighbourhood_id":85821457,
+            "region_id":85688657,
+            "venue_id":857510741
+        }
+    ],
+    "wof:id":857510741,
+    "wof:lastmodified":1464202161,
+    "wof:name":"Elite Automotive",
+    "wof:parent_id":85821457,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -116.797379,
+    47.758957,
+    -116.797379,
+    47.758957
+],
+  "geometry": {"coordinates":[-116.79737900000001,47.758957],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 857568695,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-116.284828,43.609707,-116.284828,43.609707",
+    "geom:latitude":43.609707,
+    "geom:longitude":-116.284828,
+    "iso:country":"US",
+    "sg:address":"347 N Milwaukee St",
+    "sg:city":"Boise",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Specialty",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 672 3445",
+    "sg:postcode":"83704",
+    "sg:province":"ID",
+    "sg:tags":[
+        "vitamin"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        102191575,
+        85633793,
+        85937923,
+        102086087,
+        85841319
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0Naj1X35iFJbszHkXQQIwL_43.609707_-116.284828@1294099250"
+    },
+    "wof:country":"US",
+    "wof:created":1464203327,
+    "wof:geomhash":"cc60cbb7d88c910f4dbf2996d9ff5886",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086087,
+            "locality_id":85937923,
+            "neighbourhood_id":85841319,
+            "region_id":85688657,
+            "venue_id":857568695
+        }
+    ],
+    "wof:id":857568695,
+    "wof:lastmodified":1464203327,
+    "wof:name":"Vitamin Shoppe",
+    "wof:parent_id":85841319,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "vitamin"
+    ]
+},
+  "bbox": [
+    -116.284828,
+    43.609707,
+    -116.284828,
+    43.609707
+],
+  "geometry": {"coordinates":[-116.284828,43.609707],"type":"Point"}
+}

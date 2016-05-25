@@ -1,0 +1,71 @@
+{
+  "id": 857600791,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-116.77808,47.677456,-116.77808,47.677456",
+    "geom:latitude":47.677456,
+    "geom:longitude":-116.77808,
+    "iso:country":"US",
+    "sg:address":"602 E Garden Ave",
+    "sg:city":"Coeur D Alene",
+    "sg:classifiers":[
+        {
+            "category":"Recreation",
+            "subcategory":"",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 660 9746",
+    "sg:postcode":"83814",
+    "sg:province":"ID",
+    "sg:tags":[
+        "instruction",
+        "yoga"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85821457,
+        102086085
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7E2O0JsWSx9CyT6o3nLcIJ_47.677456_-116.778080@1294099250"
+    },
+    "wof:country":"US",
+    "wof:created":1464204003,
+    "wof:geomhash":"9f3a976e0d23fd2336d0746103b762bd",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086085,
+            "neighbourhood_id":85821457,
+            "region_id":85688657,
+            "venue_id":857600791
+        }
+    ],
+    "wof:id":857600791,
+    "wof:lastmodified":1464204003,
+    "wof:name":"Garden Street Yoga",
+    "wof:parent_id":85821457,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "instruction",
+        "yoga"
+    ]
+},
+  "bbox": [
+    -116.77808,
+    47.677456,
+    -116.77808,
+    47.677456
+],
+  "geometry": {"coordinates":[-116.77808,47.677456],"type":"Point"}
+}

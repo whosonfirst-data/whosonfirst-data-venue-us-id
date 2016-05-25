@@ -1,0 +1,75 @@
+{
+  "id": 857520103,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-116.251047,43.58126,-116.251047,43.58126",
+    "geom:latitude":43.58126,
+    "geom:longitude":-116.251047,
+    "iso:country":"US",
+    "sg:address":"2430 S Eagleson Rd",
+    "sg:city":"Boise",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 322 1667",
+    "sg:postcode":"83705",
+    "sg:province":"ID",
+    "sg:tags":[
+        "electric",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        102191575,
+        85633793,
+        85937923,
+        102086087,
+        85825393
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3C9wB70AJ8fDWjkFTwcNBm_43.581260_-116.251047@1294099250"
+    },
+    "wof:country":"US",
+    "wof:created":1464202351,
+    "wof:geomhash":"1c70a57b9ef78e292c316d3135114ac0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086087,
+            "locality_id":85937923,
+            "neighbourhood_id":85825393,
+            "region_id":85688657,
+            "venue_id":857520103
+        }
+    ],
+    "wof:id":857520103,
+    "wof:lastmodified":1464202351,
+    "wof:name":"Idaho Contracting Inc",
+    "wof:parent_id":85825393,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electric",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -116.251047,
+    43.58126,
+    -116.251047,
+    43.58126
+],
+  "geometry": {"coordinates":[-116.251047,43.58126],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 857583835,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-116.56506,43.518816,-116.56506,43.518816",
+    "geom:latitude":43.518816,
+    "geom:longitude":-116.56506,
+    "iso:country":"US",
+    "sg:address":"501 E Fujii Dr",
+    "sg:city":"Nampa",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 466 7981",
+    "sg:postcode":"83686",
+    "sg:province":"ID",
+    "sg:tags":[
+        "carpentry",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85938009,
+        102085081,
+        85827787
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1sN5c07HPl5yxkQb6GvHUJ_43.518816_-116.565060@1294099250"
+    },
+    "wof:country":"US",
+    "wof:created":1464203622,
+    "wof:geomhash":"949976386e2321bb684dc6630cd1dca1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085081,
+            "locality_id":85938009,
+            "neighbourhood_id":85827787,
+            "region_id":85688657,
+            "venue_id":857583835
+        }
+    ],
+    "wof:id":857583835,
+    "wof:lastmodified":1464203622,
+    "wof:name":"Bell Framing",
+    "wof:parent_id":85827787,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "carpentry",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -116.56506,
+    43.518816,
+    -116.56506,
+    43.518816
+],
+  "geometry": {"coordinates":[-116.56506,43.518816],"type":"Point"}
+}

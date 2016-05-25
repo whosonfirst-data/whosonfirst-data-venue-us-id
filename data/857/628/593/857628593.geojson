@@ -1,0 +1,74 @@
+{
+  "id": 857628593,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-116.572909,43.557923,-116.572909,43.557923",
+    "geom:latitude":43.557923,
+    "geom:longitude":-116.572909,
+    "iso:country":"US",
+    "sg:address":"1120 12th Ave Rd",
+    "sg:city":"Nampa",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/id/nampa/3632-quik-wok/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 463 6337",
+    "sg:postcode":"83686",
+    "sg:province":"ID",
+    "sg:tags":[
+        "asian",
+        "chinese"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85938009,
+        102085081,
+        85827787
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_09yBq0kE5SpBemjfIeu59u_43.557923_-116.572909@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464204635,
+    "wof:geomhash":"a2808685d94b7b7a9c958cd5dac389a5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085081,
+            "locality_id":85938009,
+            "neighbourhood_id":85827787,
+            "region_id":85688657,
+            "venue_id":857628593
+        }
+    ],
+    "wof:id":857628593,
+    "wof:lastmodified":1464204635,
+    "wof:name":"Quik-Wok",
+    "wof:parent_id":85827787,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "asian",
+        "chinese"
+    ]
+},
+  "bbox": [
+    -116.572909,
+    43.557923,
+    -116.572909,
+    43.557923
+],
+  "geometry": {"coordinates":[-116.572909,43.557923],"type":"Point"}
+}

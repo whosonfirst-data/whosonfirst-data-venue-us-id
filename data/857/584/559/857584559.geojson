@@ -1,0 +1,73 @@
+{
+  "id": 857584559,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-116.372965,43.575649,-116.372965,43.575649",
+    "geom:latitude":43.575649,
+    "geom:longitude":-116.372965,
+    "iso:country":"US",
+    "sg:address":"1835 E Victory Rd",
+    "sg:city":"Meridian",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 888 3124",
+    "sg:postcode":"83642",
+    "sg:province":"ID",
+    "sg:tags":[
+        "electric",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85937915,
+        102086087,
+        85805083
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6qZOzVu5fYvx76pluRDxGA_43.575649_-116.372965@1294099250"
+    },
+    "wof:country":"US",
+    "wof:created":1464203634,
+    "wof:geomhash":"981d6a5b0b9f3104bf230c4c48c18c24",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086087,
+            "locality_id":85937915,
+            "neighbourhood_id":85805083,
+            "region_id":85688657,
+            "venue_id":857584559
+        }
+    ],
+    "wof:id":857584559,
+    "wof:lastmodified":1464203634,
+    "wof:name":"Commercial Electric",
+    "wof:parent_id":85805083,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electric",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -116.372965,
+    43.575649,
+    -116.372965,
+    43.575649
+],
+  "geometry": {"coordinates":[-116.37296499999999,43.575649],"type":"Point"}
+}

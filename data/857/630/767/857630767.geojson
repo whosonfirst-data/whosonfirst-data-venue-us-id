@@ -1,0 +1,83 @@
+{
+  "id": 857630767,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-117.015661,46.418516,-117.015661,46.418516",
+    "geom:latitude":46.418516,
+    "geom:longitude":-117.015661,
+    "iso:country":"US",
+    "sg:address":"1302 Main St",
+    "sg:city":"Lewiston",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Ice Cream",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/id/lewiston/172813-dairy-queen/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 746 2831",
+    "sg:postcode":"83501",
+    "sg:province":"ID",
+    "sg:tags":[
+        "burger",
+        "american",
+        "ice",
+        "cream"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85937743,
+        102086039,
+        85837769
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3xj2W4TBpB8HsG68Z9KUSl_46.418424_-117.015747@1294099250"
+    },
+    "wof:country":"US",
+    "wof:created":1464204680,
+    "wof:geomhash":"288fe4709ca32a7fa19721a0d14062e3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086039,
+            "locality_id":85937743,
+            "neighbourhood_id":85837769,
+            "region_id":85688657,
+            "venue_id":857630767
+        }
+    ],
+    "wof:id":857630767,
+    "wof:lastmodified":1464204680,
+    "wof:name":"Dairy Queen",
+    "wof:parent_id":85837769,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american",
+        "ice",
+        "cream"
+    ]
+},
+  "bbox": [
+    -117.015661,
+    46.418516,
+    -117.015661,
+    46.418516
+],
+  "geometry": {"coordinates":[-117.01566099999999,46.418516],"type":"Point"}
+}

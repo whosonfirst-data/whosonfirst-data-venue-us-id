@@ -1,0 +1,86 @@
+{
+  "id": 857630219,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-116.785774,47.706892,-116.785774,47.706892",
+    "geom:latitude":47.706892,
+    "geom:longitude":-116.785774,
+    "iso:country":"US",
+    "sg:address":"50 W Neider Ave",
+    "sg:city":"Coeur D Alene",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/id/coeur-dalene/78148-dominos-pizza/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 765 1216",
+    "sg:postcode":"83815",
+    "sg:province":"ID",
+    "sg:tags":[
+        "american",
+        "wing",
+        "pizza"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85821457,
+        102086085,
+        102191575,
+        85938163,
+        85806325
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6ajCSHg1euEYpZ1n7ULMIK_47.706892_-116.785774@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464204670,
+    "wof:geomhash":"7d8cae29c4dd0dbb70c3929b680cb065",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086085,
+            "neighbourhood_id":85821457,
+            "region_id":85688657,
+            "venue_id":857630219
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086085,
+            "locality_id":85938163,
+            "neighbourhood_id":85806325,
+            "region_id":85688657,
+            "venue_id":857630219
+        }
+    ],
+    "wof:id":857630219,
+    "wof:lastmodified":1464204670,
+    "wof:name":"Domino's Pizza",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "wing",
+        "pizza"
+    ]
+},
+  "bbox": [
+    -116.785774,
+    47.706892,
+    -116.785774,
+    47.706892
+],
+  "geometry": {"coordinates":[-116.785774,47.706892],"type":"Point"}
+}

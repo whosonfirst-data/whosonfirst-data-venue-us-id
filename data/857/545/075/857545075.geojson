@@ -1,0 +1,73 @@
+{
+  "id": 857545075,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-116.266586,43.606561,-116.266586,43.606561",
+    "geom:latitude":43.606561,
+    "geom:longitude":-116.266586,
+    "iso:country":"US",
+    "sg:address":"7180 Barrister Dr",
+    "sg:city":"Boise",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Court House",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 287 5600",
+    "sg:postcode":"83704",
+    "sg:province":"ID",
+    "sg:tags":[
+        "county"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        102191575,
+        85633793,
+        85937923,
+        102086087,
+        85841319
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3ucdk8gDrsGrXzLHnyRyhn_43.606561_-116.266586@1294099250"
+    },
+    "wof:country":"US",
+    "wof:created":1464202841,
+    "wof:geomhash":"629f64739ade14e605a1b7b2772d1ce1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086087,
+            "locality_id":85937923,
+            "neighbourhood_id":85841319,
+            "region_id":85688657,
+            "venue_id":857545075
+        }
+    ],
+    "wof:id":857545075,
+    "wof:lastmodified":1464202841,
+    "wof:name":"Ada County Juvenile Court Svc",
+    "wof:parent_id":85841319,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "county"
+    ]
+},
+  "bbox": [
+    -116.266586,
+    43.606561,
+    -116.266586,
+    43.606561
+],
+  "geometry": {"coordinates":[-116.266586,43.606561],"type":"Point"}
+}

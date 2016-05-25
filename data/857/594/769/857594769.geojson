@@ -1,0 +1,71 @@
+{
+  "id": 857594769,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-116.75757,47.707955,-116.75757,47.707955",
+    "geom:latitude":47.707955,
+    "geom:longitude":-116.75757,
+    "iso:country":"US",
+    "sg:address":"3507 Pinehill Pl",
+    "sg:city":"Coeur D Alene",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 667 7545",
+    "sg:postcode":"83815",
+    "sg:province":"ID",
+    "sg:tags":[
+        "satellite",
+        "system"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85821457,
+        102086085
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_62hbr05ir9dSeXYIxZhpsM_47.707955_-116.757570@1294099250"
+    },
+    "wof:country":"US",
+    "wof:created":1464203866,
+    "wof:geomhash":"c338cb8f07182e8ce1440e91332626f9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086085,
+            "neighbourhood_id":85821457,
+            "region_id":85688657,
+            "venue_id":857594769
+        }
+    ],
+    "wof:id":857594769,
+    "wof:lastmodified":1464203866,
+    "wof:name":"Panhandle Satellite TV",
+    "wof:parent_id":85821457,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "satellite",
+        "system"
+    ]
+},
+  "bbox": [
+    -116.75757,
+    47.707955,
+    -116.75757,
+    47.707955
+],
+  "geometry": {"coordinates":[-116.75757,47.707955],"type":"Point"}
+}

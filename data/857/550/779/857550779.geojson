@@ -1,0 +1,80 @@
+{
+  "id": 857550779,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-116.209972,43.569383,-116.209972,43.569383",
+    "geom:latitude":43.569383,
+    "geom:longitude":-116.209972,
+    "iso:country":"US",
+    "sg:address":"2393 Airport Way",
+    "sg:city":"Boise",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 433 1455",
+    "sg:postcode":"83705",
+    "sg:province":"ID",
+    "sg:tags":[
+        "renting",
+        "truck",
+        "leasing"
+    ],
+    "sg:website":"www.thrifty.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        102527733,
+        85876337,
+        102191575,
+        85633793,
+        85937923,
+        102086087,
+        85688657
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6OiGWAc30ZYI13SbT9G6Kg_43.569383_-116.209972@1294099250"
+    },
+    "wof:country":"US",
+    "wof:created":1464202945,
+    "wof:geomhash":"946c65ee7a90a52e85f94fab9b4e51ef",
+    "wof:hierarchy":[
+        {
+            "campus_id":102527733,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086087,
+            "locality_id":85937923,
+            "neighbourhood_id":85876337,
+            "region_id":85688657,
+            "venue_id":857550779
+        }
+    ],
+    "wof:id":857550779,
+    "wof:lastmodified":1464202945,
+    "wof:name":"U-Haul Co",
+    "wof:parent_id":102527733,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "renting",
+        "truck",
+        "leasing"
+    ]
+},
+  "bbox": [
+    -116.209972,
+    43.569383,
+    -116.209972,
+    43.569383
+],
+  "geometry": {"coordinates":[-116.20997199999999,43.569383],"type":"Point"}
+}

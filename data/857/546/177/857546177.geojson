@@ -1,0 +1,71 @@
+{
+  "id": 857546177,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-116.785215,47.977408,-116.785215,47.977408",
+    "geom:latitude":47.977408,
+    "geom:longitude":-116.785215,
+    "iso:country":"US",
+    "sg:address":"33208 N Sand Creek Dr",
+    "sg:city":"Spirit Lake",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 623 2604",
+    "sg:postcode":"83869",
+    "sg:province":"ID",
+    "sg:tags":[
+        "operator",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85821457,
+        102086085
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5Ut5TeEIpnMg6VJw6lhUdh_47.977408_-116.785215@1294099250"
+    },
+    "wof:country":"US",
+    "wof:created":1464202860,
+    "wof:geomhash":"318e40be58c837de7e98d7bf4ccbd104",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086085,
+            "neighbourhood_id":85821457,
+            "region_id":85688657,
+            "venue_id":857546177
+        }
+    ],
+    "wof:id":857546177,
+    "wof:lastmodified":1464202860,
+    "wof:name":"Herb A Hasz",
+    "wof:parent_id":85821457,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -116.785215,
+    47.977408,
+    -116.785215,
+    47.977408
+],
+  "geometry": {"coordinates":[-116.78521499999999,47.977408],"type":"Point"}
+}

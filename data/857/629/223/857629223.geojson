@@ -1,0 +1,76 @@
+{
+  "id": 857629223,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-116.291996,43.619879,-116.291996,43.619879",
+    "geom:latitude":43.619879,
+    "geom:longitude":-116.291996,
+    "iso:country":"US",
+    "sg:address":"8840 W Fairview Ave",
+    "sg:city":"Boise",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/id/boise-city/174888-popeyes-chicken--biscuits/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 376 1266",
+    "sg:postcode":"83704",
+    "sg:province":"ID",
+    "sg:tags":[
+        "american",
+        "wing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        102191575,
+        85633793,
+        85937923,
+        102086087,
+        85841319
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6YX9i4kNbi5pIxGesNZpfM_43.619879_-116.291996@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464204646,
+    "wof:geomhash":"48394bdc4121dc5fb10fd48f5e37fda0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086087,
+            "locality_id":85937923,
+            "neighbourhood_id":85841319,
+            "region_id":85688657,
+            "venue_id":857629223
+        }
+    ],
+    "wof:id":857629223,
+    "wof:lastmodified":1464204646,
+    "wof:name":"Popeyes Chicken & Biscuits",
+    "wof:parent_id":85841319,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "wing"
+    ]
+},
+  "bbox": [
+    -116.291996,
+    43.619879,
+    -116.291996,
+    43.619879
+],
+  "geometry": {"coordinates":[-116.291996,43.619879],"type":"Point"}
+}

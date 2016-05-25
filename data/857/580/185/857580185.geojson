@@ -1,0 +1,71 @@
+{
+  "id": 857580185,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-117.000732,46.380622,-117.000732,46.380622",
+    "geom:latitude":46.380622,
+    "geom:longitude":-117.000732,
+    "iso:country":"US",
+    "sg:address":"613 Bryden Ave",
+    "sg:city":"Lewiston",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Used Merchandise",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 743 9356",
+    "sg:postcode":"83501",
+    "sg:province":"ID",
+    "sg:tags":[
+        "pawnbroker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85937743,
+        102086039,
+        85837769
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2DKzuWujPPOuwGoRJaOcr9_46.380622_-117.000732@1294099250"
+    },
+    "wof:country":"US",
+    "wof:created":1464203557,
+    "wof:geomhash":"28d06d3ba9785db18fc5f1b64fd5a45f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086039,
+            "locality_id":85937743,
+            "neighbourhood_id":85837769,
+            "region_id":85688657,
+            "venue_id":857580185
+        }
+    ],
+    "wof:id":857580185,
+    "wof:lastmodified":1464203557,
+    "wof:name":"Bryden Pawn Shop",
+    "wof:parent_id":85837769,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pawnbroker"
+    ]
+},
+  "bbox": [
+    -117.000732,
+    46.380622,
+    -117.000732,
+    46.380622
+],
+  "geometry": {"coordinates":[-117.000732,46.380622],"type":"Point"}
+}

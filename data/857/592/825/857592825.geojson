@@ -1,0 +1,84 @@
+{
+  "id": 857592825,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-116.81191,47.704405,-116.81191,47.704405",
+    "geom:latitude":47.704405,
+    "geom:longitude":-116.81191,
+    "iso:country":"US",
+    "sg:address":"1820 W Golf Course Rd",
+    "sg:city":"Coeur D Alene",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"Adult Care",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 666 9900",
+    "sg:postcode":"83815",
+    "sg:province":"ID",
+    "sg:tags":[
+        "home",
+        "residential"
+    ],
+    "sg:website":"www.prestigecare.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85821457,
+        102086085,
+        102191575,
+        85938163,
+        85806325
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4DtNS5jg0hCB54I6RR8lMI_47.704405_-116.811910@1294099250"
+    },
+    "wof:country":"US",
+    "wof:created":1464203824,
+    "wof:geomhash":"c5a0de5f88247bc1d239ac397521062d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086085,
+            "neighbourhood_id":85821457,
+            "region_id":85688657,
+            "venue_id":857592825
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086085,
+            "locality_id":85938163,
+            "neighbourhood_id":85806325,
+            "region_id":85688657,
+            "venue_id":857592825
+        }
+    ],
+    "wof:id":857592825,
+    "wof:lastmodified":1464203824,
+    "wof:name":"Legends Park Assisted Living",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "home",
+        "residential"
+    ]
+},
+  "bbox": [
+    -116.81191,
+    47.704405,
+    -116.81191,
+    47.704405
+],
+  "geometry": {"coordinates":[-116.81191,47.704405],"type":"Point"}
+}

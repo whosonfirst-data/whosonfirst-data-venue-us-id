@@ -1,0 +1,72 @@
+{
+  "id": 857584247,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-116.592971,43.596932,-116.592971,43.596932",
+    "geom:latitude":43.596932,
+    "geom:longitude":-116.592971,
+    "iso:country":"US",
+    "sg:address":"1420 N Midland Blvd",
+    "sg:city":"Nampa",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Veterinary Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 466 4614",
+    "sg:postcode":"83651",
+    "sg:province":"ID",
+    "sg:tags":[
+        "veterinarian"
+    ],
+    "sg:website":"www.idahovethospital.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85938009,
+        102085081,
+        85827787
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6ysSZcMMN9K9NTiY59FH4t_43.596932_-116.592971@1294099250"
+    },
+    "wof:country":"US",
+    "wof:created":1464203629,
+    "wof:geomhash":"39ca1b6a0e0781e9be632bb4f46abe31",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085081,
+            "locality_id":85938009,
+            "neighbourhood_id":85827787,
+            "region_id":85688657,
+            "venue_id":857584247
+        }
+    ],
+    "wof:id":857584247,
+    "wof:lastmodified":1464203629,
+    "wof:name":"Idaho Veterinary Hospital",
+    "wof:parent_id":85827787,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "veterinarian"
+    ]
+},
+  "bbox": [
+    -116.592971,
+    43.596932,
+    -116.592971,
+    43.596932
+],
+  "geometry": {"coordinates":[-116.59297100000001,43.596932],"type":"Point"}
+}

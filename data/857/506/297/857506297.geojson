@@ -1,0 +1,71 @@
+{
+  "id": 857506297,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-116.786804,47.729829,-116.786804,47.729829",
+    "geom:latitude":47.729829,
+    "geom:longitude":-116.786804,
+    "iso:country":"US",
+    "sg:address":"6215 N Government Way",
+    "sg:city":"Coeur D Alene",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 762 5252",
+    "sg:postcode":"83815",
+    "sg:province":"ID",
+    "sg:tags":[
+        "commercial",
+        "storage"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85821457,
+        102086085
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7lXPW2T7rdtHHg0YLHYWkC_47.729829_-116.786804@1294099250"
+    },
+    "wof:country":"US",
+    "wof:created":1464202066,
+    "wof:geomhash":"706c3d4702efda4feffac906fce192b3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086085,
+            "neighbourhood_id":85821457,
+            "region_id":85688657,
+            "venue_id":857506297
+        }
+    ],
+    "wof:id":857506297,
+    "wof:lastmodified":1464202066,
+    "wof:name":"Advanced Storage Ctr",
+    "wof:parent_id":85821457,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "commercial",
+        "storage"
+    ]
+},
+  "bbox": [
+    -116.786804,
+    47.729829,
+    -116.786804,
+    47.729829
+],
+  "geometry": {"coordinates":[-116.786804,47.729829],"type":"Point"}
+}

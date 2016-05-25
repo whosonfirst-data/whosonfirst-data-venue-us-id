@@ -1,0 +1,68 @@
+{
+  "id": 857533885,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-116.243417,43.602126,-116.243417,43.602126",
+    "geom:latitude":43.602126,
+    "geom:longitude":-116.243417,
+    "iso:country":"US",
+    "sg:address":"270 S Orchard St",
+    "sg:city":"Boise",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Professional Association",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 384 5066",
+    "sg:postcode":"83705",
+    "sg:province":"ID",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        102191575,
+        85633793,
+        85937923,
+        102086087,
+        85876295
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5FdZh0yurLVxDKHWaGZ9Q8_43.602126_-116.243417@1294099250"
+    },
+    "wof:country":"US",
+    "wof:created":1464202619,
+    "wof:geomhash":"5dafd66f24846a181c934cfae4448890",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086087,
+            "locality_id":85937923,
+            "neighbourhood_id":85876295,
+            "region_id":85688657,
+            "venue_id":857533885
+        }
+    ],
+    "wof:id":857533885,
+    "wof:lastmodified":1464202619,
+    "wof:name":"American Heart Assn",
+    "wof:parent_id":85876295,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -116.243417,
+    43.602126,
+    -116.243417,
+    43.602126
+],
+  "geometry": {"coordinates":[-116.24341699999999,43.602126],"type":"Point"}
+}

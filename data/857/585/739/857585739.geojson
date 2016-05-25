@@ -1,0 +1,71 @@
+{
+  "id": 857585739,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-116.752656,47.720109,-116.752656,47.720109",
+    "geom:latitude":47.720109,
+    "geom:longitude":-116.752656,
+    "iso:country":"US",
+    "sg:address":"5487 N Martha Loop",
+    "sg:city":"Coeur D Alene",
+    "sg:classifiers":[
+        {
+            "category":"Travel",
+            "subcategory":"Travel Agent",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 667 4775",
+    "sg:postcode":"83815",
+    "sg:province":"ID",
+    "sg:tags":[
+        "agency",
+        "bureau"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85821457,
+        102086085
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2eMOvca3Buw9I6YC1fo2Mz_47.720109_-116.752656@1294099250"
+    },
+    "wof:country":"US",
+    "wof:created":1464203666,
+    "wof:geomhash":"28a6fac69a44b3df19def8cdac6c98c8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086085,
+            "neighbourhood_id":85821457,
+            "region_id":85688657,
+            "venue_id":857585739
+        }
+    ],
+    "wof:id":857585739,
+    "wof:lastmodified":1464203666,
+    "wof:name":"A Travel Resource",
+    "wof:parent_id":85821457,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "agency",
+        "bureau"
+    ]
+},
+  "bbox": [
+    -116.752656,
+    47.720109,
+    -116.752656,
+    47.720109
+],
+  "geometry": {"coordinates":[-116.752656,47.720109],"type":"Point"}
+}

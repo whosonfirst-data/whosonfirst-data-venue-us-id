@@ -1,0 +1,75 @@
+{
+  "id": 857514539,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-116.122688,47.535248,-116.122688,47.535248",
+    "geom:latitude":47.535248,
+    "geom:longitude":-116.122688,
+    "iso:country":"US",
+    "sg:address":"230 S Main St",
+    "sg:city":"Kellogg",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Animal Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 786 8733",
+    "sg:postcode":"83837",
+    "sg:province":"ID",
+    "sg:tags":[
+        "pet",
+        "grooming",
+        "washing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85937825,
+        102086103,
+        85849049
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5NFRStq0upZFsgEhA6L817_47.535248_-116.122688@1294099250"
+    },
+    "wof:country":"US",
+    "wof:created":1464202243,
+    "wof:geomhash":"9c53d6ad7af2701714b7b2d58c495d00",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086103,
+            "locality_id":85937825,
+            "neighbourhood_id":85849049,
+            "region_id":85688657,
+            "venue_id":857514539
+        }
+    ],
+    "wof:id":857514539,
+    "wof:lastmodified":1464202243,
+    "wof:name":"Grooming By Burt's",
+    "wof:parent_id":85849049,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pet",
+        "grooming",
+        "washing"
+    ]
+},
+  "bbox": [
+    -116.122688,
+    47.535248,
+    -116.122688,
+    47.535248
+],
+  "geometry": {"coordinates":[-116.122688,47.535248],"type":"Point"}
+}

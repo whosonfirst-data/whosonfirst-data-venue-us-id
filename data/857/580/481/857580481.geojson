@@ -1,0 +1,71 @@
+{
+  "id": 857580481,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-116.561849,43.577059,-116.561849,43.577059",
+    "geom:latitude":43.577059,
+    "geom:longitude":-116.561849,
+    "iso:country":"US",
+    "sg:address":"324 12th Ave S",
+    "sg:city":"Nampa",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 467 4481",
+    "sg:postcode":"83651",
+    "sg:province":"ID",
+    "sg:tags":[
+        "loan"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85938009,
+        102085081,
+        85827787
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4LHbfU5fRFy6Jgwegt8h5n_43.577059_-116.561849@1294099250"
+    },
+    "wof:country":"US",
+    "wof:created":1464203562,
+    "wof:geomhash":"28da5fed3b4a199c790aac543af2ea35",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085081,
+            "locality_id":85938009,
+            "neighbourhood_id":85827787,
+            "region_id":85688657,
+            "venue_id":857580481
+        }
+    ],
+    "wof:id":857580481,
+    "wof:lastmodified":1464203562,
+    "wof:name":"Key Bank",
+    "wof:parent_id":85827787,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "loan"
+    ]
+},
+  "bbox": [
+    -116.561849,
+    43.577059,
+    -116.561849,
+    43.577059
+],
+  "geometry": {"coordinates":[-116.561849,43.577059],"type":"Point"}
+}

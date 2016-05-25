@@ -1,0 +1,72 @@
+{
+  "id": 857630167,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-116.793116,47.737188,-116.793116,47.737188",
+    "geom:latitude":47.737188,
+    "geom:longitude":-116.793116,
+    "iso:country":"US",
+    "sg:address":"400 W Wilbur Ave",
+    "sg:city":"Coeur D Alene",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/id/coeur-dalene/225067-panda-express/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 762 4497",
+    "sg:postcode":"83815",
+    "sg:province":"ID",
+    "sg:tags":[
+        "asian",
+        "chinese"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85821457,
+        102086085
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2cZiVyUfIz4zq9H6PYUbNp_47.737188_-116.793116@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464204669,
+    "wof:geomhash":"f1f6176910d9ef41f5cc7081afd8edc6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086085,
+            "neighbourhood_id":85821457,
+            "region_id":85688657,
+            "venue_id":857630167
+        }
+    ],
+    "wof:id":857630167,
+    "wof:lastmodified":1464204669,
+    "wof:name":"Panda Express",
+    "wof:parent_id":85821457,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "asian",
+        "chinese"
+    ]
+},
+  "bbox": [
+    -116.793116,
+    47.737188,
+    -116.793116,
+    47.737188
+],
+  "geometry": {"coordinates":[-116.793116,47.737188],"type":"Point"}
+}

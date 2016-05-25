@@ -1,0 +1,69 @@
+{
+  "id": 857545543,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-116.780746,47.684385,-116.780746,47.684385",
+    "geom:latitude":47.684385,
+    "geom:longitude":-116.780746,
+    "iso:country":"US",
+    "sg:address":"1001 N 4th St",
+    "sg:city":"Coeur D Alene",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 664 6019",
+    "sg:postcode":"83814",
+    "sg:province":"ID",
+    "sg:tags":[
+        "grocer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85821457,
+        102086085
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1MS5LrLaH79mmKMpZGGyGN_47.684385_-116.780746@1294099250"
+    },
+    "wof:country":"US",
+    "wof:created":1464202849,
+    "wof:geomhash":"24a16c462cb18c2e80619f78272e3fc9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086085,
+            "neighbourhood_id":85821457,
+            "region_id":85688657,
+            "venue_id":857545543
+        }
+    ],
+    "wof:id":857545543,
+    "wof:lastmodified":1464202849,
+    "wof:name":"Safeway",
+    "wof:parent_id":85821457,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "grocer"
+    ]
+},
+  "bbox": [
+    -116.780746,
+    47.684385,
+    -116.780746,
+    47.684385
+],
+  "geometry": {"coordinates":[-116.78074599999999,47.684385],"type":"Point"}
+}

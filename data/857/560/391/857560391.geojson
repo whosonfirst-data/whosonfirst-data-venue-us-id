@@ -1,0 +1,71 @@
+{
+  "id": 857560391,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-116.790866,47.74385,-116.790866,47.74385",
+    "geom:latitude":47.74385,
+    "geom:longitude":-116.790866,
+    "iso:country":"US",
+    "sg:address":"7905 N Meadowlark Way",
+    "sg:city":"Coeur D Alene",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 762 3979",
+    "sg:postcode":"83815",
+    "sg:province":"ID",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688657,
+        85633793,
+        85821457,
+        102086085
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5XjHmIol6GkRocD8wnvdEZ_47.743850_-116.790866@1294099250"
+    },
+    "wof:country":"US",
+    "wof:created":1464203163,
+    "wof:geomhash":"275ced5e41f53132c0242504421b960c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086085,
+            "neighbourhood_id":85821457,
+            "region_id":85688657,
+            "venue_id":857560391
+        }
+    ],
+    "wof:id":857560391,
+    "wof:lastmodified":1464203163,
+    "wof:name":"Powder Basin Assoc",
+    "wof:parent_id":85821457,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -116.790866,
+    47.74385,
+    -116.790866,
+    47.74385
+],
+  "geometry": {"coordinates":[-116.79086599999999,47.74385],"type":"Point"}
+}
