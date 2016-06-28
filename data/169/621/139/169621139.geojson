@@ -2,13 +2,14 @@
   "id": 169621139,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-117.003455,46.400888,-117.003455,46.400888",
     "geom:latitude":46.400888,
     "geom:longitude":-117.003455,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2004 19th Ave",
     "sg:city":"Lewiston",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":169621139,
-    "wof:lastmodified":1449035557,
+    "wof:lastmodified":1466487135,
     "wof:name":"Floral Artistry & Espresso",
     "wof:parent_id":85837769,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-117.003455,46.400888,-117.003455,46.400888],
+  "bbox": [
+    -117.003455,
+    46.400888,
+    -117.003455,
+    46.400888
+],
   "geometry": {"coordinates":[-117.003455,46.400888],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186555279,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.255193,43.460074,-114.255193,43.460074",
     "geom:latitude":43.460074,
     "geom:longitude":-114.255193,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"306 Bayhorse Rd",
     "sg:city":"Bellevue",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":186555279,
-    "wof:lastmodified":1449052633,
+    "wof:lastmodified":1466488888,
     "wof:name":"Valley Woodworks LLC",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "mfg"
     ]
 },
-  "bbox": [-114.255193,43.460074,-114.255193,43.460074],
-  "geometry": {"coordinates":[-114.255193,43.460074],"type":"Point"}
+  "bbox": [
+    -114.255193,
+    43.460074,
+    -114.255193,
+    43.460074
+],
+  "geometry": {"coordinates":[-114.25519300000001,43.460074],"type":"Point"}
 }

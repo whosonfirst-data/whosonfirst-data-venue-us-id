@@ -2,13 +2,14 @@
   "id": 169633301,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.533069,43.587236,-116.533069,43.587236",
     "geom:latitude":43.587236,
     "geom:longitude":-116.533069,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2908 Garrity Blvd",
     "sg:city":"Nampa",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":169633301,
-    "wof:lastmodified":1449035937,
+    "wof:lastmodified":1466487332,
     "wof:name":"Hobby Center Inc",
     "wof:parent_id":85827787,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "supply"
     ]
 },
-  "bbox": [-116.533069,43.587236,-116.533069,43.587236],
+  "bbox": [
+    -116.533069,
+    43.587236,
+    -116.533069,
+    43.587236
+],
   "geometry": {"coordinates":[-116.533069,43.587236],"type":"Point"}
 }

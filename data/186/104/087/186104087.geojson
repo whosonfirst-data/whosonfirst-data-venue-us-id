@@ -2,13 +2,14 @@
   "id": 186104087,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.520855,43.593044,-116.520855,43.593044",
     "geom:latitude":43.593044,
     "geom:longitude":-116.520855,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3900 Garrity Blvd",
     "sg:city":"Nampa",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186104087,
-    "wof:lastmodified":1449051482,
+    "wof:lastmodified":1466487905,
     "wof:name":"Idaho Recycling & Salvage",
     "wof:parent_id":85827787,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "center"
     ]
 },
-  "bbox": [-116.520855,43.593044,-116.520855,43.593044],
+  "bbox": [
+    -116.520855,
+    43.593044,
+    -116.520855,
+    43.593044
+],
   "geometry": {"coordinates":[-116.520855,43.593044],"type":"Point"}
 }

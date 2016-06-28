@@ -2,13 +2,14 @@
   "id": 185993581,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.799924,47.769805,-116.799924,47.769805",
     "geom:latitude":47.769805,
     "geom:longitude":-116.799924,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"870 W Lacey Ave",
     "sg:city":"Hayden",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":185993581,
-    "wof:lastmodified":1449007324,
+    "wof:lastmodified":1466488745,
     "wof:name":"Cuttin Close",
     "wof:parent_id":85821457,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "maintenance"
     ]
 },
-  "bbox": [-116.799924,47.769805,-116.799924,47.769805],
+  "bbox": [
+    -116.799924,
+    47.769805,
+    -116.799924,
+    47.769805
+],
   "geometry": {"coordinates":[-116.799924,47.769805],"type":"Point"}
 }

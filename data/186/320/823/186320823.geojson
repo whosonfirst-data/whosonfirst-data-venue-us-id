@@ -2,13 +2,14 @@
   "id": 186320823,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.577642,48.260361,-116.577642,48.260361",
     "geom:latitude":48.260361,
     "geom:longitude":-116.577642,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1502 Mathison Dr",
     "sg:city":"Sandpoint",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":186320823,
-    "wof:lastmodified":1449051075,
+    "wof:lastmodified":1466488705,
     "wof:name":"North Idaho Volleyball CL",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-116.577642,48.260361,-116.577642,48.260361],
+  "bbox": [
+    -116.577642,
+    48.260361,
+    -116.577642,
+    48.260361
+],
   "geometry": {"coordinates":[-116.577642,48.260361],"type":"Point"}
 }

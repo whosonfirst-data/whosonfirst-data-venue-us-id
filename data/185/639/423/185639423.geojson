@@ -2,13 +2,14 @@
   "id": 185639423,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.159177,45.435688,-114.159177,45.435688",
     "geom:latitude":45.435688,
     "geom:longitude":-114.159177,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"194 Indian Creek Rd",
     "sg:city":"North Fork",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":185639423,
-    "wof:lastmodified":1449008195,
+    "wof:lastmodified":1466487062,
     "wof:name":"Indian Creek Guest Ranch",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "guest"
     ]
 },
-  "bbox": [-114.159177,45.435688,-114.159177,45.435688],
+  "bbox": [
+    -114.159177,
+    45.435688,
+    -114.159177,
+    45.435688
+],
   "geometry": {"coordinates":[-114.159177,45.435688],"type":"Point"}
 }

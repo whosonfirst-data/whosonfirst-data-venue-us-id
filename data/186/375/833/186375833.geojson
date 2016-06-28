@@ -2,13 +2,14 @@
   "id": 186375833,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-117.00279,46.715778,-117.00279,46.715778",
     "geom:latitude":46.715778,
     "geom:longitude":-117.00279,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"140 E Palouse River Dr",
     "sg:city":"Moscow",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":186375833,
-    "wof:lastmodified":1449050362,
+    "wof:lastmodified":1466488686,
     "wof:name":"Germer Construction",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "contractor"
     ]
 },
-  "bbox": [-117.00279,46.715778,-117.00279,46.715778],
+  "bbox": [
+    -117.00279,
+    46.715778,
+    -117.00279,
+    46.715778
+],
   "geometry": {"coordinates":[-117.00279,46.715778],"type":"Point"}
 }

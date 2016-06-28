@@ -2,13 +2,14 @@
   "id": 186338473,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.493515,43.482196,-116.493515,43.482196",
     "geom:latitude":43.482196,
     "geom:longitude":-116.493515,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7425 Robinson Rd",
     "sg:city":"Kuna",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186338473,
-    "wof:lastmodified":1449051319,
+    "wof:lastmodified":1466488729,
     "wof:name":"Advanced Excavation",
     "wof:parent_id":85827787,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-116.493515,43.482196,-116.493515,43.482196],
+  "bbox": [
+    -116.493515,
+    43.482196,
+    -116.493515,
+    43.482196
+],
   "geometry": {"coordinates":[-116.493515,43.482196],"type":"Point"}
 }

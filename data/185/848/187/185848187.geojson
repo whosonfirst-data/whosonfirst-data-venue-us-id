@@ -2,13 +2,14 @@
   "id": 185848187,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.433039,42.866622,-112.433039,42.866622",
     "geom:latitude":42.866622,
     "geom:longitude":-112.433039,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"500 S 11th Ave",
     "sg:city":"Pocatello",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":185848187,
-    "wof:lastmodified":1449006830,
+    "wof:lastmodified":1466488460,
     "wof:name":"Gate City Women's Health",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "surgeon"
     ]
 },
-  "bbox": [-112.433039,42.866622,-112.433039,42.866622],
-  "geometry": {"coordinates":[-112.433039,42.866622],"type":"Point"}
+  "bbox": [
+    -112.433039,
+    42.866622,
+    -112.433039,
+    42.866622
+],
+  "geometry": {"coordinates":[-112.43303899999999,42.866622],"type":"Point"}
 }

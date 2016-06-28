@@ -2,13 +2,14 @@
   "id": 185703459,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.270557,43.613741,-116.270557,43.613741",
     "geom:latitude":43.613741,
     "geom:longitude":-116.270557,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1084 Camelot Dr",
     "sg:city":"Boise",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":185703459,
-    "wof:lastmodified":1449007095,
+    "wof:lastmodified":1466487551,
     "wof:name":"Evas Customs Draperies",
     "wof:parent_id":85841319,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-116.270557,43.613741,-116.270557,43.613741],
+  "bbox": [
+    -116.270557,
+    43.613741,
+    -116.270557,
+    43.613741
+],
   "geometry": {"coordinates":[-116.270557,43.613741],"type":"Point"}
 }

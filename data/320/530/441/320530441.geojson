@@ -2,13 +2,14 @@
   "id": 320530441,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.923828,44.01096,-116.923828,44.01096",
     "geom:latitude":44.01096,
     "geom:longitude":-116.923828,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"100 N Whitley Dr",
     "sg:city":"Fruitland",
     "sg:classifiers":[
@@ -55,16 +56,22 @@
         }
     ],
     "wof:id":320530441,
-    "wof:lastmodified":1449013249,
+    "wof:lastmodified":1466487828,
     "wof:name":"Bishop Properties",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "management"
     ]
 },
-  "bbox": [-116.923828,44.01096,-116.923828,44.01096],
+  "bbox": [
+    -116.923828,
+    44.01096,
+    -116.923828,
+    44.01096
+],
   "geometry": {"coordinates":[-116.923828,44.01096],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186261017,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.112928,47.536099,-116.112928,47.536099",
     "geom:latitude":47.536099,
     "geom:longitude":-116.112928,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"304 E Cameron Ave",
     "sg:city":"Kellogg",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186261017,
-    "wof:lastmodified":1449050304,
+    "wof:lastmodified":1466488518,
     "wof:name":"Scott Beggs & Co",
     "wof:parent_id":85849049,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "accountant"
     ]
 },
-  "bbox": [-116.112928,47.536099,-116.112928,47.536099],
+  "bbox": [
+    -116.112928,
+    47.536099,
+    -116.112928,
+    47.536099
+],
   "geometry": {"coordinates":[-116.112928,47.536099],"type":"Point"}
 }

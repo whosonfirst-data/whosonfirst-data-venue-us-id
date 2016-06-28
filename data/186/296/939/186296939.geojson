@@ -2,13 +2,14 @@
   "id": 186296939,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.00622,43.48253,-112.00622,43.48253",
     "geom:latitude":43.48253,
     "geom:longitude":-112.00622,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1505 E 17th St",
     "sg:city":"Idaho Falls",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186296939,
-    "wof:lastmodified":1449052512,
+    "wof:lastmodified":1466488669,
     "wof:name":"Great Harvest Bread Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "baker"
     ]
 },
-  "bbox": [-112.00622,43.48253,-112.00622,43.48253],
+  "bbox": [
+    -112.00622,
+    43.48253,
+    -112.00622,
+    43.48253
+],
   "geometry": {"coordinates":[-112.00622,43.48253],"type":"Point"}
 }

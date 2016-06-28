@@ -2,13 +2,14 @@
   "id": 186559653,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-117.026678,43.722286,-117.026678,43.722286",
     "geom:latitude":43.722286,
     "geom:longitude":-117.026678,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"23946 State Line Rd",
     "sg:city":"Parma",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":186559653,
-    "wof:lastmodified":1449052413,
+    "wof:lastmodified":1466488937,
     "wof:name":"Nelson Installation",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "contractor"
     ]
 },
-  "bbox": [-117.026678,43.722286,-117.026678,43.722286],
+  "bbox": [
+    -117.026678,
+    43.722286,
+    -117.026678,
+    43.722286
+],
   "geometry": {"coordinates":[-117.026678,43.722286],"type":"Point"}
 }

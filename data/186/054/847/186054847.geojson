@@ -2,13 +2,14 @@
   "id": 186054847,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.784103,47.673936,-116.784103,47.673936",
     "geom:latitude":47.673936,
     "geom:longitude":-116.784103,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"101 N 2nd St",
     "sg:city":"Coeur D Alene",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186054847,
-    "wof:lastmodified":1449051650,
+    "wof:lastmodified":1466487366,
     "wof:name":"Island Rentals",
     "wof:parent_id":85821457,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "boat"
     ]
 },
-  "bbox": [-116.784103,47.673936,-116.784103,47.673936],
+  "bbox": [
+    -116.784103,
+    47.673936,
+    -116.784103,
+    47.673936
+],
   "geometry": {"coordinates":[-116.784103,47.673936],"type":"Point"}
 }

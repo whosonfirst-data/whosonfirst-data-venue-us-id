@@ -2,13 +2,14 @@
   "id": 186230895,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.712924,43.70556,-116.712924,43.70556",
     "geom:latitude":43.70556,
     "geom:longitude":-116.712924,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"22730 Farmway Rd",
     "sg:city":"Caldwell",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":186230895,
-    "wof:lastmodified":1449052342,
+    "wof:lastmodified":1466488561,
     "wof:name":"Caldwell Housing Athrty Comm",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "housing"
     ]
 },
-  "bbox": [-116.712924,43.70556,-116.712924,43.70556],
+  "bbox": [
+    -116.712924,
+    43.70556,
+    -116.712924,
+    43.70556
+],
   "geometry": {"coordinates":[-116.712924,43.70556],"type":"Point"}
 }

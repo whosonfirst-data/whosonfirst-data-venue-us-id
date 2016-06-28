@@ -2,13 +2,14 @@
   "id": 320534625,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.376244,43.629585,-116.376244,43.629585",
     "geom:latitude":43.629585,
     "geom:longitude":-116.376244,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2717 N Shoveler Way",
     "sg:city":"Meridian",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":320534625,
-    "wof:lastmodified":1449012240,
+    "wof:lastmodified":1466488392,
     "wof:name":"Ll Wallgren Company",
     "wof:parent_id":85876351,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "women's"
     ]
 },
-  "bbox": [-116.376244,43.629585,-116.376244,43.629585],
+  "bbox": [
+    -116.376244,
+    43.629585,
+    -116.376244,
+    43.629585
+],
   "geometry": {"coordinates":[-116.376244,43.629585],"type":"Point"}
 }

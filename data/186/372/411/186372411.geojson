@@ -2,13 +2,14 @@
   "id": 186372411,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.272458,43.407163,-114.272458,43.407163",
     "geom:latitude":43.407163,
     "geom:longitude":-114.272458,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"186 Sluder Dr",
     "sg:city":"Bellevue",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":186372411,
-    "wof:lastmodified":1449051989,
+    "wof:lastmodified":1466488683,
     "wof:name":"Glendale Construction Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "gravel"
     ]
 },
-  "bbox": [-114.272458,43.407163,-114.272458,43.407163],
+  "bbox": [
+    -114.272458,
+    43.407163,
+    -114.272458,
+    43.407163
+],
   "geometry": {"coordinates":[-114.272458,43.407163],"type":"Point"}
 }

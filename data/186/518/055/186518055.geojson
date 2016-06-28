@@ -2,13 +2,14 @@
   "id": 186518055,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.442774,43.618743,-116.442774,43.618743",
     "geom:latitude":43.618743,
     "geom:longitude":-116.442774,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3981 W Aspen Creek Ct",
     "sg:city":"Meridian",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":186518055,
-    "wof:lastmodified":1449051896,
+    "wof:lastmodified":1466488925,
     "wof:name":"DPS Digital Video",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "taping"
     ]
 },
-  "bbox": [-116.442774,43.618743,-116.442774,43.618743],
+  "bbox": [
+    -116.442774,
+    43.618743,
+    -116.442774,
+    43.618743
+],
   "geometry": {"coordinates":[-116.442774,43.618743],"type":"Point"}
 }

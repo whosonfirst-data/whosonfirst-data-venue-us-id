@@ -2,13 +2,14 @@
   "id": 186535119,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.553796,43.617628,-116.553796,43.617628",
     "geom:latitude":43.617628,
     "geom:longitude":-116.553796,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"16901 N Orah Ct",
     "sg:city":"Nampa",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186535119,
-    "wof:lastmodified":1449050904,
+    "wof:lastmodified":1466488874,
     "wof:name":"A&C Industries",
     "wof:parent_id":85827787,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "mfg"
     ]
 },
-  "bbox": [-116.553796,43.617628,-116.553796,43.617628],
-  "geometry": {"coordinates":[-116.553796,43.617628],"type":"Point"}
+  "bbox": [
+    -116.553796,
+    43.617628,
+    -116.553796,
+    43.617628
+],
+  "geometry": {"coordinates":[-116.55379600000001,43.617628],"type":"Point"}
 }

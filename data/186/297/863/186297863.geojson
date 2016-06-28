@@ -2,13 +2,14 @@
   "id": 186297863,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.914836,43.672522,-111.914836,43.672522",
     "geom:latitude":43.672522,
     "geom:longitude":-111.914836,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"110 N State St",
     "sg:city":"Rigby",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":186297863,
-    "wof:lastmodified":1449052082,
+    "wof:lastmodified":1466488672,
     "wof:name":"Rigby City Library",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.914836,43.672522,-111.914836,43.672522],
-  "geometry": {"coordinates":[-111.914836,43.672522],"type":"Point"}
+  "bbox": [
+    -111.914836,
+    43.672522,
+    -111.914836,
+    43.672522
+],
+  "geometry": {"coordinates":[-111.91483599999999,43.672522],"type":"Point"}
 }

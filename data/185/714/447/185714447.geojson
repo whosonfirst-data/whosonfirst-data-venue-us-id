@@ -2,13 +2,14 @@
   "id": 185714447,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.475928,43.861074,-116.475928,43.861074",
     "geom:latitude":43.861074,
     "geom:longitude":-116.475928,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1806 State Hwy 16",
     "sg:city":"Emmett",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":185714447,
-    "wof:lastmodified":1449007419,
+    "wof:lastmodified":1466487636,
     "wof:name":"Freeze Out Hill Storage",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "general"
     ]
 },
-  "bbox": [-116.475928,43.861074,-116.475928,43.861074],
+  "bbox": [
+    -116.475928,
+    43.861074,
+    -116.475928,
+    43.861074
+],
   "geometry": {"coordinates":[-116.475928,43.861074],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 185600749,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.176957,43.563261,-116.176957,43.563261",
     "geom:latitude":43.563261,
     "geom:longitude":-116.176957,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"405 E Boeing Ln",
     "sg:city":"Boise",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":185600749,
-    "wof:lastmodified":1449006759,
+    "wof:lastmodified":1466487240,
     "wof:name":"Northwest Building Systems",
     "wof:parent_id":85876329,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-116.176957,43.563261,-116.176957,43.563261],
+  "bbox": [
+    -116.176957,
+    43.563261,
+    -116.176957,
+    43.563261
+],
   "geometry": {"coordinates":[-116.176957,43.563261],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 185657383,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.274278,43.612884,-116.274278,43.612884",
     "geom:latitude":43.612884,
     "geom:longitude":-116.274278,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"921 N Cole Rd",
     "sg:city":"Boise",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":185657383,
-    "wof:lastmodified":1449006786,
+    "wof:lastmodified":1466487194,
     "wof:name":"Larry's Tailor Shop",
     "wof:parent_id":85841319,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "tailor"
     ]
 },
-  "bbox": [-116.274278,43.612884,-116.274278,43.612884],
+  "bbox": [
+    -116.274278,
+    43.612884,
+    -116.274278,
+    43.612884
+],
   "geometry": {"coordinates":[-116.274278,43.612884],"type":"Point"}
 }

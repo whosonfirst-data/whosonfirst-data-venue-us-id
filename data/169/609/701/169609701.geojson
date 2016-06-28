@@ -2,13 +2,14 @@
   "id": 169609701,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.762741,47.666225,-116.762741,47.666225",
     "geom:latitude":47.666225,
     "geom:longitude":-116.762741,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1501 E Lakeshore Dr",
     "sg:city":"Coeur D Alene",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":169609701,
-    "wof:lastmodified":1449033921,
+    "wof:lastmodified":1466486955,
     "wof:name":"Coeur D'Alene Jewett House",
     "wof:parent_id":85821457,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "village"
     ]
 },
-  "bbox": [-116.762741,47.666225,-116.762741,47.666225],
-  "geometry": {"coordinates":[-116.762741,47.666225],"type":"Point"}
+  "bbox": [
+    -116.762741,
+    47.666225,
+    -116.762741,
+    47.666225
+],
+  "geometry": {"coordinates":[-116.76274100000001,47.666225],"type":"Point"}
 }

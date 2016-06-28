@@ -2,13 +2,14 @@
   "id": 169730993,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.955724,47.722859,-116.955724,47.722859",
     "geom:latitude":47.722859,
     "geom:longitude":-116.955724,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"502 W 15th Ave",
     "sg:city":"Post Falls",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":169730993,
-    "wof:lastmodified":1449035431,
+    "wof:lastmodified":1466488369,
     "wof:name":"Native Metal Works",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "welding"
     ]
 },
-  "bbox": [-116.955724,47.722859,-116.955724,47.722859],
+  "bbox": [
+    -116.955724,
+    47.722859,
+    -116.955724,
+    47.722859
+],
   "geometry": {"coordinates":[-116.955724,47.722859],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186049281,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.540618,43.182813,-112.540618,43.182813",
     "geom:latitude":43.182813,
     "geom:longitude":-112.540618,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1202 W 100 S",
     "sg:city":"Blackfoot",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":186049281,
-    "wof:lastmodified":1449051707,
+    "wof:lastmodified":1466487305,
     "wof:name":"Gd & K Emu Farms",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -66,6 +68,11 @@
         "mfg"
     ]
 },
-  "bbox": [-112.540618,43.182813,-112.540618,43.182813],
-  "geometry": {"coordinates":[-112.540618,43.182813],"type":"Point"}
+  "bbox": [
+    -112.540618,
+    43.182813,
+    -112.540618,
+    43.182813
+],
+  "geometry": {"coordinates":[-112.54061799999999,43.182813],"type":"Point"}
 }

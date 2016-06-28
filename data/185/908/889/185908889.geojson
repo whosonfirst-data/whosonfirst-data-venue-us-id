@@ -2,13 +2,14 @@
   "id": 185908889,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.030936,43.553466,-112.030936,43.553466",
     "geom:latitude":43.553466,
     "geom:longitude":-112.030936,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"100 E 65th N",
     "sg:city":"Idaho Falls",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":185908889,
-    "wof:lastmodified":1449007517,
+    "wof:lastmodified":1466488581,
     "wof:name":"Sage Lakes Golf Course Pro Shp",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "course"
     ]
 },
-  "bbox": [-112.030936,43.553466,-112.030936,43.553466],
+  "bbox": [
+    -112.030936,
+    43.553466,
+    -112.030936,
+    43.553466
+],
   "geometry": {"coordinates":[-112.030936,43.553466],"type":"Point"}
 }

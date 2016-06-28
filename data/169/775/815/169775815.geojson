@@ -2,13 +2,14 @@
   "id": 169775815,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.448255,43.6486,-116.448255,43.6486",
     "geom:latitude":43.6486,
     "geom:longitude":-116.448255,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4520 W McMillan Rd",
     "sg:city":"Meridian",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":169775815,
-    "wof:lastmodified":1449035117,
+    "wof:lastmodified":1466488460,
     "wof:name":"Robert R Corbell II Mgmt Assoc",
     "wof:parent_id":85876351,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "fuel"
     ]
 },
-  "bbox": [-116.448255,43.6486,-116.448255,43.6486],
+  "bbox": [
+    -116.448255,
+    43.6486,
+    -116.448255,
+    43.6486
+],
   "geometry": {"coordinates":[-116.448255,43.6486],"type":"Point"}
 }

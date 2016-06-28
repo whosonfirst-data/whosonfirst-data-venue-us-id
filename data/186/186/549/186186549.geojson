@@ -2,13 +2,14 @@
   "id": 186186549,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.308719,43.609979,-116.308719,43.609979",
     "geom:latitude":43.609979,
     "geom:longitude":-116.308719,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10148 Emerald St",
     "sg:city":"Boise",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186186549,
-    "wof:lastmodified":1449052419,
+    "wof:lastmodified":1466488374,
     "wof:name":"Pro Properties",
     "wof:parent_id":85876309,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "investment"
     ]
 },
-  "bbox": [-116.308719,43.609979,-116.308719,43.609979],
+  "bbox": [
+    -116.308719,
+    43.609979,
+    -116.308719,
+    43.609979
+],
   "geometry": {"coordinates":[-116.308719,43.609979],"type":"Point"}
 }

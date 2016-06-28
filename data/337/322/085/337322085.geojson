@@ -2,13 +2,14 @@
   "id": 337322085,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.602746,43.590354,-116.602746,43.590354",
     "geom:latitude":43.590354,
     "geom:longitude":-116.602746,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1818 W Orchard Ave",
     "sg:city":"Nampa",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":337322085,
-    "wof:lastmodified":1449026921,
+    "wof:lastmodified":1466487247,
     "wof:name":"Hot Rod Works Inc",
     "wof:parent_id":85827787,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "suspension"
     ]
 },
-  "bbox": [-116.602746,43.590354,-116.602746,43.590354],
+  "bbox": [
+    -116.602746,
+    43.590354,
+    -116.602746,
+    43.590354
+],
   "geometry": {"coordinates":[-116.602746,43.590354],"type":"Point"}
 }

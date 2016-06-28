@@ -2,13 +2,14 @@
   "id": 169605649,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.248733,43.630359,-116.248733,43.630359",
     "geom:latitude":43.630359,
     "geom:longitude":-116.248733,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"201 E 41st St",
     "sg:city":"Boise",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":169605649,
-    "wof:lastmodified":1449034289,
+    "wof:lastmodified":1466486888,
     "wof:name":"C & R Window Treatments",
     "wof:parent_id":85876339,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "covering"
     ]
 },
-  "bbox": [-116.248733,43.630359,-116.248733,43.630359],
+  "bbox": [
+    -116.248733,
+    43.630359,
+    -116.248733,
+    43.630359
+],
   "geometry": {"coordinates":[-116.248733,43.630359],"type":"Point"}
 }

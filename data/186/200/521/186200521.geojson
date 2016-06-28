@@ -2,13 +2,14 @@
   "id": 186200521,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.443293,44.586158,-116.443293,44.586158",
     "geom:latitude":44.586158,
     "geom:longitude":-116.443293,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1040 Indian Valley Rd",
     "sg:city":"Indian Valley",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":186200521,
-    "wof:lastmodified":1449051443,
+    "wof:lastmodified":1466488500,
     "wof:name":"Bordges Timber Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "timber"
     ]
 },
-  "bbox": [-116.443293,44.586158,-116.443293,44.586158],
+  "bbox": [
+    -116.443293,
+    44.586158,
+    -116.443293,
+    44.586158
+],
   "geometry": {"coordinates":[-116.443293,44.586158],"type":"Point"}
 }

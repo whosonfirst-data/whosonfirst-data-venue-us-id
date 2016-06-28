@@ -2,13 +2,14 @@
   "id": 185919037,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.204446,43.618362,-116.204446,43.618362",
     "geom:latitude":43.618362,
     "geom:longitude":-116.204446,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"205 N 10th St",
     "sg:city":"Boise",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":185919037,
-    "wof:lastmodified":1449007834,
+    "wof:lastmodified":1466488597,
     "wof:name":"Barker Rosholt & Simpson",
     "wof:parent_id":85876297,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "attorney"
     ]
 },
-  "bbox": [-116.204446,43.618362,-116.204446,43.618362],
+  "bbox": [
+    -116.204446,
+    43.618362,
+    -116.204446,
+    43.618362
+],
   "geometry": {"coordinates":[-116.204446,43.618362],"type":"Point"}
 }

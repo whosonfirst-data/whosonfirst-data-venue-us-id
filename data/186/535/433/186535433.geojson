@@ -2,13 +2,14 @@
   "id": 186535433,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.549986,48.27619,-116.549986,48.27619",
     "geom:latitude":48.27619,
     "geom:longitude":-116.549986,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"220 Cedar St",
     "sg:city":"Sandpoint",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186535433,
-    "wof:lastmodified":1449050901,
+    "wof:lastmodified":1466488878,
     "wof:name":"Pend D'Oreille Winery",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "wine"
     ]
 },
-  "bbox": [-116.549986,48.27619,-116.549986,48.27619],
+  "bbox": [
+    -116.549986,
+    48.27619,
+    -116.549986,
+    48.27619
+],
   "geometry": {"coordinates":[-116.549986,48.27619],"type":"Point"}
 }

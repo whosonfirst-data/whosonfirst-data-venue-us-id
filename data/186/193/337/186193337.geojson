@@ -2,13 +2,14 @@
   "id": 186193337,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.262672,43.63908,-116.262672,43.63908",
     "geom:latitude":43.63908,
     "geom:longitude":-116.262672,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4840 Chinden Blvd",
     "sg:city":"Boise",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186193337,
-    "wof:lastmodified":1449050847,
+    "wof:lastmodified":1466488487,
     "wof:name":"Freedom Motors",
     "wof:parent_id":85876349,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "dealer"
     ]
 },
-  "bbox": [-116.262672,43.63908,-116.262672,43.63908],
-  "geometry": {"coordinates":[-116.262672,43.63908],"type":"Point"}
+  "bbox": [
+    -116.262672,
+    43.63908,
+    -116.262672,
+    43.63908
+],
+  "geometry": {"coordinates":[-116.26267199999999,43.63908],"type":"Point"}
 }

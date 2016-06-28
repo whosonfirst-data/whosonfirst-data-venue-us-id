@@ -2,13 +2,14 @@
   "id": 169618045,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.02399,43.572758,-112.02399,43.572758",
     "geom:latitude":43.572758,
     "geom:longitude":-112.02399,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8575 N 5th E",
     "sg:city":"Idaho Falls",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":169618045,
-    "wof:lastmodified":1449034739,
+    "wof:lastmodified":1466487083,
     "wof:name":"Dafab Construction Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "contractor"
     ]
 },
-  "bbox": [-112.02399,43.572758,-112.02399,43.572758],
+  "bbox": [
+    -112.02399,
+    43.572758,
+    -112.02399,
+    43.572758
+],
   "geometry": {"coordinates":[-112.02399,43.572758],"type":"Point"}
 }

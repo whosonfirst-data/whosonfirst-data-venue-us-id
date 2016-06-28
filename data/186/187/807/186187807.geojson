@@ -2,13 +2,14 @@
   "id": 186187807,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.324337,43.666555,-116.324337,43.666555",
     "geom:latitude":43.666555,
     "geom:longitude":-116.324337,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6469 Aspen St",
     "sg:city":"Boise",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186187807,
-    "wof:lastmodified":1449050789,
+    "wof:lastmodified":1466488474,
     "wof:name":"Consolidated Concrete Co",
     "wof:parent_id":85876357,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "concrete"
     ]
 },
-  "bbox": [-116.324337,43.666555,-116.324337,43.666555],
+  "bbox": [
+    -116.324337,
+    43.666555,
+    -116.324337,
+    43.666555
+],
   "geometry": {"coordinates":[-116.324337,43.666555],"type":"Point"}
 }

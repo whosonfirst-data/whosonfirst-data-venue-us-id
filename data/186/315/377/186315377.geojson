@@ -2,13 +2,14 @@
   "id": 186315377,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-117.009731,46.73341,-117.009731,46.73341",
     "geom:latitude":46.73341,
     "geom:longitude":-117.009731,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"676 W Pullman Rd",
     "sg:city":"Moscow",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":186315377,
-    "wof:lastmodified":1449052897,
+    "wof:lastmodified":1466488616,
     "wof:name":"Kiblen Kreations",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "general"
     ]
 },
-  "bbox": [-117.009731,46.73341,-117.009731,46.73341],
+  "bbox": [
+    -117.009731,
+    46.73341,
+    -117.009731,
+    46.73341
+],
   "geometry": {"coordinates":[-117.009731,46.73341],"type":"Point"}
 }

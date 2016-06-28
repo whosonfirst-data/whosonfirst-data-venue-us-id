@@ -2,13 +2,14 @@
   "id": 185837583,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.376147,46.474956,-116.376147,46.474956",
     "geom:latitude":46.474956,
     "geom:longitude":-116.376147,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"42237 Little Canyon Rd",
     "sg:city":"Peck",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":185837583,
-    "wof:lastmodified":1449006867,
+    "wof:lastmodified":1466488349,
     "wof:name":"Tim Craig",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "guide"
     ]
 },
-  "bbox": [-116.376147,46.474956,-116.376147,46.474956],
+  "bbox": [
+    -116.376147,
+    46.474956,
+    -116.376147,
+    46.474956
+],
   "geometry": {"coordinates":[-116.376147,46.474956],"type":"Point"}
 }

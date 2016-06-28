@@ -2,13 +2,14 @@
   "id": 185762541,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.196537,43.618987,-116.196537,43.618987",
     "geom:latitude":43.618987,
     "geom:longitude":-116.196537,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"516 W Franklin St",
     "sg:city":"Boise",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":185762541,
-    "wof:lastmodified":1449007736,
+    "wof:lastmodified":1466488021,
     "wof:name":"Westberg Mc Cabe & Collins",
     "wof:parent_id":85876341,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "attorney"
     ]
 },
-  "bbox": [-116.196537,43.618987,-116.196537,43.618987],
-  "geometry": {"coordinates":[-116.196537,43.618987],"type":"Point"}
+  "bbox": [
+    -116.196537,
+    43.618987,
+    -116.196537,
+    43.618987
+],
+  "geometry": {"coordinates":[-116.19653700000001,43.618987],"type":"Point"}
 }

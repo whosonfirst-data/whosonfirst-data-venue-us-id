@@ -2,13 +2,14 @@
   "id": 185846011,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.355123,43.590319,-116.355123,43.590319",
     "geom:latitude":43.590319,
     "geom:longitude":-116.355123,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2951 E Overland Rd",
     "sg:city":"Meridian",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":185846011,
-    "wof:lastmodified":1449007876,
+    "wof:lastmodified":1466488529,
     "wof:name":"Metime Coffee House",
     "wof:parent_id":85805083,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "coffee"
     ]
 },
-  "bbox": [-116.355123,43.590319,-116.355123,43.590319],
-  "geometry": {"coordinates":[-116.355123,43.590319],"type":"Point"}
+  "bbox": [
+    -116.355123,
+    43.590319,
+    -116.355123,
+    43.590319
+],
+  "geometry": {"coordinates":[-116.35512300000001,43.590319],"type":"Point"}
 }

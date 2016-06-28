@@ -2,13 +2,14 @@
   "id": 320534899,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.558641,43.578933,-116.558641,43.578933",
     "geom:latitude":43.578933,
     "geom:longitude":-116.558641,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"21 Wall St",
     "sg:city":"Nampa",
     "sg:classifiers":[
@@ -55,10 +56,11 @@
         }
     ],
     "wof:id":320534899,
-    "wof:lastmodified":1449012237,
+    "wof:lastmodified":1466488394,
     "wof:name":"Tucker & Knox LLP",
     "wof:parent_id":85827787,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -69,6 +71,11 @@
         "criminal"
     ]
 },
-  "bbox": [-116.558641,43.578933,-116.558641,43.578933],
-  "geometry": {"coordinates":[-116.558641,43.578933],"type":"Point"}
+  "bbox": [
+    -116.558641,
+    43.578933,
+    -116.558641,
+    43.578933
+],
+  "geometry": {"coordinates":[-116.55864099999999,43.578933],"type":"Point"}
 }

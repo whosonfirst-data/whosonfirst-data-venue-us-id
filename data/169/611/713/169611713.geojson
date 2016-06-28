@@ -2,13 +2,14 @@
   "id": 169611713,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.164983,43.541713,-116.164983,43.541713",
     "geom:latitude":43.541713,
     "geom:longitude":-116.164983,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6814 S Eisenman Rd",
     "sg:city":"Boise",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":169611713,
-    "wof:lastmodified":1449035263,
+    "wof:lastmodified":1466486986,
     "wof:name":"Dress Barn Outlet",
     "wof:parent_id":85876329,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-116.164983,43.541713,-116.164983,43.541713],
-  "geometry": {"coordinates":[-116.164983,43.541713],"type":"Point"}
+  "bbox": [
+    -116.164983,
+    43.541713,
+    -116.164983,
+    43.541713
+],
+  "geometry": {"coordinates":[-116.16498300000001,43.541713],"type":"Point"}
 }

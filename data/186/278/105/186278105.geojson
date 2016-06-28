@@ -2,13 +2,14 @@
   "id": 186278105,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.307366,43.680312,-116.307366,43.680312",
     "geom:latitude":43.680312,
     "geom:longitude":-116.307366,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9740 W State St",
     "sg:city":"Boise",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":186278105,
-    "wof:lastmodified":1449051860,
+    "wof:lastmodified":1466488645,
     "wof:name":"Stonecrest Landscape",
     "wof:parent_id":85876315,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "contractor"
     ]
 },
-  "bbox": [-116.307366,43.680312,-116.307366,43.680312],
+  "bbox": [
+    -116.307366,
+    43.680312,
+    -116.307366,
+    43.680312
+],
   "geometry": {"coordinates":[-116.307366,43.680312],"type":"Point"}
 }

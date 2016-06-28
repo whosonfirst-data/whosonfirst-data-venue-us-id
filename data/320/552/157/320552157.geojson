@@ -2,13 +2,14 @@
   "id": 320552157,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.561798,48.270136,-116.561798,48.270136",
     "geom:latitude":48.270136,
     "geom:longitude":-116.561798,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"327 S Marion Ave",
     "sg:city":"Sandpoint",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":320552157,
-    "wof:lastmodified":1449012826,
+    "wof:lastmodified":1466487064,
     "wof:name":"Kpnd Radio",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "broadcast"
     ]
 },
-  "bbox": [-116.561798,48.270136,-116.561798,48.270136],
+  "bbox": [
+    -116.561798,
+    48.270136,
+    -116.561798,
+    48.270136
+],
   "geometry": {"coordinates":[-116.561798,48.270136],"type":"Point"}
 }

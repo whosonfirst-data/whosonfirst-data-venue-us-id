@@ -2,13 +2,14 @@
   "id": 169599615,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.327999,43.654786,-116.327999,43.654786",
     "geom:latitude":43.654786,
     "geom:longitude":-116.327999,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5543 N Columbine Pl",
     "sg:city":"Boise",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":169599615,
-    "wof:lastmodified":1449034207,
+    "wof:lastmodified":1466488374,
     "wof:name":"Garden Mtn Threadworks LLC",
     "wof:parent_id":85876357,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "sewing"
     ]
 },
-  "bbox": [-116.327999,43.654786,-116.327999,43.654786],
-  "geometry": {"coordinates":[-116.327999,43.654786],"type":"Point"}
+  "bbox": [
+    -116.327999,
+    43.654786,
+    -116.327999,
+    43.654786
+],
+  "geometry": {"coordinates":[-116.32799900000001,43.654786],"type":"Point"}
 }

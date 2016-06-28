@@ -2,13 +2,14 @@
   "id": 186182729,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.912506,48.180575,-116.912506,48.180575",
     "geom:latitude":48.180575,
     "geom:longitude":-116.912506,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"510 US Hwy 2",
     "sg:city":"Priest River",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":186182729,
-    "wof:lastmodified":1449052072,
+    "wof:lastmodified":1466488531,
     "wof:name":"Clothing Closet",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "clothing"
     ]
 },
-  "bbox": [-116.912506,48.180575,-116.912506,48.180575],
-  "geometry": {"coordinates":[-116.912506,48.180575],"type":"Point"}
+  "bbox": [
+    -116.912506,
+    48.180575,
+    -116.912506,
+    48.180575
+],
+  "geometry": {"coordinates":[-116.91250599999999,48.180575],"type":"Point"}
 }

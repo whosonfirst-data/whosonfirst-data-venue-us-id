@@ -2,13 +2,14 @@
   "id": 186126539,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.121292,47.536875,-116.121292,47.536875",
     "geom:latitude":47.536875,
     "geom:longitude":-116.121292,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"14 Railroad Ave",
     "sg:city":"Kellogg",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186126539,
-    "wof:lastmodified":1449051374,
+    "wof:lastmodified":1466488119,
     "wof:name":"Longshot Saloon",
     "wof:parent_id":85849049,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "cocktail"
     ]
 },
-  "bbox": [-116.121292,47.536875,-116.121292,47.536875],
+  "bbox": [
+    -116.121292,
+    47.536875,
+    -116.121292,
+    47.536875
+],
   "geometry": {"coordinates":[-116.121292,47.536875],"type":"Point"}
 }

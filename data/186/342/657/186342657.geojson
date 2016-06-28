@@ -2,13 +2,14 @@
   "id": 186342657,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.567635,43.557129,-116.567635,43.557129",
     "geom:latitude":43.557129,
     "geom:longitude":-116.567635,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"505 E Florida Ave",
     "sg:city":"Nampa",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186342657,
-    "wof:lastmodified":1449052838,
+    "wof:lastmodified":1466488827,
     "wof:name":"Aspen Park Apartments",
     "wof:parent_id":85827787,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "apartment"
     ]
 },
-  "bbox": [-116.567635,43.557129,-116.567635,43.557129],
+  "bbox": [
+    -116.567635,
+    43.557129,
+    -116.567635,
+    43.557129
+],
   "geometry": {"coordinates":[-116.567635,43.557129],"type":"Point"}
 }

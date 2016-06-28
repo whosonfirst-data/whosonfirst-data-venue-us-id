@@ -2,13 +2,14 @@
   "id": 185957691,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.203759,43.576383,-116.203759,43.576383",
     "geom:latitude":43.576383,
     "geom:longitude":-116.203759,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2821 Annett St",
     "sg:city":"Boise",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":185957691,
-    "wof:lastmodified":1449007987,
+    "wof:lastmodified":1466488611,
     "wof:name":"Carefree Lawns",
     "wof:parent_id":85876337,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "grounds"
     ]
 },
-  "bbox": [-116.203759,43.576383,-116.203759,43.576383],
-  "geometry": {"coordinates":[-116.203759,43.576383],"type":"Point"}
+  "bbox": [
+    -116.203759,
+    43.576383,
+    -116.203759,
+    43.576383
+],
+  "geometry": {"coordinates":[-116.20375900000001,43.576383],"type":"Point"}
 }

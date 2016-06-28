@@ -2,13 +2,14 @@
   "id": 169620141,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.989894,46.738539,-116.989894,46.738539",
     "geom:latitude":46.738539,
     "geom:longitude":-116.989894,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"516 N Lincoln St",
     "sg:city":"Moscow",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":169620141,
-    "wof:lastmodified":1449035674,
+    "wof:lastmodified":1466487116,
     "wof:name":"Gressard Construction",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "house"
     ]
 },
-  "bbox": [-116.989894,46.738539,-116.989894,46.738539],
-  "geometry": {"coordinates":[-116.989894,46.738539],"type":"Point"}
+  "bbox": [
+    -116.989894,
+    46.738539,
+    -116.989894,
+    46.738539
+],
+  "geometry": {"coordinates":[-116.98989400000001,46.738539],"type":"Point"}
 }

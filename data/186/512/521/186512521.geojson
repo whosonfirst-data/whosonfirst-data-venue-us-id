@@ -2,13 +2,14 @@
   "id": 186512521,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.707968,43.691106,-116.707968,43.691106",
     "geom:latitude":43.691106,
     "geom:longitude":-116.707968,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"21840 Pond Ln",
     "sg:city":"Caldwell",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":186512521,
-    "wof:lastmodified":1449052308,
+    "wof:lastmodified":1466488922,
     "wof:name":"Caldwell Gun Club",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "sport"
     ]
 },
-  "bbox": [-116.707968,43.691106,-116.707968,43.691106],
-  "geometry": {"coordinates":[-116.707968,43.691106],"type":"Point"}
+  "bbox": [
+    -116.707968,
+    43.691106,
+    -116.707968,
+    43.691106
+],
+  "geometry": {"coordinates":[-116.70796799999999,43.691106],"type":"Point"}
 }

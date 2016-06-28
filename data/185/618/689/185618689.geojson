@@ -2,13 +2,14 @@
   "id": 185618689,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.789794,47.75321,-116.789794,47.75321",
     "geom:latitude":47.75321,
     "geom:longitude":-116.789794,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"21 W Commerce Dr",
     "sg:city":"Hayden",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":185618689,
-    "wof:lastmodified":1449007608,
+    "wof:lastmodified":1466486905,
     "wof:name":"Northwest Management Inc",
     "wof:parent_id":85821457,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "forester"
     ]
 },
-  "bbox": [-116.789794,47.75321,-116.789794,47.75321],
+  "bbox": [
+    -116.789794,
+    47.75321,
+    -116.789794,
+    47.75321
+],
   "geometry": {"coordinates":[-116.789794,47.75321],"type":"Point"}
 }

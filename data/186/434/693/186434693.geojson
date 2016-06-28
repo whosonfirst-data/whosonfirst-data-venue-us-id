@@ -2,13 +2,14 @@
   "id": 186434693,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.381138,43.619376,-116.381138,43.619376",
     "geom:latitude":43.619376,
     "geom:longitude":-116.381138,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1005 E Fairview Ave",
     "sg:city":"Meridian",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":186434693,
-    "wof:lastmodified":1449050976,
+    "wof:lastmodified":1466488811,
     "wof:name":"Lithia Used Cars & Truck Store",
     "wof:parent_id":85811491,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "dealer"
     ]
 },
-  "bbox": [-116.381138,43.619376,-116.381138,43.619376],
-  "geometry": {"coordinates":[-116.381138,43.619376],"type":"Point"}
+  "bbox": [
+    -116.381138,
+    43.619376,
+    -116.381138,
+    43.619376
+],
+  "geometry": {"coordinates":[-116.38113800000001,43.619376],"type":"Point"}
 }

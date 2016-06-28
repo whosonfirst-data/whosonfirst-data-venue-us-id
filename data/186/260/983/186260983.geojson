@@ -2,13 +2,14 @@
   "id": 186260983,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.270382,43.662721,-116.270382,43.662721",
     "geom:latitude":43.662721,
     "geom:longitude":-116.270382,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6400 W State St",
     "sg:city":"Boise",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":186260983,
-    "wof:lastmodified":1449050866,
+    "wof:lastmodified":1466488685,
     "wof:name":"Jackson's Food",
     "wof:parent_id":85811879,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-116.270382,43.662721,-116.270382,43.662721],
+  "bbox": [
+    -116.270382,
+    43.662721,
+    -116.270382,
+    43.662721
+],
   "geometry": {"coordinates":[-116.270382,43.662721],"type":"Point"}
 }

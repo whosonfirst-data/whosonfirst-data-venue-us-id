@@ -2,13 +2,14 @@
   "id": 320526151,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.980184,46.416724,-116.980184,46.416724",
     "geom:latitude":46.416724,
     "geom:longitude":-116.980184,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3543 E Main St",
     "sg:city":"Lewiston",
     "sg:classifiers":[
@@ -58,10 +59,11 @@
         }
     ],
     "wof:id":320526151,
-    "wof:lastmodified":1449012412,
+    "wof:lastmodified":1466487377,
     "wof:name":"Canyon Creek Transport, Inc.",
     "wof:parent_id":85837769,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -70,6 +72,11 @@
         "trucking"
     ]
 },
-  "bbox": [-116.980184,46.416724,-116.980184,46.416724],
-  "geometry": {"coordinates":[-116.980184,46.416724],"type":"Point"}
+  "bbox": [
+    -116.980184,
+    46.416724,
+    -116.980184,
+    46.416724
+],
+  "geometry": {"coordinates":[-116.98018399999999,46.416724],"type":"Point"}
 }

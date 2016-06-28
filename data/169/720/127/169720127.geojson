@@ -2,13 +2,14 @@
   "id": 169720127,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.789566,42.058958,-111.789566,42.058958",
     "geom:latitude":42.058958,
     "geom:longitude":-111.789566,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"61 Ranch Loop Rd",
     "sg:city":"Preston",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":169720127,
-    "wof:lastmodified":1449033484,
+    "wof:lastmodified":1466488191,
     "wof:name":"Ss Johnson Construction Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "house"
     ]
 },
-  "bbox": [-111.789566,42.058958,-111.789566,42.058958],
-  "geometry": {"coordinates":[-111.789566,42.058958],"type":"Point"}
+  "bbox": [
+    -111.789566,
+    42.058958,
+    -111.789566,
+    42.058958
+],
+  "geometry": {"coordinates":[-111.78956599999999,42.058958],"type":"Point"}
 }

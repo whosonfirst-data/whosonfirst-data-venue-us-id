@@ -2,13 +2,14 @@
   "id": 185672641,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.711435,47.689786,-116.711435,47.689786",
     "geom:latitude":47.689786,
     "geom:longitude":-116.711435,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6856 E French Gulch Rd",
     "sg:city":"Coeur D Alene",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":185672641,
-    "wof:lastmodified":1449006703,
+    "wof:lastmodified":1466487310,
     "wof:name":"Sabaka Inc",
     "wof:parent_id":85821457,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-116.711435,47.689786,-116.711435,47.689786],
-  "geometry": {"coordinates":[-116.711435,47.689786],"type":"Point"}
+  "bbox": [
+    -116.711435,
+    47.689786,
+    -116.711435,
+    47.689786
+],
+  "geometry": {"coordinates":[-116.71143499999999,47.689786],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 185617625,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.703634,47.941305,-116.703634,47.941305",
     "geom:latitude":47.941305,
     "geom:longitude":-116.703634,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"29700 N 5th St",
     "sg:city":"Athol",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":185617625,
-    "wof:lastmodified":1449006636,
+    "wof:lastmodified":1466486897,
     "wof:name":"Centennial Cabinets",
     "wof:parent_id":85821457,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "contractor"
     ]
 },
-  "bbox": [-116.703634,47.941305,-116.703634,47.941305],
-  "geometry": {"coordinates":[-116.703634,47.941305],"type":"Point"}
+  "bbox": [
+    -116.703634,
+    47.941305,
+    -116.703634,
+    47.941305
+],
+  "geometry": {"coordinates":[-116.70363399999999,47.941305],"type":"Point"}
 }

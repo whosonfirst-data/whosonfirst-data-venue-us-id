@@ -2,13 +2,14 @@
   "id": 186099857,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.193745,43.591731,-116.193745,43.591731",
     "geom:latitude":43.591731,
     "geom:longitude":-116.193745,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1773 Broadway Ave",
     "sg:city":"Boise",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186099857,
-    "wof:lastmodified":1449052118,
+    "wof:lastmodified":1466487859,
     "wof:name":"Jody's All Breed Grooming",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "washing"
     ]
 },
-  "bbox": [-116.193745,43.591731,-116.193745,43.591731],
-  "geometry": {"coordinates":[-116.193745,43.591731],"type":"Point"}
+  "bbox": [
+    -116.193745,
+    43.591731,
+    -116.193745,
+    43.591731
+],
+  "geometry": {"coordinates":[-116.19374500000001,43.591731],"type":"Point"}
 }

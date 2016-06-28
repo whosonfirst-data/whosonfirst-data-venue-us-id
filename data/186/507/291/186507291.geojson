@@ -2,13 +2,14 @@
   "id": 186507291,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.460178,42.55913,-114.460178,42.55913",
     "geom:latitude":42.55913,
     "geom:longitude":-114.460178,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"828 Blue Lakes Blvd",
     "sg:city":"Twin Falls",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":186507291,
-    "wof:lastmodified":1449051746,
+    "wof:lastmodified":1466488867,
     "wof:name":"Lu Dell Waldron CPA",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "accountant"
     ]
 },
-  "bbox": [-114.460178,42.55913,-114.460178,42.55913],
+  "bbox": [
+    -114.460178,
+    42.55913,
+    -114.460178,
+    42.55913
+],
   "geometry": {"coordinates":[-114.460178,42.55913],"type":"Point"}
 }

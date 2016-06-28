@@ -2,13 +2,14 @@
   "id": 185682787,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.322906,43.566958,-116.322906,43.566958",
     "geom:latitude":43.566958,
     "geom:longitude":-116.322906,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3985 S Summerset Way",
     "sg:city":"Boise",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":185682787,
-    "wof:lastmodified":1449006893,
+    "wof:lastmodified":1466487387,
     "wof:name":"Ada-Boi Critical Care Transfer",
     "wof:parent_id":85876331,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "ambulance"
     ]
 },
-  "bbox": [-116.322906,43.566958,-116.322906,43.566958],
+  "bbox": [
+    -116.322906,
+    43.566958,
+    -116.322906,
+    43.566958
+],
   "geometry": {"coordinates":[-116.322906,43.566958],"type":"Point"}
 }

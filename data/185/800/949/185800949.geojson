@@ -2,13 +2,14 @@
   "id": 185800949,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.979547,46.382561,-116.979547,46.382561",
     "geom:latitude":46.382561,
     "geom:longitude":-116.979547,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"322 Thain Rd",
     "sg:city":"Lewiston",
     "sg:classifiers":[
@@ -61,16 +62,22 @@
         }
     ],
     "wof:id":185800949,
-    "wof:lastmodified":1449006734,
+    "wof:lastmodified":1466488312,
     "wof:name":"Pro-Transmission",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "transmission"
     ]
 },
-  "bbox": [-116.979547,46.382561,-116.979547,46.382561],
+  "bbox": [
+    -116.979547,
+    46.382561,
+    -116.979547,
+    46.382561
+],
   "geometry": {"coordinates":[-116.979547,46.382561],"type":"Point"}
 }

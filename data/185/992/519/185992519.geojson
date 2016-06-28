@@ -2,13 +2,14 @@
   "id": 185992519,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.331809,43.696439,-116.331809,43.696439",
     "geom:latitude":43.696439,
     "geom:longitude":-116.331809,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2062 E Hill Rd",
     "sg:city":"Eagle",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":185992519,
-    "wof:lastmodified":1449007373,
+    "wof:lastmodified":1466488744,
     "wof:name":"Marykay Cosmetics",
     "wof:parent_id":85876315,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "perfume"
     ]
 },
-  "bbox": [-116.331809,43.696439,-116.331809,43.696439],
-  "geometry": {"coordinates":[-116.331809,43.696439],"type":"Point"}
+  "bbox": [
+    -116.331809,
+    43.696439,
+    -116.331809,
+    43.696439
+],
+  "geometry": {"coordinates":[-116.33180900000001,43.696439],"type":"Point"}
 }

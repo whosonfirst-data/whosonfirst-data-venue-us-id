@@ -2,13 +2,14 @@
   "id": 185905795,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.896832,46.923916,-116.896832,46.923916",
     "geom:latitude":46.923916,
     "geom:longitude":-116.896832,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"850 Spruce St",
     "sg:city":"Potlatch",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":185905795,
-    "wof:lastmodified":1449007253,
+    "wof:lastmodified":1466488497,
     "wof:name":"Sablan & Assoc Masonry Contrs",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "contractor"
     ]
 },
-  "bbox": [-116.896832,46.923916,-116.896832,46.923916],
+  "bbox": [
+    -116.896832,
+    46.923916,
+    -116.896832,
+    46.923916
+],
   "geometry": {"coordinates":[-116.896832,46.923916],"type":"Point"}
 }

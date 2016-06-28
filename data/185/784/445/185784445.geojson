@@ -2,13 +2,14 @@
   "id": 185784445,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-117.032147,46.732421,-117.032147,46.732421",
     "geom:latitude":46.732421,
     "geom:longitude":-117.032147,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2221 W Pullman Rd",
     "sg:city":"Moscow",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":185784445,
-    "wof:lastmodified":1449007666,
+    "wof:lastmodified":1466488188,
     "wof:name":"Moscow Waste Water Treatment",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "city"
     ]
 },
-  "bbox": [-117.032147,46.732421,-117.032147,46.732421],
-  "geometry": {"coordinates":[-117.032147,46.732421],"type":"Point"}
+  "bbox": [
+    -117.032147,
+    46.732421,
+    -117.032147,
+    46.732421
+],
+  "geometry": {"coordinates":[-117.03214699999999,46.732421],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186495115,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.974924,44.247796,-116.974924,44.247796",
     "geom:latitude":44.247796,
     "geom:longitude":-116.974924,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"498 W Main St",
     "sg:city":"Kuna",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186495115,
-    "wof:lastmodified":1449051558,
+    "wof:lastmodified":1466488911,
     "wof:name":"Edward Jones Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "mutual"
     ]
 },
-  "bbox": [-116.974924,44.247796,-116.974924,44.247796],
+  "bbox": [
+    -116.974924,
+    44.247796,
+    -116.974924,
+    44.247796
+],
   "geometry": {"coordinates":[-116.974924,44.247796],"type":"Point"}
 }

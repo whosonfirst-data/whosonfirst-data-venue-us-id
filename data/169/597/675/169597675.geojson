@@ -2,13 +2,14 @@
   "id": 169597675,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.943361,47.713265,-116.943361,47.713265",
     "geom:latitude":47.713265,
     "geom:longitude":-116.943361,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"409 E 6th Ave",
     "sg:city":"Post Falls",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":169597675,
-    "wof:lastmodified":1449035924,
+    "wof:lastmodified":1466488084,
     "wof:name":"Connected Northwest Insurance",
     "wof:parent_id":85833263,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-116.943361,47.713265,-116.943361,47.713265],
+  "bbox": [
+    -116.943361,
+    47.713265,
+    -116.943361,
+    47.713265
+],
   "geometry": {"coordinates":[-116.943361,47.713265],"type":"Point"}
 }

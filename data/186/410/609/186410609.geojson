@@ -2,13 +2,14 @@
   "id": 186410609,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.39736,43.611862,-116.39736,43.611862",
     "geom:latitude":43.611862,
     "geom:longitude":-116.39736,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"323 W Pine Ave",
     "sg:city":"Meridian",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":186410609,
-    "wof:lastmodified":1449050293,
+    "wof:lastmodified":1466488704,
     "wof:name":"Meridian Chiropractic Ctr",
     "wof:parent_id":85805083,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-116.39736,43.611862,-116.39736,43.611862],
-  "geometry": {"coordinates":[-116.39736,43.611862],"type":"Point"}
+  "bbox": [
+    -116.39736,
+    43.611862,
+    -116.39736,
+    43.611862
+],
+  "geometry": {"coordinates":[-116.39736000000001,43.611862],"type":"Point"}
 }

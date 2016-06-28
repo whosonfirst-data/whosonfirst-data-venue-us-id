@@ -2,13 +2,14 @@
   "id": 169811305,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.29581,43.645369,-116.29581,43.645369",
     "geom:latitude":43.645369,
     "geom:longitude":-116.29581,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9180 Yaryan Dr",
     "sg:city":"Boise",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":169811305,
-    "wof:lastmodified":1449034270,
+    "wof:lastmodified":1466488622,
     "wof:name":"Spears Woodworking",
     "wof:parent_id":85876357,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-116.29581,43.645369,-116.29581,43.645369],
+  "bbox": [
+    -116.29581,
+    43.645369,
+    -116.29581,
+    43.645369
+],
   "geometry": {"coordinates":[-116.29581,43.645369],"type":"Point"}
 }

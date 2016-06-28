@@ -2,13 +2,14 @@
   "id": 186032049,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.389793,43.209401,-112.389793,43.209401",
     "geom:latitude":43.209401,
     "geom:longitude":-112.389793,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"454 US Hwy 26",
     "sg:city":"Blackfoot",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":186032049,
-    "wof:lastmodified":1449051688,
+    "wof:lastmodified":1466487104,
     "wof:name":"Rapid Craft Aluminum Fishing",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "sales"
     ]
 },
-  "bbox": [-112.389793,43.209401,-112.389793,43.209401],
+  "bbox": [
+    -112.389793,
+    43.209401,
+    -112.389793,
+    43.209401
+],
   "geometry": {"coordinates":[-112.389793,43.209401],"type":"Point"}
 }

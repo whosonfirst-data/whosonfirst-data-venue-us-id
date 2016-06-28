@@ -2,13 +2,14 @@
   "id": 169713985,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.123064,43.423657,-112.123064,43.423657",
     "geom:latitude":43.423657,
     "geom:longitude":-112.123064,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1569 N 800 E",
     "sg:city":"Shelley",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":169713985,
-    "wof:lastmodified":1449035651,
+    "wof:lastmodified":1466488163,
     "wof:name":"Sidney J Carlson",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "supply"
     ]
 },
-  "bbox": [-112.123064,43.423657,-112.123064,43.423657],
+  "bbox": [
+    -112.123064,
+    43.423657,
+    -112.123064,
+    43.423657
+],
   "geometry": {"coordinates":[-112.123064,43.423657],"type":"Point"}
 }

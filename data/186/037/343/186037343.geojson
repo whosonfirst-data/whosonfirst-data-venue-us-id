@@ -2,13 +2,14 @@
   "id": 186037343,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.56694,43.54563,-116.56694,43.54563",
     "geom:latitude":43.54563,
     "geom:longitude":-116.56694,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2343 River Oaks Dr",
     "sg:city":"Nampa",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186037343,
-    "wof:lastmodified":1449053071,
+    "wof:lastmodified":1466487165,
     "wof:name":"Haven of Peace",
     "wof:parent_id":85827787,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "care"
     ]
 },
-  "bbox": [-116.56694,43.54563,-116.56694,43.54563],
+  "bbox": [
+    -116.56694,
+    43.54563,
+    -116.56694,
+    43.54563
+],
   "geometry": {"coordinates":[-116.56694,43.54563],"type":"Point"}
 }

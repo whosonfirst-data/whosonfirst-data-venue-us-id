@@ -2,13 +2,14 @@
   "id": 185941303,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.696309,43.129498,-115.696309,43.129498",
     "geom:latitude":43.129498,
     "geom:longitude":-115.696309,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"315 W Jackson St",
     "sg:city":"Mountain Home",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":185941303,
-    "wof:lastmodified":1449007567,
+    "wof:lastmodified":1466488653,
     "wof:name":"Kitty's Dog Parlor",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "washing"
     ]
 },
-  "bbox": [-115.696309,43.129498,-115.696309,43.129498],
+  "bbox": [
+    -115.696309,
+    43.129498,
+    -115.696309,
+    43.129498
+],
   "geometry": {"coordinates":[-115.696309,43.129498],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186447785,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.244811,43.611689,-116.244811,43.611689",
     "geom:latitude":43.611689,
     "geom:longitude":-116.244811,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5116 Emerald St",
     "sg:city":"Boise",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":186447785,
-    "wof:lastmodified":1449052248,
+    "wof:lastmodified":1466488818,
     "wof:name":"Kebob",
     "wof:parent_id":85876311,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "dealer"
     ]
 },
-  "bbox": [-116.244811,43.611689,-116.244811,43.611689],
+  "bbox": [
+    -116.244811,
+    43.611689,
+    -116.244811,
+    43.611689
+],
   "geometry": {"coordinates":[-116.244811,43.611689],"type":"Point"}
 }

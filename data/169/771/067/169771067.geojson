@@ -2,13 +2,14 @@
   "id": 169771067,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.985715,46.373235,-116.985715,46.373235",
     "geom:latitude":46.373235,
     "geom:longitude":-116.985715,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"915 Grelle Ave",
     "sg:city":"Lewiston",
     "sg:classifiers":[
@@ -61,16 +62,22 @@
         }
     ],
     "wof:id":169771067,
-    "wof:lastmodified":1449034482,
+    "wof:lastmodified":1466488444,
     "wof:name":"Hair Trends",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "shop"
     ]
 },
-  "bbox": [-116.985715,46.373235,-116.985715,46.373235],
+  "bbox": [
+    -116.985715,
+    46.373235,
+    -116.985715,
+    46.373235
+],
   "geometry": {"coordinates":[-116.985715,46.373235],"type":"Point"}
 }

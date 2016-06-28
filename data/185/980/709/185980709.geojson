@@ -2,13 +2,14 @@
   "id": 185980709,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.983001,46.709114,-116.983001,46.709114",
     "geom:latitude":46.709114,
     "geom:longitude":-116.983001,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3062 S Mountain Vw Exd",
     "sg:city":"Moscow",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":185980709,
-    "wof:lastmodified":1449006711,
+    "wof:lastmodified":1466488652,
     "wof:name":"Larrys Saws & Windows",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "contractor"
     ]
 },
-  "bbox": [-116.983001,46.709114,-116.983001,46.709114],
+  "bbox": [
+    -116.983001,
+    46.709114,
+    -116.983001,
+    46.709114
+],
   "geometry": {"coordinates":[-116.983001,46.709114],"type":"Point"}
 }

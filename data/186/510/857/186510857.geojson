@@ -2,13 +2,14 @@
   "id": 186510857,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.994721,43.503623,-111.994721,43.503623",
     "geom:latitude":43.503623,
     "geom:longitude":-111.994721,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"250 Masters Dr",
     "sg:city":"Idaho Falls",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":186510857,
-    "wof:lastmodified":1449051977,
+    "wof:lastmodified":1466488921,
     "wof:name":"Westwood Tree Moving & Nursery",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "tree"
     ]
 },
-  "bbox": [-111.994721,43.503623,-111.994721,43.503623],
+  "bbox": [
+    -111.994721,
+    43.503623,
+    -111.994721,
+    43.503623
+],
   "geometry": {"coordinates":[-111.994721,43.503623],"type":"Point"}
 }

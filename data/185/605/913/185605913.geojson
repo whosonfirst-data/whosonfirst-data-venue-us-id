@@ -2,13 +2,14 @@
   "id": 185605913,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.983425,43.720631,-111.983425,43.720631",
     "geom:latitude":43.720631,
     "geom:longitude":-111.983425,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3604 E Menan Lorenzo Hwy",
     "sg:city":"Menan",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":185605913,
-    "wof:lastmodified":1449007414,
+    "wof:lastmodified":1466488301,
     "wof:name":"G Dub Builders LLC",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "house"
     ]
 },
-  "bbox": [-111.983425,43.720631,-111.983425,43.720631],
+  "bbox": [
+    -111.983425,
+    43.720631,
+    -111.983425,
+    43.720631
+],
   "geometry": {"coordinates":[-111.983425,43.720631],"type":"Point"}
 }

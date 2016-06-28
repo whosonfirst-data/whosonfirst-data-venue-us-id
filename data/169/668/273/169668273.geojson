@@ -2,13 +2,14 @@
   "id": 169668273,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.648179,46.613844,-116.648179,46.613844",
     "geom:latitude":46.613844,
     "geom:longitude":-116.648179,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"807 E Main St",
     "sg:city":"Kendrick",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":169668273,
-    "wof:lastmodified":1449034991,
+    "wof:lastmodified":1466487856,
     "wof:name":"Jk Canyon Echo",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "commercial"
     ]
 },
-  "bbox": [-116.648179,46.613844,-116.648179,46.613844],
+  "bbox": [
+    -116.648179,
+    46.613844,
+    -116.648179,
+    46.613844
+],
   "geometry": {"coordinates":[-116.648179,46.613844],"type":"Point"}
 }

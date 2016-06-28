@@ -2,13 +2,14 @@
   "id": 186124159,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.804796,47.112758,-116.804796,47.112758",
     "geom:latitude":47.112758,
     "geom:longitude":-116.804796,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"314 Indian Creek Rd",
     "sg:city":"Coolin",
     "sg:classifiers":[
@@ -48,16 +49,22 @@
         }
     ],
     "wof:id":186124159,
-    "wof:lastmodified":1449052822,
+    "wof:lastmodified":1466488096,
     "wof:name":"Priest Lake State Park",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "parks"
     ]
 },
-  "bbox": [-116.804796,47.112758,-116.804796,47.112758],
+  "bbox": [
+    -116.804796,
+    47.112758,
+    -116.804796,
+    47.112758
+],
   "geometry": {"coordinates":[-116.804796,47.112758],"type":"Point"}
 }

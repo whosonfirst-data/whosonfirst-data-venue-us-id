@@ -2,13 +2,14 @@
   "id": 186523561,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.703973,43.640974,-116.703973,43.640974",
     "geom:latitude":43.640974,
     "geom:longitude":-116.703973,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3107 Manchester Dr",
     "sg:city":"Caldwell",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":186523561,
-    "wof:lastmodified":1449051932,
+    "wof:lastmodified":1466488871,
     "wof:name":"William Lee Stallcup",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-116.703973,43.640974,-116.703973,43.640974],
+  "bbox": [
+    -116.703973,
+    43.640974,
+    -116.703973,
+    43.640974
+],
   "geometry": {"coordinates":[-116.703973,43.640974],"type":"Point"}
 }

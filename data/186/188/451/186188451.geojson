@@ -2,13 +2,14 @@
   "id": 186188451,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-117.022964,46.419049,-117.022964,46.419049",
     "geom:latitude":46.419049,
     "geom:longitude":-117.022964,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"856 F St",
     "sg:city":"Lewiston",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":186188451,
-    "wof:lastmodified":1449051709,
+    "wof:lastmodified":1466488377,
     "wof:name":"Bob Jackson Body Repair",
     "wof:parent_id":85852537,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "painting"
     ]
 },
-  "bbox": [-117.022964,46.419049,-117.022964,46.419049],
+  "bbox": [
+    -117.022964,
+    46.419049,
+    -117.022964,
+    46.419049
+],
   "geometry": {"coordinates":[-117.022964,46.419049],"type":"Point"}
 }

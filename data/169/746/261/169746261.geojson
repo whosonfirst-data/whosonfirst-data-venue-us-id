@@ -2,13 +2,14 @@
   "id": 169746261,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.415596,44.058028,-111.415596,44.058028",
     "geom:latitude":44.058028,
     "geom:longitude":-111.415596,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1251 N 3700 E",
     "sg:city":"Ashton",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":169746261,
-    "wof:lastmodified":1449032653,
+    "wof:lastmodified":1466488403,
     "wof:name":"NPCA",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.415596,44.058028,-111.415596,44.058028],
-  "geometry": {"coordinates":[-111.415596,44.058028],"type":"Point"}
+  "bbox": [
+    -111.415596,
+    44.058028,
+    -111.415596,
+    44.058028
+],
+  "geometry": {"coordinates":[-111.41559599999999,44.058028],"type":"Point"}
 }

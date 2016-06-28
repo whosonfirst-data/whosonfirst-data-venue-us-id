@@ -2,13 +2,14 @@
   "id": 169736687,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.221154,43.576291,-116.221154,43.576291",
     "geom:latitude":43.576291,
     "geom:longitude":-116.221154,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3172 Hillcrest Ln",
     "sg:city":"Boise",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":169736687,
-    "wof:lastmodified":1449035930,
+    "wof:lastmodified":1466488376,
     "wof:name":"V Dale Babbitt Family LP",
     "wof:parent_id":85876337,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-116.221154,43.576291,-116.221154,43.576291],
+  "bbox": [
+    -116.221154,
+    43.576291,
+    -116.221154,
+    43.576291
+],
   "geometry": {"coordinates":[-116.221154,43.576291],"type":"Point"}
 }

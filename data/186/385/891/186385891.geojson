@@ -2,13 +2,14 @@
   "id": 186385891,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.243393,46.485828,-116.243393,46.485828",
     "geom:latitude":46.485828,
     "geom:longitude":-116.243393,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"509 Bartlett St",
     "sg:city":"Orofino",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186385891,
-    "wof:lastmodified":1449051963,
+    "wof:lastmodified":1466488771,
     "wof:name":"A-1 Body Shop",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "painting"
     ]
 },
-  "bbox": [-116.243393,46.485828,-116.243393,46.485828],
+  "bbox": [
+    -116.243393,
+    46.485828,
+    -116.243393,
+    46.485828
+],
   "geometry": {"coordinates":[-116.243393,46.485828],"type":"Point"}
 }

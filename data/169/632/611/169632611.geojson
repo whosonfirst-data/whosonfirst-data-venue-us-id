@@ -2,13 +2,14 @@
   "id": 169632611,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.440428,42.551751,-114.440428,42.551751",
     "geom:latitude":42.551751,
     "geom:longitude":-114.440428,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"226 Eastland Dr",
     "sg:city":"Twin Falls",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":169632611,
-    "wof:lastmodified":1449034796,
+    "wof:lastmodified":1466487320,
     "wof:name":"Paint & Equipment Supply",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -66,6 +68,11 @@
         "equipment"
     ]
 },
-  "bbox": [-114.440428,42.551751,-114.440428,42.551751],
+  "bbox": [
+    -114.440428,
+    42.551751,
+    -114.440428,
+    42.551751
+],
   "geometry": {"coordinates":[-114.440428,42.551751],"type":"Point"}
 }

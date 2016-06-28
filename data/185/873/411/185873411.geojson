@@ -2,13 +2,14 @@
   "id": 185873411,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.357989,43.64548,-116.357989,43.64548",
     "geom:latitude":43.64548,
     "geom:longitude":-116.357989,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"13970 W Hartford Dr",
     "sg:city":"Boise",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":185873411,
-    "wof:lastmodified":1449006950,
+    "wof:lastmodified":1466488436,
     "wof:name":"A Network Svc Inc",
     "wof:parent_id":85876351,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-116.357989,43.64548,-116.357989,43.64548],
+  "bbox": [
+    -116.357989,
+    43.64548,
+    -116.357989,
+    43.64548
+],
   "geometry": {"coordinates":[-116.357989,43.64548],"type":"Point"}
 }

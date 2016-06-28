@@ -2,13 +2,14 @@
   "id": 186548821,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.553825,48.276021,-116.553825,48.276021",
     "geom:latitude":48.276021,
     "geom:longitude":-116.553825,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"521 Cedar St",
     "sg:city":"Sandpoint",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":186548821,
-    "wof:lastmodified":1449052222,
+    "wof:lastmodified":1466488886,
     "wof:name":"Dance Acadamy",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "personal"
     ]
 },
-  "bbox": [-116.553825,48.276021,-116.553825,48.276021],
+  "bbox": [
+    -116.553825,
+    48.276021,
+    -116.553825,
+    48.276021
+],
   "geometry": {"coordinates":[-116.553825,48.276021],"type":"Point"}
 }

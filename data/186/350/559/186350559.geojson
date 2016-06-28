@@ -2,13 +2,14 @@
   "id": 186350559,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.553487,48.276173,-116.553487,48.276173",
     "geom:latitude":48.276173,
     "geom:longitude":-116.553487,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"502 Cedar St",
     "sg:city":"Sandpoint",
     "sg:classifiers":[
@@ -61,10 +62,11 @@
         }
     ],
     "wof:id":186350559,
-    "wof:lastmodified":1449051735,
+    "wof:lastmodified":1466488740,
     "wof:name":"Sandpoint Interiors",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -77,6 +79,11 @@
         "decorator"
     ]
 },
-  "bbox": [-116.553487,48.276173,-116.553487,48.276173],
+  "bbox": [
+    -116.553487,
+    48.276173,
+    -116.553487,
+    48.276173
+],
   "geometry": {"coordinates":[-116.553487,48.276173],"type":"Point"}
 }

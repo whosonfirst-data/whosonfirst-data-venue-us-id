@@ -2,13 +2,14 @@
   "id": 186478891,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.177911,43.595068,-116.177911,43.595068",
     "geom:latitude":43.595068,
     "geom:longitude":-116.177911,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"457 E Parkcenter Blvd",
     "sg:city":"Boise",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186478891,
-    "wof:lastmodified":1449050354,
+    "wof:lastmodified":1466488903,
     "wof:name":"Sara Lee Foods",
     "wof:parent_id":85876305,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "baker"
     ]
 },
-  "bbox": [-116.177911,43.595068,-116.177911,43.595068],
-  "geometry": {"coordinates":[-116.177911,43.595068],"type":"Point"}
+  "bbox": [
+    -116.177911,
+    43.595068,
+    -116.177911,
+    43.595068
+],
+  "geometry": {"coordinates":[-116.17791099999999,43.595068],"type":"Point"}
 }

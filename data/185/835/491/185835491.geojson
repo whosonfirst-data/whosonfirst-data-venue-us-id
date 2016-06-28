@@ -2,13 +2,14 @@
   "id": 185835491,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.176987,43.587905,-116.176987,43.587905",
     "geom:latitude":43.587905,
     "geom:longitude":-116.176987,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"503 E Parkway Ct",
     "sg:city":"Boise",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":185835491,
-    "wof:lastmodified":1449006838,
+    "wof:lastmodified":1466488420,
     "wof:name":"Hire-A-Wire Singing Telegrams",
     "wof:parent_id":85876305,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "business"
     ]
 },
-  "bbox": [-116.176987,43.587905,-116.176987,43.587905],
+  "bbox": [
+    -116.176987,
+    43.587905,
+    -116.176987,
+    43.587905
+],
   "geometry": {"coordinates":[-116.176987,43.587905],"type":"Point"}
 }

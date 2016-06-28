@@ -2,13 +2,14 @@
   "id": 186164187,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-117.024642,46.420719,-117.024642,46.420719",
     "geom:latitude":46.420719,
     "geom:longitude":-117.024642,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"708 Main St",
     "sg:city":"Lewiston",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186164187,
-    "wof:lastmodified":1449050569,
+    "wof:lastmodified":1466488406,
     "wof:name":"Yesterdays Treasures Todays",
     "wof:parent_id":85852537,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "antique"
     ]
 },
-  "bbox": [-117.024642,46.420719,-117.024642,46.420719],
+  "bbox": [
+    -117.024642,
+    46.420719,
+    -117.024642,
+    46.420719
+],
   "geometry": {"coordinates":[-117.024642,46.420719],"type":"Point"}
 }

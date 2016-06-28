@@ -2,13 +2,14 @@
   "id": 337324519,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.329864,43.558271,-116.329864,43.558271",
     "geom:latitude":43.558271,
     "geom:longitude":-116.329864,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4728 S Whitmore Way",
     "sg:city":"Boise",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":337324519,
-    "wof:lastmodified":1449027423,
+    "wof:lastmodified":1466487254,
     "wof:name":"Idaho Water Conditioning",
     "wof:parent_id":85876331,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "softening"
     ]
 },
-  "bbox": [-116.329864,43.558271,-116.329864,43.558271],
+  "bbox": [
+    -116.329864,
+    43.558271,
+    -116.329864,
+    43.558271
+],
   "geometry": {"coordinates":[-116.329864,43.558271],"type":"Point"}
 }

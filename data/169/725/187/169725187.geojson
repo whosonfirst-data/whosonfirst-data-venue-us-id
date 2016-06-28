@@ -2,13 +2,14 @@
   "id": 169725187,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.420936,42.846912,-112.420936,42.846912",
     "geom:latitude":42.846912,
     "geom:longitude":-112.420936,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2695 S 5th Ave",
     "sg:city":"Pocatello",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":169725187,
-    "wof:lastmodified":1449033492,
+    "wof:lastmodified":1466488237,
     "wof:name":"Greater Pocatello Information",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "convention"
     ]
 },
-  "bbox": [-112.420936,42.846912,-112.420936,42.846912],
+  "bbox": [
+    -112.420936,
+    42.846912,
+    -112.420936,
+    42.846912
+],
   "geometry": {"coordinates":[-112.420936,42.846912],"type":"Point"}
 }

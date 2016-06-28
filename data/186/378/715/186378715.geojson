@@ -2,13 +2,14 @@
   "id": 186378715,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.557213,43.567354,-116.557213,43.567354",
     "geom:latitude":43.567354,
     "geom:longitude":-116.557213,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"223 S Chestnut St",
     "sg:city":"Nampa",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186378715,
-    "wof:lastmodified":1449052181,
+    "wof:lastmodified":1466488770,
     "wof:name":"Nampa Electric",
     "wof:parent_id":85827787,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-116.557213,43.567354,-116.557213,43.567354],
+  "bbox": [
+    -116.557213,
+    43.567354,
+    -116.557213,
+    43.567354
+],
   "geometry": {"coordinates":[-116.557213,43.567354],"type":"Point"}
 }

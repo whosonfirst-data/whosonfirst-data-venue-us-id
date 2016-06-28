@@ -2,13 +2,14 @@
   "id": 169669995,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.364812,43.678559,-114.364812,43.678559",
     "geom:latitude":43.678559,
     "geom:longitude":-114.364812,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"190 1st Ave",
     "sg:city":"Ketchum",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":169669995,
-    "wof:lastmodified":1449033063,
+    "wof:lastmodified":1466487878,
     "wof:name":"Classic Realty",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-114.364812,43.678559,-114.364812,43.678559],
+  "bbox": [
+    -114.364812,
+    43.678559,
+    -114.364812,
+    43.678559
+],
   "geometry": {"coordinates":[-114.364812,43.678559],"type":"Point"}
 }

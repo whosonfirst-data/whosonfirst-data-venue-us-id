@@ -2,13 +2,14 @@
   "id": 185813327,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.185175,43.59728,-116.185175,43.59728",
     "geom:latitude":43.59728,
     "geom:longitude":-116.185175,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"345 Bobwhite Ct",
     "sg:city":"Boise",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":185813327,
-    "wof:lastmodified":1449007020,
+    "wof:lastmodified":1466488398,
     "wof:name":"DLM Foods",
     "wof:parent_id":85876305,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "product"
     ]
 },
-  "bbox": [-116.185175,43.59728,-116.185175,43.59728],
+  "bbox": [
+    -116.185175,
+    43.59728,
+    -116.185175,
+    43.59728
+],
   "geometry": {"coordinates":[-116.185175,43.59728],"type":"Point"}
 }

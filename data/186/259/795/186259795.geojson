@@ -2,13 +2,14 @@
   "id": 186259795,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.401539,48.35355,-116.401539,48.35355",
     "geom:latitude":48.35355,
     "geom:longitude":-116.401539,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"71 Old River Rd",
     "sg:city":"Avery",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":186259795,
-    "wof:lastmodified":1449051015,
+    "wof:lastmodified":1466488517,
     "wof:name":"Avery Trading Post",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-116.401539,48.35355,-116.401539,48.35355],
+  "bbox": [
+    -116.401539,
+    48.35355,
+    -116.401539,
+    48.35355
+],
   "geometry": {"coordinates":[-116.401539,48.35355],"type":"Point"}
 }

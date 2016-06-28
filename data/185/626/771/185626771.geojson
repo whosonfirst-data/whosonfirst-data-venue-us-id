@@ -2,13 +2,14 @@
   "id": 185626771,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.686745,43.668022,-116.686745,43.668022",
     "geom:latitude":43.668022,
     "geom:longitude":-116.686745,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"710 Albany St",
     "sg:city":"Caldwell",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":185626771,
-    "wof:lastmodified":1449008209,
+    "wof:lastmodified":1466486967,
     "wof:name":"Gold Transportation Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "trucking"
     ]
 },
-  "bbox": [-116.686745,43.668022,-116.686745,43.668022],
+  "bbox": [
+    -116.686745,
+    43.668022,
+    -116.686745,
+    43.668022
+],
   "geometry": {"coordinates":[-116.686745,43.668022],"type":"Point"}
 }

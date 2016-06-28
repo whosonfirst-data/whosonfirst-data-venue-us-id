@@ -2,13 +2,14 @@
   "id": 186235053,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.417758,43.611315,-116.417758,43.611315",
     "geom:latitude":43.611315,
     "geom:longitude":-116.417758,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"753 N Rotan Ave",
     "sg:city":"Meridian",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":186235053,
-    "wof:lastmodified":1449050877,
+    "wof:lastmodified":1466488567,
     "wof:name":"J W Transcriptions",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "disc"
     ]
 },
-  "bbox": [-116.417758,43.611315,-116.417758,43.611315],
-  "geometry": {"coordinates":[-116.417758,43.611315],"type":"Point"}
+  "bbox": [
+    -116.417758,
+    43.611315,
+    -116.417758,
+    43.611315
+],
+  "geometry": {"coordinates":[-116.41775800000001,43.611315],"type":"Point"}
 }

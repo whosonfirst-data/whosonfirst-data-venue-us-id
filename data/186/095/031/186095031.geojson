@@ -2,13 +2,14 @@
   "id": 186095031,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.659956,43.647134,-116.659956,43.647134",
     "geom:latitude":43.647134,
     "geom:longitude":-116.659956,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3403 Arthur St",
     "sg:city":"Caldwell",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":186095031,
-    "wof:lastmodified":1449051730,
+    "wof:lastmodified":1466487808,
     "wof:name":"Freeman & Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "contractor"
     ]
 },
-  "bbox": [-116.659956,43.647134,-116.659956,43.647134],
-  "geometry": {"coordinates":[-116.659956,43.647134],"type":"Point"}
+  "bbox": [
+    -116.659956,
+    43.647134,
+    -116.659956,
+    43.647134
+],
+  "geometry": {"coordinates":[-116.65995599999999,43.647134],"type":"Point"}
 }

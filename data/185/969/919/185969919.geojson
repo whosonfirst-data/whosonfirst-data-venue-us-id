@@ -2,13 +2,14 @@
   "id": 185969919,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.548742,48.277162,-116.548742,48.277162",
     "geom:latitude":48.277162,
     "geom:longitude":-116.548742,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"401 N 2nd Ave",
     "sg:city":"Sandpoint",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":185969919,
-    "wof:lastmodified":1449007000,
+    "wof:lastmodified":1466488708,
     "wof:name":"Blind Guy Of Sandpoint",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "blind"
     ]
 },
-  "bbox": [-116.548742,48.277162,-116.548742,48.277162],
+  "bbox": [
+    -116.548742,
+    48.277162,
+    -116.548742,
+    48.277162
+],
   "geometry": {"coordinates":[-116.548742,48.277162],"type":"Point"}
 }

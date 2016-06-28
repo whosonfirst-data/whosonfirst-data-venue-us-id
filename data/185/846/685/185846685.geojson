@@ -2,13 +2,14 @@
   "id": 185846685,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.900951,48.624627,-116.900951,48.624627",
     "geom:latitude":48.624627,
     "geom:longitude":-116.900951,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"404 Elkins Rd",
     "sg:city":"Nordman",
     "sg:classifiers":[
@@ -48,16 +49,22 @@
         }
     ],
     "wof:id":185846685,
-    "wof:lastmodified":1449007877,
+    "wof:lastmodified":1466488530,
     "wof:name":"Elkins On Priest Lake",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "resort"
     ]
 },
-  "bbox": [-116.900951,48.624627,-116.900951,48.624627],
-  "geometry": {"coordinates":[-116.900951,48.624627],"type":"Point"}
+  "bbox": [
+    -116.900951,
+    48.624627,
+    -116.900951,
+    48.624627
+],
+  "geometry": {"coordinates":[-116.90095100000001,48.624627],"type":"Point"}
 }

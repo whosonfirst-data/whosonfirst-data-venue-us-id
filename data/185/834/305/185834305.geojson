@@ -2,13 +2,14 @@
   "id": 185834305,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.965142,46.370023,-116.965142,46.370023",
     "geom:latitude":46.370023,
     "geom:longitude":-116.965142,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3633 13th St",
     "sg:city":"Lewiston",
     "sg:classifiers":[
@@ -62,10 +63,11 @@
         }
     ],
     "wof:id":185834305,
-    "wof:lastmodified":1449006762,
+    "wof:lastmodified":1466488416,
     "wof:name":"Carpenter Fence Corp",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -73,6 +75,11 @@
         "contractor"
     ]
 },
-  "bbox": [-116.965142,46.370023,-116.965142,46.370023],
+  "bbox": [
+    -116.965142,
+    46.370023,
+    -116.965142,
+    46.370023
+],
   "geometry": {"coordinates":[-116.965142,46.370023],"type":"Point"}
 }

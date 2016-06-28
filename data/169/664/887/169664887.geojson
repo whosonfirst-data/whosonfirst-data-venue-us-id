@@ -2,13 +2,14 @@
   "id": 169664887,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.702985,43.648812,-116.702985,43.648812",
     "geom:latitude":43.648812,
     "geom:longitude":-116.702985,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2405 Airport Ave",
     "sg:city":"Caldwell",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":169664887,
-    "wof:lastmodified":1449033913,
+    "wof:lastmodified":1466487810,
     "wof:name":"Van's Electric",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "contractor"
     ]
 },
-  "bbox": [-116.702985,43.648812,-116.702985,43.648812],
+  "bbox": [
+    -116.702985,
+    43.648812,
+    -116.702985,
+    43.648812
+],
   "geometry": {"coordinates":[-116.702985,43.648812],"type":"Point"}
 }

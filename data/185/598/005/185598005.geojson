@@ -2,13 +2,14 @@
   "id": 185598005,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.500056,43.87755,-116.500056,43.87755",
     "geom:latitude":43.87755,
     "geom:longitude":-116.500056,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"101 Canal St",
     "sg:city":"Emmett",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":185598005,
-    "wof:lastmodified":1449006668,
+    "wof:lastmodified":1466487358,
     "wof:name":"Nancy Callahan",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "attorney"
     ]
 },
-  "bbox": [-116.500056,43.87755,-116.500056,43.87755],
+  "bbox": [
+    -116.500056,
+    43.87755,
+    -116.500056,
+    43.87755
+],
   "geometry": {"coordinates":[-116.500056,43.87755],"type":"Point"}
 }

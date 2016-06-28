@@ -2,13 +2,14 @@
   "id": 186555117,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.226653,43.620177,-116.226653,43.620177",
     "geom:latitude":43.620177,
     "geom:longitude":-116.226653,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"155 S 30th St",
     "sg:city":"Boise",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186555117,
-    "wof:lastmodified":1449052635,
+    "wof:lastmodified":1466488887,
     "wof:name":"Cars Etc",
     "wof:parent_id":85876301,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "dealer"
     ]
 },
-  "bbox": [-116.226653,43.620177,-116.226653,43.620177],
+  "bbox": [
+    -116.226653,
+    43.620177,
+    -116.226653,
+    43.620177
+],
   "geometry": {"coordinates":[-116.226653,43.620177],"type":"Point"}
 }

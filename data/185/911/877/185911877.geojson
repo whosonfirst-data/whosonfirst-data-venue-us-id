@@ -2,13 +2,14 @@
   "id": 185911877,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.705829,43.67066,-116.705829,43.67066",
     "geom:latitude":43.67066,
     "geom:longitude":-116.705829,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"223 Rodeo Ave",
     "sg:city":"Caldwell",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":185911877,
-    "wof:lastmodified":1449007970,
+    "wof:lastmodified":1466488589,
     "wof:name":"WSI",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "animal"
     ]
 },
-  "bbox": [-116.705829,43.67066,-116.705829,43.67066],
-  "geometry": {"coordinates":[-116.705829,43.67066],"type":"Point"}
+  "bbox": [
+    -116.705829,
+    43.67066,
+    -116.705829,
+    43.67066
+],
+  "geometry": {"coordinates":[-116.70582899999999,43.67066],"type":"Point"}
 }

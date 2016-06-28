@@ -2,13 +2,14 @@
   "id": 186294353,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.683134,43.657121,-116.683134,43.657121",
     "geom:latitude":43.657121,
     "geom:longitude":-116.683134,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1608 Everett St",
     "sg:city":"Caldwell",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":186294353,
-    "wof:lastmodified":1449052270,
+    "wof:lastmodified":1466488664,
     "wof:name":"Glen Day Construction Sup",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "house"
     ]
 },
-  "bbox": [-116.683134,43.657121,-116.683134,43.657121],
+  "bbox": [
+    -116.683134,
+    43.657121,
+    -116.683134,
+    43.657121
+],
   "geometry": {"coordinates":[-116.683134,43.657121],"type":"Point"}
 }

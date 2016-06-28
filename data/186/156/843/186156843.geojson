@@ -2,13 +2,14 @@
   "id": 186156843,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.802641,47.752728,-116.802641,47.752728",
     "geom:latitude":47.752728,
     "geom:longitude":-116.802641,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8946 N Heather Way",
     "sg:city":"Hayden",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":186156843,
-    "wof:lastmodified":1449050939,
+    "wof:lastmodified":1466488331,
     "wof:name":"Heatherstone Manufactured Home",
     "wof:parent_id":85821457,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "prefab"
     ]
 },
-  "bbox": [-116.802641,47.752728,-116.802641,47.752728],
-  "geometry": {"coordinates":[-116.802641,47.752728],"type":"Point"}
+  "bbox": [
+    -116.802641,
+    47.752728,
+    -116.802641,
+    47.752728
+],
+  "geometry": {"coordinates":[-116.80264099999999,47.752728],"type":"Point"}
 }

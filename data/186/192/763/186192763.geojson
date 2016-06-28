@@ -2,13 +2,14 @@
   "id": 186192763,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.688755,43.664746,-116.688755,43.664746",
     "geom:latitude":43.664746,
     "geom:longitude":-116.688755,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"820 Blaine St",
     "sg:city":"Caldwell",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":186192763,
-    "wof:lastmodified":1449052256,
+    "wof:lastmodified":1466488560,
     "wof:name":"Duke's Pawn Shop",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "pawnbroker"
     ]
 },
-  "bbox": [-116.688755,43.664746,-116.688755,43.664746],
+  "bbox": [
+    -116.688755,
+    43.664746,
+    -116.688755,
+    43.664746
+],
   "geometry": {"coordinates":[-116.688755,43.664746],"type":"Point"}
 }

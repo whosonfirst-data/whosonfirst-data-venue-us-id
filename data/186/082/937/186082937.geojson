@@ -2,13 +2,14 @@
   "id": 186082937,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.345218,43.709485,-116.345218,43.709485",
     "geom:latitude":43.709485,
     "geom:longitude":-116.345218,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1553 N Tadpole Ct",
     "sg:city":"Eagle",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":186082937,
-    "wof:lastmodified":1449050333,
+    "wof:lastmodified":1466487687,
     "wof:name":"Eagle Business Solutions Inc",
     "wof:parent_id":85876315,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-116.345218,43.709485,-116.345218,43.709485],
+  "bbox": [
+    -116.345218,
+    43.709485,
+    -116.345218,
+    43.709485
+],
   "geometry": {"coordinates":[-116.345218,43.709485],"type":"Point"}
 }

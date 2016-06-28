@@ -2,13 +2,14 @@
   "id": 186178577,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.785607,47.691084,-116.785607,47.691084",
     "geom:latitude":47.691084,
     "geom:longitude":-116.785607,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"104 E Spruce Ave",
     "sg:city":"Coeur D Alene",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186178577,
-    "wof:lastmodified":1449052287,
+    "wof:lastmodified":1466488454,
     "wof:name":"Angelheart Pet Salon",
     "wof:parent_id":85821457,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "washing"
     ]
 },
-  "bbox": [-116.785607,47.691084,-116.785607,47.691084],
+  "bbox": [
+    -116.785607,
+    47.691084,
+    -116.785607,
+    47.691084
+],
   "geometry": {"coordinates":[-116.785607,47.691084],"type":"Point"}
 }

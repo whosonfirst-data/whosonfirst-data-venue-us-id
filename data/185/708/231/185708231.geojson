@@ -2,13 +2,14 @@
   "id": 185708231,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.199708,43.908847,-116.199708,43.908847",
     "geom:latitude":43.908847,
     "geom:longitude":-116.199708,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"387 State Hwy 55",
     "sg:city":"Horseshoe Bend",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":185708231,
-    "wof:lastmodified":1449006870,
+    "wof:lastmodified":1466487590,
     "wof:name":"Left Hand Shop",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "hand"
     ]
 },
-  "bbox": [-116.199708,43.908847,-116.199708,43.908847],
+  "bbox": [
+    -116.199708,
+    43.908847,
+    -116.199708,
+    43.908847
+],
   "geometry": {"coordinates":[-116.199708,43.908847],"type":"Point"}
 }

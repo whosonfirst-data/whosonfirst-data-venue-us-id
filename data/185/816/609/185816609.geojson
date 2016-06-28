@@ -2,13 +2,14 @@
   "id": 185816609,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.445482,43.620638,-116.445482,43.620638",
     "geom:latitude":43.620638,
     "geom:longitude":-116.445482,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1690 N White Oak Way",
     "sg:city":"Meridian",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":185816609,
-    "wof:lastmodified":1449007548,
+    "wof:lastmodified":1466488403,
     "wof:name":"Pjs Bears",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "mfg"
     ]
 },
-  "bbox": [-116.445482,43.620638,-116.445482,43.620638],
+  "bbox": [
+    -116.445482,
+    43.620638,
+    -116.445482,
+    43.620638
+],
   "geometry": {"coordinates":[-116.445482,43.620638],"type":"Point"}
 }

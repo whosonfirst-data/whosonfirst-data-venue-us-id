@@ -2,13 +2,14 @@
   "id": 169750117,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.92331,44.029613,-116.92331,44.029613",
     "geom:latitude":44.029613,
     "geom:longitude":-116.92331,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2210 N Whitley Dr",
     "sg:city":"Fruitland",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":169750117,
-    "wof:lastmodified":1449034675,
+    "wof:lastmodified":1466488421,
     "wof:name":"Lil' Pablo's",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-116.92331,44.029613,-116.92331,44.029613],
+  "bbox": [
+    -116.92331,
+    44.029613,
+    -116.92331,
+    44.029613
+],
   "geometry": {"coordinates":[-116.92331,44.029613],"type":"Point"}
 }

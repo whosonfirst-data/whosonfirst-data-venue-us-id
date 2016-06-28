@@ -2,13 +2,14 @@
   "id": 185837885,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.789709,47.763267,-116.789709,47.763267",
     "geom:latitude":47.763267,
     "geom:longitude":-116.789709,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10070 N Taryne St",
     "sg:city":"Hayden Lake",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":185837885,
-    "wof:lastmodified":1449006865,
+    "wof:lastmodified":1466488427,
     "wof:name":"Mid-Mountain Development Co",
     "wof:parent_id":85821457,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-116.789709,47.763267,-116.789709,47.763267],
+  "bbox": [
+    -116.789709,
+    47.763267,
+    -116.789709,
+    47.763267
+],
   "geometry": {"coordinates":[-116.789709,47.763267],"type":"Point"}
 }

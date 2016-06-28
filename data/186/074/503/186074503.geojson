@@ -2,13 +2,14 @@
   "id": 186074503,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.486327,43.879141,-116.486327,43.879141",
     "geom:latitude":43.879141,
     "geom:longitude":-116.486327,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1016 E Locust St",
     "sg:city":"Emmett",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":186074503,
-    "wof:lastmodified":1449051831,
+    "wof:lastmodified":1466487593,
     "wof:name":"Larry V Downer OD",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-116.486327,43.879141,-116.486327,43.879141],
+  "bbox": [
+    -116.486327,
+    43.879141,
+    -116.486327,
+    43.879141
+],
   "geometry": {"coordinates":[-116.486327,43.879141],"type":"Point"}
 }

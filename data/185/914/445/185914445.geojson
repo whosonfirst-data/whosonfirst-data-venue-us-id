@@ -2,13 +2,14 @@
   "id": 185914445,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.9068,43.759521,-116.9068,43.759521",
     "geom:latitude":43.759521,
     "geom:longitude":-116.9068,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"26783 Deb Ln",
     "sg:city":"Parma",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":185914445,
-    "wof:lastmodified":1449007220,
+    "wof:lastmodified":1466488584,
     "wof:name":"Kenneth E McDaniel",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-116.9068,43.759521,-116.9068,43.759521],
+  "bbox": [
+    -116.9068,
+    43.759521,
+    -116.9068,
+    43.759521
+],
   "geometry": {"coordinates":[-116.9068,43.759521],"type":"Point"}
 }

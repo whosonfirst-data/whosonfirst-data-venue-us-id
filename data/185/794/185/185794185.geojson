@@ -2,13 +2,14 @@
   "id": 185794185,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.92144,47.637249,-116.92144,47.637249",
     "geom:latitude":47.637249,
     "geom:longitude":-116.92144,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10019 W Bobcat Trl",
     "sg:city":"Coeur D Alene",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":185794185,
-    "wof:lastmodified":1449007392,
+    "wof:lastmodified":1466488264,
     "wof:name":"Northwest Dynamics LLC",
     "wof:parent_id":85833263,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "business"
     ]
 },
-  "bbox": [-116.92144,47.637249,-116.92144,47.637249],
+  "bbox": [
+    -116.92144,
+    47.637249,
+    -116.92144,
+    47.637249
+],
   "geometry": {"coordinates":[-116.92144,47.637249],"type":"Point"}
 }

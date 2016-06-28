@@ -2,13 +2,14 @@
   "id": 169831829,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.440697,42.542096,-114.440697,42.542096",
     "geom:latitude":42.542096,
     "geom:longitude":-114.440697,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"451 Eastland Dr S",
     "sg:city":"Twin Falls",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":169831829,
-    "wof:lastmodified":1449034626,
+    "wof:lastmodified":1466488594,
     "wof:name":"Marriage & Family Counseling",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-114.440697,42.542096,-114.440697,42.542096],
+  "bbox": [
+    -114.440697,
+    42.542096,
+    -114.440697,
+    42.542096
+],
   "geometry": {"coordinates":[-114.440697,42.542096],"type":"Point"}
 }

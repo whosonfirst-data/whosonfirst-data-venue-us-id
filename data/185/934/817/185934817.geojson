@@ -2,13 +2,14 @@
   "id": 185934817,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.203765,43.611253,-116.203765,43.611253",
     "geom:latitude":43.611253,
     "geom:longitude":-116.203765,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"530 W Myrtle St",
     "sg:city":"Boise",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":185934817,
-    "wof:lastmodified":1449006663,
+    "wof:lastmodified":1466488637,
     "wof:name":"Rocket Neon",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "mfg"
     ]
 },
-  "bbox": [-116.203765,43.611253,-116.203765,43.611253],
+  "bbox": [
+    -116.203765,
+    43.611253,
+    -116.203765,
+    43.611253
+],
   "geometry": {"coordinates":[-116.203765,43.611253],"type":"Point"}
 }

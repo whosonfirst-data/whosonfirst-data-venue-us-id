@@ -2,13 +2,14 @@
   "id": 185775815,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.193673,43.577294,-116.193673,43.577294",
     "geom:latitude":43.577294,
     "geom:longitude":-116.193673,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2775 Broadway Ave",
     "sg:city":"Boise",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":185775815,
-    "wof:lastmodified":1449007785,
+    "wof:lastmodified":1466488130,
     "wof:name":"Quik-Wok Restaurant",
     "wof:parent_id":85876337,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-116.193673,43.577294,-116.193673,43.577294],
+  "bbox": [
+    -116.193673,
+    43.577294,
+    -116.193673,
+    43.577294
+],
   "geometry": {"coordinates":[-116.193673,43.577294],"type":"Point"}
 }

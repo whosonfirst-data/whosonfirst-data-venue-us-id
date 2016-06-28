@@ -2,13 +2,14 @@
   "id": 185793643,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.96401,44.248695,-116.96401,44.248695",
     "geom:latitude":44.248695,
     "geom:longitude":-116.96401,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"638 E 4th St",
     "sg:city":"Weiser",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":185793643,
-    "wof:lastmodified":1449007500,
+    "wof:lastmodified":1466488261,
     "wof:name":"Windshield Doctor",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "plate"
     ]
 },
-  "bbox": [-116.96401,44.248695,-116.96401,44.248695],
+  "bbox": [
+    -116.96401,
+    44.248695,
+    -116.96401,
+    44.248695
+],
   "geometry": {"coordinates":[-116.96401,44.248695],"type":"Point"}
 }

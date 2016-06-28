@@ -2,13 +2,14 @@
   "id": 186059221,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.533322,43.476195,-116.533322,43.476195",
     "geom:latitude":43.476195,
     "geom:longitude":-116.533322,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7173 Southside Blvd",
     "sg:city":"Nampa",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186059221,
-    "wof:lastmodified":1449051117,
+    "wof:lastmodified":1466487418,
     "wof:name":"Piper Foods",
     "wof:parent_id":85827787,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "product"
     ]
 },
-  "bbox": [-116.533322,43.476195,-116.533322,43.476195],
+  "bbox": [
+    -116.533322,
+    43.476195,
+    -116.533322,
+    43.476195
+],
   "geometry": {"coordinates":[-116.533322,43.476195],"type":"Point"}
 }

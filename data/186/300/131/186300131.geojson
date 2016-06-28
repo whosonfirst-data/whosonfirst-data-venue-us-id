@@ -2,13 +2,14 @@
   "id": 186300131,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.319909,43.596465,-116.319909,43.596465",
     "geom:latitude":43.596465,
     "geom:longitude":-116.319909,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"11070 Camas St",
     "sg:city":"Boise",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":186300131,
-    "wof:lastmodified":1449051893,
+    "wof:lastmodified":1466488572,
     "wof:name":"Mastalskis Skid-Steer Service",
     "wof:parent_id":85805083,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "contractor"
     ]
 },
-  "bbox": [-116.319909,43.596465,-116.319909,43.596465],
+  "bbox": [
+    -116.319909,
+    43.596465,
+    -116.319909,
+    43.596465
+],
   "geometry": {"coordinates":[-116.319909,43.596465],"type":"Point"}
 }

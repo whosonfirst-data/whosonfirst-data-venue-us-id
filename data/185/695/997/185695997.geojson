@@ -2,13 +2,14 @@
   "id": 185695997,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.02801,43.500563,-112.02801,43.500563",
     "geom:latitude":43.500563,
     "geom:longitude":-112.02801,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"335 Garfield St",
     "sg:city":"Idaho Falls",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":185695997,
-    "wof:lastmodified":1449007215,
+    "wof:lastmodified":1466487491,
     "wof:name":"Mc Claskey & Son Iron Works",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "work"
     ]
 },
-  "bbox": [-112.02801,43.500563,-112.02801,43.500563],
-  "geometry": {"coordinates":[-112.02801,43.500563],"type":"Point"}
+  "bbox": [
+    -112.02801,
+    43.500563,
+    -112.02801,
+    43.500563
+],
+  "geometry": {"coordinates":[-112.02800999999999,43.500563],"type":"Point"}
 }

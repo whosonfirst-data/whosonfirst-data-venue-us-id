@@ -2,13 +2,14 @@
   "id": 186420405,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.808151,47.758871,-116.808151,47.758871",
     "geom:latitude":47.758871,
     "geom:longitude":-116.808151,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9420 N Ramsey Rd",
     "sg:city":"Hayden",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":186420405,
-    "wof:lastmodified":1449051668,
+    "wof:lastmodified":1466488796,
     "wof:name":"Lyson Concrete Contracting Inc",
     "wof:parent_id":85821457,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "contractor"
     ]
 },
-  "bbox": [-116.808151,47.758871,-116.808151,47.758871],
+  "bbox": [
+    -116.808151,
+    47.758871,
+    -116.808151,
+    47.758871
+],
   "geometry": {"coordinates":[-116.808151,47.758871],"type":"Point"}
 }

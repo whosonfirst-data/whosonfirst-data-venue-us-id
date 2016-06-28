@@ -2,13 +2,14 @@
   "id": 185759495,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.777096,43.497581,-116.777096,43.497581",
     "geom:latitude":43.497581,
     "geom:longitude":-116.777096,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8748 Snake Ln",
     "sg:city":"Caldwell",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":185759495,
-    "wof:lastmodified":1449008235,
+    "wof:lastmodified":1466487996,
     "wof:name":"Spielman & Assoc LLC",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "carrier"
     ]
 },
-  "bbox": [-116.777096,43.497581,-116.777096,43.497581],
+  "bbox": [
+    -116.777096,
+    43.497581,
+    -116.777096,
+    43.497581
+],
   "geometry": {"coordinates":[-116.777096,43.497581],"type":"Point"}
 }

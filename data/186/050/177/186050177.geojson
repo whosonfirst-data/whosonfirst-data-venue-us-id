@@ -2,13 +2,14 @@
   "id": 186050177,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.869777,46.7404,-116.869777,46.7404",
     "geom:latitude":46.7404,
     "geom:longitude":-116.869777,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1247 Larson Rd",
     "sg:city":"Moscow",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":186050177,
-    "wof:lastmodified":1449051859,
+    "wof:lastmodified":1466487313,
     "wof:name":"Troy Deary Gun Club Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-116.869777,46.7404,-116.869777,46.7404],
+  "bbox": [
+    -116.869777,
+    46.7404,
+    -116.869777,
+    46.7404
+],
   "geometry": {"coordinates":[-116.869777,46.7404],"type":"Point"}
 }

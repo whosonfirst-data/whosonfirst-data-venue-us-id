@@ -2,13 +2,14 @@
   "id": 185696113,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.534516,43.210353,-112.534516,43.210353",
     "geom:latitude":43.210353,
     "geom:longitude":-112.534516,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"36 N 1200 W",
     "sg:city":"Blackfoot",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":185696113,
-    "wof:lastmodified":1449006730,
+    "wof:lastmodified":1466487491,
     "wof:name":"Garth Farm",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "parts"
     ]
 },
-  "bbox": [-112.534516,43.210353,-112.534516,43.210353],
+  "bbox": [
+    -112.534516,
+    43.210353,
+    -112.534516,
+    43.210353
+],
   "geometry": {"coordinates":[-112.534516,43.210353],"type":"Point"}
 }

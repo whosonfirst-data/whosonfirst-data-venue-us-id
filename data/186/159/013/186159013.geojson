@@ -2,13 +2,14 @@
   "id": 186159013,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.959054,47.745021,-116.959054,47.745021",
     "geom:latitude":47.745021,
     "geom:longitude":-116.959054,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3875 N Chase Rd",
     "sg:city":"Post Falls",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186159013,
-    "wof:lastmodified":1449050591,
+    "wof:lastmodified":1466488497,
     "wof:name":"Roost A Stampers",
     "wof:parent_id":85833263,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "mfg"
     ]
 },
-  "bbox": [-116.959054,47.745021,-116.959054,47.745021],
-  "geometry": {"coordinates":[-116.959054,47.745021],"type":"Point"}
+  "bbox": [
+    -116.959054,
+    47.745021,
+    -116.959054,
+    47.745021
+],
+  "geometry": {"coordinates":[-116.95905399999999,47.745021],"type":"Point"}
 }

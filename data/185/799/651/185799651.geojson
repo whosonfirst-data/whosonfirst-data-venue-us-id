@@ -2,13 +2,14 @@
   "id": 185799651,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.577231,43.510062,-116.577231,43.510062",
     "geom:latitude":43.510062,
     "geom:longitude":-116.577231,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9197 Lake Shore Dr",
     "sg:city":"Nampa",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":185799651,
-    "wof:lastmodified":1449008215,
+    "wof:lastmodified":1466488304,
     "wof:name":"Charter Seed Co",
     "wof:parent_id":85827787,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "greenhouse"
     ]
 },
-  "bbox": [-116.577231,43.510062,-116.577231,43.510062],
+  "bbox": [
+    -116.577231,
+    43.510062,
+    -116.577231,
+    43.510062
+],
   "geometry": {"coordinates":[-116.577231,43.510062],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 185655765,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-113.686116,42.616766,-113.686116,42.616766",
     "geom:latitude":42.616766,
     "geom:longitude":-113.686116,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"228 Crescent Dr",
     "sg:city":"Rupert",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":185655765,
-    "wof:lastmodified":1449007527,
+    "wof:lastmodified":1466487182,
     "wof:name":"B&T Sales",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "establishment"
     ]
 },
-  "bbox": [-113.686116,42.616766,-113.686116,42.616766],
+  "bbox": [
+    -113.686116,
+    42.616766,
+    -113.686116,
+    42.616766
+],
   "geometry": {"coordinates":[-113.686116,42.616766],"type":"Point"}
 }

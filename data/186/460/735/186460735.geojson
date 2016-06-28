@@ -2,13 +2,14 @@
   "id": 186460735,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.511434,48.264743,-116.511434,48.264743",
     "geom:latitude":48.264743,
     "geom:longitude":-116.511434,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3779 Bottle Bay Rd",
     "sg:city":"Sagle",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":186460735,
-    "wof:lastmodified":1449052883,
+    "wof:lastmodified":1466488749,
     "wof:name":"Mc Crum Construction",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "contractor"
     ]
 },
-  "bbox": [-116.511434,48.264743,-116.511434,48.264743],
-  "geometry": {"coordinates":[-116.511434,48.264743],"type":"Point"}
+  "bbox": [
+    -116.511434,
+    48.264743,
+    -116.511434,
+    48.264743
+],
+  "geometry": {"coordinates":[-116.51143399999999,48.264743],"type":"Point"}
 }

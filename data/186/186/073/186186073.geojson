@@ -2,13 +2,14 @@
   "id": 186186073,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.285304,43.659378,-116.285304,43.659378",
     "geom:latitude":43.659378,
     "geom:longitude":-116.285304,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8250 W Marigold St",
     "sg:city":"Boise",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":186186073,
-    "wof:lastmodified":1449052418,
+    "wof:lastmodified":1466488373,
     "wof:name":"Emerson House",
     "wof:parent_id":85876349,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "residential"
     ]
 },
-  "bbox": [-116.285304,43.659378,-116.285304,43.659378],
+  "bbox": [
+    -116.285304,
+    43.659378,
+    -116.285304,
+    43.659378
+],
   "geometry": {"coordinates":[-116.285304,43.659378],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186156939,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.493683,43.574352,-116.493683,43.574352",
     "geom:latitude":43.574352,
     "geom:longitude":-116.493683,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"58 S Robinson Rd",
     "sg:city":"Nampa",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":186156939,
-    "wof:lastmodified":1449050942,
+    "wof:lastmodified":1466488332,
     "wof:name":"David Keith",
     "wof:parent_id":85827787,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "cattle"
     ]
 },
-  "bbox": [-116.493683,43.574352,-116.493683,43.574352],
+  "bbox": [
+    -116.493683,
+    43.574352,
+    -116.493683,
+    43.574352
+],
   "geometry": {"coordinates":[-116.493683,43.574352],"type":"Point"}
 }

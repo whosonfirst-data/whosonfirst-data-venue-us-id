@@ -2,13 +2,14 @@
   "id": 169622621,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.25394,43.449162,-114.25394,43.449162",
     "geom:latitude":43.449162,
     "geom:longitude":-114.25394,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"11035 State Hwy 75",
     "sg:city":"Bellevue",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":169622621,
-    "wof:lastmodified":1449035368,
+    "wof:lastmodified":1466487159,
     "wof:name":"Integration & Control Svc Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-114.25394,43.449162,-114.25394,43.449162],
+  "bbox": [
+    -114.25394,
+    43.449162,
+    -114.25394,
+    43.449162
+],
   "geometry": {"coordinates":[-114.25394,43.449162],"type":"Point"}
 }

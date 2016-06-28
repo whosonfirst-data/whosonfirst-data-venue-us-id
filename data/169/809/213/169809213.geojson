@@ -2,13 +2,14 @@
   "id": 169809213,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.52564,43.550957,-116.52564,43.550957",
     "geom:latitude":43.550957,
     "geom:longitude":-116.52564,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3417 E Brenan Dr",
     "sg:city":"Nampa",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":169809213,
-    "wof:lastmodified":1449035369,
+    "wof:lastmodified":1466488455,
     "wof:name":"Jerry Horrace Trucking",
     "wof:parent_id":85827787,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "trucking"
     ]
 },
-  "bbox": [-116.52564,43.550957,-116.52564,43.550957],
+  "bbox": [
+    -116.52564,
+    43.550957,
+    -116.52564,
+    43.550957
+],
   "geometry": {"coordinates":[-116.52564,43.550957],"type":"Point"}
 }

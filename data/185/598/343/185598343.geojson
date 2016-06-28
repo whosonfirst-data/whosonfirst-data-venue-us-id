@@ -2,13 +2,14 @@
   "id": 185598343,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.026646,43.493272,-112.026646,43.493272",
     "geom:latitude":43.493272,
     "geom:longitude":-112.026646,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"328 5th St",
     "sg:city":"Idaho Falls",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":185598343,
-    "wof:lastmodified":1449006665,
+    "wof:lastmodified":1466488178,
     "wof:name":"Sherry's Do-All",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "handyman"
     ]
 },
-  "bbox": [-112.026646,43.493272,-112.026646,43.493272],
+  "bbox": [
+    -112.026646,
+    43.493272,
+    -112.026646,
+    43.493272
+],
   "geometry": {"coordinates":[-112.026646,43.493272],"type":"Point"}
 }

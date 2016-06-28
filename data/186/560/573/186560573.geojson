@@ -2,13 +2,14 @@
   "id": 186560573,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.545719,48.469165,-116.545719,48.469165",
     "geom:latitude":48.469165,
     "geom:longitude":-116.545719,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3907 Upper Pack River Rd",
     "sg:city":"Sandpoint",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":186560573,
-    "wof:lastmodified":1449052375,
+    "wof:lastmodified":1466488936,
     "wof:name":"High Country Lure",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-116.545719,48.469165,-116.545719,48.469165],
-  "geometry": {"coordinates":[-116.545719,48.469165],"type":"Point"}
+  "bbox": [
+    -116.545719,
+    48.469165,
+    -116.545719,
+    48.469165
+],
+  "geometry": {"coordinates":[-116.54571900000001,48.469165],"type":"Point"}
 }

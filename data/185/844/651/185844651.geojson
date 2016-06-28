@@ -2,13 +2,14 @@
   "id": 185844651,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.446446,42.858674,-112.446446,42.858674",
     "geom:latitude":42.858674,
     "geom:longitude":-112.446446,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"538 S Main St",
     "sg:city":"Pocatello",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":185844651,
-    "wof:lastmodified":1449007289,
+    "wof:lastmodified":1466488456,
     "wof:name":"This-N-That",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "antique"
     ]
 },
-  "bbox": [-112.446446,42.858674,-112.446446,42.858674],
-  "geometry": {"coordinates":[-112.446446,42.858674],"type":"Point"}
+  "bbox": [
+    -112.446446,
+    42.858674,
+    -112.446446,
+    42.858674
+],
+  "geometry": {"coordinates":[-112.44644599999999,42.858674],"type":"Point"}
 }

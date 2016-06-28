@@ -2,13 +2,14 @@
   "id": 186080405,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.346864,43.660278,-116.346864,43.660278",
     "geom:latitude":43.660278,
     "geom:longitude":-116.346864,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"13178 W Buttercup Ct",
     "sg:city":"Boise",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186080405,
-    "wof:lastmodified":1449052967,
+    "wof:lastmodified":1466487664,
     "wof:name":"Manchester United Sccr Club",
     "wof:parent_id":85876351,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "membership"
     ]
 },
-  "bbox": [-116.346864,43.660278,-116.346864,43.660278],
+  "bbox": [
+    -116.346864,
+    43.660278,
+    -116.346864,
+    43.660278
+],
   "geometry": {"coordinates":[-116.346864,43.660278],"type":"Point"}
 }

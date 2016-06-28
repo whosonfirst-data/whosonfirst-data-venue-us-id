@@ -2,13 +2,14 @@
   "id": 186528237,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.530067,43.588381,-116.530067,43.588381",
     "geom:latitude":43.588381,
     "geom:longitude":-116.530067,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3514 Garrity Blvd",
     "sg:city":"Nampa",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186528237,
-    "wof:lastmodified":1449051100,
+    "wof:lastmodified":1466488930,
     "wof:name":"Qualitree Inc",
     "wof:parent_id":85827787,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "sawmill"
     ]
 },
-  "bbox": [-116.530067,43.588381,-116.530067,43.588381],
+  "bbox": [
+    -116.530067,
+    43.588381,
+    -116.530067,
+    43.588381
+],
   "geometry": {"coordinates":[-116.530067,43.588381],"type":"Point"}
 }

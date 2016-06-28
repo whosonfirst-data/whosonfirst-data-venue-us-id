@@ -2,13 +2,14 @@
   "id": 169774347,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.19351,43.615032,-116.19351,43.615032",
     "geom:latitude":43.615032,
     "geom:longitude":-116.19351,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"103 W State St",
     "sg:city":"Boise",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":169774347,
-    "wof:lastmodified":1449033963,
+    "wof:lastmodified":1466488361,
     "wof:name":"Perinatal Projects",
     "wof:parent_id":85876345,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-116.19351,43.615032,-116.19351,43.615032],
+  "bbox": [
+    -116.19351,
+    43.615032,
+    -116.19351,
+    43.615032
+],
   "geometry": {"coordinates":[-116.19351,43.615032],"type":"Point"}
 }

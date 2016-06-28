@@ -2,13 +2,14 @@
   "id": 169795141,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.202447,43.618396,-116.202447,43.618396",
     "geom:latitude":43.618396,
     "geom:longitude":-116.202447,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"310 N 9th St",
     "sg:city":"Boise",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":169795141,
-    "wof:lastmodified":1449034642,
+    "wof:lastmodified":1466488396,
     "wof:name":"Purple Butterfly",
     "wof:parent_id":85876341,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "shop"
     ]
 },
-  "bbox": [-116.202447,43.618396,-116.202447,43.618396],
-  "geometry": {"coordinates":[-116.202447,43.618396],"type":"Point"}
+  "bbox": [
+    -116.202447,
+    43.618396,
+    -116.202447,
+    43.618396
+],
+  "geometry": {"coordinates":[-116.20244700000001,43.618396],"type":"Point"}
 }

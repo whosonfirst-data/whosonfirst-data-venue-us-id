@@ -2,13 +2,14 @@
   "id": 186546719,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.59422,43.599687,-116.59422,43.599687",
     "geom:latitude":43.599687,
     "geom:longitude":-116.59422,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1116 Caldwell Blvd",
     "sg:city":"Nampa",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186546719,
-    "wof:lastmodified":1449050241,
+    "wof:lastmodified":1466488891,
     "wof:name":"Personnel Plus",
     "wof:parent_id":85827787,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "opportunity"
     ]
 },
-  "bbox": [-116.59422,43.599687,-116.59422,43.599687],
-  "geometry": {"coordinates":[-116.59422,43.599687],"type":"Point"}
+  "bbox": [
+    -116.59422,
+    43.599687,
+    -116.59422,
+    43.599687
+],
+  "geometry": {"coordinates":[-116.59422000000001,43.599687],"type":"Point"}
 }

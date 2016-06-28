@@ -2,13 +2,14 @@
   "id": 185948509,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.872259,43.756094,-116.872259,43.756094",
     "geom:latitude":43.756094,
     "geom:longitude":-116.872259,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"24108 Ten Davis Rd",
     "sg:city":"Parma",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":185948509,
-    "wof:lastmodified":1449007890,
+    "wof:lastmodified":1466488578,
     "wof:name":"Epic Enterprises",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "seminar"
     ]
 },
-  "bbox": [-116.872259,43.756094,-116.872259,43.756094],
+  "bbox": [
+    -116.872259,
+    43.756094,
+    -116.872259,
+    43.756094
+],
   "geometry": {"coordinates":[-116.872259,43.756094],"type":"Point"}
 }

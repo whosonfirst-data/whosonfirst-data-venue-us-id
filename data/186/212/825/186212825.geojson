@@ -2,13 +2,14 @@
   "id": 186212825,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.385225,43.60782,-116.385225,43.60782",
     "geom:latitude":43.60782,
     "geom:longitude":-116.385225,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"575 E Bower Ave",
     "sg:city":"Meridian",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":186212825,
-    "wof:lastmodified":1449052110,
+    "wof:lastmodified":1466488524,
     "wof:name":"Woodland Manufacturing",
     "wof:parent_id":85805083,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "sign"
     ]
 },
-  "bbox": [-116.385225,43.60782,-116.385225,43.60782],
-  "geometry": {"coordinates":[-116.385225,43.60782],"type":"Point"}
+  "bbox": [
+    -116.385225,
+    43.60782,
+    -116.385225,
+    43.60782
+],
+  "geometry": {"coordinates":[-116.38522500000001,43.60782],"type":"Point"}
 }

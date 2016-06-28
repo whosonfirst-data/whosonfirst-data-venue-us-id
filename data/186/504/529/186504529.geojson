@@ -2,13 +2,14 @@
   "id": 186504529,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.331409,43.577405,-116.331409,43.577405",
     "geom:latitude":43.577405,
     "geom:longitude":-116.331409,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"11908 Peconic Dr",
     "sg:city":"Boise",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":186504529,
-    "wof:lastmodified":1449050888,
+    "wof:lastmodified":1466488916,
     "wof:name":"Friends n Stitches Inc",
     "wof:parent_id":85876331,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "sewing"
     ]
 },
-  "bbox": [-116.331409,43.577405,-116.331409,43.577405],
-  "geometry": {"coordinates":[-116.331409,43.577405],"type":"Point"}
+  "bbox": [
+    -116.331409,
+    43.577405,
+    -116.331409,
+    43.577405
+],
+  "geometry": {"coordinates":[-116.33140899999999,43.577405],"type":"Point"}
 }

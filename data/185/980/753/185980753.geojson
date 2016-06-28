@@ -2,13 +2,14 @@
   "id": 185980753,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.794258,47.694252,-116.794258,47.694252",
     "geom:latitude":47.694252,
     "geom:longitude":-116.794258,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"920 W Ironwood Dr",
     "sg:city":"Coeur D Alene",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":185980753,
-    "wof:lastmodified":1449006711,
+    "wof:lastmodified":1466488653,
     "wof:name":"Ironwood Family Practice",
     "wof:parent_id":85821457,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "surgeon"
     ]
 },
-  "bbox": [-116.794258,47.694252,-116.794258,47.694252],
+  "bbox": [
+    -116.794258,
+    47.694252,
+    -116.794258,
+    47.694252
+],
   "geometry": {"coordinates":[-116.794258,47.694252],"type":"Point"}
 }

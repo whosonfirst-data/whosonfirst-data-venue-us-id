@@ -2,13 +2,14 @@
   "id": 186561573,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.536022,43.591469,-116.536022,43.591469",
     "geom:latitude":43.591469,
     "geom:longitude":-116.536022,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2818 Brandt Ave",
     "sg:city":"Nampa",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186561573,
-    "wof:lastmodified":1449052258,
+    "wof:lastmodified":1466488839,
     "wof:name":"RPM Machine Inc",
     "wof:parent_id":85827787,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "shop"
     ]
 },
-  "bbox": [-116.536022,43.591469,-116.536022,43.591469],
+  "bbox": [
+    -116.536022,
+    43.591469,
+    -116.536022,
+    43.591469
+],
   "geometry": {"coordinates":[-116.536022,43.591469],"type":"Point"}
 }

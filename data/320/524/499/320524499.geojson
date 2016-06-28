@@ -2,13 +2,14 @@
   "id": 320524499,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.949131,46.366741,-116.949131,46.366741",
     "geom:latitude":46.366741,
     "geom:longitude":-116.949131,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1606 Birch Dr",
     "sg:city":"Lewiston",
     "sg:classifiers":[
@@ -70,10 +71,11 @@
         }
     ],
     "wof:id":320524499,
-    "wof:lastmodified":1449011222,
+    "wof:lastmodified":1466487240,
     "wof:name":"Kinzer Air",
     "wof:parent_id":85837769,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -89,6 +91,11 @@
         "air conditioning"
     ]
 },
-  "bbox": [-116.949131,46.366741,-116.949131,46.366741],
-  "geometry": {"coordinates":[-116.949131,46.366741],"type":"Point"}
+  "bbox": [
+    -116.949131,
+    46.366741,
+    -116.949131,
+    46.366741
+],
+  "geometry": {"coordinates":[-116.94913099999999,46.366741],"type":"Point"}
 }

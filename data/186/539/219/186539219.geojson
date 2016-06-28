@@ -2,13 +2,14 @@
   "id": 186539219,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.341113,43.192163,-112.341113,43.192163",
     "geom:latitude":43.192163,
     "geom:longitude":-112.341113,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"401 NW Main St",
     "sg:city":"Blackfoot",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":186539219,
-    "wof:lastmodified":1449053079,
+    "wof:lastmodified":1466488875,
     "wof:name":"T N T Towing",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "automotive"
     ]
 },
-  "bbox": [-112.341113,43.192163,-112.341113,43.192163],
-  "geometry": {"coordinates":[-112.341113,43.192163],"type":"Point"}
+  "bbox": [
+    -112.341113,
+    43.192163,
+    -112.341113,
+    43.192163
+],
+  "geometry": {"coordinates":[-112.34111300000001,43.192163],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 185981225,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.570676,43.571749,-116.570676,43.571749",
     "geom:latitude":43.571749,
     "geom:longitude":-116.570676,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1116 11th Ave S",
     "sg:city":"Nampa",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":185981225,
-    "wof:lastmodified":1449008243,
+    "wof:lastmodified":1466488818,
     "wof:name":"Black Diamond Seal Coating",
     "wof:parent_id":85827787,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-116.570676,43.571749,-116.570676,43.571749],
-  "geometry": {"coordinates":[-116.570676,43.571749],"type":"Point"}
+  "bbox": [
+    -116.570676,
+    43.571749,
+    -116.570676,
+    43.571749
+],
+  "geometry": {"coordinates":[-116.57067600000001,43.571749],"type":"Point"}
 }

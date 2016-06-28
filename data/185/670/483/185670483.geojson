@@ -2,13 +2,14 @@
   "id": 185670483,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.215598,43.597321,-116.215598,43.597321",
     "geom:latitude":43.597321,
     "geom:longitude":-116.215598,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"714 Pearl St",
     "sg:city":"Boise",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":185670483,
-    "wof:lastmodified":1449006850,
+    "wof:lastmodified":1466487294,
     "wof:name":"Angela R Stewart Design",
     "wof:parent_id":85876303,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "designer"
     ]
 },
-  "bbox": [-116.215598,43.597321,-116.215598,43.597321],
+  "bbox": [
+    -116.215598,
+    43.597321,
+    -116.215598,
+    43.597321
+],
   "geometry": {"coordinates":[-116.215598,43.597321],"type":"Point"}
 }

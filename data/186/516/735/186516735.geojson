@@ -2,13 +2,14 @@
   "id": 186516735,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.554436,48.273165,-116.554436,48.273165",
     "geom:latitude":48.273165,
     "geom:longitude":-116.554436,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"530 Pine St",
     "sg:city":"Sandpoint",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":186516735,
-    "wof:lastmodified":1449050920,
+    "wof:lastmodified":1466488870,
     "wof:name":"Angel Aides Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "home"
     ]
 },
-  "bbox": [-116.554436,48.273165,-116.554436,48.273165],
+  "bbox": [
+    -116.554436,
+    48.273165,
+    -116.554436,
+    48.273165
+],
   "geometry": {"coordinates":[-116.554436,48.273165],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169836765,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.182308,43.595881,-116.182308,43.595881",
     "geom:latitude":43.595881,
     "geom:longitude":-116.182308,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"128 E Mallard Dr",
     "sg:city":"Boise",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":169836765,
-    "wof:lastmodified":1449034871,
+    "wof:lastmodified":1466488596,
     "wof:name":"Idaho Retina",
     "wof:parent_id":85876305,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "surgeon"
     ]
 },
-  "bbox": [-116.182308,43.595881,-116.182308,43.595881],
-  "geometry": {"coordinates":[-116.182308,43.595881],"type":"Point"}
+  "bbox": [
+    -116.182308,
+    43.595881,
+    -116.182308,
+    43.595881
+],
+  "geometry": {"coordinates":[-116.18230800000001,43.595881],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186416107,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.29772,42.328834,-111.29772,42.328834",
     "geom:latitude":42.328834,
     "geom:longitude":-111.29772,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"680 N 4th St",
     "sg:city":"Montpelier",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":186416107,
-    "wof:lastmodified":1449051579,
+    "wof:lastmodified":1466488796,
     "wof:name":"Curly Bear Junction",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.29772,42.328834,-111.29772,42.328834],
+  "bbox": [
+    -111.29772,
+    42.328834,
+    -111.29772,
+    42.328834
+],
   "geometry": {"coordinates":[-111.29772,42.328834],"type":"Point"}
 }

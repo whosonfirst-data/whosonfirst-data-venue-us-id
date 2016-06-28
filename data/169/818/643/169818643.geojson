@@ -2,13 +2,14 @@
   "id": 169818643,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.679337,43.700231,-116.679337,43.700231",
     "geom:latitude":43.700231,
     "geom:longitude":-116.679337,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"14339 Channel Rd",
     "sg:city":"Caldwell",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":169818643,
-    "wof:lastmodified":1449034286,
+    "wof:lastmodified":1466488470,
     "wof:name":"M & T Construction",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "contractor"
     ]
 },
-  "bbox": [-116.679337,43.700231,-116.679337,43.700231],
+  "bbox": [
+    -116.679337,
+    43.700231,
+    -116.679337,
+    43.700231
+],
   "geometry": {"coordinates":[-116.679337,43.700231],"type":"Point"}
 }

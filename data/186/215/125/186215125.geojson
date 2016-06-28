@@ -2,13 +2,14 @@
   "id": 186215125,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.9305,44.075382,-116.9305,44.075382",
     "geom:latitude":44.075382,
     "geom:longitude":-116.9305,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1 N 11th St",
     "sg:city":"Payette",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":186215125,
-    "wof:lastmodified":1449052542,
+    "wof:lastmodified":1466488524,
     "wof:name":"John Padgett Construction",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-116.9305,44.075382,-116.9305,44.075382],
-  "geometry": {"coordinates":[-116.9305,44.075382],"type":"Point"}
+  "bbox": [
+    -116.9305,
+    44.075382,
+    -116.9305,
+    44.075382
+],
+  "geometry": {"coordinates":[-116.93049999999999,44.075382],"type":"Point"}
 }

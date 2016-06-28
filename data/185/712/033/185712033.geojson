@@ -2,13 +2,14 @@
   "id": 185712033,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.934865,46.412653,-116.934865,46.412653",
     "geom:latitude":46.412653,
     "geom:longitude":-116.934865,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6182 Lapwai Rd",
     "sg:city":"Lewiston",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":185712033,
-    "wof:lastmodified":1449007299,
+    "wof:lastmodified":1466487620,
     "wof:name":"M L Albright & Sons Inc",
     "wof:parent_id":85837769,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-116.934865,46.412653,-116.934865,46.412653],
+  "bbox": [
+    -116.934865,
+    46.412653,
+    -116.934865,
+    46.412653
+],
   "geometry": {"coordinates":[-116.934865,46.412653],"type":"Point"}
 }

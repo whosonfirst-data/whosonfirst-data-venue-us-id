@@ -2,13 +2,14 @@
   "id": 185767199,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.940267,47.716926,-116.940267,47.716926",
     "geom:latitude":47.716926,
     "geom:longitude":-116.940267,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"804 N Lincoln St",
     "sg:city":"Post Falls",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":185767199,
-    "wof:lastmodified":1449007076,
+    "wof:lastmodified":1466488058,
     "wof:name":"House Of Prayer",
     "wof:parent_id":85833263,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-116.940267,47.716926,-116.940267,47.716926],
-  "geometry": {"coordinates":[-116.940267,47.716926],"type":"Point"}
+  "bbox": [
+    -116.940267,
+    47.716926,
+    -116.940267,
+    47.716926
+],
+  "geometry": {"coordinates":[-116.94026700000001,47.716926],"type":"Point"}
 }

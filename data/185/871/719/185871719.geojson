@@ -2,13 +2,14 @@
   "id": 185871719,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.003428,43.511132,-112.003428,43.511132",
     "geom:latitude":43.511132,
     "geom:longitude":-112.003428,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1352 E Lincoln Rd",
     "sg:city":"Idaho Falls",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":185871719,
-    "wof:lastmodified":1449007119,
+    "wof:lastmodified":1466488432,
     "wof:name":"Landmark Signs",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.003428,43.511132,-112.003428,43.511132],
+  "bbox": [
+    -112.003428,
+    43.511132,
+    -112.003428,
+    43.511132
+],
   "geometry": {"coordinates":[-112.003428,43.511132],"type":"Point"}
 }

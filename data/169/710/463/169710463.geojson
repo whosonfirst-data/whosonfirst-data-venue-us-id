@@ -2,13 +2,14 @@
   "id": 169710463,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.242801,43.64141,-112.242801,43.64141",
     "geom:latitude":43.64141,
     "geom:longitude":-112.242801,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"110 N 2300 E",
     "sg:city":"Teton",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":169710463,
-    "wof:lastmodified":1449032887,
+    "wof:lastmodified":1466488131,
     "wof:name":"Beco Construction",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "contractor"
     ]
 },
-  "bbox": [-112.242801,43.64141,-112.242801,43.64141],
+  "bbox": [
+    -112.242801,
+    43.64141,
+    -112.242801,
+    43.64141
+],
   "geometry": {"coordinates":[-112.242801,43.64141],"type":"Point"}
 }

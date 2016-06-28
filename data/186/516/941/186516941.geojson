@@ -2,13 +2,14 @@
   "id": 186516941,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.298756,43.677205,-116.298756,43.677205",
     "geom:latitude":43.677205,
     "geom:longitude":-116.298756,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9169 W State St",
     "sg:city":"Boise",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":186516941,
-    "wof:lastmodified":1449050918,
+    "wof:lastmodified":1466488870,
     "wof:name":"Richardson Insurance Svc Inc",
     "wof:parent_id":85876315,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-116.298756,43.677205,-116.298756,43.677205],
+  "bbox": [
+    -116.298756,
+    43.677205,
+    -116.298756,
+    43.677205
+],
   "geometry": {"coordinates":[-116.298756,43.677205],"type":"Point"}
 }

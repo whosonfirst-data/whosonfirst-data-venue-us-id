@@ -2,13 +2,14 @@
   "id": 185709301,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.995798,43.492131,-111.995798,43.492131",
     "geom:latitude":43.492131,
     "geom:longitude":-111.995798,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1974 Danbury Cir",
     "sg:city":"Idaho Falls",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":185709301,
-    "wof:lastmodified":1449006934,
+    "wof:lastmodified":1466487597,
     "wof:name":"Rodon Foods",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "broker"
     ]
 },
-  "bbox": [-111.995798,43.492131,-111.995798,43.492131],
-  "geometry": {"coordinates":[-111.995798,43.492131],"type":"Point"}
+  "bbox": [
+    -111.995798,
+    43.492131,
+    -111.995798,
+    43.492131
+],
+  "geometry": {"coordinates":[-111.99579799999999,43.492131],"type":"Point"}
 }

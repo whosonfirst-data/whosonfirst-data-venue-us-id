@@ -2,13 +2,14 @@
   "id": 186174481,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.172009,43.568835,-116.172009,43.568835",
     "geom:latitude":43.568835,
     "geom:longitude":-116.172009,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1050 Ironside Dr",
     "sg:city":"Boise",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186174481,
-    "wof:lastmodified":1449050719,
+    "wof:lastmodified":1466488435,
     "wof:name":"Expedite Mediclaims Processing",
     "wof:parent_id":85876329,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "supply"
     ]
 },
-  "bbox": [-116.172009,43.568835,-116.172009,43.568835],
+  "bbox": [
+    -116.172009,
+    43.568835,
+    -116.172009,
+    43.568835
+],
   "geometry": {"coordinates":[-116.172009,43.568835],"type":"Point"}
 }

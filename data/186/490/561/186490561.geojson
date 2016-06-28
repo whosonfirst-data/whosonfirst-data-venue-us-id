@@ -2,13 +2,14 @@
   "id": 186490561,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.905012,47.72868,-116.905012,47.72868",
     "geom:latitude":47.72868,
     "geom:longitude":-116.905012,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2362 N Cecil Rd",
     "sg:city":"Post Falls",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":186490561,
-    "wof:lastmodified":1449052749,
+    "wof:lastmodified":1466488908,
     "wof:name":"Treasured Image Photography",
     "wof:parent_id":85833263,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "photo"
     ]
 },
-  "bbox": [-116.905012,47.72868,-116.905012,47.72868],
+  "bbox": [
+    -116.905012,
+    47.72868,
+    -116.905012,
+    47.72868
+],
   "geometry": {"coordinates":[-116.905012,47.72868],"type":"Point"}
 }

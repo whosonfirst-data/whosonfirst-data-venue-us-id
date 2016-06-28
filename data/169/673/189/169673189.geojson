@@ -2,13 +2,14 @@
   "id": 169673189,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.384552,43.598824,-116.384552,43.598824",
     "geom:latitude":43.598824,
     "geom:longitude":-116.384552,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"700 Stratford Dr",
     "sg:city":"Meridian",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":169673189,
-    "wof:lastmodified":1449033958,
+    "wof:lastmodified":1466487922,
     "wof:name":"Police Dept",
     "wof:parent_id":85805083,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "state"
     ]
 },
-  "bbox": [-116.384552,43.598824,-116.384552,43.598824],
+  "bbox": [
+    -116.384552,
+    43.598824,
+    -116.384552,
+    43.598824
+],
   "geometry": {"coordinates":[-116.384552,43.598824],"type":"Point"}
 }

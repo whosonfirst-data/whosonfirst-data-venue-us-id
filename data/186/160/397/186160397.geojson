@@ -2,13 +2,14 @@
   "id": 186160397,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.943308,47.705928,-116.943308,47.705928",
     "geom:latitude":47.705928,
     "geom:longitude":-116.943308,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"414 E 1st Ave",
     "sg:city":"Post Falls",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":186160397,
-    "wof:lastmodified":1449052578,
+    "wof:lastmodified":1466488398,
     "wof:name":"Templin & Assoc",
     "wof:parent_id":85833263,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-116.943308,47.705928,-116.943308,47.705928],
+  "bbox": [
+    -116.943308,
+    47.705928,
+    -116.943308,
+    47.705928
+],
   "geometry": {"coordinates":[-116.943308,47.705928],"type":"Point"}
 }

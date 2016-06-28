@@ -2,13 +2,14 @@
   "id": 185723489,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.281661,43.588726,-116.281661,43.588726",
     "geom:latitude":43.588726,
     "geom:longitude":-116.281661,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1635 S Ash Park Ln",
     "sg:city":"Boise",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":185723489,
-    "wof:lastmodified":1449007553,
+    "wof:lastmodified":1466487709,
     "wof:name":"M H Construction",
     "wof:parent_id":85876321,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "contractor"
     ]
 },
-  "bbox": [-116.281661,43.588726,-116.281661,43.588726],
+  "bbox": [
+    -116.281661,
+    43.588726,
+    -116.281661,
+    43.588726
+],
   "geometry": {"coordinates":[-116.281661,43.588726],"type":"Point"}
 }

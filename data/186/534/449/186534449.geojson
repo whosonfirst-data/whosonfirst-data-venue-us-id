@@ -2,13 +2,14 @@
   "id": 186534449,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.29744,43.886434,-112.29744,43.886434",
     "geom:latitude":43.886434,
     "geom:longitude":-112.29744,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1806 N 2000 E",
     "sg:city":"Hamer",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":186534449,
-    "wof:lastmodified":1449051091,
+    "wof:lastmodified":1466488876,
     "wof:name":"Carl Lundholm",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "general"
     ]
 },
-  "bbox": [-112.29744,43.886434,-112.29744,43.886434],
-  "geometry": {"coordinates":[-112.29744,43.886434],"type":"Point"}
+  "bbox": [
+    -112.29744,
+    43.886434,
+    -112.29744,
+    43.886434
+],
+  "geometry": {"coordinates":[-112.29743999999999,43.886434],"type":"Point"}
 }

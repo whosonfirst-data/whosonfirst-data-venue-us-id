@@ -2,13 +2,14 @@
   "id": 169796609,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-113.674823,42.613532,-113.674823,42.613532",
     "geom:latitude":42.613532,
     "geom:longitude":-113.674823,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"280 E Hwy 24",
     "sg:city":"Rupert",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":169796609,
-    "wof:lastmodified":1449034233,
+    "wof:lastmodified":1466488502,
     "wof:name":"Cycle City",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "scooter"
     ]
 },
-  "bbox": [-113.674823,42.613532,-113.674823,42.613532],
+  "bbox": [
+    -113.674823,
+    42.613532,
+    -113.674823,
+    42.613532
+],
   "geometry": {"coordinates":[-113.674823,42.613532],"type":"Point"}
 }

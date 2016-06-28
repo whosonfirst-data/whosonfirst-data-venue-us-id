@@ -2,13 +2,14 @@
   "id": 186025587,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-113.894689,45.175847,-113.894689,45.175847",
     "geom:latitude":45.175847,
     "geom:longitude":-113.894689,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"503 Main St",
     "sg:city":"Salmon",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":186025587,
-    "wof:lastmodified":1449052565,
+    "wof:lastmodified":1466487028,
     "wof:name":"Krasowski Jewelry",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "jeweler"
     ]
 },
-  "bbox": [-113.894689,45.175847,-113.894689,45.175847],
+  "bbox": [
+    -113.894689,
+    45.175847,
+    -113.894689,
+    45.175847
+],
   "geometry": {"coordinates":[-113.894689,45.175847],"type":"Point"}
 }

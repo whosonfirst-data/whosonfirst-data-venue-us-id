@@ -2,13 +2,14 @@
   "id": 185931577,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.187804,42.475176,-114.187804,42.475176",
     "geom:latitude":42.475176,
     "geom:longitude":-114.187804,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4418 E 3300 N",
     "sg:city":"Murtaugh",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":185931577,
-    "wof:lastmodified":1449008074,
+    "wof:lastmodified":1466488627,
     "wof:name":"Cummins Farms",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-114.187804,42.475176,-114.187804,42.475176],
+  "bbox": [
+    -114.187804,
+    42.475176,
+    -114.187804,
+    42.475176
+],
   "geometry": {"coordinates":[-114.187804,42.475176],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186275823,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.195564,43.546059,-116.195564,43.546059",
     "geom:latitude":43.546059,
     "geom:longitude":-116.195564,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1337 Lake Hazel Ln",
     "sg:city":"Boise",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186275823,
-    "wof:lastmodified":1449051251,
+    "wof:lastmodified":1466488641,
     "wof:name":"Young's Heavy Equipment",
     "wof:parent_id":85876329,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "sandblasting"
     ]
 },
-  "bbox": [-116.195564,43.546059,-116.195564,43.546059],
+  "bbox": [
+    -116.195564,
+    43.546059,
+    -116.195564,
+    43.546059
+],
   "geometry": {"coordinates":[-116.195564,43.546059],"type":"Point"}
 }

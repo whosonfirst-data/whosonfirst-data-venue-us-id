@@ -2,13 +2,14 @@
   "id": 169731323,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.093472,43.388729,-112.093472,43.388729",
     "geom:latitude":43.388729,
     "geom:longitude":-112.093472,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1349 N 950 E",
     "sg:city":"Shelley",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":169731323,
-    "wof:lastmodified":1449035585,
+    "wof:lastmodified":1466488289,
     "wof:name":"Inspect It First Property",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.093472,43.388729,-112.093472,43.388729],
-  "geometry": {"coordinates":[-112.093472,43.388729],"type":"Point"}
+  "bbox": [
+    -112.093472,
+    43.388729,
+    -112.093472,
+    43.388729
+],
+  "geometry": {"coordinates":[-112.09347200000001,43.388729],"type":"Point"}
 }

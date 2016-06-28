@@ -2,13 +2,14 @@
   "id": 320533609,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.380722,43.60656,-116.380722,43.60656",
     "geom:latitude":43.60656,
     "geom:longitude":-116.380722,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"200 N Baltic Pl",
     "sg:city":"Meridian",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":320533609,
-    "wof:lastmodified":1449011215,
+    "wof:lastmodified":1466488380,
     "wof:name":"Scott's Lawn Service",
     "wof:parent_id":85805083,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "maintenance"
     ]
 },
-  "bbox": [-116.380722,43.60656,-116.380722,43.60656],
-  "geometry": {"coordinates":[-116.380722,43.60656],"type":"Point"}
+  "bbox": [
+    -116.380722,
+    43.60656,
+    -116.380722,
+    43.60656
+],
+  "geometry": {"coordinates":[-116.38072200000001,43.60656],"type":"Point"}
 }

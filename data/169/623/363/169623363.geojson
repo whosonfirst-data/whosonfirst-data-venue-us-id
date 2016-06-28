@@ -2,13 +2,14 @@
   "id": 169623363,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.605672,43.57587,-116.605672,43.57587",
     "geom:latitude":43.57587,
     "geom:longitude":-116.605672,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2009 Lone Star Rd",
     "sg:city":"Nampa",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":169623363,
-    "wof:lastmodified":1449035000,
+    "wof:lastmodified":1466487173,
     "wof:name":"Petra Custom Earthworks",
     "wof:parent_id":85827787,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-116.605672,43.57587,-116.605672,43.57587],
+  "bbox": [
+    -116.605672,
+    43.57587,
+    -116.605672,
+    43.57587
+],
   "geometry": {"coordinates":[-116.605672,43.57587],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169801773,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.181401,43.584576,-116.181401,43.584576",
     "geom:latitude":43.584576,
     "geom:longitude":-116.181401,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"150 E Boise Ave",
     "sg:city":"Boise",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":169801773,
-    "wof:lastmodified":1449035377,
+    "wof:lastmodified":1466488600,
     "wof:name":"Pennsylvania Dental",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "dentist"
     ]
 },
-  "bbox": [-116.181401,43.584576,-116.181401,43.584576],
-  "geometry": {"coordinates":[-116.181401,43.584576],"type":"Point"}
+  "bbox": [
+    -116.181401,
+    43.584576,
+    -116.181401,
+    43.584576
+],
+  "geometry": {"coordinates":[-116.18140099999999,43.584576],"type":"Point"}
 }

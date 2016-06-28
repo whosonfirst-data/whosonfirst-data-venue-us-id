@@ -2,13 +2,14 @@
   "id": 186243699,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-117.000008,46.733756,-117.000008,46.733756",
     "geom:latitude":46.733756,
     "geom:longitude":-117.000008,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"204 E 1st St",
     "sg:city":"Moscow",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":186243699,
-    "wof:lastmodified":1449051261,
+    "wof:lastmodified":1466488581,
     "wof:name":"D Ray Barker Law Office",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "attorney"
     ]
 },
-  "bbox": [-117.000008,46.733756,-117.000008,46.733756],
-  "geometry": {"coordinates":[-117.000008,46.733756],"type":"Point"}
+  "bbox": [
+    -117.000008,
+    46.733756,
+    -117.000008,
+    46.733756
+],
+  "geometry": {"coordinates":[-117.00000799999999,46.733756],"type":"Point"}
 }

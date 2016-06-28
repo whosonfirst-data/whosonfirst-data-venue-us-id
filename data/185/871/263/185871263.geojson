@@ -2,13 +2,14 @@
   "id": 185871263,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.507245,43.180929,-112.507245,43.180929",
     "geom:latitude":43.180929,
     "geom:longitude":-112.507245,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1060 W 110 S",
     "sg:city":"Blackfoot",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":185871263,
-    "wof:lastmodified":1449007123,
+    "wof:lastmodified":1466488512,
     "wof:name":"Snake River Middle School",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.507245,43.180929,-112.507245,43.180929],
+  "bbox": [
+    -112.507245,
+    43.180929,
+    -112.507245,
+    43.180929
+],
   "geometry": {"coordinates":[-112.507245,43.180929],"type":"Point"}
 }

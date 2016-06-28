@@ -2,13 +2,14 @@
   "id": 186206131,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.922626,47.710713,-116.922626,47.710713",
     "geom:latitude":47.710713,
     "geom:longitude":-116.922626,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1600 E Seltice Way",
     "sg:city":"Post Falls",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":186206131,
-    "wof:lastmodified":1449052197,
+    "wof:lastmodified":1466488422,
     "wof:name":"Real Life Ministries Thrift Sh",
     "wof:parent_id":85833263,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "thrift"
     ]
 },
-  "bbox": [-116.922626,47.710713,-116.922626,47.710713],
-  "geometry": {"coordinates":[-116.922626,47.710713],"type":"Point"}
+  "bbox": [
+    -116.922626,
+    47.710713,
+    -116.922626,
+    47.710713
+],
+  "geometry": {"coordinates":[-116.92262599999999,47.710713],"type":"Point"}
 }

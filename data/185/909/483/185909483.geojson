@@ -2,13 +2,14 @@
   "id": 185909483,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.571292,43.561309,-116.571292,43.561309",
     "geom:latitude":43.561309,
     "geom:longitude":-116.571292,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"223 E Amity Ave",
     "sg:city":"Nampa",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":185909483,
-    "wof:lastmodified":1449007819,
+    "wof:lastmodified":1466488585,
     "wof:name":"Real Estate Unlimited Inc",
     "wof:parent_id":85827787,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-116.571292,43.561309,-116.571292,43.561309],
+  "bbox": [
+    -116.571292,
+    43.561309,
+    -116.571292,
+    43.561309
+],
   "geometry": {"coordinates":[-116.571292,43.561309],"type":"Point"}
 }

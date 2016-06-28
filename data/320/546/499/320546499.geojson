@@ -2,13 +2,14 @@
   "id": 320546499,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.990279,46.722757,-116.990279,46.722757",
     "geom:latitude":46.722757,
     "geom:longitude":-116.990279,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"863 E White Ave",
     "sg:city":"Moscow",
     "sg:classifiers":[
@@ -66,10 +67,11 @@
         }
     ],
     "wof:id":320546499,
-    "wof:lastmodified":1449011252,
+    "wof:lastmodified":1466487002,
     "wof:name":"Pat's Saw & Lawn Equipment",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -82,6 +84,11 @@
         "store"
     ]
 },
-  "bbox": [-116.990279,46.722757,-116.990279,46.722757],
+  "bbox": [
+    -116.990279,
+    46.722757,
+    -116.990279,
+    46.722757
+],
   "geometry": {"coordinates":[-116.990279,46.722757],"type":"Point"}
 }

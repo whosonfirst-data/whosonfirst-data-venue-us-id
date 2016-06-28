@@ -2,13 +2,14 @@
   "id": 169633473,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-117.021701,46.420741,-117.021701,46.420741",
     "geom:latitude":46.420741,
     "geom:longitude":-117.021701,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"907 D St",
     "sg:city":"Lewiston",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":169633473,
-    "wof:lastmodified":1449035937,
+    "wof:lastmodified":1466487333,
     "wof:name":"SCI Enterprises",
     "wof:parent_id":85837769,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "tub"
     ]
 },
-  "bbox": [-117.021701,46.420741,-117.021701,46.420741],
-  "geometry": {"coordinates":[-117.021701,46.420741],"type":"Point"}
+  "bbox": [
+    -117.021701,
+    46.420741,
+    -117.021701,
+    46.420741
+],
+  "geometry": {"coordinates":[-117.02170099999999,46.420741],"type":"Point"}
 }

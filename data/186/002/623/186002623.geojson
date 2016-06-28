@@ -2,13 +2,14 @@
   "id": 186002623,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.194252,42.653596,-112.194252,42.653596",
     "geom:latitude":42.653596,
     "geom:longitude":-112.194252,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"302 Center St",
     "sg:city":"Mccammon",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":186002623,
-    "wof:lastmodified":1449052526,
+    "wof:lastmodified":1466487805,
     "wof:name":"Mc Cammon City Office",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "village"
     ]
 },
-  "bbox": [-112.194252,42.653596,-112.194252,42.653596],
-  "geometry": {"coordinates":[-112.194252,42.653596],"type":"Point"}
+  "bbox": [
+    -112.194252,
+    42.653596,
+    -112.194252,
+    42.653596
+],
+  "geometry": {"coordinates":[-112.19425200000001,42.653596],"type":"Point"}
 }

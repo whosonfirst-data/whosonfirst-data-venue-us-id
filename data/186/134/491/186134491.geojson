@@ -2,13 +2,14 @@
   "id": 186134491,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.607799,46.758038,-116.607799,46.758038",
     "geom:latitude":46.758038,
     "geom:longitude":-116.607799,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1420 Johnson Rd",
     "sg:city":"Deary",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":186134491,
-    "wof:lastmodified":1449052884,
+    "wof:lastmodified":1466488461,
     "wof:name":"Swanson Construction",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "house"
     ]
 },
-  "bbox": [-116.607799,46.758038,-116.607799,46.758038],
+  "bbox": [
+    -116.607799,
+    46.758038,
+    -116.607799,
+    46.758038
+],
   "geometry": {"coordinates":[-116.607799,46.758038],"type":"Point"}
 }

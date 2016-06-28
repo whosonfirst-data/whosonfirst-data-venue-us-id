@@ -2,13 +2,14 @@
   "id": 185719693,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.825028,47.759221,-116.825028,47.759221",
     "geom:latitude":47.759221,
     "geom:longitude":-116.825028,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2815 W Hayden Ave",
     "sg:city":"Hayden",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":185719693,
-    "wof:lastmodified":1449006808,
+    "wof:lastmodified":1466487679,
     "wof:name":"Hayden Avenue Self Storage",
     "wof:parent_id":85821457,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "storage"
     ]
 },
-  "bbox": [-116.825028,47.759221,-116.825028,47.759221],
+  "bbox": [
+    -116.825028,
+    47.759221,
+    -116.825028,
+    47.759221
+],
   "geometry": {"coordinates":[-116.825028,47.759221],"type":"Point"}
 }

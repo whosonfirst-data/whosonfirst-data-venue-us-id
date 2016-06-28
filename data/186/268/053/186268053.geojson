@@ -2,13 +2,14 @@
   "id": 186268053,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.46059,43.886431,-116.46059,43.886431",
     "geom:latitude":43.886431,
     "geom:longitude":-116.46059,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2588 Waterwheel Rd",
     "sg:city":"Emmett",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":186268053,
-    "wof:lastmodified":1449051903,
+    "wof:lastmodified":1466488620,
     "wof:name":"Animal Medical Ctr",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "veterinarian"
     ]
 },
-  "bbox": [-116.46059,43.886431,-116.46059,43.886431],
+  "bbox": [
+    -116.46059,
+    43.886431,
+    -116.46059,
+    43.886431
+],
   "geometry": {"coordinates":[-116.46059,43.886431],"type":"Point"}
 }

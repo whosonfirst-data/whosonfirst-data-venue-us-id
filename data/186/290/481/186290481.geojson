@@ -2,13 +2,14 @@
   "id": 186290481,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.131738,43.864556,-111.131738,43.864556",
     "geom:latitude":43.864556,
     "geom:longitude":-111.131738,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"166 W 1000 N",
     "sg:city":"Tetonia",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":186290481,
-    "wof:lastmodified":1449051527,
+    "wof:lastmodified":1466488663,
     "wof:name":"Ricks Outdoor Learning Center",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.131738,43.864556,-111.131738,43.864556],
+  "bbox": [
+    -111.131738,
+    43.864556,
+    -111.131738,
+    43.864556
+],
   "geometry": {"coordinates":[-111.131738,43.864556],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169742293,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.272097,43.665879,-116.272097,43.665879",
     "geom:latitude":43.665879,
     "geom:longitude":-116.272097,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5269 N Edenburgh Way",
     "sg:city":"Boise",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":169742293,
-    "wof:lastmodified":1449032898,
+    "wof:lastmodified":1466488328,
     "wof:name":"Air Pro Heating & Air Cond",
     "wof:parent_id":85811879,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "contractor"
     ]
 },
-  "bbox": [-116.272097,43.665879,-116.272097,43.665879],
+  "bbox": [
+    -116.272097,
+    43.665879,
+    -116.272097,
+    43.665879
+],
   "geometry": {"coordinates":[-116.272097,43.665879],"type":"Point"}
 }

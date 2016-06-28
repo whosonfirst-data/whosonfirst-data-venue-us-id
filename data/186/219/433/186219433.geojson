@@ -2,13 +2,14 @@
   "id": 186219433,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.283591,46.493504,-116.283591,46.493504",
     "geom:latitude":46.493504,
     "geom:longitude":-116.283591,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10290 US Hwy 12",
     "sg:city":"Orofino",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":186219433,
-    "wof:lastmodified":1449052925,
+    "wof:lastmodified":1466488534,
     "wof:name":"Jumpin' Java",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "coffee"
     ]
 },
-  "bbox": [-116.283591,46.493504,-116.283591,46.493504],
+  "bbox": [
+    -116.283591,
+    46.493504,
+    -116.283591,
+    46.493504
+],
   "geometry": {"coordinates":[-116.283591,46.493504],"type":"Point"}
 }

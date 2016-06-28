@@ -2,13 +2,14 @@
   "id": 185971359,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.246626,43.586103,-116.246626,43.586103",
     "geom:latitude":43.586103,
     "geom:longitude":-116.246626,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5213 Spaulding St",
     "sg:city":"Boise",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":185971359,
-    "wof:lastmodified":1449007445,
+    "wof:lastmodified":1466488701,
     "wof:name":"Cashs Day Care",
     "wof:parent_id":85825393,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "day"
     ]
 },
-  "bbox": [-116.246626,43.586103,-116.246626,43.586103],
-  "geometry": {"coordinates":[-116.246626,43.586103],"type":"Point"}
+  "bbox": [
+    -116.246626,
+    43.586103,
+    -116.246626,
+    43.586103
+],
+  "geometry": {"coordinates":[-116.24662600000001,43.586103],"type":"Point"}
 }

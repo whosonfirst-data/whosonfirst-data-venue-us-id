@@ -2,13 +2,14 @@
   "id": 169830737,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.469845,42.901737,-112.469845,42.901737",
     "geom:latitude":42.901737,
     "geom:longitude":-112.469845,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3724 Flamingo Pl",
     "sg:city":"Pocatello",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":169830737,
-    "wof:lastmodified":1449033384,
+    "wof:lastmodified":1466488594,
     "wof:name":"Cindy L Stewart",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "document"
     ]
 },
-  "bbox": [-112.469845,42.901737,-112.469845,42.901737],
-  "geometry": {"coordinates":[-112.469845,42.901737],"type":"Point"}
+  "bbox": [
+    -112.469845,
+    42.901737,
+    -112.469845,
+    42.901737
+],
+  "geometry": {"coordinates":[-112.46984500000001,42.901737],"type":"Point"}
 }

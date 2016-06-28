@@ -2,13 +2,14 @@
   "id": 186400517,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.210241,43.621233,-116.210241,43.621233",
     "geom:latitude":43.621233,
     "geom:longitude":-116.210241,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1407 W Bannock St",
     "sg:city":"Boise",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":186400517,
-    "wof:lastmodified":1449050502,
+    "wof:lastmodified":1466488696,
     "wof:name":"Scottish Rite Learning Program",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "educational"
     ]
 },
-  "bbox": [-116.210241,43.621233,-116.210241,43.621233],
+  "bbox": [
+    -116.210241,
+    43.621233,
+    -116.210241,
+    43.621233
+],
   "geometry": {"coordinates":[-116.210241,43.621233],"type":"Point"}
 }

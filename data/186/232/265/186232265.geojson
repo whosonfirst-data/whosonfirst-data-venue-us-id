@@ -2,13 +2,14 @@
   "id": 186232265,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.203006,43.617717,-116.203006,43.617717",
     "geom:latitude":43.617717,
     "geom:longitude":-116.203006,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"816 W Bannock St",
     "sg:city":"Boise",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186232265,
-    "wof:lastmodified":1449051252,
+    "wof:lastmodified":1466488563,
     "wof:name":"Dougherty Investment Group",
     "wof:parent_id":85876341,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "bond"
     ]
 },
-  "bbox": [-116.203006,43.617717,-116.203006,43.617717],
+  "bbox": [
+    -116.203006,
+    43.617717,
+    -116.203006,
+    43.617717
+],
   "geometry": {"coordinates":[-116.203006,43.617717],"type":"Point"}
 }

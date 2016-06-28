@@ -2,13 +2,14 @@
   "id": 186031621,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.563025,43.603761,-116.563025,43.603761",
     "geom:latitude":43.603761,
     "geom:longitude":-116.563025,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2006 Madison Ave",
     "sg:city":"Nampa",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186031621,
-    "wof:lastmodified":1449051378,
+    "wof:lastmodified":1466487100,
     "wof:name":"Fairly Baking Group",
     "wof:parent_id":85827787,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "baker"
     ]
 },
-  "bbox": [-116.563025,43.603761,-116.563025,43.603761],
+  "bbox": [
+    -116.563025,
+    43.603761,
+    -116.563025,
+    43.603761
+],
   "geometry": {"coordinates":[-116.563025,43.603761],"type":"Point"}
 }

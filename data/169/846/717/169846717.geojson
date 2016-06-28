@@ -2,13 +2,14 @@
   "id": 169846717,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.362227,43.179887,-112.362227,43.179887",
     "geom:latitude":43.179887,
     "geom:longitude":-112.362227,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1418 Surrey Ct",
     "sg:city":"Blackfoot",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":169846717,
-    "wof:lastmodified":1449035216,
+    "wof:lastmodified":1466488617,
     "wof:name":"Robert W Smith and Catherine B",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.362227,43.179887,-112.362227,43.179887],
+  "bbox": [
+    -112.362227,
+    43.179887,
+    -112.362227,
+    43.179887
+],
   "geometry": {"coordinates":[-112.362227,43.179887],"type":"Point"}
 }

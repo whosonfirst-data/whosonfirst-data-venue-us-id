@@ -2,13 +2,14 @@
   "id": 186526085,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.994189,46.657747,-116.994189,46.657747",
     "geom:latitude":46.657747,
     "geom:longitude":-116.994189,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1084 Eid Rd",
     "sg:city":"Moscow",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":186526085,
-    "wof:lastmodified":1449051196,
+    "wof:lastmodified":1466488929,
     "wof:name":"Latah Heavy Hauling",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "trucking"
     ]
 },
-  "bbox": [-116.994189,46.657747,-116.994189,46.657747],
-  "geometry": {"coordinates":[-116.994189,46.657747],"type":"Point"}
+  "bbox": [
+    -116.994189,
+    46.657747,
+    -116.994189,
+    46.657747
+],
+  "geometry": {"coordinates":[-116.99418900000001,46.657747],"type":"Point"}
 }

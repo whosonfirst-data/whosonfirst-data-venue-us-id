@@ -2,13 +2,14 @@
   "id": 185606191,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.490038,43.692074,-116.490038,43.692074",
     "geom:latitude":43.692074,
     "geom:longitude":-116.490038,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10836 W State St",
     "sg:city":"Star",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":185606191,
-    "wof:lastmodified":1449006862,
+    "wof:lastmodified":1466488314,
     "wof:name":"Blake Trailers",
     "wof:parent_id":85876351,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "trailer"
     ]
 },
-  "bbox": [-116.490038,43.692074,-116.490038,43.692074],
+  "bbox": [
+    -116.490038,
+    43.692074,
+    -116.490038,
+    43.692074
+],
   "geometry": {"coordinates":[-116.490038,43.692074],"type":"Point"}
 }

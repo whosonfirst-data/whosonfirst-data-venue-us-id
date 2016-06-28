@@ -2,13 +2,14 @@
   "id": 320543727,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.280889,43.669483,-116.280889,43.669483",
     "geom:latitude":43.669483,
     "geom:longitude":-116.280889,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7456 W State St",
     "sg:city":"Boise",
     "sg:classifiers":[
@@ -72,10 +73,11 @@
         }
     ],
     "wof:id":320543727,
-    "wof:lastmodified":1449011986,
+    "wof:lastmodified":1466486973,
     "wof:name":"T L C Home Healthcare Nursing",
     "wof:parent_id":85876315,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -88,6 +90,11 @@
         "eldercare-home"
     ]
 },
-  "bbox": [-116.280889,43.669483,-116.280889,43.669483],
+  "bbox": [
+    -116.280889,
+    43.669483,
+    -116.280889,
+    43.669483
+],
   "geometry": {"coordinates":[-116.280889,43.669483],"type":"Point"}
 }

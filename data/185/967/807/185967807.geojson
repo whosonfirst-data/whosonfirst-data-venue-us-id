@@ -2,13 +2,14 @@
   "id": 185967807,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.271765,43.629249,-116.271765,43.629249",
     "geom:latitude":43.629249,
     "geom:longitude":-116.271765,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2626 Eldorado St",
     "sg:city":"Boise",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":185967807,
-    "wof:lastmodified":1449008099,
+    "wof:lastmodified":1466488793,
     "wof:name":"Capitol Water Corp",
     "wof:parent_id":85841319,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "sewage"
     ]
 },
-  "bbox": [-116.271765,43.629249,-116.271765,43.629249],
+  "bbox": [
+    -116.271765,
+    43.629249,
+    -116.271765,
+    43.629249
+],
   "geometry": {"coordinates":[-116.271765,43.629249],"type":"Point"}
 }

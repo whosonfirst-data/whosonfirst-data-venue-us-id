@@ -2,13 +2,14 @@
   "id": 169607109,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-113.871633,45.337536,-113.871633,45.337536",
     "geom:latitude":45.337536,
     "geom:longitude":-113.871633,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"30 E Tower Creek Rd",
     "sg:city":"Carmen",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":169607109,
-    "wof:lastmodified":1449033121,
+    "wof:lastmodified":1466486913,
     "wof:name":"Lynn Davis",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-113.871633,45.337536,-113.871633,45.337536],
+  "bbox": [
+    -113.871633,
+    45.337536,
+    -113.871633,
+    45.337536
+],
   "geometry": {"coordinates":[-113.871633,45.337536],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169672091,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.429693,43.575605,-116.429693,43.575605",
     "geom:latitude":43.575605,
     "geom:longitude":-116.429693,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2999 W Victory Rd",
     "sg:city":"Meridian",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":169672091,
-    "wof:lastmodified":1449032888,
+    "wof:lastmodified":1466487907,
     "wof:name":"Pacific Construction Interiors",
     "wof:parent_id":85805083,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "damage"
     ]
 },
-  "bbox": [-116.429693,43.575605,-116.429693,43.575605],
+  "bbox": [
+    -116.429693,
+    43.575605,
+    -116.429693,
+    43.575605
+],
   "geometry": {"coordinates":[-116.429693,43.575605],"type":"Point"}
 }

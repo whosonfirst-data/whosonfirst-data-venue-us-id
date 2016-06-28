@@ -2,13 +2,14 @@
   "id": 186336271,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.940592,47.745118,-116.940592,47.745118",
     "geom:latitude":47.745118,
     "geom:longitude":-116.940592,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"11505 W Prairie Ave",
     "sg:city":"Post Falls",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":186336271,
-    "wof:lastmodified":1449050183,
+    "wof:lastmodified":1466488823,
     "wof:name":"Canfield Mountain Farm Inc",
     "wof:parent_id":85833263,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "horse"
     ]
 },
-  "bbox": [-116.940592,47.745118,-116.940592,47.745118],
+  "bbox": [
+    -116.940592,
+    47.745118,
+    -116.940592,
+    47.745118
+],
   "geometry": {"coordinates":[-116.940592,47.745118],"type":"Point"}
 }

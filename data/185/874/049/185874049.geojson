@@ -2,13 +2,14 @@
   "id": 185874049,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.27402,43.583882,-116.27402,43.583882",
     "geom:latitude":43.583882,
     "geom:longitude":-116.27402,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2202 Centurion Pl",
     "sg:city":"Boise",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":185874049,
-    "wof:lastmodified":1449008108,
+    "wof:lastmodified":1466488608,
     "wof:name":"Pacific Supply",
     "wof:parent_id":85876321,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "roofing"
     ]
 },
-  "bbox": [-116.27402,43.583882,-116.27402,43.583882],
-  "geometry": {"coordinates":[-116.27402,43.583882],"type":"Point"}
+  "bbox": [
+    -116.27402,
+    43.583882,
+    -116.27402,
+    43.583882
+],
+  "geometry": {"coordinates":[-116.27401999999999,43.583882],"type":"Point"}
 }

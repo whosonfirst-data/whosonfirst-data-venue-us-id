@@ -2,13 +2,14 @@
   "id": 185707785,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.345078,43.190169,-112.345078,43.190169",
     "geom:latitude":43.190169,
     "geom:longitude":-112.345078,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"180 N Broadway St",
     "sg:city":"Blackfoot",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":185707785,
-    "wof:lastmodified":1449007982,
+    "wof:lastmodified":1466487585,
     "wof:name":"Deaton & Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "accountant"
     ]
 },
-  "bbox": [-112.345078,43.190169,-112.345078,43.190169],
+  "bbox": [
+    -112.345078,
+    43.190169,
+    -112.345078,
+    43.190169
+],
   "geometry": {"coordinates":[-112.345078,43.190169],"type":"Point"}
 }

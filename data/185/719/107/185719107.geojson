@@ -2,13 +2,14 @@
   "id": 185719107,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.016743,43.471973,-112.016743,43.471973",
     "geom:latitude":43.471973,
     "geom:longitude":-112.016743,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"862 Cedar Ridge Dr",
     "sg:city":"Idaho Falls",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":185719107,
-    "wof:lastmodified":1449006807,
+    "wof:lastmodified":1466487675,
     "wof:name":"X Treme Audio & Customz",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "repair"
     ]
 },
-  "bbox": [-112.016743,43.471973,-112.016743,43.471973],
-  "geometry": {"coordinates":[-112.016743,43.471973],"type":"Point"}
+  "bbox": [
+    -112.016743,
+    43.471973,
+    -112.016743,
+    43.471973
+],
+  "geometry": {"coordinates":[-112.01674300000001,43.471973],"type":"Point"}
 }

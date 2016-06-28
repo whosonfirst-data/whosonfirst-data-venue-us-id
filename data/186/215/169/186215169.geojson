@@ -2,13 +2,14 @@
   "id": 186215169,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-113.781047,42.538035,-113.781047,42.538035",
     "geom:latitude":42.538035,
     "geom:longitude":-113.781047,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"948 E Main St",
     "sg:city":"Burley",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":186215169,
-    "wof:lastmodified":1449052543,
+    "wof:lastmodified":1466488613,
     "wof:name":"Lynn's Repair",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "automobile"
     ]
 },
-  "bbox": [-113.781047,42.538035,-113.781047,42.538035],
+  "bbox": [
+    -113.781047,
+    42.538035,
+    -113.781047,
+    42.538035
+],
   "geometry": {"coordinates":[-113.781047,42.538035],"type":"Point"}
 }

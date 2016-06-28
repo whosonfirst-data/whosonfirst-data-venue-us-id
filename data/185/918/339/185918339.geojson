@@ -2,13 +2,14 @@
   "id": 185918339,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.393625,43.617277,-116.393625,43.617277",
     "geom:latitude":43.617277,
     "geom:longitude":-116.393625,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1507 N Meridian Rd",
     "sg:city":"Meridian",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":185918339,
-    "wof:lastmodified":1449007680,
+    "wof:lastmodified":1466488675,
     "wof:name":"Meridian Gospel Tabernacle",
     "wof:parent_id":85811491,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-116.393625,43.617277,-116.393625,43.617277],
+  "bbox": [
+    -116.393625,
+    43.617277,
+    -116.393625,
+    43.617277
+],
   "geometry": {"coordinates":[-116.393625,43.617277],"type":"Point"}
 }

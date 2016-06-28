@@ -2,13 +2,14 @@
   "id": 185776039,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.247708,43.626634,-116.247708,43.626634",
     "geom:latitude":43.626634,
     "geom:longitude":-116.247708,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"214 W 39th St",
     "sg:city":"Boise",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":185776039,
-    "wof:lastmodified":1449006971,
+    "wof:lastmodified":1466488131,
     "wof:name":"Dr Floyd's Garage",
     "wof:parent_id":85876301,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "automobile"
     ]
 },
-  "bbox": [-116.247708,43.626634,-116.247708,43.626634],
+  "bbox": [
+    -116.247708,
+    43.626634,
+    -116.247708,
+    43.626634
+],
   "geometry": {"coordinates":[-116.247708,43.626634],"type":"Point"}
 }

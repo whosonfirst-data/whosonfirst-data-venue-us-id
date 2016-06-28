@@ -2,13 +2,14 @@
   "id": 185960175,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.106255,44.859903,-116.106255,44.859903",
     "geom:latitude":44.859903,
     "geom:longitude":-116.106255,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"14025 Norwood Rd",
     "sg:city":"Mccall",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":185960175,
-    "wof:lastmodified":1449007750,
+    "wof:lastmodified":1466488692,
     "wof:name":"Tony Meckel Excavating Backhoe",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "contractor"
     ]
 },
-  "bbox": [-116.106255,44.859903,-116.106255,44.859903],
+  "bbox": [
+    -116.106255,
+    44.859903,
+    -116.106255,
+    44.859903
+],
   "geometry": {"coordinates":[-116.106255,44.859903],"type":"Point"}
 }

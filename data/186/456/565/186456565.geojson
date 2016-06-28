@@ -2,13 +2,14 @@
   "id": 186456565,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.867007,47.81718,-116.867007,47.81718",
     "geom:latitude":47.81718,
     "geom:longitude":-116.867007,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6878 State Hwy 53",
     "sg:city":"Rathdrum",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":186456565,
-    "wof:lastmodified":1449051175,
+    "wof:lastmodified":1466488827,
     "wof:name":"Panhandle State Bank",
     "wof:parent_id":85821457,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-116.867007,47.81718,-116.867007,47.81718],
+  "bbox": [
+    -116.867007,
+    47.81718,
+    -116.867007,
+    47.81718
+],
   "geometry": {"coordinates":[-116.867007,47.81718],"type":"Point"}
 }

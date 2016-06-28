@@ -2,13 +2,14 @@
   "id": 186120901,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.793984,47.747207,-116.793984,47.747207",
     "geom:latitude":47.747207,
     "geom:longitude":-116.793984,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"680 W Capstone Ct",
     "sg:city":"Hayden",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":186120901,
-    "wof:lastmodified":1449052629,
+    "wof:lastmodified":1466488067,
     "wof:name":"Selkirk Custom Homes LLC",
     "wof:parent_id":85821457,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "builder"
     ]
 },
-  "bbox": [-116.793984,47.747207,-116.793984,47.747207],
-  "geometry": {"coordinates":[-116.793984,47.747207],"type":"Point"}
+  "bbox": [
+    -116.793984,
+    47.747207,
+    -116.793984,
+    47.747207
+],
+  "geometry": {"coordinates":[-116.79398399999999,47.747207],"type":"Point"}
 }

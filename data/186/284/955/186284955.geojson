@@ -2,13 +2,14 @@
   "id": 186284955,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.257756,43.563433,-116.257756,43.563433",
     "geom:latitude":43.563433,
     "geom:longitude":-116.257756,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4470 Henry St",
     "sg:city":"Boise",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186284955,
-    "wof:lastmodified":1449052029,
+    "wof:lastmodified":1466488720,
     "wof:name":"Boise Crane Inc",
     "wof:parent_id":85825393,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "crane"
     ]
 },
-  "bbox": [-116.257756,43.563433,-116.257756,43.563433],
+  "bbox": [
+    -116.257756,
+    43.563433,
+    -116.257756,
+    43.563433
+],
   "geometry": {"coordinates":[-116.257756,43.563433],"type":"Point"}
 }

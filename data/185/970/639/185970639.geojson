@@ -2,13 +2,14 @@
   "id": 185970639,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.028534,43.485624,-112.028534,43.485624",
     "geom:latitude":43.485624,
     "geom:longitude":-112.028534,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1365 S Emerson Ave",
     "sg:city":"Idaho Falls",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":185970639,
-    "wof:lastmodified":1449008164,
+    "wof:lastmodified":1466488792,
     "wof:name":"Advanced Netlink Computing",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.028534,43.485624,-112.028534,43.485624],
-  "geometry": {"coordinates":[-112.028534,43.485624],"type":"Point"}
+  "bbox": [
+    -112.028534,
+    43.485624,
+    -112.028534,
+    43.485624
+],
+  "geometry": {"coordinates":[-112.02853399999999,43.485624],"type":"Point"}
 }

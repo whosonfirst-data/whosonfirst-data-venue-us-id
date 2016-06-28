@@ -2,13 +2,14 @@
   "id": 186068303,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.20821,43.638946,-116.20821,43.638946",
     "geom:latitude":43.638946,
     "geom:longitude":-116.20821,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2114 Harrison Blvd",
     "sg:city":"Boise",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186068303,
-    "wof:lastmodified":1449051747,
+    "wof:lastmodified":1466487522,
     "wof:name":"Merit Financial Inc",
     "wof:parent_id":85876313,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "real estate"
     ]
 },
-  "bbox": [-116.20821,43.638946,-116.20821,43.638946],
-  "geometry": {"coordinates":[-116.20821,43.638946],"type":"Point"}
+  "bbox": [
+    -116.20821,
+    43.638946,
+    -116.20821,
+    43.638946
+],
+  "geometry": {"coordinates":[-116.20820999999999,43.638946],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 185653725,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.117271,45.925238,-116.117271,45.925238",
     "geom:latitude":45.925238,
     "geom:longitude":-116.117271,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"247 E Main St",
     "sg:city":"Grangeville",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":185653725,
-    "wof:lastmodified":1449006721,
+    "wof:lastmodified":1466487169,
     "wof:name":"Rae Brothers Sporting Goods",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-116.117271,45.925238,-116.117271,45.925238],
+  "bbox": [
+    -116.117271,
+    45.925238,
+    -116.117271,
+    45.925238
+],
   "geometry": {"coordinates":[-116.117271,45.925238],"type":"Point"}
 }

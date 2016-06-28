@@ -2,13 +2,14 @@
   "id": 186243063,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.253466,46.479946,-116.253466,46.479946",
     "geom:latitude":46.479946,
     "geom:longitude":-116.253466,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"150 Michigan Ave",
     "sg:city":"Orofino",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":186243063,
-    "wof:lastmodified":1449051260,
+    "wof:lastmodified":1466488575,
     "wof:name":"Clearwater Cnty Auto Licensing",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-116.253466,46.479946,-116.253466,46.479946],
+  "bbox": [
+    -116.253466,
+    46.479946,
+    -116.253466,
+    46.479946
+],
   "geometry": {"coordinates":[-116.253466,46.479946],"type":"Point"}
 }

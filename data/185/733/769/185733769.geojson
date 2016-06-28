@@ -2,13 +2,14 @@
   "id": 185733769,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.038935,43.493029,-112.038935,43.493029",
     "geom:latitude":43.493029,
     "geom:longitude":-112.038935,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"402 Shoup Ave",
     "sg:city":"Idaho Falls",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":185733769,
-    "wof:lastmodified":1449006826,
+    "wof:lastmodified":1466487790,
     "wof:name":"Center For Health Resources",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.038935,43.493029,-112.038935,43.493029],
+  "bbox": [
+    -112.038935,
+    43.493029,
+    -112.038935,
+    43.493029
+],
   "geometry": {"coordinates":[-112.038935,43.493029],"type":"Point"}
 }

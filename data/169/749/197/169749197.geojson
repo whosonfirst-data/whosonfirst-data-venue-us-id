@@ -2,13 +2,14 @@
   "id": 169749197,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.789471,47.76392,-116.789471,47.76392",
     "geom:latitude":47.76392,
     "geom:longitude":-116.789471,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10142 N Taryne St",
     "sg:city":"Hayden",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":169749197,
-    "wof:lastmodified":1449033623,
+    "wof:lastmodified":1466488421,
     "wof:name":"Cire-Perdue Casting Inc",
     "wof:parent_id":85821457,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "bronze"
     ]
 },
-  "bbox": [-116.789471,47.76392,-116.789471,47.76392],
-  "geometry": {"coordinates":[-116.789471,47.76392],"type":"Point"}
+  "bbox": [
+    -116.789471,
+    47.76392,
+    -116.789471,
+    47.76392
+],
+  "geometry": {"coordinates":[-116.78947100000001,47.76392],"type":"Point"}
 }

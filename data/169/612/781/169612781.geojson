@@ -2,13 +2,14 @@
   "id": 169612781,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.533593,43.390034,-116.533593,43.390034",
     "geom:latitude":43.390034,
     "geom:longitude":-116.533593,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1033 Southside Blvd",
     "sg:city":"Melba",
     "sg:classifiers":[
@@ -57,10 +58,11 @@
         }
     ],
     "wof:id":169612781,
-    "wof:lastmodified":1449034130,
+    "wof:lastmodified":1466487002,
     "wof:name":"Mystic Express Inc",
     "wof:parent_id":85827787,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -68,6 +70,11 @@
         "business"
     ]
 },
-  "bbox": [-116.533593,43.390034,-116.533593,43.390034],
+  "bbox": [
+    -116.533593,
+    43.390034,
+    -116.533593,
+    43.390034
+],
   "geometry": {"coordinates":[-116.533593,43.390034],"type":"Point"}
 }

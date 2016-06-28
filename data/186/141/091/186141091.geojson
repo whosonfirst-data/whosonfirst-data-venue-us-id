@@ -2,13 +2,14 @@
   "id": 186141091,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.173931,43.57091,-116.173931,43.57091",
     "geom:latitude":43.57091,
     "geom:longitude":-116.173931,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3466 S Pimmit Ave",
     "sg:city":"Boise",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":186141091,
-    "wof:lastmodified":1449051331,
+    "wof:lastmodified":1466488234,
     "wof:name":"R & E Zahara Trucking",
     "wof:parent_id":85876329,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "trucking"
     ]
 },
-  "bbox": [-116.173931,43.57091,-116.173931,43.57091],
+  "bbox": [
+    -116.173931,
+    43.57091,
+    -116.173931,
+    43.57091
+],
   "geometry": {"coordinates":[-116.173931,43.57091],"type":"Point"}
 }

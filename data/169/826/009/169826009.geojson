@@ -2,13 +2,14 @@
   "id": 169826009,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.59105,43.597629,-116.59105,43.597629",
     "geom:latitude":43.597629,
     "geom:longitude":-116.59105,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"816 Caldwell Blvd",
     "sg:city":"Nampa",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":169826009,
-    "wof:lastmodified":1449035073,
+    "wof:lastmodified":1466488498,
     "wof:name":"Hair 2",
     "wof:parent_id":85827787,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-116.59105,43.597629,-116.59105,43.597629],
+  "bbox": [
+    -116.59105,
+    43.597629,
+    -116.59105,
+    43.597629
+],
   "geometry": {"coordinates":[-116.59105,43.597629],"type":"Point"}
 }

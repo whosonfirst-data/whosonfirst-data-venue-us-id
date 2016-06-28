@@ -2,13 +2,14 @@
   "id": 185919593,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.866436,47.817184,-116.866436,47.817184",
     "geom:latitude":47.817184,
     "geom:longitude":-116.866436,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7006 State Hwy 53",
     "sg:city":"Rathdrum",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":185919593,
-    "wof:lastmodified":1449007831,
+    "wof:lastmodified":1466488598,
     "wof:name":"Lakeland Senior High School",
     "wof:parent_id":85821457,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-116.866436,47.817184,-116.866436,47.817184],
-  "geometry": {"coordinates":[-116.866436,47.817184],"type":"Point"}
+  "bbox": [
+    -116.866436,
+    47.817184,
+    -116.866436,
+    47.817184
+],
+  "geometry": {"coordinates":[-116.86643599999999,47.817184],"type":"Point"}
 }

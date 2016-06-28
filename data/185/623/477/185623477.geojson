@@ -2,13 +2,14 @@
   "id": 185623477,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.510509,43.586849,-116.510509,43.586849",
     "geom:latitude":43.586849,
     "geom:longitude":-116.510509,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4922 Airport Rd",
     "sg:city":"Nampa",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":185623477,
-    "wof:lastmodified":1449007726,
+    "wof:lastmodified":1466486941,
     "wof:name":"JKS Enterprises",
     "wof:parent_id":85827787,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "operator"
     ]
 },
-  "bbox": [-116.510509,43.586849,-116.510509,43.586849],
+  "bbox": [
+    -116.510509,
+    43.586849,
+    -116.510509,
+    43.586849
+],
   "geometry": {"coordinates":[-116.510509,43.586849],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 185753015,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.23824,43.620255,-116.23824,43.620255",
     "geom:latitude":43.620255,
     "geom:longitude":-116.23824,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3132 Brown St",
     "sg:city":"Boise",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":185753015,
-    "wof:lastmodified":1449006792,
+    "wof:lastmodified":1466487948,
     "wof:name":"AEC Electric",
     "wof:parent_id":85876301,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -66,6 +68,11 @@
         "radio"
     ]
 },
-  "bbox": [-116.23824,43.620255,-116.23824,43.620255],
+  "bbox": [
+    -116.23824,
+    43.620255,
+    -116.23824,
+    43.620255
+],
   "geometry": {"coordinates":[-116.23824,43.620255],"type":"Point"}
 }

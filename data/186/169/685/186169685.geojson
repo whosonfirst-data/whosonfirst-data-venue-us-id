@@ -2,13 +2,14 @@
   "id": 186169685,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.343092,43.694074,-116.343092,43.694074",
     "geom:latitude":43.694074,
     "geom:longitude":-116.343092,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"827 E State St",
     "sg:city":"Eagle",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186169685,
-    "wof:lastmodified":1449052019,
+    "wof:lastmodified":1466488429,
     "wof:name":"Eagle Mini Storage",
     "wof:parent_id":85876351,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "storage"
     ]
 },
-  "bbox": [-116.343092,43.694074,-116.343092,43.694074],
+  "bbox": [
+    -116.343092,
+    43.694074,
+    -116.343092,
+    43.694074
+],
   "geometry": {"coordinates":[-116.343092,43.694074],"type":"Point"}
 }

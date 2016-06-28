@@ -2,13 +2,14 @@
   "id": 320525573,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.983528,46.385841,-116.983528,46.385841",
     "geom:latitude":46.385841,
     "geom:longitude":-116.983528,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"229 Thain Rd",
     "sg:city":"Lewiston",
     "sg:classifiers":[
@@ -68,10 +69,11 @@
         }
     ],
     "wof:id":320525573,
-    "wof:lastmodified":1449014189,
+    "wof:lastmodified":1466487268,
     "wof:name":"Lewis Clark Property Management Service",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -80,6 +82,11 @@
         "rental"
     ]
 },
-  "bbox": [-116.983528,46.385841,-116.983528,46.385841],
-  "geometry": {"coordinates":[-116.983528,46.385841],"type":"Point"}
+  "bbox": [
+    -116.983528,
+    46.385841,
+    -116.983528,
+    46.385841
+],
+  "geometry": {"coordinates":[-116.98352800000001,46.385841],"type":"Point"}
 }

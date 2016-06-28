@@ -2,13 +2,14 @@
   "id": 185789779,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.472666,43.85993,-116.472666,43.85993",
     "geom:latitude":43.85993,
     "geom:longitude":-116.472666,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2386 S Sub Station Rd",
     "sg:city":"Emmett",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":185789779,
-    "wof:lastmodified":1449007340,
+    "wof:lastmodified":1466488232,
     "wof:name":"A Head Of Our Time Salon",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "shop"
     ]
 },
-  "bbox": [-116.472666,43.85993,-116.472666,43.85993],
+  "bbox": [
+    -116.472666,
+    43.85993,
+    -116.472666,
+    43.85993
+],
   "geometry": {"coordinates":[-116.472666,43.85993],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169828017,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.795033,47.733247,-116.795033,47.733247",
     "geom:latitude":47.733247,
     "geom:longitude":-116.795033,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"460 W Canfield Ave",
     "sg:city":"Coeur D Alene",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":169828017,
-    "wof:lastmodified":1449034356,
+    "wof:lastmodified":1466488584,
     "wof:name":"Clark Anderson Mc Nelis & Co",
     "wof:parent_id":85821457,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "accountant"
     ]
 },
-  "bbox": [-116.795033,47.733247,-116.795033,47.733247],
+  "bbox": [
+    -116.795033,
+    47.733247,
+    -116.795033,
+    47.733247
+],
   "geometry": {"coordinates":[-116.795033,47.733247],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186359707,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.2757,43.67111,-116.2757,43.67111",
     "geom:latitude":43.67111,
     "geom:longitude":-116.2757,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6937 W Parapet Ct",
     "sg:city":"Boise",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":186359707,
-    "wof:lastmodified":1449050202,
+    "wof:lastmodified":1466488757,
     "wof:name":"Ron Crow Land Development",
     "wof:parent_id":85811879,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-116.2757,43.67111,-116.2757,43.67111],
+  "bbox": [
+    -116.2757,
+    43.67111,
+    -116.2757,
+    43.67111
+],
   "geometry": {"coordinates":[-116.2757,43.67111],"type":"Point"}
 }

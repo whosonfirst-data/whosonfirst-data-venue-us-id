@@ -2,13 +2,14 @@
   "id": 169863465,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.258721,43.579427,-116.258721,43.579427",
     "geom:latitude":43.579427,
     "geom:longitude":-116.258721,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2251 S Empire Way",
     "sg:city":"Boise",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":169863465,
-    "wof:lastmodified":1449034970,
+    "wof:lastmodified":1466488635,
     "wof:name":"BEC Co",
     "wof:parent_id":85825393,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "establishment"
     ]
 },
-  "bbox": [-116.258721,43.579427,-116.258721,43.579427],
-  "geometry": {"coordinates":[-116.258721,43.579427],"type":"Point"}
+  "bbox": [
+    -116.258721,
+    43.579427,
+    -116.258721,
+    43.579427
+],
+  "geometry": {"coordinates":[-116.25872099999999,43.579427],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186179169,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.300861,43.646617,-116.300861,43.646617",
     "geom:latitude":43.646617,
     "geom:longitude":-116.300861,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4790 N Bruxelles Ave",
     "sg:city":"Boise",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186179169,
-    "wof:lastmodified":1449052743,
+    "wof:lastmodified":1466488526,
     "wof:name":"Debs Soy Good Candles",
     "wof:parent_id":85876357,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "merchandise"
     ]
 },
-  "bbox": [-116.300861,43.646617,-116.300861,43.646617],
+  "bbox": [
+    -116.300861,
+    43.646617,
+    -116.300861,
+    43.646617
+],
   "geometry": {"coordinates":[-116.300861,43.646617],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 320541737,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.277754,43.619417,-116.277754,43.619417",
     "geom:latitude":43.619417,
     "geom:longitude":-116.277754,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7627 W Fairview Ave",
     "sg:city":"Boise",
     "sg:classifiers":[
@@ -70,10 +71,11 @@
         }
     ],
     "wof:id":320541737,
-    "wof:lastmodified":1449011656,
+    "wof:lastmodified":1466486924,
     "wof:name":"Speedy Glass",
     "wof:parent_id":85841319,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -88,6 +90,11 @@
         "replacement"
     ]
 },
-  "bbox": [-116.277754,43.619417,-116.277754,43.619417],
+  "bbox": [
+    -116.277754,
+    43.619417,
+    -116.277754,
+    43.619417
+],
   "geometry": {"coordinates":[-116.277754,43.619417],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 185885293,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.984066,43.560018,-111.984066,43.560018",
     "geom:latitude":43.560018,
     "geom:longitude":-111.984066,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7725 N 25th E",
     "sg:city":"Idaho Falls",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":185885293,
-    "wof:lastmodified":1449007479,
+    "wof:lastmodified":1466488626,
     "wof:name":"Furniture Doctor",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "furniture"
     ]
 },
-  "bbox": [-111.984066,43.560018,-111.984066,43.560018],
+  "bbox": [
+    -111.984066,
+    43.560018,
+    -111.984066,
+    43.560018
+],
   "geometry": {"coordinates":[-111.984066,43.560018],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186013531,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.508412,42.709553,-114.508412,42.709553",
     "geom:latitude":42.709553,
     "geom:longitude":-114.508412,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"60 E 100 S",
     "sg:city":"Jerome",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":186013531,
-    "wof:lastmodified":1449052185,
+    "wof:lastmodified":1466486893,
     "wof:name":"Canyonside Christian School",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-114.508412,42.709553,-114.508412,42.709553],
-  "geometry": {"coordinates":[-114.508412,42.709553],"type":"Point"}
+  "bbox": [
+    -114.508412,
+    42.709553,
+    -114.508412,
+    42.709553
+],
+  "geometry": {"coordinates":[-114.50841200000001,42.709553],"type":"Point"}
 }

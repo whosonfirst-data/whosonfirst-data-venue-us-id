@@ -2,13 +2,14 @@
   "id": 186362207,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.945866,43.791574,-116.945866,43.791574",
     "geom:latitude":43.791574,
     "geom:longitude":-116.945866,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1001 N B St",
     "sg:city":"Parma",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":186362207,
-    "wof:lastmodified":1449052108,
+    "wof:lastmodified":1466488753,
     "wof:name":"Keith Allender Excavating",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "contractor"
     ]
 },
-  "bbox": [-116.945866,43.791574,-116.945866,43.791574],
+  "bbox": [
+    -116.945866,
+    43.791574,
+    -116.945866,
+    43.791574
+],
   "geometry": {"coordinates":[-116.945866,43.791574],"type":"Point"}
 }

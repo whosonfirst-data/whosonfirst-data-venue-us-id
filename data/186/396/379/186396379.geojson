@@ -2,13 +2,14 @@
   "id": 186396379,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.499967,43.875922,-116.499967,43.875922",
     "geom:latitude":43.875922,
     "geom:longitude":-116.499967,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"120 N Washington Ave",
     "sg:city":"Emmett",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":186396379,
-    "wof:lastmodified":1449052128,
+    "wof:lastmodified":1466488782,
     "wof:name":"Messenger Index",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "newspaper"
     ]
 },
-  "bbox": [-116.499967,43.875922,-116.499967,43.875922],
+  "bbox": [
+    -116.499967,
+    43.875922,
+    -116.499967,
+    43.875922
+],
   "geometry": {"coordinates":[-116.499967,43.875922],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186060025,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.566276,48.289673,-116.566276,48.289673",
     "geom:latitude":48.289673,
     "geom:longitude":-116.566276,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1050 Baldy Park Rd",
     "sg:city":"Sandpoint",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":186060025,
-    "wof:lastmodified":1449052777,
+    "wof:lastmodified":1466487426,
     "wof:name":"Decra Roofing & Seamless Rain",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "contractor"
     ]
 },
-  "bbox": [-116.566276,48.289673,-116.566276,48.289673],
+  "bbox": [
+    -116.566276,
+    48.289673,
+    -116.566276,
+    48.289673
+],
   "geometry": {"coordinates":[-116.566276,48.289673],"type":"Point"}
 }

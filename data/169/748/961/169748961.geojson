@@ -2,13 +2,14 @@
   "id": 169748961,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.55849,43.584437,-116.55849,43.584437",
     "geom:latitude":43.584437,
     "geom:longitude":-116.55849,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"309 9th Ave N",
     "sg:city":"Nampa",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":169748961,
-    "wof:lastmodified":1449035145,
+    "wof:lastmodified":1466488428,
     "wof:name":"Iglesia Del Nazareno",
     "wof:parent_id":85827787,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-116.55849,43.584437,-116.55849,43.584437],
-  "geometry": {"coordinates":[-116.55849,43.584437],"type":"Point"}
+  "bbox": [
+    -116.55849,
+    43.584437,
+    -116.55849,
+    43.584437
+],
+  "geometry": {"coordinates":[-116.55849000000001,43.584437],"type":"Point"}
 }

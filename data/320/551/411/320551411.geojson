@@ -2,13 +2,14 @@
   "id": 320551411,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.898861,47.808057,-116.898861,47.808057",
     "geom:latitude":47.808057,
     "geom:longitude":-116.898861,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8340 W Park Loop",
     "sg:city":"Rathdrum",
     "sg:classifiers":[
@@ -67,10 +68,11 @@
         }
     ],
     "wof:id":320551411,
-    "wof:lastmodified":1449012011,
+    "wof:lastmodified":1466487055,
     "wof:name":"Beyond Entertainment",
     "wof:parent_id":85833263,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -84,6 +86,11 @@
         "communications-common"
     ]
 },
-  "bbox": [-116.898861,47.808057,-116.898861,47.808057],
+  "bbox": [
+    -116.898861,
+    47.808057,
+    -116.898861,
+    47.808057
+],
   "geometry": {"coordinates":[-116.898861,47.808057],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169731993,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.282113,43.577794,-116.282113,43.577794",
     "geom:latitude":43.577794,
     "geom:longitude":-116.282113,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7790 W Mossy Cup St",
     "sg:city":"Boise",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":169731993,
-    "wof:lastmodified":1449035586,
+    "wof:lastmodified":1466488296,
     "wof:name":"Unisun",
     "wof:parent_id":85876331,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "dealer"
     ]
 },
-  "bbox": [-116.282113,43.577794,-116.282113,43.577794],
+  "bbox": [
+    -116.282113,
+    43.577794,
+    -116.282113,
+    43.577794
+],
   "geometry": {"coordinates":[-116.282113,43.577794],"type":"Point"}
 }

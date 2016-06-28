@@ -2,13 +2,14 @@
   "id": 186323471,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.959405,47.715113,-116.959405,47.715113",
     "geom:latitude":47.715113,
     "geom:longitude":-116.959405,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1442 W Seltice Way",
     "sg:city":"Post Falls",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186323471,
-    "wof:lastmodified":1449050476,
+    "wof:lastmodified":1466488637,
     "wof:name":"Mountain Lakes Construction",
     "wof:parent_id":85833263,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-116.959405,47.715113,-116.959405,47.715113],
+  "bbox": [
+    -116.959405,
+    47.715113,
+    -116.959405,
+    47.715113
+],
   "geometry": {"coordinates":[-116.959405,47.715113],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 185947687,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.138247,43.553934,-116.138247,43.553934",
     "geom:latitude":43.553934,
     "geom:longitude":-116.138247,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5101 S Yarrow Ave",
     "sg:city":"Boise",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":185947687,
-    "wof:lastmodified":1449007757,
+    "wof:lastmodified":1466488667,
     "wof:name":"Affordable Luxury Limousine",
     "wof:parent_id":85876329,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "limousine"
     ]
 },
-  "bbox": [-116.138247,43.553934,-116.138247,43.553934],
-  "geometry": {"coordinates":[-116.138247,43.553934],"type":"Point"}
+  "bbox": [
+    -116.138247,
+    43.553934,
+    -116.138247,
+    43.553934
+],
+  "geometry": {"coordinates":[-116.13824700000001,43.553934],"type":"Point"}
 }

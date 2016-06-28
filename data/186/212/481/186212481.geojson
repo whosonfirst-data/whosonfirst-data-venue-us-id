@@ -2,13 +2,14 @@
   "id": 186212481,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-113.788103,42.532357,-113.788103,42.532357",
     "geom:latitude":42.532357,
     "geom:longitude":-113.788103,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1642 Almo Ave",
     "sg:city":"Burley",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":186212481,
-    "wof:lastmodified":1449052112,
+    "wof:lastmodified":1466488611,
     "wof:name":"Little Explorers Child Care",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-113.788103,42.532357,-113.788103,42.532357],
-  "geometry": {"coordinates":[-113.788103,42.532357],"type":"Point"}
+  "bbox": [
+    -113.788103,
+    42.532357,
+    -113.788103,
+    42.532357
+],
+  "geometry": {"coordinates":[-113.78810300000001,42.532357],"type":"Point"}
 }

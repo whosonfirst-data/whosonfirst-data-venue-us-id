@@ -2,13 +2,14 @@
   "id": 169621203,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.548948,43.609386,-116.548948,43.609386",
     "geom:latitude":43.609386,
     "geom:longitude":-116.548948,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7860 E Mountain Oak Dr",
     "sg:city":"Nampa",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":169621203,
-    "wof:lastmodified":1449035560,
+    "wof:lastmodified":1466487136,
     "wof:name":"Adnet",
     "wof:parent_id":85827787,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "advertising"
     ]
 },
-  "bbox": [-116.548948,43.609386,-116.548948,43.609386],
+  "bbox": [
+    -116.548948,
+    43.609386,
+    -116.548948,
+    43.609386
+],
   "geometry": {"coordinates":[-116.548948,43.609386],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186555363,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.388247,43.587067,-116.388247,43.587067",
     "geom:latitude":43.587067,
     "geom:longitude":-116.388247,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"655 E Kingsford Dr",
     "sg:city":"Meridian",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186555363,
-    "wof:lastmodified":1449052635,
+    "wof:lastmodified":1466488890,
     "wof:name":"Porch Swing Books",
     "wof:parent_id":85805083,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "publisher"
     ]
 },
-  "bbox": [-116.388247,43.587067,-116.388247,43.587067],
-  "geometry": {"coordinates":[-116.388247,43.587067],"type":"Point"}
+  "bbox": [
+    -116.388247,
+    43.587067,
+    -116.388247,
+    43.587067
+],
+  "geometry": {"coordinates":[-116.38824700000001,43.587067],"type":"Point"}
 }

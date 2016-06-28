@@ -2,13 +2,14 @@
   "id": 186486665,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.41362,43.603497,-116.41362,43.603497",
     "geom:latitude":43.603497,
     "geom:longitude":-116.41362,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1500 W Barrett Dr",
     "sg:city":"Meridian",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186486665,
-    "wof:lastmodified":1449051876,
+    "wof:lastmodified":1466488906,
     "wof:name":"C W Construction Inc",
     "wof:parent_id":85805083,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-116.41362,43.603497,-116.41362,43.603497],
-  "geometry": {"coordinates":[-116.41362,43.603497],"type":"Point"}
+  "bbox": [
+    -116.41362,
+    43.603497,
+    -116.41362,
+    43.603497
+],
+  "geometry": {"coordinates":[-116.41361999999999,43.603497],"type":"Point"}
 }

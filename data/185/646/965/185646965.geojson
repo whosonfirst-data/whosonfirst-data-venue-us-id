@@ -2,13 +2,14 @@
   "id": 185646965,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.778625,47.763647,-116.778625,47.763647",
     "geom:latitude":47.763647,
     "geom:longitude":-116.778625,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10061 N Maple St",
     "sg:city":"Hayden Lake",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":185646965,
-    "wof:lastmodified":1449006562,
+    "wof:lastmodified":1466487116,
     "wof:name":"Coeur D'Alene Acoustics Inc",
     "wof:parent_id":85821457,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "contractor"
     ]
 },
-  "bbox": [-116.778625,47.763647,-116.778625,47.763647],
-  "geometry": {"coordinates":[-116.778625,47.763647],"type":"Point"}
+  "bbox": [
+    -116.778625,
+    47.763647,
+    -116.778625,
+    47.763647
+],
+  "geometry": {"coordinates":[-116.77862500000001,47.763647],"type":"Point"}
 }

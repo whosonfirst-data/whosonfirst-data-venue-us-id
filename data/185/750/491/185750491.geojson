@@ -2,13 +2,14 @@
   "id": 185750491,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.740329,47.681887,-116.740329,47.681887",
     "geom:latitude":47.681887,
     "geom:longitude":-116.740329,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"936 N Balcony Dr",
     "sg:city":"Coeur D Alene",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":185750491,
-    "wof:lastmodified":1449007590,
+    "wof:lastmodified":1466487929,
     "wof:name":"Home Med Plus Inc",
     "wof:parent_id":85821457,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "surgeon"
     ]
 },
-  "bbox": [-116.740329,47.681887,-116.740329,47.681887],
+  "bbox": [
+    -116.740329,
+    47.681887,
+    -116.740329,
+    47.681887
+],
   "geometry": {"coordinates":[-116.740329,47.681887],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186025343,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.261152,43.619177,-116.261152,43.619177",
     "geom:latitude":43.619177,
     "geom:longitude":-116.261152,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6200 Fairview Ave",
     "sg:city":"Boise",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":186025343,
-    "wof:lastmodified":1449052565,
+    "wof:lastmodified":1466487024,
     "wof:name":"Street Art",
     "wof:parent_id":85876311,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "tinting"
     ]
 },
-  "bbox": [-116.261152,43.619177,-116.261152,43.619177],
+  "bbox": [
+    -116.261152,
+    43.619177,
+    -116.261152,
+    43.619177
+],
   "geometry": {"coordinates":[-116.261152,43.619177],"type":"Point"}
 }

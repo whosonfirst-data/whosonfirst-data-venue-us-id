@@ -2,13 +2,14 @@
   "id": 169817451,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.01951,43.493881,-112.01951,43.493881",
     "geom:latitude":43.493881,
     "geom:longitude":-112.01951,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"260 Olive Ave",
     "sg:city":"Idaho Falls",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":169817451,
-    "wof:lastmodified":1449035314,
+    "wof:lastmodified":1466488630,
     "wof:name":"Cherz & Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.01951,43.493881,-112.01951,43.493881],
+  "bbox": [
+    -112.01951,
+    43.493881,
+    -112.01951,
+    43.493881
+],
   "geometry": {"coordinates":[-112.01951,43.493881],"type":"Point"}
 }

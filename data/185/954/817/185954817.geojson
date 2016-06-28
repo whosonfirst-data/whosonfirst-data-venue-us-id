@@ -2,13 +2,14 @@
   "id": 185954817,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.212263,43.594934,-116.212263,43.594934",
     "geom:latitude":43.594934,
     "geom:longitude":-116.212263,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"724 Day Dr",
     "sg:city":"Boise",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":185954817,
-    "wof:lastmodified":1449008015,
+    "wof:lastmodified":1466488681,
     "wof:name":"Blast Em Clean Co",
     "wof:parent_id":85876303,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-116.212263,43.594934,-116.212263,43.594934],
-  "geometry": {"coordinates":[-116.212263,43.594934],"type":"Point"}
+  "bbox": [
+    -116.212263,
+    43.594934,
+    -116.212263,
+    43.594934
+],
+  "geometry": {"coordinates":[-116.21226299999999,43.594934],"type":"Point"}
 }

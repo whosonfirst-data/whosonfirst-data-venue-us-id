@@ -2,13 +2,14 @@
   "id": 185751767,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-117.027906,47.771339,-117.027906,47.771339",
     "geom:latitude":47.771339,
     "geom:longitude":-117.027906,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"11776 N Hauser Lake Rd",
     "sg:city":"Post Falls",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":185751767,
-    "wof:lastmodified":1449006677,
+    "wof:lastmodified":1466487938,
     "wof:name":"Nice Hair",
     "wof:parent_id":85833263,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "shop"
     ]
 },
-  "bbox": [-117.027906,47.771339,-117.027906,47.771339],
+  "bbox": [
+    -117.027906,
+    47.771339,
+    -117.027906,
+    47.771339
+],
   "geometry": {"coordinates":[-117.027906,47.771339],"type":"Point"}
 }

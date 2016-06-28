@@ -2,13 +2,14 @@
   "id": 169776233,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.34524,43.604814,-116.34524,43.604814",
     "geom:latitude":43.604814,
     "geom:longitude":-116.34524,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3975 E Franklin Rd",
     "sg:city":"Meridian",
     "sg:classifiers":[
@@ -52,16 +53,22 @@
         }
     ],
     "wof:id":169776233,
-    "wof:lastmodified":1449033407,
+    "wof:lastmodified":1466488366,
     "wof:name":"Waterford Home Health",
     "wof:parent_id":85805083,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "home"
     ]
 },
-  "bbox": [-116.34524,43.604814,-116.34524,43.604814],
+  "bbox": [
+    -116.34524,
+    43.604814,
+    -116.34524,
+    43.604814
+],
   "geometry": {"coordinates":[-116.34524,43.604814],"type":"Point"}
 }

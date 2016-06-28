@@ -2,13 +2,14 @@
   "id": 186500481,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.211926,43.607961,-116.211926,43.607961",
     "geom:latitude":43.607961,
     "geom:longitude":-116.211926,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1035 Lusk St",
     "sg:city":"Boise",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":186500481,
-    "wof:lastmodified":1449051064,
+    "wof:lastmodified":1466488915,
     "wof:name":"Hounds Lounge",
     "wof:parent_id":85876325,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "washing"
     ]
 },
-  "bbox": [-116.211926,43.607961,-116.211926,43.607961],
-  "geometry": {"coordinates":[-116.211926,43.607961],"type":"Point"}
+  "bbox": [
+    -116.211926,
+    43.607961,
+    -116.211926,
+    43.607961
+],
+  "geometry": {"coordinates":[-116.21192600000001,43.607961],"type":"Point"}
 }

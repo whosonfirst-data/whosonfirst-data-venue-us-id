@@ -2,13 +2,14 @@
   "id": 186289445,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.868372,43.693726,-111.868372,43.693726",
     "geom:latitude":43.693726,
     "geom:longitude":-111.868372,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4184 E 460 N",
     "sg:city":"Rigby",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":186289445,
-    "wof:lastmodified":1449052561,
+    "wof:lastmodified":1466488664,
     "wof:name":"Shippen Brothers Construction",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "contractor"
     ]
 },
-  "bbox": [-111.868372,43.693726,-111.868372,43.693726],
-  "geometry": {"coordinates":[-111.868372,43.693726],"type":"Point"}
+  "bbox": [
+    -111.868372,
+    43.693726,
+    -111.868372,
+    43.693726
+],
+  "geometry": {"coordinates":[-111.86837199999999,43.693726],"type":"Point"}
 }

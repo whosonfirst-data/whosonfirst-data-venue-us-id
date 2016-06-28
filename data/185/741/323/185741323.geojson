@@ -2,13 +2,14 @@
   "id": 185741323,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.550957,43.502758,-116.550957,43.502758",
     "geom:latitude":43.502758,
     "geom:longitude":-116.550957,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7809 Deer Flat Rd",
     "sg:city":"Nampa",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":185741323,
-    "wof:lastmodified":1449006668,
+    "wof:lastmodified":1466487852,
     "wof:name":"Nampa Fifth Ward",
     "wof:parent_id":85827787,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "church"
     ]
 },
-  "bbox": [-116.550957,43.502758,-116.550957,43.502758],
+  "bbox": [
+    -116.550957,
+    43.502758,
+    -116.550957,
+    43.502758
+],
   "geometry": {"coordinates":[-116.550957,43.502758],"type":"Point"}
 }

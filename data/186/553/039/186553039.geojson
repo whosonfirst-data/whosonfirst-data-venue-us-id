@@ -2,13 +2,14 @@
   "id": 186553039,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.596486,43.66326,-116.596486,43.66326",
     "geom:latitude":43.66326,
     "geom:longitude":-116.596486,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10224 US Hwy 26",
     "sg:city":"Caldwell",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":186553039,
-    "wof:lastmodified":1449050271,
+    "wof:lastmodified":1466488933,
     "wof:name":"Valley Retreading",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "tire"
     ]
 },
-  "bbox": [-116.596486,43.66326,-116.596486,43.66326],
+  "bbox": [
+    -116.596486,
+    43.66326,
+    -116.596486,
+    43.66326
+],
   "geometry": {"coordinates":[-116.596486,43.66326],"type":"Point"}
 }

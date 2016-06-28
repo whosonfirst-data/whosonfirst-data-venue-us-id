@@ -2,13 +2,14 @@
   "id": 186279919,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.839861,47.717246,-116.839861,47.717246",
     "geom:latitude":47.717246,
     "geom:longitude":-116.839861,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4105 Lancaster Rd",
     "sg:city":"Coeur D Alene",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186279919,
-    "wof:lastmodified":1449051603,
+    "wof:lastmodified":1466488651,
     "wof:name":"Video Impact",
     "wof:parent_id":85821457,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "taping"
     ]
 },
-  "bbox": [-116.839861,47.717246,-116.839861,47.717246],
+  "bbox": [
+    -116.839861,
+    47.717246,
+    -116.839861,
+    47.717246
+],
   "geometry": {"coordinates":[-116.839861,47.717246],"type":"Point"}
 }

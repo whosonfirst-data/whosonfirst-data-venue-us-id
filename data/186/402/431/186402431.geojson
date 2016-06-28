@@ -2,13 +2,14 @@
   "id": 186402431,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.025406,43.503223,-112.025406,43.503223",
     "geom:latitude":43.503223,
     "geom:longitude":-112.025406,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"445 Whittier St",
     "sg:city":"Idaho Falls",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186402431,
-    "wof:lastmodified":1449051244,
+    "wof:lastmodified":1466488786,
     "wof:name":"Scrubby's Custom Auto & Detail",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "clean"
     ]
 },
-  "bbox": [-112.025406,43.503223,-112.025406,43.503223],
+  "bbox": [
+    -112.025406,
+    43.503223,
+    -112.025406,
+    43.503223
+],
   "geometry": {"coordinates":[-112.025406,43.503223],"type":"Point"}
 }

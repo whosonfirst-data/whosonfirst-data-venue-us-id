@@ -2,13 +2,14 @@
   "id": 185676521,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.989949,46.735605,-116.989949,46.735605",
     "geom:latitude":46.735605,
     "geom:longitude":-116.989949,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"902 E B St",
     "sg:city":"Moscow",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":185676521,
-    "wof:lastmodified":1449007629,
+    "wof:lastmodified":1466487338,
     "wof:name":"Ivy Bed & Breakfast",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "bed"
     ]
 },
-  "bbox": [-116.989949,46.735605,-116.989949,46.735605],
+  "bbox": [
+    -116.989949,
+    46.735605,
+    -116.989949,
+    46.735605
+],
   "geometry": {"coordinates":[-116.989949,46.735605],"type":"Point"}
 }

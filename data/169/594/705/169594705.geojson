@@ -2,13 +2,14 @@
   "id": 169594705,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.057353,43.532736,-116.057353,43.532736",
     "geom:latitude":43.532736,
     "geom:longitude":-116.057353,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9731 State Hwy 21",
     "sg:city":"Boise",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":169594705,
-    "wof:lastmodified":1449033165,
+    "wof:lastmodified":1466487250,
     "wof:name":"Lucky Peak Power Plant Project",
     "wof:parent_id":85876327,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "company"
     ]
 },
-  "bbox": [-116.057353,43.532736,-116.057353,43.532736],
-  "geometry": {"coordinates":[-116.057353,43.532736],"type":"Point"}
+  "bbox": [
+    -116.057353,
+    43.532736,
+    -116.057353,
+    43.532736
+],
+  "geometry": {"coordinates":[-116.05735300000001,43.532736],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 320524945,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.970413,46.376652,-116.970413,46.376652",
     "geom:latitude":46.376652,
     "geom:longitude":-116.970413,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"501 Thain Rd",
     "sg:city":"Lewiston",
     "sg:classifiers":[
@@ -64,10 +65,11 @@
         }
     ],
     "wof:id":320524945,
-    "wof:lastmodified":1449011223,
+    "wof:lastmodified":1466487252,
     "wof:name":"Country Kitchen",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -76,6 +78,11 @@
         "family"
     ]
 },
-  "bbox": [-116.970413,46.376652,-116.970413,46.376652],
-  "geometry": {"coordinates":[-116.970413,46.376652],"type":"Point"}
+  "bbox": [
+    -116.970413,
+    46.376652,
+    -116.970413,
+    46.376652
+],
+  "geometry": {"coordinates":[-116.97041299999999,46.376652],"type":"Point"}
 }

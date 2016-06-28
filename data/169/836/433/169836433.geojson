@@ -2,13 +2,14 @@
   "id": 169836433,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.541815,43.594336,-116.541815,43.594336",
     "geom:latitude":43.594336,
     "geom:longitude":-116.541815,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1323 11th Ave N Exd",
     "sg:city":"Nampa",
     "sg:classifiers":[
@@ -52,16 +53,22 @@
         }
     ],
     "wof:id":169836433,
-    "wof:lastmodified":1449034868,
+    "wof:lastmodified":1466488595,
     "wof:name":"Wooded River",
     "wof:parent_id":85827787,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "establishment"
     ]
 },
-  "bbox": [-116.541815,43.594336,-116.541815,43.594336],
+  "bbox": [
+    -116.541815,
+    43.594336,
+    -116.541815,
+    43.594336
+],
   "geometry": {"coordinates":[-116.541815,43.594336],"type":"Point"}
 }

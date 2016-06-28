@@ -2,13 +2,14 @@
   "id": 169648903,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.901198,47.715024,-116.901198,47.715024",
     "geom:latitude":47.715024,
     "geom:longitude":-116.901198,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"737 N Thornton St",
     "sg:city":"Post Falls",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":169648903,
-    "wof:lastmodified":1449033582,
+    "wof:lastmodified":1466487571,
     "wof:name":"Cottage Childcare & Learning",
     "wof:parent_id":85833263,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-116.901198,47.715024,-116.901198,47.715024],
-  "geometry": {"coordinates":[-116.901198,47.715024],"type":"Point"}
+  "bbox": [
+    -116.901198,
+    47.715024,
+    -116.901198,
+    47.715024
+],
+  "geometry": {"coordinates":[-116.90119799999999,47.715024],"type":"Point"}
 }

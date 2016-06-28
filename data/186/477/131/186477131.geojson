@@ -2,13 +2,14 @@
   "id": 186477131,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.791873,47.775896,-116.791873,47.775896",
     "geom:latitude":47.775896,
     "geom:longitude":-116.791873,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"11400 N Warren St",
     "sg:city":"Hayden",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":186477131,
-    "wof:lastmodified":1449050868,
+    "wof:lastmodified":1466488901,
     "wof:name":"TNT Rc Hobbies",
     "wof:parent_id":85821457,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "supply"
     ]
 },
-  "bbox": [-116.791873,47.775896,-116.791873,47.775896],
+  "bbox": [
+    -116.791873,
+    47.775896,
+    -116.791873,
+    47.775896
+],
   "geometry": {"coordinates":[-116.791873,47.775896],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 320550193,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.999999,46.727789,-116.999999,46.727789",
     "geom:latitude":46.727789,
     "geom:longitude":-116.999999,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"828 S Washington St Ste A",
     "sg:city":"Moscow",
     "sg:classifiers":[
@@ -55,10 +56,11 @@
         }
     ],
     "wof:id":320550193,
-    "wof:lastmodified":1449013287,
+    "wof:lastmodified":1466487042,
     "wof:name":"Judi Mcketta Cpa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -69,6 +71,11 @@
         "public"
     ]
 },
-  "bbox": [-116.999999,46.727789,-116.999999,46.727789],
+  "bbox": [
+    -116.999999,
+    46.727789,
+    -116.999999,
+    46.727789
+],
   "geometry": {"coordinates":[-116.999999,46.727789],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169646603,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.780962,47.677019,-116.780962,47.677019",
     "geom:latitude":47.677019,
     "geom:longitude":-116.780962,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"518 N 4th St",
     "sg:city":"Coeur D Alene",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":169646603,
-    "wof:lastmodified":1449032608,
+    "wof:lastmodified":1466487535,
     "wof:name":"Mental Health Svc Activity Ctr",
     "wof:parent_id":85821457,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "health"
     ]
 },
-  "bbox": [-116.780962,47.677019,-116.780962,47.677019],
+  "bbox": [
+    -116.780962,
+    47.677019,
+    -116.780962,
+    47.677019
+],
   "geometry": {"coordinates":[-116.780962,47.677019],"type":"Point"}
 }

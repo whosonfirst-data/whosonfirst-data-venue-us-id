@@ -2,13 +2,14 @@
   "id": 185874573,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.268419,43.672585,-116.268419,43.672585",
     "geom:latitude":43.672585,
     "geom:longitude":-116.268419,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5812 N Pierce Park Ln",
     "sg:city":"Boise",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":185874573,
-    "wof:lastmodified":1449008108,
+    "wof:lastmodified":1466488610,
     "wof:name":"Pierce Park Greens",
     "wof:parent_id":85811879,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "public"
     ]
 },
-  "bbox": [-116.268419,43.672585,-116.268419,43.672585],
-  "geometry": {"coordinates":[-116.268419,43.672585],"type":"Point"}
+  "bbox": [
+    -116.268419,
+    43.672585,
+    -116.268419,
+    43.672585
+],
+  "geometry": {"coordinates":[-116.26841899999999,43.672585],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186539005,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.300132,43.517565,-114.300132,43.517565",
     "geom:latitude":43.517565,
     "geom:longitude":-114.300132,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"810 Deerfield Dr",
     "sg:city":"Hailey",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":186539005,
-    "wof:lastmodified":1449053078,
+    "wof:lastmodified":1466488931,
     "wof:name":"Impeccable Package",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "parcel"
     ]
 },
-  "bbox": [-114.300132,43.517565,-114.300132,43.517565],
+  "bbox": [
+    -114.300132,
+    43.517565,
+    -114.300132,
+    43.517565
+],
   "geometry": {"coordinates":[-114.300132,43.517565],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169726111,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.560529,43.579396,-116.560529,43.579396",
     "geom:latitude":43.579396,
     "geom:longitude":-116.560529,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1124 1st St S",
     "sg:city":"Nampa",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":169726111,
-    "wof:lastmodified":1449034956,
+    "wof:lastmodified":1466488246,
     "wof:name":"Civil Dynamics PC",
     "wof:parent_id":85827787,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "engineer"
     ]
 },
-  "bbox": [-116.560529,43.579396,-116.560529,43.579396],
+  "bbox": [
+    -116.560529,
+    43.579396,
+    -116.560529,
+    43.579396
+],
   "geometry": {"coordinates":[-116.560529,43.579396],"type":"Point"}
 }

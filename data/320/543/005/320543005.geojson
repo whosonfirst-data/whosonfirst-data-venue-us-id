@@ -2,13 +2,14 @@
   "id": 320543005,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.271437,43.575615,-116.271437,43.575615",
     "geom:latitude":43.575615,
     "geom:longitude":-116.271437,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7200 W Victory Rd",
     "sg:city":"Boise",
     "sg:classifiers":[
@@ -70,10 +71,11 @@
         }
     ],
     "wof:id":320543005,
-    "wof:lastmodified":1449011989,
+    "wof:lastmodified":1466486957,
     "wof:name":"Allstate Insurance Company - Matthew Foley",
     "wof:parent_id":85876321,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -85,6 +87,11 @@
         "renter"
     ]
 },
-  "bbox": [-116.271437,43.575615,-116.271437,43.575615],
-  "geometry": {"coordinates":[-116.271437,43.575615],"type":"Point"}
+  "bbox": [
+    -116.271437,
+    43.575615,
+    -116.271437,
+    43.575615
+],
+  "geometry": {"coordinates":[-116.27143700000001,43.575615],"type":"Point"}
 }

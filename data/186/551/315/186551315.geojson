@@ -2,13 +2,14 @@
   "id": 186551315,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.540758,43.531941,-116.540758,43.531941",
     "geom:latitude":43.531941,
     "geom:longitude":-116.540758,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2518 E Locust Ln",
     "sg:city":"Nampa",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":186551315,
-    "wof:lastmodified":1449050946,
+    "wof:lastmodified":1466488889,
     "wof:name":"Ron's Motorcycle Repair",
     "wof:parent_id":85827787,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "motor"
     ]
 },
-  "bbox": [-116.540758,43.531941,-116.540758,43.531941],
+  "bbox": [
+    -116.540758,
+    43.531941,
+    -116.540758,
+    43.531941
+],
   "geometry": {"coordinates":[-116.540758,43.531941],"type":"Point"}
 }

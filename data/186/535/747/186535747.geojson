@@ -2,13 +2,14 @@
   "id": 186535747,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.350109,43.539103,-116.350109,43.539103",
     "geom:latitude":43.539103,
     "geom:longitude":-116.350109,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3689 E Vantage Pointe Ln",
     "sg:city":"Meridian",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":186535747,
-    "wof:lastmodified":1449050900,
+    "wof:lastmodified":1466488881,
     "wof:name":"Homloan of Idaho LLC",
     "wof:parent_id":85876331,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "mortgage"
     ]
 },
-  "bbox": [-116.350109,43.539103,-116.350109,43.539103],
+  "bbox": [
+    -116.350109,
+    43.539103,
+    -116.350109,
+    43.539103
+],
   "geometry": {"coordinates":[-116.350109,43.539103],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169613473,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.451246,42.86245,-112.451246,42.86245",
     "geom:latitude":42.86245,
     "geom:longitude":-112.451246,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"149 N Main St",
     "sg:city":"Pocatello",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":169613473,
-    "wof:lastmodified":1449034211,
+    "wof:lastmodified":1466487013,
     "wof:name":"Treasure's Formal Bridal & Tux",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "bridal"
     ]
 },
-  "bbox": [-112.451246,42.86245,-112.451246,42.86245],
+  "bbox": [
+    -112.451246,
+    42.86245,
+    -112.451246,
+    42.86245
+],
   "geometry": {"coordinates":[-112.451246,42.86245],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 185689327,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.680935,43.667987,-116.680935,43.667987",
     "geom:latitude":43.667987,
     "geom:longitude":-116.680935,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"402 N 10th Ave",
     "sg:city":"Caldwell",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":185689327,
-    "wof:lastmodified":1449007963,
+    "wof:lastmodified":1466487439,
     "wof:name":"Jackson's Food",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-116.680935,43.667987,-116.680935,43.667987],
-  "geometry": {"coordinates":[-116.680935,43.667987],"type":"Point"}
+  "bbox": [
+    -116.680935,
+    43.667987,
+    -116.680935,
+    43.667987
+],
+  "geometry": {"coordinates":[-116.68093500000001,43.667987],"type":"Point"}
 }

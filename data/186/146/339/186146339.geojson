@@ -2,13 +2,14 @@
   "id": 186146339,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.110398,43.701789,-111.110398,43.701789",
     "geom:latitude":43.701789,
     "geom:longitude":-111.110398,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"146 S Hwy 33",
     "sg:city":"Driggs",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":186146339,
-    "wof:lastmodified":1449051486,
+    "wof:lastmodified":1466488281,
     "wof:name":"Teton Regional Land Trust",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "org"
     ]
 },
-  "bbox": [-111.110398,43.701789,-111.110398,43.701789],
+  "bbox": [
+    -111.110398,
+    43.701789,
+    -111.110398,
+    43.701789
+],
   "geometry": {"coordinates":[-111.110398,43.701789],"type":"Point"}
 }

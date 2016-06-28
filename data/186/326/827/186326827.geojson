@@ -2,13 +2,14 @@
   "id": 186326827,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.385954,43.595291,-116.385954,43.595291",
     "geom:latitude":43.595291,
     "geom:longitude":-116.385954,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"707 E United Heritage Ct",
     "sg:city":"Meridian",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":186326827,
-    "wof:lastmodified":1449051518,
+    "wof:lastmodified":1466488641,
     "wof:name":"United Heritage PMC",
     "wof:parent_id":85805083,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-116.385954,43.595291,-116.385954,43.595291],
+  "bbox": [
+    -116.385954,
+    43.595291,
+    -116.385954,
+    43.595291
+],
   "geometry": {"coordinates":[-116.385954,43.595291],"type":"Point"}
 }

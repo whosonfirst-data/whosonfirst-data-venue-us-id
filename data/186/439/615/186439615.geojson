@@ -2,13 +2,14 @@
   "id": 186439615,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.039711,43.502796,-112.039711,43.502796",
     "geom:latitude":43.502796,
     "geom:longitude":-112.039711,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"725 K St",
     "sg:city":"Idaho Falls",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":186439615,
-    "wof:lastmodified":1449051125,
+    "wof:lastmodified":1466488812,
     "wof:name":"Park Place Apartments",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "apartment"
     ]
 },
-  "bbox": [-112.039711,43.502796,-112.039711,43.502796],
+  "bbox": [
+    -112.039711,
+    43.502796,
+    -112.039711,
+    43.502796
+],
   "geometry": {"coordinates":[-112.039711,43.502796],"type":"Point"}
 }

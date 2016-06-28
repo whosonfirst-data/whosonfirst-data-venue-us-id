@@ -2,13 +2,14 @@
   "id": 186527283,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-117.007578,47.705474,-117.007578,47.705474",
     "geom:latitude":47.705474,
     "geom:longitude":-117.007578,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4266 W Riverbend Ave",
     "sg:city":"Post Falls",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":186527283,
-    "wof:lastmodified":1449052454,
+    "wof:lastmodified":1466488930,
     "wof:name":"Kitchen Collection",
     "wof:parent_id":85833263,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "accessory"
     ]
 },
-  "bbox": [-117.007578,47.705474,-117.007578,47.705474],
+  "bbox": [
+    -117.007578,
+    47.705474,
+    -117.007578,
+    47.705474
+],
   "geometry": {"coordinates":[-117.007578,47.705474],"type":"Point"}
 }

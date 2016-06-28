@@ -2,13 +2,14 @@
   "id": 186082221,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.203001,43.901407,-116.203001,43.901407",
     "geom:latitude":43.901407,
     "geom:longitude":-116.203001,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"453 Main St",
     "sg:city":"Meridian",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":186082221,
-    "wof:lastmodified":1449050334,
+    "wof:lastmodified":1466487681,
     "wof:name":"Direct Diamond Imports",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-116.203001,43.901407,-116.203001,43.901407],
+  "bbox": [
+    -116.203001,
+    43.901407,
+    -116.203001,
+    43.901407
+],
   "geometry": {"coordinates":[-116.203001,43.901407],"type":"Point"}
 }

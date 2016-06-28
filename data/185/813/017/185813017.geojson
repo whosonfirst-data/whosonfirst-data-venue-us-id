@@ -2,13 +2,14 @@
   "id": 185813017,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-113.782462,42.509548,-113.782462,42.509548",
     "geom:latitude":42.509548,
     "geom:longitude":-113.782462,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"900 Sandy Glen Ln",
     "sg:city":"Burley",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":185813017,
-    "wof:lastmodified":1449007021,
+    "wof:lastmodified":1466488498,
     "wof:name":"Spray-Rite",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "crop"
     ]
 },
-  "bbox": [-113.782462,42.509548,-113.782462,42.509548],
+  "bbox": [
+    -113.782462,
+    42.509548,
+    -113.782462,
+    42.509548
+],
   "geometry": {"coordinates":[-113.782462,42.509548],"type":"Point"}
 }

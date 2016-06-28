@@ -2,13 +2,14 @@
   "id": 320549509,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.985888,46.721174,-116.985888,46.721174",
     "geom:latitude":46.721174,
     "geom:longitude":-116.985888,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1420 S Blaine St Ste 10",
     "sg:city":"Moscow",
     "sg:classifiers":[
@@ -71,10 +72,11 @@
         }
     ],
     "wof:id":320549509,
-    "wof:lastmodified":1449012283,
+    "wof:lastmodified":1466487035,
     "wof:name":"First Step Internet",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -91,6 +93,11 @@
         "engineer"
     ]
 },
-  "bbox": [-116.985888,46.721174,-116.985888,46.721174],
+  "bbox": [
+    -116.985888,
+    46.721174,
+    -116.985888,
+    46.721174
+],
   "geometry": {"coordinates":[-116.985888,46.721174],"type":"Point"}
 }

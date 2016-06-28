@@ -2,13 +2,14 @@
   "id": 186373067,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.361154,43.626217,-116.361154,43.626217",
     "geom:latitude":43.626217,
     "geom:longitude":-116.361154,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2750 E Bernice Dr",
     "sg:city":"Meridian",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":186373067,
-    "wof:lastmodified":1449051755,
+    "wof:lastmodified":1466488839,
     "wof:name":"Honey Do Maintenance LLC",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "maintenance"
     ]
 },
-  "bbox": [-116.361154,43.626217,-116.361154,43.626217],
+  "bbox": [
+    -116.361154,
+    43.626217,
+    -116.361154,
+    43.626217
+],
   "geometry": {"coordinates":[-116.361154,43.626217],"type":"Point"}
 }

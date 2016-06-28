@@ -2,13 +2,14 @@
   "id": 169758085,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.413695,43.606998,-116.413695,43.606998",
     "geom:latitude":43.606998,
     "geom:longitude":-116.413695,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"257 N Linder Rd",
     "sg:city":"Meridian",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":169758085,
-    "wof:lastmodified":1449033684,
+    "wof:lastmodified":1466488432,
     "wof:name":"Coate Builders",
     "wof:parent_id":85805083,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-116.413695,43.606998,-116.413695,43.606998],
+  "bbox": [
+    -116.413695,
+    43.606998,
+    -116.413695,
+    43.606998
+],
   "geometry": {"coordinates":[-116.413695,43.606998],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169629749,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.128063,43.720287,-112.128063,43.720287",
     "geom:latitude":43.720287,
     "geom:longitude":-112.128063,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2875 E 650 N",
     "sg:city":"Roberts",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":169629749,
-    "wof:lastmodified":1449035184,
+    "wof:lastmodified":1466487270,
     "wof:name":"Ferguson Management Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "establishment"
     ]
 },
-  "bbox": [-112.128063,43.720287,-112.128063,43.720287],
+  "bbox": [
+    -112.128063,
+    43.720287,
+    -112.128063,
+    43.720287
+],
   "geometry": {"coordinates":[-112.128063,43.720287],"type":"Point"}
 }

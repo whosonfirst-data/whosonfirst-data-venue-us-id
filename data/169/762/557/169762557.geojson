@@ -2,13 +2,14 @@
   "id": 169762557,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.442532,43.200704,-112.442532,43.200704",
     "geom:latitude":43.200704,
     "geom:longitude":-112.442532,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"48 N 740 W",
     "sg:city":"Blackfoot",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":169762557,
-    "wof:lastmodified":1449035008,
+    "wof:lastmodified":1466488441,
     "wof:name":"Arens Floor Covering Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.442532,43.200704,-112.442532,43.200704],
+  "bbox": [
+    -112.442532,
+    43.200704,
+    -112.442532,
+    43.200704
+],
   "geometry": {"coordinates":[-112.442532,43.200704],"type":"Point"}
 }

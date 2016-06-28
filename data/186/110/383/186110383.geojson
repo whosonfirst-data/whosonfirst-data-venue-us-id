@@ -2,13 +2,14 @@
   "id": 186110383,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.228435,43.607945,-116.228435,43.607945",
     "geom:latitude":43.607945,
     "geom:longitude":-116.228435,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"110 N Latah St",
     "sg:city":"Boise",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186110383,
-    "wof:lastmodified":1449051274,
+    "wof:lastmodified":1466487969,
     "wof:name":"Boise Valley Monument Co",
     "wof:parent_id":85876301,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "monument"
     ]
 },
-  "bbox": [-116.228435,43.607945,-116.228435,43.607945],
+  "bbox": [
+    -116.228435,
+    43.607945,
+    -116.228435,
+    43.607945
+],
   "geometry": {"coordinates":[-116.228435,43.607945],"type":"Point"}
 }

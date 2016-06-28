@@ -2,13 +2,14 @@
   "id": 186502083,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.365503,43.683037,-114.365503,43.683037",
     "geom:latitude":43.683037,
     "geom:longitude":-114.365503,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"411 6th St E",
     "sg:city":"Ketchum",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":186502083,
-    "wof:lastmodified":1449051598,
+    "wof:lastmodified":1466488866,
     "wof:name":"Andrew Harpers Q Club",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "publisher"
     ]
 },
-  "bbox": [-114.365503,43.683037,-114.365503,43.683037],
+  "bbox": [
+    -114.365503,
+    43.683037,
+    -114.365503,
+    43.683037
+],
   "geometry": {"coordinates":[-114.365503,43.683037],"type":"Point"}
 }

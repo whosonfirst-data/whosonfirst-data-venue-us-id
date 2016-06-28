@@ -2,13 +2,14 @@
   "id": 186428975,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.022722,44.095529,-116.022722,44.095529",
     "geom:latitude":44.095529,
     "geom:longitude":-116.022722,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"42 Timberline Dr",
     "sg:city":"Garden Valley",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":186428975,
-    "wof:lastmodified":1449052853,
+    "wof:lastmodified":1466488810,
     "wof:name":"Don's Repair",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "system"
     ]
 },
-  "bbox": [-116.022722,44.095529,-116.022722,44.095529],
+  "bbox": [
+    -116.022722,
+    44.095529,
+    -116.022722,
+    44.095529
+],
   "geometry": {"coordinates":[-116.022722,44.095529],"type":"Point"}
 }

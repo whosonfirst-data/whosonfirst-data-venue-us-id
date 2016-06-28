@@ -2,13 +2,14 @@
   "id": 186284825,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.942621,44.228824,-116.942621,44.228824",
     "geom:latitude":44.228824,
     "geom:longitude":-116.942621,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"527 Day Rd",
     "sg:city":"Weiser",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":186284825,
-    "wof:lastmodified":1449052027,
+    "wof:lastmodified":1466488652,
     "wof:name":"Johns Home Construction",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "operative"
     ]
 },
-  "bbox": [-116.942621,44.228824,-116.942621,44.228824],
+  "bbox": [
+    -116.942621,
+    44.228824,
+    -116.942621,
+    44.228824
+],
   "geometry": {"coordinates":[-116.942621,44.228824],"type":"Point"}
 }

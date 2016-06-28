@@ -2,13 +2,14 @@
   "id": 320545375,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.996244,46.724207,-116.996244,46.724207",
     "geom:latitude":46.724207,
     "geom:longitude":-116.996244,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"428 Troy Rd",
     "sg:city":"Moscow",
     "sg:classifiers":[
@@ -64,10 +65,11 @@
         }
     ],
     "wof:id":320545375,
-    "wof:lastmodified":1449012159,
+    "wof:lastmodified":1466486992,
     "wof:name":"Pets Are People Too",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -77,6 +79,11 @@
         "store"
     ]
 },
-  "bbox": [-116.996244,46.724207,-116.996244,46.724207],
+  "bbox": [
+    -116.996244,
+    46.724207,
+    -116.996244,
+    46.724207
+],
   "geometry": {"coordinates":[-116.996244,46.724207],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169650597,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.746162,47.677508,-116.746162,47.677508",
     "geom:latitude":47.677508,
     "geom:longitude":-116.746162,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2906 E Fernan Hill Rd",
     "sg:city":"Coeur D Alene",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":169650597,
-    "wof:lastmodified":1449034702,
+    "wof:lastmodified":1466487597,
     "wof:name":"M PS",
     "wof:parent_id":85821457,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "furniture"
     ]
 },
-  "bbox": [-116.746162,47.677508,-116.746162,47.677508],
+  "bbox": [
+    -116.746162,
+    47.677508,
+    -116.746162,
+    47.677508
+],
   "geometry": {"coordinates":[-116.746162,47.677508],"type":"Point"}
 }

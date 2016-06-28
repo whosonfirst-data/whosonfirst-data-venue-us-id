@@ -2,13 +2,14 @@
   "id": 186531437,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.198599,43.56057,-116.198599,43.56057",
     "geom:latitude":43.56057,
     "geom:longitude":-116.198599,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4449 Enterprise St",
     "sg:city":"Boise",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186531437,
-    "wof:lastmodified":1449051038,
+    "wof:lastmodified":1466488877,
     "wof:name":"Metroquip Inc",
     "wof:parent_id":85876337,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-116.198599,43.56057,-116.198599,43.56057],
+  "bbox": [
+    -116.198599,
+    43.56057,
+    -116.198599,
+    43.56057
+],
   "geometry": {"coordinates":[-116.198599,43.56057],"type":"Point"}
 }

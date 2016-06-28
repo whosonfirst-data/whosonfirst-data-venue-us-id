@@ -2,13 +2,14 @@
   "id": 320523625,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-117.000419,46.404095,-117.000419,46.404095",
     "geom:latitude":46.404095,
     "geom:longitude":-117.000419,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2203 16th Ave",
     "sg:city":"Lewiston",
     "sg:classifiers":[
@@ -73,10 +74,11 @@
         }
     ],
     "wof:id":320523625,
-    "wof:lastmodified":1449013416,
+    "wof:lastmodified":1466488303,
     "wof:name":"Rogers Toyota Scion Parts-Svc",
     "wof:parent_id":85837769,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -94,6 +96,11 @@
         "repairing"
     ]
 },
-  "bbox": [-117.000419,46.404095,-117.000419,46.404095],
-  "geometry": {"coordinates":[-117.000419,46.404095],"type":"Point"}
+  "bbox": [
+    -117.000419,
+    46.404095,
+    -117.000419,
+    46.404095
+],
+  "geometry": {"coordinates":[-117.00041899999999,46.404095],"type":"Point"}
 }

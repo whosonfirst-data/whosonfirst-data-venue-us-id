@@ -2,13 +2,14 @@
   "id": 185812797,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.779565,47.675486,-116.779565,47.675486",
     "geom:latitude":47.675486,
     "geom:longitude":-116.779565,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"302 N 5th St",
     "sg:city":"Coeur D Alene",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":185812797,
-    "wof:lastmodified":1449006630,
+    "wof:lastmodified":1466488337,
     "wof:name":"North Idaho Treatment Assoc",
     "wof:parent_id":85821457,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "counseling"
     ]
 },
-  "bbox": [-116.779565,47.675486,-116.779565,47.675486],
-  "geometry": {"coordinates":[-116.779565,47.675486],"type":"Point"}
+  "bbox": [
+    -116.779565,
+    47.675486,
+    -116.779565,
+    47.675486
+],
+  "geometry": {"coordinates":[-116.77956500000001,47.675486],"type":"Point"}
 }

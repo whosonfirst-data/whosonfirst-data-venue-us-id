@@ -2,13 +2,14 @@
   "id": 169593523,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.182578,43.544588,-116.182578,43.544588",
     "geom:latitude":43.544588,
     "geom:longitude":-116.182578,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6893 Supply Way",
     "sg:city":"Boise",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":169593523,
-    "wof:lastmodified":1449034878,
+    "wof:lastmodified":1466486992,
     "wof:name":"Access Vans",
     "wof:parent_id":85876329,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "ramp"
     ]
 },
-  "bbox": [-116.182578,43.544588,-116.182578,43.544588],
-  "geometry": {"coordinates":[-116.182578,43.544588],"type":"Point"}
+  "bbox": [
+    -116.182578,
+    43.544588,
+    -116.182578,
+    43.544588
+],
+  "geometry": {"coordinates":[-116.18257800000001,43.544588],"type":"Point"}
 }

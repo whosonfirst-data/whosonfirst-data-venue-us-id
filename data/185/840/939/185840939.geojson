@@ -2,13 +2,14 @@
   "id": 185840939,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.861719,43.82514,-111.861719,43.82514",
     "geom:latitude":43.82514,
     "geom:longitude":-111.861719,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4191 W Hwy 33",
     "sg:city":"Rexburg",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":185840939,
-    "wof:lastmodified":1449007872,
+    "wof:lastmodified":1466488435,
     "wof:name":"Matrix Drillings Products Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "trencher"
     ]
 },
-  "bbox": [-111.861719,43.82514,-111.861719,43.82514],
-  "geometry": {"coordinates":[-111.861719,43.82514],"type":"Point"}
+  "bbox": [
+    -111.861719,
+    43.82514,
+    -111.861719,
+    43.82514
+],
+  "geometry": {"coordinates":[-111.86171899999999,43.82514],"type":"Point"}
 }

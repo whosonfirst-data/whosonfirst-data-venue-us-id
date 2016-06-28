@@ -2,13 +2,14 @@
   "id": 186191249,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.502519,42.728898,-114.502519,42.728898",
     "geom:latitude":42.728898,
     "geom:longitude":-114.502519,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"929 4th Ave Dr",
     "sg:city":"Jerome",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":186191249,
-    "wof:lastmodified":1449051983,
+    "wof:lastmodified":1466488486,
     "wof:name":"Egbert Electric",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "contractor"
     ]
 },
-  "bbox": [-114.502519,42.728898,-114.502519,42.728898],
-  "geometry": {"coordinates":[-114.502519,42.728898],"type":"Point"}
+  "bbox": [
+    -114.502519,
+    42.728898,
+    -114.502519,
+    42.728898
+],
+  "geometry": {"coordinates":[-114.50251900000001,42.728898],"type":"Point"}
 }

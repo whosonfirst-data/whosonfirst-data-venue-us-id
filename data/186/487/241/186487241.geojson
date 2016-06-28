@@ -2,13 +2,14 @@
   "id": 186487241,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.062995,43.141527,-114.062995,43.141527",
     "geom:latitude":43.141527,
     "geom:longitude":-114.062995,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1572 E Hwy 26",
     "sg:city":"Richfield",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":186487241,
-    "wof:lastmodified":1449051273,
+    "wof:lastmodified":1466488858,
     "wof:name":"Glambia Foods Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "dairy"
     ]
 },
-  "bbox": [-114.062995,43.141527,-114.062995,43.141527],
+  "bbox": [
+    -114.062995,
+    43.141527,
+    -114.062995,
+    43.141527
+],
   "geometry": {"coordinates":[-114.062995,43.141527],"type":"Point"}
 }

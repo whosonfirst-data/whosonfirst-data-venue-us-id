@@ -2,13 +2,14 @@
   "id": 186098799,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.045168,43.49441,-112.045168,43.49441",
     "geom:latitude":43.49441,
     "geom:longitude":-112.045168,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"475 River Pkwy",
     "sg:city":"Idaho Falls",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":186098799,
-    "wof:lastmodified":1449052741,
+    "wof:lastmodified":1466487847,
     "wof:name":"Westbank Restaurant",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.045168,43.49441,-112.045168,43.49441],
+  "bbox": [
+    -112.045168,
+    43.49441,
+    -112.045168,
+    43.49441
+],
   "geometry": {"coordinates":[-112.045168,43.49441],"type":"Point"}
 }

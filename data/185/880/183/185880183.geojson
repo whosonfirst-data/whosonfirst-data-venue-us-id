@@ -2,13 +2,14 @@
   "id": 185880183,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.18448,43.647029,-116.18448,43.647029",
     "geom:latitude":43.647029,
     "geom:longitude":-116.18448,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2930 N Sheffield Ct",
     "sg:city":"Boise",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":185880183,
-    "wof:lastmodified":1449008224,
+    "wof:lastmodified":1466488533,
     "wof:name":"Neighbor Dave",
     "wof:parent_id":85825211,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "musician"
     ]
 },
-  "bbox": [-116.18448,43.647029,-116.18448,43.647029],
-  "geometry": {"coordinates":[-116.18448,43.647029],"type":"Point"}
+  "bbox": [
+    -116.18448,
+    43.647029,
+    -116.18448,
+    43.647029
+],
+  "geometry": {"coordinates":[-116.18447999999999,43.647029],"type":"Point"}
 }

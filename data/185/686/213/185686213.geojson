@@ -2,13 +2,14 @@
   "id": 185686213,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-113.901179,45.187943,-113.901179,45.187943",
     "geom:latitude":45.187943,
     "geom:longitude":-113.901179,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"903 Waller St",
     "sg:city":"Salmon",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":185686213,
-    "wof:lastmodified":1449007834,
+    "wof:lastmodified":1466487414,
     "wof:name":"Taylor Mountain Surveying",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "surveyor"
     ]
 },
-  "bbox": [-113.901179,45.187943,-113.901179,45.187943],
+  "bbox": [
+    -113.901179,
+    45.187943,
+    -113.901179,
+    45.187943
+],
   "geometry": {"coordinates":[-113.901179,45.187943],"type":"Point"}
 }

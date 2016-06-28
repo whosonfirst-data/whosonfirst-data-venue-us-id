@@ -2,13 +2,14 @@
   "id": 185856335,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-117.027423,46.421452,-117.027423,46.421452",
     "geom:latitude":46.421452,
     "geom:longitude":-117.027423,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"324 Main St",
     "sg:city":"Lewiston",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":185856335,
-    "wof:lastmodified":1449007070,
+    "wof:lastmodified":1466488479,
     "wof:name":"Jonathan D Hally",
     "wof:parent_id":85852537,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-117.027423,46.421452,-117.027423,46.421452],
+  "bbox": [
+    -117.027423,
+    46.421452,
+    -117.027423,
+    46.421452
+],
   "geometry": {"coordinates":[-117.027423,46.421452],"type":"Point"}
 }

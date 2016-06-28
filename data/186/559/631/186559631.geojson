@@ -2,13 +2,14 @@
   "id": 186559631,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.114876,43.438106,-112.114876,43.438106",
     "geom:latitude":43.438106,
     "geom:longitude":-112.114876,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6769 W Overland Dr",
     "sg:city":"Idaho Falls",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":186559631,
-    "wof:lastmodified":1449052417,
+    "wof:lastmodified":1466488937,
     "wof:name":"PSI Waste Systems",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "waste"
     ]
 },
-  "bbox": [-112.114876,43.438106,-112.114876,43.438106],
+  "bbox": [
+    -112.114876,
+    43.438106,
+    -112.114876,
+    43.438106
+],
   "geometry": {"coordinates":[-112.114876,43.438106],"type":"Point"}
 }

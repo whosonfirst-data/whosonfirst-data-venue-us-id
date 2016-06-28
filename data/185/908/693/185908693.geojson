@@ -2,13 +2,14 @@
   "id": 185908693,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.120072,46.213107,-116.120072,46.213107",
     "geom:latitude":46.213107,
     "geom:longitude":-116.120072,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2900 Lawyer Creek Rd",
     "sg:city":"Kamiah",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":185908693,
-    "wof:lastmodified":1449007517,
+    "wof:lastmodified":1466488581,
     "wof:name":"Flying B Ranch",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "hunting"
     ]
 },
-  "bbox": [-116.120072,46.213107,-116.120072,46.213107],
-  "geometry": {"coordinates":[-116.120072,46.213107],"type":"Point"}
+  "bbox": [
+    -116.120072,
+    46.213107,
+    -116.120072,
+    46.213107
+],
+  "geometry": {"coordinates":[-116.12007199999999,46.213107],"type":"Point"}
 }

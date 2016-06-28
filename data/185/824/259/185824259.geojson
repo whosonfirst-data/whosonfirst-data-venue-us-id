@@ -2,13 +2,14 @@
   "id": 185824259,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.476253,42.891327,-112.476253,42.891327",
     "geom:latitude":42.891327,
     "geom:longitude":-112.476253,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1185 W Alameda Rd",
     "sg:city":"Pocatello",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":185824259,
-    "wof:lastmodified":1449007156,
+    "wof:lastmodified":1466488411,
     "wof:name":"Alameda Automotive",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "automobile"
     ]
 },
-  "bbox": [-112.476253,42.891327,-112.476253,42.891327],
+  "bbox": [
+    -112.476253,
+    42.891327,
+    -112.476253,
+    42.891327
+],
   "geometry": {"coordinates":[-112.476253,42.891327],"type":"Point"}
 }

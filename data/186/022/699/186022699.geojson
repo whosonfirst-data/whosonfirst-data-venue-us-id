@@ -2,13 +2,14 @@
   "id": 186022699,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.951074,43.486291,-111.951074,43.486291",
     "geom:latitude":43.486291,
     "geom:longitude":-111.951074,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1227 Cobie Ln",
     "sg:city":"Ammon",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":186022699,
-    "wof:lastmodified":1449051281,
+    "wof:lastmodified":1466486993,
     "wof:name":"Dogtooth Farms",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.951074,43.486291,-111.951074,43.486291],
-  "geometry": {"coordinates":[-111.951074,43.486291],"type":"Point"}
+  "bbox": [
+    -111.951074,
+    43.486291,
+    -111.951074,
+    43.486291
+],
+  "geometry": {"coordinates":[-111.95107400000001,43.486291],"type":"Point"}
 }

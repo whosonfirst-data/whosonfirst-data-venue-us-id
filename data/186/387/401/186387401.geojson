@@ -2,13 +2,14 @@
   "id": 186387401,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.999714,46.380618,-116.999714,46.380618",
     "geom:latitude":46.380618,
     "geom:longitude":-116.999714,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"621 Bryden Ave",
     "sg:city":"Lewiston",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":186387401,
-    "wof:lastmodified":1449052656,
+    "wof:lastmodified":1466488775,
     "wof:name":"Tobacco Stop",
     "wof:parent_id":85837769,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "dealer"
     ]
 },
-  "bbox": [-116.999714,46.380618,-116.999714,46.380618],
+  "bbox": [
+    -116.999714,
+    46.380618,
+    -116.999714,
+    46.380618
+],
   "geometry": {"coordinates":[-116.999714,46.380618],"type":"Point"}
 }

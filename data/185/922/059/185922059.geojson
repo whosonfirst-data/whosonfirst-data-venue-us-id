@@ -2,13 +2,14 @@
   "id": 185922059,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.58202,47.321694,-116.58202,47.321694",
     "geom:latitude":47.321694,
     "geom:longitude":-116.58202,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1369 Railroad Ave",
     "sg:city":"St Maries",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":185922059,
-    "wof:lastmodified":1449006756,
+    "wof:lastmodified":1466488604,
     "wof:name":"North Idaho Vinyl Graphic Dsgn",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-116.58202,47.321694,-116.58202,47.321694],
+  "bbox": [
+    -116.58202,
+    47.321694,
+    -116.58202,
+    47.321694
+],
   "geometry": {"coordinates":[-116.58202,47.321694],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169777585,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.820235,46.352247,-116.820235,46.352247",
     "geom:latitude":46.352247,
     "geom:longitude":-116.820235,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"22499 Webb Rd",
     "sg:city":"Lapwai",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":169777585,
-    "wof:lastmodified":1449034428,
+    "wof:lastmodified":1466488465,
     "wof:name":"Honey Ball",
     "wof:parent_id":85837769,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "animal"
     ]
 },
-  "bbox": [-116.820235,46.352247,-116.820235,46.352247],
+  "bbox": [
+    -116.820235,
+    46.352247,
+    -116.820235,
+    46.352247
+],
   "geometry": {"coordinates":[-116.820235,46.352247],"type":"Point"}
 }

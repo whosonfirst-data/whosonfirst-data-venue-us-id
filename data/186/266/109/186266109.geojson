@@ -2,13 +2,14 @@
   "id": 186266109,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.952249,43.739381,-116.952249,43.739381",
     "geom:latitude":43.739381,
     "geom:longitude":-116.952249,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"25357 Wamstad Rd",
     "sg:city":"Parma",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":186266109,
-    "wof:lastmodified":1449050349,
+    "wof:lastmodified":1466488622,
     "wof:name":"State Line Farms",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-116.952249,43.739381,-116.952249,43.739381],
-  "geometry": {"coordinates":[-116.952249,43.739381],"type":"Point"}
+  "bbox": [
+    -116.952249,
+    43.739381,
+    -116.952249,
+    43.739381
+],
+  "geometry": {"coordinates":[-116.95224899999999,43.739381],"type":"Point"}
 }

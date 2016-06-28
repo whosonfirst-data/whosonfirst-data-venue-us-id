@@ -2,13 +2,14 @@
   "id": 185792957,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.196378,43.636094,-116.196378,43.636094",
     "geom:latitude":43.636094,
     "geom:longitude":-116.196378,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"754 W Sandstone Ct",
     "sg:city":"Boise",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":185792957,
-    "wof:lastmodified":1449006963,
+    "wof:lastmodified":1466488256,
     "wof:name":"Toucan Townhomes Inc",
     "wof:parent_id":85876291,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-116.196378,43.636094,-116.196378,43.636094],
+  "bbox": [
+    -116.196378,
+    43.636094,
+    -116.196378,
+    43.636094
+],
   "geometry": {"coordinates":[-116.196378,43.636094],"type":"Point"}
 }

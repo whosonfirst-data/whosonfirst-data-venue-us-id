@@ -2,13 +2,14 @@
   "id": 185654469,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.253466,46.479946,-116.253466,46.479946",
     "geom:latitude":46.479946,
     "geom:longitude":-116.253466,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"150 Michigan Ave",
     "sg:city":"Orofino",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":185654469,
-    "wof:lastmodified":1449007144,
+    "wof:lastmodified":1466487172,
     "wof:name":"Clearwater County Social Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "resource"
     ]
 },
-  "bbox": [-116.253466,46.479946,-116.253466,46.479946],
+  "bbox": [
+    -116.253466,
+    46.479946,
+    -116.253466,
+    46.479946
+],
   "geometry": {"coordinates":[-116.253466,46.479946],"type":"Point"}
 }

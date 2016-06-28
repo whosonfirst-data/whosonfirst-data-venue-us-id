@@ -2,13 +2,14 @@
   "id": 169866655,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.782431,47.672738,-116.782431,47.672738",
     "geom:latitude":47.672738,
     "geom:longitude":-116.782431,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"319 E Front Ave",
     "sg:city":"Coeur D Alene",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":169866655,
-    "wof:lastmodified":1449034249,
+    "wof:lastmodified":1466488552,
     "wof:name":"Quicksilver Studios",
     "wof:parent_id":85821457,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "photographer"
     ]
 },
-  "bbox": [-116.782431,47.672738,-116.782431,47.672738],
+  "bbox": [
+    -116.782431,
+    47.672738,
+    -116.782431,
+    47.672738
+],
   "geometry": {"coordinates":[-116.782431,47.672738],"type":"Point"}
 }

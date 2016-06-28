@@ -2,13 +2,14 @@
   "id": 186504153,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.390869,43.748079,-114.390869,43.748079",
     "geom:latitude":43.748079,
     "geom:longitude":-114.390869,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"13391 State Hwy 75",
     "sg:city":"Ketchum",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":186504153,
-    "wof:lastmodified":1449050887,
+    "wof:lastmodified":1466488916,
     "wof:name":"Wall 2 Wall Distinctive Floor",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "rug"
     ]
 },
-  "bbox": [-114.390869,43.748079,-114.390869,43.748079],
+  "bbox": [
+    -114.390869,
+    43.748079,
+    -114.390869,
+    43.748079
+],
   "geometry": {"coordinates":[-114.390869,43.748079],"type":"Point"}
 }

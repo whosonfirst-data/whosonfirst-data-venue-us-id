@@ -2,13 +2,14 @@
   "id": 186254539,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.166522,43.610693,-116.166522,43.610693",
     "geom:latitude":43.610693,
     "geom:longitude":-116.166522,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2092 E Parkside Dr",
     "sg:city":"Boise",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186254539,
-    "wof:lastmodified":1449052217,
+    "wof:lastmodified":1466488603,
     "wof:name":"Laurie Mauser Archaeologist",
     "wof:parent_id":85876305,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "archaeologist"
     ]
 },
-  "bbox": [-116.166522,43.610693,-116.166522,43.610693],
+  "bbox": [
+    -116.166522,
+    43.610693,
+    -116.166522,
+    43.610693
+],
   "geometry": {"coordinates":[-116.166522,43.610693],"type":"Point"}
 }

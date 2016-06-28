@@ -2,13 +2,14 @@
   "id": 169607507,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.556636,43.572132,-116.556636,43.572132",
     "geom:latitude":43.572132,
     "geom:longitude":-116.556636,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"423 18th Ave S",
     "sg:city":"Nampa",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":169607507,
-    "wof:lastmodified":1449033125,
+    "wof:lastmodified":1466486919,
     "wof:name":"Real Life Community Church",
     "wof:parent_id":85827787,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-116.556636,43.572132,-116.556636,43.572132],
+  "bbox": [
+    -116.556636,
+    43.572132,
+    -116.556636,
+    43.572132
+],
   "geometry": {"coordinates":[-116.556636,43.572132],"type":"Point"}
 }

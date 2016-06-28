@@ -2,13 +2,14 @@
   "id": 186501245,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.695338,43.134888,-115.695338,43.134888",
     "geom:latitude":43.134888,
     "geom:longitude":-115.695338,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"250 E 5th N",
     "sg:city":"Mountain Home",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186501245,
-    "wof:lastmodified":1449053051,
+    "wof:lastmodified":1466488914,
     "wof:name":"Mulberry Place",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "dealer"
     ]
 },
-  "bbox": [-115.695338,43.134888,-115.695338,43.134888],
-  "geometry": {"coordinates":[-115.695338,43.134888],"type":"Point"}
+  "bbox": [
+    -115.695338,
+    43.134888,
+    -115.695338,
+    43.134888
+],
+  "geometry": {"coordinates":[-115.69533800000001,43.134888],"type":"Point"}
 }

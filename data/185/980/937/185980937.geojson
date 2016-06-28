@@ -2,13 +2,14 @@
   "id": 185980937,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.179387,43.566188,-116.179387,43.566188",
     "geom:latitude":43.566188,
     "geom:longitude":-116.179387,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3960 S Federal Way",
     "sg:city":"Boise",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":185980937,
-    "wof:lastmodified":1449006711,
+    "wof:lastmodified":1466488653,
     "wof:name":"Falcon Valley",
     "wof:parent_id":85876329,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "apartment"
     ]
 },
-  "bbox": [-116.179387,43.566188,-116.179387,43.566188],
-  "geometry": {"coordinates":[-116.179387,43.566188],"type":"Point"}
+  "bbox": [
+    -116.179387,
+    43.566188,
+    -116.179387,
+    43.566188
+],
+  "geometry": {"coordinates":[-116.17938700000001,43.566188],"type":"Point"}
 }

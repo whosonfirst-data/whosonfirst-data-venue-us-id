@@ -2,13 +2,14 @@
   "id": 169769383,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.12327,43.369749,-112.12327,43.369749",
     "geom:latitude":43.369749,
     "geom:longitude":-112.12327,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"757 S Park Ave",
     "sg:city":"Shelley",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":169769383,
-    "wof:lastmodified":1449033784,
+    "wof:lastmodified":1466488444,
     "wof:name":"Little Blossoms Day Care",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "day"
     ]
 },
-  "bbox": [-112.12327,43.369749,-112.12327,43.369749],
-  "geometry": {"coordinates":[-112.12327,43.369749],"type":"Point"}
+  "bbox": [
+    -112.12327,
+    43.369749,
+    -112.12327,
+    43.369749
+],
+  "geometry": {"coordinates":[-112.12327000000001,43.369749],"type":"Point"}
 }

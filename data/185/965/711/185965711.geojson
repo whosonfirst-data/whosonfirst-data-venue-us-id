@@ -2,13 +2,14 @@
   "id": 185965711,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.970311,44.069801,-116.970311,44.069801",
     "geom:latitude":44.069801,
     "geom:longitude":-116.970311,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9394 Kennedy Ln",
     "sg:city":"Payette",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":185965711,
-    "wof:lastmodified":1449007719,
+    "wof:lastmodified":1466488700,
     "wof:name":"J W Excavating",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "contractor"
     ]
 },
-  "bbox": [-116.970311,44.069801,-116.970311,44.069801],
+  "bbox": [
+    -116.970311,
+    44.069801,
+    -116.970311,
+    44.069801
+],
   "geometry": {"coordinates":[-116.970311,44.069801],"type":"Point"}
 }

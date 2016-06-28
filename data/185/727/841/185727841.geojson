@@ -2,13 +2,14 @@
   "id": 185727841,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.233297,43.649334,-116.233297,43.649334",
     "geom:latitude":43.649334,
     "geom:longitude":-116.233297,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3110 N 36th St",
     "sg:city":"Boise",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":185727841,
-    "wof:lastmodified":1449006853,
+    "wof:lastmodified":1466487745,
     "wof:name":"Suffocation Keep",
     "wof:parent_id":85876339,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "group"
     ]
 },
-  "bbox": [-116.233297,43.649334,-116.233297,43.649334],
-  "geometry": {"coordinates":[-116.233297,43.649334],"type":"Point"}
+  "bbox": [
+    -116.233297,
+    43.649334,
+    -116.233297,
+    43.649334
+],
+  "geometry": {"coordinates":[-116.23329699999999,43.649334],"type":"Point"}
 }

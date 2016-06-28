@@ -2,13 +2,14 @@
   "id": 185941181,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.425512,43.620857,-116.425512,43.620857",
     "geom:latitude":43.620857,
     "geom:longitude":-116.425512,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2586 Misty Dr",
     "sg:city":"Meridian",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":185941181,
-    "wof:lastmodified":1449007570,
+    "wof:lastmodified":1466488652,
     "wof:name":"Family Knight",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-116.425512,43.620857,-116.425512,43.620857],
+  "bbox": [
+    -116.425512,
+    43.620857,
+    -116.425512,
+    43.620857
+],
   "geometry": {"coordinates":[-116.425512,43.620857],"type":"Point"}
 }

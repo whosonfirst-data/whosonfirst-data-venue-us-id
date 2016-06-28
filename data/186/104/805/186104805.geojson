@@ -2,13 +2,14 @@
   "id": 186104805,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.256159,43.579013,-116.256159,43.579013",
     "geom:latitude":43.579013,
     "geom:longitude":-116.256159,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2405 Janeen St",
     "sg:city":"Boise",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186104805,
-    "wof:lastmodified":1449051481,
+    "wof:lastmodified":1466487913,
     "wof:name":"Northwest Equipment Sales",
     "wof:parent_id":85825393,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "trailer"
     ]
 },
-  "bbox": [-116.256159,43.579013,-116.256159,43.579013],
+  "bbox": [
+    -116.256159,
+    43.579013,
+    -116.256159,
+    43.579013
+],
   "geometry": {"coordinates":[-116.256159,43.579013],"type":"Point"}
 }

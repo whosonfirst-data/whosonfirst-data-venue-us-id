@@ -2,13 +2,14 @@
   "id": 169841213,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.764648,47.685168,-116.764648,47.685168",
     "geom:latitude":47.685168,
     "geom:longitude":-116.764648,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1518 E Maple Ave",
     "sg:city":"Coeur D Alene",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":169841213,
-    "wof:lastmodified":1449033375,
+    "wof:lastmodified":1466488610,
     "wof:name":"Petersen Stove Service",
     "wof:parent_id":85821457,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-116.764648,47.685168,-116.764648,47.685168],
-  "geometry": {"coordinates":[-116.764648,47.685168],"type":"Point"}
+  "bbox": [
+    -116.764648,
+    47.685168,
+    -116.764648,
+    47.685168
+],
+  "geometry": {"coordinates":[-116.76464799999999,47.685168],"type":"Point"}
 }

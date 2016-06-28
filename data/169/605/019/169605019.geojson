@@ -2,13 +2,14 @@
   "id": 169605019,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.4395,43.582922,-116.4395,43.582922",
     "geom:latitude":43.582922,
     "geom:longitude":-116.4395,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3745 W Lamont Rd",
     "sg:city":"Meridian",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":169605019,
-    "wof:lastmodified":1449034289,
+    "wof:lastmodified":1466486877,
     "wof:name":"Loubon Construction",
     "wof:parent_id":85805083,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "residential"
     ]
 },
-  "bbox": [-116.4395,43.582922,-116.4395,43.582922],
+  "bbox": [
+    -116.4395,
+    43.582922,
+    -116.4395,
+    43.582922
+],
   "geometry": {"coordinates":[-116.4395,43.582922],"type":"Point"}
 }

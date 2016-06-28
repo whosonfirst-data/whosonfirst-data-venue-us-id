@@ -2,13 +2,14 @@
   "id": 169639211,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.398903,43.240134,-112.398903,43.240134",
     "geom:latitude":43.240134,
     "geom:longitude":-112.398903,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"513 W 300 N",
     "sg:city":"Blackfoot",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":169639211,
-    "wof:lastmodified":1449035951,
+    "wof:lastmodified":1466487426,
     "wof:name":"J&J Custom Woodworking",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "cabinet"
     ]
 },
-  "bbox": [-112.398903,43.240134,-112.398903,43.240134],
+  "bbox": [
+    -112.398903,
+    43.240134,
+    -112.398903,
+    43.240134
+],
   "geometry": {"coordinates":[-112.398903,43.240134],"type":"Point"}
 }

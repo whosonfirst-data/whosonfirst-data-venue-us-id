@@ -2,13 +2,14 @@
   "id": 186061813,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.445113,42.864994,-112.445113,42.864994",
     "geom:latitude":42.864994,
     "geom:longitude":-112.445113,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"156 S 3rd Ave",
     "sg:city":"Pocatello",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":186061813,
-    "wof:lastmodified":1449052293,
+    "wof:lastmodified":1466487447,
     "wof:name":"Primbs Printing",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "commercial"
     ]
 },
-  "bbox": [-112.445113,42.864994,-112.445113,42.864994],
-  "geometry": {"coordinates":[-112.445113,42.864994],"type":"Point"}
+  "bbox": [
+    -112.445113,
+    42.864994,
+    -112.445113,
+    42.864994
+],
+  "geometry": {"coordinates":[-112.44511300000001,42.864994],"type":"Point"}
 }

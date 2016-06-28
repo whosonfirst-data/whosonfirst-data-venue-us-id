@@ -2,13 +2,14 @@
   "id": 320536487,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.93502,44.073372,-116.93502,44.073372",
     "geom:latitude":44.073372,
     "geom:longitude":-116.93502,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"134 N Main St",
     "sg:city":"Payette",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":320536487,
-    "wof:lastmodified":1449013485,
+    "wof:lastmodified":1466486845,
     "wof:name":"Pcc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -66,6 +68,11 @@
         "repairing"
     ]
 },
-  "bbox": [-116.93502,44.073372,-116.93502,44.073372],
-  "geometry": {"coordinates":[-116.93502,44.073372],"type":"Point"}
+  "bbox": [
+    -116.93502,
+    44.073372,
+    -116.93502,
+    44.073372
+],
+  "geometry": {"coordinates":[-116.93501999999999,44.073372],"type":"Point"}
 }

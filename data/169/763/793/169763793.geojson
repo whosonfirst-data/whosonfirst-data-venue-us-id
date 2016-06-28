@@ -2,13 +2,14 @@
   "id": 169763793,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-117.000339,46.399505,-117.000339,46.399505",
     "geom:latitude":46.399505,
     "geom:longitude":-117.000339,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2102 Nez Perce Dr",
     "sg:city":"Lewiston",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":169763793,
-    "wof:lastmodified":1449035956,
+    "wof:lastmodified":1466488447,
     "wof:name":"Walgreens",
     "wof:parent_id":85837769,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-117.000339,46.399505,-117.000339,46.399505],
+  "bbox": [
+    -117.000339,
+    46.399505,
+    -117.000339,
+    46.399505
+],
   "geometry": {"coordinates":[-117.000339,46.399505],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 320524877,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.875603,46.290874,-116.875603,46.290874",
     "geom:latitude":46.290874,
     "geom:longitude":-116.875603,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"35046 Powell Rd",
     "sg:city":"Lewiston",
     "sg:classifiers":[
@@ -58,10 +59,11 @@
         }
     ],
     "wof:id":320524877,
-    "wof:lastmodified":1449011224,
+    "wof:lastmodified":1466487250,
     "wof:name":"Wentworth Construction",
     "wof:parent_id":85837769,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -70,6 +72,11 @@
         "contractor"
     ]
 },
-  "bbox": [-116.875603,46.290874,-116.875603,46.290874],
+  "bbox": [
+    -116.875603,
+    46.290874,
+    -116.875603,
+    46.290874
+],
   "geometry": {"coordinates":[-116.875603,46.290874],"type":"Point"}
 }

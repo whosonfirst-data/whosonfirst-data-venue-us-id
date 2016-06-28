@@ -2,13 +2,14 @@
   "id": 186180667,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.016152,43.479581,-112.016152,43.479581",
     "geom:latitude":43.479581,
     "geom:longitude":-112.016152,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2058 Jennie Lee Dr",
     "sg:city":"Idaho Falls",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186180667,
-    "wof:lastmodified":1449050377,
+    "wof:lastmodified":1466488456,
     "wof:name":"WADA Farms Marketing Group",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "potato"
     ]
 },
-  "bbox": [-112.016152,43.479581,-112.016152,43.479581],
-  "geometry": {"coordinates":[-112.016152,43.479581],"type":"Point"}
+  "bbox": [
+    -112.016152,
+    43.479581,
+    -112.016152,
+    43.479581
+],
+  "geometry": {"coordinates":[-112.01615200000001,43.479581],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186406033,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.257977,43.667615,-116.257977,43.667615",
     "geom:latitude":43.667615,
     "geom:longitude":-116.257977,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5235 N Northwall Ave",
     "sg:city":"Boise",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":186406033,
-    "wof:lastmodified":1449051813,
+    "wof:lastmodified":1466488847,
     "wof:name":"Rebecca J Bowling",
     "wof:parent_id":85811879,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "center"
     ]
 },
-  "bbox": [-116.257977,43.667615,-116.257977,43.667615],
+  "bbox": [
+    -116.257977,
+    43.667615,
+    -116.257977,
+    43.667615
+],
   "geometry": {"coordinates":[-116.257977,43.667615],"type":"Point"}
 }

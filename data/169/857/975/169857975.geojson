@@ -2,13 +2,14 @@
   "id": 169857975,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.996359,43.720652,-111.996359,43.720652",
     "geom:latitude":43.720652,
     "geom:longitude":-111.996359,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"664 N 3530 E",
     "sg:city":"Menan",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":169857975,
-    "wof:lastmodified":1449034826,
+    "wof:lastmodified":1466488633,
     "wof:name":"City Of Menan",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "village"
     ]
 },
-  "bbox": [-111.996359,43.720652,-111.996359,43.720652],
+  "bbox": [
+    -111.996359,
+    43.720652,
+    -111.996359,
+    43.720652
+],
   "geometry": {"coordinates":[-111.996359,43.720652],"type":"Point"}
 }

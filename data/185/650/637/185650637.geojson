@@ -2,13 +2,14 @@
   "id": 185650637,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.024725,43.490618,-112.024725,43.490618",
     "geom:latitude":43.490618,
     "geom:longitude":-112.024725,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"482 8th St",
     "sg:city":"Idaho Falls",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":185650637,
-    "wof:lastmodified":1449007594,
+    "wof:lastmodified":1466487146,
     "wof:name":"Rocky Mountain Pro Systems",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "system"
     ]
 },
-  "bbox": [-112.024725,43.490618,-112.024725,43.490618],
+  "bbox": [
+    -112.024725,
+    43.490618,
+    -112.024725,
+    43.490618
+],
   "geometry": {"coordinates":[-112.024725,43.490618],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169708467,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.513534,48.309175,-116.513534,48.309175",
     "geom:latitude":48.309175,
     "geom:longitude":-116.513534,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"31827 Hwy 200",
     "sg:city":"Kootenai",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":169708467,
-    "wof:lastmodified":1449033209,
+    "wof:lastmodified":1466488112,
     "wof:name":"Funtastics",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "gymnastic"
     ]
 },
-  "bbox": [-116.513534,48.309175,-116.513534,48.309175],
-  "geometry": {"coordinates":[-116.513534,48.309175],"type":"Point"}
+  "bbox": [
+    -116.513534,
+    48.309175,
+    -116.513534,
+    48.309175
+],
+  "geometry": {"coordinates":[-116.51353400000001,48.309175],"type":"Point"}
 }

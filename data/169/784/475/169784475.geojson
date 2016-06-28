@@ -2,13 +2,14 @@
   "id": 169784475,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.98778,43.719961,-116.98778,43.719961",
     "geom:latitude":43.719961,
     "geom:longitude":-116.98778,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"29800 Dixie Rd",
     "sg:city":"Parma",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":169784475,
-    "wof:lastmodified":1449034893,
+    "wof:lastmodified":1466488476,
     "wof:name":"Jerry's Construction & Pool",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "swimming"
     ]
 },
-  "bbox": [-116.98778,43.719961,-116.98778,43.719961],
+  "bbox": [
+    -116.98778,
+    43.719961,
+    -116.98778,
+    43.719961
+],
   "geometry": {"coordinates":[-116.98778,43.719961],"type":"Point"}
 }

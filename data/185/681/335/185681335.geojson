@@ -2,13 +2,14 @@
   "id": 185681335,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.365378,43.677744,-114.365378,43.677744",
     "geom:latitude":43.677744,
     "geom:longitude":-114.365378,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"180 1st St W",
     "sg:city":"Ketchum",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":185681335,
-    "wof:lastmodified":1449007600,
+    "wof:lastmodified":1466487377,
     "wof:name":"Adager",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "software"
     ]
 },
-  "bbox": [-114.365378,43.677744,-114.365378,43.677744],
-  "geometry": {"coordinates":[-114.365378,43.677744],"type":"Point"}
+  "bbox": [
+    -114.365378,
+    43.677744,
+    -114.365378,
+    43.677744
+],
+  "geometry": {"coordinates":[-114.36537800000001,43.677744],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186488341,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.400656,43.625132,-116.400656,43.625132",
     "geom:latitude":43.625132,
     "geom:longitude":-116.400656,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2206 Galway Dr",
     "sg:city":"Meridian",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186488341,
-    "wof:lastmodified":1449052973,
+    "wof:lastmodified":1466488861,
     "wof:name":"Signs Unlimited",
     "wof:parent_id":85876351,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "accessory"
     ]
 },
-  "bbox": [-116.400656,43.625132,-116.400656,43.625132],
+  "bbox": [
+    -116.400656,
+    43.625132,
+    -116.400656,
+    43.625132
+],
   "geometry": {"coordinates":[-116.400656,43.625132],"type":"Point"}
 }

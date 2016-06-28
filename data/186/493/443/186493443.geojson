@@ -2,13 +2,14 @@
   "id": 186493443,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.981648,48.143175,-116.981648,48.143175",
     "geom:latitude":48.143175,
     "geom:longitude":-116.981648,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"446 Decker Ln",
     "sg:city":"Oldtown",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":186493443,
-    "wof:lastmodified":1449051238,
+    "wof:lastmodified":1466488910,
     "wof:name":"Liberty Painting",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "contractor"
     ]
 },
-  "bbox": [-116.981648,48.143175,-116.981648,48.143175],
-  "geometry": {"coordinates":[-116.981648,48.143175],"type":"Point"}
+  "bbox": [
+    -116.981648,
+    48.143175,
+    -116.981648,
+    48.143175
+],
+  "geometry": {"coordinates":[-116.98164800000001,48.143175],"type":"Point"}
 }

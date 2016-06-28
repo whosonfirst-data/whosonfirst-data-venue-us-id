@@ -2,13 +2,14 @@
   "id": 169805201,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.766898,47.700826,-116.766898,47.700826",
     "geom:latitude":47.700826,
     "geom:longitude":-116.766898,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1427 E Best Ave",
     "sg:city":"Coeur D Alene",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":169805201,
-    "wof:lastmodified":1449033789,
+    "wof:lastmodified":1466488515,
     "wof:name":"Zip Trip Inc",
     "wof:parent_id":85821457,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "grocer"
     ]
 },
-  "bbox": [-116.766898,47.700826,-116.766898,47.700826],
+  "bbox": [
+    -116.766898,
+    47.700826,
+    -116.766898,
+    47.700826
+],
   "geometry": {"coordinates":[-116.766898,47.700826],"type":"Point"}
 }

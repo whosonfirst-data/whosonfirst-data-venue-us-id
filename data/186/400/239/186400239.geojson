@@ -2,13 +2,14 @@
   "id": 186400239,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.37115,43.67529,-114.37115,43.67529",
     "geom:latitude":43.67529,
     "geom:longitude":-114.37115,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"181 Bordeaux St",
     "sg:city":"Ketchum",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":186400239,
-    "wof:lastmodified":1449050500,
+    "wof:lastmodified":1466488782,
     "wof:name":"Chemical & Environmental",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "chemist"
     ]
 },
-  "bbox": [-114.37115,43.67529,-114.37115,43.67529],
+  "bbox": [
+    -114.37115,
+    43.67529,
+    -114.37115,
+    43.67529
+],
   "geometry": {"coordinates":[-114.37115,43.67529],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 185736067,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.349597,43.698557,-116.349597,43.698557",
     "geom:latitude":43.698557,
     "geom:longitude":-116.349597,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"467 N Stierman Way",
     "sg:city":"Eagle",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":185736067,
-    "wof:lastmodified":1449008168,
+    "wof:lastmodified":1466487808,
     "wof:name":"Randall Construction",
     "wof:parent_id":85876351,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-116.349597,43.698557,-116.349597,43.698557],
+  "bbox": [
+    -116.349597,
+    43.698557,
+    -116.349597,
+    43.698557
+],
   "geometry": {"coordinates":[-116.349597,43.698557],"type":"Point"}
 }

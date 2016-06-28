@@ -2,13 +2,14 @@
   "id": 186221481,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.121353,47.53515,-116.121353,47.53515",
     "geom:latitude":47.53515,
     "geom:longitude":-116.121353,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"202 S Division St",
     "sg:city":"Kellogg",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186221481,
-    "wof:lastmodified":1449051555,
+    "wof:lastmodified":1466488474,
     "wof:name":"Pinehurst Storage",
     "wof:parent_id":85849049,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "storage"
     ]
 },
-  "bbox": [-116.121353,47.53515,-116.121353,47.53515],
+  "bbox": [
+    -116.121353,
+    47.53515,
+    -116.121353,
+    47.53515
+],
   "geometry": {"coordinates":[-116.121353,47.53515],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186215559,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.254295,43.658467,-116.254295,43.658467",
     "geom:latitude":43.658467,
     "geom:longitude":-116.254295,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4170 N Azalea Ln",
     "sg:city":"Boise",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":186215559,
-    "wof:lastmodified":1449052542,
+    "wof:lastmodified":1466488527,
     "wof:name":"Walter James Co",
     "wof:parent_id":85811879,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "residential"
     ]
 },
-  "bbox": [-116.254295,43.658467,-116.254295,43.658467],
+  "bbox": [
+    -116.254295,
+    43.658467,
+    -116.254295,
+    43.658467
+],
   "geometry": {"coordinates":[-116.254295,43.658467],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186080597,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.819707,43.968827,-116.819707,43.968827",
     "geom:latitude":43.968827,
     "geom:longitude":-116.819707,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"229 S Plymouth Ave",
     "sg:city":"New Plymouth",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186080597,
-    "wof:lastmodified":1449052967,
+    "wof:lastmodified":1466487666,
     "wof:name":"Pioneer Enterprises",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "merchandise"
     ]
 },
-  "bbox": [-116.819707,43.968827,-116.819707,43.968827],
-  "geometry": {"coordinates":[-116.819707,43.968827],"type":"Point"}
+  "bbox": [
+    -116.819707,
+    43.968827,
+    -116.819707,
+    43.968827
+],
+  "geometry": {"coordinates":[-116.81970699999999,43.968827],"type":"Point"}
 }

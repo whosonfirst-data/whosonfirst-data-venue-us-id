@@ -2,13 +2,14 @@
   "id": 186054519,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-117.005843,46.720215,-117.005843,46.720215",
     "geom:latitude":46.720215,
     "geom:longitude":-117.005843,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"457 Ridge Rd",
     "sg:city":"Moscow",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":186054519,
-    "wof:lastmodified":1449051649,
+    "wof:lastmodified":1466487361,
     "wof:name":"Om Assoc Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-117.005843,46.720215,-117.005843,46.720215],
+  "bbox": [
+    -117.005843,
+    46.720215,
+    -117.005843,
+    46.720215
+],
   "geometry": {"coordinates":[-117.005843,46.720215],"type":"Point"}
 }

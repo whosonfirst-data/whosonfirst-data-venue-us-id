@@ -2,13 +2,14 @@
   "id": 186198131,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.54273,43.585093,-116.54273,43.585093",
     "geom:latitude":43.585093,
     "geom:longitude":-116.54273,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2324 Oak St",
     "sg:city":"Nampa",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186198131,
-    "wof:lastmodified":1449051359,
+    "wof:lastmodified":1466488498,
     "wof:name":"Creative Carpentry",
     "wof:parent_id":85827787,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "carpenter"
     ]
 },
-  "bbox": [-116.54273,43.585093,-116.54273,43.585093],
-  "geometry": {"coordinates":[-116.54273,43.585093],"type":"Point"}
+  "bbox": [
+    -116.54273,
+    43.585093,
+    -116.54273,
+    43.585093
+],
+  "geometry": {"coordinates":[-116.54273000000001,43.585093],"type":"Point"}
 }

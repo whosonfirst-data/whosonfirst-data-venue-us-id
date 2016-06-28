@@ -2,13 +2,14 @@
   "id": 185637279,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.251574,43.633743,-116.251574,43.633743",
     "geom:latitude":43.633743,
     "geom:longitude":-116.251574,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"114 E 43rd St",
     "sg:city":"Boise",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":185637279,
-    "wof:lastmodified":1449006595,
+    "wof:lastmodified":1466487046,
     "wof:name":"Boise Cabinet Inc",
     "wof:parent_id":85876339,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "cabinet"
     ]
 },
-  "bbox": [-116.251574,43.633743,-116.251574,43.633743],
-  "geometry": {"coordinates":[-116.251574,43.633743],"type":"Point"}
+  "bbox": [
+    -116.251574,
+    43.633743,
+    -116.251574,
+    43.633743
+],
+  "geometry": {"coordinates":[-116.25157400000001,43.633743],"type":"Point"}
 }

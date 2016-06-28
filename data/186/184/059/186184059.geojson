@@ -2,13 +2,14 @@
   "id": 186184059,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.314423,43.634068,-116.314423,43.634068",
     "geom:latitude":43.634068,
     "geom:longitude":-116.314423,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3383 N Five Mile Rd",
     "sg:city":"Boise",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":186184059,
-    "wof:lastmodified":1449050865,
+    "wof:lastmodified":1466488365,
     "wof:name":"Woggins Blossom Shop",
     "wof:parent_id":85876357,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-116.314423,43.634068,-116.314423,43.634068],
-  "geometry": {"coordinates":[-116.314423,43.634068],"type":"Point"}
+  "bbox": [
+    -116.314423,
+    43.634068,
+    -116.314423,
+    43.634068
+],
+  "geometry": {"coordinates":[-116.31442300000001,43.634068],"type":"Point"}
 }

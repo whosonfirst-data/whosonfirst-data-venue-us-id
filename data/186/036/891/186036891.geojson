@@ -2,13 +2,14 @@
   "id": 186036891,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.563849,43.575719,-116.563849,43.575719",
     "geom:latitude":43.575719,
     "geom:longitude":-116.563849,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"515 12th Ave S",
     "sg:city":"Nampa",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186036891,
-    "wof:lastmodified":1449050995,
+    "wof:lastmodified":1466487159,
     "wof:name":"Landmark Corp",
     "wof:parent_id":85827787,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "establishment"
     ]
 },
-  "bbox": [-116.563849,43.575719,-116.563849,43.575719],
+  "bbox": [
+    -116.563849,
+    43.575719,
+    -116.563849,
+    43.575719
+],
   "geometry": {"coordinates":[-116.563849,43.575719],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 185860555,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.986028,44.157139,-115.986028,44.157139",
     "geom:latitude":44.157139,
     "geom:longitude":-115.986028,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"16 Stardust Ln",
     "sg:city":"Garden Valley",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":185860555,
-    "wof:lastmodified":1449007329,
+    "wof:lastmodified":1466488567,
     "wof:name":"Emergency MGT Consulting Svcs",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-115.986028,44.157139,-115.986028,44.157139],
+  "bbox": [
+    -115.986028,
+    44.157139,
+    -115.986028,
+    44.157139
+],
   "geometry": {"coordinates":[-115.986028,44.157139],"type":"Point"}
 }

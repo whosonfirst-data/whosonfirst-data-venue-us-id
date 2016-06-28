@@ -2,13 +2,14 @@
   "id": 169776931,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.213349,43.625064,-116.213349,43.625064",
     "geom:latitude":43.625064,
     "geom:longitude":-116.213349,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1819 W State St",
     "sg:city":"Boise",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":169776931,
-    "wof:lastmodified":1449033406,
+    "wof:lastmodified":1466488462,
     "wof:name":"Health Dynamics Chiropractic",
     "wof:parent_id":85876355,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-116.213349,43.625064,-116.213349,43.625064],
-  "geometry": {"coordinates":[-116.213349,43.625064],"type":"Point"}
+  "bbox": [
+    -116.213349,
+    43.625064,
+    -116.213349,
+    43.625064
+],
+  "geometry": {"coordinates":[-116.21334899999999,43.625064],"type":"Point"}
 }

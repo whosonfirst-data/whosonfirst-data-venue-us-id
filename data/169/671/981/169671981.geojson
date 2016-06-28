@@ -2,13 +2,14 @@
   "id": 169671981,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.926839,47.472345,-115.926839,47.472345",
     "geom:latitude":47.472345,
     "geom:longitude":-115.926839,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"412 Cedar St",
     "sg:city":"Wallace",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":169671981,
-    "wof:lastmodified":1449033454,
+    "wof:lastmodified":1466487905,
     "wof:name":"Alliance Title & Escrow Corp",
     "wof:parent_id":85849049,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "title"
     ]
 },
-  "bbox": [-115.926839,47.472345,-115.926839,47.472345],
+  "bbox": [
+    -115.926839,
+    47.472345,
+    -115.926839,
+    47.472345
+],
   "geometry": {"coordinates":[-115.926839,47.472345],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169815397,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-117.00413,46.741963,-117.00413,46.741963",
     "geom:latitude":46.741963,
     "geom:longitude":-117.00413,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"720 N Almon St",
     "sg:city":"Moscow",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":169815397,
-    "wof:lastmodified":1449034280,
+    "wof:lastmodified":1466488539,
     "wof:name":"PAD Mini Storage",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "storage"
     ]
 },
-  "bbox": [-117.00413,46.741963,-117.00413,46.741963],
+  "bbox": [
+    -117.00413,
+    46.741963,
+    -117.00413,
+    46.741963
+],
   "geometry": {"coordinates":[-117.00413,46.741963],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169630753,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.513572,48.309173,-116.513572,48.309173",
     "geom:latitude":48.309173,
     "geom:longitude":-116.513572,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"32233 Hwy 200",
     "sg:city":"Kootenai",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":169630753,
-    "wof:lastmodified":1449033868,
+    "wof:lastmodified":1466487289,
     "wof:name":"Maritime Tug & Barge",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "establishment"
     ]
 },
-  "bbox": [-116.513572,48.309173,-116.513572,48.309173],
+  "bbox": [
+    -116.513572,
+    48.309173,
+    -116.513572,
+    48.309173
+],
   "geometry": {"coordinates":[-116.513572,48.309173],"type":"Point"}
 }

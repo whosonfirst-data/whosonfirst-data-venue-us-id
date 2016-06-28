@@ -2,13 +2,14 @@
   "id": 169846705,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.357525,43.197681,-112.357525,43.197681",
     "geom:latitude":43.197681,
     "geom:longitude":-112.357525,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1110 Parkway Dr",
     "sg:city":"Blackfoot",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":169846705,
-    "wof:lastmodified":1449035219,
+    "wof:lastmodified":1466488694,
     "wof:name":"Emanuel Lutheran Church",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-112.357525,43.197681,-112.357525,43.197681],
+  "bbox": [
+    -112.357525,
+    43.197681,
+    -112.357525,
+    43.197681
+],
   "geometry": {"coordinates":[-112.357525,43.197681],"type":"Point"}
 }

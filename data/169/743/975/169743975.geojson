@@ -2,13 +2,14 @@
   "id": 169743975,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.200746,43.611155,-116.200746,43.611155",
     "geom:latitude":43.611155,
     "geom:longitude":-116.200746,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"380 S 4th St",
     "sg:city":"Boise",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":169743975,
-    "wof:lastmodified":1449035949,
+    "wof:lastmodified":1466488335,
     "wof:name":"Jan Deroin",
     "wof:parent_id":85876325,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "attorney"
     ]
 },
-  "bbox": [-116.200746,43.611155,-116.200746,43.611155],
+  "bbox": [
+    -116.200746,
+    43.611155,
+    -116.200746,
+    43.611155
+],
   "geometry": {"coordinates":[-116.200746,43.611155],"type":"Point"}
 }

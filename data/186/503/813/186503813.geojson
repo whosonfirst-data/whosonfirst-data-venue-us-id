@@ -2,13 +2,14 @@
   "id": 186503813,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.405138,43.601468,-116.405138,43.601468",
     "geom:latitude":43.601468,
     "geom:longitude":-116.405138,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"323 S Pennant Pl",
     "sg:city":"Meridian",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186503813,
-    "wof:lastmodified":1449053037,
+    "wof:lastmodified":1466488916,
     "wof:name":"Privatechs",
     "wof:parent_id":85805083,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "software"
     ]
 },
-  "bbox": [-116.405138,43.601468,-116.405138,43.601468],
-  "geometry": {"coordinates":[-116.405138,43.601468],"type":"Point"}
+  "bbox": [
+    -116.405138,
+    43.601468,
+    -116.405138,
+    43.601468
+],
+  "geometry": {"coordinates":[-116.40513799999999,43.601468],"type":"Point"}
 }

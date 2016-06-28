@@ -2,13 +2,14 @@
   "id": 186552001,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.954694,46.369506,-116.954694,46.369506",
     "geom:latitude":46.369506,
     "geom:longitude":-116.954694,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1427 Powers Ave",
     "sg:city":"Lewiston",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186552001,
-    "wof:lastmodified":1449051497,
+    "wof:lastmodified":1466488933,
     "wof:name":"Care Connection Home Care",
     "wof:parent_id":85837769,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "home"
     ]
 },
-  "bbox": [-116.954694,46.369506,-116.954694,46.369506],
+  "bbox": [
+    -116.954694,
+    46.369506,
+    -116.954694,
+    46.369506
+],
   "geometry": {"coordinates":[-116.954694,46.369506],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186276385,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.361155,43.682904,-114.361155,43.682904",
     "geom:latitude":43.682904,
     "geom:longitude":-114.361155,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"651 Sun Valley Rd",
     "sg:city":"Ketchum",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":186276385,
-    "wof:lastmodified":1449050373,
+    "wof:lastmodified":1466488643,
     "wof:name":"Pure Sun Valley",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "skin"
     ]
 },
-  "bbox": [-114.361155,43.682904,-114.361155,43.682904],
+  "bbox": [
+    -114.361155,
+    43.682904,
+    -114.361155,
+    43.682904
+],
   "geometry": {"coordinates":[-114.361155,43.682904],"type":"Point"}
 }

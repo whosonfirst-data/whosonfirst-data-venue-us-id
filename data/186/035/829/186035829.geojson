@@ -2,13 +2,14 @@
   "id": 186035829,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.243383,43.608768,-116.243383,43.608768",
     "geom:latitude":43.608768,
     "geom:longitude":-116.243383,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"414 N Orchard St",
     "sg:city":"Boise",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":186035829,
-    "wof:lastmodified":1449052497,
+    "wof:lastmodified":1466487147,
     "wof:name":"Chuck's Barber Shop",
     "wof:parent_id":85876311,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-116.243383,43.608768,-116.243383,43.608768],
-  "geometry": {"coordinates":[-116.243383,43.608768],"type":"Point"}
+  "bbox": [
+    -116.243383,
+    43.608768,
+    -116.243383,
+    43.608768
+],
+  "geometry": {"coordinates":[-116.24338299999999,43.608768],"type":"Point"}
 }

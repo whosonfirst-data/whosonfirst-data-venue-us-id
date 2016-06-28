@@ -2,13 +2,14 @@
   "id": 169833011,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.815202,47.759143,-116.815202,47.759143",
     "geom:latitude":47.759143,
     "geom:longitude":-116.815202,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1695 W Hayden Ave",
     "sg:city":"Hayden Lake",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":169833011,
-    "wof:lastmodified":1449033109,
+    "wof:lastmodified":1466488672,
     "wof:name":"All Seasons Tire & Automotive",
     "wof:parent_id":85821457,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "automobile"
     ]
 },
-  "bbox": [-116.815202,47.759143,-116.815202,47.759143],
+  "bbox": [
+    -116.815202,
+    47.759143,
+    -116.815202,
+    47.759143
+],
   "geometry": {"coordinates":[-116.815202,47.759143],"type":"Point"}
 }

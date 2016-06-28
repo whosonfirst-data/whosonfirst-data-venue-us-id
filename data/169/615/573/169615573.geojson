@@ -2,13 +2,14 @@
   "id": 169615573,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.046538,43.485908,-112.046538,43.485908",
     "geom:latitude":43.485908,
     "geom:longitude":-112.046538,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"739 S Capital Ave",
     "sg:city":"Idaho Falls",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":169615573,
-    "wof:lastmodified":1449033734,
+    "wof:lastmodified":1466487047,
     "wof:name":"Intermountain Meats",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.046538,43.485908,-112.046538,43.485908],
+  "bbox": [
+    -112.046538,
+    43.485908,
+    -112.046538,
+    43.485908
+],
   "geometry": {"coordinates":[-112.046538,43.485908],"type":"Point"}
 }

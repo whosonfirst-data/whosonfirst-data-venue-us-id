@@ -2,13 +2,14 @@
   "id": 186252419,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.445582,44.730267,-116.445582,44.730267",
     "geom:latitude":44.730267,
     "geom:longitude":-116.445582,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"201 N Hornet Creek St",
     "sg:city":"Council",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":186252419,
-    "wof:lastmodified":1449050662,
+    "wof:lastmodified":1466488601,
     "wof:name":"EOA Council Senior Housing",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-116.445582,44.730267,-116.445582,44.730267],
+  "bbox": [
+    -116.445582,
+    44.730267,
+    -116.445582,
+    44.730267
+],
   "geometry": {"coordinates":[-116.445582,44.730267],"type":"Point"}
 }

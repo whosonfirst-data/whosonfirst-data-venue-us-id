@@ -2,13 +2,14 @@
   "id": 169846133,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.829746,47.718517,-116.829746,47.718517",
     "geom:latitude":47.718517,
     "geom:longitude":-116.829746,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4801 N Atlas Rd",
     "sg:city":"Coeur D Alene",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":169846133,
-    "wof:lastmodified":1449035218,
+    "wof:lastmodified":1466488693,
     "wof:name":"North Region Construction",
     "wof:parent_id":85821457,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-116.829746,47.718517,-116.829746,47.718517],
+  "bbox": [
+    -116.829746,
+    47.718517,
+    -116.829746,
+    47.718517
+],
   "geometry": {"coordinates":[-116.829746,47.718517],"type":"Point"}
 }

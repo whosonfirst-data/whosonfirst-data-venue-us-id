@@ -2,13 +2,14 @@
   "id": 320526439,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-117.006347,46.433005,-117.006347,46.433005",
     "geom:latitude":46.433005,
     "geom:longitude":-117.006347,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1485 Old Spiral Hwy Ste A",
     "sg:city":"Lewiston",
     "sg:classifiers":[
@@ -65,10 +66,11 @@
         }
     ],
     "wof:id":320526439,
-    "wof:lastmodified":1449012416,
+    "wof:lastmodified":1466487385,
     "wof:name":"Superior Handlers Drywall Supply",
     "wof:parent_id":85837769,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -79,6 +81,11 @@
         "contractor"
     ]
 },
-  "bbox": [-117.006347,46.433005,-117.006347,46.433005],
-  "geometry": {"coordinates":[-117.006347,46.433005],"type":"Point"}
+  "bbox": [
+    -117.006347,
+    46.433005,
+    -117.006347,
+    46.433005
+],
+  "geometry": {"coordinates":[-117.00634700000001,46.433005],"type":"Point"}
 }

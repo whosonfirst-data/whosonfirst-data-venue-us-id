@@ -2,13 +2,14 @@
   "id": 169866763,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.305154,43.646363,-116.305154,43.646363",
     "geom:latitude":43.646363,
     "geom:longitude":-116.305154,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9863 W Pattie Dr",
     "sg:city":"Boise",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":169866763,
-    "wof:lastmodified":1449034250,
+    "wof:lastmodified":1466488553,
     "wof:name":"Hardee Property Managemen",
     "wof:parent_id":85876357,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "lessor"
     ]
 },
-  "bbox": [-116.305154,43.646363,-116.305154,43.646363],
+  "bbox": [
+    -116.305154,
+    43.646363,
+    -116.305154,
+    43.646363
+],
   "geometry": {"coordinates":[-116.305154,43.646363],"type":"Point"}
 }

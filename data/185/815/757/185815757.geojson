@@ -2,13 +2,14 @@
   "id": 185815757,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.324125,43.53431,-116.324125,43.53431",
     "geom:latitude":43.53431,
     "geom:longitude":-116.324125,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"11259 Valley Heights Ct",
     "sg:city":"Boise",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":185815757,
-    "wof:lastmodified":1449007407,
+    "wof:lastmodified":1466488405,
     "wof:name":"C J Transport",
     "wof:parent_id":85876331,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-116.324125,43.53431,-116.324125,43.53431],
+  "bbox": [
+    -116.324125,
+    43.53431,
+    -116.324125,
+    43.53431
+],
   "geometry": {"coordinates":[-116.324125,43.53431],"type":"Point"}
 }

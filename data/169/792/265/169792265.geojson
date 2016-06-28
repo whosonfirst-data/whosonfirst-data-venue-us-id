@@ -2,13 +2,14 @@
   "id": 169792265,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.209982,43.6125,-116.209982,43.6125",
     "geom:latitude":43.6125,
     "geom:longitude":-116.209982,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"500 S 10th St",
     "sg:city":"Boise",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":169792265,
-    "wof:lastmodified":1449033393,
+    "wof:lastmodified":1466488385,
     "wof:name":"Pro Clarity Corp",
     "wof:parent_id":85876325,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "software"
     ]
 },
-  "bbox": [-116.209982,43.6125,-116.209982,43.6125],
+  "bbox": [
+    -116.209982,
+    43.6125,
+    -116.209982,
+    43.6125
+],
   "geometry": {"coordinates":[-116.209982,43.6125],"type":"Point"}
 }

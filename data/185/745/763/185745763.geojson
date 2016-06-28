@@ -2,13 +2,14 @@
   "id": 185745763,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.773705,47.678916,-116.773705,47.678916",
     "geom:latitude":47.678916,
     "geom:longitude":-116.773705,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"702 N 9th St",
     "sg:city":"Coeur D Alene",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":185745763,
-    "wof:lastmodified":1449008127,
+    "wof:lastmodified":1466487890,
     "wof:name":"Goetzman Photography",
     "wof:parent_id":85821457,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "photographer"
     ]
 },
-  "bbox": [-116.773705,47.678916,-116.773705,47.678916],
-  "geometry": {"coordinates":[-116.773705,47.678916],"type":"Point"}
+  "bbox": [
+    -116.773705,
+    47.678916,
+    -116.773705,
+    47.678916
+],
+  "geometry": {"coordinates":[-116.77370500000001,47.678916],"type":"Point"}
 }

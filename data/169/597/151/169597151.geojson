@@ -2,13 +2,14 @@
   "id": 169597151,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.204904,43.612591,-116.204904,43.612591",
     "geom:latitude":43.612591,
     "geom:longitude":-116.204904,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"475 S Capitol Blvd",
     "sg:city":"Boise",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":169597151,
-    "wof:lastmodified":1449035920,
+    "wof:lastmodified":1466488077,
     "wof:name":"Colliers International",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "investment"
     ]
 },
-  "bbox": [-116.204904,43.612591,-116.204904,43.612591],
+  "bbox": [
+    -116.204904,
+    43.612591,
+    -116.204904,
+    43.612591
+],
   "geometry": {"coordinates":[-116.204904,43.612591],"type":"Point"}
 }

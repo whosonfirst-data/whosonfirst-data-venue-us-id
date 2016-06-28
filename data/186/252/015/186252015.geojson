@@ -2,13 +2,14 @@
   "id": 186252015,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.558799,46.75438,-116.558799,46.75438",
     "geom:latitude":46.75438,
     "geom:longitude":-116.558799,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2661 State Hwy 3",
     "sg:city":"Deary",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":186252015,
-    "wof:lastmodified":1449050657,
+    "wof:lastmodified":1466488678,
     "wof:name":"Geologic Analysis & Consulting",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "geological"
     ]
 },
-  "bbox": [-116.558799,46.75438,-116.558799,46.75438],
-  "geometry": {"coordinates":[-116.558799,46.75438],"type":"Point"}
+  "bbox": [
+    -116.558799,
+    46.75438,
+    -116.558799,
+    46.75438
+],
+  "geometry": {"coordinates":[-116.55879899999999,46.75438],"type":"Point"}
 }

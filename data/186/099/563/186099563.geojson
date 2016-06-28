@@ -2,13 +2,14 @@
   "id": 186099563,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.290259,43.633731,-116.290259,43.633731",
     "geom:latitude":43.633731,
     "geom:longitude":-116.290259,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2938 Maywood Ave",
     "sg:city":"Boise",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186099563,
-    "wof:lastmodified":1449052116,
+    "wof:lastmodified":1466487856,
     "wof:name":"Liquin Enterprises",
     "wof:parent_id":85841319,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "tool"
     ]
 },
-  "bbox": [-116.290259,43.633731,-116.290259,43.633731],
-  "geometry": {"coordinates":[-116.290259,43.633731],"type":"Point"}
+  "bbox": [
+    -116.290259,
+    43.633731,
+    -116.290259,
+    43.633731
+],
+  "geometry": {"coordinates":[-116.29025900000001,43.633731],"type":"Point"}
 }

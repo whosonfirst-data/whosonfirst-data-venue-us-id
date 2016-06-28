@@ -2,13 +2,14 @@
   "id": 185918415,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.219926,43.616815,-116.219926,43.616815",
     "geom:latitude":43.616815,
     "geom:longitude":-116.219926,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"703 Americana Blvd",
     "sg:city":"Boise",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":185918415,
-    "wof:lastmodified":1449007680,
+    "wof:lastmodified":1466488675,
     "wof:name":"Pioneer Title Co Of Ada County",
     "wof:parent_id":85876355,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "title"
     ]
 },
-  "bbox": [-116.219926,43.616815,-116.219926,43.616815],
+  "bbox": [
+    -116.219926,
+    43.616815,
+    -116.219926,
+    43.616815
+],
   "geometry": {"coordinates":[-116.219926,43.616815],"type":"Point"}
 }

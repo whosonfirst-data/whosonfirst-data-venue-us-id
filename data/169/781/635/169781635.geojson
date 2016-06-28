@@ -2,13 +2,14 @@
   "id": 169781635,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.375185,43.583572,-116.375185,43.583572",
     "geom:latitude":43.583572,
     "geom:longitude":-116.375185,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2316 S Chesapeake Ave",
     "sg:city":"Meridian",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":169781635,
-    "wof:lastmodified":1449033310,
+    "wof:lastmodified":1466488470,
     "wof:name":"Lori Lindsey",
     "wof:parent_id":85805083,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "mfg"
     ]
 },
-  "bbox": [-116.375185,43.583572,-116.375185,43.583572],
+  "bbox": [
+    -116.375185,
+    43.583572,
+    -116.375185,
+    43.583572
+],
   "geometry": {"coordinates":[-116.375185,43.583572],"type":"Point"}
 }

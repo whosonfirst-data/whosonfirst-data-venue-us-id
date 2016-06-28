@@ -2,13 +2,14 @@
   "id": 186005473,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.695827,43.129933,-115.695827,43.129933",
     "geom:latitude":43.129933,
     "geom:longitude":-115.695827,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"195 N 2nd W",
     "sg:city":"Mountain Home",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":186005473,
-    "wof:lastmodified":1449052810,
+    "wof:lastmodified":1466488177,
     "wof:name":"Victorian",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "antique"
     ]
 },
-  "bbox": [-115.695827,43.129933,-115.695827,43.129933],
-  "geometry": {"coordinates":[-115.695827,43.129933],"type":"Point"}
+  "bbox": [
+    -115.695827,
+    43.129933,
+    -115.695827,
+    43.129933
+],
+  "geometry": {"coordinates":[-115.69582699999999,43.129933],"type":"Point"}
 }

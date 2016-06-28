@@ -2,13 +2,14 @@
   "id": 169651047,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.96851,46.379032,-116.96851,46.379032",
     "geom:latitude":46.379032,
     "geom:longitude":-116.96851,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3416 12th St C",
     "sg:city":"Lewiston",
     "sg:classifiers":[
@@ -58,14 +59,20 @@
         }
     ],
     "wof:id":169651047,
-    "wof:lastmodified":1449033345,
+    "wof:lastmodified":1466487606,
     "wof:name":"Katies Upholstery Shop",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-116.96851,46.379032,-116.96851,46.379032],
-  "geometry": {"coordinates":[-116.96851,46.379032],"type":"Point"}
+  "bbox": [
+    -116.96851,
+    46.379032,
+    -116.96851,
+    46.379032
+],
+  "geometry": {"coordinates":[-116.96850999999999,46.379032],"type":"Point"}
 }

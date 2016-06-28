@@ -2,13 +2,14 @@
   "id": 185784801,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.500113,43.873473,-116.500113,43.873473",
     "geom:latitude":43.873473,
     "geom:longitude":-116.500113,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"317 S Washington Ave",
     "sg:city":"Emmett",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":185784801,
-    "wof:lastmodified":1449007668,
+    "wof:lastmodified":1466488190,
     "wof:name":"Fearless Farris Stinker Sta",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "oil"
     ]
 },
-  "bbox": [-116.500113,43.873473,-116.500113,43.873473],
+  "bbox": [
+    -116.500113,
+    43.873473,
+    -116.500113,
+    43.873473
+],
   "geometry": {"coordinates":[-116.500113,43.873473],"type":"Point"}
 }

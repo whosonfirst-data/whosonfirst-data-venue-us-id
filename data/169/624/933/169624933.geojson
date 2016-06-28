@@ -2,13 +2,14 @@
   "id": 169624933,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.449804,43.812215,-112.449804,43.812215",
     "geom:latitude":43.812215,
     "geom:longitude":-112.449804,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1230 E 1300 N",
     "sg:city":"Terreton",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":169624933,
-    "wof:lastmodified":1449034956,
+    "wof:lastmodified":1466487198,
     "wof:name":"Sleepy Sage Farms",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.449804,43.812215,-112.449804,43.812215],
+  "bbox": [
+    -112.449804,
+    43.812215,
+    -112.449804,
+    43.812215
+],
   "geometry": {"coordinates":[-112.449804,43.812215],"type":"Point"}
 }

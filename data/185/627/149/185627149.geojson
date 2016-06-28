@@ -2,13 +2,14 @@
   "id": 185627149,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.011168,43.480509,-112.011168,43.480509",
     "geom:latitude":43.480509,
     "geom:longitude":-112.011168,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1165 Azalea Dr",
     "sg:city":"Idaho Falls",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":185627149,
-    "wof:lastmodified":1449008249,
+    "wof:lastmodified":1466486969,
     "wof:name":"Idaho Falls Twenty-Eighth Ward",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "church"
     ]
 },
-  "bbox": [-112.011168,43.480509,-112.011168,43.480509],
+  "bbox": [
+    -112.011168,
+    43.480509,
+    -112.011168,
+    43.480509
+],
   "geometry": {"coordinates":[-112.011168,43.480509],"type":"Point"}
 }

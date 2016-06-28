@@ -2,13 +2,14 @@
   "id": 186302483,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.306119,48.695978,-116.306119,48.695978",
     "geom:latitude":48.695978,
     "geom:longitude":-116.306119,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7188 Oak St",
     "sg:city":"Bonners Ferry",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":186302483,
-    "wof:lastmodified":1449051291,
+    "wof:lastmodified":1466488673,
     "wof:name":"Boundary County Schl Dist 101",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-116.306119,48.695978,-116.306119,48.695978],
+  "bbox": [
+    -116.306119,
+    48.695978,
+    -116.306119,
+    48.695978
+],
   "geometry": {"coordinates":[-116.306119,48.695978],"type":"Point"}
 }

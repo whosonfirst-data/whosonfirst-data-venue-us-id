@@ -2,13 +2,14 @@
   "id": 185998973,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.407213,42.934455,-114.407213,42.934455",
     "geom:latitude":42.934455,
     "geom:longitude":-114.407213,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"112 E A St",
     "sg:city":"Shoshone",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":185998973,
-    "wof:lastmodified":1449007125,
+    "wof:lastmodified":1466488749,
     "wof:name":"D & L Woodcrafting",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "woodworker"
     ]
 },
-  "bbox": [-114.407213,42.934455,-114.407213,42.934455],
+  "bbox": [
+    -114.407213,
+    42.934455,
+    -114.407213,
+    42.934455
+],
   "geometry": {"coordinates":[-114.407213,42.934455],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186325375,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.233434,43.596916,-116.233434,43.596916",
     "geom:latitude":43.596916,
     "geom:longitude":-116.233434,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3820 Cassia St",
     "sg:city":"Boise",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186325375,
-    "wof:lastmodified":1449051412,
+    "wof:lastmodified":1466488810,
     "wof:name":"Alano Club Of Boise",
     "wof:parent_id":85876295,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "group"
     ]
 },
-  "bbox": [-116.233434,43.596916,-116.233434,43.596916],
+  "bbox": [
+    -116.233434,
+    43.596916,
+    -116.233434,
+    43.596916
+],
   "geometry": {"coordinates":[-116.233434,43.596916],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 185972881,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.376992,46.51011,-116.376992,46.51011",
     "geom:latitude":46.51011,
     "geom:longitude":-116.376992,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4441 Cavendish Rd",
     "sg:city":"Lenore",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":185972881,
-    "wof:lastmodified":1449007441,
+    "wof:lastmodified":1466488631,
     "wof:name":"Sunnyside Park Mobile Home Ct",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "community"
     ]
 },
-  "bbox": [-116.376992,46.51011,-116.376992,46.51011],
+  "bbox": [
+    -116.376992,
+    46.51011,
+    -116.376992,
+    46.51011
+],
   "geometry": {"coordinates":[-116.376992,46.51011],"type":"Point"}
 }

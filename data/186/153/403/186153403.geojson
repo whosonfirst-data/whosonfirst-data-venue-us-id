@@ -2,13 +2,14 @@
   "id": 186153403,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.789508,47.703561,-116.789508,47.703561",
     "geom:latitude":47.703561,
     "geom:longitude":-116.789508,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2841 Carriage Ct",
     "sg:city":"Coeur D Alene",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":186153403,
-    "wof:lastmodified":1449052219,
+    "wof:lastmodified":1466488315,
     "wof:name":"James Raftery",
     "wof:parent_id":85821457,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-116.789508,47.703561,-116.789508,47.703561],
+  "bbox": [
+    -116.789508,
+    47.703561,
+    -116.789508,
+    47.703561
+],
   "geometry": {"coordinates":[-116.789508,47.703561],"type":"Point"}
 }

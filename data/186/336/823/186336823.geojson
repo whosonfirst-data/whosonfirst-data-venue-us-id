@@ -2,13 +2,14 @@
   "id": 186336823,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.933517,44.078204,-116.933517,44.078204",
     "geom:latitude":44.078204,
     "geom:longitude":-116.933517,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"903 3rd Ave N",
     "sg:city":"Payette",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":186336823,
-    "wof:lastmodified":1449050187,
+    "wof:lastmodified":1466488729,
     "wof:name":"Corner Cuts",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-116.933517,44.078204,-116.933517,44.078204],
-  "geometry": {"coordinates":[-116.933517,44.078204],"type":"Point"}
+  "bbox": [
+    -116.933517,
+    44.078204,
+    -116.933517,
+    44.078204
+],
+  "geometry": {"coordinates":[-116.93351699999999,44.078204],"type":"Point"}
 }

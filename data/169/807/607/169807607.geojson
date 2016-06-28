@@ -2,13 +2,14 @@
   "id": 169807607,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.387844,43.22554,-112.387844,43.22554",
     "geom:latitude":43.22554,
     "geom:longitude":-112.387844,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"461 W 200 N",
     "sg:city":"Blackfoot",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":169807607,
-    "wof:lastmodified":1449033534,
+    "wof:lastmodified":1466488447,
     "wof:name":"Mighty K Towing",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "automotive"
     ]
 },
-  "bbox": [-112.387844,43.22554,-112.387844,43.22554],
+  "bbox": [
+    -112.387844,
+    43.22554,
+    -112.387844,
+    43.22554
+],
   "geometry": {"coordinates":[-112.387844,43.22554],"type":"Point"}
 }

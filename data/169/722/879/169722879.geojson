@@ -2,13 +2,14 @@
   "id": 169722879,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.177983,43.366926,-112.177983,43.366926",
     "geom:latitude":43.366926,
     "geom:longitude":-112.177983,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"555 E 1200 N",
     "sg:city":"Shelley",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":169722879,
-    "wof:lastmodified":1449033843,
+    "wof:lastmodified":1466488217,
     "wof:name":"E Z Prune",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.177983,43.366926,-112.177983,43.366926],
+  "bbox": [
+    -112.177983,
+    43.366926,
+    -112.177983,
+    43.366926
+],
   "geometry": {"coordinates":[-112.177983,43.366926],"type":"Point"}
 }

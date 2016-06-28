@@ -2,13 +2,14 @@
   "id": 185666487,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.014553,43.476154,-112.014553,43.476154",
     "geom:latitude":43.476154,
     "geom:longitude":-112.014553,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2352 Craig Ave",
     "sg:city":"Idaho Falls",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":185666487,
-    "wof:lastmodified":1449007189,
+    "wof:lastmodified":1466487263,
     "wof:name":"Life-Cycle Counseling",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.014553,43.476154,-112.014553,43.476154],
-  "geometry": {"coordinates":[-112.014553,43.476154],"type":"Point"}
+  "bbox": [
+    -112.014553,
+    43.476154,
+    -112.014553,
+    43.476154
+],
+  "geometry": {"coordinates":[-112.01455300000001,43.476154],"type":"Point"}
 }

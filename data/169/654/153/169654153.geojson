@@ -2,13 +2,14 @@
   "id": 169654153,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-113.300241,43.634547,-113.300241,43.634547",
     "geom:latitude":43.634547,
     "geom:longitude":-113.300241,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"104 S Idaho St",
     "sg:city":"Arco",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":169654153,
-    "wof:lastmodified":1449033792,
+    "wof:lastmodified":1466487647,
     "wof:name":"Irrigation Center",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-113.300241,43.634547,-113.300241,43.634547],
+  "bbox": [
+    -113.300241,
+    43.634547,
+    -113.300241,
+    43.634547
+],
   "geometry": {"coordinates":[-113.300241,43.634547],"type":"Point"}
 }

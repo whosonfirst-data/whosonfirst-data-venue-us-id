@@ -2,13 +2,14 @@
   "id": 185667145,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.351268,43.656829,-116.351268,43.656829",
     "geom:latitude":43.656829,
     "geom:longitude":-116.351268,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5691 N Lilybrook Way",
     "sg:city":"Boise",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":185667145,
-    "wof:lastmodified":1449007648,
+    "wof:lastmodified":1466487269,
     "wof:name":"Jay Steckman",
     "wof:parent_id":85876351,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-116.351268,43.656829,-116.351268,43.656829],
+  "bbox": [
+    -116.351268,
+    43.656829,
+    -116.351268,
+    43.656829
+],
   "geometry": {"coordinates":[-116.351268,43.656829],"type":"Point"}
 }

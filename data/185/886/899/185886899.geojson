@@ -2,13 +2,14 @@
   "id": 185886899,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.960642,44.170659,-115.960642,44.170659",
     "geom:latitude":44.170659,
     "geom:longitude":-115.960642,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2 Scriver Woods Rd",
     "sg:city":"Garden Valley",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":185886899,
-    "wof:lastmodified":1449007504,
+    "wof:lastmodified":1466488468,
     "wof:name":"KB Software",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "real estate"
     ]
 },
-  "bbox": [-115.960642,44.170659,-115.960642,44.170659],
-  "geometry": {"coordinates":[-115.960642,44.170659],"type":"Point"}
+  "bbox": [
+    -115.960642,
+    44.170659,
+    -115.960642,
+    44.170659
+],
+  "geometry": {"coordinates":[-115.96064200000001,44.170659],"type":"Point"}
 }

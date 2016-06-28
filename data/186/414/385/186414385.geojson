@@ -2,13 +2,14 @@
   "id": 186414385,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.538073,43.110041,-112.538073,43.110041",
     "geom:latitude":43.110041,
     "geom:longitude":-112.538073,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1219 W 600 S",
     "sg:city":"Pingree",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":186414385,
-    "wof:lastmodified":1449051635,
+    "wof:lastmodified":1466488853,
     "wof:name":"Thorn Springs Ranch Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "cattle"
     ]
 },
-  "bbox": [-112.538073,43.110041,-112.538073,43.110041],
+  "bbox": [
+    -112.538073,
+    43.110041,
+    -112.538073,
+    43.110041
+],
   "geometry": {"coordinates":[-112.538073,43.110041],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169747629,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.776506,43.824914,-111.776506,43.824914",
     "geom:latitude":43.824914,
     "geom:longitude":-111.776506,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"33 Professional Plz",
     "sg:city":"Rexburg",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":169747629,
-    "wof:lastmodified":1449033292,
+    "wof:lastmodified":1466488345,
     "wof:name":"Spine & Sport Physical Therapy",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "physical"
     ]
 },
-  "bbox": [-111.776506,43.824914,-111.776506,43.824914],
+  "bbox": [
+    -111.776506,
+    43.824914,
+    -111.776506,
+    43.824914
+],
   "geometry": {"coordinates":[-111.776506,43.824914],"type":"Point"}
 }

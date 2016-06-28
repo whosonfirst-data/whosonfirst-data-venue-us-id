@@ -2,13 +2,14 @@
   "id": 169792267,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-117.027299,46.421444,-117.027299,46.421444",
     "geom:latitude":46.421444,
     "geom:longitude":-117.027299,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"308 Main St",
     "sg:city":"Lewiston",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":169792267,
-    "wof:lastmodified":1449033395,
+    "wof:lastmodified":1466488485,
     "wof:name":"O'Keefe Insurance",
     "wof:parent_id":85852537,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-117.027299,46.421444,-117.027299,46.421444],
+  "bbox": [
+    -117.027299,
+    46.421444,
+    -117.027299,
+    46.421444
+],
   "geometry": {"coordinates":[-117.027299,46.421444],"type":"Point"}
 }

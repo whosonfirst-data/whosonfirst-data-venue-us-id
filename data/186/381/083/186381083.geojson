@@ -2,13 +2,14 @@
   "id": 186381083,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.428254,43.648485,-116.428254,43.648485",
     "geom:latitude":43.648485,
     "geom:longitude":-116.428254,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2780 W McMillan Rd",
     "sg:city":"Meridian",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186381083,
-    "wof:lastmodified":1449050468,
+    "wof:lastmodified":1466488770,
     "wof:name":"D G Turf Farm & Nursery",
     "wof:parent_id":85876351,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "nurseryman"
     ]
 },
-  "bbox": [-116.428254,43.648485,-116.428254,43.648485],
+  "bbox": [
+    -116.428254,
+    43.648485,
+    -116.428254,
+    43.648485
+],
   "geometry": {"coordinates":[-116.428254,43.648485],"type":"Point"}
 }

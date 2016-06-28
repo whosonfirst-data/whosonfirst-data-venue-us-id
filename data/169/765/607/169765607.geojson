@@ -2,13 +2,14 @@
   "id": 169765607,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.923497,44.01859,-116.923497,44.01859",
     "geom:latitude":44.01859,
     "geom:longitude":-116.923497,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"816 N Whitley Dr",
     "sg:city":"Fruitland",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":169765607,
-    "wof:lastmodified":1449034593,
+    "wof:lastmodified":1466488441,
     "wof:name":"Moxie Java",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "espresso"
     ]
 },
-  "bbox": [-116.923497,44.01859,-116.923497,44.01859],
+  "bbox": [
+    -116.923497,
+    44.01859,
+    -116.923497,
+    44.01859
+],
   "geometry": {"coordinates":[-116.923497,44.01859],"type":"Point"}
 }

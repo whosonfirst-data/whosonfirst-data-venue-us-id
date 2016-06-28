@@ -2,13 +2,14 @@
   "id": 169593805,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.679298,43.647148,-116.679298,43.647148",
     "geom:latitude":43.647148,
     "geom:longitude":-116.679298,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2604 Iowa Ave",
     "sg:city":"Caldwell",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":169593805,
-    "wof:lastmodified":1449034878,
+    "wof:lastmodified":1466486997,
     "wof:name":"Ashley Manor Care Ctr",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "residential"
     ]
 },
-  "bbox": [-116.679298,43.647148,-116.679298,43.647148],
+  "bbox": [
+    -116.679298,
+    43.647148,
+    -116.679298,
+    43.647148
+],
   "geometry": {"coordinates":[-116.679298,43.647148],"type":"Point"}
 }

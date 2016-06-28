@@ -2,13 +2,14 @@
   "id": 169737249,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.281428,44.973543,-116.281428,44.973543",
     "geom:latitude":44.973543,
     "geom:longitude":-116.281428,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"302 N Norris Ave",
     "sg:city":"New Meadows",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":169737249,
-    "wof:lastmodified":1449033419,
+    "wof:lastmodified":1466488315,
     "wof:name":"Mortensen Enterprises",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "contractor"
     ]
 },
-  "bbox": [-116.281428,44.973543,-116.281428,44.973543],
-  "geometry": {"coordinates":[-116.281428,44.973543],"type":"Point"}
+  "bbox": [
+    -116.281428,
+    44.973543,
+    -116.281428,
+    44.973543
+],
+  "geometry": {"coordinates":[-116.28142800000001,44.973543],"type":"Point"}
 }

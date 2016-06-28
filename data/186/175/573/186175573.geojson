@@ -2,13 +2,14 @@
   "id": 186175573,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.218974,43.639192,-116.218974,43.639192",
     "geom:latitude":43.639192,
     "geom:longitude":-116.218974,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2037 Pandora Dr",
     "sg:city":"Boise",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186175573,
-    "wof:lastmodified":1449052231,
+    "wof:lastmodified":1466488445,
     "wof:name":"Portraits Blue Moon",
     "wof:parent_id":85876313,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "photo"
     ]
 },
-  "bbox": [-116.218974,43.639192,-116.218974,43.639192],
+  "bbox": [
+    -116.218974,
+    43.639192,
+    -116.218974,
+    43.639192
+],
   "geometry": {"coordinates":[-116.218974,43.639192],"type":"Point"}
 }

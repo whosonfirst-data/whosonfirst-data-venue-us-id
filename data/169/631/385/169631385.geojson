@@ -2,13 +2,14 @@
   "id": 169631385,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.703107,46.493347,-116.703107,46.493347",
     "geom:latitude":46.493347,
     "geom:longitude":-116.703107,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"20706 Gifford Reubens Rd",
     "sg:city":"Culdesac",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":169631385,
-    "wof:lastmodified":1449033708,
+    "wof:lastmodified":1466487300,
     "wof:name":"Cottonwood Creek Cmnty Church",
     "wof:parent_id":85837769,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-116.703107,46.493347,-116.703107,46.493347],
+  "bbox": [
+    -116.703107,
+    46.493347,
+    -116.703107,
+    46.493347
+],
   "geometry": {"coordinates":[-116.703107,46.493347],"type":"Point"}
 }

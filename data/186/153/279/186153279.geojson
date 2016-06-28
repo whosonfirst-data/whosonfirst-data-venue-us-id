@@ -2,13 +2,14 @@
   "id": 186153279,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.297866,42.320701,-111.297866,42.320701",
     "geom:latitude":42.320701,
     "geom:longitude":-111.297866,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"205 N 4th St",
     "sg:city":"Montpelier",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":186153279,
-    "wof:lastmodified":1449052221,
+    "wof:lastmodified":1466488314,
     "wof:name":"Jensen-Wood Motor Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "dealer"
     ]
 },
-  "bbox": [-111.297866,42.320701,-111.297866,42.320701],
+  "bbox": [
+    -111.297866,
+    42.320701,
+    -111.297866,
+    42.320701
+],
   "geometry": {"coordinates":[-111.297866,42.320701],"type":"Point"}
 }

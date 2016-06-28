@@ -2,13 +2,14 @@
   "id": 169645567,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.227871,43.635018,-116.227871,43.635018",
     "geom:latitude":43.635018,
     "geom:longitude":-116.227871,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3130 W State St",
     "sg:city":"Boise",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":169645567,
-    "wof:lastmodified":1449033006,
+    "wof:lastmodified":1466487520,
     "wof:name":"Western Auto Sales",
     "wof:parent_id":85876339,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "dealer"
     ]
 },
-  "bbox": [-116.227871,43.635018,-116.227871,43.635018],
-  "geometry": {"coordinates":[-116.227871,43.635018],"type":"Point"}
+  "bbox": [
+    -116.227871,
+    43.635018,
+    -116.227871,
+    43.635018
+],
+  "geometry": {"coordinates":[-116.22787099999999,43.635018],"type":"Point"}
 }

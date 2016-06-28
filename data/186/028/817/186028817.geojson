@@ -2,13 +2,14 @@
   "id": 186028817,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-117.029644,47.435084,-117.029644,47.435084",
     "geom:latitude":47.435084,
     "geom:longitude":-117.029644,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"25989 S Drechsel Rd",
     "sg:city":"Worley",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":186028817,
-    "wof:lastmodified":1449051832,
+    "wof:lastmodified":1466487065,
     "wof:name":"Lacy Farm Enterprises",
     "wof:parent_id":85833263,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "general"
     ]
 },
-  "bbox": [-117.029644,47.435084,-117.029644,47.435084],
+  "bbox": [
+    -117.029644,
+    47.435084,
+    -117.029644,
+    47.435084
+],
   "geometry": {"coordinates":[-117.029644,47.435084],"type":"Point"}
 }

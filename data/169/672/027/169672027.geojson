@@ -2,13 +2,14 @@
   "id": 169672027,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.302771,43.639721,-116.302771,43.639721",
     "geom:latitude":43.639721,
     "geom:longitude":-116.302771,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9663 Gurdon Dr",
     "sg:city":"Boise",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":169672027,
-    "wof:lastmodified":1449032888,
+    "wof:lastmodified":1466487906,
     "wof:name":"B & V Tank Calibration",
     "wof:parent_id":85876357,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "calibration"
     ]
 },
-  "bbox": [-116.302771,43.639721,-116.302771,43.639721],
-  "geometry": {"coordinates":[-116.302771,43.639721],"type":"Point"}
+  "bbox": [
+    -116.302771,
+    43.639721,
+    -116.302771,
+    43.639721
+],
+  "geometry": {"coordinates":[-116.30277100000001,43.639721],"type":"Point"}
 }

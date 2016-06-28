@@ -2,13 +2,14 @@
   "id": 185800809,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.693271,43.133135,-115.693271,43.133135",
     "geom:latitude":43.133135,
     "geom:longitude":-115.693271,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"220 N 3rd E",
     "sg:city":"Mountain Home",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":185800809,
-    "wof:lastmodified":1449006735,
+    "wof:lastmodified":1466488311,
     "wof:name":"Bill's Beauty Salon",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-115.693271,43.133135,-115.693271,43.133135],
+  "bbox": [
+    -115.693271,
+    43.133135,
+    -115.693271,
+    43.133135
+],
   "geometry": {"coordinates":[-115.693271,43.133135],"type":"Point"}
 }

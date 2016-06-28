@@ -2,13 +2,14 @@
   "id": 186558437,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.696975,43.13414,-115.696975,43.13414",
     "geom:latitude":43.13414,
     "geom:longitude":-115.696975,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"404 N Main St",
     "sg:city":"Mountain Home",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":186558437,
-    "wof:lastmodified":1449051114,
+    "wof:lastmodified":1466488935,
     "wof:name":"Jim's Auto Clinic",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "automobile"
     ]
 },
-  "bbox": [-115.696975,43.13414,-115.696975,43.13414],
-  "geometry": {"coordinates":[-115.696975,43.13414],"type":"Point"}
+  "bbox": [
+    -115.696975,
+    43.13414,
+    -115.696975,
+    43.13414
+],
+  "geometry": {"coordinates":[-115.69697499999999,43.13414],"type":"Point"}
 }

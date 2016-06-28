@@ -2,13 +2,14 @@
   "id": 185868947,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.794665,47.718104,-116.794665,47.718104",
     "geom:latitude":47.718104,
     "geom:longitude":-116.794665,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5067 N Building Center Dr",
     "sg:city":"Coeur D Alene",
     "sg:classifiers":[
@@ -62,10 +63,11 @@
         }
     ],
     "wof:id":185868947,
-    "wof:lastmodified":1449006649,
+    "wof:lastmodified":1466488508,
     "wof:name":"Correia Fine Woodworking",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -73,6 +75,11 @@
         "stair"
     ]
 },
-  "bbox": [-116.794665,47.718104,-116.794665,47.718104],
-  "geometry": {"coordinates":[-116.794665,47.718104],"type":"Point"}
+  "bbox": [
+    -116.794665,
+    47.718104,
+    -116.794665,
+    47.718104
+],
+  "geometry": {"coordinates":[-116.79466499999999,47.718104],"type":"Point"}
 }

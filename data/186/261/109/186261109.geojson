@@ -2,13 +2,14 @@
   "id": 186261109,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.130188,45.932244,-116.130188,45.932244",
     "geom:latitude":45.932244,
     "geom:longitude":-116.130188,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1105 Cunningham St",
     "sg:city":"Grangeville",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":186261109,
-    "wof:lastmodified":1449050303,
+    "wof:lastmodified":1466488518,
     "wof:name":"Williams Plumbing Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "contractor"
     ]
 },
-  "bbox": [-116.130188,45.932244,-116.130188,45.932244],
+  "bbox": [
+    -116.130188,
+    45.932244,
+    -116.130188,
+    45.932244
+],
   "geometry": {"coordinates":[-116.130188,45.932244],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169636487,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.393584,43.606096,-116.393584,43.606096",
     "geom:latitude":43.606096,
     "geom:longitude":-116.393584,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"300 N Meridian Rd",
     "sg:city":"Meridian",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":169636487,
-    "wof:lastmodified":1449033986,
+    "wof:lastmodified":1466487382,
     "wof:name":"Molenaar & Assoc",
     "wof:parent_id":85805083,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "appraiser"
     ]
 },
-  "bbox": [-116.393584,43.606096,-116.393584,43.606096],
+  "bbox": [
+    -116.393584,
+    43.606096,
+    -116.393584,
+    43.606096
+],
   "geometry": {"coordinates":[-116.393584,43.606096],"type":"Point"}
 }

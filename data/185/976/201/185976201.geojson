@@ -2,13 +2,14 @@
   "id": 185976201,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.594399,43.603145,-116.594399,43.603145",
     "geom:latitude":43.603145,
     "geom:longitude":-116.594399,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1012 W Finch Dr",
     "sg:city":"Nampa",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":185976201,
-    "wof:lastmodified":1449007271,
+    "wof:lastmodified":1466488812,
     "wof:name":"Cleary Building Corp",
     "wof:parent_id":85827787,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "prefabricated"
     ]
 },
-  "bbox": [-116.594399,43.603145,-116.594399,43.603145],
+  "bbox": [
+    -116.594399,
+    43.603145,
+    -116.594399,
+    43.603145
+],
   "geometry": {"coordinates":[-116.594399,43.603145],"type":"Point"}
 }

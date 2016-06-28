@@ -2,13 +2,14 @@
   "id": 186395405,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.764752,47.708114,-116.764752,47.708114",
     "geom:latitude":47.708114,
     "geom:longitude":-116.764752,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1517 E Lunceford Ave",
     "sg:city":"Coeur D Alene",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":186395405,
-    "wof:lastmodified":1449052619,
+    "wof:lastmodified":1466488781,
     "wof:name":"Woodland Resources LLC",
     "wof:parent_id":85821457,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -66,6 +68,11 @@
         "forest"
     ]
 },
-  "bbox": [-116.764752,47.708114,-116.764752,47.708114],
+  "bbox": [
+    -116.764752,
+    47.708114,
+    -116.764752,
+    47.708114
+],
   "geometry": {"coordinates":[-116.764752,47.708114],"type":"Point"}
 }

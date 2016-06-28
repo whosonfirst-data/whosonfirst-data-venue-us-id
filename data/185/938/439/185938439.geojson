@@ -2,13 +2,14 @@
   "id": 185938439,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.427903,43.629124,-116.427903,43.629124",
     "geom:latitude":43.629124,
     "geom:longitude":-116.427903,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2730 N Old Stone Way",
     "sg:city":"Meridian",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":185938439,
-    "wof:lastmodified":1449007799,
+    "wof:lastmodified":1466488558,
     "wof:name":"S Ea Biotics Distr Lyle",
     "wof:parent_id":85876351,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "diet"
     ]
 },
-  "bbox": [-116.427903,43.629124,-116.427903,43.629124],
+  "bbox": [
+    -116.427903,
+    43.629124,
+    -116.427903,
+    43.629124
+],
   "geometry": {"coordinates":[-116.427903,43.629124],"type":"Point"}
 }

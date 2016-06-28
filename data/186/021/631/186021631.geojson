@@ -2,13 +2,14 @@
   "id": 186021631,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.223432,43.634652,-116.223432,43.634652",
     "geom:latitude":43.634652,
     "geom:longitude":-116.223432,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1507 N 28th St",
     "sg:city":"Boise",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":186021631,
-    "wof:lastmodified":1449052062,
+    "wof:lastmodified":1466486981,
     "wof:name":"Lowell Elementary School",
     "wof:parent_id":85876313,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-116.223432,43.634652,-116.223432,43.634652],
+  "bbox": [
+    -116.223432,
+    43.634652,
+    -116.223432,
+    43.634652
+],
   "geometry": {"coordinates":[-116.223432,43.634652],"type":"Point"}
 }

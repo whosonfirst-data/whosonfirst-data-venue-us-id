@@ -2,13 +2,14 @@
   "id": 186449233,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.771103,43.869349,-111.771103,43.869349",
     "geom:latitude":43.869349,
     "geom:longitude":-111.771103,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"350 E 3000 N",
     "sg:city":"Rexburg",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":186449233,
-    "wof:lastmodified":1449052833,
+    "wof:lastmodified":1466488862,
     "wof:name":"Eckman Automotive Machine",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "shop"
     ]
 },
-  "bbox": [-111.771103,43.869349,-111.771103,43.869349],
+  "bbox": [
+    -111.771103,
+    43.869349,
+    -111.771103,
+    43.869349
+],
   "geometry": {"coordinates":[-111.771103,43.869349],"type":"Point"}
 }

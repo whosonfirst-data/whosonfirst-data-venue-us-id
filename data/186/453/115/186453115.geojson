@@ -2,13 +2,14 @@
   "id": 186453115,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.497655,43.648709,-116.497655,43.648709",
     "geom:latitude":43.648709,
     "geom:longitude":-116.497655,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8478 W McMillan Rd",
     "sg:city":"Meridian",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186453115,
-    "wof:lastmodified":1449052352,
+    "wof:lastmodified":1466488824,
     "wof:name":"Steele Photography",
     "wof:parent_id":85876351,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "photo"
     ]
 },
-  "bbox": [-116.497655,43.648709,-116.497655,43.648709],
-  "geometry": {"coordinates":[-116.497655,43.648709],"type":"Point"}
+  "bbox": [
+    -116.497655,
+    43.648709,
+    -116.497655,
+    43.648709
+],
+  "geometry": {"coordinates":[-116.49765499999999,43.648709],"type":"Point"}
 }

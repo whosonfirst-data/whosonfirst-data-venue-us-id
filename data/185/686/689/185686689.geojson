@@ -2,13 +2,14 @@
   "id": 185686689,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.374346,43.473184,-116.374346,43.473184",
     "geom:latitude":43.473184,
     "geom:longitude":-116.374346,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1666 S Locust Grove Rd",
     "sg:city":"Kuna",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":185686689,
-    "wof:lastmodified":1449007836,
+    "wof:lastmodified":1466487418,
     "wof:name":"B & D Construction",
     "wof:parent_id":85876331,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-116.374346,43.473184,-116.374346,43.473184],
+  "bbox": [
+    -116.374346,
+    43.473184,
+    -116.374346,
+    43.473184
+],
   "geometry": {"coordinates":[-116.374346,43.473184],"type":"Point"}
 }

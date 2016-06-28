@@ -2,13 +2,14 @@
   "id": 186288529,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.316791,43.708014,-116.316791,43.708014",
     "geom:latitude":43.708014,
     "geom:longitude":-116.316791,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1401 N Echo Creek Pl",
     "sg:city":"Eagle",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":186288529,
-    "wof:lastmodified":1449050528,
+    "wof:lastmodified":1466488665,
     "wof:name":"J & D Trails Inc",
     "wof:parent_id":85876315,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-116.316791,43.708014,-116.316791,43.708014],
-  "geometry": {"coordinates":[-116.316791,43.708014],"type":"Point"}
+  "bbox": [
+    -116.316791,
+    43.708014,
+    -116.316791,
+    43.708014
+],
+  "geometry": {"coordinates":[-116.31679099999999,43.708014],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169865021,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.348648,46.047366,-116.348648,46.047366",
     "geom:latitude":46.047366,
     "geom:longitude":-116.348648,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"420 Main St",
     "sg:city":"Cottonwood",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":169865021,
-    "wof:lastmodified":1449035152,
+    "wof:lastmodified":1466488711,
     "wof:name":"Blue Camas Salon",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-116.348648,46.047366,-116.348648,46.047366],
+  "bbox": [
+    -116.348648,
+    46.047366,
+    -116.348648,
+    46.047366
+],
   "geometry": {"coordinates":[-116.348648,46.047366],"type":"Point"}
 }

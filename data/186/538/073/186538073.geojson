@@ -2,13 +2,14 @@
   "id": 186538073,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.594919,43.578944,-116.594919,43.578944",
     "geom:latitude":43.578944,
     "geom:longitude":-116.594919,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"36 N Pleasants Dr",
     "sg:city":"Nampa",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":186538073,
-    "wof:lastmodified":1449050630,
+    "wof:lastmodified":1466488874,
     "wof:name":"All Green Lawn Care",
     "wof:parent_id":85827787,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "grounds"
     ]
 },
-  "bbox": [-116.594919,43.578944,-116.594919,43.578944],
+  "bbox": [
+    -116.594919,
+    43.578944,
+    -116.594919,
+    43.578944
+],
   "geometry": {"coordinates":[-116.594919,43.578944],"type":"Point"}
 }

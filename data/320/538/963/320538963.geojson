@@ -2,13 +2,14 @@
   "id": 320538963,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.969391,44.245235,-116.969391,44.245235",
     "geom:latitude":44.245235,
     "geom:longitude":-116.969391,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"45 E Idaho St",
     "sg:city":"Weiser",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":320538963,
-    "wof:lastmodified":1449011718,
+    "wof:lastmodified":1466486872,
     "wof:name":"Adc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "tavern"
     ]
 },
-  "bbox": [-116.969391,44.245235,-116.969391,44.245235],
+  "bbox": [
+    -116.969391,
+    44.245235,
+    -116.969391,
+    44.245235
+],
   "geometry": {"coordinates":[-116.969391,44.245235],"type":"Point"}
 }

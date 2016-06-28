@@ -2,13 +2,14 @@
   "id": 320543759,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.277955,43.663659,-116.277955,43.663659",
     "geom:latitude":43.663659,
     "geom:longitude":-116.277955,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7669 W Riverside Dr",
     "sg:city":"Boise",
     "sg:classifiers":[
@@ -60,10 +61,11 @@
         }
     ],
     "wof:id":320543759,
-    "wof:lastmodified":1449011993,
+    "wof:lastmodified":1466486974,
     "wof:name":"JBR Environmental Consultants, Inc.",
     "wof:parent_id":85876315,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -74,6 +76,11 @@
         "environmental"
     ]
 },
-  "bbox": [-116.277955,43.663659,-116.277955,43.663659],
-  "geometry": {"coordinates":[-116.277955,43.663659],"type":"Point"}
+  "bbox": [
+    -116.277955,
+    43.663659,
+    -116.277955,
+    43.663659
+],
+  "geometry": {"coordinates":[-116.27795500000001,43.663659],"type":"Point"}
 }

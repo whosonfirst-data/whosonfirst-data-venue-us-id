@@ -2,13 +2,14 @@
   "id": 186332419,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.336654,43.660133,-116.336654,43.660133",
     "geom:latitude":43.660133,
     "geom:longitude":-116.336654,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6149 N Meeker Pl",
     "sg:city":"Boise",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":186332419,
-    "wof:lastmodified":1449051873,
+    "wof:lastmodified":1466488656,
     "wof:name":"Lee Hecht Harrison Career Rsrc",
     "wof:parent_id":85876351,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "vocational"
     ]
 },
-  "bbox": [-116.336654,43.660133,-116.336654,43.660133],
+  "bbox": [
+    -116.336654,
+    43.660133,
+    -116.336654,
+    43.660133
+],
   "geometry": {"coordinates":[-116.336654,43.660133],"type":"Point"}
 }

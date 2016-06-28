@@ -2,13 +2,14 @@
   "id": 169696397,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.694764,43.133898,-115.694764,43.133898",
     "geom:latitude":43.133898,
     "geom:longitude":-115.694764,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"270 E 4th N",
     "sg:city":"Mountain Home",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":169696397,
-    "wof:lastmodified":1449032923,
+    "wof:lastmodified":1466487988,
     "wof:name":"Sunset Sports Pub",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-115.694764,43.133898,-115.694764,43.133898],
-  "geometry": {"coordinates":[-115.694764,43.133898],"type":"Point"}
+  "bbox": [
+    -115.694764,
+    43.133898,
+    -115.694764,
+    43.133898
+],
+  "geometry": {"coordinates":[-115.69476400000001,43.133898],"type":"Point"}
 }

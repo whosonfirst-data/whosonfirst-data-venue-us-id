@@ -2,13 +2,14 @@
   "id": 186340217,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.012758,43.478918,-112.012758,43.478918",
     "geom:latitude":43.478918,
     "geom:longitude":-112.012758,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1065 E 21st St",
     "sg:city":"Idaho Falls",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":186340217,
-    "wof:lastmodified":1449052397,
+    "wof:lastmodified":1466488825,
     "wof:name":"Jay Herring & Son Construction",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-112.012758,43.478918,-112.012758,43.478918],
-  "geometry": {"coordinates":[-112.012758,43.478918],"type":"Point"}
+  "bbox": [
+    -112.012758,
+    43.478918,
+    -112.012758,
+    43.478918
+],
+  "geometry": {"coordinates":[-112.01275800000001,43.478918],"type":"Point"}
 }

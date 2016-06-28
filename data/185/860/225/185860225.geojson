@@ -2,13 +2,14 @@
   "id": 185860225,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.945045,47.716778,-116.945045,47.716778",
     "geom:latitude":47.716778,
     "geom:longitude":-116.945045,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"821 N William St",
     "sg:city":"Post Falls",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":185860225,
-    "wof:lastmodified":1449007328,
+    "wof:lastmodified":1466488493,
     "wof:name":"Best Blinds & Awnings",
     "wof:parent_id":85833263,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "treatment"
     ]
 },
-  "bbox": [-116.945045,47.716778,-116.945045,47.716778],
-  "geometry": {"coordinates":[-116.945045,47.716778],"type":"Point"}
+  "bbox": [
+    -116.945045,
+    47.716778,
+    -116.945045,
+    47.716778
+],
+  "geometry": {"coordinates":[-116.94504499999999,47.716778],"type":"Point"}
 }

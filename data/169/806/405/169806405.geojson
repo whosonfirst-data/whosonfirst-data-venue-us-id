@@ -2,13 +2,14 @@
   "id": 169806405,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.786329,47.703213,-116.786329,47.703213",
     "geom:latitude":47.703213,
     "geom:longitude":-116.786329,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2928 N Government Way",
     "sg:city":"Coeur D Alene",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":169806405,
-    "wof:lastmodified":1449032676,
+    "wof:lastmodified":1466488438,
     "wof:name":"Hospice Thrift Shop",
     "wof:parent_id":85821457,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "hand"
     ]
 },
-  "bbox": [-116.786329,47.703213,-116.786329,47.703213],
-  "geometry": {"coordinates":[-116.786329,47.703213],"type":"Point"}
+  "bbox": [
+    -116.786329,
+    47.703213,
+    -116.786329,
+    47.703213
+],
+  "geometry": {"coordinates":[-116.78632899999999,47.703213],"type":"Point"}
 }

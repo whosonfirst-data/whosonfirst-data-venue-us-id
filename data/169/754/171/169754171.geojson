@@ -2,13 +2,14 @@
   "id": 169754171,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.564661,48.287595,-116.564661,48.287595",
     "geom:latitude":48.287595,
     "geom:longitude":-116.564661,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1220 Baldy Mountain Rd",
     "sg:city":"Sandpoint",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":169754171,
-    "wof:lastmodified":1449034850,
+    "wof:lastmodified":1466488429,
     "wof:name":"Route 66 Autobody",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "painting"
     ]
 },
-  "bbox": [-116.564661,48.287595,-116.564661,48.287595],
+  "bbox": [
+    -116.564661,
+    48.287595,
+    -116.564661,
+    48.287595
+],
   "geometry": {"coordinates":[-116.564661,48.287595],"type":"Point"}
 }

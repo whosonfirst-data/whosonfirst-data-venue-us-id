@@ -2,13 +2,14 @@
   "id": 186060475,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.941468,47.714735,-116.941468,47.714735",
     "geom:latitude":47.714735,
     "geom:longitude":-116.941468,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"527 E Seltice Way",
     "sg:city":"Post Falls",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186060475,
-    "wof:lastmodified":1449052778,
+    "wof:lastmodified":1466487432,
     "wof:name":"Post Falls Auction Ctr Inc",
     "wof:parent_id":85833263,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "auctioneer"
     ]
 },
-  "bbox": [-116.941468,47.714735,-116.941468,47.714735],
+  "bbox": [
+    -116.941468,
+    47.714735,
+    -116.941468,
+    47.714735
+],
   "geometry": {"coordinates":[-116.941468,47.714735],"type":"Point"}
 }

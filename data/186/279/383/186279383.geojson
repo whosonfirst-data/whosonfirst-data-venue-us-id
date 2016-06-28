@@ -2,13 +2,14 @@
   "id": 186279383,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.999228,47.716147,-116.999228,47.716147",
     "geom:latitude":47.716147,
     "geom:longitude":-116.999228,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3680 W Seltice Way",
     "sg:city":"Post Falls",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":186279383,
-    "wof:lastmodified":1449051601,
+    "wof:lastmodified":1466488647,
     "wof:name":"Northwest Refrigeration & Hvac",
     "wof:parent_id":85833263,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "refrigerating"
     ]
 },
-  "bbox": [-116.999228,47.716147,-116.999228,47.716147],
+  "bbox": [
+    -116.999228,
+    47.716147,
+    -116.999228,
+    47.716147
+],
   "geometry": {"coordinates":[-116.999228,47.716147],"type":"Point"}
 }

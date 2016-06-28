@@ -2,13 +2,14 @@
   "id": 185717405,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-117.001983,46.413035,-117.001983,46.413035",
     "geom:latitude":46.413035,
     "geom:longitude":-117.001983,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"742 21st St",
     "sg:city":"Lewiston",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":185717405,
-    "wof:lastmodified":1449006624,
+    "wof:lastmodified":1466487662,
     "wof:name":"DS Hairshop",
     "wof:parent_id":85837769,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "shop"
     ]
 },
-  "bbox": [-117.001983,46.413035,-117.001983,46.413035],
+  "bbox": [
+    -117.001983,
+    46.413035,
+    -117.001983,
+    46.413035
+],
   "geometry": {"coordinates":[-117.001983,46.413035],"type":"Point"}
 }

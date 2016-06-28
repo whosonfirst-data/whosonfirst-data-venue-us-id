@@ -2,13 +2,14 @@
   "id": 185772065,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.321429,43.707712,-116.321429,43.707712",
     "geom:latitude":43.707712,
     "geom:longitude":-116.321429,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2611 E Gladstone Ct",
     "sg:city":"Eagle",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":185772065,
-    "wof:lastmodified":1449007339,
+    "wof:lastmodified":1466488099,
     "wof:name":"Stir Crazy",
     "wof:parent_id":85876315,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "trucking"
     ]
 },
-  "bbox": [-116.321429,43.707712,-116.321429,43.707712],
-  "geometry": {"coordinates":[-116.321429,43.707712],"type":"Point"}
+  "bbox": [
+    -116.321429,
+    43.707712,
+    -116.321429,
+    43.707712
+],
+  "geometry": {"coordinates":[-116.32142899999999,43.707712],"type":"Point"}
 }

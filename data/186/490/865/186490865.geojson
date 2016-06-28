@@ -2,13 +2,14 @@
   "id": 186490865,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.063353,43.497562,-112.063353,43.497562",
     "geom:latitude":43.497562,
     "geom:longitude":-112.063353,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"645 N Skyline Dr",
     "sg:city":"Idaho Falls",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":186490865,
-    "wof:lastmodified":1449052749,
+    "wof:lastmodified":1466488908,
     "wof:name":"Movie World",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.063353,43.497562,-112.063353,43.497562],
-  "geometry": {"coordinates":[-112.063353,43.497562],"type":"Point"}
+  "bbox": [
+    -112.063353,
+    43.497562,
+    -112.063353,
+    43.497562
+],
+  "geometry": {"coordinates":[-112.06335300000001,43.497562],"type":"Point"}
 }

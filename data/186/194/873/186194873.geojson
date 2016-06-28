@@ -2,13 +2,14 @@
   "id": 186194873,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.985933,46.73726,-116.985933,46.73726",
     "geom:latitude":46.73726,
     "geom:longitude":-116.985933,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"315 N Blaine St",
     "sg:city":"Moscow",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":186194873,
-    "wof:lastmodified":1449052623,
+    "wof:lastmodified":1466488492,
     "wof:name":"Direction Dynamics",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "business"
     ]
 },
-  "bbox": [-116.985933,46.73726,-116.985933,46.73726],
+  "bbox": [
+    -116.985933,
+    46.73726,
+    -116.985933,
+    46.73726
+],
   "geometry": {"coordinates":[-116.985933,46.73726],"type":"Point"}
 }

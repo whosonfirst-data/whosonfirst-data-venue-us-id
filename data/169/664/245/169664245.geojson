@@ -2,13 +2,14 @@
   "id": 169664245,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.346506,43.189543,-112.346506,43.189543",
     "geom:latitude":43.189543,
     "geom:longitude":-112.346506,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"158 W Bridge St",
     "sg:city":"Blackfoot",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":169664245,
-    "wof:lastmodified":1449033914,
+    "wof:lastmodified":1466487799,
     "wof:name":"T-Shirt Shoppe",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "embroidery"
     ]
 },
-  "bbox": [-112.346506,43.189543,-112.346506,43.189543],
-  "geometry": {"coordinates":[-112.346506,43.189543],"type":"Point"}
+  "bbox": [
+    -112.346506,
+    43.189543,
+    -112.346506,
+    43.189543
+],
+  "geometry": {"coordinates":[-112.34650600000001,43.189543],"type":"Point"}
 }

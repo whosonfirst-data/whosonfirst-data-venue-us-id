@@ -2,13 +2,14 @@
   "id": 320523013,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.934602,46.376783,-116.934602,46.376783",
     "geom:latitude":46.376783,
     "geom:longitude":-116.934602,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1830 Burrell Ave",
     "sg:city":"Lewiston",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":320523013,
-    "wof:lastmodified":1449013414,
+    "wof:lastmodified":1466487581,
     "wof:name":"Ida Morgans Ho",
     "wof:parent_id":85837769,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "horse"
     ]
 },
-  "bbox": [-116.934602,46.376783,-116.934602,46.376783],
+  "bbox": [
+    -116.934602,
+    46.376783,
+    -116.934602,
+    46.376783
+],
   "geometry": {"coordinates":[-116.934602,46.376783],"type":"Point"}
 }

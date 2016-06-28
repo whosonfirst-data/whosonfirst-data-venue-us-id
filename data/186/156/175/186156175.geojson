@@ -2,13 +2,14 @@
   "id": 186156175,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.20099,43.646529,-116.20099,43.646529",
     "geom:latitude":43.646529,
     "geom:longitude":-116.20099,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1112 Ranch Rd",
     "sg:city":"Boise",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":186156175,
-    "wof:lastmodified":1449050942,
+    "wof:lastmodified":1466488327,
     "wof:name":"H2owest",
     "wof:parent_id":85825211,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-116.20099,43.646529,-116.20099,43.646529],
+  "bbox": [
+    -116.20099,
+    43.646529,
+    -116.20099,
+    43.646529
+],
   "geometry": {"coordinates":[-116.20099,43.646529],"type":"Point"}
 }

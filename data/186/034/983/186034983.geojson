@@ -2,13 +2,14 @@
   "id": 186034983,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.7864,47.769078,-116.7864,47.769078",
     "geom:latitude":47.769078,
     "geom:longitude":-116.7864,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10490 N Government Way",
     "sg:city":"Hayden",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186034983,
-    "wof:lastmodified":1449050547,
+    "wof:lastmodified":1466487137,
     "wof:name":"Silver Stone Mfg",
     "wof:parent_id":85821457,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "mfg"
     ]
 },
-  "bbox": [-116.7864,47.769078,-116.7864,47.769078],
+  "bbox": [
+    -116.7864,
+    47.769078,
+    -116.7864,
+    47.769078
+],
   "geometry": {"coordinates":[-116.7864,47.769078],"type":"Point"}
 }

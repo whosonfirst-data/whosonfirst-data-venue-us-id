@@ -2,13 +2,14 @@
   "id": 169813725,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.117391,43.38143,-112.117391,43.38143",
     "geom:latitude":43.38143,
     "geom:longitude":-112.117391,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"397 E Center St",
     "sg:city":"Shelley",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":169813725,
-    "wof:lastmodified":1449033538,
+    "wof:lastmodified":1466488538,
     "wof:name":"Triple J Enterprise",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "mfg"
     ]
 },
-  "bbox": [-112.117391,43.38143,-112.117391,43.38143],
+  "bbox": [
+    -112.117391,
+    43.38143,
+    -112.117391,
+    43.38143
+],
   "geometry": {"coordinates":[-112.117391,43.38143],"type":"Point"}
 }

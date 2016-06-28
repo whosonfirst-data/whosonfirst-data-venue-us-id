@@ -2,13 +2,14 @@
   "id": 186313459,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.677967,43.643527,-116.677967,43.643527",
     "geom:latitude":43.643527,
     "geom:longitude":-116.677967,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3003 S Illinois Ave",
     "sg:city":"Caldwell",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":186313459,
-    "wof:lastmodified":1449050345,
+    "wof:lastmodified":1466488688,
     "wof:name":"Systems Integration Service",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-116.677967,43.643527,-116.677967,43.643527],
+  "bbox": [
+    -116.677967,
+    43.643527,
+    -116.677967,
+    43.643527
+],
   "geometry": {"coordinates":[-116.677967,43.643527],"type":"Point"}
 }

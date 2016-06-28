@@ -2,13 +2,14 @@
   "id": 186554209,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.791667,47.688279,-116.791667,47.688279",
     "geom:latitude":47.688279,
     "geom:longitude":-116.791667,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1420 Lincoln Way",
     "sg:city":"Coeur D Alene",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":186554209,
-    "wof:lastmodified":1449050962,
+    "wof:lastmodified":1466488887,
     "wof:name":"Ralph Nelson CPA",
     "wof:parent_id":85821457,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "accountant"
     ]
 },
-  "bbox": [-116.791667,47.688279,-116.791667,47.688279],
+  "bbox": [
+    -116.791667,
+    47.688279,
+    -116.791667,
+    47.688279
+],
   "geometry": {"coordinates":[-116.791667,47.688279],"type":"Point"}
 }

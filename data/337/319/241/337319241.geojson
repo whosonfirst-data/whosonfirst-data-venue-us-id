@@ -2,13 +2,14 @@
   "id": 337319241,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.522911,43.569669,-116.522911,43.569669",
     "geom:latitude":43.569669,
     "geom:longitude":-116.522911,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"60 S Grays Ln",
     "sg:city":"Nampa",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":337319241,
-    "wof:lastmodified":1449027264,
+    "wof:lastmodified":1466487374,
     "wof:name":"Time Plus Payroll Service",
     "wof:parent_id":85827787,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "payroll"
     ]
 },
-  "bbox": [-116.522911,43.569669,-116.522911,43.569669],
-  "geometry": {"coordinates":[-116.522911,43.569669],"type":"Point"}
+  "bbox": [
+    -116.522911,
+    43.569669,
+    -116.522911,
+    43.569669
+],
+  "geometry": {"coordinates":[-116.52291099999999,43.569669],"type":"Point"}
 }

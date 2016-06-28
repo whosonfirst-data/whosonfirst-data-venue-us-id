@@ -2,13 +2,14 @@
   "id": 185701791,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.197123,43.62031,-116.197123,43.62031",
     "geom:latitude":43.62031,
     "geom:longitude":-116.197123,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"704 N 7th St",
     "sg:city":"Boise",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":185701791,
-    "wof:lastmodified":1449007891,
+    "wof:lastmodified":1466487539,
     "wof:name":"Joyce Turnboom",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-116.197123,43.62031,-116.197123,43.62031],
+  "bbox": [
+    -116.197123,
+    43.62031,
+    -116.197123,
+    43.62031
+],
   "geometry": {"coordinates":[-116.197123,43.62031],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186495177,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.791299,47.676585,-116.791299,47.676585",
     "geom:latitude":47.676585,
     "geom:longitude":-116.791299,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"414 Mullan Rd",
     "sg:city":"Coeur D Alene",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":186495177,
-    "wof:lastmodified":1449051562,
+    "wof:lastmodified":1466488911,
     "wof:name":"Park Side Bistro & Pub",
     "wof:parent_id":85821457,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-116.791299,47.676585,-116.791299,47.676585],
+  "bbox": [
+    -116.791299,
+    47.676585,
+    -116.791299,
+    47.676585
+],
   "geometry": {"coordinates":[-116.791299,47.676585],"type":"Point"}
 }

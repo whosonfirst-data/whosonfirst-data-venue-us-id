@@ -2,13 +2,14 @@
   "id": 186025477,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.172775,43.617476,-116.172775,43.617476",
     "geom:latitude":43.617476,
     "geom:longitude":-116.172775,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1507 Knights Dr",
     "sg:city":"Boise",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":186025477,
-    "wof:lastmodified":1449052566,
+    "wof:lastmodified":1466487027,
     "wof:name":"Jane Kleinschmidt Art & Design",
     "wof:parent_id":85876291,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "design"
     ]
 },
-  "bbox": [-116.172775,43.617476,-116.172775,43.617476],
+  "bbox": [
+    -116.172775,
+    43.617476,
+    -116.172775,
+    43.617476
+],
   "geometry": {"coordinates":[-116.172775,43.617476],"type":"Point"}
 }

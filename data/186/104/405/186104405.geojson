@@ -2,13 +2,14 @@
   "id": 186104405,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.687126,43.604271,-116.687126,43.604271",
     "geom:latitude":43.604271,
     "geom:longitude":-116.687126,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"14702 Karcher Rd",
     "sg:city":"Caldwell",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":186104405,
-    "wof:lastmodified":1449051482,
+    "wof:lastmodified":1466487908,
     "wof:name":"Rhodes Bake-N-Serv",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "cookie"
     ]
 },
-  "bbox": [-116.687126,43.604271,-116.687126,43.604271],
-  "geometry": {"coordinates":[-116.687126,43.604271],"type":"Point"}
+  "bbox": [
+    -116.687126,
+    43.604271,
+    -116.687126,
+    43.604271
+],
+  "geometry": {"coordinates":[-116.68712600000001,43.604271],"type":"Point"}
 }

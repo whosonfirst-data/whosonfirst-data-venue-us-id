@@ -2,13 +2,14 @@
   "id": 169656593,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.092205,43.484972,-112.092205,43.484972",
     "geom:latitude":43.484972,
     "geom:longitude":-112.092205,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1425 Lowell Dr",
     "sg:city":"Idaho Falls",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":169656593,
-    "wof:lastmodified":1449034837,
+    "wof:lastmodified":1466487686,
     "wof:name":"Wendy Peatross",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.092205,43.484972,-112.092205,43.484972],
-  "geometry": {"coordinates":[-112.092205,43.484972],"type":"Point"}
+  "bbox": [
+    -112.092205,
+    43.484972,
+    -112.092205,
+    43.484972
+],
+  "geometry": {"coordinates":[-112.09220500000001,43.484972],"type":"Point"}
 }

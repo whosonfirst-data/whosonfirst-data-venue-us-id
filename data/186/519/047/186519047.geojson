@@ -2,13 +2,14 @@
   "id": 186519047,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.965688,44.247949,-116.965688,44.247949",
     "geom:latitude":44.247949,
     "geom:longitude":-116.965688,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"214 E Liberty St",
     "sg:city":"Weiser",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":186519047,
-    "wof:lastmodified":1449052857,
+    "wof:lastmodified":1466488870,
     "wof:name":"St Agnes Catholic Church",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-116.965688,44.247949,-116.965688,44.247949],
+  "bbox": [
+    -116.965688,
+    44.247949,
+    -116.965688,
+    44.247949
+],
   "geometry": {"coordinates":[-116.965688,44.247949],"type":"Point"}
 }

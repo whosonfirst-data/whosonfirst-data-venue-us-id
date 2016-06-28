@@ -2,13 +2,14 @@
   "id": 185866869,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.254861,43.639839,-116.254861,43.639839",
     "geom:latitude":43.639839,
     "geom:longitude":-116.254861,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4672 Adams St",
     "sg:city":"Boise",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":185866869,
-    "wof:lastmodified":1449007386,
+    "wof:lastmodified":1466488504,
     "wof:name":"Whittaker Enterprise",
     "wof:parent_id":85876339,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "group"
     ]
 },
-  "bbox": [-116.254861,43.639839,-116.254861,43.639839],
-  "geometry": {"coordinates":[-116.254861,43.639839],"type":"Point"}
+  "bbox": [
+    -116.254861,
+    43.639839,
+    -116.254861,
+    43.639839
+],
+  "geometry": {"coordinates":[-116.25486100000001,43.639839],"type":"Point"}
 }

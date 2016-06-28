@@ -2,13 +2,14 @@
   "id": 186163477,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.067954,43.354598,-112.067954,43.354598",
     "geom:latitude":43.354598,
     "geom:longitude":-112.067954,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1195 E 1100 N",
     "sg:city":"Shelley",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":186163477,
-    "wof:lastmodified":1449052976,
+    "wof:lastmodified":1466488409,
     "wof:name":"Fielding Farms & Livestock",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "general"
     ]
 },
-  "bbox": [-112.067954,43.354598,-112.067954,43.354598],
+  "bbox": [
+    -112.067954,
+    43.354598,
+    -112.067954,
+    43.354598
+],
   "geometry": {"coordinates":[-112.067954,43.354598],"type":"Point"}
 }

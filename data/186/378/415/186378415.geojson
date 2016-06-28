@@ -2,13 +2,14 @@
   "id": 186378415,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.656171,43.644575,-116.656171,43.644575",
     "geom:latitude":43.644575,
     "geom:longitude":-116.656171,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3705 Arthur St",
     "sg:city":"Caldwell",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":186378415,
-    "wof:lastmodified":1449052181,
+    "wof:lastmodified":1466488842,
     "wof:name":"Roger's Wheel Alignment & Tire",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "tire"
     ]
 },
-  "bbox": [-116.656171,43.644575,-116.656171,43.644575],
+  "bbox": [
+    -116.656171,
+    43.644575,
+    -116.656171,
+    43.644575
+],
   "geometry": {"coordinates":[-116.656171,43.644575],"type":"Point"}
 }

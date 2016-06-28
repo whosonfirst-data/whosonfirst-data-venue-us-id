@@ -2,13 +2,14 @@
   "id": 169804677,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.075072,43.450222,-112.075072,43.450222",
     "geom:latitude":43.450222,
     "geom:longitude":-112.075072,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2020 Heyrend Way",
     "sg:city":"Idaho Falls",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":169804677,
-    "wof:lastmodified":1449034986,
+    "wof:lastmodified":1466488519,
     "wof:name":"Basic American Foods",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "public"
     ]
 },
-  "bbox": [-112.075072,43.450222,-112.075072,43.450222],
-  "geometry": {"coordinates":[-112.075072,43.450222],"type":"Point"}
+  "bbox": [
+    -112.075072,
+    43.450222,
+    -112.075072,
+    43.450222
+],
+  "geometry": {"coordinates":[-112.07507200000001,43.450222],"type":"Point"}
 }

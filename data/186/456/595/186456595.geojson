@@ -2,13 +2,14 @@
   "id": 186456595,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.927275,43.618711,-116.927275,43.618711",
     "geom:latitude":43.618711,
     "geom:longitude":-116.927275,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"100 N 4th St E",
     "sg:city":"Homedale",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":186456595,
-    "wof:lastmodified":1449051175,
+    "wof:lastmodified":1466488828,
     "wof:name":"C & D Satellite",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "install"
     ]
 },
-  "bbox": [-116.927275,43.618711,-116.927275,43.618711],
-  "geometry": {"coordinates":[-116.927275,43.618711],"type":"Point"}
+  "bbox": [
+    -116.927275,
+    43.618711,
+    -116.927275,
+    43.618711
+],
+  "geometry": {"coordinates":[-116.92727499999999,43.618711],"type":"Point"}
 }

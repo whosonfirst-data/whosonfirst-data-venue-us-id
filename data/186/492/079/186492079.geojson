@@ -2,13 +2,14 @@
   "id": 186492079,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.890678,47.759162,-116.890678,47.759162",
     "geom:latitude":47.759162,
     "geom:longitude":-116.890678,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6790 W Hayden Ave",
     "sg:city":"Rathdrum",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":186492079,
-    "wof:lastmodified":1449050251,
+    "wof:lastmodified":1466488909,
     "wof:name":"Alderwood Construction",
     "wof:parent_id":85821457,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "contractor"
     ]
 },
-  "bbox": [-116.890678,47.759162,-116.890678,47.759162],
-  "geometry": {"coordinates":[-116.890678,47.759162],"type":"Point"}
+  "bbox": [
+    -116.890678,
+    47.759162,
+    -116.890678,
+    47.759162
+],
+  "geometry": {"coordinates":[-116.89067799999999,47.759162],"type":"Point"}
 }

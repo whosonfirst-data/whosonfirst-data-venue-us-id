@@ -2,13 +2,14 @@
   "id": 186478095,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.002187,43.501612,-112.002187,43.501612",
     "geom:latitude":43.501612,
     "geom:longitude":-112.002187,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1579 Halsey St",
     "sg:city":"Idaho Falls",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":186478095,
-    "wof:lastmodified":1449050353,
+    "wof:lastmodified":1466488902,
     "wof:name":"Hal Simmons Trucking",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "trucking"
     ]
 },
-  "bbox": [-112.002187,43.501612,-112.002187,43.501612],
-  "geometry": {"coordinates":[-112.002187,43.501612],"type":"Point"}
+  "bbox": [
+    -112.002187,
+    43.501612,
+    -112.002187,
+    43.501612
+],
+  "geometry": {"coordinates":[-112.00218700000001,43.501612],"type":"Point"}
 }

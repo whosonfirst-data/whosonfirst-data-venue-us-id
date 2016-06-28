@@ -2,13 +2,14 @@
   "id": 169717705,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.850642,47.81645,-116.850642,47.81645",
     "geom:latitude":47.81645,
     "geom:longitude":-116.850642,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"15642 N Windsong Ln",
     "sg:city":"Rathdrum",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":169717705,
-    "wof:lastmodified":1449032776,
+    "wof:lastmodified":1466488175,
     "wof:name":"Kootenai Kennels",
     "wof:parent_id":85821457,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "washing"
     ]
 },
-  "bbox": [-116.850642,47.81645,-116.850642,47.81645],
-  "geometry": {"coordinates":[-116.850642,47.81645],"type":"Point"}
+  "bbox": [
+    -116.850642,
+    47.81645,
+    -116.850642,
+    47.81645
+],
+  "geometry": {"coordinates":[-116.85064199999999,47.81645],"type":"Point"}
 }

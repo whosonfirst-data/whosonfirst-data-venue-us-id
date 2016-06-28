@@ -2,13 +2,14 @@
   "id": 186494057,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.283802,43.612666,-116.283802,43.612666",
     "geom:latitude":43.612666,
     "geom:longitude":-116.283802,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7941 W Rifleman St",
     "sg:city":"Boise",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186494057,
-    "wof:lastmodified":1449052727,
+    "wof:lastmodified":1466488861,
     "wof:name":"Alliance Title & Escrow Corp",
     "wof:parent_id":85841319,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "title"
     ]
 },
-  "bbox": [-116.283802,43.612666,-116.283802,43.612666],
-  "geometry": {"coordinates":[-116.283802,43.612666],"type":"Point"}
+  "bbox": [
+    -116.283802,
+    43.612666,
+    -116.283802,
+    43.612666
+],
+  "geometry": {"coordinates":[-116.28380199999999,43.612666],"type":"Point"}
 }

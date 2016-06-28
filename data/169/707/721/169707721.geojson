@@ -2,13 +2,14 @@
   "id": 169707721,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.786599,47.711227,-116.786599,47.711227",
     "geom:latitude":47.711227,
     "geom:longitude":-116.786599,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3615 N Government Way",
     "sg:city":"Coeur D Alene",
     "sg:classifiers":[
@@ -62,10 +63,11 @@
         }
     ],
     "wof:id":169707721,
-    "wof:lastmodified":1449035442,
+    "wof:lastmodified":1466488105,
     "wof:name":"Your Daily Fix Espresso",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -73,6 +75,11 @@
         "coffee"
     ]
 },
-  "bbox": [-116.786599,47.711227,-116.786599,47.711227],
+  "bbox": [
+    -116.786599,
+    47.711227,
+    -116.786599,
+    47.711227
+],
   "geometry": {"coordinates":[-116.786599,47.711227],"type":"Point"}
 }

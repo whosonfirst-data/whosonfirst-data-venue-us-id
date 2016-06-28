@@ -2,13 +2,14 @@
   "id": 169859675,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.687925,43.665413,-116.687925,43.665413",
     "geom:latitude":43.665413,
     "geom:longitude":-116.687925,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"822 Arthur St",
     "sg:city":"Caldwell",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":169859675,
-    "wof:lastmodified":1449035044,
+    "wof:lastmodified":1466488546,
     "wof:name":"Amore Photography & Design",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "photographer"
     ]
 },
-  "bbox": [-116.687925,43.665413,-116.687925,43.665413],
-  "geometry": {"coordinates":[-116.687925,43.665413],"type":"Point"}
+  "bbox": [
+    -116.687925,
+    43.665413,
+    -116.687925,
+    43.665413
+],
+  "geometry": {"coordinates":[-116.68792500000001,43.665413],"type":"Point"}
 }

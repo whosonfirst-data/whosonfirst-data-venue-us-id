@@ -2,13 +2,14 @@
   "id": 186466759,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.868207,47.744728,-116.868207,47.744728",
     "geom:latitude":47.744728,
     "geom:longitude":-116.868207,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6300 W Prairie Ave",
     "sg:city":"Post Falls",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":186466759,
-    "wof:lastmodified":1449051179,
+    "wof:lastmodified":1466488897,
     "wof:name":"Webeco LLC",
     "wof:parent_id":85821457,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "logging"
     ]
 },
-  "bbox": [-116.868207,47.744728,-116.868207,47.744728],
+  "bbox": [
+    -116.868207,
+    47.744728,
+    -116.868207,
+    47.744728
+],
   "geometry": {"coordinates":[-116.868207,47.744728],"type":"Point"}
 }

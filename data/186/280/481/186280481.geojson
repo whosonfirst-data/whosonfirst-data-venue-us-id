@@ -2,13 +2,14 @@
   "id": 186280481,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.253555,43.613751,-116.253555,43.613751",
     "geom:latitude":43.613751,
     "geom:longitude":-116.253555,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1070 N Curtis Rd",
     "sg:city":"Boise",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186280481,
-    "wof:lastmodified":1449051699,
+    "wof:lastmodified":1466488648,
     "wof:name":"Treasure Valley Lab Collection",
     "wof:parent_id":85876311,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "laboratory"
     ]
 },
-  "bbox": [-116.253555,43.613751,-116.253555,43.613751],
-  "geometry": {"coordinates":[-116.253555,43.613751],"type":"Point"}
+  "bbox": [
+    -116.253555,
+    43.613751,
+    -116.253555,
+    43.613751
+],
+  "geometry": {"coordinates":[-116.25355500000001,43.613751],"type":"Point"}
 }

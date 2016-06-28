@@ -2,13 +2,14 @@
   "id": 169714199,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.55176,48.274988,-116.55176,48.274988",
     "geom:latitude":48.274988,
     "geom:longitude":-116.55176,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"208 N 4th Ave",
     "sg:city":"Sandpoint",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":169714199,
-    "wof:lastmodified":1449034312,
+    "wof:lastmodified":1466488452,
     "wof:name":"Monarch Mountain Coffee",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "roasting"
     ]
 },
-  "bbox": [-116.55176,48.274988,-116.55176,48.274988],
+  "bbox": [
+    -116.55176,
+    48.274988,
+    -116.55176,
+    48.274988
+],
   "geometry": {"coordinates":[-116.55176,48.274988],"type":"Point"}
 }

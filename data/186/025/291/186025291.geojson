@@ -2,13 +2,14 @@
   "id": 186025291,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.445568,43.62092,-116.445568,43.62092",
     "geom:latitude":43.62092,
     "geom:longitude":-116.445568,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1755 N White Oak Way",
     "sg:city":"Meridian",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":186025291,
-    "wof:lastmodified":1449052565,
+    "wof:lastmodified":1466487024,
     "wof:name":"Pratt's Insurance Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-116.445568,43.62092,-116.445568,43.62092],
-  "geometry": {"coordinates":[-116.445568,43.62092],"type":"Point"}
+  "bbox": [
+    -116.445568,
+    43.62092,
+    -116.445568,
+    43.62092
+],
+  "geometry": {"coordinates":[-116.44556799999999,43.62092],"type":"Point"}
 }

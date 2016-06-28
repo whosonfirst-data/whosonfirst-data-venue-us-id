@@ -2,13 +2,14 @@
   "id": 186304223,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.913357,43.652792,-111.913357,43.652792",
     "geom:latitude":43.652792,
     "geom:longitude":-111.913357,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"184 N 3950 E",
     "sg:city":"Rigby",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":186304223,
-    "wof:lastmodified":1449052343,
+    "wof:lastmodified":1466488680,
     "wof:name":"Curnutt Construction Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "contractor"
     ]
 },
-  "bbox": [-111.913357,43.652792,-111.913357,43.652792],
+  "bbox": [
+    -111.913357,
+    43.652792,
+    -111.913357,
+    43.652792
+],
   "geometry": {"coordinates":[-111.913357,43.652792],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 185643199,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.035421,44.509405,-116.035421,44.509405",
     "geom:latitude":44.509405,
     "geom:longitude":-116.035421,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"834 S Main St",
     "sg:city":"Cascade",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":185643199,
-    "wof:lastmodified":1449008001,
+    "wof:lastmodified":1466487090,
     "wof:name":"Choo-Choos Diner",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-116.035421,44.509405,-116.035421,44.509405],
+  "bbox": [
+    -116.035421,
+    44.509405,
+    -116.035421,
+    44.509405
+],
   "geometry": {"coordinates":[-116.035421,44.509405],"type":"Point"}
 }

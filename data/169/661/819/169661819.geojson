@@ -2,13 +2,14 @@
   "id": 169661819,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.999945,46.732259,-116.999945,46.732259",
     "geom:latitude":46.732259,
     "geom:longitude":-116.999945,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"316 S Washington St",
     "sg:city":"Moscow",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":169661819,
-    "wof:lastmodified":1449035597,
+    "wof:lastmodified":1466487764,
     "wof:name":"Cleveland St Mortgage",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "real estate"
     ]
 },
-  "bbox": [-116.999945,46.732259,-116.999945,46.732259],
+  "bbox": [
+    -116.999945,
+    46.732259,
+    -116.999945,
+    46.732259
+],
   "geometry": {"coordinates":[-116.999945,46.732259],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186201865,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.726152,46.919052,-116.726152,46.919052",
     "geom:latitude":46.919052,
     "geom:longitude":-116.726152,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4049 State Hwy 6",
     "sg:city":"Harvard",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":186201865,
-    "wof:lastmodified":1449052662,
+    "wof:lastmodified":1466488398,
     "wof:name":"Hoodoo Water Sewer District",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "district"
     ]
 },
-  "bbox": [-116.726152,46.919052,-116.726152,46.919052],
+  "bbox": [
+    -116.726152,
+    46.919052,
+    -116.726152,
+    46.919052
+],
   "geometry": {"coordinates":[-116.726152,46.919052],"type":"Point"}
 }

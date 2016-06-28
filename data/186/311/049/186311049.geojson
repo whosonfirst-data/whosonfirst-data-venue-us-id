@@ -2,13 +2,14 @@
   "id": 186311049,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.529774,43.57136,-116.529774,43.57136",
     "geom:latitude":43.57136,
     "geom:longitude":-116.529774,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3400 Evergreen Way",
     "sg:city":"Nampa",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186311049,
-    "wof:lastmodified":1449051029,
+    "wof:lastmodified":1466488685,
     "wof:name":"Armga Consulting",
     "wof:parent_id":85827787,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "related"
     ]
 },
-  "bbox": [-116.529774,43.57136,-116.529774,43.57136],
+  "bbox": [
+    -116.529774,
+    43.57136,
+    -116.529774,
+    43.57136
+],
   "geometry": {"coordinates":[-116.529774,43.57136],"type":"Point"}
 }

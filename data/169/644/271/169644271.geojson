@@ -2,13 +2,14 @@
   "id": 169644271,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.197022,42.827987,-112.197022,42.827987",
     "geom:latitude":42.827987,
     "geom:longitude":-112.197022,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1054 E Inman Rd",
     "sg:city":"Inkom",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":169644271,
-    "wof:lastmodified":1449034576,
+    "wof:lastmodified":1466487499,
     "wof:name":"Ron Clayson Insurance",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.197022,42.827987,-112.197022,42.827987],
+  "bbox": [
+    -112.197022,
+    42.827987,
+    -112.197022,
+    42.827987
+],
   "geometry": {"coordinates":[-112.197022,42.827987],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 185806475,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.786258,47.703269,-116.786258,47.703269",
     "geom:latitude":47.703269,
     "geom:longitude":-116.786258,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2922 N Government Way",
     "sg:city":"Coeur D Alene",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":185806475,
-    "wof:lastmodified":1449006592,
+    "wof:lastmodified":1466488325,
     "wof:name":"Bartman Signs",
     "wof:parent_id":85821457,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "mfg"
     ]
 },
-  "bbox": [-116.786258,47.703269,-116.786258,47.703269],
+  "bbox": [
+    -116.786258,
+    47.703269,
+    -116.786258,
+    47.703269
+],
   "geometry": {"coordinates":[-116.786258,47.703269],"type":"Point"}
 }

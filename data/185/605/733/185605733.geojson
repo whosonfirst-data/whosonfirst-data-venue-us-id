@@ -2,13 +2,14 @@
   "id": 185605733,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.770535,47.697472,-116.770535,47.697472",
     "geom:latitude":47.697472,
     "geom:longitude":-116.770535,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2202 Monte Vista Dr",
     "sg:city":"Coeur D Alene",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":185605733,
-    "wof:lastmodified":1449007412,
+    "wof:lastmodified":1466488300,
     "wof:name":"Betty Bray Signs",
     "wof:parent_id":85821457,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "mfg"
     ]
 },
-  "bbox": [-116.770535,47.697472,-116.770535,47.697472],
+  "bbox": [
+    -116.770535,
+    47.697472,
+    -116.770535,
+    47.697472
+],
   "geometry": {"coordinates":[-116.770535,47.697472],"type":"Point"}
 }

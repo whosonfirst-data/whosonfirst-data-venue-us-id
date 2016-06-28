@@ -2,13 +2,14 @@
   "id": 185907103,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-117.022027,46.713818,-117.022027,46.713818",
     "geom:latitude":46.713818,
     "geom:longitude":-117.022027,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1491 Sand Rd",
     "sg:city":"Moscow",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":185907103,
-    "wof:lastmodified":1449008095,
+    "wof:lastmodified":1466488572,
     "wof:name":"T C Ag Repair & Fabrication",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "welding"
     ]
 },
-  "bbox": [-117.022027,46.713818,-117.022027,46.713818],
-  "geometry": {"coordinates":[-117.022027,46.713818],"type":"Point"}
+  "bbox": [
+    -117.022027,
+    46.713818,
+    -117.022027,
+    46.713818
+],
+  "geometry": {"coordinates":[-117.02202699999999,46.713818],"type":"Point"}
 }

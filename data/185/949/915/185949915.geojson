@@ -2,13 +2,14 @@
   "id": 185949915,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.776517,47.680689,-116.776517,47.680689",
     "geom:latitude":47.680689,
     "geom:longitude":-116.776517,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"804 N 7th St",
     "sg:city":"Coeur D Alene",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":185949915,
-    "wof:lastmodified":1449007607,
+    "wof:lastmodified":1466488590,
     "wof:name":"Zero Gravity Photography",
     "wof:parent_id":85821457,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "photo"
     ]
 },
-  "bbox": [-116.776517,47.680689,-116.776517,47.680689],
+  "bbox": [
+    -116.776517,
+    47.680689,
+    -116.776517,
+    47.680689
+],
   "geometry": {"coordinates":[-116.776517,47.680689],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 185850955,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.59404,48.294841,-116.59404,48.294841",
     "geom:latitude":48.294841,
     "geom:longitude":-116.59404,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1111 Gooby Rd",
     "sg:city":"Sandpoint",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":185850955,
-    "wof:lastmodified":1449007541,
+    "wof:lastmodified":1466488465,
     "wof:name":"Flying Fish Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "fishing"
     ]
 },
-  "bbox": [-116.59404,48.294841,-116.59404,48.294841],
-  "geometry": {"coordinates":[-116.59404,48.294841],"type":"Point"}
+  "bbox": [
+    -116.59404,
+    48.294841,
+    -116.59404,
+    48.294841
+],
+  "geometry": {"coordinates":[-116.59404000000001,48.294841],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186202787,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.331264,43.556669,-116.331264,43.556669",
     "geom:latitude":43.556669,
     "geom:longitude":-116.331264,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"11916 Highlander Rd",
     "sg:city":"Boise",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":186202787,
-    "wof:lastmodified":1449052666,
+    "wof:lastmodified":1466488502,
     "wof:name":"Boise Seamless",
     "wof:parent_id":85876331,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "gutter"
     ]
 },
-  "bbox": [-116.331264,43.556669,-116.331264,43.556669],
+  "bbox": [
+    -116.331264,
+    43.556669,
+    -116.331264,
+    43.556669
+],
   "geometry": {"coordinates":[-116.331264,43.556669],"type":"Point"}
 }

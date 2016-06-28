@@ -2,13 +2,14 @@
   "id": 186536693,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.378404,43.71555,-116.378404,43.71555",
     "geom:latitude":43.71555,
     "geom:longitude":-116.378404,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1057 W Rush Rd",
     "sg:city":"Eagle",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186536693,
-    "wof:lastmodified":1449051970,
+    "wof:lastmodified":1466488879,
     "wof:name":"Tomorrows Hope",
     "wof:parent_id":85876351,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "group"
     ]
 },
-  "bbox": [-116.378404,43.71555,-116.378404,43.71555],
+  "bbox": [
+    -116.378404,
+    43.71555,
+    -116.378404,
+    43.71555
+],
   "geometry": {"coordinates":[-116.378404,43.71555],"type":"Point"}
 }

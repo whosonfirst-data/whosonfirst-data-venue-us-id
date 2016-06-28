@@ -2,13 +2,14 @@
   "id": 185758665,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.33422,43.502782,-116.33422,43.502782",
     "geom:latitude":43.502782,
     "geom:longitude":-116.33422,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"11102 S Cloverdale Rd",
     "sg:city":"Kuna",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":185758665,
-    "wof:lastmodified":1449007090,
+    "wof:lastmodified":1466487990,
     "wof:name":"Cloverdale Turf Farm",
     "wof:parent_id":85876331,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "turf"
     ]
 },
-  "bbox": [-116.33422,43.502782,-116.33422,43.502782],
+  "bbox": [
+    -116.33422,
+    43.502782,
+    -116.33422,
+    43.502782
+],
   "geometry": {"coordinates":[-116.33422,43.502782],"type":"Point"}
 }

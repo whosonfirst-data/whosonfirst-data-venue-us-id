@@ -2,13 +2,14 @@
   "id": 169638107,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.923341,47.706941,-116.923341,47.706941",
     "geom:latitude":47.706941,
     "geom:longitude":-116.923341,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1622 E 2nd Ave",
     "sg:city":"Post Falls",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":169638107,
-    "wof:lastmodified":1449032864,
+    "wof:lastmodified":1466487408,
     "wof:name":"Mary C Curlee",
     "wof:parent_id":85833263,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "instructor"
     ]
 },
-  "bbox": [-116.923341,47.706941,-116.923341,47.706941],
-  "geometry": {"coordinates":[-116.923341,47.706941],"type":"Point"}
+  "bbox": [
+    -116.923341,
+    47.706941,
+    -116.923341,
+    47.706941
+],
+  "geometry": {"coordinates":[-116.92334099999999,47.706941],"type":"Point"}
 }

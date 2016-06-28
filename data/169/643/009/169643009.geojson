@@ -2,13 +2,14 @@
   "id": 169643009,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.535101,43.583208,-116.535101,43.583208",
     "geom:latitude":43.583208,
     "geom:longitude":-116.535101,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2930 Port St",
     "sg:city":"Nampa",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":169643009,
-    "wof:lastmodified":1449035524,
+    "wof:lastmodified":1466487479,
     "wof:name":"Allstate Construction",
     "wof:parent_id":85827787,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-116.535101,43.583208,-116.535101,43.583208],
+  "bbox": [
+    -116.535101,
+    43.583208,
+    -116.535101,
+    43.583208
+],
   "geometry": {"coordinates":[-116.535101,43.583208],"type":"Point"}
 }

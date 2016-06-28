@@ -2,13 +2,14 @@
   "id": 169866995,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.00624,43.533265,-112.00624,43.533265",
     "geom:latitude":43.533265,
     "geom:longitude":-112.00624,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1463 Commerce Way",
     "sg:city":"Idaho Falls",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":169866995,
-    "wof:lastmodified":1449034250,
+    "wof:lastmodified":1466488553,
     "wof:name":"Press-A-Print",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "printing"
     ]
 },
-  "bbox": [-112.00624,43.533265,-112.00624,43.533265],
-  "geometry": {"coordinates":[-112.00624,43.533265],"type":"Point"}
+  "bbox": [
+    -112.00624,
+    43.533265,
+    -112.00624,
+    43.533265
+],
+  "geometry": {"coordinates":[-112.00624000000001,43.533265],"type":"Point"}
 }

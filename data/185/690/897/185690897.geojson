@@ -2,13 +2,14 @@
   "id": 185690897,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.782587,47.675151,-116.782587,47.675151",
     "geom:latitude":47.675151,
     "geom:longitude":-116.782587,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"201 N 3rd St",
     "sg:city":"Coeur D Alene",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":185690897,
-    "wof:lastmodified":1449007477,
+    "wof:lastmodified":1466487451,
     "wof:name":"Las Palmitas",
     "wof:parent_id":85821457,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-116.782587,47.675151,-116.782587,47.675151],
-  "geometry": {"coordinates":[-116.782587,47.675151],"type":"Point"}
+  "bbox": [
+    -116.782587,
+    47.675151,
+    -116.782587,
+    47.675151
+],
+  "geometry": {"coordinates":[-116.78258700000001,47.675151],"type":"Point"}
 }

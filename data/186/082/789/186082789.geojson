@@ -2,13 +2,14 @@
   "id": 186082789,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.699713,43.133913,-115.699713,43.133913",
     "geom:latitude":43.133913,
     "geom:longitude":-115.699713,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"430 W 5th N",
     "sg:city":"Mountain Home",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":186082789,
-    "wof:lastmodified":1449050335,
+    "wof:lastmodified":1466487687,
     "wof:name":"K & D Builders Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "contractor"
     ]
 },
-  "bbox": [-115.699713,43.133913,-115.699713,43.133913],
+  "bbox": [
+    -115.699713,
+    43.133913,
+    -115.699713,
+    43.133913
+],
   "geometry": {"coordinates":[-115.699713,43.133913],"type":"Point"}
 }

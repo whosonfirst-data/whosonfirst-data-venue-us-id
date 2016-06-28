@@ -2,13 +2,14 @@
   "id": 186178261,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.343142,43.706557,-116.343142,43.706557",
     "geom:latitude":43.706557,
     "geom:longitude":-116.343142,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1020 E Floating Feather Rd",
     "sg:city":"Eagle",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":186178261,
-    "wof:lastmodified":1449052283,
+    "wof:lastmodified":1466488453,
     "wof:name":"Prohaska Plumbing",
     "wof:parent_id":85876315,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-116.343142,43.706557,-116.343142,43.706557],
+  "bbox": [
+    -116.343142,
+    43.706557,
+    -116.343142,
+    43.706557
+],
   "geometry": {"coordinates":[-116.343142,43.706557],"type":"Point"}
 }

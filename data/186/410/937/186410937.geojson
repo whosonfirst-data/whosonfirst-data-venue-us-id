@@ -2,13 +2,14 @@
   "id": 186410937,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.353466,43.196347,-112.353466,43.196347",
     "geom:latitude":43.196347,
     "geom:longitude":-112.353466,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"280 Cedar St",
     "sg:city":"Blackfoot",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":186410937,
-    "wof:lastmodified":1449050293,
+    "wof:lastmodified":1466488793,
     "wof:name":"Dawn Enterprises Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "rehabilitation"
     ]
 },
-  "bbox": [-112.353466,43.196347,-112.353466,43.196347],
+  "bbox": [
+    -112.353466,
+    43.196347,
+    -112.353466,
+    43.196347
+],
   "geometry": {"coordinates":[-112.353466,43.196347],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186336209,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.491792,43.692009,-116.491792,43.692009",
     "geom:latitude":43.692009,
     "geom:longitude":-116.491792,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10942 W State St",
     "sg:city":"Star",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":186336209,
-    "wof:lastmodified":1449050185,
+    "wof:lastmodified":1466488823,
     "wof:name":"Star Lumber Co",
     "wof:parent_id":85876351,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-116.491792,43.692009,-116.491792,43.692009],
+  "bbox": [
+    -116.491792,
+    43.692009,
+    -116.491792,
+    43.692009
+],
   "geometry": {"coordinates":[-116.491792,43.692009],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 185686415,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.050902,43.502571,-112.050902,43.502571",
     "geom:latitude":43.502571,
     "geom:longitude":-112.050902,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"803 Lindsay Blvd",
     "sg:city":"Idaho Falls",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":185686415,
-    "wof:lastmodified":1449007837,
+    "wof:lastmodified":1466487418,
     "wof:name":"Snake River Auto Glass",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "repair"
     ]
 },
-  "bbox": [-112.050902,43.502571,-112.050902,43.502571],
-  "geometry": {"coordinates":[-112.050902,43.502571],"type":"Point"}
+  "bbox": [
+    -112.050902,
+    43.502571,
+    -112.050902,
+    43.502571
+],
+  "geometry": {"coordinates":[-112.05090199999999,43.502571],"type":"Point"}
 }

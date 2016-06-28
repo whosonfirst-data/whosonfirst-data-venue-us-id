@@ -2,13 +2,14 @@
   "id": 186516987,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.152872,43.560585,-116.152872,43.560585",
     "geom:latitude":43.560585,
     "geom:longitude":-116.152872,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3462 E Amity Rd",
     "sg:city":"Boise",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186516987,
-    "wof:lastmodified":1449050918,
+    "wof:lastmodified":1466488870,
     "wof:name":"Access Storage",
     "wof:parent_id":85876329,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "storage"
     ]
 },
-  "bbox": [-116.152872,43.560585,-116.152872,43.560585],
+  "bbox": [
+    -116.152872,
+    43.560585,
+    -116.152872,
+    43.560585
+],
   "geometry": {"coordinates":[-116.152872,43.560585],"type":"Point"}
 }

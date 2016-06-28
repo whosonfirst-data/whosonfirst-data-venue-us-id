@@ -2,13 +2,14 @@
   "id": 169698317,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.222132,43.631066,-116.222132,43.631066",
     "geom:latitude":43.631066,
     "geom:longitude":-116.222132,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1105 N 27th St",
     "sg:city":"Boise",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":169698317,
-    "wof:lastmodified":1449035754,
+    "wof:lastmodified":1466488003,
     "wof:name":"Joey's Auto Body Svc & Frame",
     "wof:parent_id":85876313,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "painting"
     ]
 },
-  "bbox": [-116.222132,43.631066,-116.222132,43.631066],
+  "bbox": [
+    -116.222132,
+    43.631066,
+    -116.222132,
+    43.631066
+],
   "geometry": {"coordinates":[-116.222132,43.631066],"type":"Point"}
 }

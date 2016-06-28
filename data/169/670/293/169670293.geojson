@@ -2,13 +2,14 @@
   "id": 169670293,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.22228,43.573554,-116.22228,43.573554",
     "geom:latitude":43.573554,
     "geom:longitude":-116.22228,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3264 Elder St",
     "sg:city":"Boise",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":169670293,
-    "wof:lastmodified":1449033184,
+    "wof:lastmodified":1466487882,
     "wof:name":"A1 EZ OK Bbs",
     "wof:parent_id":85876337,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "outdoor"
     ]
 },
-  "bbox": [-116.22228,43.573554,-116.22228,43.573554],
+  "bbox": [
+    -116.22228,
+    43.573554,
+    -116.22228,
+    43.573554
+],
   "geometry": {"coordinates":[-116.22228,43.573554],"type":"Point"}
 }

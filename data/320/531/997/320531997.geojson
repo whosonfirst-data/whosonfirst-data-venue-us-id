@@ -2,13 +2,14 @@
   "id": 320531997,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.95066,43.519307,-116.95066,43.519307",
     "geom:latitude":43.519307,
     "geom:longitude":-116.95066,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6420 Johnstone Rd",
     "sg:city":"Homedale",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":320531997,
-    "wof:lastmodified":1449012147,
+    "wof:lastmodified":1466488177,
     "wof:name":"Jenine M Wilke",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "surgeon"
     ]
 },
-  "bbox": [-116.95066,43.519307,-116.95066,43.519307],
+  "bbox": [
+    -116.95066,
+    43.519307,
+    -116.95066,
+    43.519307
+],
   "geometry": {"coordinates":[-116.95066,43.519307],"type":"Point"}
 }

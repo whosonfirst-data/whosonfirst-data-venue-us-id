@@ -2,13 +2,14 @@
   "id": 169629243,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.213743,43.620456,-116.213743,43.620456",
     "geom:latitude":43.620456,
     "geom:longitude":-116.213743,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1655 Fairview Ave",
     "sg:city":"Boise",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":169629243,
-    "wof:lastmodified":1449035184,
+    "wof:lastmodified":1466487261,
     "wof:name":"Northwest Network Svc",
     "wof:parent_id":85876355,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "designer"
     ]
 },
-  "bbox": [-116.213743,43.620456,-116.213743,43.620456],
-  "geometry": {"coordinates":[-116.213743,43.620456],"type":"Point"}
+  "bbox": [
+    -116.213743,
+    43.620456,
+    -116.213743,
+    43.620456
+],
+  "geometry": {"coordinates":[-116.21374299999999,43.620456],"type":"Point"}
 }

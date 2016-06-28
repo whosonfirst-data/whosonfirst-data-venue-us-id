@@ -2,13 +2,14 @@
   "id": 169862457,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.36714,43.67955,-114.36714,43.67955",
     "geom:latitude":43.67955,
     "geom:longitude":-114.36714,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"160 4th St W",
     "sg:city":"Ketchum",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":169862457,
-    "wof:lastmodified":1449036046,
+    "wof:lastmodified":1466488634,
     "wof:name":"A Bookkeeping Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "general"
     ]
 },
-  "bbox": [-114.36714,43.67955,-114.36714,43.67955],
-  "geometry": {"coordinates":[-114.36714,43.67955],"type":"Point"}
+  "bbox": [
+    -114.36714,
+    43.67955,
+    -114.36714,
+    43.67955
+],
+  "geometry": {"coordinates":[-114.36714000000001,43.67955],"type":"Point"}
 }

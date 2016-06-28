@@ -2,13 +2,14 @@
   "id": 186544277,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.689284,43.651001,-116.689284,43.651001",
     "geom:latitude":43.651001,
     "geom:longitude":-116.689284,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2320 Brookside Dr",
     "sg:city":"Caldwell",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":186544277,
-    "wof:lastmodified":1449053016,
+    "wof:lastmodified":1466488932,
     "wof:name":"Mowmeister Lawn Service",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-116.689284,43.651001,-116.689284,43.651001],
+  "bbox": [
+    -116.689284,
+    43.651001,
+    -116.689284,
+    43.651001
+],
   "geometry": {"coordinates":[-116.689284,43.651001],"type":"Point"}
 }

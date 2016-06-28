@@ -2,13 +2,14 @@
   "id": 186092395,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.934933,44.072575,-116.934933,44.072575",
     "geom:latitude":44.072575,
     "geom:longitude":-116.934933,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"205 S Main St",
     "sg:city":"Payette",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":186092395,
-    "wof:lastmodified":1449052511,
+    "wof:lastmodified":1466487783,
     "wof:name":"Car Tub Car Wash",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "washing"
     ]
 },
-  "bbox": [-116.934933,44.072575,-116.934933,44.072575],
+  "bbox": [
+    -116.934933,
+    44.072575,
+    -116.934933,
+    44.072575
+],
   "geometry": {"coordinates":[-116.934933,44.072575],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186085765,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.123421,43.388349,-112.123421,43.388349",
     "geom:latitude":43.388349,
     "geom:longitude":-112.123421,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"410 N Park Ave",
     "sg:city":"Shelley",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":186085765,
-    "wof:lastmodified":1449051066,
+    "wof:lastmodified":1466487718,
     "wof:name":"Mutual of Omaha",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.123421,43.388349,-112.123421,43.388349],
-  "geometry": {"coordinates":[-112.123421,43.388349],"type":"Point"}
+  "bbox": [
+    -112.123421,
+    43.388349,
+    -112.123421,
+    43.388349
+],
+  "geometry": {"coordinates":[-112.12342099999999,43.388349],"type":"Point"}
 }

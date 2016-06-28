@@ -2,13 +2,14 @@
   "id": 186165667,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.459919,42.577773,-114.459919,42.577773",
     "geom:latitude":42.577773,
     "geom:longitude":-114.459919,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1139 Falls Ave E",
     "sg:city":"Twin Falls",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":186165667,
-    "wof:lastmodified":1449053034,
+    "wof:lastmodified":1466488414,
     "wof:name":"Jewel's Home Care Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "home"
     ]
 },
-  "bbox": [-114.459919,42.577773,-114.459919,42.577773],
+  "bbox": [
+    -114.459919,
+    42.577773,
+    -114.459919,
+    42.577773
+],
   "geometry": {"coordinates":[-114.459919,42.577773],"type":"Point"}
 }

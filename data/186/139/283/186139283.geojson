@@ -2,13 +2,14 @@
   "id": 186139283,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.923766,44.016386,-116.923766,44.016386",
     "geom:latitude":44.016386,
     "geom:longitude":-116.923766,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"401 N Whitley Dr",
     "sg:city":"Fruitland",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":186139283,
-    "wof:lastmodified":1449050492,
+    "wof:lastmodified":1466488217,
     "wof:name":"Limbaugh Ranches Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "ranch"
     ]
 },
-  "bbox": [-116.923766,44.016386,-116.923766,44.016386],
+  "bbox": [
+    -116.923766,
+    44.016386,
+    -116.923766,
+    44.016386
+],
   "geometry": {"coordinates":[-116.923766,44.016386],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169612427,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.272628,43.645284,-116.272628,43.645284",
     "geom:latitude":43.645284,
     "geom:longitude":-116.272628,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5309 Chinden Blvd",
     "sg:city":"Boise",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":169612427,
-    "wof:lastmodified":1449034130,
+    "wof:lastmodified":1466486997,
     "wof:name":"Rocky Mountain Rv Sales",
     "wof:parent_id":85876349,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-116.272628,43.645284,-116.272628,43.645284],
+  "bbox": [
+    -116.272628,
+    43.645284,
+    -116.272628,
+    43.645284
+],
   "geometry": {"coordinates":[-116.272628,43.645284],"type":"Point"}
 }

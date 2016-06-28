@@ -2,13 +2,14 @@
   "id": 320526907,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-117.020736,46.398505,-117.020736,46.398505",
     "geom:latitude":46.398505,
     "geom:longitude":-117.020736,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"821 21st Ave",
     "sg:city":"Lewiston",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":320526907,
-    "wof:lastmodified":1449012417,
+    "wof:lastmodified":1466487397,
     "wof:name":"Division Of Veterans Services",
     "wof:parent_id":85837769,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "bureau"
     ]
 },
-  "bbox": [-117.020736,46.398505,-117.020736,46.398505],
+  "bbox": [
+    -117.020736,
+    46.398505,
+    -117.020736,
+    46.398505
+],
   "geometry": {"coordinates":[-117.020736,46.398505],"type":"Point"}
 }

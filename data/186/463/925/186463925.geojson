@@ -2,13 +2,14 @@
   "id": 186463925,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.283378,42.893952,-114.283378,42.893952",
     "geom:latitude":42.893952,
     "geom:longitude":-114.283378,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"611 E 270 S",
     "sg:city":"Dietrich",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":186463925,
-    "wof:lastmodified":1449052231,
+    "wof:lastmodified":1466488838,
     "wof:name":"S Squared E Squared",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-114.283378,42.893952,-114.283378,42.893952],
+  "bbox": [
+    -114.283378,
+    42.893952,
+    -114.283378,
+    42.893952
+],
   "geometry": {"coordinates":[-114.283378,42.893952],"type":"Point"}
 }

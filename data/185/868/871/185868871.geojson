@@ -2,13 +2,14 @@
   "id": 185868871,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.310589,42.94531,-115.310589,42.94531",
     "geom:latitude":42.94531,
     "geom:longitude":-115.310589,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"892 W Madison Ave",
     "sg:city":"Glenns Ferry",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":185868871,
-    "wof:lastmodified":1449006649,
+    "wof:lastmodified":1466488508,
     "wof:name":"Snake River PCS",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "cellular"
     ]
 },
-  "bbox": [-115.310589,42.94531,-115.310589,42.94531],
-  "geometry": {"coordinates":[-115.310589,42.94531],"type":"Point"}
+  "bbox": [
+    -115.310589,
+    42.94531,
+    -115.310589,
+    42.94531
+],
+  "geometry": {"coordinates":[-115.31058899999999,42.94531],"type":"Point"}
 }

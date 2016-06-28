@@ -2,13 +2,14 @@
   "id": 169726067,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.688636,43.662204,-116.688636,43.662204",
     "geom:latitude":43.662204,
     "geom:longitude":-116.688636,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"506 S 10th Ave",
     "sg:city":"Caldwell",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":169726067,
-    "wof:lastmodified":1449034954,
+    "wof:lastmodified":1466488245,
     "wof:name":"Intermountain Community Bank",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-116.688636,43.662204,-116.688636,43.662204],
+  "bbox": [
+    -116.688636,
+    43.662204,
+    -116.688636,
+    43.662204
+],
   "geometry": {"coordinates":[-116.688636,43.662204],"type":"Point"}
 }

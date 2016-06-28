@@ -2,13 +2,14 @@
   "id": 186308107,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.176459,48.145991,-116.176459,48.145991",
     "geom:latitude":48.145991,
     "geom:longitude":-116.176459,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"204 4th Ave",
     "sg:city":"Clark Fork",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":186308107,
-    "wof:lastmodified":1449053088,
+    "wof:lastmodified":1466488684,
     "wof:name":"Big Sky Pantry Too",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "grocer"
     ]
 },
-  "bbox": [-116.176459,48.145991,-116.176459,48.145991],
-  "geometry": {"coordinates":[-116.176459,48.145991],"type":"Point"}
+  "bbox": [
+    -116.176459,
+    48.145991,
+    -116.176459,
+    48.145991
+],
+  "geometry": {"coordinates":[-116.17645899999999,48.145991],"type":"Point"}
 }

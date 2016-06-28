@@ -2,13 +2,14 @@
   "id": 186273101,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.529898,43.571385,-116.529898,43.571385",
     "geom:latitude":43.571385,
     "geom:longitude":-116.529898,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3410 Evergreen Way",
     "sg:city":"Nampa",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186273101,
-    "wof:lastmodified":1449051763,
+    "wof:lastmodified":1466488711,
     "wof:name":"Cyclone Sportswear",
     "wof:parent_id":85827787,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "mfg"
     ]
 },
-  "bbox": [-116.529898,43.571385,-116.529898,43.571385],
+  "bbox": [
+    -116.529898,
+    43.571385,
+    -116.529898,
+    43.571385
+],
   "geometry": {"coordinates":[-116.529898,43.571385],"type":"Point"}
 }

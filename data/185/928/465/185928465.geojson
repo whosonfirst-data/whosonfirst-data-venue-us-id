@@ -2,13 +2,14 @@
   "id": 185928465,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.429833,43.631753,-116.429833,43.631753",
     "geom:latitude":43.631753,
     "geom:longitude":-116.429833,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2907 W Joust St",
     "sg:city":"Meridian",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":185928465,
-    "wof:lastmodified":1449007994,
+    "wof:lastmodified":1466488619,
     "wof:name":"Organic Solutions Inc",
     "wof:parent_id":85876351,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "grounds"
     ]
 },
-  "bbox": [-116.429833,43.631753,-116.429833,43.631753],
+  "bbox": [
+    -116.429833,
+    43.631753,
+    -116.429833,
+    43.631753
+],
   "geometry": {"coordinates":[-116.429833,43.631753],"type":"Point"}
 }

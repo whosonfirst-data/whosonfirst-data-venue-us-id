@@ -2,13 +2,14 @@
   "id": 320526875,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.931387,46.406195,-116.931387,46.406195",
     "geom:latitude":46.406195,
     "geom:longitude":-116.931387,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6800 Wapiti Dr",
     "sg:city":"Lewiston",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":320526875,
-    "wof:lastmodified":1449012416,
+    "wof:lastmodified":1466487395,
     "wof:name":"Karma Good Smoothies",
     "wof:parent_id":85837769,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-116.931387,46.406195,-116.931387,46.406195],
+  "bbox": [
+    -116.931387,
+    46.406195,
+    -116.931387,
+    46.406195
+],
   "geometry": {"coordinates":[-116.931387,46.406195],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 185599127,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.114981,43.354889,-112.114981,43.354889",
     "geom:latitude":43.354889,
     "geom:longitude":-112.114981,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"974 E 1100 N",
     "sg:city":"Shelley",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":185599127,
-    "wof:lastmodified":1449007363,
+    "wof:lastmodified":1466486984,
     "wof:name":"Creative Creations",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.114981,43.354889,-112.114981,43.354889],
+  "bbox": [
+    -112.114981,
+    43.354889,
+    -112.114981,
+    43.354889
+],
   "geometry": {"coordinates":[-112.114981,43.354889],"type":"Point"}
 }

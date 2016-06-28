@@ -2,13 +2,14 @@
   "id": 186244397,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.966588,43.476908,-111.966588,43.476908",
     "geom:latitude":43.476908,
     "geom:longitude":-111.966588,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2215 Cabellaro Dr",
     "sg:city":"Idaho Falls",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":186244397,
-    "wof:lastmodified":1449051435,
+    "wof:lastmodified":1466488576,
     "wof:name":"A A Gutters",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-111.966588,43.476908,-111.966588,43.476908],
+  "bbox": [
+    -111.966588,
+    43.476908,
+    -111.966588,
+    43.476908
+],
   "geometry": {"coordinates":[-111.966588,43.476908],"type":"Point"}
 }

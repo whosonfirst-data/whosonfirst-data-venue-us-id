@@ -2,13 +2,14 @@
   "id": 320550857,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.876612,48.635992,-116.876612,48.635992",
     "geom:latitude":48.635992,
     "geom:longitude":-116.876612,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3492 Reeder Bay Rd",
     "sg:city":"Nordman",
     "sg:classifiers":[
@@ -67,10 +68,11 @@
         }
     ],
     "wof:id":320550857,
-    "wof:lastmodified":1449013288,
+    "wof:lastmodified":1466487050,
     "wof:name":"Grandview Resort",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -81,6 +83,11 @@
         "hall"
     ]
 },
-  "bbox": [-116.876612,48.635992,-116.876612,48.635992],
-  "geometry": {"coordinates":[-116.876612,48.635992],"type":"Point"}
+  "bbox": [
+    -116.876612,
+    48.635992,
+    -116.876612,
+    48.635992
+],
+  "geometry": {"coordinates":[-116.87661199999999,48.635992],"type":"Point"}
 }

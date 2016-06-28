@@ -2,13 +2,14 @@
   "id": 185964737,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.128216,45.926655,-116.128216,45.926655",
     "geom:latitude":45.926655,
     "geom:longitude":-116.128216,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"119 S C St",
     "sg:city":"Grangeville",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":185964737,
-    "wof:lastmodified":1449007822,
+    "wof:lastmodified":1466488790,
     "wof:name":"Camas Prairie Recycling Ctr",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "center"
     ]
 },
-  "bbox": [-116.128216,45.926655,-116.128216,45.926655],
-  "geometry": {"coordinates":[-116.128216,45.926655],"type":"Point"}
+  "bbox": [
+    -116.128216,
+    45.926655,
+    -116.128216,
+    45.926655
+],
+  "geometry": {"coordinates":[-116.12821599999999,45.926655],"type":"Point"}
 }

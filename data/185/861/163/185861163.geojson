@@ -2,13 +2,14 @@
   "id": 185861163,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.262283,43.612017,-116.262283,43.612017",
     "geom:latitude":43.612017,
     "geom:longitude":-116.262283,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6550 Emerald St",
     "sg:city":"Boise",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":185861163,
-    "wof:lastmodified":1449008189,
+    "wof:lastmodified":1466488492,
     "wof:name":"Rick Dredge",
     "wof:parent_id":85806577,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "attorney"
     ]
 },
-  "bbox": [-116.262283,43.612017,-116.262283,43.612017],
+  "bbox": [
+    -116.262283,
+    43.612017,
+    -116.262283,
+    43.612017
+],
   "geometry": {"coordinates":[-116.262283,43.612017],"type":"Point"}
 }

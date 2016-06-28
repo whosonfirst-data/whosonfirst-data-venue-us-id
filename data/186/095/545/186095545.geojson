@@ -2,13 +2,14 @@
   "id": 186095545,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.560623,48.164965,-116.560623,48.164965",
     "geom:latitude":48.164965,
     "geom:longitude":-116.560623,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1880 E Dufort Rd",
     "sg:city":"Sagle",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":186095545,
-    "wof:lastmodified":1449051730,
+    "wof:lastmodified":1466487813,
     "wof:name":"State Park",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "parks"
     ]
 },
-  "bbox": [-116.560623,48.164965,-116.560623,48.164965],
-  "geometry": {"coordinates":[-116.560623,48.164965],"type":"Point"}
+  "bbox": [
+    -116.560623,
+    48.164965,
+    -116.560623,
+    48.164965
+],
+  "geometry": {"coordinates":[-116.56062300000001,48.164965],"type":"Point"}
 }

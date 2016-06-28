@@ -2,13 +2,14 @@
   "id": 186396865,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.488303,43.691914,-116.488303,43.691914",
     "geom:latitude":43.691914,
     "geom:longitude":-116.488303,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10769 W State St",
     "sg:city":"Star",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186396865,
-    "wof:lastmodified":1449052127,
+    "wof:lastmodified":1466488786,
     "wof:name":"Star City Office",
     "wof:parent_id":85876351,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "village"
     ]
 },
-  "bbox": [-116.488303,43.691914,-116.488303,43.691914],
+  "bbox": [
+    -116.488303,
+    43.691914,
+    -116.488303,
+    43.691914
+],
   "geometry": {"coordinates":[-116.488303,43.691914],"type":"Point"}
 }

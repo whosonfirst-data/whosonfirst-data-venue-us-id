@@ -2,13 +2,14 @@
   "id": 186075811,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.497318,43.87555,-116.497318,43.87555",
     "geom:latitude":43.87555,
     "geom:longitude":-116.497318,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"213 E Main St",
     "sg:city":"Emmett",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":186075811,
-    "wof:lastmodified":1449051839,
+    "wof:lastmodified":1466487610,
     "wof:name":"Western Id Community Action",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "welfare"
     ]
 },
-  "bbox": [-116.497318,43.87555,-116.497318,43.87555],
-  "geometry": {"coordinates":[-116.497318,43.87555],"type":"Point"}
+  "bbox": [
+    -116.497318,
+    43.87555,
+    -116.497318,
+    43.87555
+],
+  "geometry": {"coordinates":[-116.49731800000001,43.87555],"type":"Point"}
 }

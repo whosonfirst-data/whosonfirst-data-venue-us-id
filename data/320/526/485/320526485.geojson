@@ -2,13 +2,14 @@
   "id": 320526485,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.996776,46.404091,-116.996776,46.404091",
     "geom:latitude":46.404091,
     "geom:longitude":-116.996776,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2502 16th Ave",
     "sg:city":"Lewiston",
     "sg:classifiers":[
@@ -61,16 +62,22 @@
         }
     ],
     "wof:id":320526485,
-    "wof:lastmodified":1449012415,
+    "wof:lastmodified":1466487386,
     "wof:name":"The House of Faith",
     "wof:parent_id":85837769,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "churches-non-denominational"
     ]
 },
-  "bbox": [-116.996776,46.404091,-116.996776,46.404091],
+  "bbox": [
+    -116.996776,
+    46.404091,
+    -116.996776,
+    46.404091
+],
   "geometry": {"coordinates":[-116.996776,46.404091],"type":"Point"}
 }

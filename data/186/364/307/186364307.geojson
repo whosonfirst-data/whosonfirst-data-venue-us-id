@@ -2,13 +2,14 @@
   "id": 186364307,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.553147,43.594367,-116.553147,43.594367",
     "geom:latitude":43.594367,
     "geom:longitude":-116.553147,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1307 Franklin Blvd",
     "sg:city":"Nampa",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186364307,
-    "wof:lastmodified":1449051887,
+    "wof:lastmodified":1466488753,
     "wof:name":"Stirling Services Rv Washing",
     "wof:parent_id":85827787,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "cleaning"
     ]
 },
-  "bbox": [-116.553147,43.594367,-116.553147,43.594367],
+  "bbox": [
+    -116.553147,
+    43.594367,
+    -116.553147,
+    43.594367
+],
   "geometry": {"coordinates":[-116.553147,43.594367],"type":"Point"}
 }

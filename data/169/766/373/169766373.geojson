@@ -2,13 +2,14 @@
   "id": 169766373,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.121428,47.535154,-116.121428,47.535154",
     "geom:latitude":47.535154,
     "geom:longitude":-116.121428,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1 McKinley Ave",
     "sg:city":"Kellogg",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":169766373,
-    "wof:lastmodified":1449032639,
+    "wof:lastmodified":1466488441,
     "wof:name":"Bitterroot Mercantile",
     "wof:parent_id":85849049,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "antique"
     ]
 },
-  "bbox": [-116.121428,47.535154,-116.121428,47.535154],
-  "geometry": {"coordinates":[-116.121428,47.535154],"type":"Point"}
+  "bbox": [
+    -116.121428,
+    47.535154,
+    -116.121428,
+    47.535154
+],
+  "geometry": {"coordinates":[-116.12142799999999,47.535154],"type":"Point"}
 }

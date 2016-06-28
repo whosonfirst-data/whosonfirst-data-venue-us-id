@@ -2,13 +2,14 @@
   "id": 185789549,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.618949,43.626697,-116.618949,43.626697",
     "geom:latitude":43.626697,
     "geom:longitude":-116.618949,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"11167 Laster Ln",
     "sg:city":"Nampa",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":185789549,
-    "wof:lastmodified":1449007339,
+    "wof:lastmodified":1466488229,
     "wof:name":"Phil Earnest",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "trucking"
     ]
 },
-  "bbox": [-116.618949,43.626697,-116.618949,43.626697],
+  "bbox": [
+    -116.618949,
+    43.626697,
+    -116.618949,
+    43.626697
+],
   "geometry": {"coordinates":[-116.618949,43.626697],"type":"Point"}
 }

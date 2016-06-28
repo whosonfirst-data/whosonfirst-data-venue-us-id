@@ -2,13 +2,14 @@
   "id": 186545773,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.166384,43.565151,-116.166384,43.565151",
     "geom:latitude":43.565151,
     "geom:longitude":-116.166384,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4153 Minuteman Way",
     "sg:city":"Boise",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186545773,
-    "wof:lastmodified":1449051039,
+    "wof:lastmodified":1466488888,
     "wof:name":"Norris Photography",
     "wof:parent_id":85876329,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "photo"
     ]
 },
-  "bbox": [-116.166384,43.565151,-116.166384,43.565151],
-  "geometry": {"coordinates":[-116.166384,43.565151],"type":"Point"}
+  "bbox": [
+    -116.166384,
+    43.565151,
+    -116.166384,
+    43.565151
+],
+  "geometry": {"coordinates":[-116.16638399999999,43.565151],"type":"Point"}
 }

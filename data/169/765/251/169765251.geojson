@@ -2,13 +2,14 @@
   "id": 169765251,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.17054,43.569701,-116.17054,43.569701",
     "geom:latitude":43.569701,
     "geom:longitude":-116.17054,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3578 N Church Ave",
     "sg:city":"Boise",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":169765251,
-    "wof:lastmodified":1449034593,
+    "wof:lastmodified":1466488439,
     "wof:name":"Ericjonascom",
     "wof:parent_id":85876329,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "datum"
     ]
 },
-  "bbox": [-116.17054,43.569701,-116.17054,43.569701],
+  "bbox": [
+    -116.17054,
+    43.569701,
+    -116.17054,
+    43.569701
+],
   "geometry": {"coordinates":[-116.17054,43.569701],"type":"Point"}
 }

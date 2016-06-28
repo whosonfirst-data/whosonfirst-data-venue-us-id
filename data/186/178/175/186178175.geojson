@@ -2,13 +2,14 @@
   "id": 186178175,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.952246,47.717149,-116.952246,47.717149",
     "geom:latitude":47.717149,
     "geom:longitude":-116.952246,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"825 N Compton St",
     "sg:city":"Post Falls",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":186178175,
-    "wof:lastmodified":1449052285,
+    "wof:lastmodified":1466488452,
     "wof:name":"Truly Temp",
     "wof:parent_id":85833263,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "supply"
     ]
 },
-  "bbox": [-116.952246,47.717149,-116.952246,47.717149],
+  "bbox": [
+    -116.952246,
+    47.717149,
+    -116.952246,
+    47.717149
+],
   "geometry": {"coordinates":[-116.952246,47.717149],"type":"Point"}
 }

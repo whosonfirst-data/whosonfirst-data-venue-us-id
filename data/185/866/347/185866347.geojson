@@ -2,13 +2,14 @@
   "id": 185866347,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.212321,43.620791,-116.212321,43.620791",
     "geom:latitude":43.620791,
     "geom:longitude":-116.212321,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"140 N 16th St",
     "sg:city":"Boise",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":185866347,
-    "wof:lastmodified":1449007385,
+    "wof:lastmodified":1466488408,
     "wof:name":"KBCI",
     "wof:parent_id":85876355,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "co"
     ]
 },
-  "bbox": [-116.212321,43.620791,-116.212321,43.620791],
+  "bbox": [
+    -116.212321,
+    43.620791,
+    -116.212321,
+    43.620791
+],
   "geometry": {"coordinates":[-116.212321,43.620791],"type":"Point"}
 }

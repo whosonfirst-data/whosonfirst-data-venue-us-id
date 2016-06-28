@@ -2,13 +2,14 @@
   "id": 185713859,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.937026,43.770117,-116.937026,43.770117",
     "geom:latitude":43.770117,
     "geom:longitude":-116.937026,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"27495 Sand Rd",
     "sg:city":"Parma",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":185713859,
-    "wof:lastmodified":1449008069,
+    "wof:lastmodified":1466487632,
     "wof:name":"Lone Wolf Ranch",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "ranch"
     ]
 },
-  "bbox": [-116.937026,43.770117,-116.937026,43.770117],
+  "bbox": [
+    -116.937026,
+    43.770117,
+    -116.937026,
+    43.770117
+],
   "geometry": {"coordinates":[-116.937026,43.770117],"type":"Point"}
 }

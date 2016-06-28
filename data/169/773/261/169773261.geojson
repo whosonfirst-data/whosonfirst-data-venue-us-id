@@ -2,13 +2,14 @@
   "id": 169773261,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-113.681431,42.606771,-113.681431,42.606771",
     "geom:latitude":42.606771,
     "geom:longitude":-113.681431,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"723 S Oneida St",
     "sg:city":"Rupert",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":169773261,
-    "wof:lastmodified":1449033102,
+    "wof:lastmodified":1466488447,
     "wof:name":"Hill Oil",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "oil"
     ]
 },
-  "bbox": [-113.681431,42.606771,-113.681431,42.606771],
+  "bbox": [
+    -113.681431,
+    42.606771,
+    -113.681431,
+    42.606771
+],
   "geometry": {"coordinates":[-113.681431,42.606771],"type":"Point"}
 }

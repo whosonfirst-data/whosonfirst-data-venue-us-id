@@ -2,13 +2,14 @@
   "id": 186014803,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.277235,43.627054,-116.277235,43.627054",
     "geom:latitude":43.627054,
     "geom:longitude":-116.277235,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2554 Westminster Ln",
     "sg:city":"Boise",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":186014803,
-    "wof:lastmodified":1449051696,
+    "wof:lastmodified":1466486910,
     "wof:name":"Cove Assoc Inc",
     "wof:parent_id":85841319,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-116.277235,43.627054,-116.277235,43.627054],
+  "bbox": [
+    -116.277235,
+    43.627054,
+    -116.277235,
+    43.627054
+],
   "geometry": {"coordinates":[-116.277235,43.627054],"type":"Point"}
 }

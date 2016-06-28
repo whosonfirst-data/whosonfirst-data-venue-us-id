@@ -2,13 +2,14 @@
   "id": 186244339,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.285808,43.647376,-116.285808,43.647376",
     "geom:latitude":43.647376,
     "geom:longitude":-116.285808,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4631 Berkshire Dr",
     "sg:city":"Boise",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186244339,
-    "wof:lastmodified":1449051434,
+    "wof:lastmodified":1466488576,
     "wof:name":"Hat Trick",
     "wof:parent_id":85876349,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "wholesaler"
     ]
 },
-  "bbox": [-116.285808,43.647376,-116.285808,43.647376],
+  "bbox": [
+    -116.285808,
+    43.647376,
+    -116.285808,
+    43.647376
+],
   "geometry": {"coordinates":[-116.285808,43.647376],"type":"Point"}
 }

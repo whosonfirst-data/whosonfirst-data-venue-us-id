@@ -2,13 +2,14 @@
   "id": 169638189,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.982761,46.720212,-116.982761,46.720212",
     "geom:latitude":46.720212,
     "geom:longitude":-116.982761,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1350 Troy Rd",
     "sg:city":"Moscow",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":169638189,
-    "wof:lastmodified":1449032868,
+    "wof:lastmodified":1466487409,
     "wof:name":"Self Reliance Program",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-116.982761,46.720212,-116.982761,46.720212],
+  "bbox": [
+    -116.982761,
+    46.720212,
+    -116.982761,
+    46.720212
+],
   "geometry": {"coordinates":[-116.982761,46.720212],"type":"Point"}
 }

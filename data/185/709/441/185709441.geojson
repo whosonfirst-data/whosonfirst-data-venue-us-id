@@ -2,13 +2,14 @@
   "id": 185709441,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.677495,43.083286,-115.677495,43.083286",
     "geom:latitude":43.083286,
     "geom:longitude":-115.677495,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4165 S 18th E",
     "sg:city":"Mountain Home",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":185709441,
-    "wof:lastmodified":1449006934,
+    "wof:lastmodified":1466487599,
     "wof:name":"Fisher Excavating",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "contractor"
     ]
 },
-  "bbox": [-115.677495,43.083286,-115.677495,43.083286],
-  "geometry": {"coordinates":[-115.677495,43.083286],"type":"Point"}
+  "bbox": [
+    -115.677495,
+    43.083286,
+    -115.677495,
+    43.083286
+],
+  "geometry": {"coordinates":[-115.67749499999999,43.083286],"type":"Point"}
 }

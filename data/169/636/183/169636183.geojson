@@ -2,13 +2,14 @@
   "id": 169636183,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.526392,43.830913,-116.526392,43.830913",
     "geom:latitude":43.830913,
     "geom:longitude":-116.526392,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1409 W South Slope Rd",
     "sg:city":"Emmett",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":169636183,
-    "wof:lastmodified":1449033986,
+    "wof:lastmodified":1466487377,
     "wof:name":"Morales Dimmick Translation",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "interpreter"
     ]
 },
-  "bbox": [-116.526392,43.830913,-116.526392,43.830913],
+  "bbox": [
+    -116.526392,
+    43.830913,
+    -116.526392,
+    43.830913
+],
   "geometry": {"coordinates":[-116.526392,43.830913],"type":"Point"}
 }

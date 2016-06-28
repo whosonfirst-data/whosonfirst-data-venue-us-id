@@ -2,13 +2,14 @@
   "id": 169615599,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.906335,48.181354,-116.906335,48.181354",
     "geom:latitude":48.181354,
     "geom:longitude":-116.906335,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"206 Summit Blvd",
     "sg:city":"Priest River",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":169615599,
-    "wof:lastmodified":1449033733,
+    "wof:lastmodified":1466487047,
     "wof:name":"St Catherine's Catholic Church",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-116.906335,48.181354,-116.906335,48.181354],
+  "bbox": [
+    -116.906335,
+    48.181354,
+    -116.906335,
+    48.181354
+],
   "geometry": {"coordinates":[-116.906335,48.181354],"type":"Point"}
 }

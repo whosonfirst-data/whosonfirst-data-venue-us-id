@@ -2,13 +2,14 @@
   "id": 186028183,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-113.886006,45.286254,-113.886006,45.286254",
     "geom:latitude":45.286254,
     "geom:longitude":-113.886006,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"16 Hot Springs Ranch Rd",
     "sg:city":"Carmen",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":186028183,
-    "wof:lastmodified":1449051831,
+    "wof:lastmodified":1466487057,
     "wof:name":"Nancy M Cummings Research",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-113.886006,45.286254,-113.886006,45.286254],
-  "geometry": {"coordinates":[-113.886006,45.286254],"type":"Point"}
+  "bbox": [
+    -113.886006,
+    45.286254,
+    -113.886006,
+    45.286254
+],
+  "geometry": {"coordinates":[-113.88600599999999,45.286254],"type":"Point"}
 }

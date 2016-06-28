@@ -2,13 +2,14 @@
   "id": 186039503,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.305256,43.70356,-116.305256,43.70356",
     "geom:latitude":43.70356,
     "geom:longitude":-116.305256,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9778 Prairie Rd",
     "sg:city":"Boise",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":186039503,
-    "wof:lastmodified":1449052682,
+    "wof:lastmodified":1466487189,
     "wof:name":"Wagner Woodworks",
     "wof:parent_id":85876315,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "mfg"
     ]
 },
-  "bbox": [-116.305256,43.70356,-116.305256,43.70356],
+  "bbox": [
+    -116.305256,
+    43.70356,
+    -116.305256,
+    43.70356
+],
   "geometry": {"coordinates":[-116.305256,43.70356],"type":"Point"}
 }

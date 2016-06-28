@@ -2,13 +2,14 @@
   "id": 186410109,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.921398,48.180672,-116.921398,48.180672",
     "geom:latitude":48.180672,
     "geom:longitude":-116.921398,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1118 US Hwy 2",
     "sg:city":"Priest River",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":186410109,
-    "wof:lastmodified":1449050294,
+    "wof:lastmodified":1466488791,
     "wof:name":"Action Auto Supply Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "parts"
     ]
 },
-  "bbox": [-116.921398,48.180672,-116.921398,48.180672],
+  "bbox": [
+    -116.921398,
+    48.180672,
+    -116.921398,
+    48.180672
+],
   "geometry": {"coordinates":[-116.921398,48.180672],"type":"Point"}
 }

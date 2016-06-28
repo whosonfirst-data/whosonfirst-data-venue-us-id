@@ -2,13 +2,14 @@
   "id": 186391465,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.334891,43.65204,-116.334891,43.65204",
     "geom:latitude":43.65204,
     "geom:longitude":-116.334891,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"12270 W Hickory Dr",
     "sg:city":"Boise",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186391465,
-    "wof:lastmodified":1449052096,
+    "wof:lastmodified":1466488778,
     "wof:name":"A Plus Quality Spa Svc LLC",
     "wof:parent_id":85876357,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "health"
     ]
 },
-  "bbox": [-116.334891,43.65204,-116.334891,43.65204],
+  "bbox": [
+    -116.334891,
+    43.65204,
+    -116.334891,
+    43.65204
+],
   "geometry": {"coordinates":[-116.334891,43.65204],"type":"Point"}
 }

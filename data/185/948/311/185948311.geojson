@@ -2,13 +2,14 @@
   "id": 185948311,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.301487,43.679183,-116.301487,43.679183",
     "geom:latitude":43.679183,
     "geom:longitude":-116.301487,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6890 Duncan Ln",
     "sg:city":"Boise",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":185948311,
-    "wof:lastmodified":1449007892,
+    "wof:lastmodified":1466488577,
     "wof:name":"Seven Stones Press",
     "wof:parent_id":85876315,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "business"
     ]
 },
-  "bbox": [-116.301487,43.679183,-116.301487,43.679183],
-  "geometry": {"coordinates":[-116.301487,43.679183],"type":"Point"}
+  "bbox": [
+    -116.301487,
+    43.679183,
+    -116.301487,
+    43.679183
+],
+  "geometry": {"coordinates":[-116.30148699999999,43.679183],"type":"Point"}
 }

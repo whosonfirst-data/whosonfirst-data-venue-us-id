@@ -2,13 +2,14 @@
   "id": 186464579,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.242608,42.183916,-112.242608,42.183916",
     "geom:latitude":42.183916,
     "geom:longitude":-112.242608,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"100 E 90 S",
     "sg:city":"Malad City",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":186464579,
-    "wof:lastmodified":1449051105,
+    "wof:lastmodified":1466488838,
     "wof:name":"Idaho Enterprise",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "newspaper"
     ]
 },
-  "bbox": [-112.242608,42.183916,-112.242608,42.183916],
+  "bbox": [
+    -112.242608,
+    42.183916,
+    -112.242608,
+    42.183916
+],
   "geometry": {"coordinates":[-112.242608,42.183916],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169818709,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.434518,42.538682,-114.434518,42.538682",
     "geom:latitude":42.538682,
     "geom:longitude":-114.434518,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2452 Rostron Cir",
     "sg:city":"Twin Falls",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":169818709,
-    "wof:lastmodified":1449034286,
+    "wof:lastmodified":1466488544,
     "wof:name":"Apex Container Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "freight"
     ]
 },
-  "bbox": [-114.434518,42.538682,-114.434518,42.538682],
+  "bbox": [
+    -114.434518,
+    42.538682,
+    -114.434518,
+    42.538682
+],
   "geometry": {"coordinates":[-114.434518,42.538682],"type":"Point"}
 }

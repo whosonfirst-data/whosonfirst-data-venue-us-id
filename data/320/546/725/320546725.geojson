@@ -2,13 +2,14 @@
   "id": 320546725,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-117.001493,46.73766,-117.001493,46.73766",
     "geom:latitude":46.73766,
     "geom:longitude":-117.001493,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"421 N Main St",
     "sg:city":"Moscow",
     "sg:classifiers":[
@@ -66,10 +67,11 @@
         }
     ],
     "wof:id":320546725,
-    "wof:lastmodified":1449011253,
+    "wof:lastmodified":1466487007,
     "wof:name":"Rosauers Supermarkets Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -77,6 +79,11 @@
         "super"
     ]
 },
-  "bbox": [-117.001493,46.73766,-117.001493,46.73766],
+  "bbox": [
+    -117.001493,
+    46.73766,
+    -117.001493,
+    46.73766
+],
   "geometry": {"coordinates":[-117.001493,46.73766],"type":"Point"}
 }

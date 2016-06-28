@@ -2,13 +2,14 @@
   "id": 186488719,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.786097,47.688077,-116.786097,47.688077",
     "geom:latitude":47.688077,
     "geom:longitude":-116.786097,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1302 N Government Way",
     "sg:city":"Coeur D Alene",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":186488719,
-    "wof:lastmodified":1449052972,
+    "wof:lastmodified":1466488861,
     "wof:name":"Duncan's Pet Shop",
     "wof:parent_id":85821457,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "shop"
     ]
 },
-  "bbox": [-116.786097,47.688077,-116.786097,47.688077],
+  "bbox": [
+    -116.786097,
+    47.688077,
+    -116.786097,
+    47.688077
+],
   "geometry": {"coordinates":[-116.786097,47.688077],"type":"Point"}
 }

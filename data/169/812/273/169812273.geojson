@@ -2,13 +2,14 @@
   "id": 169812273,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.988793,46.393793,-116.988793,46.393793",
     "geom:latitude":46.393793,
     "geom:longitude":-116.988793,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2945 Juniper Dr",
     "sg:city":"Lewiston",
     "sg:classifiers":[
@@ -61,16 +62,22 @@
         }
     ],
     "wof:id":169812273,
-    "wof:lastmodified":1449032780,
+    "wof:lastmodified":1466488533,
     "wof:name":"Troon Apartments",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "apartment"
     ]
 },
-  "bbox": [-116.988793,46.393793,-116.988793,46.393793],
+  "bbox": [
+    -116.988793,
+    46.393793,
+    -116.988793,
+    46.393793
+],
   "geometry": {"coordinates":[-116.988793,46.393793],"type":"Point"}
 }

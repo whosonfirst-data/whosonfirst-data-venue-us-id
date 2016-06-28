@@ -2,13 +2,14 @@
   "id": 185805829,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.948135,47.715877,-116.948135,47.715877",
     "geom:latitude":47.715877,
     "geom:longitude":-116.948135,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"821 N Spokane St",
     "sg:city":"Post Falls",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":185805829,
-    "wof:lastmodified":1449007140,
+    "wof:lastmodified":1466488389,
     "wof:name":"Post Falls Library",
     "wof:parent_id":85833263,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-116.948135,47.715877,-116.948135,47.715877],
-  "geometry": {"coordinates":[-116.948135,47.715877],"type":"Point"}
+  "bbox": [
+    -116.948135,
+    47.715877,
+    -116.948135,
+    47.715877
+],
+  "geometry": {"coordinates":[-116.94813499999999,47.715877],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 320542975,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.314233,43.563778,-116.314233,43.563778",
     "geom:latitude":43.563778,
     "geom:longitude":-116.314233,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4310 S Five Mile Rd",
     "sg:city":"Boise",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":320542975,
-    "wof:lastmodified":1449014131,
+    "wof:lastmodified":1466486957,
     "wof:name":"Future Design Company",
     "wof:parent_id":85876331,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "specialty"
     ]
 },
-  "bbox": [-116.314233,43.563778,-116.314233,43.563778],
+  "bbox": [
+    -116.314233,
+    43.563778,
+    -116.314233,
+    43.563778
+],
   "geometry": {"coordinates":[-116.314233,43.563778],"type":"Point"}
 }

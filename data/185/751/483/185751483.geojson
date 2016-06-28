@@ -2,13 +2,14 @@
   "id": 185751483,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.751924,47.668807,-116.751924,47.668807",
     "geom:latitude":47.668807,
     "geom:longitude":-116.751924,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"300 W Coeur D'Alene Lake Dr",
     "sg:city":"Coeur D Alene",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":185751483,
-    "wof:lastmodified":1449006680,
+    "wof:lastmodified":1466487936,
     "wof:name":"Eduardo's Lounge",
     "wof:parent_id":85821457,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-116.751924,47.668807,-116.751924,47.668807],
+  "bbox": [
+    -116.751924,
+    47.668807,
+    -116.751924,
+    47.668807
+],
   "geometry": {"coordinates":[-116.751924,47.668807],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 320529673,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.390489,43.69759,-116.390489,43.69759",
     "geom:latitude":43.69759,
     "geom:longitude":-116.390489,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"322 N Sierra View Way",
     "sg:city":"Eagle",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":320529673,
-    "wof:lastmodified":1449012886,
+    "wof:lastmodified":1466487833,
     "wof:name":"F 22 Consulting California Corporation",
     "wof:parent_id":85876351,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "coach"
     ]
 },
-  "bbox": [-116.390489,43.69759,-116.390489,43.69759],
+  "bbox": [
+    -116.390489,
+    43.69759,
+    -116.390489,
+    43.69759
+],
   "geometry": {"coordinates":[-116.390489,43.69759],"type":"Point"}
 }

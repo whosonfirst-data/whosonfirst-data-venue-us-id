@@ -2,13 +2,14 @@
   "id": 185634925,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.481483,42.651035,-114.481483,42.651035",
     "geom:latitude":42.651035,
     "geom:longitude":-114.481483,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"214 E 500 S",
     "sg:city":"Jerome",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":185634925,
-    "wof:lastmodified":1449007388,
+    "wof:lastmodified":1466487029,
     "wof:name":"E P Moseley",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "cattle"
     ]
 },
-  "bbox": [-114.481483,42.651035,-114.481483,42.651035],
+  "bbox": [
+    -114.481483,
+    42.651035,
+    -114.481483,
+    42.651035
+],
   "geometry": {"coordinates":[-114.481483,42.651035],"type":"Point"}
 }

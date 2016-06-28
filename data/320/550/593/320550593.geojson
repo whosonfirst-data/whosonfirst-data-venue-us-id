@@ -2,13 +2,14 @@
   "id": 320550593,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.991163,46.722077,-116.991163,46.722077",
     "geom:latitude":46.722077,
     "geom:longitude":-116.991163,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"693 Styner Ave Apt 10",
     "sg:city":"Moscow",
     "sg:classifiers":[
@@ -56,10 +57,11 @@
         }
     ],
     "wof:id":320550593,
-    "wof:lastmodified":1449013289,
+    "wof:lastmodified":1466487045,
     "wof:name":"Silos",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "espresso"
     ]
 },
-  "bbox": [-116.991163,46.722077,-116.991163,46.722077],
+  "bbox": [
+    -116.991163,
+    46.722077,
+    -116.991163,
+    46.722077
+],
   "geometry": {"coordinates":[-116.991163,46.722077],"type":"Point"}
 }

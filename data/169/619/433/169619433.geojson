@@ -2,13 +2,14 @@
   "id": 169619433,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.466368,42.568428,-114.466368,42.568428",
     "geom:latitude":42.568428,
     "geom:longitude":-114.466368,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"340 Taylor St",
     "sg:city":"Twin Falls",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":169619433,
-    "wof:lastmodified":1449033282,
+    "wof:lastmodified":1466487107,
     "wof:name":"Martin Exterior Design",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "contractor"
     ]
 },
-  "bbox": [-114.466368,42.568428,-114.466368,42.568428],
+  "bbox": [
+    -114.466368,
+    42.568428,
+    -114.466368,
+    42.568428
+],
   "geometry": {"coordinates":[-114.466368,42.568428],"type":"Point"}
 }

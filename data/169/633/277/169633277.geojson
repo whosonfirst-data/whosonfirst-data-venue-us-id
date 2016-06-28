@@ -2,13 +2,14 @@
   "id": 169633277,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.980992,46.382978,-116.980992,46.382978",
     "geom:latitude":46.382978,
     "geom:longitude":-116.980992,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3314 10th St",
     "sg:city":"Lewiston",
     "sg:classifiers":[
@@ -61,16 +62,22 @@
         }
     ],
     "wof:id":169633277,
-    "wof:lastmodified":1449035938,
+    "wof:lastmodified":1466487331,
     "wof:name":"Frosty Ice",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "ice"
     ]
 },
-  "bbox": [-116.980992,46.382978,-116.980992,46.382978],
+  "bbox": [
+    -116.980992,
+    46.382978,
+    -116.980992,
+    46.382978
+],
   "geometry": {"coordinates":[-116.980992,46.382978],"type":"Point"}
 }

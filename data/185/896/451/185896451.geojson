@@ -2,13 +2,14 @@
   "id": 185896451,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.416195,43.601716,-116.416195,43.601716",
     "geom:latitude":43.601716,
     "geom:longitude":-116.416195,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1790 W Calcite Ct",
     "sg:city":"Meridian",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":185896451,
-    "wof:lastmodified":1449007184,
+    "wof:lastmodified":1466488554,
     "wof:name":"Eclipse Finishes",
     "wof:parent_id":85805083,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-116.416195,43.601716,-116.416195,43.601716],
+  "bbox": [
+    -116.416195,
+    43.601716,
+    -116.416195,
+    43.601716
+],
   "geometry": {"coordinates":[-116.416195,43.601716],"type":"Point"}
 }

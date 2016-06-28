@@ -2,13 +2,14 @@
   "id": 186255707,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.349735,46.049538,-116.349735,46.049538",
     "geom:latitude":46.049538,
     "geom:longitude":-116.349735,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"510 King St",
     "sg:city":"Cottonwood",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":186255707,
-    "wof:lastmodified":1449051593,
+    "wof:lastmodified":1466488606,
     "wof:name":"Michael P Wasko",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "attorney"
     ]
 },
-  "bbox": [-116.349735,46.049538,-116.349735,46.049538],
+  "bbox": [
+    -116.349735,
+    46.049538,
+    -116.349735,
+    46.049538
+],
   "geometry": {"coordinates":[-116.349735,46.049538],"type":"Point"}
 }

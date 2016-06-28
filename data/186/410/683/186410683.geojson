@@ -2,13 +2,14 @@
   "id": 186410683,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.030345,43.49953,-112.030345,43.49953",
     "geom:latitude":43.49953,
     "geom:longitude":-112.030345,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"210 Cleveland St",
     "sg:city":"Idaho Falls",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":186410683,
-    "wof:lastmodified":1449050293,
+    "wof:lastmodified":1466488705,
     "wof:name":"Muffler Warehouse",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "parts"
     ]
 },
-  "bbox": [-112.030345,43.49953,-112.030345,43.49953],
+  "bbox": [
+    -112.030345,
+    43.49953,
+    -112.030345,
+    43.49953
+],
   "geometry": {"coordinates":[-112.030345,43.49953],"type":"Point"}
 }

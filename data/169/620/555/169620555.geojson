@@ -2,13 +2,14 @@
   "id": 169620555,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.569913,43.578462,-116.569913,43.578462",
     "geom:latitude":43.578462,
     "geom:longitude":-116.569913,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"608 7th Ave S",
     "sg:city":"Nampa",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":169620555,
-    "wof:lastmodified":1449035675,
+    "wof:lastmodified":1466487125,
     "wof:name":"Rock Like",
     "wof:parent_id":85827787,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "mfg"
     ]
 },
-  "bbox": [-116.569913,43.578462,-116.569913,43.578462],
+  "bbox": [
+    -116.569913,
+    43.578462,
+    -116.569913,
+    43.578462
+],
   "geometry": {"coordinates":[-116.569913,43.578462],"type":"Point"}
 }

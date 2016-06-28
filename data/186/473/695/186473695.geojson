@@ -2,13 +2,14 @@
   "id": 186473695,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.328844,43.203008,-112.328844,43.203008",
     "geom:latitude":43.203008,
     "geom:longitude":-112.328844,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1650 NW Main St",
     "sg:city":"Blackfoot",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":186473695,
-    "wof:lastmodified":1449050965,
+    "wof:lastmodified":1466488899,
     "wof:name":"Grove City Cemetery",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "cemetery"
     ]
 },
-  "bbox": [-112.328844,43.203008,-112.328844,43.203008],
+  "bbox": [
+    -112.328844,
+    43.203008,
+    -112.328844,
+    43.203008
+],
   "geometry": {"coordinates":[-112.328844,43.203008],"type":"Point"}
 }

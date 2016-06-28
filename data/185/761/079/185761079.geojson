@@ -2,13 +2,14 @@
   "id": 185761079,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.417983,43.622644,-116.417983,43.622644",
     "geom:latitude":43.622644,
     "geom:longitude":-116.417983,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1912 W Hendricks Ct",
     "sg:city":"Meridian",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":185761079,
-    "wof:lastmodified":1449007846,
+    "wof:lastmodified":1466488009,
     "wof:name":"Fong & Associates Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-116.417983,43.622644,-116.417983,43.622644],
-  "geometry": {"coordinates":[-116.417983,43.622644],"type":"Point"}
+  "bbox": [
+    -116.417983,
+    43.622644,
+    -116.417983,
+    43.622644
+],
+  "geometry": {"coordinates":[-116.41798300000001,43.622644],"type":"Point"}
 }

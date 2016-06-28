@@ -2,13 +2,14 @@
   "id": 186019611,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.873657,43.952581,-116.873657,43.952581",
     "geom:latitude":43.952581,
     "geom:longitude":-116.873657,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5415 Custer Rd",
     "sg:city":"New Plymouth",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":186019611,
-    "wof:lastmodified":1449051923,
+    "wof:lastmodified":1466486960,
     "wof:name":"Great Lakes Chemical Corp",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "mfg"
     ]
 },
-  "bbox": [-116.873657,43.952581,-116.873657,43.952581],
-  "geometry": {"coordinates":[-116.873657,43.952581],"type":"Point"}
+  "bbox": [
+    -116.873657,
+    43.952581,
+    -116.873657,
+    43.952581
+],
+  "geometry": {"coordinates":[-116.87365699999999,43.952581],"type":"Point"}
 }

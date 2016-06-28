@@ -2,13 +2,14 @@
   "id": 186379919,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-113.300128,43.636652,-113.300128,43.636652",
     "geom:latitude":43.636652,
     "geom:longitude":-113.300128,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"101 W Grand Ave",
     "sg:city":"Arco",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":186379919,
-    "wof:lastmodified":1449051936,
+    "wof:lastmodified":1466488843,
     "wof:name":"Grand Avenue Motel & Mall",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-113.300128,43.636652,-113.300128,43.636652],
+  "bbox": [
+    -113.300128,
+    43.636652,
+    -113.300128,
+    43.636652
+],
   "geometry": {"coordinates":[-113.300128,43.636652],"type":"Point"}
 }

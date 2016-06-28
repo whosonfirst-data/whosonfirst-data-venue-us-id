@@ -2,13 +2,14 @@
   "id": 186555359,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.698915,47.934642,-116.698915,47.934642",
     "geom:latitude":47.934642,
     "geom:longitude":-116.698915,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"29450 US Hwy 95",
     "sg:city":"Athol",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":186555359,
-    "wof:lastmodified":1449052633,
+    "wof:lastmodified":1466488890,
     "wof:name":"Athol Baptist Church",
     "wof:parent_id":85821457,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-116.698915,47.934642,-116.698915,47.934642],
+  "bbox": [
+    -116.698915,
+    47.934642,
+    -116.698915,
+    47.934642
+],
   "geometry": {"coordinates":[-116.698915,47.934642],"type":"Point"}
 }

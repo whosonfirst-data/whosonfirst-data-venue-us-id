@@ -2,13 +2,14 @@
   "id": 186030259,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.676486,47.958875,-116.676486,47.958875",
     "geom:latitude":47.958875,
     "geom:longitude":-116.676486,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"31588 N Sea Sprite Ln",
     "sg:city":"Athol",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":186030259,
-    "wof:lastmodified":1449051366,
+    "wof:lastmodified":1466487082,
     "wof:name":"Carrier Aviation",
     "wof:parent_id":85821457,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-116.676486,47.958875,-116.676486,47.958875],
+  "bbox": [
+    -116.676486,
+    47.958875,
+    -116.676486,
+    47.958875
+],
   "geometry": {"coordinates":[-116.676486,47.958875],"type":"Point"}
 }

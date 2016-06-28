@@ -2,13 +2,14 @@
   "id": 186146877,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.966974,43.481787,-111.966974,43.481787",
     "geom:latitude":43.481787,
     "geom:longitude":-111.966974,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3310 E 17th St",
     "sg:city":"Ammon",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186146877,
-    "wof:lastmodified":1449051488,
+    "wof:lastmodified":1466488285,
     "wof:name":"Quality Water Systems",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "softening"
     ]
 },
-  "bbox": [-111.966974,43.481787,-111.966974,43.481787],
-  "geometry": {"coordinates":[-111.966974,43.481787],"type":"Point"}
+  "bbox": [
+    -111.966974,
+    43.481787,
+    -111.966974,
+    43.481787
+],
+  "geometry": {"coordinates":[-111.96697399999999,43.481787],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 320539305,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.959899,44.244438,-116.959899,44.244438",
     "geom:latitude":44.244438,
     "geom:longitude":-116.959899,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"603 E Commercial St Apt 6",
     "sg:city":"Weiser",
     "sg:classifiers":[
@@ -58,10 +59,11 @@
         }
     ],
     "wof:id":320539305,
-    "wof:lastmodified":1449015042,
+    "wof:lastmodified":1466486878,
     "wof:name":"Roger W Manley",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -71,6 +73,11 @@
         "contractor"
     ]
 },
-  "bbox": [-116.959899,44.244438,-116.959899,44.244438],
-  "geometry": {"coordinates":[-116.959899,44.244438],"type":"Point"}
+  "bbox": [
+    -116.959899,
+    44.244438,
+    -116.959899,
+    44.244438
+],
+  "geometry": {"coordinates":[-116.95989899999999,44.244438],"type":"Point"}
 }

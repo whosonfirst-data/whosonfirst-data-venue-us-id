@@ -2,13 +2,14 @@
   "id": 169849319,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.315593,43.575678,-116.315593,43.575678",
     "geom:latitude":43.575678,
     "geom:longitude":-116.315593,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10619 W Victory Rd",
     "sg:city":"Boise",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":169849319,
-    "wof:lastmodified":1449033297,
+    "wof:lastmodified":1466488618,
     "wof:name":"Farmers Insurance",
     "wof:parent_id":85876331,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "broker"
     ]
 },
-  "bbox": [-116.315593,43.575678,-116.315593,43.575678],
-  "geometry": {"coordinates":[-116.315593,43.575678],"type":"Point"}
+  "bbox": [
+    -116.315593,
+    43.575678,
+    -116.315593,
+    43.575678
+],
+  "geometry": {"coordinates":[-116.31559300000001,43.575678],"type":"Point"}
 }

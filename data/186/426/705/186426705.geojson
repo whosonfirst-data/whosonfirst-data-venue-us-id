@@ -2,13 +2,14 @@
   "id": 186426705,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.281531,43.606445,-116.281531,43.606445",
     "geom:latitude":43.606445,
     "geom:longitude":-116.281531,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"122 N Milwaukee St",
     "sg:city":"Boise",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":186426705,
-    "wof:lastmodified":1449050976,
+    "wof:lastmodified":1466488808,
     "wof:name":"Billiards & Barstools Inc",
     "wof:parent_id":85841319,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "supply"
     ]
 },
-  "bbox": [-116.281531,43.606445,-116.281531,43.606445],
+  "bbox": [
+    -116.281531,
+    43.606445,
+    -116.281531,
+    43.606445
+],
   "geometry": {"coordinates":[-116.281531,43.606445],"type":"Point"}
 }

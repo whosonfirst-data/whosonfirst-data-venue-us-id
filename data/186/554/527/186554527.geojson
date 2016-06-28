@@ -2,13 +2,14 @@
   "id": 186554527,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.553042,43.596558,-116.553042,43.596558",
     "geom:latitude":43.596558,
     "geom:longitude":-116.553042,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1410 Franklin Blvd",
     "sg:city":"Nampa",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186554527,
-    "wof:lastmodified":1449050961,
+    "wof:lastmodified":1466488934,
     "wof:name":"Unity Service Coordination",
     "wof:parent_id":85827787,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "disability"
     ]
 },
-  "bbox": [-116.553042,43.596558,-116.553042,43.596558],
+  "bbox": [
+    -116.553042,
+    43.596558,
+    -116.553042,
+    43.596558
+],
   "geometry": {"coordinates":[-116.553042,43.596558],"type":"Point"}
 }

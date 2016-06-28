@@ -2,13 +2,14 @@
   "id": 186301493,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.230435,44.506055,-114.230435,44.506055",
     "geom:latitude":44.506055,
     "geom:longitude":-114.230435,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1050 North Ave",
     "sg:city":"Challis",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186301493,
-    "wof:lastmodified":1449051081,
+    "wof:lastmodified":1466488584,
     "wof:name":"VIP Pets",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "washing"
     ]
 },
-  "bbox": [-114.230435,44.506055,-114.230435,44.506055],
+  "bbox": [
+    -114.230435,
+    44.506055,
+    -114.230435,
+    44.506055
+],
   "geometry": {"coordinates":[-114.230435,44.506055],"type":"Point"}
 }

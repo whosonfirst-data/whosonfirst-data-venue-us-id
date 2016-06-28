@@ -2,13 +2,14 @@
   "id": 185855225,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.198304,43.610395,-116.198304,43.610395",
     "geom:latitude":43.610395,
     "geom:longitude":-116.198304,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"216 W Front St",
     "sg:city":"Boise",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":185855225,
-    "wof:lastmodified":1449007783,
+    "wof:lastmodified":1466488479,
     "wof:name":"West Wing Deli",
     "wof:parent_id":85876325,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "delicatessen"
     ]
 },
-  "bbox": [-116.198304,43.610395,-116.198304,43.610395],
-  "geometry": {"coordinates":[-116.198304,43.610395],"type":"Point"}
+  "bbox": [
+    -116.198304,
+    43.610395,
+    -116.198304,
+    43.610395
+],
+  "geometry": {"coordinates":[-116.19830399999999,43.610395],"type":"Point"}
 }

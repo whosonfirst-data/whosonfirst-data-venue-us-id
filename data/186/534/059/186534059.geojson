@@ -2,13 +2,14 @@
   "id": 186534059,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.001527,43.511127,-112.001527,43.511127",
     "geom:latitude":43.511127,
     "geom:longitude":-112.001527,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1600 E Lincoln Rd",
     "sg:city":"Idaho Falls",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":186534059,
-    "wof:lastmodified":1449051088,
+    "wof:lastmodified":1466488873,
     "wof:name":"Childrens Supportive Svcs Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.001527,43.511127,-112.001527,43.511127],
+  "bbox": [
+    -112.001527,
+    43.511127,
+    -112.001527,
+    43.511127
+],
   "geometry": {"coordinates":[-112.001527,43.511127],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 185784675,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.241686,43.628351,-116.241686,43.628351",
     "geom:latitude":43.628351,
     "geom:longitude":-116.241686,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"212 E 38th St",
     "sg:city":"Boise",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":185784675,
-    "wof:lastmodified":1449007667,
+    "wof:lastmodified":1466488190,
     "wof:name":"Jerry Gallegos Drywall",
     "wof:parent_id":85876301,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-116.241686,43.628351,-116.241686,43.628351],
+  "bbox": [
+    -116.241686,
+    43.628351,
+    -116.241686,
+    43.628351
+],
   "geometry": {"coordinates":[-116.241686,43.628351],"type":"Point"}
 }

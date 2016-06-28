@@ -2,13 +2,14 @@
   "id": 186117595,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.212348,43.618859,-116.212348,43.618859",
     "geom:latitude":43.618859,
     "geom:longitude":-116.212348,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1423 Grove St",
     "sg:city":"Boise",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":186117595,
-    "wof:lastmodified":1449052196,
+    "wof:lastmodified":1466488039,
     "wof:name":"Second Chance Bldg Materials",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-116.212348,43.618859,-116.212348,43.618859],
-  "geometry": {"coordinates":[-116.212348,43.618859],"type":"Point"}
+  "bbox": [
+    -116.212348,
+    43.618859,
+    -116.212348,
+    43.618859
+],
+  "geometry": {"coordinates":[-116.21234800000001,43.618859],"type":"Point"}
 }

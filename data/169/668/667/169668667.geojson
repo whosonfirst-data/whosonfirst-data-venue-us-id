@@ -2,13 +2,14 @@
   "id": 169668667,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.556971,48.281081,-116.556971,48.281081",
     "geom:latitude":48.281081,
     "geom:longitude":-116.556971,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"808 N Boyer Ave",
     "sg:city":"Sandpoint",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":169668667,
-    "wof:lastmodified":1449034990,
+    "wof:lastmodified":1466487861,
     "wof:name":"Riley Creek Lumber",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "logging"
     ]
 },
-  "bbox": [-116.556971,48.281081,-116.556971,48.281081],
+  "bbox": [
+    -116.556971,
+    48.281081,
+    -116.556971,
+    48.281081
+],
   "geometry": {"coordinates":[-116.556971,48.281081],"type":"Point"}
 }

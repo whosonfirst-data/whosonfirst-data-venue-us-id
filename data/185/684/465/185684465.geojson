@@ -2,13 +2,14 @@
   "id": 185684465,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.212488,43.60903,-116.212488,43.60903",
     "geom:latitude":43.60903,
     "geom:longitude":-116.212488,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"915 Royal Blvd",
     "sg:city":"Boise",
     "sg:classifiers":[
@@ -60,10 +61,11 @@
         }
     ],
     "wof:id":185684465,
-    "wof:lastmodified":1449007014,
+    "wof:lastmodified":1466487403,
     "wof:name":"Rogers and Bryant",
     "wof:parent_id":85876325,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -74,6 +76,11 @@
         "mfg"
     ]
 },
-  "bbox": [-116.212488,43.60903,-116.212488,43.60903],
-  "geometry": {"coordinates":[-116.212488,43.60903],"type":"Point"}
+  "bbox": [
+    -116.212488,
+    43.60903,
+    -116.212488,
+    43.60903
+],
+  "geometry": {"coordinates":[-116.21248799999999,43.60903],"type":"Point"}
 }

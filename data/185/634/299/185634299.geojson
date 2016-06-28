@@ -2,13 +2,14 @@
   "id": 185634299,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.789259,47.753209,-116.789259,47.753209",
     "geom:latitude":47.753209,
     "geom:longitude":-116.789259,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"91 W Commerce Dr",
     "sg:city":"Hayden",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":185634299,
-    "wof:lastmodified":1449007389,
+    "wof:lastmodified":1466487023,
     "wof:name":"Country Lock & Key Inc",
     "wof:parent_id":85821457,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "locksmith"
     ]
 },
-  "bbox": [-116.789259,47.753209,-116.789259,47.753209],
+  "bbox": [
+    -116.789259,
+    47.753209,
+    -116.789259,
+    47.753209
+],
   "geometry": {"coordinates":[-116.789259,47.753209],"type":"Point"}
 }

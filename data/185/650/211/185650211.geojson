@@ -2,13 +2,14 @@
   "id": 185650211,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.939524,43.783016,-116.939524,43.783016",
     "geom:latitude":43.783016,
     "geom:longitude":-116.939524,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"712 E Grove Ave",
     "sg:city":"Parma",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":185650211,
-    "wof:lastmodified":1449007593,
+    "wof:lastmodified":1466487141,
     "wof:name":"Court Motel & Beverage Store",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-116.939524,43.783016,-116.939524,43.783016],
-  "geometry": {"coordinates":[-116.939524,43.783016],"type":"Point"}
+  "bbox": [
+    -116.939524,
+    43.783016,
+    -116.939524,
+    43.783016
+],
+  "geometry": {"coordinates":[-116.93952400000001,43.783016],"type":"Point"}
 }

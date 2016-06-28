@@ -2,13 +2,14 @@
   "id": 186558485,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.372327,43.678332,-114.372327,43.678332",
     "geom:latitude":43.678332,
     "geom:longitude":-114.372327,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"401 Evergreen Ln",
     "sg:city":"Ketchum",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":186558485,
-    "wof:lastmodified":1449051114,
+    "wof:lastmodified":1466488896,
     "wof:name":"Hoffman Construction Corp",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "contractor"
     ]
 },
-  "bbox": [-114.372327,43.678332,-114.372327,43.678332],
+  "bbox": [
+    -114.372327,
+    43.678332,
+    -114.372327,
+    43.678332
+],
   "geometry": {"coordinates":[-114.372327,43.678332],"type":"Point"}
 }

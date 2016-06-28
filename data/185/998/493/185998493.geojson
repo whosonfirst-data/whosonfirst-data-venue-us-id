@@ -2,13 +2,14 @@
   "id": 185998493,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.563766,47.315167,-116.563766,47.315167",
     "geom:latitude":47.315167,
     "geom:longitude":-116.563766,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"427 W College Ave",
     "sg:city":"St Maries",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":185998493,
-    "wof:lastmodified":1449007124,
+    "wof:lastmodified":1466488745,
     "wof:name":"Seventh Day Church Of God",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-116.563766,47.315167,-116.563766,47.315167],
+  "bbox": [
+    -116.563766,
+    47.315167,
+    -116.563766,
+    47.315167
+],
   "geometry": {"coordinates":[-116.563766,47.315167],"type":"Point"}
 }

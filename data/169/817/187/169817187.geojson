@@ -2,13 +2,14 @@
   "id": 169817187,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.532839,43.523251,-116.532839,43.523251",
     "geom:latitude":43.523251,
     "geom:longitude":-116.532839,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4842 Southside Blvd",
     "sg:city":"Nampa",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":169817187,
-    "wof:lastmodified":1449035313,
+    "wof:lastmodified":1466488542,
     "wof:name":"Melmont Bean & Seed",
     "wof:parent_id":85827787,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "grocery"
     ]
 },
-  "bbox": [-116.532839,43.523251,-116.532839,43.523251],
+  "bbox": [
+    -116.532839,
+    43.523251,
+    -116.532839,
+    43.523251
+],
   "geometry": {"coordinates":[-116.532839,43.523251],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169849595,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.689437,43.133891,-115.689437,43.133891",
     "geom:latitude":43.133891,
     "geom:longitude":-115.689437,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"402 E 2nd N",
     "sg:city":"Mountain Home",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":169849595,
-    "wof:lastmodified":1449033299,
+    "wof:lastmodified":1466488621,
     "wof:name":"Open Door Fellowship",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-115.689437,43.133891,-115.689437,43.133891],
+  "bbox": [
+    -115.689437,
+    43.133891,
+    -115.689437,
+    43.133891
+],
   "geometry": {"coordinates":[-115.689437,43.133891],"type":"Point"}
 }

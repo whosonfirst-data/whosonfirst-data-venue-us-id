@@ -2,13 +2,14 @@
   "id": 186121687,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-117.007853,46.408126,-117.007853,46.408126",
     "geom:latitude":46.408126,
     "geom:longitude":-117.007853,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1219 17th St",
     "sg:city":"Lewiston",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":186121687,
-    "wof:lastmodified":1449052411,
+    "wof:lastmodified":1466488076,
     "wof:name":"At Bat Baseball Cards",
     "wof:parent_id":85837769,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-117.007853,46.408126,-117.007853,46.408126],
+  "bbox": [
+    -117.007853,
+    46.408126,
+    -117.007853,
+    46.408126
+],
   "geometry": {"coordinates":[-117.007853,46.408126],"type":"Point"}
 }

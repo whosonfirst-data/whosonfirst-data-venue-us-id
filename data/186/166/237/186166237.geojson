@@ -2,13 +2,14 @@
   "id": 186166237,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.64505,43.633654,-116.64505,43.633654",
     "geom:latitude":43.633654,
     "geom:longitude":-116.64505,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4920 Cleveland Blvd",
     "sg:city":"Caldwell",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":186166237,
-    "wof:lastmodified":1449051876,
+    "wof:lastmodified":1466488413,
     "wof:name":"Caldwell Auction",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "auctioneer"
     ]
 },
-  "bbox": [-116.64505,43.633654,-116.64505,43.633654],
+  "bbox": [
+    -116.64505,
+    43.633654,
+    -116.64505,
+    43.633654
+],
   "geometry": {"coordinates":[-116.64505,43.633654],"type":"Point"}
 }

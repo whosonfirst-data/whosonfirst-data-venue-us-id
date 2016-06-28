@@ -2,13 +2,14 @@
   "id": 169633833,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.693166,43.654878,-116.693166,43.654878",
     "geom:latitude":43.654878,
     "geom:longitude":-116.693166,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1818 S 10th Ave",
     "sg:city":"Caldwell",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":169633833,
-    "wof:lastmodified":1449035936,
+    "wof:lastmodified":1466487337,
     "wof:name":"Saltzer Optical Shop",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-116.693166,43.654878,-116.693166,43.654878],
-  "geometry": {"coordinates":[-116.693166,43.654878],"type":"Point"}
+  "bbox": [
+    -116.693166,
+    43.654878,
+    -116.693166,
+    43.654878
+],
+  "geometry": {"coordinates":[-116.69316600000001,43.654878],"type":"Point"}
 }

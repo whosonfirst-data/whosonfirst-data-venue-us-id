@@ -2,13 +2,14 @@
   "id": 186221541,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.939389,44.076952,-116.939389,44.076952",
     "geom:latitude":44.076952,
     "geom:longitude":-116.939389,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"500 2nd Ave N",
     "sg:city":"Payette",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186221541,
-    "wof:lastmodified":1449051553,
+    "wof:lastmodified":1466488547,
     "wof:name":"Timber Works Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "timber"
     ]
 },
-  "bbox": [-116.939389,44.076952,-116.939389,44.076952],
-  "geometry": {"coordinates":[-116.939389,44.076952],"type":"Point"}
+  "bbox": [
+    -116.939389,
+    44.076952,
+    -116.939389,
+    44.076952
+],
+  "geometry": {"coordinates":[-116.93938900000001,44.076952],"type":"Point"}
 }

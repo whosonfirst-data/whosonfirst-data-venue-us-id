@@ -2,13 +2,14 @@
   "id": 186347049,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.736681,43.763467,-116.736681,43.763467",
     "geom:latitude":43.763467,
     "geom:longitude":-116.736681,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"17261 Elmcrest Dr",
     "sg:city":"Caldwell",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":186347049,
-    "wof:lastmodified":1449051672,
+    "wof:lastmodified":1466488733,
     "wof:name":"Sisters Embroidery",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-116.736681,43.763467,-116.736681,43.763467],
+  "bbox": [
+    -116.736681,
+    43.763467,
+    -116.736681,
+    43.763467
+],
   "geometry": {"coordinates":[-116.736681,43.763467],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 185864909,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.327216,43.61107,-116.327216,43.61107",
     "geom:latitude":43.61107,
     "geom:longitude":-116.327216,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"11477 President Dr",
     "sg:city":"Boise",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":185864909,
-    "wof:lastmodified":1449008234,
+    "wof:lastmodified":1466488399,
     "wof:name":"De Best Plumbing",
     "wof:parent_id":85805083,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-116.327216,43.61107,-116.327216,43.61107],
-  "geometry": {"coordinates":[-116.327216,43.61107],"type":"Point"}
+  "bbox": [
+    -116.327216,
+    43.61107,
+    -116.327216,
+    43.61107
+],
+  "geometry": {"coordinates":[-116.32721600000001,43.61107],"type":"Point"}
 }

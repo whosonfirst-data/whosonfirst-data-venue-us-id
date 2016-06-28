@@ -2,13 +2,14 @@
   "id": 186036051,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.684704,43.170039,-115.684704,43.170039",
     "geom:latitude":43.170039,
     "geom:longitude":-115.684704,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1321 Beaman Rd",
     "sg:city":"Mountain Home",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":186036051,
-    "wof:lastmodified":1449050994,
+    "wof:lastmodified":1466487150,
     "wof:name":"Ye Olde Armourer",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "mfg"
     ]
 },
-  "bbox": [-115.684704,43.170039,-115.684704,43.170039],
+  "bbox": [
+    -115.684704,
+    43.170039,
+    -115.684704,
+    43.170039
+],
   "geometry": {"coordinates":[-115.684704,43.170039],"type":"Point"}
 }

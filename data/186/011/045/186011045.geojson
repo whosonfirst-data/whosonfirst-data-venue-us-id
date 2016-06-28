@@ -2,13 +2,14 @@
   "id": 186011045,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.430026,42.898642,-112.430026,42.898642",
     "geom:latitude":42.898642,
     "geom:longitude":-112.430026,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1665 Pocatello Creek Rd",
     "sg:city":"Pocatello",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186011045,
-    "wof:lastmodified":1449052521,
+    "wof:lastmodified":1466486869,
     "wof:name":"Outback Golf Park",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "golf"
     ]
 },
-  "bbox": [-112.430026,42.898642,-112.430026,42.898642],
+  "bbox": [
+    -112.430026,
+    42.898642,
+    -112.430026,
+    42.898642
+],
   "geometry": {"coordinates":[-112.430026,42.898642],"type":"Point"}
 }

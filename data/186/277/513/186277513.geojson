@@ -2,13 +2,14 @@
   "id": 186277513,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.500084,43.870683,-116.500084,43.870683",
     "geom:latitude":43.870683,
     "geom:longitude":-116.500084,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"621 S Washington Ave",
     "sg:city":"Emmett",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186277513,
-    "wof:lastmodified":1449050554,
+    "wof:lastmodified":1466488646,
     "wof:name":"Bell Counseling",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "treatment"
     ]
 },
-  "bbox": [-116.500084,43.870683,-116.500084,43.870683],
+  "bbox": [
+    -116.500084,
+    43.870683,
+    -116.500084,
+    43.870683
+],
   "geometry": {"coordinates":[-116.500084,43.870683],"type":"Point"}
 }

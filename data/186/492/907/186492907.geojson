@@ -2,13 +2,14 @@
   "id": 186492907,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.921256,46.373171,-116.921256,46.373171",
     "geom:latitude":46.373171,
     "geom:longitude":-116.921256,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2124 Grelle Ave",
     "sg:city":"Lewiston",
     "sg:classifiers":[
@@ -52,16 +53,22 @@
         }
     ],
     "wof:id":186492907,
-    "wof:lastmodified":1449050252,
+    "wof:lastmodified":1466488910,
     "wof:name":"Barker River Trips",
     "wof:parent_id":85837769,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "rafts"
     ]
 },
-  "bbox": [-116.921256,46.373171,-116.921256,46.373171],
+  "bbox": [
+    -116.921256,
+    46.373171,
+    -116.921256,
+    46.373171
+],
   "geometry": {"coordinates":[-116.921256,46.373171],"type":"Point"}
 }

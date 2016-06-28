@@ -2,13 +2,14 @@
   "id": 169614067,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.693921,42.779973,-114.693921,42.779973",
     "geom:latitude":42.779973,
     "geom:longitude":-114.693921,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"427 N Gooding St",
     "sg:city":"Wendell",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":169614067,
-    "wof:lastmodified":1449036056,
+    "wof:lastmodified":1466487023,
     "wof:name":"Arreola Trucking",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "trucking"
     ]
 },
-  "bbox": [-114.693921,42.779973,-114.693921,42.779973],
+  "bbox": [
+    -114.693921,
+    42.779973,
+    -114.693921,
+    42.779973
+],
   "geometry": {"coordinates":[-114.693921,42.779973],"type":"Point"}
 }

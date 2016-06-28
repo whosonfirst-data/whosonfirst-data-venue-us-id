@@ -2,13 +2,14 @@
   "id": 186114345,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.304839,43.639295,-116.304839,43.639295",
     "geom:latitude":43.639295,
     "geom:longitude":-116.304839,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9832 Gurdon Ct",
     "sg:city":"Boise",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186114345,
-    "wof:lastmodified":1449051498,
+    "wof:lastmodified":1466488008,
     "wof:name":"Zaney Recording",
     "wof:parent_id":85876357,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "studio"
     ]
 },
-  "bbox": [-116.304839,43.639295,-116.304839,43.639295],
+  "bbox": [
+    -116.304839,
+    43.639295,
+    -116.304839,
+    43.639295
+],
   "geometry": {"coordinates":[-116.304839,43.639295],"type":"Point"}
 }

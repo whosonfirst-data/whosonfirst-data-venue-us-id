@@ -2,13 +2,14 @@
   "id": 186306095,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.042977,44.517202,-116.042977,44.517202",
     "geom:latitude":44.517202,
     "geom:longitude":-116.042977,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"206 N Main St",
     "sg:city":"Cascade",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":186306095,
-    "wof:lastmodified":1449052916,
+    "wof:lastmodified":1466488761,
     "wof:name":"Valley Community Credit UNION",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-116.042977,44.517202,-116.042977,44.517202],
-  "geometry": {"coordinates":[-116.042977,44.517202],"type":"Point"}
+  "bbox": [
+    -116.042977,
+    44.517202,
+    -116.042977,
+    44.517202
+],
+  "geometry": {"coordinates":[-116.04297699999999,44.517202],"type":"Point"}
 }

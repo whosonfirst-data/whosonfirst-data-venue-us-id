@@ -2,13 +2,14 @@
   "id": 320544653,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.703393,47.411536,-116.703393,47.411536",
     "geom:latitude":47.411536,
     "geom:longitude":-116.703393,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"28785 S Gem Rd",
     "sg:city":"Harrison",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":320544653,
-    "wof:lastmodified":1449014960,
+    "wof:lastmodified":1466486984,
     "wof:name":"Interlink Writing Center",
     "wof:parent_id":85821457,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "coach"
     ]
 },
-  "bbox": [-116.703393,47.411536,-116.703393,47.411536],
-  "geometry": {"coordinates":[-116.703393,47.411536],"type":"Point"}
+  "bbox": [
+    -116.703393,
+    47.411536,
+    -116.703393,
+    47.411536
+],
+  "geometry": {"coordinates":[-116.70339300000001,47.411536],"type":"Point"}
 }

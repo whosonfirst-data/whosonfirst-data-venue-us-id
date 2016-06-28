@@ -2,13 +2,14 @@
   "id": 169623165,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.363389,43.622538,-116.363389,43.622538",
     "geom:latitude":43.622538,
     "geom:longitude":-116.363389,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2558 Clarene Ct",
     "sg:city":"Meridian",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":169623165,
-    "wof:lastmodified":1449035001,
+    "wof:lastmodified":1466487168,
     "wof:name":"Ginger Thai",
     "wof:parent_id":85811491,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "eating"
     ]
 },
-  "bbox": [-116.363389,43.622538,-116.363389,43.622538],
+  "bbox": [
+    -116.363389,
+    43.622538,
+    -116.363389,
+    43.622538
+],
   "geometry": {"coordinates":[-116.363389,43.622538],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 185751883,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.912506,48.180575,-116.912506,48.180575",
     "geom:latitude":48.180575,
     "geom:longitude":-116.912506,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"521 Albeni Rd",
     "sg:city":"Priest River",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":185751883,
-    "wof:lastmodified":1449006679,
+    "wof:lastmodified":1466487939,
     "wof:name":"Community Congregational Chr",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-116.912506,48.180575,-116.912506,48.180575],
-  "geometry": {"coordinates":[-116.912506,48.180575],"type":"Point"}
+  "bbox": [
+    -116.912506,
+    48.180575,
+    -116.912506,
+    48.180575
+],
+  "geometry": {"coordinates":[-116.91250599999999,48.180575],"type":"Point"}
 }

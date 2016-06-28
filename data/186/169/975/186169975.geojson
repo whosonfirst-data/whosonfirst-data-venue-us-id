@@ -2,13 +2,14 @@
   "id": 186169975,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.356712,43.17966,-112.356712,43.17966",
     "geom:latitude":43.17966,
     "geom:longitude":-112.356712,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1300 S Broadway St",
     "sg:city":"Blackfoot",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":186169975,
-    "wof:lastmodified":1449052019,
+    "wof:lastmodified":1466488513,
     "wof:name":"Custom Signs & Graphics",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "mfg"
     ]
 },
-  "bbox": [-112.356712,43.17966,-112.356712,43.17966],
+  "bbox": [
+    -112.356712,
+    43.17966,
+    -112.356712,
+    43.17966
+],
   "geometry": {"coordinates":[-112.356712,43.17966],"type":"Point"}
 }

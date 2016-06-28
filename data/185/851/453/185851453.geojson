@@ -2,13 +2,14 @@
   "id": 185851453,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.777911,43.675876,-116.777911,43.675876",
     "geom:latitude":43.675876,
     "geom:longitude":-116.777911,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"20897 Pinto Rd",
     "sg:city":"Caldwell",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":185851453,
-    "wof:lastmodified":1449007660,
+    "wof:lastmodified":1466488372,
     "wof:name":"Haylett Ridgeview Farms LLC",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "general"
     ]
 },
-  "bbox": [-116.777911,43.675876,-116.777911,43.675876],
+  "bbox": [
+    -116.777911,
+    43.675876,
+    -116.777911,
+    43.675876
+],
   "geometry": {"coordinates":[-116.777911,43.675876],"type":"Point"}
 }

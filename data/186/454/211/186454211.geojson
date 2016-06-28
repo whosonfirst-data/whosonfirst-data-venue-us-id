@@ -2,13 +2,14 @@
   "id": 186454211,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.272747,43.627623,-116.272747,43.627623",
     "geom:latitude":43.627623,
     "geom:longitude":-116.272747,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7210 Swift Ln",
     "sg:city":"Boise",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186454211,
-    "wof:lastmodified":1449052768,
+    "wof:lastmodified":1466488826,
     "wof:name":"Boise Painting Co LLC",
     "wof:parent_id":85841319,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "painter"
     ]
 },
-  "bbox": [-116.272747,43.627623,-116.272747,43.627623],
+  "bbox": [
+    -116.272747,
+    43.627623,
+    -116.272747,
+    43.627623
+],
   "geometry": {"coordinates":[-116.272747,43.627623],"type":"Point"}
 }

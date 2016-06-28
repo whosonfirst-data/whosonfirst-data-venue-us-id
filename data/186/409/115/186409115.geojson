@@ -2,13 +2,14 @@
   "id": 186409115,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.241489,43.640462,-116.241489,43.640462",
     "geom:latitude":43.640462,
     "geom:longitude":-116.241489,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4021 Glendale St",
     "sg:city":"Boise",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186409115,
-    "wof:lastmodified":1449051476,
+    "wof:lastmodified":1466488787,
     "wof:name":"Wood You Love",
     "wof:parent_id":85876339,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "mantel"
     ]
 },
-  "bbox": [-116.241489,43.640462,-116.241489,43.640462],
+  "bbox": [
+    -116.241489,
+    43.640462,
+    -116.241489,
+    43.640462
+],
   "geometry": {"coordinates":[-116.241489,43.640462],"type":"Point"}
 }

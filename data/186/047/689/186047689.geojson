@@ -2,13 +2,14 @@
   "id": 186047689,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.360648,43.737004,-116.360648,43.737004",
     "geom:latitude":43.737004,
     "geom:longitude":-116.360648,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"606 W Stillwell Dr",
     "sg:city":"Eagle",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":186047689,
-    "wof:lastmodified":1449052106,
+    "wof:lastmodified":1466487286,
     "wof:name":"MBKB Enterprises",
     "wof:parent_id":85876315,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-116.360648,43.737004,-116.360648,43.737004],
+  "bbox": [
+    -116.360648,
+    43.737004,
+    -116.360648,
+    43.737004
+],
   "geometry": {"coordinates":[-116.360648,43.737004],"type":"Point"}
 }

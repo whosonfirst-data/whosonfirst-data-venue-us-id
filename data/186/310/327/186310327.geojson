@@ -2,13 +2,14 @@
   "id": 186310327,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.779261,42.674268,-114.779261,42.674268",
     "geom:latitude":42.674268,
     "geom:longitude":-114.779261,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1581 Clear Lakes Rd",
     "sg:city":"Buhl",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":186310327,
-    "wof:lastmodified":1449052010,
+    "wof:lastmodified":1466488688,
     "wof:name":"Idaho Trout Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "fish"
     ]
 },
-  "bbox": [-114.779261,42.674268,-114.779261,42.674268],
-  "geometry": {"coordinates":[-114.779261,42.674268],"type":"Point"}
+  "bbox": [
+    -114.779261,
+    42.674268,
+    -114.779261,
+    42.674268
+],
+  "geometry": {"coordinates":[-114.77926100000001,42.674268],"type":"Point"}
 }

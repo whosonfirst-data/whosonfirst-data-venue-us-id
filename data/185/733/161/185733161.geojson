@@ -2,13 +2,14 @@
   "id": 185733161,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.811615,43.545238,-116.811615,43.545238",
     "geom:latitude":43.545238,
     "geom:longitude":-116.811615,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"607 Main St",
     "sg:city":"Marsing",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":185733161,
-    "wof:lastmodified":1449006826,
+    "wof:lastmodified":1466487784,
     "wof:name":"Blue Moon Barber Shop",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "shop"
     ]
 },
-  "bbox": [-116.811615,43.545238,-116.811615,43.545238],
+  "bbox": [
+    -116.811615,
+    43.545238,
+    -116.811615,
+    43.545238
+],
   "geometry": {"coordinates":[-116.811615,43.545238],"type":"Point"}
 }

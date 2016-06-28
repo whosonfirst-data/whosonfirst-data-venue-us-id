@@ -2,13 +2,14 @@
   "id": 169604257,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.68082,43.654455,-116.68082,43.654455",
     "geom:latitude":43.654455,
     "geom:longitude":-116.68082,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1901 Fillmore St",
     "sg:city":"Caldwell",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":169604257,
-    "wof:lastmodified":1449035570,
+    "wof:lastmodified":1466486865,
     "wof:name":"Southern Flaver Strings",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "mail"
     ]
 },
-  "bbox": [-116.68082,43.654455,-116.68082,43.654455],
+  "bbox": [
+    -116.68082,
+    43.654455,
+    -116.68082,
+    43.654455
+],
   "geometry": {"coordinates":[-116.68082,43.654455],"type":"Point"}
 }

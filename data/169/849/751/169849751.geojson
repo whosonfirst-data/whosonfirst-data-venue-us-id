@@ -2,13 +2,14 @@
   "id": 169849751,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.266242,43.633752,-116.266242,43.633752",
     "geom:latitude":43.633752,
     "geom:longitude":-116.266242,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6605 Ustick Rd",
     "sg:city":"Boise",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":169849751,
-    "wof:lastmodified":1449033297,
+    "wof:lastmodified":1466488622,
     "wof:name":"Uptown Barber Salon",
     "wof:parent_id":85876349,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "shop"
     ]
 },
-  "bbox": [-116.266242,43.633752,-116.266242,43.633752],
-  "geometry": {"coordinates":[-116.266242,43.633752],"type":"Point"}
+  "bbox": [
+    -116.266242,
+    43.633752,
+    -116.266242,
+    43.633752
+],
+  "geometry": {"coordinates":[-116.26624200000001,43.633752],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 185920001,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.455085,46.648858,-116.455085,46.648858",
     "geom:latitude":46.648858,
     "geom:longitude":-116.455085,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1690 Cedar Ridge Rd",
     "sg:city":"Kendrick",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":185920001,
-    "wof:lastmodified":1449007866,
+    "wof:lastmodified":1466488599,
     "wof:name":"Maury Heier",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-116.455085,46.648858,-116.455085,46.648858],
+  "bbox": [
+    -116.455085,
+    46.648858,
+    -116.455085,
+    46.648858
+],
   "geometry": {"coordinates":[-116.455085,46.648858],"type":"Point"}
 }

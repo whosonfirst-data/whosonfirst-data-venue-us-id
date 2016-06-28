@@ -2,13 +2,14 @@
   "id": 169755521,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.233371,43.638814,-116.233371,43.638814",
     "geom:latitude":43.638814,
     "geom:longitude":-116.233371,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3508 W State St",
     "sg:city":"Boise",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":169755521,
-    "wof:lastmodified":1449033615,
+    "wof:lastmodified":1466488435,
     "wof:name":"State Street Auto Body",
     "wof:parent_id":85876339,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "general"
     ]
 },
-  "bbox": [-116.233371,43.638814,-116.233371,43.638814],
-  "geometry": {"coordinates":[-116.233371,43.638814],"type":"Point"}
+  "bbox": [
+    -116.233371,
+    43.638814,
+    -116.233371,
+    43.638814
+],
+  "geometry": {"coordinates":[-116.23337100000001,43.638814],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 185709639,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.295638,43.621807,-116.295638,43.621807",
     "geom:latitude":43.621807,
     "geom:longitude":-116.295638,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9116 W Halstead Dr",
     "sg:city":"Boise",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":185709639,
-    "wof:lastmodified":1449006939,
+    "wof:lastmodified":1466487600,
     "wof:name":"Memory Makers Event Plannning",
     "wof:parent_id":85876309,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -66,6 +68,11 @@
         "coordination"
     ]
 },
-  "bbox": [-116.295638,43.621807,-116.295638,43.621807],
+  "bbox": [
+    -116.295638,
+    43.621807,
+    -116.295638,
+    43.621807
+],
   "geometry": {"coordinates":[-116.295638,43.621807],"type":"Point"}
 }

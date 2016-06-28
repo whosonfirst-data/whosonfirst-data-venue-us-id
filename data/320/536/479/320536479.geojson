@@ -2,13 +2,14 @@
   "id": 320536479,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.946529,43.899251,-116.946529,43.899251",
     "geom:latitude":43.899251,
     "geom:longitude":-116.946529,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3320 Highway 95",
     "sg:city":"Parma",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":320536479,
-    "wof:lastmodified":1449013486,
+    "wof:lastmodified":1466486845,
     "wof:name":"Coustic-Glo",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "painting"
     ]
 },
-  "bbox": [-116.946529,43.899251,-116.946529,43.899251],
+  "bbox": [
+    -116.946529,
+    43.899251,
+    -116.946529,
+    43.899251
+],
   "geometry": {"coordinates":[-116.946529,43.899251],"type":"Point"}
 }

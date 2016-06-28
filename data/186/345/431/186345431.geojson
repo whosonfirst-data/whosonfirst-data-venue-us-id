@@ -2,13 +2,14 @@
   "id": 186345431,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.121491,47.534728,-116.121491,47.534728",
     "geom:latitude":47.534728,
     "geom:longitude":-116.121491,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"302 S Division St",
     "sg:city":"Kellogg",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":186345431,
-    "wof:lastmodified":1449052812,
+    "wof:lastmodified":1466488732,
     "wof:name":"US Post Office",
     "wof:parent_id":85849049,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-116.121491,47.534728,-116.121491,47.534728],
-  "geometry": {"coordinates":[-116.121491,47.534728],"type":"Point"}
+  "bbox": [
+    -116.121491,
+    47.534728,
+    -116.121491,
+    47.534728
+],
+  "geometry": {"coordinates":[-116.12149100000001,47.534728],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169715499,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.378479,43.628294,-116.378479,43.628294",
     "geom:latitude":43.628294,
     "geom:longitude":-116.378479,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2577 N Bobcat Way",
     "sg:city":"Meridian",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":169715499,
-    "wof:lastmodified":1449035296,
+    "wof:lastmodified":1466488363,
     "wof:name":"Monkey Bottoms Quality Cloth",
     "wof:parent_id":85876351,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "diaper"
     ]
 },
-  "bbox": [-116.378479,43.628294,-116.378479,43.628294],
+  "bbox": [
+    -116.378479,
+    43.628294,
+    -116.378479,
+    43.628294
+],
   "geometry": {"coordinates":[-116.378479,43.628294],"type":"Point"}
 }

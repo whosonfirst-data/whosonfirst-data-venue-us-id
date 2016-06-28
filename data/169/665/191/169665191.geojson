@@ -2,13 +2,14 @@
   "id": 169665191,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.723588,47.887717,-116.723588,47.887717",
     "geom:latitude":47.887717,
     "geom:longitude":-116.723588,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"23340 US Hwy 95",
     "sg:city":"Athol",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":169665191,
-    "wof:lastmodified":1449033698,
+    "wof:lastmodified":1466487816,
     "wof:name":"Custom Barns",
     "wof:parent_id":85821457,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "barn"
     ]
 },
-  "bbox": [-116.723588,47.887717,-116.723588,47.887717],
-  "geometry": {"coordinates":[-116.723588,47.887717],"type":"Point"}
+  "bbox": [
+    -116.723588,
+    47.887717,
+    -116.723588,
+    47.887717
+],
+  "geometry": {"coordinates":[-116.72358800000001,47.887717],"type":"Point"}
 }

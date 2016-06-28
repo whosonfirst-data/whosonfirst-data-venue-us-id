@@ -2,13 +2,14 @@
   "id": 320542779,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.262911,43.582691,-116.262911,43.582691",
     "geom:latitude":43.582691,
     "geom:longitude":-116.262911,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6560 Targee St",
     "sg:city":"Boise",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":320542779,
-    "wof:lastmodified":1449014129,
+    "wof:lastmodified":1466486952,
     "wof:name":"Eva Rv Detail And Service",
     "wof:parent_id":85825393,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "truck"
     ]
 },
-  "bbox": [-116.262911,43.582691,-116.262911,43.582691],
+  "bbox": [
+    -116.262911,
+    43.582691,
+    -116.262911,
+    43.582691
+],
   "geometry": {"coordinates":[-116.262911,43.582691],"type":"Point"}
 }

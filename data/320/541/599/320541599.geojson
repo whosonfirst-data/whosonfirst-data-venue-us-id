@@ -2,13 +2,14 @@
   "id": 320541599,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.251759,43.650221,-116.251759,43.650221",
     "geom:latitude":43.650221,
     "geom:longitude":-116.251759,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3347 N Lakeharbor Ln",
     "sg:city":"Boise",
     "sg:classifiers":[
@@ -70,10 +71,11 @@
         }
     ],
     "wof:id":320541599,
-    "wof:lastmodified":1449011658,
+    "wof:lastmodified":1466486921,
     "wof:name":"Allstate Insurance Company - Dennis Kuntz",
     "wof:parent_id":85811879,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -85,6 +87,11 @@
         "renter"
     ]
 },
-  "bbox": [-116.251759,43.650221,-116.251759,43.650221],
-  "geometry": {"coordinates":[-116.251759,43.650221],"type":"Point"}
+  "bbox": [
+    -116.251759,
+    43.650221,
+    -116.251759,
+    43.650221
+],
+  "geometry": {"coordinates":[-116.25175900000001,43.650221],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186078131,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.533708,43.586798,-116.533708,43.586798",
     "geom:latitude":43.586798,
     "geom:longitude":-116.533708,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3206 Airport Rd",
     "sg:city":"Nampa",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":186078131,
-    "wof:lastmodified":1449052588,
+    "wof:lastmodified":1466487637,
     "wof:name":"Valley Detail",
     "wof:parent_id":85827787,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "clean"
     ]
 },
-  "bbox": [-116.533708,43.586798,-116.533708,43.586798],
+  "bbox": [
+    -116.533708,
+    43.586798,
+    -116.533708,
+    43.586798
+],
   "geometry": {"coordinates":[-116.533708,43.586798],"type":"Point"}
 }

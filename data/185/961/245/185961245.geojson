@@ -2,13 +2,14 @@
   "id": 185961245,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.332042,43.64622,-116.332042,43.64622",
     "geom:latitude":43.64622,
     "geom:longitude":-116.332042,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"11883 W Albany Dr",
     "sg:city":"Boise",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":185961245,
-    "wof:lastmodified":1449008161,
+    "wof:lastmodified":1466488694,
     "wof:name":"Follow Up Service",
     "wof:parent_id":85876357,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-116.332042,43.64622,-116.332042,43.64622],
+  "bbox": [
+    -116.332042,
+    43.64622,
+    -116.332042,
+    43.64622
+],
   "geometry": {"coordinates":[-116.332042,43.64622],"type":"Point"}
 }

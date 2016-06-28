@@ -2,13 +2,14 @@
   "id": 186060815,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.250883,43.650619,-116.250883,43.650619",
     "geom:latitude":43.650619,
     "geom:longitude":-116.250883,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3379 N Lakeharbor Ln",
     "sg:city":"Boise",
     "sg:classifiers":[
@@ -56,10 +57,11 @@
         }
     ],
     "wof:id":186060815,
-    "wof:lastmodified":1449052777,
+    "wof:lastmodified":1466487437,
     "wof:name":"Ren's Sports & Trophies",
     "wof:parent_id":85811879,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "sportswear"
     ]
 },
-  "bbox": [-116.250883,43.650619,-116.250883,43.650619],
+  "bbox": [
+    -116.250883,
+    43.650619,
+    -116.250883,
+    43.650619
+],
   "geometry": {"coordinates":[-116.250883,43.650619],"type":"Point"}
 }

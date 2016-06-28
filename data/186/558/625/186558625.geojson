@@ -2,13 +2,14 @@
   "id": 186558625,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.701048,43.139035,-115.701048,43.139035",
     "geom:latitude":43.139035,
     "geom:longitude":-115.701048,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"140 Bitterbrush Ct",
     "sg:city":"Mountain Home",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":186558625,
-    "wof:lastmodified":1449051115,
+    "wof:lastmodified":1466488936,
     "wof:name":"Community Partnerships-Idaho",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "disability"
     ]
 },
-  "bbox": [-115.701048,43.139035,-115.701048,43.139035],
+  "bbox": [
+    -115.701048,
+    43.139035,
+    -115.701048,
+    43.139035
+],
   "geometry": {"coordinates":[-115.701048,43.139035],"type":"Point"}
 }

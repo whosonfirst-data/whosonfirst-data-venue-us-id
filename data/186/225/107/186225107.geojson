@@ -2,13 +2,14 @@
   "id": 186225107,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.200957,43.632763,-116.200957,43.632763",
     "geom:latitude":43.632763,
     "geom:longitude":-116.200957,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1808 N 11th St",
     "sg:city":"Boise",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186225107,
-    "wof:lastmodified":1449051213,
+    "wof:lastmodified":1466488552,
     "wof:name":"High Mountain Drums",
     "wof:parent_id":85876313,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "mfg"
     ]
 },
-  "bbox": [-116.200957,43.632763,-116.200957,43.632763],
+  "bbox": [
+    -116.200957,
+    43.632763,
+    -116.200957,
+    43.632763
+],
   "geometry": {"coordinates":[-116.200957,43.632763],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 185958959,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.990526,43.474616,-111.990526,43.474616",
     "geom:latitude":43.474616,
     "geom:longitude":-111.990526,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2635 Channing Way",
     "sg:city":"Idaho Falls",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":185958959,
-    "wof:lastmodified":1449007882,
+    "wof:lastmodified":1466488691,
     "wof:name":"For Sale By Owner",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.990526,43.474616,-111.990526,43.474616],
+  "bbox": [
+    -111.990526,
+    43.474616,
+    -111.990526,
+    43.474616
+],
   "geometry": {"coordinates":[-111.990526,43.474616],"type":"Point"}
 }

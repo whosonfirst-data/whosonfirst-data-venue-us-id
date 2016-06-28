@@ -2,13 +2,14 @@
   "id": 186270823,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.352244,43.192826,-112.352244,43.192826",
     "geom:latitude":43.192826,
     "geom:longitude":-112.352244,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"792 W Bridge St",
     "sg:city":"Blackfoot",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":186270823,
-    "wof:lastmodified":1449050896,
+    "wof:lastmodified":1466488537,
     "wof:name":"Dayley Floral & Gift",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.352244,43.192826,-112.352244,43.192826],
+  "bbox": [
+    -112.352244,
+    43.192826,
+    -112.352244,
+    43.192826
+],
   "geometry": {"coordinates":[-112.352244,43.192826],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169593195,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.108885,43.54768,-116.108885,43.54768",
     "geom:latitude":43.54768,
     "geom:longitude":-116.108885,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6075 S Schooner Pl",
     "sg:city":"Boise",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":169593195,
-    "wof:lastmodified":1449034876,
+    "wof:lastmodified":1466486984,
     "wof:name":"Surprise Valley Home Owners",
     "wof:parent_id":85876327,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "builder"
     ]
 },
-  "bbox": [-116.108885,43.54768,-116.108885,43.54768],
+  "bbox": [
+    -116.108885,
+    43.54768,
+    -116.108885,
+    43.54768
+],
   "geometry": {"coordinates":[-116.108885,43.54768],"type":"Point"}
 }

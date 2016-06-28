@@ -2,13 +2,14 @@
   "id": 169774811,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.391372,43.619255,-116.391372,43.619255",
     "geom:latitude":43.619255,
     "geom:longitude":-116.391372,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"132 E Fairview Ave",
     "sg:city":"Meridian",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":169774811,
-    "wof:lastmodified":1449033963,
+    "wof:lastmodified":1466488362,
     "wof:name":"Schuck's Auto Supply",
     "wof:parent_id":85811491,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "parts"
     ]
 },
-  "bbox": [-116.391372,43.619255,-116.391372,43.619255],
+  "bbox": [
+    -116.391372,
+    43.619255,
+    -116.391372,
+    43.619255
+],
   "geometry": {"coordinates":[-116.391372,43.619255],"type":"Point"}
 }

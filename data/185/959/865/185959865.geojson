@@ -2,13 +2,14 @@
   "id": 185959865,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.334505,43.616798,-116.334505,43.616798",
     "geom:latitude":43.616798,
     "geom:longitude":-116.334505,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1379 N Cloverdale Rd",
     "sg:city":"Boise",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":185959865,
-    "wof:lastmodified":1449008064,
+    "wof:lastmodified":1466488691,
     "wof:name":"Tumble Time Gymnastics",
     "wof:parent_id":85811491,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "gymnastic"
     ]
 },
-  "bbox": [-116.334505,43.616798,-116.334505,43.616798],
-  "geometry": {"coordinates":[-116.334505,43.616798],"type":"Point"}
+  "bbox": [
+    -116.334505,
+    43.616798,
+    -116.334505,
+    43.616798
+],
+  "geometry": {"coordinates":[-116.33450499999999,43.616798],"type":"Point"}
 }

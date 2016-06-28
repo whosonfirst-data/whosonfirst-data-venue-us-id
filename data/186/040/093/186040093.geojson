@@ -2,13 +2,14 @@
   "id": 186040093,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.915631,42.036778,-111.915631,42.036778",
     "geom:latitude":42.036778,
     "geom:longitude":-111.915631,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3523 S 1600 W",
     "sg:city":"Preston",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":186040093,
-    "wof:lastmodified":1449052958,
+    "wof:lastmodified":1466487195,
     "wof:name":"Lamont Dairy",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.915631,42.036778,-111.915631,42.036778],
+  "bbox": [
+    -111.915631,
+    42.036778,
+    -111.915631,
+    42.036778
+],
   "geometry": {"coordinates":[-111.915631,42.036778],"type":"Point"}
 }

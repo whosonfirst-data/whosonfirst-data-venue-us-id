@@ -2,13 +2,14 @@
   "id": 186374811,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.040744,43.547654,-112.040744,43.547654",
     "geom:latitude":43.547654,
     "geom:longitude":-112.040744,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"364 Spyglass Cir",
     "sg:city":"Idaho Falls",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186374811,
-    "wof:lastmodified":1449051537,
+    "wof:lastmodified":1466488840,
     "wof:name":"Segoots ASC",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "custom"
     ]
 },
-  "bbox": [-112.040744,43.547654,-112.040744,43.547654],
+  "bbox": [
+    -112.040744,
+    43.547654,
+    -112.040744,
+    43.547654
+],
   "geometry": {"coordinates":[-112.040744,43.547654],"type":"Point"}
 }

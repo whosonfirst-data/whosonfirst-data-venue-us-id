@@ -2,13 +2,14 @@
   "id": 185954269,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.771083,47.693204,-116.771083,47.693204",
     "geom:latitude":47.693204,
     "geom:longitude":-116.771083,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"941 Woolsey Dr",
     "sg:city":"Coeur D Alene",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":185954269,
-    "wof:lastmodified":1449008014,
+    "wof:lastmodified":1466488601,
     "wof:name":"Hayes Construction",
     "wof:parent_id":85821457,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "house"
     ]
 },
-  "bbox": [-116.771083,47.693204,-116.771083,47.693204],
+  "bbox": [
+    -116.771083,
+    47.693204,
+    -116.771083,
+    47.693204
+],
   "geometry": {"coordinates":[-116.771083,47.693204],"type":"Point"}
 }

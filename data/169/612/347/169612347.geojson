@@ -2,13 +2,14 @@
   "id": 169612347,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.238833,47.532284,-116.238833,47.532284",
     "geom:latitude":47.532284,
     "geom:longitude":-116.238833,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"702 S Division St",
     "sg:city":"Pinehurst",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":169612347,
-    "wof:lastmodified":1449034131,
+    "wof:lastmodified":1466486996,
     "wof:name":"K C's Car Care",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "automobile"
     ]
 },
-  "bbox": [-116.238833,47.532284,-116.238833,47.532284],
+  "bbox": [
+    -116.238833,
+    47.532284,
+    -116.238833,
+    47.532284
+],
   "geometry": {"coordinates":[-116.238833,47.532284],"type":"Point"}
 }

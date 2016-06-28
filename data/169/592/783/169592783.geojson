@@ -2,13 +2,14 @@
   "id": 169592783,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.797518,47.687741,-116.797518,47.687741",
     "geom:latitude":47.687741,
     "geom:longitude":-116.797518,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1524 Northwest Blvd",
     "sg:city":"Coeur D Alene",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":169592783,
-    "wof:lastmodified":1449034581,
+    "wof:lastmodified":1466488317,
     "wof:name":"Cheryl Burchell Goldsmiths",
     "wof:parent_id":85821457,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "designer"
     ]
 },
-  "bbox": [-116.797518,47.687741,-116.797518,47.687741],
+  "bbox": [
+    -116.797518,
+    47.687741,
+    -116.797518,
+    47.687741
+],
   "geometry": {"coordinates":[-116.797518,47.687741],"type":"Point"}
 }

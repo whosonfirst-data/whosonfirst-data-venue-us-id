@@ -2,13 +2,14 @@
   "id": 185654811,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.18063,48.147631,-116.18063,48.147631",
     "geom:latitude":48.147631,
     "geom:longitude":-116.18063,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"213 4th Ave",
     "sg:city":"Clark Fork",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":185654811,
-    "wof:lastmodified":1449007142,
+    "wof:lastmodified":1466487174,
     "wof:name":"Cabinet Mountain Bar & Grill",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-116.18063,48.147631,-116.18063,48.147631],
-  "geometry": {"coordinates":[-116.18063,48.147631],"type":"Point"}
+  "bbox": [
+    -116.18063,
+    48.147631,
+    -116.18063,
+    48.147631
+],
+  "geometry": {"coordinates":[-116.18062999999999,48.147631],"type":"Point"}
 }

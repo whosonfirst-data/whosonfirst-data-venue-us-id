@@ -2,13 +2,14 @@
   "id": 169610997,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.861095,47.849348,-116.861095,47.849348",
     "geom:latitude":47.849348,
     "geom:longitude":-116.861095,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"18758 State Hwy 41",
     "sg:city":"Rathdrum",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":169610997,
-    "wof:lastmodified":1449035911,
+    "wof:lastmodified":1466486977,
     "wof:name":"Carolyn's Classic Cuts",
     "wof:parent_id":85821457,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-116.861095,47.849348,-116.861095,47.849348],
-  "geometry": {"coordinates":[-116.861095,47.849348],"type":"Point"}
+  "bbox": [
+    -116.861095,
+    47.849348,
+    -116.861095,
+    47.849348
+],
+  "geometry": {"coordinates":[-116.86109500000001,47.849348],"type":"Point"}
 }

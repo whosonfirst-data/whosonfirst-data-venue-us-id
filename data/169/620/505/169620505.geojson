@@ -2,13 +2,14 @@
   "id": 169620505,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.317174,43.57263,-116.317174,43.57263",
     "geom:latitude":43.57263,
     "geom:longitude":-116.317174,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10630 W Winterhawk Dr",
     "sg:city":"Boise",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":169620505,
-    "wof:lastmodified":1449035676,
+    "wof:lastmodified":1466487124,
     "wof:name":"A Sound Choice DJ Enterainment",
     "wof:parent_id":85876331,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "music"
     ]
 },
-  "bbox": [-116.317174,43.57263,-116.317174,43.57263],
-  "geometry": {"coordinates":[-116.317174,43.57263],"type":"Point"}
+  "bbox": [
+    -116.317174,
+    43.57263,
+    -116.317174,
+    43.57263
+],
+  "geometry": {"coordinates":[-116.31717399999999,43.57263],"type":"Point"}
 }

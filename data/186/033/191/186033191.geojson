@@ -2,13 +2,14 @@
   "id": 186033191,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.111921,43.38132,-112.111921,43.38132",
     "geom:latitude":43.38132,
     "geom:longitude":-112.111921,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"865 E 1300 N",
     "sg:city":"Shelley",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":186033191,
-    "wof:lastmodified":1449050955,
+    "wof:lastmodified":1466487118,
     "wof:name":"Bloomin' Acres Floral",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.111921,43.38132,-112.111921,43.38132],
+  "bbox": [
+    -112.111921,
+    43.38132,
+    -112.111921,
+    43.38132
+],
   "geometry": {"coordinates":[-112.111921,43.38132],"type":"Point"}
 }

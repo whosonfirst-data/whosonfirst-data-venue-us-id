@@ -2,13 +2,14 @@
   "id": 169646627,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.749458,47.684278,-116.749458,47.684278",
     "geom:latitude":47.684278,
     "geom:longitude":-116.749458,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1291 N Galena Dr",
     "sg:city":"Coeur D Alene",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":169646627,
-    "wof:lastmodified":1449032608,
+    "wof:lastmodified":1466487536,
     "wof:name":"Ponderosa Springs PAR 3 Golf",
     "wof:parent_id":85821457,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "course"
     ]
 },
-  "bbox": [-116.749458,47.684278,-116.749458,47.684278],
+  "bbox": [
+    -116.749458,
+    47.684278,
+    -116.749458,
+    47.684278
+],
   "geometry": {"coordinates":[-116.749458,47.684278],"type":"Point"}
 }

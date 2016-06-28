@@ -2,13 +2,14 @@
   "id": 185701117,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-117.001416,46.730221,-117.001416,46.730221",
     "geom:latitude":46.730221,
     "geom:longitude":-117.001416,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"513 S Main St",
     "sg:city":"Moscow",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":185701117,
-    "wof:lastmodified":1449007889,
+    "wof:lastmodified":1466487535,
     "wof:name":"Paradise Creek Bicycles",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-117.001416,46.730221,-117.001416,46.730221],
-  "geometry": {"coordinates":[-117.001416,46.730221],"type":"Point"}
+  "bbox": [
+    -117.001416,
+    46.730221,
+    -117.001416,
+    46.730221
+],
+  "geometry": {"coordinates":[-117.00141600000001,46.730221],"type":"Point"}
 }

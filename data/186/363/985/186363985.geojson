@@ -2,13 +2,14 @@
   "id": 186363985,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.915768,44.078134,-116.915768,44.078134",
     "geom:latitude":44.078134,
     "geom:longitude":-116.915768,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"206 N 21st St",
     "sg:city":"Payette",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":186363985,
-    "wof:lastmodified":1449052692,
+    "wof:lastmodified":1466488758,
     "wof:name":"Inspectors Choice",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "produce"
     ]
 },
-  "bbox": [-116.915768,44.078134,-116.915768,44.078134],
+  "bbox": [
+    -116.915768,
+    44.078134,
+    -116.915768,
+    44.078134
+],
   "geometry": {"coordinates":[-116.915768,44.078134],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 185621465,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.391849,43.594415,-116.391849,43.594415",
     "geom:latitude":43.594415,
     "geom:longitude":-116.391849,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"977 S Progress Ave",
     "sg:city":"Meridian",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":185621465,
-    "wof:lastmodified":1449008034,
+    "wof:lastmodified":1466486925,
     "wof:name":"Nutri-Sport Nutrition Superstr",
     "wof:parent_id":85805083,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "diet"
     ]
 },
-  "bbox": [-116.391849,43.594415,-116.391849,43.594415],
-  "geometry": {"coordinates":[-116.391849,43.594415],"type":"Point"}
+  "bbox": [
+    -116.391849,
+    43.594415,
+    -116.391849,
+    43.594415
+],
+  "geometry": {"coordinates":[-116.39184899999999,43.594415],"type":"Point"}
 }

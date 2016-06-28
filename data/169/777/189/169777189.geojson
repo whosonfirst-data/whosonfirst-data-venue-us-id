@@ -2,13 +2,14 @@
   "id": 169777189,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.969613,44.246828,-116.969613,44.246828",
     "geom:latitude":44.246828,
     "geom:longitude":-116.969613,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"541 State St",
     "sg:city":"Weiser",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":169777189,
-    "wof:lastmodified":1449034428,
+    "wof:lastmodified":1466488463,
     "wof:name":"Weiser Auto Parts",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "parts"
     ]
 },
-  "bbox": [-116.969613,44.246828,-116.969613,44.246828],
+  "bbox": [
+    -116.969613,
+    44.246828,
+    -116.969613,
+    44.246828
+],
   "geometry": {"coordinates":[-116.969613,44.246828],"type":"Point"}
 }

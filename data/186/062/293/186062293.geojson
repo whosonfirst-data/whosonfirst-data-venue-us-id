@@ -2,13 +2,14 @@
   "id": 186062293,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.907446,44.777778,-116.907446,44.777778",
     "geom:latitude":44.777778,
     "geom:longitude":-116.907446,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4330 State Hwy 71",
     "sg:city":"Cambridge",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":186062293,
-    "wof:lastmodified":1449052833,
+    "wof:lastmodified":1466487452,
     "wof:name":"Gateway Motel Store & Cafe",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-116.907446,44.777778,-116.907446,44.777778],
-  "geometry": {"coordinates":[-116.907446,44.777778],"type":"Point"}
+  "bbox": [
+    -116.907446,
+    44.777778,
+    -116.907446,
+    44.777778
+],
+  "geometry": {"coordinates":[-116.90744599999999,44.777778],"type":"Point"}
 }

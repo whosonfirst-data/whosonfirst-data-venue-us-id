@@ -2,13 +2,14 @@
   "id": 169657953,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.005406,43.482269,-112.005406,43.482269",
     "geom:latitude":43.482269,
     "geom:longitude":-112.005406,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1370 E 17th St",
     "sg:city":"Idaho Falls",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":169657953,
-    "wof:lastmodified":1449033051,
+    "wof:lastmodified":1466487706,
     "wof:name":"Gentle Dental Care",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "hygienist"
     ]
 },
-  "bbox": [-112.005406,43.482269,-112.005406,43.482269],
-  "geometry": {"coordinates":[-112.005406,43.482269],"type":"Point"}
+  "bbox": [
+    -112.005406,
+    43.482269,
+    -112.005406,
+    43.482269
+],
+  "geometry": {"coordinates":[-112.00540599999999,43.482269],"type":"Point"}
 }

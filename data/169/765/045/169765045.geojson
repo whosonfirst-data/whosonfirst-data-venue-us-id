@@ -2,13 +2,14 @@
   "id": 169765045,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.475803,43.561175,-116.475803,43.561175",
     "geom:latitude":43.561175,
     "geom:longitude":-116.475803,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7615 E Amity Ave",
     "sg:city":"Nampa",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":169765045,
-    "wof:lastmodified":1449034598,
+    "wof:lastmodified":1466488521,
     "wof:name":"D & I Construction",
     "wof:parent_id":85827787,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-116.475803,43.561175,-116.475803,43.561175],
+  "bbox": [
+    -116.475803,
+    43.561175,
+    -116.475803,
+    43.561175
+],
   "geometry": {"coordinates":[-116.475803,43.561175],"type":"Point"}
 }

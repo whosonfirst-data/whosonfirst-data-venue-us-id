@@ -2,13 +2,14 @@
   "id": 185745297,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.964491,47.735025,-116.964491,47.735025",
     "geom:latitude":47.735025,
     "geom:longitude":-116.964491,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1364 W Staples Dr",
     "sg:city":"Post Falls",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":185745297,
-    "wof:lastmodified":1449008124,
+    "wof:lastmodified":1466487886,
     "wof:name":"ML Cattle Co",
     "wof:parent_id":85833263,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "cattle"
     ]
 },
-  "bbox": [-116.964491,47.735025,-116.964491,47.735025],
+  "bbox": [
+    -116.964491,
+    47.735025,
+    -116.964491,
+    47.735025
+],
   "geometry": {"coordinates":[-116.964491,47.735025],"type":"Point"}
 }

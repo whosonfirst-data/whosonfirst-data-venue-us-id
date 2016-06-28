@@ -2,13 +2,14 @@
   "id": 169810009,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.395516,43.007405,-114.395516,43.007405",
     "geom:latitude":43.007405,
     "geom:longitude":-114.395516,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"421 N Hwy 75",
     "sg:city":"Shoshone",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":169810009,
-    "wof:lastmodified":1449033645,
+    "wof:lastmodified":1466488459,
     "wof:name":"Johnny's Country Store",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-114.395516,43.007405,-114.395516,43.007405],
+  "bbox": [
+    -114.395516,
+    43.007405,
+    -114.395516,
+    43.007405
+],
   "geometry": {"coordinates":[-114.395516,43.007405],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186236233,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.956015,44.24922,-116.956015,44.24922",
     "geom:latitude":44.24922,
     "geom:longitude":-116.956015,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"758 E Park St",
     "sg:city":"Weiser",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":186236233,
-    "wof:lastmodified":1449050535,
+    "wof:lastmodified":1466488496,
     "wof:name":"Park School",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-116.956015,44.24922,-116.956015,44.24922],
-  "geometry": {"coordinates":[-116.956015,44.24922],"type":"Point"}
+  "bbox": [
+    -116.956015,
+    44.24922,
+    -116.956015,
+    44.24922
+],
+  "geometry": {"coordinates":[-116.95601499999999,44.24922],"type":"Point"}
 }

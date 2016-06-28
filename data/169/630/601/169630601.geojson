@@ -2,13 +2,14 @@
   "id": 169630601,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.88862,42.782712,-114.88862,42.782712",
     "geom:latitude":42.782712,
     "geom:longitude":-114.88862,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"18335 US Hwy 30",
     "sg:city":"Hagerman",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":169630601,
-    "wof:lastmodified":1449033869,
+    "wof:lastmodified":1466487287,
     "wof:name":"Buckeye Ranch Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "cattle"
     ]
 },
-  "bbox": [-114.88862,42.782712,-114.88862,42.782712],
+  "bbox": [
+    -114.88862,
+    42.782712,
+    -114.88862,
+    42.782712
+],
   "geometry": {"coordinates":[-114.88862,42.782712],"type":"Point"}
 }

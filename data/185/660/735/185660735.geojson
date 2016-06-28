@@ -2,13 +2,14 @@
   "id": 185660735,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.493989,43.695725,-116.493989,43.695725",
     "geom:latitude":43.695725,
     "geom:longitude":-116.493989,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"11340 W 3rd St",
     "sg:city":"Star",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":185660735,
-    "wof:lastmodified":1449008059,
+    "wof:lastmodified":1466487220,
     "wof:name":"Star Satellite",
     "wof:parent_id":85876351,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "system"
     ]
 },
-  "bbox": [-116.493989,43.695725,-116.493989,43.695725],
+  "bbox": [
+    -116.493989,
+    43.695725,
+    -116.493989,
+    43.695725
+],
   "geometry": {"coordinates":[-116.493989,43.695725],"type":"Point"}
 }

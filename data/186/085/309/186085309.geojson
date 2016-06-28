@@ -2,13 +2,14 @@
   "id": 186085309,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.934135,43.817502,-116.934135,43.817502",
     "geom:latitude":43.817502,
     "geom:longitude":-116.934135,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"30746 Parma Rd",
     "sg:city":"Parma",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":186085309,
-    "wof:lastmodified":1449051065,
+    "wof:lastmodified":1466487713,
     "wof:name":"Martinez Construction-Excavtg",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "contractor"
     ]
 },
-  "bbox": [-116.934135,43.817502,-116.934135,43.817502],
+  "bbox": [
+    -116.934135,
+    43.817502,
+    -116.934135,
+    43.817502
+],
   "geometry": {"coordinates":[-116.934135,43.817502],"type":"Point"}
 }

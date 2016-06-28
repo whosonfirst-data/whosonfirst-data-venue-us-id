@@ -2,13 +2,14 @@
   "id": 186561645,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.575422,43.586409,-116.575422,43.586409",
     "geom:latitude":43.586409,
     "geom:longitude":-116.575422,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"157 Caldwell Blvd",
     "sg:city":"Nampa",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":186561645,
-    "wof:lastmodified":1449052256,
+    "wof:lastmodified":1466488896,
     "wof:name":"Gem State Developmental Ctr",
     "wof:parent_id":85827787,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "dev"
     ]
 },
-  "bbox": [-116.575422,43.586409,-116.575422,43.586409],
+  "bbox": [
+    -116.575422,
+    43.586409,
+    -116.575422,
+    43.586409
+],
   "geometry": {"coordinates":[-116.575422,43.586409],"type":"Point"}
 }

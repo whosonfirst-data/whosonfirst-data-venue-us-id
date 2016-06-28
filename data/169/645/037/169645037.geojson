@@ -2,13 +2,14 @@
   "id": 169645037,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.294211,43.675488,-116.294211,43.675488",
     "geom:latitude":43.675488,
     "geom:longitude":-116.294211,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8707 W State St",
     "sg:city":"Boise",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":169645037,
-    "wof:lastmodified":1449033007,
+    "wof:lastmodified":1466487511,
     "wof:name":"Warrior Refrigeration",
     "wof:parent_id":85876315,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "establishment"
     ]
 },
-  "bbox": [-116.294211,43.675488,-116.294211,43.675488],
+  "bbox": [
+    -116.294211,
+    43.675488,
+    -116.294211,
+    43.675488
+],
   "geometry": {"coordinates":[-116.294211,43.675488],"type":"Point"}
 }

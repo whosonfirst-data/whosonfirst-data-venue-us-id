@@ -2,13 +2,14 @@
   "id": 320545025,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.92613,46.55054,-116.92613,46.55054",
     "geom:latitude":46.55054,
     "geom:longitude":-116.92613,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"214 E Walnut St",
     "sg:city":"Genesee",
     "sg:classifiers":[
@@ -74,10 +75,11 @@
         }
     ],
     "wof:id":320545025,
-    "wof:lastmodified":1449012164,
+    "wof:lastmodified":1466486987,
     "wof:name":"Mr. Rooter Of The Quad Cities",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -97,6 +99,11 @@
         "contractors-commercial"
     ]
 },
-  "bbox": [-116.92613,46.55054,-116.92613,46.55054],
+  "bbox": [
+    -116.92613,
+    46.55054,
+    -116.92613,
+    46.55054
+],
   "geometry": {"coordinates":[-116.92613,46.55054],"type":"Point"}
 }

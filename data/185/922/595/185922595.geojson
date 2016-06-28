@@ -2,13 +2,14 @@
   "id": 185922595,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.796586,47.697692,-116.796586,47.697692",
     "geom:latitude":47.697692,
     "geom:longitude":-116.796586,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2199 W Ironwood Center Dr",
     "sg:city":"Coeur D Alene",
     "sg:classifiers":[
@@ -62,10 +63,11 @@
         }
     ],
     "wof:id":185922595,
-    "wof:lastmodified":1449006757,
+    "wof:lastmodified":1466488682,
     "wof:name":"North Idaho Mental Health",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -73,6 +75,11 @@
         "surgeon"
     ]
 },
-  "bbox": [-116.796586,47.697692,-116.796586,47.697692],
+  "bbox": [
+    -116.796586,
+    47.697692,
+    -116.796586,
+    47.697692
+],
   "geometry": {"coordinates":[-116.796586,47.697692],"type":"Point"}
 }

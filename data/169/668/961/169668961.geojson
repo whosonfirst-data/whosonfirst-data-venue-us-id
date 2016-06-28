@@ -2,13 +2,14 @@
   "id": 169668961,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.32649,43.517288,-116.32649,43.517288",
     "geom:latitude":43.517288,
     "geom:longitude":-116.32649,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"11143 Hubbard Rd",
     "sg:city":"Kuna",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":169668961,
-    "wof:lastmodified":1449034991,
+    "wof:lastmodified":1466487864,
     "wof:name":"Cleoria C Glenn",
     "wof:parent_id":85876331,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "design"
     ]
 },
-  "bbox": [-116.32649,43.517288,-116.32649,43.517288],
-  "geometry": {"coordinates":[-116.32649,43.517288],"type":"Point"}
+  "bbox": [
+    -116.32649,
+    43.517288,
+    -116.32649,
+    43.517288
+],
+  "geometry": {"coordinates":[-116.32649000000001,43.517288],"type":"Point"}
 }

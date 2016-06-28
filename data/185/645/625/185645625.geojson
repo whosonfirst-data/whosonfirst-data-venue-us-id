@@ -2,13 +2,14 @@
   "id": 185645625,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.949933,47.699787,-116.949933,47.699787",
     "geom:latitude":47.699787,
     "geom:longitude":-116.949933,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"12249 W Parkview Dr",
     "sg:city":"Post Falls",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":185645625,
-    "wof:lastmodified":1449006777,
+    "wof:lastmodified":1466487107,
     "wof:name":"Rock 'n Roll Windshield Repair",
     "wof:parent_id":85833263,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "glass"
     ]
 },
-  "bbox": [-116.949933,47.699787,-116.949933,47.699787],
+  "bbox": [
+    -116.949933,
+    47.699787,
+    -116.949933,
+    47.699787
+],
   "geometry": {"coordinates":[-116.949933,47.699787],"type":"Point"}
 }

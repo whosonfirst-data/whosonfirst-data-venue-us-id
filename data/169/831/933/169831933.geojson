@@ -2,13 +2,14 @@
   "id": 169831933,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.032895,43.475476,-112.032895,43.475476",
     "geom:latitude":43.475476,
     "geom:longitude":-112.032895,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"135 E 25th St",
     "sg:city":"Idaho Falls",
     "sg:classifiers":[
@@ -55,16 +56,22 @@
         }
     ],
     "wof:id":169831933,
-    "wof:lastmodified":1449034626,
+    "wof:lastmodified":1466488595,
     "wof:name":"Neutritional Science",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "nutritionist"
     ]
 },
-  "bbox": [-112.032895,43.475476,-112.032895,43.475476],
+  "bbox": [
+    -112.032895,
+    43.475476,
+    -112.032895,
+    43.475476
+],
   "geometry": {"coordinates":[-112.032895,43.475476],"type":"Point"}
 }

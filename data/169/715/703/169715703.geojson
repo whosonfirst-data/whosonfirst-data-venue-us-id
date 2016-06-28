@@ -2,13 +2,14 @@
   "id": 169715703,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.417791,42.551116,-114.417791,42.551116",
     "geom:latitude":42.551116,
     "geom:longitude":-114.417791,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3150 Vickie Ln",
     "sg:city":"Twin Falls",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":169715703,
-    "wof:lastmodified":1449035297,
+    "wof:lastmodified":1466488457,
     "wof:name":"Retro Razor",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "shop"
     ]
 },
-  "bbox": [-114.417791,42.551116,-114.417791,42.551116],
-  "geometry": {"coordinates":[-114.417791,42.551116],"type":"Point"}
+  "bbox": [
+    -114.417791,
+    42.551116,
+    -114.417791,
+    42.551116
+],
+  "geometry": {"coordinates":[-114.41779099999999,42.551116],"type":"Point"}
 }

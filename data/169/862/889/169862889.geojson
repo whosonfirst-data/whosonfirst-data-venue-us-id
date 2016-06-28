@@ -2,13 +2,14 @@
   "id": 169862889,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.921756,44.100804,-116.921756,44.100804",
     "geom:latitude":44.100804,
     "geom:longitude":-116.921756,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10580 US Hwy 95",
     "sg:city":"Payette",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":169862889,
-    "wof:lastmodified":1449036044,
+    "wof:lastmodified":1466488635,
     "wof:name":"Champion Seed Co Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-116.921756,44.100804,-116.921756,44.100804],
+  "bbox": [
+    -116.921756,
+    44.100804,
+    -116.921756,
+    44.100804
+],
   "geometry": {"coordinates":[-116.921756,44.100804],"type":"Point"}
 }

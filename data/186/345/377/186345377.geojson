@@ -2,13 +2,14 @@
   "id": 186345377,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.424435,43.561162,-116.424435,43.561162",
     "geom:latitude":43.561162,
     "geom:longitude":-116.424435,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2560 W Amity Rd",
     "sg:city":"Meridian",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186345377,
-    "wof:lastmodified":1449052815,
+    "wof:lastmodified":1466488672,
     "wof:name":"Berheim Engine Machine Shop",
     "wof:parent_id":85805083,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "general"
     ]
 },
-  "bbox": [-116.424435,43.561162,-116.424435,43.561162],
+  "bbox": [
+    -116.424435,
+    43.561162,
+    -116.424435,
+    43.561162
+],
   "geometry": {"coordinates":[-116.424435,43.561162],"type":"Point"}
 }

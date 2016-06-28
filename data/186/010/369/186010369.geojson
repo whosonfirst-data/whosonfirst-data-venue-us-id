@@ -2,13 +2,14 @@
   "id": 186010369,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.159479,43.610752,-116.159479,43.610752",
     "geom:latitude":43.610752,
     "geom:longitude":-116.159479,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"600 Troutner Way",
     "sg:city":"Boise",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":186010369,
-    "wof:lastmodified":1449052038,
+    "wof:lastmodified":1466486860,
     "wof:name":"J Robinson Enterprises In",
     "wof:parent_id":85876305,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-116.159479,43.610752,-116.159479,43.610752],
+  "bbox": [
+    -116.159479,
+    43.610752,
+    -116.159479,
+    43.610752
+],
   "geometry": {"coordinates":[-116.159479,43.610752],"type":"Point"}
 }

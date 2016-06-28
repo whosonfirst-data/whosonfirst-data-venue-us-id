@@ -2,13 +2,14 @@
   "id": 186060439,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.34344,43.194613,-112.34344,43.194613",
     "geom:latitude":43.194613,
     "geom:longitude":-112.34344,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"501 N Maple St",
     "sg:city":"Blackfoot",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186060439,
-    "wof:lastmodified":1449052778,
+    "wof:lastmodified":1466487431,
     "wof:name":"Bingham Police Dept",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "department"
     ]
 },
-  "bbox": [-112.34344,43.194613,-112.34344,43.194613],
+  "bbox": [
+    -112.34344,
+    43.194613,
+    -112.34344,
+    43.194613
+],
   "geometry": {"coordinates":[-112.34344,43.194613],"type":"Point"}
 }

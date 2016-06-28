@@ -2,13 +2,14 @@
   "id": 169733845,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.334291,43.605173,-116.334291,43.605173",
     "geom:latitude":43.605173,
     "geom:longitude":-116.334291,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"182 N Cloverdale Rd",
     "sg:city":"Boise",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":169733845,
-    "wof:lastmodified":1449033147,
+    "wof:lastmodified":1466488468,
     "wof:name":"Treasure Valley Wire Rope-Supl",
     "wof:parent_id":85805083,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "wire"
     ]
 },
-  "bbox": [-116.334291,43.605173,-116.334291,43.605173],
-  "geometry": {"coordinates":[-116.334291,43.605173],"type":"Point"}
+  "bbox": [
+    -116.334291,
+    43.605173,
+    -116.334291,
+    43.605173
+],
+  "geometry": {"coordinates":[-116.33429099999999,43.605173],"type":"Point"}
 }

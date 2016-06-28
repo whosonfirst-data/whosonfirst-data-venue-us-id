@@ -2,13 +2,14 @@
   "id": 186145629,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.485309,43.876544,-116.485309,43.876544",
     "geom:latitude":43.876544,
     "geom:longitude":-116.485309,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1006 E Phillips St",
     "sg:city":"Emmett",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":186145629,
-    "wof:lastmodified":1449051194,
+    "wof:lastmodified":1466488274,
     "wof:name":"Patricia C Davis P A",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-116.485309,43.876544,-116.485309,43.876544],
+  "bbox": [
+    -116.485309,
+    43.876544,
+    -116.485309,
+    43.876544
+],
   "geometry": {"coordinates":[-116.485309,43.876544],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186300095,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.490552,42.565696,-114.490552,42.565696",
     "geom:latitude":42.565696,
     "geom:longitude":-114.490552,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"526 Shoup Ave W",
     "sg:city":"Twin Falls",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":186300095,
-    "wof:lastmodified":1449051893,
+    "wof:lastmodified":1466488669,
     "wof:name":"Snake River Management Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "irrigation"
     ]
 },
-  "bbox": [-114.490552,42.565696,-114.490552,42.565696],
-  "geometry": {"coordinates":[-114.490552,42.565696],"type":"Point"}
+  "bbox": [
+    -114.490552,
+    42.565696,
+    -114.490552,
+    42.565696
+],
+  "geometry": {"coordinates":[-114.49055199999999,42.565696],"type":"Point"}
 }

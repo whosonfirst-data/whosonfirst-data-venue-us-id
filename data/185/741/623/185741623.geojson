@@ -2,13 +2,14 @@
   "id": 185741623,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.926262,47.713177,-116.926262,47.713177",
     "geom:latitude":47.713177,
     "geom:longitude":-116.926262,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1525 E Edmondton Ave",
     "sg:city":"Post Falls",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":185741623,
-    "wof:lastmodified":1449006670,
+    "wof:lastmodified":1466487854,
     "wof:name":"Beaudry Motorsports",
     "wof:parent_id":85833263,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "scooter"
     ]
 },
-  "bbox": [-116.926262,47.713177,-116.926262,47.713177],
-  "geometry": {"coordinates":[-116.926262,47.713177],"type":"Point"}
+  "bbox": [
+    -116.926262,
+    47.713177,
+    -116.926262,
+    47.713177
+],
+  "geometry": {"coordinates":[-116.92626199999999,47.713177],"type":"Point"}
 }

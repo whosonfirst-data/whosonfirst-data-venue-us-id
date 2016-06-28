@@ -2,13 +2,14 @@
   "id": 185870803,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.99614,46.415635,-116.99614,46.415635",
     "geom:latitude":46.415635,
     "geom:longitude":-116.99614,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2414 Main St",
     "sg:city":"Lewiston",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":185870803,
-    "wof:lastmodified":1449007031,
+    "wof:lastmodified":1466488428,
     "wof:name":"Larry's Foods & Deli",
     "wof:parent_id":85837769,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "grocer"
     ]
 },
-  "bbox": [-116.99614,46.415635,-116.99614,46.415635],
+  "bbox": [
+    -116.99614,
+    46.415635,
+    -116.99614,
+    46.415635
+],
   "geometry": {"coordinates":[-116.99614,46.415635],"type":"Point"}
 }

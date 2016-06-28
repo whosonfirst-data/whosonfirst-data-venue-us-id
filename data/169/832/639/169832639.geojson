@@ -2,13 +2,14 @@
   "id": 169832639,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.908865,48.185614,-116.908865,48.185614",
     "geom:latitude":48.185614,
     "geom:longitude":-116.908865,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"302 Harriet St",
     "sg:city":"Priest River",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":169832639,
-    "wof:lastmodified":1449032706,
+    "wof:lastmodified":1466488673,
     "wof:name":"Kid Zone",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-116.908865,48.185614,-116.908865,48.185614],
-  "geometry": {"coordinates":[-116.908865,48.185614],"type":"Point"}
+  "bbox": [
+    -116.908865,
+    48.185614,
+    -116.908865,
+    48.185614
+],
+  "geometry": {"coordinates":[-116.90886500000001,48.185614],"type":"Point"}
 }

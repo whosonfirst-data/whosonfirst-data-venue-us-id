@@ -2,13 +2,14 @@
   "id": 186451085,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.732663,42.987311,-114.732663,42.987311",
     "geom:latitude":42.987311,
     "geom:longitude":-114.732663,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1464 S 1800 E",
     "sg:city":"Gooding",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":186451085,
-    "wof:lastmodified":1449051539,
+    "wof:lastmodified":1466488821,
     "wof:name":"Wensink Dredging Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "heavy"
     ]
 },
-  "bbox": [-114.732663,42.987311,-114.732663,42.987311],
+  "bbox": [
+    -114.732663,
+    42.987311,
+    -114.732663,
+    42.987311
+],
   "geometry": {"coordinates":[-114.732663,42.987311],"type":"Point"}
 }

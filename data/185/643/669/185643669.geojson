@@ -2,13 +2,14 @@
   "id": 185643669,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.091411,43.657745,-111.091411,43.657745",
     "geom:latitude":43.657745,
     "geom:longitude":-111.091411,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"41 E 450 S",
     "sg:city":"Victor",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":185643669,
-    "wof:lastmodified":1449008000,
+    "wof:lastmodified":1466487094,
     "wof:name":"Griffin Woodworking",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "woodworker"
     ]
 },
-  "bbox": [-111.091411,43.657745,-111.091411,43.657745],
-  "geometry": {"coordinates":[-111.091411,43.657745],"type":"Point"}
+  "bbox": [
+    -111.091411,
+    43.657745,
+    -111.091411,
+    43.657745
+],
+  "geometry": {"coordinates":[-111.09141099999999,43.657745],"type":"Point"}
 }

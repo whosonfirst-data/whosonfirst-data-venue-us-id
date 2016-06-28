@@ -2,13 +2,14 @@
   "id": 186103545,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.764784,46.746215,-116.764784,46.746215",
     "geom:latitude":46.746215,
     "geom:longitude":-116.764784,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"337 Big Meadow Rd",
     "sg:city":"Troy",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":186103545,
-    "wof:lastmodified":1449052041,
+    "wof:lastmodified":1466487899,
     "wof:name":"Troy Jr-Sr High School",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-116.764784,46.746215,-116.764784,46.746215],
-  "geometry": {"coordinates":[-116.764784,46.746215],"type":"Point"}
+  "bbox": [
+    -116.764784,
+    46.746215,
+    -116.764784,
+    46.746215
+],
+  "geometry": {"coordinates":[-116.76478400000001,46.746215],"type":"Point"}
 }

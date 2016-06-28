@@ -2,13 +2,14 @@
   "id": 186326879,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.239528,47.540558,-116.239528,47.540558",
     "geom:latitude":47.540558,
     "geom:longitude":-116.239528,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"715 Main St",
     "sg:city":"Pinehurst",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186326879,
-    "wof:lastmodified":1449051516,
+    "wof:lastmodified":1466488716,
     "wof:name":"Kellogg Vacation Homes",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "vacation"
     ]
 },
-  "bbox": [-116.239528,47.540558,-116.239528,47.540558],
-  "geometry": {"coordinates":[-116.239528,47.540558],"type":"Point"}
+  "bbox": [
+    -116.239528,
+    47.540558,
+    -116.239528,
+    47.540558
+],
+  "geometry": {"coordinates":[-116.23952800000001,47.540558],"type":"Point"}
 }

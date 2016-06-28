@@ -2,13 +2,14 @@
   "id": 185740573,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.260931,43.656156,-116.260931,43.656156",
     "geom:latitude":43.656156,
     "geom:longitude":-116.260931,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5979 N Cobbler Ln",
     "sg:city":"Boise",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":185740573,
-    "wof:lastmodified":1449007353,
+    "wof:lastmodified":1466487846,
     "wof:name":"Brigeois Studios",
     "wof:parent_id":85811879,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-116.260931,43.656156,-116.260931,43.656156],
+  "bbox": [
+    -116.260931,
+    43.656156,
+    -116.260931,
+    43.656156
+],
   "geometry": {"coordinates":[-116.260931,43.656156],"type":"Point"}
 }

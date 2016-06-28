@@ -2,13 +2,14 @@
   "id": 320524735,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-117.010693,46.416351,-117.010693,46.416351",
     "geom:latitude":46.416351,
     "geom:longitude":-117.010693,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1514 G St",
     "sg:city":"Lewiston",
     "sg:classifiers":[
@@ -71,10 +72,11 @@
         }
     ],
     "wof:id":320524735,
-    "wof:lastmodified":1449011223,
+    "wof:lastmodified":1466487247,
     "wof:name":"Intermountain Claims Inc",
     "wof:parent_id":85837769,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -85,6 +87,11 @@
         "business"
     ]
 },
-  "bbox": [-117.010693,46.416351,-117.010693,46.416351],
+  "bbox": [
+    -117.010693,
+    46.416351,
+    -117.010693,
+    46.416351
+],
   "geometry": {"coordinates":[-117.010693,46.416351],"type":"Point"}
 }

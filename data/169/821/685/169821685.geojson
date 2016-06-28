@@ -2,13 +2,14 @@
   "id": 169821685,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.682409,43.665248,-116.682409,43.665248",
     "geom:latitude":43.665248,
     "geom:longitude":-116.682409,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1115 Albany St",
     "sg:city":"Caldwell",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":169821685,
-    "wof:lastmodified":1449034492,
+    "wof:lastmodified":1466488553,
     "wof:name":"Canyon County Indigent Fund",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-116.682409,43.665248,-116.682409,43.665248],
-  "geometry": {"coordinates":[-116.682409,43.665248],"type":"Point"}
+  "bbox": [
+    -116.682409,
+    43.665248,
+    -116.682409,
+    43.665248
+],
+  "geometry": {"coordinates":[-116.68240900000001,43.665248],"type":"Point"}
 }

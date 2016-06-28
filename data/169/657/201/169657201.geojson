@@ -2,13 +2,14 @@
   "id": 169657201,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.411569,43.490536,-116.411569,43.490536",
     "geom:latitude":43.490536,
     "geom:longitude":-116.411569,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"279 E 3rd St",
     "sg:city":"Kuna",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":169657201,
-    "wof:lastmodified":1449033050,
+    "wof:lastmodified":1466487696,
     "wof:name":"Indian Creek Automotive Mch",
     "wof:parent_id":85876331,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "mfg"
     ]
 },
-  "bbox": [-116.411569,43.490536,-116.411569,43.490536],
+  "bbox": [
+    -116.411569,
+    43.490536,
+    -116.411569,
+    43.490536
+],
   "geometry": {"coordinates":[-116.411569,43.490536],"type":"Point"}
 }

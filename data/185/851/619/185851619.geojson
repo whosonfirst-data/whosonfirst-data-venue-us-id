@@ -2,13 +2,14 @@
   "id": 185851619,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.032013,43.486285,-112.032013,43.486285",
     "geom:latitude":43.486285,
     "geom:longitude":-112.032013,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"187 E 13th St",
     "sg:city":"Idaho Falls",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":185851619,
-    "wof:lastmodified":1449007659,
+    "wof:lastmodified":1466488373,
     "wof:name":"Cornerstone Assembly Of God",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-112.032013,43.486285,-112.032013,43.486285],
-  "geometry": {"coordinates":[-112.032013,43.486285],"type":"Point"}
+  "bbox": [
+    -112.032013,
+    43.486285,
+    -112.032013,
+    43.486285
+],
+  "geometry": {"coordinates":[-112.03201300000001,43.486285],"type":"Point"}
 }

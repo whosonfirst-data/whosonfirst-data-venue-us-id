@@ -2,13 +2,14 @@
   "id": 186169283,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.98938,43.839796,-116.98938,43.839796",
     "geom:latitude":43.839796,
     "geom:longitude":-116.98938,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"32219 Fort Ln",
     "sg:city":"Parma",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":186169283,
-    "wof:lastmodified":1449052018,
+    "wof:lastmodified":1466488511,
     "wof:name":"C & M Enterprises",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "contractor"
     ]
 },
-  "bbox": [-116.98938,43.839796,-116.98938,43.839796],
+  "bbox": [
+    -116.98938,
+    43.839796,
+    -116.98938,
+    43.839796
+],
   "geometry": {"coordinates":[-116.98938,43.839796],"type":"Point"}
 }

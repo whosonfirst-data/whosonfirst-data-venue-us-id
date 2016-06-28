@@ -2,13 +2,14 @@
   "id": 320550119,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.984284,46.742622,-116.984284,46.742622",
     "geom:latitude":46.742622,
     "geom:longitude":-116.984284,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"922 N Grant St",
     "sg:city":"Moscow",
     "sg:classifiers":[
@@ -68,10 +69,11 @@
         }
     ],
     "wof:id":320550119,
-    "wof:lastmodified":1449013288,
+    "wof:lastmodified":1466487041,
     "wof:name":"Milestone Decisions",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -86,6 +88,11 @@
         "special"
     ]
 },
-  "bbox": [-116.984284,46.742622,-116.984284,46.742622],
+  "bbox": [
+    -116.984284,
+    46.742622,
+    -116.984284,
+    46.742622
+],
   "geometry": {"coordinates":[-116.984284,46.742622],"type":"Point"}
 }

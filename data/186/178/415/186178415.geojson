@@ -2,13 +2,14 @@
   "id": 186178415,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.123299,43.372846,-112.123299,43.372846",
     "geom:latitude":43.372846,
     "geom:longitude":-112.123299,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"569 S Park Ave",
     "sg:city":"Shelley",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":186178415,
-    "wof:lastmodified":1449052285,
+    "wof:lastmodified":1466488453,
     "wof:name":"Pro Brake Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "automotive"
     ]
 },
-  "bbox": [-112.123299,43.372846,-112.123299,43.372846],
+  "bbox": [
+    -112.123299,
+    43.372846,
+    -112.123299,
+    43.372846
+],
   "geometry": {"coordinates":[-112.123299,43.372846],"type":"Point"}
 }

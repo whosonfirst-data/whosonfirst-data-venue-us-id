@@ -2,13 +2,14 @@
   "id": 185927893,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.314528,43.536718,-116.314528,43.536718",
     "geom:latitude":43.536718,
     "geom:longitude":-116.314528,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7075 S Five Mile Rd",
     "sg:city":"Boise",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":185927893,
-    "wof:lastmodified":1449008053,
+    "wof:lastmodified":1466488696,
     "wof:name":"Christine Donnell School-Arts",
     "wof:parent_id":85876331,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "institute"
     ]
 },
-  "bbox": [-116.314528,43.536718,-116.314528,43.536718],
+  "bbox": [
+    -116.314528,
+    43.536718,
+    -116.314528,
+    43.536718
+],
   "geometry": {"coordinates":[-116.314528,43.536718],"type":"Point"}
 }

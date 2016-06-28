@@ -2,13 +2,14 @@
   "id": 186091255,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.301364,43.621151,-116.301364,43.621151",
     "geom:latitude":43.621151,
     "geom:longitude":-116.301364,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1707 N Linda Vista Ln",
     "sg:city":"Boise",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186091255,
-    "wof:lastmodified":1449050508,
+    "wof:lastmodified":1466487771,
     "wof:name":"Felts-House Engineering Inc",
     "wof:parent_id":85876309,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "engineer"
     ]
 },
-  "bbox": [-116.301364,43.621151,-116.301364,43.621151],
-  "geometry": {"coordinates":[-116.301364,43.621151],"type":"Point"}
+  "bbox": [
+    -116.301364,
+    43.621151,
+    -116.301364,
+    43.621151
+],
+  "geometry": {"coordinates":[-116.30136400000001,43.621151],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 185953191,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.20561,43.297226,-112.20561,43.297226",
     "geom:latitude":43.297226,
     "geom:longitude":-112.20561,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"462 E 700 N",
     "sg:city":"Firth",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":185953191,
-    "wof:lastmodified":1449007698,
+    "wof:lastmodified":1466488597,
     "wof:name":"Riverbilly Antiques",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.20561,43.297226,-112.20561,43.297226],
-  "geometry": {"coordinates":[-112.20561,43.297226],"type":"Point"}
+  "bbox": [
+    -112.20561,
+    43.297226,
+    -112.20561,
+    43.297226
+],
+  "geometry": {"coordinates":[-112.20560999999999,43.297226],"type":"Point"}
 }

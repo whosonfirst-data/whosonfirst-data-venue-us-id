@@ -2,13 +2,14 @@
   "id": 186230013,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.801022,47.700705,-116.801022,47.700705",
     "geom:latitude":47.700705,
     "geom:longitude":-116.801022,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1112 W Appleway Ave",
     "sg:city":"Coeur D Alene",
     "sg:classifiers":[
@@ -63,10 +64,11 @@
         }
     ],
     "wof:id":186230013,
-    "wof:lastmodified":1449052342,
+    "wof:lastmodified":1466488486,
     "wof:name":"Coeur D'Alene Tractor Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -74,6 +76,11 @@
         "equipment"
     ]
 },
-  "bbox": [-116.801022,47.700705,-116.801022,47.700705],
+  "bbox": [
+    -116.801022,
+    47.700705,
+    -116.801022,
+    47.700705
+],
   "geometry": {"coordinates":[-116.801022,47.700705],"type":"Point"}
 }

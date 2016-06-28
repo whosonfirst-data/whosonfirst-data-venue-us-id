@@ -2,13 +2,14 @@
   "id": 186159499,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.957773,47.497092,-115.957773,47.497092",
     "geom:latitude":47.497092,
     "geom:longitude":-115.957773,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"405 7th St",
     "sg:city":"Silverton",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186159499,
-    "wof:lastmodified":1449050573,
+    "wof:lastmodified":1466488401,
     "wof:name":"Silver Wood Village Astd Lvng",
     "wof:parent_id":85849049,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "residential"
     ]
 },
-  "bbox": [-115.957773,47.497092,-115.957773,47.497092],
+  "bbox": [
+    -115.957773,
+    47.497092,
+    -115.957773,
+    47.497092
+],
   "geometry": {"coordinates":[-115.957773,47.497092],"type":"Point"}
 }

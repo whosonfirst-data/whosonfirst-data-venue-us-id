@@ -2,13 +2,14 @@
   "id": 185995619,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.426452,46.555809,-116.426452,46.555809",
     "geom:latitude":46.555809,
     "geom:longitude":-116.426452,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4339 Middle Rd",
     "sg:city":"Lenore",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":185995619,
-    "wof:lastmodified":1449008043,
+    "wof:lastmodified":1466488746,
     "wof:name":"Cavendish-Teakean Elem School",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-116.426452,46.555809,-116.426452,46.555809],
+  "bbox": [
+    -116.426452,
+    46.555809,
+    -116.426452,
+    46.555809
+],
   "geometry": {"coordinates":[-116.426452,46.555809],"type":"Point"}
 }

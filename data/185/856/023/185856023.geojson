@@ -2,13 +2,14 @@
   "id": 185856023,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.440059,43.616963,-116.440059,43.616963",
     "geom:latitude":43.616963,
     "geom:longitude":-116.440059,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3761 W Park Creek Dr",
     "sg:city":"Meridian",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":185856023,
-    "wof:lastmodified":1449007072,
+    "wof:lastmodified":1466488548,
     "wof:name":"Meridian Little League",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "center"
     ]
 },
-  "bbox": [-116.440059,43.616963,-116.440059,43.616963],
-  "geometry": {"coordinates":[-116.440059,43.616963],"type":"Point"}
+  "bbox": [
+    -116.440059,
+    43.616963,
+    -116.440059,
+    43.616963
+],
+  "geometry": {"coordinates":[-116.44005900000001,43.616963],"type":"Point"}
 }

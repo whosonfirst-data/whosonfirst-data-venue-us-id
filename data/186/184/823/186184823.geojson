@@ -2,13 +2,14 @@
   "id": 186184823,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.294945,43.58357,-116.294945,43.58357",
     "geom:latitude":43.58357,
     "geom:longitude":-116.294945,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1930 S Crimson Rose Ave",
     "sg:city":"Boise",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":186184823,
-    "wof:lastmodified":1449050867,
+    "wof:lastmodified":1466488368,
     "wof:name":"Boise Book Bindery",
     "wof:parent_id":85876331,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "bookbinder"
     ]
 },
-  "bbox": [-116.294945,43.58357,-116.294945,43.58357],
+  "bbox": [
+    -116.294945,
+    43.58357,
+    -116.294945,
+    43.58357
+],
   "geometry": {"coordinates":[-116.294945,43.58357],"type":"Point"}
 }

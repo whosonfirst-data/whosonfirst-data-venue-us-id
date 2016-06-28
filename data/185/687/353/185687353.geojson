@@ -2,13 +2,14 @@
   "id": 185687353,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.390067,43.610815,-116.390067,43.610815",
     "geom:latitude":43.610815,
     "geom:longitude":-116.390067,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"722 E 2nd St",
     "sg:city":"Meridian",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":185687353,
-    "wof:lastmodified":1449007055,
+    "wof:lastmodified":1466487423,
     "wof:name":"Audio Electronics Inc",
     "wof:parent_id":85805083,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "system"
     ]
 },
-  "bbox": [-116.390067,43.610815,-116.390067,43.610815],
+  "bbox": [
+    -116.390067,
+    43.610815,
+    -116.390067,
+    43.610815
+],
   "geometry": {"coordinates":[-116.390067,43.610815],"type":"Point"}
 }

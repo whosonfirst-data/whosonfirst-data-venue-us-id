@@ -2,13 +2,14 @@
   "id": 185832519,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.058281,43.654854,-111.058281,43.654854",
     "geom:latitude":43.654854,
     "geom:longitude":-111.058281,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"242 Sorensen Creek Rd",
     "sg:city":"Victor",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":185832519,
-    "wof:lastmodified":1449006602,
+    "wof:lastmodified":1466488418,
     "wof:name":"Louisiana Purchase II",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.058281,43.654854,-111.058281,43.654854],
-  "geometry": {"coordinates":[-111.058281,43.654854],"type":"Point"}
+  "bbox": [
+    -111.058281,
+    43.654854,
+    -111.058281,
+    43.654854
+],
+  "geometry": {"coordinates":[-111.05828099999999,43.654854],"type":"Point"}
 }

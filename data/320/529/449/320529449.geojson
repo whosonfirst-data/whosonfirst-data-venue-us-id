@@ -2,13 +2,14 @@
   "id": 320529449,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.753189,43.752098,-116.753189,43.752098",
     "geom:latitude":43.752098,
     "geom:longitude":-116.753189,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"26331 Stafford Rd",
     "sg:city":"Caldwell",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":320529449,
-    "wof:lastmodified":1449012890,
+    "wof:lastmodified":1466487828,
     "wof:name":"Max Barker",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "management"
     ]
 },
-  "bbox": [-116.753189,43.752098,-116.753189,43.752098],
-  "geometry": {"coordinates":[-116.753189,43.752098],"type":"Point"}
+  "bbox": [
+    -116.753189,
+    43.752098,
+    -116.753189,
+    43.752098
+],
+  "geometry": {"coordinates":[-116.75318900000001,43.752098],"type":"Point"}
 }

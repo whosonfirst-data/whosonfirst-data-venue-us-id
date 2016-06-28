@@ -2,13 +2,14 @@
   "id": 169869307,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.52049,43.547712,-116.52049,43.547712",
     "geom:latitude":43.547712,
     "geom:longitude":-116.52049,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2229 S Preakness Way",
     "sg:city":"Nampa",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":169869307,
-    "wof:lastmodified":1449035696,
+    "wof:lastmodified":1466488643,
     "wof:name":"Bw Construction",
     "wof:parent_id":85827787,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-116.52049,43.547712,-116.52049,43.547712],
+  "bbox": [
+    -116.52049,
+    43.547712,
+    -116.52049,
+    43.547712
+],
   "geometry": {"coordinates":[-116.52049,43.547712],"type":"Point"}
 }

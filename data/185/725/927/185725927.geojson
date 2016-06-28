@@ -2,13 +2,14 @@
   "id": 185725927,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.731328,47.91687,-116.731328,47.91687",
     "geom:latitude":47.91687,
     "geom:longitude":-116.731328,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"28028 N Silver Meadows Loop",
     "sg:city":"Athol",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":185725927,
-    "wof:lastmodified":1449007008,
+    "wof:lastmodified":1466487728,
     "wof:name":"A A Painting & Drywall",
     "wof:parent_id":85821457,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "painter"
     ]
 },
-  "bbox": [-116.731328,47.91687,-116.731328,47.91687],
+  "bbox": [
+    -116.731328,
+    47.91687,
+    -116.731328,
+    47.91687
+],
   "geometry": {"coordinates":[-116.731328,47.91687],"type":"Point"}
 }

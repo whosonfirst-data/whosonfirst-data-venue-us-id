@@ -2,13 +2,14 @@
   "id": 185886247,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.36719,43.609794,-116.36719,43.609794",
     "geom:latitude":43.609794,
     "geom:longitude":-116.36719,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2390 E Commercial St",
     "sg:city":"Meridian",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":185886247,
-    "wof:lastmodified":1449007504,
+    "wof:lastmodified":1466488465,
     "wof:name":"Meridian Steel Erectors",
     "wof:parent_id":85805083,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "erectors"
     ]
 },
-  "bbox": [-116.36719,43.609794,-116.36719,43.609794],
-  "geometry": {"coordinates":[-116.36719,43.609794],"type":"Point"}
+  "bbox": [
+    -116.36719,
+    43.609794,
+    -116.36719,
+    43.609794
+],
+  "geometry": {"coordinates":[-116.36718999999999,43.609794],"type":"Point"}
 }

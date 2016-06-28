@@ -2,13 +2,14 @@
   "id": 186501539,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.199104,43.614615,-116.199104,43.614615",
     "geom:latitude":43.614615,
     "geom:longitude":-116.199104,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"408 W Idaho St",
     "sg:city":"Boise",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186501539,
-    "wof:lastmodified":1449053053,
+    "wof:lastmodified":1466488914,
     "wof:name":"Guthero Ed Art Drection Design",
     "wof:parent_id":85876319,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "design"
     ]
 },
-  "bbox": [-116.199104,43.614615,-116.199104,43.614615],
-  "geometry": {"coordinates":[-116.199104,43.614615],"type":"Point"}
+  "bbox": [
+    -116.199104,
+    43.614615,
+    -116.199104,
+    43.614615
+],
+  "geometry": {"coordinates":[-116.19910400000001,43.614615],"type":"Point"}
 }

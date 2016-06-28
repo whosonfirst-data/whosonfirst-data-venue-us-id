@@ -2,13 +2,14 @@
   "id": 185803093,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-117.021712,46.419574,-117.021712,46.419574",
     "geom:latitude":46.419574,
     "geom:longitude":-117.021712,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"108 9th St",
     "sg:city":"Lewiston",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":185803093,
-    "wof:lastmodified":1449008227,
+    "wof:lastmodified":1466488318,
     "wof:name":"American Insurance",
     "wof:parent_id":85852537,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-117.021712,46.419574,-117.021712,46.419574],
-  "geometry": {"coordinates":[-117.021712,46.419574],"type":"Point"}
+  "bbox": [
+    -117.021712,
+    46.419574,
+    -117.021712,
+    46.419574
+],
+  "geometry": {"coordinates":[-117.02171199999999,46.419574],"type":"Point"}
 }

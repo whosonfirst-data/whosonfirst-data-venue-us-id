@@ -2,13 +2,14 @@
   "id": 169612829,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.253682,43.587852,-116.253682,43.587852",
     "geom:latitude":43.587852,
     "geom:longitude":-116.253682,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1713 S Curtis Rd",
     "sg:city":"Boise",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":169612829,
-    "wof:lastmodified":1449034132,
+    "wof:lastmodified":1466487003,
     "wof:name":"Curtis Meadow Apartments",
     "wof:parent_id":85876295,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "apartment"
     ]
 },
-  "bbox": [-116.253682,43.587852,-116.253682,43.587852],
+  "bbox": [
+    -116.253682,
+    43.587852,
+    -116.253682,
+    43.587852
+],
   "geometry": {"coordinates":[-116.253682,43.587852],"type":"Point"}
 }

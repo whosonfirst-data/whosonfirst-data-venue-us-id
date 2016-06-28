@@ -2,13 +2,14 @@
   "id": 186180637,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-117.033936,47.782864,-117.033936,47.782864",
     "geom:latitude":47.782864,
     "geom:longitude":-117.033936,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"18404 W Paddlewheel Ln",
     "sg:city":"Hauser",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":186180637,
-    "wof:lastmodified":1449050377,
+    "wof:lastmodified":1466488455,
     "wof:name":"Tops Interprises",
     "wof:parent_id":85833263,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "wholesaler"
     ]
 },
-  "bbox": [-117.033936,47.782864,-117.033936,47.782864],
+  "bbox": [
+    -117.033936,
+    47.782864,
+    -117.033936,
+    47.782864
+],
   "geometry": {"coordinates":[-117.033936,47.782864],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186487801,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.547791,48.27312,-116.547791,48.27312",
     "geom:latitude":48.27312,
     "geom:longitude":-116.547791,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"100 S 1st Ave",
     "sg:city":"Sandpoint",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":186487801,
-    "wof:lastmodified":1449051274,
+    "wof:lastmodified":1466488816,
     "wof:name":"Diamond Charters Fishing",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "guide"
     ]
 },
-  "bbox": [-116.547791,48.27312,-116.547791,48.27312],
+  "bbox": [
+    -116.547791,
+    48.27312,
+    -116.547791,
+    48.27312
+],
   "geometry": {"coordinates":[-116.547791,48.27312],"type":"Point"}
 }

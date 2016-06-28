@@ -2,13 +2,14 @@
   "id": 186091791,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.683175,43.669258,-116.683175,43.669258",
     "geom:latitude":43.669258,
     "geom:longitude":-116.683175,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"420 N Kimball Ave",
     "sg:city":"Caldwell",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":186091791,
-    "wof:lastmodified":1449050508,
+    "wof:lastmodified":1466487778,
     "wof:name":"A A Striping",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "marking"
     ]
 },
-  "bbox": [-116.683175,43.669258,-116.683175,43.669258],
-  "geometry": {"coordinates":[-116.683175,43.669258],"type":"Point"}
+  "bbox": [
+    -116.683175,
+    43.669258,
+    -116.683175,
+    43.669258
+],
+  "geometry": {"coordinates":[-116.68317500000001,43.669258],"type":"Point"}
 }

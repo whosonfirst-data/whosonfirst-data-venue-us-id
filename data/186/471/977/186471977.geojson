@@ -2,13 +2,14 @@
   "id": 186471977,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.933422,46.376709,-116.933422,46.376709",
     "geom:latitude":46.376709,
     "geom:longitude":-116.933422,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3507 19th St",
     "sg:city":"Lewiston",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":186471977,
-    "wof:lastmodified":1449051450,
+    "wof:lastmodified":1466488850,
     "wof:name":"Hudson Custom Boats & Welding",
     "wof:parent_id":85837769,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "mfg"
     ]
 },
-  "bbox": [-116.933422,46.376709,-116.933422,46.376709],
-  "geometry": {"coordinates":[-116.933422,46.376709],"type":"Point"}
+  "bbox": [
+    -116.933422,
+    46.376709,
+    -116.933422,
+    46.376709
+],
+  "geometry": {"coordinates":[-116.93342199999999,46.376709],"type":"Point"}
 }

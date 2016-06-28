@@ -2,13 +2,14 @@
   "id": 186127089,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.535992,48.304344,-116.535992,48.304344",
     "geom:latitude":48.304344,
     "geom:longitude":-116.535992,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"30900 Hwy 200",
     "sg:city":"Ponderay",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186127089,
-    "wof:lastmodified":1449052806,
+    "wof:lastmodified":1466488125,
     "wof:name":"Transportation Engineering",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "program"
     ]
 },
-  "bbox": [-116.535992,48.304344,-116.535992,48.304344],
-  "geometry": {"coordinates":[-116.535992,48.304344],"type":"Point"}
+  "bbox": [
+    -116.535992,
+    48.304344,
+    -116.535992,
+    48.304344
+],
+  "geometry": {"coordinates":[-116.53599199999999,48.304344],"type":"Point"}
 }

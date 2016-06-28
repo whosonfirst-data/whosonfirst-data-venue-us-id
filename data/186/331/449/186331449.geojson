@@ -2,13 +2,14 @@
   "id": 186331449,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.676083,43.656305,-116.676083,43.656305",
     "geom:latitude":43.656305,
     "geom:longitude":-116.676083,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2023 Blaine St",
     "sg:city":"Caldwell",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186331449,
-    "wof:lastmodified":1449051996,
+    "wof:lastmodified":1466488722,
     "wof:name":"Nampa Stereo",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "stereophonic"
     ]
 },
-  "bbox": [-116.676083,43.656305,-116.676083,43.656305],
-  "geometry": {"coordinates":[-116.676083,43.656305],"type":"Point"}
+  "bbox": [
+    -116.676083,
+    43.656305,
+    -116.676083,
+    43.656305
+],
+  "geometry": {"coordinates":[-116.67608300000001,43.656305],"type":"Point"}
 }

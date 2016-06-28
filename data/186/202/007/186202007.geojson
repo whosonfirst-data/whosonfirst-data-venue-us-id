@@ -2,13 +2,14 @@
   "id": 186202007,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.616283,48.251781,-116.616283,48.251781",
     "geom:latitude":48.251781,
     "geom:longitude":-116.616283,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"401 Railroad Ave",
     "sg:city":"Bovill",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186202007,
-    "wof:lastmodified":1449052666,
+    "wof:lastmodified":1466488570,
     "wof:name":"Wendell Boyce Trucking",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "trucking"
     ]
 },
-  "bbox": [-116.616283,48.251781,-116.616283,48.251781],
+  "bbox": [
+    -116.616283,
+    48.251781,
+    -116.616283,
+    48.251781
+],
   "geometry": {"coordinates":[-116.616283,48.251781],"type":"Point"}
 }

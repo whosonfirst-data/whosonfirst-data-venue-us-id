@@ -2,13 +2,14 @@
   "id": 186488641,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.283041,43.58908,-116.283041,43.58908",
     "geom:latitude":43.58908,
     "geom:longitude":-116.283041,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8009 Dorian St",
     "sg:city":"Boise",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":186488641,
-    "wof:lastmodified":1449052975,
+    "wof:lastmodified":1466488820,
     "wof:name":"Coltrin Finish Carpentry",
     "wof:parent_id":85876321,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "carpenter"
     ]
 },
-  "bbox": [-116.283041,43.58908,-116.283041,43.58908],
+  "bbox": [
+    -116.283041,
+    43.58908,
+    -116.283041,
+    43.58908
+],
   "geometry": {"coordinates":[-116.283041,43.58908],"type":"Point"}
 }

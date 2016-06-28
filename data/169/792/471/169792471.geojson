@@ -2,13 +2,14 @@
   "id": 169792471,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.958825,47.781326,-116.958825,47.781326",
     "geom:latitude":47.781326,
     "geom:longitude":-116.958825,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"11778 N Chase Rd",
     "sg:city":"Rathdrum",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":169792471,
-    "wof:lastmodified":1449033391,
+    "wof:lastmodified":1466488386,
     "wof:name":"J K Trucking",
     "wof:parent_id":85833263,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "trucking"
     ]
 },
-  "bbox": [-116.958825,47.781326,-116.958825,47.781326],
+  "bbox": [
+    -116.958825,
+    47.781326,
+    -116.958825,
+    47.781326
+],
   "geometry": {"coordinates":[-116.958825,47.781326],"type":"Point"}
 }

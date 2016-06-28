@@ -2,13 +2,14 @@
   "id": 185913923,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.91716,43.672114,-111.91716,43.672114",
     "geom:latitude":43.672114,
     "geom:longitude":-111.91716,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"129 W Main St",
     "sg:city":"Rigby",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":185913923,
-    "wof:lastmodified":1449007238,
+    "wof:lastmodified":1466488589,
     "wof:name":"Eastside Lab",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "dental"
     ]
 },
-  "bbox": [-111.91716,43.672114,-111.91716,43.672114],
+  "bbox": [
+    -111.91716,
+    43.672114,
+    -111.91716,
+    43.672114
+],
   "geometry": {"coordinates":[-111.91716,43.672114],"type":"Point"}
 }

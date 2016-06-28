@@ -2,13 +2,14 @@
   "id": 186177777,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.972279,46.377674,-116.972279,46.377674",
     "geom:latitude":46.377674,
     "geom:longitude":-116.972279,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"456 Thain Rd",
     "sg:city":"Lewiston",
     "sg:classifiers":[
@@ -61,16 +62,22 @@
         }
     ],
     "wof:id":186177777,
-    "wof:lastmodified":1449053026,
+    "wof:lastmodified":1466488454,
     "wof:name":"A & B's Foods",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "grocer"
     ]
 },
-  "bbox": [-116.972279,46.377674,-116.972279,46.377674],
+  "bbox": [
+    -116.972279,
+    46.377674,
+    -116.972279,
+    46.377674
+],
   "geometry": {"coordinates":[-116.972279,46.377674],"type":"Point"}
 }

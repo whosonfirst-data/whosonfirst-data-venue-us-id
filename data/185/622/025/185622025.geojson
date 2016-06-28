@@ -2,13 +2,14 @@
   "id": 185622025,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.086472,43.479011,-112.086472,43.479011",
     "geom:latitude":43.479011,
     "geom:longitude":-112.086472,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2020 S Charlotte Dr",
     "sg:city":"Idaho Falls",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":185622025,
-    "wof:lastmodified":1449007937,
+    "wof:lastmodified":1466486930,
     "wof:name":"Mill Run Ward",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "church"
     ]
 },
-  "bbox": [-112.086472,43.479011,-112.086472,43.479011],
+  "bbox": [
+    -112.086472,
+    43.479011,
+    -112.086472,
+    43.479011
+],
   "geometry": {"coordinates":[-112.086472,43.479011],"type":"Point"}
 }

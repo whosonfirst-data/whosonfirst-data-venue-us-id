@@ -2,13 +2,14 @@
   "id": 169662711,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.415386,43.604628,-116.415386,43.604628",
     "geom:latitude":43.604628,
     "geom:longitude":-116.415386,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1767 W Franklin Rd",
     "sg:city":"Meridian",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":169662711,
-    "wof:lastmodified":1449034923,
+    "wof:lastmodified":1466487779,
     "wof:name":"Platinum Planning & Wellness",
     "wof:parent_id":85805083,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "program"
     ]
 },
-  "bbox": [-116.415386,43.604628,-116.415386,43.604628],
+  "bbox": [
+    -116.415386,
+    43.604628,
+    -116.415386,
+    43.604628
+],
   "geometry": {"coordinates":[-116.415386,43.604628],"type":"Point"}
 }

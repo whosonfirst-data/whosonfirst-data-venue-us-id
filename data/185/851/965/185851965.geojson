@@ -2,13 +2,14 @@
   "id": 185851965,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.586877,43.577464,-116.586877,43.577464",
     "geom:latitude":43.577464,
     "geom:longitude":-116.586877,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"722 W Togstad Pl",
     "sg:city":"Nampa",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":185851965,
-    "wof:lastmodified":1449007660,
+    "wof:lastmodified":1466488469,
     "wof:name":"Krafty Kat Designs",
     "wof:parent_id":85827787,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "sewing"
     ]
 },
-  "bbox": [-116.586877,43.577464,-116.586877,43.577464],
+  "bbox": [
+    -116.586877,
+    43.577464,
+    -116.586877,
+    43.577464
+],
   "geometry": {"coordinates":[-116.586877,43.577464],"type":"Point"}
 }

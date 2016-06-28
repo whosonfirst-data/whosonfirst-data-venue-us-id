@@ -2,13 +2,14 @@
   "id": 169715119,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.985731,46.733775,-116.985731,46.733775",
     "geom:latitude":46.733775,
     "geom:longitude":-116.985731,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"110 S Blaine St",
     "sg:city":"Moscow",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":169715119,
-    "wof:lastmodified":1449035299,
+    "wof:lastmodified":1466488454,
     "wof:name":"Lena Whitmore School",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-116.985731,46.733775,-116.985731,46.733775],
+  "bbox": [
+    -116.985731,
+    46.733775,
+    -116.985731,
+    46.733775
+],
   "geometry": {"coordinates":[-116.985731,46.733775],"type":"Point"}
 }

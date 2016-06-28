@@ -2,13 +2,14 @@
   "id": 185962969,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.296493,43.574296,-116.296493,43.574296",
     "geom:latitude":43.574296,
     "geom:longitude":-116.296493,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9205 Burnett Dr",
     "sg:city":"Boise",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":185962969,
-    "wof:lastmodified":1449007561,
+    "wof:lastmodified":1466488787,
     "wof:name":"R P Schweigert Construction",
     "wof:parent_id":85876331,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "contractor"
     ]
 },
-  "bbox": [-116.296493,43.574296,-116.296493,43.574296],
+  "bbox": [
+    -116.296493,
+    43.574296,
+    -116.296493,
+    43.574296
+],
   "geometry": {"coordinates":[-116.296493,43.574296],"type":"Point"}
 }

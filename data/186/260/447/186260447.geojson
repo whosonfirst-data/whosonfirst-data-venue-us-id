@@ -2,13 +2,14 @@
   "id": 186260447,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.472597,43.7432,-116.472597,43.7432",
     "geom:latitude":43.7432,
     "geom:longitude":-116.472597,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5555 N Star Ridge Way",
     "sg:city":"Star",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":186260447,
-    "wof:lastmodified":1449050863,
+    "wof:lastmodified":1466488608,
     "wof:name":"General Ecnomic Consulting Inc",
     "wof:parent_id":85876351,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-116.472597,43.7432,-116.472597,43.7432],
-  "geometry": {"coordinates":[-116.472597,43.7432],"type":"Point"}
+  "bbox": [
+    -116.472597,
+    43.7432,
+    -116.472597,
+    43.7432
+],
+  "geometry": {"coordinates":[-116.47259699999999,43.7432],"type":"Point"}
 }

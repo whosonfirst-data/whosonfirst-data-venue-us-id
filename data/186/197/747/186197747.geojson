@@ -2,13 +2,14 @@
   "id": 186197747,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.560995,48.28747,-116.560995,48.28747",
     "geom:latitude":48.28747,
     "geom:longitude":-116.560995,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"825 Baldy Mountain Rd",
     "sg:city":"Sandpoint",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":186197747,
-    "wof:lastmodified":1449052674,
+    "wof:lastmodified":1466488500,
     "wof:name":"North Idaho Lumber",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "lumber"
     ]
 },
-  "bbox": [-116.560995,48.28747,-116.560995,48.28747],
-  "geometry": {"coordinates":[-116.560995,48.28747],"type":"Point"}
+  "bbox": [
+    -116.560995,
+    48.28747,
+    -116.560995,
+    48.28747
+],
+  "geometry": {"coordinates":[-116.56099500000001,48.28747],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169754727,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.952929,47.729114,-116.952929,47.729114",
     "geom:latitude":47.729114,
     "geom:longitude":-116.952929,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"511 W 22nd Ave",
     "sg:city":"Post Falls",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":169754727,
-    "wof:lastmodified":1449034846,
+    "wof:lastmodified":1466488352,
     "wof:name":"Winterstar Valuations Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "appraiser"
     ]
 },
-  "bbox": [-116.952929,47.729114,-116.952929,47.729114],
+  "bbox": [
+    -116.952929,
+    47.729114,
+    -116.952929,
+    47.729114
+],
   "geometry": {"coordinates":[-116.952929,47.729114],"type":"Point"}
 }

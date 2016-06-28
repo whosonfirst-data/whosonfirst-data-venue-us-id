@@ -2,13 +2,14 @@
   "id": 186472919,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.330029,43.709832,-116.330029,43.709832",
     "geom:latitude":43.709832,
     "geom:longitude":-116.330029,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1536 N Dunsmuir Way",
     "sg:city":"Eagle",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":186472919,
-    "wof:lastmodified":1449050458,
+    "wof:lastmodified":1466488899,
     "wof:name":"King Enterprises Inc",
     "wof:parent_id":85876315,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "establishment"
     ]
 },
-  "bbox": [-116.330029,43.709832,-116.330029,43.709832],
+  "bbox": [
+    -116.330029,
+    43.709832,
+    -116.330029,
+    43.709832
+],
   "geometry": {"coordinates":[-116.330029,43.709832],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186459737,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-117.027022,46.420997,-117.027022,46.420997",
     "geom:latitude":46.420997,
     "geom:longitude":-117.027022,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"515 F St",
     "sg:city":"Lewiston",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":186459737,
-    "wof:lastmodified":1449051462,
+    "wof:lastmodified":1466488740,
     "wof:name":"Maximum Image Salon",
     "wof:parent_id":85852537,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-117.027022,46.420997,-117.027022,46.420997],
+  "bbox": [
+    -117.027022,
+    46.420997,
+    -117.027022,
+    46.420997
+],
   "geometry": {"coordinates":[-117.027022,46.420997],"type":"Point"}
 }

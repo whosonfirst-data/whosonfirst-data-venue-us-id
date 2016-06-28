@@ -2,13 +2,14 @@
   "id": 185961631,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.775827,47.745579,-116.775827,47.745579",
     "geom:latitude":47.745579,
     "geom:longitude":-116.775827,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8191 N Loch Haven Dr",
     "sg:city":"Hayden Lake",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":185961631,
-    "wof:lastmodified":1449008158,
+    "wof:lastmodified":1466488621,
     "wof:name":"Book Works",
     "wof:parent_id":85821457,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "general"
     ]
 },
-  "bbox": [-116.775827,47.745579,-116.775827,47.745579],
-  "geometry": {"coordinates":[-116.775827,47.745579],"type":"Point"}
+  "bbox": [
+    -116.775827,
+    47.745579,
+    -116.775827,
+    47.745579
+],
+  "geometry": {"coordinates":[-116.77582700000001,47.745579],"type":"Point"}
 }

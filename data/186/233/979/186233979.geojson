@@ -2,13 +2,14 @@
   "id": 186233979,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.915943,47.739791,-116.915943,47.739791",
     "geom:latitude":47.739791,
     "geom:longitude":-116.915943,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3429 N Greensferry Rd",
     "sg:city":"Post Falls",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":186233979,
-    "wof:lastmodified":1449053068,
+    "wof:lastmodified":1466488655,
     "wof:name":"R Scot Haug CPA",
     "wof:parent_id":85833263,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "accountant"
     ]
 },
-  "bbox": [-116.915943,47.739791,-116.915943,47.739791],
+  "bbox": [
+    -116.915943,
+    47.739791,
+    -116.915943,
+    47.739791
+],
   "geometry": {"coordinates":[-116.915943,47.739791],"type":"Point"}
 }

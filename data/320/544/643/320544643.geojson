@@ -2,13 +2,14 @@
   "id": 320544643,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.813889,47.745098,-116.813889,47.745098",
     "geom:latitude":47.745098,
     "geom:longitude":-116.813889,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8240 N Ainsworth Dr",
     "sg:city":"Hayden",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":320544643,
-    "wof:lastmodified":1449014963,
+    "wof:lastmodified":1466486984,
     "wof:name":"Bucks Roadhouse",
     "wof:parent_id":85821457,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "brew"
     ]
 },
-  "bbox": [-116.813889,47.745098,-116.813889,47.745098],
+  "bbox": [
+    -116.813889,
+    47.745098,
+    -116.813889,
+    47.745098
+],
   "geometry": {"coordinates":[-116.813889,47.745098],"type":"Point"}
 }

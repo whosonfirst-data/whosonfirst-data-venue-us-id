@@ -2,13 +2,14 @@
   "id": 186035185,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.387316,43.207944,-112.387316,43.207944",
     "geom:latitude":43.207944,
     "geom:longitude":-112.387316,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"467 US Hwy 26",
     "sg:city":"Blackfoot",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":186035185,
-    "wof:lastmodified":1449052493,
+    "wof:lastmodified":1466487141,
     "wof:name":"General Mills Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "elevator"
     ]
 },
-  "bbox": [-112.387316,43.207944,-112.387316,43.207944],
+  "bbox": [
+    -112.387316,
+    43.207944,
+    -112.387316,
+    43.207944
+],
   "geometry": {"coordinates":[-112.387316,43.207944],"type":"Point"}
 }

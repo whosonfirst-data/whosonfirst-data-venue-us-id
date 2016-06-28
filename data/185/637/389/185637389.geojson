@@ -2,13 +2,14 @@
   "id": 185637389,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.514864,42.727127,-114.514864,42.727127",
     "geom:latitude":42.727127,
     "geom:longitude":-114.514864,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"306 3rd Ave E",
     "sg:city":"Jerome",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":185637389,
-    "wof:lastmodified":1449006596,
+    "wof:lastmodified":1466487047,
     "wof:name":"Grey Wolf Trading Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "general"
     ]
 },
-  "bbox": [-114.514864,42.727127,-114.514864,42.727127],
+  "bbox": [
+    -114.514864,
+    42.727127,
+    -114.514864,
+    42.727127
+],
   "geometry": {"coordinates":[-114.514864,42.727127],"type":"Point"}
 }

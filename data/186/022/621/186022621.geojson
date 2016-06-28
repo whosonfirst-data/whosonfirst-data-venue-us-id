@@ -2,13 +2,14 @@
   "id": 186022621,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.744746,47.769343,-116.744746,47.769343",
     "geom:latitude":47.769343,
     "geom:longitude":-116.744746,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3021 E Lake Forest Dr",
     "sg:city":"Hayden",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":186022621,
-    "wof:lastmodified":1449051284,
+    "wof:lastmodified":1466486992,
     "wof:name":"A L V",
     "wof:parent_id":85821457,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-116.744746,47.769343,-116.744746,47.769343],
-  "geometry": {"coordinates":[-116.744746,47.769343],"type":"Point"}
+  "bbox": [
+    -116.744746,
+    47.769343,
+    -116.744746,
+    47.769343
+],
+  "geometry": {"coordinates":[-116.74474600000001,47.769343],"type":"Point"}
 }

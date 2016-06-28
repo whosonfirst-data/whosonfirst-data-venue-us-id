@@ -2,13 +2,14 @@
   "id": 186520481,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.562644,43.576347,-116.562644,43.576347",
     "geom:latitude":43.576347,
     "geom:longitude":-116.562644,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1219 4th St S",
     "sg:city":"Nampa",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":186520481,
-    "wof:lastmodified":1449051280,
+    "wof:lastmodified":1466488926,
     "wof:name":"Bill Baker & Assoc",
     "wof:parent_id":85827787,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "family"
     ]
 },
-  "bbox": [-116.562644,43.576347,-116.562644,43.576347],
-  "geometry": {"coordinates":[-116.562644,43.576347],"type":"Point"}
+  "bbox": [
+    -116.562644,
+    43.576347,
+    -116.562644,
+    43.576347
+],
+  "geometry": {"coordinates":[-116.56264400000001,43.576347],"type":"Point"}
 }

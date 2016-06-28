@@ -2,13 +2,14 @@
   "id": 186556553,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.277475,43.583653,-116.277475,43.583653",
     "geom:latitude":43.583653,
     "geom:longitude":-116.277475,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7544 Lemhi St",
     "sg:city":"Boise",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":186556553,
-    "wof:lastmodified":1449051055,
+    "wof:lastmodified":1466488893,
     "wof:name":"United Food Brokerage",
     "wof:parent_id":85876321,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "broker"
     ]
 },
-  "bbox": [-116.277475,43.583653,-116.277475,43.583653],
+  "bbox": [
+    -116.277475,
+    43.583653,
+    -116.277475,
+    43.583653
+],
   "geometry": {"coordinates":[-116.277475,43.583653],"type":"Point"}
 }

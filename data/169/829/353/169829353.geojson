@@ -2,13 +2,14 @@
   "id": 169829353,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.343306,43.595107,-116.343306,43.595107",
     "geom:latitude":43.595107,
     "geom:longitude":-116.343306,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1005 Rolling Hills Dr",
     "sg:city":"Meridian",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":169829353,
-    "wof:lastmodified":1449035743,
+    "wof:lastmodified":1466488588,
     "wof:name":"Stockdale Tree Care",
     "wof:parent_id":85805083,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "tree"
     ]
 },
-  "bbox": [-116.343306,43.595107,-116.343306,43.595107],
+  "bbox": [
+    -116.343306,
+    43.595107,
+    -116.343306,
+    43.595107
+],
   "geometry": {"coordinates":[-116.343306,43.595107],"type":"Point"}
 }

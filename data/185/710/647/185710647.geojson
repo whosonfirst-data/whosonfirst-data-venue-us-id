@@ -2,13 +2,14 @@
   "id": 185710647,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.686789,43.663533,-116.686789,43.663533",
     "geom:latitude":43.663533,
     "geom:longitude":-116.686789,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1001 Blaine St",
     "sg:city":"Caldwell",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":185710647,
-    "wof:lastmodified":1449006694,
+    "wof:lastmodified":1466487608,
     "wof:name":"David Kerrick & Assoc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "attorney"
     ]
 },
-  "bbox": [-116.686789,43.663533,-116.686789,43.663533],
+  "bbox": [
+    -116.686789,
+    43.663533,
+    -116.686789,
+    43.663533
+],
   "geometry": {"coordinates":[-116.686789,43.663533],"type":"Point"}
 }

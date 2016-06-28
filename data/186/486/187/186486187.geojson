@@ -2,13 +2,14 @@
   "id": 186486187,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.822286,43.974619,-116.822286,43.974619",
     "geom:latitude":43.974619,
     "geom:longitude":-116.822286,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"112 W Idaho St",
     "sg:city":"New Plymouth",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":186486187,
-    "wof:lastmodified":1449051875,
+    "wof:lastmodified":1466488906,
     "wof:name":"Todd's Burger Den",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-116.822286,43.974619,-116.822286,43.974619],
-  "geometry": {"coordinates":[-116.822286,43.974619],"type":"Point"}
+  "bbox": [
+    -116.822286,
+    43.974619,
+    -116.822286,
+    43.974619
+],
+  "geometry": {"coordinates":[-116.82228600000001,43.974619],"type":"Point"}
 }

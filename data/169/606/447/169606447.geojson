@@ -2,13 +2,14 @@
   "id": 169606447,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-113.890264,45.174201,-113.890264,45.174201",
     "geom:latitude":45.174201,
     "geom:longitude":-113.890264,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"901 Main St",
     "sg:city":"Salmon",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":169606447,
-    "wof:lastmodified":1449033202,
+    "wof:lastmodified":1466486904,
     "wof:name":"Lehmi County Crisis Interventn",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "intervention"
     ]
 },
-  "bbox": [-113.890264,45.174201,-113.890264,45.174201],
+  "bbox": [
+    -113.890264,
+    45.174201,
+    -113.890264,
+    45.174201
+],
   "geometry": {"coordinates":[-113.890264,45.174201],"type":"Point"}
 }

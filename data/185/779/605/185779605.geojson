@@ -2,13 +2,14 @@
   "id": 185779605,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.35578,43.660846,-116.35578,43.660846",
     "geom:latitude":43.660846,
     "geom:longitude":-116.35578,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"13864 W Daimler Ct",
     "sg:city":"Boise",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":185779605,
-    "wof:lastmodified":1449006857,
+    "wof:lastmodified":1466488361,
     "wof:name":"Death By Murder Inc",
     "wof:parent_id":85876351,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-116.35578,43.660846,-116.35578,43.660846],
+  "bbox": [
+    -116.35578,
+    43.660846,
+    -116.35578,
+    43.660846
+],
   "geometry": {"coordinates":[-116.35578,43.660846],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169755083,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.524495,48.313709,-116.524495,48.313709",
     "geom:latitude":48.313709,
     "geom:longitude":-116.524495,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"110 McGhee Rd",
     "sg:city":"Sandpoint",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":169755083,
-    "wof:lastmodified":1449033614,
+    "wof:lastmodified":1466488432,
     "wof:name":"Carefree Gutters",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "gutter"
     ]
 },
-  "bbox": [-116.524495,48.313709,-116.524495,48.313709],
+  "bbox": [
+    -116.524495,
+    48.313709,
+    -116.524495,
+    48.313709
+],
   "geometry": {"coordinates":[-116.524495,48.313709],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186514881,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.223984,43.626172,-116.223984,43.626172",
     "geom:latitude":43.626172,
     "geom:longitude":-116.223984,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"515 N 27th St",
     "sg:city":"Boise",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186514881,
-    "wof:lastmodified":1449051723,
+    "wof:lastmodified":1466488923,
     "wof:name":"Richardson & O'Leary",
     "wof:parent_id":85876355,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "attorney"
     ]
 },
-  "bbox": [-116.223984,43.626172,-116.223984,43.626172],
+  "bbox": [
+    -116.223984,
+    43.626172,
+    -116.223984,
+    43.626172
+],
   "geometry": {"coordinates":[-116.223984,43.626172],"type":"Point"}
 }

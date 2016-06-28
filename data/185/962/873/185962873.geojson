@@ -2,13 +2,14 @@
   "id": 185962873,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.557105,48.308163,-116.557105,48.308163",
     "geom:latitude":48.308163,
     "geom:longitude":-116.557105,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4001 N Boyer Ave",
     "sg:city":"Sandpoint",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":185962873,
-    "wof:lastmodified":1449007562,
+    "wof:lastmodified":1466488697,
     "wof:name":"Bonner Cnty Community Police",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "sheriff"
     ]
 },
-  "bbox": [-116.557105,48.308163,-116.557105,48.308163],
-  "geometry": {"coordinates":[-116.557105,48.308163],"type":"Point"}
+  "bbox": [
+    -116.557105,
+    48.308163,
+    -116.557105,
+    48.308163
+],
+  "geometry": {"coordinates":[-116.55710500000001,48.308163],"type":"Point"}
 }

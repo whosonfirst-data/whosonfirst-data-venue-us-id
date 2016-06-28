@@ -2,13 +2,14 @@
   "id": 169778695,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.814654,43.972598,-116.814654,43.972598",
     "geom:latitude":43.972598,
     "geom:longitude":-116.814654,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"310 East Blvd",
     "sg:city":"Payette",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":169778695,
-    "wof:lastmodified":1449032750,
+    "wof:lastmodified":1466488468,
     "wof:name":"Payette County Rodeo Assn",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "rodeo"
     ]
 },
-  "bbox": [-116.814654,43.972598,-116.814654,43.972598],
+  "bbox": [
+    -116.814654,
+    43.972598,
+    -116.814654,
+    43.972598
+],
   "geometry": {"coordinates":[-116.814654,43.972598],"type":"Point"}
 }

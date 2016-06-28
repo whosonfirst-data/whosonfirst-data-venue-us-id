@@ -2,13 +2,14 @@
   "id": 186326833,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.812849,47.771115,-116.812849,47.771115",
     "geom:latitude":47.771115,
     "geom:longitude":-116.812849,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"11100 N Airport Rd",
     "sg:city":"Hayden",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":186326833,
-    "wof:lastmodified":1449051516,
+    "wof:lastmodified":1466488642,
     "wof:name":"Maxpoint Software LLC",
     "wof:parent_id":85821457,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "software"
     ]
 },
-  "bbox": [-116.812849,47.771115,-116.812849,47.771115],
+  "bbox": [
+    -116.812849,
+    47.771115,
+    -116.812849,
+    47.771115
+],
   "geometry": {"coordinates":[-116.812849,47.771115],"type":"Point"}
 }

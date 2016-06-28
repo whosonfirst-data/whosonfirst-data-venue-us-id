@@ -2,13 +2,14 @@
   "id": 186164753,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.759809,47.682504,-116.759809,47.682504",
     "geom:latitude":47.682504,
     "geom:longitude":-116.759809,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1614 E Hastings Ave",
     "sg:city":"Coeur D Alene",
     "sg:classifiers":[
@@ -55,16 +56,22 @@
         }
     ],
     "wof:id":186164753,
-    "wof:lastmodified":1449050570,
+    "wof:lastmodified":1466488342,
     "wof:name":"Angel Academy Daycare Preschoo",
     "wof:parent_id":85821457,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "day"
     ]
 },
-  "bbox": [-116.759809,47.682504,-116.759809,47.682504],
+  "bbox": [
+    -116.759809,
+    47.682504,
+    -116.759809,
+    47.682504
+],
   "geometry": {"coordinates":[-116.759809,47.682504],"type":"Point"}
 }

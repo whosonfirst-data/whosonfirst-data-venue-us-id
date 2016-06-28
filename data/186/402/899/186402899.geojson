@@ -2,13 +2,14 @@
   "id": 186402899,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.954456,47.717565,-116.954456,47.717565",
     "geom:latitude":47.717565,
     "geom:longitude":-116.954456,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"325 Montgomery Pl",
     "sg:city":"Post Falls",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":186402899,
-    "wof:lastmodified":1449051246,
+    "wof:lastmodified":1466488848,
     "wof:name":"Beef N Brew Sports Pub",
     "wof:parent_id":85833263,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-116.954456,47.717565,-116.954456,47.717565],
-  "geometry": {"coordinates":[-116.954456,47.717565],"type":"Point"}
+  "bbox": [
+    -116.954456,
+    47.717565,
+    -116.954456,
+    47.717565
+],
+  "geometry": {"coordinates":[-116.95445599999999,47.717565],"type":"Point"}
 }

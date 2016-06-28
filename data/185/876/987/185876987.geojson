@@ -2,13 +2,14 @@
   "id": 185876987,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.497491,43.8757,-116.497491,43.8757",
     "geom:latitude":43.8757,
     "geom:longitude":-116.497491,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"228 E Main St",
     "sg:city":"Emmett",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":185876987,
-    "wof:lastmodified":1449006941,
+    "wof:lastmodified":1466488448,
     "wof:name":"Potter Funeral Chapel",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "director"
     ]
 },
-  "bbox": [-116.497491,43.8757,-116.497491,43.8757],
+  "bbox": [
+    -116.497491,
+    43.8757,
+    -116.497491,
+    43.8757
+],
   "geometry": {"coordinates":[-116.497491,43.8757],"type":"Point"}
 }

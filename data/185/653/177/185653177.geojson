@@ -2,13 +2,14 @@
   "id": 185653177,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.680902,43.119249,-115.680902,43.119249",
     "geom:latitude":43.119249,
     "geom:longitude":-115.680902,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1490 E 12th S",
     "sg:city":"Mountain Home",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":185653177,
-    "wof:lastmodified":1449006723,
+    "wof:lastmodified":1466487165,
     "wof:name":"Loosli's Quality Auto Repair",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -71,6 +73,11 @@
         "operates"
     ]
 },
-  "bbox": [-115.680902,43.119249,-115.680902,43.119249],
+  "bbox": [
+    -115.680902,
+    43.119249,
+    -115.680902,
+    43.119249
+],
   "geometry": {"coordinates":[-115.680902,43.119249],"type":"Point"}
 }

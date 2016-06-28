@@ -2,13 +2,14 @@
   "id": 186498581,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.040155,43.492421,-112.040155,43.492421",
     "geom:latitude":43.492421,
     "geom:longitude":-112.040155,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"368 A St",
     "sg:city":"Idaho Falls",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":186498581,
-    "wof:lastmodified":1449052355,
+    "wof:lastmodified":1466488912,
     "wof:name":"Sunrise Travel",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "bureau"
     ]
 },
-  "bbox": [-112.040155,43.492421,-112.040155,43.492421],
+  "bbox": [
+    -112.040155,
+    43.492421,
+    -112.040155,
+    43.492421
+],
   "geometry": {"coordinates":[-112.040155,43.492421],"type":"Point"}
 }

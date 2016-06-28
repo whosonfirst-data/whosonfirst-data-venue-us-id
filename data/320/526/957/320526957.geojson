@@ -2,13 +2,14 @@
   "id": 320526957,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.559551,46.443031,-116.559551,46.443031",
     "geom:latitude":46.443031,
     "geom:longitude":-116.559551,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"37493 Kettenbach Grade",
     "sg:city":"Culdesac",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":320526957,
-    "wof:lastmodified":1449012416,
+    "wof:lastmodified":1466487398,
     "wof:name":"New Perce Road Dept Fax",
     "wof:parent_id":85837769,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "state"
     ]
 },
-  "bbox": [-116.559551,46.443031,-116.559551,46.443031],
+  "bbox": [
+    -116.559551,
+    46.443031,
+    -116.559551,
+    46.443031
+],
   "geometry": {"coordinates":[-116.559551,46.443031],"type":"Point"}
 }

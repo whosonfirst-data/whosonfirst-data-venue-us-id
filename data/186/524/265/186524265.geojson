@@ -2,13 +2,14 @@
   "id": 186524265,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.257041,43.603394,-116.257041,43.603394",
     "geom:latitude":43.603394,
     "geom:longitude":-116.257041,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6025 Franklin Rd",
     "sg:city":"Boise",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":186524265,
-    "wof:lastmodified":1449050226,
+    "wof:lastmodified":1466488928,
     "wof:name":"Karate For Kids",
     "wof:parent_id":85806577,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "instruction"
     ]
 },
-  "bbox": [-116.257041,43.603394,-116.257041,43.603394],
+  "bbox": [
+    -116.257041,
+    43.603394,
+    -116.257041,
+    43.603394
+],
   "geometry": {"coordinates":[-116.257041,43.603394],"type":"Point"}
 }

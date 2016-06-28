@@ -2,13 +2,14 @@
   "id": 186064233,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.003673,43.511133,-112.003673,43.511133",
     "geom:latitude":43.511133,
     "geom:longitude":-112.003673,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1320 E Lincoln Rd",
     "sg:city":"Idaho Falls",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":186064233,
-    "wof:lastmodified":1449051337,
+    "wof:lastmodified":1466487475,
     "wof:name":"J D Hobbies",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "supply"
     ]
 },
-  "bbox": [-112.003673,43.511133,-112.003673,43.511133],
-  "geometry": {"coordinates":[-112.003673,43.511133],"type":"Point"}
+  "bbox": [
+    -112.003673,
+    43.511133,
+    -112.003673,
+    43.511133
+],
+  "geometry": {"coordinates":[-112.00367300000001,43.511133],"type":"Point"}
 }

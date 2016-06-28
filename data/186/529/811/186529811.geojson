@@ -2,13 +2,14 @@
   "id": 186529811,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.314273,43.633769,-116.314273,43.633769",
     "geom:latitude":43.633769,
     "geom:longitude":-116.314273,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3040 N Five Mile Rd",
     "sg:city":"Boise",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":186529811,
-    "wof:lastmodified":1449051546,
+    "wof:lastmodified":1466488872,
     "wof:name":"Chiropractic Biophysics-Idaho",
     "wof:parent_id":85876357,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-116.314273,43.633769,-116.314273,43.633769],
+  "bbox": [
+    -116.314273,
+    43.633769,
+    -116.314273,
+    43.633769
+],
   "geometry": {"coordinates":[-116.314273,43.633769],"type":"Point"}
 }

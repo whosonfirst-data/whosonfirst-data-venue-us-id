@@ -2,13 +2,14 @@
   "id": 186375359,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.046835,44.520412,-116.046835,44.520412",
     "geom:latitude":44.520412,
     "geom:longitude":-116.046835,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"104 W Glen St",
     "sg:city":"Cascade",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":186375359,
-    "wof:lastmodified":1449050362,
+    "wof:lastmodified":1466488764,
     "wof:name":"Valley Calvary Fellowship",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-116.046835,44.520412,-116.046835,44.520412],
+  "bbox": [
+    -116.046835,
+    44.520412,
+    -116.046835,
+    44.520412
+],
   "geometry": {"coordinates":[-116.046835,44.520412],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186046949,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.000394,43.720707,-112.000394,43.720707",
     "geom:latitude":43.720707,
     "geom:longitude":-112.000394,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3509 E Menan Lorenzo Hwy",
     "sg:city":"Menan",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":186046949,
-    "wof:lastmodified":1449051865,
+    "wof:lastmodified":1466487280,
     "wof:name":"US Post Office",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.000394,43.720707,-112.000394,43.720707],
+  "bbox": [
+    -112.000394,
+    43.720707,
+    -112.000394,
+    43.720707
+],
   "geometry": {"coordinates":[-112.000394,43.720707],"type":"Point"}
 }

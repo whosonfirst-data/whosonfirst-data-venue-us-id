@@ -2,13 +2,14 @@
   "id": 186080335,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.063398,43.452239,-112.063398,43.452239",
     "geom:latitude":43.452239,
     "geom:longitude":-112.063398,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5005 S 15th W",
     "sg:city":"Idaho Falls",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":186080335,
-    "wof:lastmodified":1449052965,
+    "wof:lastmodified":1466487663,
     "wof:name":"G Modelo Agricultra",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "malt"
     ]
 },
-  "bbox": [-112.063398,43.452239,-112.063398,43.452239],
-  "geometry": {"coordinates":[-112.063398,43.452239],"type":"Point"}
+  "bbox": [
+    -112.063398,
+    43.452239,
+    -112.063398,
+    43.452239
+],
+  "geometry": {"coordinates":[-112.06339800000001,43.452239],"type":"Point"}
 }

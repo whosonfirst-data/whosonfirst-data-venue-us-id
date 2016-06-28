@@ -2,13 +2,14 @@
   "id": 186153233,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.604229,42.564259,-114.604229,42.564259",
     "geom:latitude":42.564259,
     "geom:longitude":-114.604229,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"902 Fair Ave",
     "sg:city":"Filer",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186153233,
-    "wof:lastmodified":1449052222,
+    "wof:lastmodified":1466488378,
     "wof:name":"Kevin's Auto Body & Paint",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "painting"
     ]
 },
-  "bbox": [-114.604229,42.564259,-114.604229,42.564259],
+  "bbox": [
+    -114.604229,
+    42.564259,
+    -114.604229,
+    42.564259
+],
   "geometry": {"coordinates":[-114.604229,42.564259],"type":"Point"}
 }

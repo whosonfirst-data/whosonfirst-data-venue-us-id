@@ -2,13 +2,14 @@
   "id": 320551531,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.951587,46.918292,-116.951587,46.918292",
     "geom:latitude":46.918292,
     "geom:longitude":-116.951587,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5537 Highway 95",
     "sg:city":"Potlatch",
     "sg:classifiers":[
@@ -65,10 +66,11 @@
         }
     ],
     "wof:id":320551531,
-    "wof:lastmodified":1449012010,
+    "wof:lastmodified":1466487059,
     "wof:name":"Idaho Rigging Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -82,6 +84,11 @@
         "saw"
     ]
 },
-  "bbox": [-116.951587,46.918292,-116.951587,46.918292],
+  "bbox": [
+    -116.951587,
+    46.918292,
+    -116.951587,
+    46.918292
+],
   "geometry": {"coordinates":[-116.951587,46.918292],"type":"Point"}
 }

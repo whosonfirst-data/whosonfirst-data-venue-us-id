@@ -2,13 +2,14 @@
   "id": 185924977,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.969017,46.411209,-116.969017,46.411209",
     "geom:latitude":46.411209,
     "geom:longitude":-116.969017,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4290 Lapwai Rd",
     "sg:city":"Lewiston",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":185924977,
-    "wof:lastmodified":1449007056,
+    "wof:lastmodified":1466488612,
     "wof:name":"Doug Skelton Industries",
     "wof:parent_id":85837769,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "welding"
     ]
 },
-  "bbox": [-116.969017,46.411209,-116.969017,46.411209],
-  "geometry": {"coordinates":[-116.969017,46.411209],"type":"Point"}
+  "bbox": [
+    -116.969017,
+    46.411209,
+    -116.969017,
+    46.411209
+],
+  "geometry": {"coordinates":[-116.96901699999999,46.411209],"type":"Point"}
 }

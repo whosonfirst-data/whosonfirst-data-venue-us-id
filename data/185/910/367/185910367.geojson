@@ -2,13 +2,14 @@
   "id": 185910367,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.593994,43.590233,-116.593994,43.590233",
     "geom:latitude":43.590233,
     "geom:longitude":-116.593994,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"513 N Grove Way",
     "sg:city":"Nampa",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":185910367,
-    "wof:lastmodified":1449007275,
+    "wof:lastmodified":1466488583,
     "wof:name":"H C D Inc",
     "wof:parent_id":85827787,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "business"
     ]
 },
-  "bbox": [-116.593994,43.590233,-116.593994,43.590233],
+  "bbox": [
+    -116.593994,
+    43.590233,
+    -116.593994,
+    43.590233
+],
   "geometry": {"coordinates":[-116.593994,43.590233],"type":"Point"}
 }

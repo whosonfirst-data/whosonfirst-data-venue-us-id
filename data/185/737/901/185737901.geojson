@@ -2,13 +2,14 @@
   "id": 185737901,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.478711,43.841311,-112.478711,43.841311",
     "geom:latitude":43.841311,
     "geom:longitude":-112.478711,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1088 E 1500 N",
     "sg:city":"Terreton",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":185737901,
-    "wof:lastmodified":1449006979,
+    "wof:lastmodified":1466487824,
     "wof:name":"Arts & Crafts",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "mfg"
     ]
 },
-  "bbox": [-112.478711,43.841311,-112.478711,43.841311],
+  "bbox": [
+    -112.478711,
+    43.841311,
+    -112.478711,
+    43.841311
+],
   "geometry": {"coordinates":[-112.478711,43.841311],"type":"Point"}
 }

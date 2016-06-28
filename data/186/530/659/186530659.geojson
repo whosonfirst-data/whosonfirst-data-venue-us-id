@@ -2,13 +2,14 @@
   "id": 186530659,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.653419,43.633761,-116.653419,43.633761",
     "geom:latitude":43.633761,
     "geom:longitude":-116.653419,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3626 E Ustick Rd",
     "sg:city":"Caldwell",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186530659,
-    "wof:lastmodified":1449051801,
+    "wof:lastmodified":1466488876,
     "wof:name":"Centennial Children's Ctr",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "school"
     ]
 },
-  "bbox": [-116.653419,43.633761,-116.653419,43.633761],
+  "bbox": [
+    -116.653419,
+    43.633761,
+    -116.653419,
+    43.633761
+],
   "geometry": {"coordinates":[-116.653419,43.633761],"type":"Point"}
 }

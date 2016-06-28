@@ -2,13 +2,14 @@
   "id": 186156393,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.78543,47.676923,-116.78543,47.676923",
     "geom:latitude":47.676923,
     "geom:longitude":-116.78543,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"105 E Wallace Ave",
     "sg:city":"Coeur D Alene",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":186156393,
-    "wof:lastmodified":1449050941,
+    "wof:lastmodified":1466488329,
     "wof:name":"Roosevelt Inn Bed & Breakfast",
     "wof:parent_id":85821457,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "bed"
     ]
 },
-  "bbox": [-116.78543,47.676923,-116.78543,47.676923],
-  "geometry": {"coordinates":[-116.78543,47.676923],"type":"Point"}
+  "bbox": [
+    -116.78543,
+    47.676923,
+    -116.78543,
+    47.676923
+],
+  "geometry": {"coordinates":[-116.78543000000001,47.676923],"type":"Point"}
 }

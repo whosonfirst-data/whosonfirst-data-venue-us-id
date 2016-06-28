@@ -2,13 +2,14 @@
   "id": 186478633,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.958694,47.722112,-116.958694,47.722112",
     "geom:latitude":47.722112,
     "geom:longitude":-116.958694,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1418 N Chase Rd",
     "sg:city":"Post Falls",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":186478633,
-    "wof:lastmodified":1449050357,
+    "wof:lastmodified":1466488902,
     "wof:name":"Tanner's Acoustical Ceiling",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "contractor"
     ]
 },
-  "bbox": [-116.958694,47.722112,-116.958694,47.722112],
-  "geometry": {"coordinates":[-116.958694,47.722112],"type":"Point"}
+  "bbox": [
+    -116.958694,
+    47.722112,
+    -116.958694,
+    47.722112
+],
+  "geometry": {"coordinates":[-116.95869399999999,47.722112],"type":"Point"}
 }

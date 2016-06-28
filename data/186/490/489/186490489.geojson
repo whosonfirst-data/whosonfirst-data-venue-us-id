@@ -2,13 +2,14 @@
   "id": 186490489,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.959553,44.256971,-116.959553,44.256971",
     "geom:latitude":44.256971,
     "geom:longitude":-116.959553,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1450 E 6th St",
     "sg:city":"Weiser",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":186490489,
-    "wof:lastmodified":1449052748,
+    "wof:lastmodified":1466488908,
     "wof:name":"Wolverine Mini Storage",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "storage"
     ]
 },
-  "bbox": [-116.959553,44.256971,-116.959553,44.256971],
+  "bbox": [
+    -116.959553,
+    44.256971,
+    -116.959553,
+    44.256971
+],
   "geometry": {"coordinates":[-116.959553,44.256971],"type":"Point"}
 }

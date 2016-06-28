@@ -2,13 +2,14 @@
   "id": 186010147,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.119986,45.926553,-116.119986,45.926553",
     "geom:latitude":45.926553,
     "geom:longitude":-116.119986,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"101 W North St",
     "sg:city":"Grangeville",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":186010147,
-    "wof:lastmodified":1449052039,
+    "wof:lastmodified":1466486857,
     "wof:name":"Camas Lanes",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "center"
     ]
 },
-  "bbox": [-116.119986,45.926553,-116.119986,45.926553],
+  "bbox": [
+    -116.119986,
+    45.926553,
+    -116.119986,
+    45.926553
+],
   "geometry": {"coordinates":[-116.119986,45.926553],"type":"Point"}
 }

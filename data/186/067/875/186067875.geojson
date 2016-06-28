@@ -2,13 +2,14 @@
   "id": 186067875,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.773629,47.678206,-116.773629,47.678206",
     "geom:latitude":47.678206,
     "geom:longitude":-116.773629,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"916 E Foster Ave",
     "sg:city":"Coeur D Alene",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":186067875,
-    "wof:lastmodified":1449050430,
+    "wof:lastmodified":1466487517,
     "wof:name":"Pfl Ventures LLP",
     "wof:parent_id":85821457,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-116.773629,47.678206,-116.773629,47.678206],
+  "bbox": [
+    -116.773629,
+    47.678206,
+    -116.773629,
+    47.678206
+],
   "geometry": {"coordinates":[-116.773629,47.678206],"type":"Point"}
 }

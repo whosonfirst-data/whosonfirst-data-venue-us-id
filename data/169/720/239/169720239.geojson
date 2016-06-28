@@ -2,13 +2,14 @@
   "id": 169720239,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.163517,43.581243,-116.163517,43.581243",
     "geom:latitude":43.581243,
     "geom:longitude":-116.163517,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2407 S Mariner Way",
     "sg:city":"Boise",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":169720239,
-    "wof:lastmodified":1449033480,
+    "wof:lastmodified":1466488193,
     "wof:name":"Pillar To Post",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-116.163517,43.581243,-116.163517,43.581243],
+  "bbox": [
+    -116.163517,
+    43.581243,
+    -116.163517,
+    43.581243
+],
   "geometry": {"coordinates":[-116.163517,43.581243],"type":"Point"}
 }

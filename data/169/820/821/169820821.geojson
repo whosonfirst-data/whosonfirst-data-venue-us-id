@@ -2,13 +2,14 @@
   "id": 169820821,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.333576,43.697191,-116.333576,43.697191",
     "geom:latitude":43.697191,
     "geom:longitude":-116.333576,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"262 N Edgewood Ln",
     "sg:city":"Eagle",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":169820821,
-    "wof:lastmodified":1449034387,
+    "wof:lastmodified":1466488550,
     "wof:name":"Idaho Parrot Ranch",
     "wof:parent_id":85876315,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "general"
     ]
 },
-  "bbox": [-116.333576,43.697191,-116.333576,43.697191],
-  "geometry": {"coordinates":[-116.333576,43.697191],"type":"Point"}
+  "bbox": [
+    -116.333576,
+    43.697191,
+    -116.333576,
+    43.697191
+],
+  "geometry": {"coordinates":[-116.33357599999999,43.697191],"type":"Point"}
 }

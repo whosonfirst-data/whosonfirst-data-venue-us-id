@@ -2,13 +2,14 @@
   "id": 320550531,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-117.001384,46.728928,-117.001384,46.728928",
     "geom:latitude":46.728928,
     "geom:longitude":-117.001384,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"719 S Main St",
     "sg:city":"Moscow",
     "sg:classifiers":[
@@ -55,10 +56,11 @@
         }
     ],
     "wof:id":320550531,
-    "wof:lastmodified":1449013287,
+    "wof:lastmodified":1466487044,
     "wof:name":"Geheb, Karen Md",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -69,6 +71,11 @@
         "medicine"
     ]
 },
-  "bbox": [-117.001384,46.728928,-117.001384,46.728928],
+  "bbox": [
+    -117.001384,
+    46.728928,
+    -117.001384,
+    46.728928
+],
   "geometry": {"coordinates":[-117.001384,46.728928],"type":"Point"}
 }

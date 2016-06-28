@@ -2,13 +2,14 @@
   "id": 320529859,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.358101,43.695141,-116.358101,43.695141",
     "geom:latitude":43.695141,
     "geom:longitude":-116.358101,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"101 Eagle Glen Ln Ste A",
     "sg:city":"Eagle",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":320529859,
-    "wof:lastmodified":1449012888,
+    "wof:lastmodified":1466487837,
     "wof:name":"Barry Peters, Attorney At Law",
     "wof:parent_id":85876351,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -66,6 +68,11 @@
         "estate"
     ]
 },
-  "bbox": [-116.358101,43.695141,-116.358101,43.695141],
+  "bbox": [
+    -116.358101,
+    43.695141,
+    -116.358101,
+    43.695141
+],
   "geometry": {"coordinates":[-116.358101,43.695141],"type":"Point"}
 }

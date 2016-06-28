@@ -2,13 +2,14 @@
   "id": 169838135,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.780738,47.682444,-116.780738,47.682444",
     "geom:latitude":47.682444,
     "geom:longitude":-116.780738,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"926 N 4th St",
     "sg:city":"Coeur D Alene",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":169838135,
-    "wof:lastmodified":1449033083,
+    "wof:lastmodified":1466488598,
     "wof:name":"Pawn 1",
     "wof:parent_id":85821457,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "pawnbroker"
     ]
 },
-  "bbox": [-116.780738,47.682444,-116.780738,47.682444],
+  "bbox": [
+    -116.780738,
+    47.682444,
+    -116.780738,
+    47.682444
+],
   "geometry": {"coordinates":[-116.780738,47.682444],"type":"Point"}
 }

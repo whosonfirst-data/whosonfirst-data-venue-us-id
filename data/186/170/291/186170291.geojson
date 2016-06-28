@@ -2,13 +2,14 @@
   "id": 186170291,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.775121,47.700747,-116.775121,47.700747",
     "geom:latitude":47.700747,
     "geom:longitude":-116.775121,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2701 N 7th St",
     "sg:city":"Coeur D Alene",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":186170291,
-    "wof:lastmodified":1449050489,
+    "wof:lastmodified":1466488512,
     "wof:name":"Coeur D'Alene Open Bible",
     "wof:parent_id":85821457,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-116.775121,47.700747,-116.775121,47.700747],
+  "bbox": [
+    -116.775121,
+    47.700747,
+    -116.775121,
+    47.700747
+],
   "geometry": {"coordinates":[-116.775121,47.700747],"type":"Point"}
 }

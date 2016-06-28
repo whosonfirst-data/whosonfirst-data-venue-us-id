@@ -2,13 +2,14 @@
   "id": 185833913,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.808152,47.865273,-116.808152,47.865273",
     "geom:latitude":47.865273,
     "geom:longitude":-116.808152,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"21550 N Ramsey Rd",
     "sg:city":"Rathdrum",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":185833913,
-    "wof:lastmodified":1449006804,
+    "wof:lastmodified":1466488423,
     "wof:name":"Curtis E Electric",
     "wof:parent_id":85821457,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "contractor"
     ]
 },
-  "bbox": [-116.808152,47.865273,-116.808152,47.865273],
-  "geometry": {"coordinates":[-116.808152,47.865273],"type":"Point"}
+  "bbox": [
+    -116.808152,
+    47.865273,
+    -116.808152,
+    47.865273
+],
+  "geometry": {"coordinates":[-116.80815200000001,47.865273],"type":"Point"}
 }

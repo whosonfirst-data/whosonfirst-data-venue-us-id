@@ -2,13 +2,14 @@
   "id": 185860937,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.553405,48.279153,-116.553405,48.279153",
     "geom:latitude":48.279153,
     "geom:longitude":-116.553405,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"604 N 5th Ave",
     "sg:city":"Sandpoint",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":185860937,
-    "wof:lastmodified":1449007327,
+    "wof:lastmodified":1466488568,
     "wof:name":"Courtesy Home Furnishings",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-116.553405,48.279153,-116.553405,48.279153],
+  "bbox": [
+    -116.553405,
+    48.279153,
+    -116.553405,
+    48.279153
+],
   "geometry": {"coordinates":[-116.553405,48.279153],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186545383,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.314227,43.520154,-114.314227,43.520154",
     "geom:latitude":43.520154,
     "geom:longitude":-114.314227,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"180 S 1st Ave",
     "sg:city":"Ketchum",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":186545383,
-    "wof:lastmodified":1449051038,
+    "wof:lastmodified":1466488933,
     "wof:name":"Physical Therapy Plus Of Id",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "physical"
     ]
 },
-  "bbox": [-114.314227,43.520154,-114.314227,43.520154],
+  "bbox": [
+    -114.314227,
+    43.520154,
+    -114.314227,
+    43.520154
+],
   "geometry": {"coordinates":[-114.314227,43.520154],"type":"Point"}
 }

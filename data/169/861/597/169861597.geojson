@@ -2,13 +2,14 @@
   "id": 169861597,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.944311,43.963877,-116.944311,43.963877",
     "geom:latitude":43.963877,
     "geom:longitude":-116.944311,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5540 Finley Rd",
     "sg:city":"Fruitland",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":169861597,
-    "wof:lastmodified":1449035945,
+    "wof:lastmodified":1466488711,
     "wof:name":"Fruitland Juice Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "fruit"
     ]
 },
-  "bbox": [-116.944311,43.963877,-116.944311,43.963877],
+  "bbox": [
+    -116.944311,
+    43.963877,
+    -116.944311,
+    43.963877
+],
   "geometry": {"coordinates":[-116.944311,43.963877],"type":"Point"}
 }

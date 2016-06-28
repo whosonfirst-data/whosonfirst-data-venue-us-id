@@ -2,13 +2,14 @@
   "id": 186274699,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.786808,47.738167,-116.786808,47.738167",
     "geom:latitude":47.738167,
     "geom:longitude":-116.786808,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7315 N Government Way",
     "sg:city":"Coeur D Alene",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":186274699,
-    "wof:lastmodified":1449050593,
+    "wof:lastmodified":1466488638,
     "wof:name":"Kootenai County Coroner",
     "wof:parent_id":85821457,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "county"
     ]
 },
-  "bbox": [-116.786808,47.738167,-116.786808,47.738167],
-  "geometry": {"coordinates":[-116.786808,47.738167],"type":"Point"}
+  "bbox": [
+    -116.786808,
+    47.738167,
+    -116.786808,
+    47.738167
+],
+  "geometry": {"coordinates":[-116.78680799999999,47.738167],"type":"Point"}
 }

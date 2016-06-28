@@ -2,13 +2,14 @@
   "id": 169663529,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.350008,43.662985,-116.350008,43.662985",
     "geom:latitude":43.662985,
     "geom:longitude":-116.350008,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3401 Chinden Blvd",
     "sg:city":"Garden Valley",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":169663529,
-    "wof:lastmodified":1449035105,
+    "wof:lastmodified":1466487789,
     "wof:name":"34th St Deli",
     "wof:parent_id":85876351,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "scooter"
     ]
 },
-  "bbox": [-116.350008,43.662985,-116.350008,43.662985],
+  "bbox": [
+    -116.350008,
+    43.662985,
+    -116.350008,
+    43.662985
+],
   "geometry": {"coordinates":[-116.350008,43.662985],"type":"Point"}
 }

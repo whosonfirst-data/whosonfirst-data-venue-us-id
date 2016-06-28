@@ -2,13 +2,14 @@
   "id": 169599257,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.337951,43.660174,-116.337951,43.660174",
     "geom:latitude":43.660174,
     "geom:longitude":-116.337951,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"12501 W Explorer Dr",
     "sg:city":"Boise",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":169599257,
-    "wof:lastmodified":1449034207,
+    "wof:lastmodified":1466488305,
     "wof:name":"Danka",
     "wof:parent_id":85876351,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "copying"
     ]
 },
-  "bbox": [-116.337951,43.660174,-116.337951,43.660174],
+  "bbox": [
+    -116.337951,
+    43.660174,
+    -116.337951,
+    43.660174
+],
   "geometry": {"coordinates":[-116.337951,43.660174],"type":"Point"}
 }

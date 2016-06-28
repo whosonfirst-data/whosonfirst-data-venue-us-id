@@ -2,13 +2,14 @@
   "id": 186492545,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.805746,47.745891,-116.805746,47.745891",
     "geom:latitude":47.745891,
     "geom:longitude":-116.805746,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1134 W Tanager Ave",
     "sg:city":"Hayden",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":186492545,
-    "wof:lastmodified":1449050249,
+    "wof:lastmodified":1466488909,
     "wof:name":"Aasist Insurance",
     "wof:parent_id":85821457,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-116.805746,47.745891,-116.805746,47.745891],
+  "bbox": [
+    -116.805746,
+    47.745891,
+    -116.805746,
+    47.745891
+],
   "geometry": {"coordinates":[-116.805746,47.745891],"type":"Point"}
 }

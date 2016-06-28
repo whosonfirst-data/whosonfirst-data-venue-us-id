@@ -2,13 +2,14 @@
   "id": 186425801,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.697283,42.771498,-114.697283,42.771498",
     "geom:latitude":42.771498,
     "geom:longitude":-114.697283,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"435 E Ave D",
     "sg:city":"Wendell",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":186425801,
-    "wof:lastmodified":1449051341,
+    "wof:lastmodified":1466488806,
     "wof:name":"Brent Corp",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "apartment"
     ]
 },
-  "bbox": [-114.697283,42.771498,-114.697283,42.771498],
+  "bbox": [
+    -114.697283,
+    42.771498,
+    -114.697283,
+    42.771498
+],
   "geometry": {"coordinates":[-114.697283,42.771498],"type":"Point"}
 }

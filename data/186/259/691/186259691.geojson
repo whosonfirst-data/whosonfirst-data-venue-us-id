@@ -2,13 +2,14 @@
   "id": 186259691,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.294109,43.557791,-116.294109,43.557791",
     "geom:latitude":43.557791,
     "geom:longitude":-116.294109,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4740 S Maple Grove Rd",
     "sg:city":"Boise",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":186259691,
-    "wof:lastmodified":1449051012,
+    "wof:lastmodified":1466488516,
     "wof:name":"Jeff Richlin",
     "wof:parent_id":85876331,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-116.294109,43.557791,-116.294109,43.557791],
-  "geometry": {"coordinates":[-116.294109,43.557791],"type":"Point"}
+  "bbox": [
+    -116.294109,
+    43.557791,
+    -116.294109,
+    43.557791
+],
+  "geometry": {"coordinates":[-116.29410900000001,43.557791],"type":"Point"}
 }

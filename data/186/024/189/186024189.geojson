@@ -2,13 +2,14 @@
   "id": 186024189,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.303089,43.397236,-114.303089,43.397236",
     "geom:latitude":43.397236,
     "geom:longitude":-114.303089,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"400 Glendale Rd",
     "sg:city":"Bellevue",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":186024189,
-    "wof:lastmodified":1449051671,
+    "wof:lastmodified":1466487009,
     "wof:name":"Boulder Mountain Heating",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "contractor"
     ]
 },
-  "bbox": [-114.303089,43.397236,-114.303089,43.397236],
+  "bbox": [
+    -114.303089,
+    43.397236,
+    -114.303089,
+    43.397236
+],
   "geometry": {"coordinates":[-114.303089,43.397236],"type":"Point"}
 }

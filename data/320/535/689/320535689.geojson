@@ -2,13 +2,14 @@
   "id": 320535689,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.830858,43.778227,-116.830858,43.778227",
     "geom:latitude":43.778227,
     "geom:longitude":-116.830858,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"21968 Market Rd",
     "sg:city":"Parma",
     "sg:classifiers":[
@@ -55,10 +56,11 @@
         }
     ],
     "wof:id":320535689,
-    "wof:lastmodified":1449011934,
+    "wof:lastmodified":1466486837,
     "wof:name":"Murdock Fencing Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -68,6 +70,11 @@
         "contractor"
     ]
 },
-  "bbox": [-116.830858,43.778227,-116.830858,43.778227],
-  "geometry": {"coordinates":[-116.830858,43.778227],"type":"Point"}
+  "bbox": [
+    -116.830858,
+    43.778227,
+    -116.830858,
+    43.778227
+],
+  "geometry": {"coordinates":[-116.83085800000001,43.778227],"type":"Point"}
 }

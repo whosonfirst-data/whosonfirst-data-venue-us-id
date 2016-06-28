@@ -2,13 +2,14 @@
   "id": 186368667,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.980342,47.733464,-116.980342,47.733464",
     "geom:latitude":47.733464,
     "geom:longitude":-116.980342,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2722 N McGuire Rd",
     "sg:city":"Post Falls",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":186368667,
-    "wof:lastmodified":1449051020,
+    "wof:lastmodified":1466488762,
     "wof:name":"East Greenacres Irrigation",
     "wof:parent_id":85833263,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "sewage"
     ]
 },
-  "bbox": [-116.980342,47.733464,-116.980342,47.733464],
-  "geometry": {"coordinates":[-116.980342,47.733464],"type":"Point"}
+  "bbox": [
+    -116.980342,
+    47.733464,
+    -116.980342,
+    47.733464
+],
+  "geometry": {"coordinates":[-116.98034199999999,47.733464],"type":"Point"}
 }

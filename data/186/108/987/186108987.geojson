@@ -2,13 +2,14 @@
   "id": 186108987,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.446196,43.621709,-116.446196,43.621709",
     "geom:latitude":43.621709,
     "geom:longitude":-116.446196,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1865 Summertree Way",
     "sg:city":"Meridian",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":186108987,
-    "wof:lastmodified":1449050311,
+    "wof:lastmodified":1466487955,
     "wof:name":"J & S Marketing & Distributing",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "parts"
     ]
 },
-  "bbox": [-116.446196,43.621709,-116.446196,43.621709],
+  "bbox": [
+    -116.446196,
+    43.621709,
+    -116.446196,
+    43.621709
+],
   "geometry": {"coordinates":[-116.446196,43.621709],"type":"Point"}
 }

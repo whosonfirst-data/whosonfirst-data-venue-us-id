@@ -2,13 +2,14 @@
   "id": 169732253,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.615073,43.692936,-116.615073,43.692936",
     "geom:latitude":43.692936,
     "geom:longitude":-116.615073,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"11299 Bass Ln",
     "sg:city":"Caldwell",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":169732253,
-    "wof:lastmodified":1449036072,
+    "wof:lastmodified":1466488297,
     "wof:name":"Diamond Z Mfg",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-116.615073,43.692936,-116.615073,43.692936],
+  "bbox": [
+    -116.615073,
+    43.692936,
+    -116.615073,
+    43.692936
+],
   "geometry": {"coordinates":[-116.615073,43.692936],"type":"Point"}
 }

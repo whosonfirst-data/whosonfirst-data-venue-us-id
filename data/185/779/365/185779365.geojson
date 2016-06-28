@@ -2,13 +2,14 @@
   "id": 185779365,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.28412,43.628949,-116.28412,43.628949",
     "geom:latitude":43.628949,
     "geom:longitude":-116.28412,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2600 N Milwaukee St",
     "sg:city":"Boise",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":185779365,
-    "wof:lastmodified":1449006854,
+    "wof:lastmodified":1466488360,
     "wof:name":"Willow Park Assisted Living",
     "wof:parent_id":85841319,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "residential"
     ]
 },
-  "bbox": [-116.28412,43.628949,-116.28412,43.628949],
+  "bbox": [
+    -116.28412,
+    43.628949,
+    -116.28412,
+    43.628949
+],
   "geometry": {"coordinates":[-116.28412,43.628949],"type":"Point"}
 }

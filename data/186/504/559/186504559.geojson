@@ -2,13 +2,14 @@
   "id": 186504559,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.827829,47.701489,-116.827829,47.701489",
     "geom:latitude":47.701489,
     "geom:longitude":-116.827829,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3370 N Atlas Rd",
     "sg:city":"Coeur D Alene",
     "sg:classifiers":[
@@ -58,14 +59,20 @@
         }
     ],
     "wof:id":186504559,
-    "wof:lastmodified":1449050888,
+    "wof:lastmodified":1466488916,
     "wof:name":"Toms Diving Adventures",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-116.827829,47.701489,-116.827829,47.701489],
-  "geometry": {"coordinates":[-116.827829,47.701489],"type":"Point"}
+  "bbox": [
+    -116.827829,
+    47.701489,
+    -116.827829,
+    47.701489
+],
+  "geometry": {"coordinates":[-116.82782899999999,47.701489],"type":"Point"}
 }

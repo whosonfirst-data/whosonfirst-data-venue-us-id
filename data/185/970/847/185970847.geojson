@@ -2,13 +2,14 @@
   "id": 185970847,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.789537,47.7637,-116.789537,47.7637",
     "geom:latitude":47.7637,
     "geom:longitude":-116.789537,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10118 N Taryne St",
     "sg:city":"Hayden Lake",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":185970847,
-    "wof:lastmodified":1449008162,
+    "wof:lastmodified":1466488707,
     "wof:name":"Reliable Electric",
     "wof:parent_id":85821457,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "contractor"
     ]
 },
-  "bbox": [-116.789537,47.7637,-116.789537,47.7637],
+  "bbox": [
+    -116.789537,
+    47.7637,
+    -116.789537,
+    47.7637
+],
   "geometry": {"coordinates":[-116.789537,47.7637],"type":"Point"}
 }

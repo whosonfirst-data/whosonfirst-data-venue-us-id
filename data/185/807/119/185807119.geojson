@@ -2,13 +2,14 @@
   "id": 185807119,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-113.793339,42.536303,-113.793339,42.536303",
     "geom:latitude":42.536303,
     "geom:longitude":-113.793339,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1336 Overland Ave",
     "sg:city":"Burley",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":185807119,
-    "wof:lastmodified":1449007019,
+    "wof:lastmodified":1466488388,
     "wof:name":"5678 Dance Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "dancing"
     ]
 },
-  "bbox": [-113.793339,42.536303,-113.793339,42.536303],
+  "bbox": [
+    -113.793339,
+    42.536303,
+    -113.793339,
+    42.536303
+],
   "geometry": {"coordinates":[-113.793339,42.536303],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 320552297,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.951974,47.472291,-116.951974,47.472291",
     "geom:latitude":47.472291,
     "geom:longitude":-116.951974,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"12165 W Elk Ridge Rd",
     "sg:city":"Worley",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":320552297,
-    "wof:lastmodified":1449012826,
+    "wof:lastmodified":1466487067,
     "wof:name":"Perfection Weed And Pest",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-116.951974,47.472291,-116.951974,47.472291],
-  "geometry": {"coordinates":[-116.951974,47.472291],"type":"Point"}
+  "bbox": [
+    -116.951974,
+    47.472291,
+    -116.951974,
+    47.472291
+],
+  "geometry": {"coordinates":[-116.95197400000001,47.472291],"type":"Point"}
 }

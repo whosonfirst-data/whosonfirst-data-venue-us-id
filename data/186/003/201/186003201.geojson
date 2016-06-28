@@ -2,13 +2,14 @@
   "id": 186003201,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-117.005813,46.427341,-117.005813,46.427341",
     "geom:latitude":46.427341,
     "geom:longitude":-117.005813,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1920 State Hwy 128",
     "sg:city":"Lewiston",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":186003201,
-    "wof:lastmodified":1449052819,
+    "wof:lastmodified":1466487873,
     "wof:name":"Northwestern Trailways",
     "wof:parent_id":85837769,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "line"
     ]
 },
-  "bbox": [-117.005813,46.427341,-117.005813,46.427341],
+  "bbox": [
+    -117.005813,
+    46.427341,
+    -117.005813,
+    46.427341
+],
   "geometry": {"coordinates":[-117.005813,46.427341],"type":"Point"}
 }

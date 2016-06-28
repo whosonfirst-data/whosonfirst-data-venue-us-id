@@ -2,13 +2,14 @@
   "id": 186542373,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.593238,43.601707,-116.593238,43.601707",
     "geom:latitude":43.601707,
     "geom:longitude":-116.593238,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2011 N Midland Blvd",
     "sg:city":"Nampa",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186542373,
-    "wof:lastmodified":1449052398,
+    "wof:lastmodified":1466488933,
     "wof:name":"Vanek Construction",
     "wof:parent_id":85827787,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "builder"
     ]
 },
-  "bbox": [-116.593238,43.601707,-116.593238,43.601707],
+  "bbox": [
+    -116.593238,
+    43.601707,
+    -116.593238,
+    43.601707
+],
   "geometry": {"coordinates":[-116.593238,43.601707],"type":"Point"}
 }

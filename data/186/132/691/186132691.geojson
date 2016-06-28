@@ -2,13 +2,14 @@
   "id": 186132691,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.990006,47.716288,-116.990006,47.716288",
     "geom:latitude":47.716288,
     "geom:longitude":-116.990006,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2905 W Seltice Way",
     "sg:city":"Post Falls",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":186132691,
-    "wof:lastmodified":1449051682,
+    "wof:lastmodified":1466488178,
     "wof:name":"Skyview Equipment Sales",
     "wof:parent_id":85833263,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "truck"
     ]
 },
-  "bbox": [-116.990006,47.716288,-116.990006,47.716288],
-  "geometry": {"coordinates":[-116.990006,47.716288],"type":"Point"}
+  "bbox": [
+    -116.990006,
+    47.716288,
+    -116.990006,
+    47.716288
+],
+  "geometry": {"coordinates":[-116.99000599999999,47.716288],"type":"Point"}
 }

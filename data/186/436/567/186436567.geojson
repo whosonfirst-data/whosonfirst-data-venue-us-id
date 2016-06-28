@@ -2,13 +2,14 @@
   "id": 186436567,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.113729,43.548039,-116.113729,43.548039",
     "geom:latitude":43.548039,
     "geom:longitude":-116.113729,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6013 E Gateway Dr",
     "sg:city":"Boise",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":186436567,
-    "wof:lastmodified":1449052767,
+    "wof:lastmodified":1466488809,
     "wof:name":"Another Frame Up",
     "wof:parent_id":85876327,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "merchandise"
     ]
 },
-  "bbox": [-116.113729,43.548039,-116.113729,43.548039],
-  "geometry": {"coordinates":[-116.113729,43.548039],"type":"Point"}
+  "bbox": [
+    -116.113729,
+    43.548039,
+    -116.113729,
+    43.548039
+],
+  "geometry": {"coordinates":[-116.11372900000001,43.548039],"type":"Point"}
 }

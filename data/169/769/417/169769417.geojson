@@ -2,13 +2,14 @@
   "id": 169769417,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.907304,43.679015,-111.907304,43.679015",
     "geom:latitude":43.679015,
     "geom:longitude":-111.907304,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"412 Farnsworth Way",
     "sg:city":"Rigby",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":169769417,
-    "wof:lastmodified":1449033783,
+    "wof:lastmodified":1466488445,
     "wof:name":"Bob's KWIK Svc Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.907304,43.679015,-111.907304,43.679015],
+  "bbox": [
+    -111.907304,
+    43.679015,
+    -111.907304,
+    43.679015
+],
   "geometry": {"coordinates":[-111.907304,43.679015],"type":"Point"}
 }

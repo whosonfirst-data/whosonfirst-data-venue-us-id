@@ -2,13 +2,14 @@
   "id": 169812579,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.304989,43.705004,-116.304989,43.705004",
     "geom:latitude":43.705004,
     "geom:longitude":-116.304989,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"11026 Culdesac Way",
     "sg:city":"Boise",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":169812579,
-    "wof:lastmodified":1449032776,
+    "wof:lastmodified":1466488464,
     "wof:name":"Caron Pump Co",
     "wof:parent_id":85876315,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "pump"
     ]
 },
-  "bbox": [-116.304989,43.705004,-116.304989,43.705004],
-  "geometry": {"coordinates":[-116.304989,43.705004],"type":"Point"}
+  "bbox": [
+    -116.304989,
+    43.705004,
+    -116.304989,
+    43.705004
+],
+  "geometry": {"coordinates":[-116.30498900000001,43.705004],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186092281,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.922779,48.180529,-116.922779,48.180529",
     "geom:latitude":48.180529,
     "geom:longitude":-116.922779,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1108 Albeni Rd",
     "sg:city":"Priest River",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":186092281,
-    "wof:lastmodified":1449052510,
+    "wof:lastmodified":1466487782,
     "wof:name":"Cutting Crew",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-116.922779,48.180529,-116.922779,48.180529],
-  "geometry": {"coordinates":[-116.922779,48.180529],"type":"Point"}
+  "bbox": [
+    -116.922779,
+    48.180529,
+    -116.922779,
+    48.180529
+],
+  "geometry": {"coordinates":[-116.92277900000001,48.180529],"type":"Point"}
 }

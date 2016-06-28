@@ -2,13 +2,14 @@
   "id": 186429569,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.539445,43.609718,-116.539445,43.609718",
     "geom:latitude":43.609718,
     "geom:longitude":-116.539445,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7325 Newbrook Dr",
     "sg:city":"Nampa",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186429569,
-    "wof:lastmodified":1449052894,
+    "wof:lastmodified":1466488806,
     "wof:name":"Kelso Plumbing Inc",
     "wof:parent_id":85827787,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-116.539445,43.609718,-116.539445,43.609718],
+  "bbox": [
+    -116.539445,
+    43.609718,
+    -116.539445,
+    43.609718
+],
   "geometry": {"coordinates":[-116.539445,43.609718],"type":"Point"}
 }

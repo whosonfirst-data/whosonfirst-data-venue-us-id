@@ -2,13 +2,14 @@
   "id": 320522947,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.936977,46.366461,-116.936977,46.366461",
     "geom:latitude":46.366461,
     "geom:longitude":-116.936977,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1823 Birch Dr Ste 22",
     "sg:city":"Lewiston",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":320522947,
-    "wof:lastmodified":1449013034,
+    "wof:lastmodified":1466487129,
     "wof:name":"Dee Osbornes Crpt Uphl Cleani",
     "wof:parent_id":85837769,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "janitorial"
     ]
 },
-  "bbox": [-116.936977,46.366461,-116.936977,46.366461],
+  "bbox": [
+    -116.936977,
+    46.366461,
+    -116.936977,
+    46.366461
+],
   "geometry": {"coordinates":[-116.936977,46.366461],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186317083,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.535189,43.612409,-116.535189,43.612409",
     "geom:latitude":43.612409,
     "geom:longitude":-116.535189,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7186 Birch Ln",
     "sg:city":"Nampa",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186317083,
-    "wof:lastmodified":1449051593,
+    "wof:lastmodified":1466488698,
     "wof:name":"Craig Custom Concrete Inc",
     "wof:parent_id":85827787,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-116.535189,43.612409,-116.535189,43.612409],
+  "bbox": [
+    -116.535189,
+    43.612409,
+    -116.535189,
+    43.612409
+],
   "geometry": {"coordinates":[-116.535189,43.612409],"type":"Point"}
 }

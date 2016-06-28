@@ -2,13 +2,14 @@
   "id": 186355631,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.346578,43.661592,-116.346578,43.661592",
     "geom:latitude":43.661592,
     "geom:longitude":-116.346578,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6294 N Park Meadow Way",
     "sg:city":"Boise",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":186355631,
-    "wof:lastmodified":1449051136,
+    "wof:lastmodified":1466488835,
     "wof:name":"Heartwarmers N Things",
     "wof:parent_id":85876351,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-116.346578,43.661592,-116.346578,43.661592],
-  "geometry": {"coordinates":[-116.346578,43.661592],"type":"Point"}
+  "bbox": [
+    -116.346578,
+    43.661592,
+    -116.346578,
+    43.661592
+],
+  "geometry": {"coordinates":[-116.34657799999999,43.661592],"type":"Point"}
 }

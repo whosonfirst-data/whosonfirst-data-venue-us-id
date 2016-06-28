@@ -2,13 +2,14 @@
   "id": 186553063,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.599585,43.603438,-116.599585,43.603438",
     "geom:latitude":43.603438,
     "geom:longitude":-116.599585,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1528 Caldwell Blvd",
     "sg:city":"Nampa",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186553063,
-    "wof:lastmodified":1449050268,
+    "wof:lastmodified":1466488887,
     "wof:name":"Grocery Outlet Inc",
     "wof:parent_id":85827787,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "grocer"
     ]
 },
-  "bbox": [-116.599585,43.603438,-116.599585,43.603438],
+  "bbox": [
+    -116.599585,
+    43.603438,
+    -116.599585,
+    43.603438
+],
   "geometry": {"coordinates":[-116.599585,43.603438],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 185780123,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.223187,43.62056,-116.223187,43.62056",
     "geom:latitude":43.62056,
     "geom:longitude":-116.223187,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2561 Fairview Ave",
     "sg:city":"Boise",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":185780123,
-    "wof:lastmodified":1449007810,
+    "wof:lastmodified":1466488163,
     "wof:name":"Eur-Asian Motors Inc",
     "wof:parent_id":85876355,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "automobile"
     ]
 },
-  "bbox": [-116.223187,43.62056,-116.223187,43.62056],
+  "bbox": [
+    -116.223187,
+    43.62056,
+    -116.223187,
+    43.62056
+],
   "geometry": {"coordinates":[-116.223187,43.62056],"type":"Point"}
 }

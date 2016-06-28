@@ -2,13 +2,14 @@
   "id": 185943241,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.242282,43.649085,-116.242282,43.649085",
     "geom:latitude":43.649085,
     "geom:longitude":-116.242282,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3813 Hawthorne Dr",
     "sg:city":"Boise",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":185943241,
-    "wof:lastmodified":1449007037,
+    "wof:lastmodified":1466488657,
     "wof:name":"Elf Day Care",
     "wof:parent_id":85876323,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "day"
     ]
 },
-  "bbox": [-116.242282,43.649085,-116.242282,43.649085],
+  "bbox": [
+    -116.242282,
+    43.649085,
+    -116.242282,
+    43.649085
+],
   "geometry": {"coordinates":[-116.242282,43.649085],"type":"Point"}
 }

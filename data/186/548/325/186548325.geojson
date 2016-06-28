@@ -2,13 +2,14 @@
   "id": 186548325,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.820462,47.605566,-116.820462,47.605566",
     "geom:latitude":47.605566,
     "geom:longitude":-116.820462,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2880 W Lutherhaven Rd",
     "sg:city":"Coeur D Alene",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186548325,
-    "wof:lastmodified":1449052223,
+    "wof:lastmodified":1466488885,
     "wof:name":"Heston & Assoc Reporting Svc",
     "wof:parent_id":85821457,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "reporter"
     ]
 },
-  "bbox": [-116.820462,47.605566,-116.820462,47.605566],
-  "geometry": {"coordinates":[-116.820462,47.605566],"type":"Point"}
+  "bbox": [
+    -116.820462,
+    47.605566,
+    -116.820462,
+    47.605566
+],
+  "geometry": {"coordinates":[-116.82046200000001,47.605566],"type":"Point"}
 }

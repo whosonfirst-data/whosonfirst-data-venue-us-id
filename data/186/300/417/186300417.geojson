@@ -2,13 +2,14 @@
   "id": 186300417,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.4938,43.567838,-116.4938,43.567838",
     "geom:latitude":43.567838,
     "geom:longitude":-116.4938,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"307 S Robinson Blvd",
     "sg:city":"Nampa",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186300417,
-    "wof:lastmodified":1449051893,
+    "wof:lastmodified":1466488573,
     "wof:name":"Tool Technology",
     "wof:parent_id":85827787,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "maker"
     ]
 },
-  "bbox": [-116.4938,43.567838,-116.4938,43.567838],
-  "geometry": {"coordinates":[-116.4938,43.567838],"type":"Point"}
+  "bbox": [
+    -116.4938,
+    43.567838,
+    -116.4938,
+    43.567838
+],
+  "geometry": {"coordinates":[-116.49379999999999,43.567838],"type":"Point"}
 }

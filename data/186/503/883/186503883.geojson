@@ -2,13 +2,14 @@
   "id": 186503883,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.747241,43.807098,-116.747241,43.807098",
     "geom:latitude":43.807098,
     "geom:longitude":-116.747241,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"17737 Oasis Rd",
     "sg:city":"Caldwell",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":186503883,
-    "wof:lastmodified":1449053037,
+    "wof:lastmodified":1466488916,
     "wof:name":"Robert Gebert",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-116.747241,43.807098,-116.747241,43.807098],
+  "bbox": [
+    -116.747241,
+    43.807098,
+    -116.747241,
+    43.807098
+],
   "geometry": {"coordinates":[-116.747241,43.807098],"type":"Point"}
 }

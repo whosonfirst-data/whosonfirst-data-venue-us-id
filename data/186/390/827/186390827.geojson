@@ -2,13 +2,14 @@
   "id": 186390827,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.337426,43.705896,-116.337426,43.705896",
     "geom:latitude":43.705896,
     "geom:longitude":-116.337426,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1203 N Lopez Ave",
     "sg:city":"Eagle",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":186390827,
-    "wof:lastmodified":1449053054,
+    "wof:lastmodified":1466488781,
     "wof:name":"Schrader Farms",
     "wof:parent_id":85876315,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "general"
     ]
 },
-  "bbox": [-116.337426,43.705896,-116.337426,43.705896],
-  "geometry": {"coordinates":[-116.337426,43.705896],"type":"Point"}
+  "bbox": [
+    -116.337426,
+    43.705896,
+    -116.337426,
+    43.705896
+],
+  "geometry": {"coordinates":[-116.33742599999999,43.705896],"type":"Point"}
 }

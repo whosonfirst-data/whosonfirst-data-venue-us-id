@@ -2,13 +2,14 @@
   "id": 185837487,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.599658,43.111379,-112.599658,43.111379",
     "geom:latitude":43.111379,
     "geom:longitude":-112.599658,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1533 W Hwy 39",
     "sg:city":"Pingree",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":185837487,
-    "wof:lastmodified":1449006863,
+    "wof:lastmodified":1466488425,
     "wof:name":"Pingree First Ward",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "church"
     ]
 },
-  "bbox": [-112.599658,43.111379,-112.599658,43.111379],
-  "geometry": {"coordinates":[-112.599658,43.111379],"type":"Point"}
+  "bbox": [
+    -112.599658,
+    43.111379,
+    -112.599658,
+    43.111379
+],
+  "geometry": {"coordinates":[-112.59965800000001,43.111379],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 185988109,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-117.001395,46.723863,-117.001395,46.723863",
     "geom:latitude":46.723863,
     "geom:longitude":-117.001395,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1218 S Main St",
     "sg:city":"Moscow",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":185988109,
-    "wof:lastmodified":1449007146,
+    "wof:lastmodified":1466488735,
     "wof:name":"Otto Hill Apartments",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "apartment"
     ]
 },
-  "bbox": [-117.001395,46.723863,-117.001395,46.723863],
+  "bbox": [
+    -117.001395,
+    46.723863,
+    -117.001395,
+    46.723863
+],
   "geometry": {"coordinates":[-117.001395,46.723863],"type":"Point"}
 }

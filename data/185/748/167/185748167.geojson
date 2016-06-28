@@ -2,13 +2,14 @@
   "id": 185748167,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.702265,43.125348,-115.702265,43.125348",
     "geom:latitude":43.125348,
     "geom:longitude":-115.702265,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"616 S Haskett St",
     "sg:city":"Mountain Home",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":185748167,
-    "wof:lastmodified":1449007815,
+    "wof:lastmodified":1466487909,
     "wof:name":"Peace Mortgage Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "real estate"
     ]
 },
-  "bbox": [-115.702265,43.125348,-115.702265,43.125348],
+  "bbox": [
+    -115.702265,
+    43.125348,
+    -115.702265,
+    43.125348
+],
   "geometry": {"coordinates":[-115.702265,43.125348],"type":"Point"}
 }

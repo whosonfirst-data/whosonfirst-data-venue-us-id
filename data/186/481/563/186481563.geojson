@@ -2,13 +2,14 @@
   "id": 186481563,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.069275,42.481553,-114.069275,42.481553",
     "geom:latitude":42.481553,
     "geom:longitude":-114.069275,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3361 N 5000 E",
     "sg:city":"Murtaugh",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":186481563,
-    "wof:lastmodified":1449052670,
+    "wof:lastmodified":1466488904,
     "wof:name":"Milner Irrigation District",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "system"
     ]
 },
-  "bbox": [-114.069275,42.481553,-114.069275,42.481553],
+  "bbox": [
+    -114.069275,
+    42.481553,
+    -114.069275,
+    42.481553
+],
   "geometry": {"coordinates":[-114.069275,42.481553],"type":"Point"}
 }

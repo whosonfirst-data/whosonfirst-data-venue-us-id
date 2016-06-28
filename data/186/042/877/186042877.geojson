@@ -2,13 +2,14 @@
   "id": 186042877,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.601292,43.558931,-116.601292,43.558931",
     "geom:latitude":43.558931,
     "geom:longitude":-116.601292,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1125 S Camas St",
     "sg:city":"Nampa",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":186042877,
-    "wof:lastmodified":1449052361,
+    "wof:lastmodified":1466487231,
     "wof:name":"Wards Total Lawn & Yard",
     "wof:parent_id":85827787,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "grounds"
     ]
 },
-  "bbox": [-116.601292,43.558931,-116.601292,43.558931],
+  "bbox": [
+    -116.601292,
+    43.558931,
+    -116.601292,
+    43.558931
+],
   "geometry": {"coordinates":[-116.601292,43.558931],"type":"Point"}
 }

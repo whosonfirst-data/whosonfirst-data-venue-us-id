@@ -2,13 +2,14 @@
   "id": 186205225,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.99721,46.734486,-116.99721,46.734486",
     "geom:latitude":46.734486,
     "geom:longitude":-116.99721,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"119 N Adams St",
     "sg:city":"Moscow",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":186205225,
-    "wof:lastmodified":1449051979,
+    "wof:lastmodified":1466488416,
     "wof:name":"Russell Elementary School",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-116.99721,46.734486,-116.99721,46.734486],
+  "bbox": [
+    -116.99721,
+    46.734486,
+    -116.99721,
+    46.734486
+],
   "geometry": {"coordinates":[-116.99721,46.734486],"type":"Point"}
 }

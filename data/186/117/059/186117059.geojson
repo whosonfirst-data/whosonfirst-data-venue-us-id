@@ -2,13 +2,14 @@
   "id": 186117059,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.572785,43.557542,-116.572785,43.557542",
     "geom:latitude":43.557542,
     "geom:longitude":-116.572785,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1012 12th Ave Rd",
     "sg:city":"Nampa",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":186117059,
-    "wof:lastmodified":1449052195,
+    "wof:lastmodified":1466488034,
     "wof:name":"Zion Lutheran School",
     "wof:parent_id":85827787,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-116.572785,43.557542,-116.572785,43.557542],
+  "bbox": [
+    -116.572785,
+    43.557542,
+    -116.572785,
+    43.557542
+],
   "geometry": {"coordinates":[-116.572785,43.557542],"type":"Point"}
 }

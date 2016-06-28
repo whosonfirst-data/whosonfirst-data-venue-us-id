@@ -2,13 +2,14 @@
   "id": 169783287,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.254629,43.639002,-116.254629,43.639002",
     "geom:latitude":43.639002,
     "geom:longitude":-116.254629,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"104 E 46th St",
     "sg:city":"Boise",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":169783287,
-    "wof:lastmodified":1449032790,
+    "wof:lastmodified":1466488471,
     "wof:name":"Ammerman's Custom Exhaust",
     "wof:parent_id":85876339,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "system"
     ]
 },
-  "bbox": [-116.254629,43.639002,-116.254629,43.639002],
-  "geometry": {"coordinates":[-116.254629,43.639002],"type":"Point"}
+  "bbox": [
+    -116.254629,
+    43.639002,
+    -116.254629,
+    43.639002
+],
+  "geometry": {"coordinates":[-116.25462899999999,43.639002],"type":"Point"}
 }

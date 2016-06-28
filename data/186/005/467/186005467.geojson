@@ -2,13 +2,14 @@
   "id": 186005467,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.92354,48.180534,-116.92354,48.180534",
     "geom:latitude":48.180534,
     "geom:longitude":-116.92354,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1015 Albeni Rd",
     "sg:city":"Priest River",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":186005467,
-    "wof:lastmodified":1449052813,
+    "wof:lastmodified":1466488176,
     "wof:name":"Priest River Animal Rescue",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "shelter"
     ]
 },
-  "bbox": [-116.92354,48.180534,-116.92354,48.180534],
+  "bbox": [
+    -116.92354,
+    48.180534,
+    -116.92354,
+    48.180534
+],
   "geometry": {"coordinates":[-116.92354,48.180534],"type":"Point"}
 }

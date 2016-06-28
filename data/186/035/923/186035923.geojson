@@ -2,13 +2,14 @@
   "id": 186035923,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.91454,43.672281,-111.91454,43.672281",
     "geom:latitude":43.672281,
     "geom:longitude":-111.91454,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"129 E Main St",
     "sg:city":"Rigby",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":186035923,
-    "wof:lastmodified":1449052497,
+    "wof:lastmodified":1466487148,
     "wof:name":"Floral Classics",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.91454,43.672281,-111.91454,43.672281],
+  "bbox": [
+    -111.91454,
+    43.672281,
+    -111.91454,
+    43.672281
+],
   "geometry": {"coordinates":[-111.91454,43.672281],"type":"Point"}
 }

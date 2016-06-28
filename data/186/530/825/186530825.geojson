@@ -2,13 +2,14 @@
   "id": 186530825,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.258883,43.254197,-112.258883,43.254197",
     "geom:latitude":43.254197,
     "geom:longitude":-112.258883,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"196 E 400 N",
     "sg:city":"Blackfoot",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":186530825,
-    "wof:lastmodified":1449051800,
+    "wof:lastmodified":1466488878,
     "wof:name":"Great Basin Svc Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "removal"
     ]
 },
-  "bbox": [-112.258883,43.254197,-112.258883,43.254197],
+  "bbox": [
+    -112.258883,
+    43.254197,
+    -112.258883,
+    43.254197
+],
   "geometry": {"coordinates":[-112.258883,43.254197],"type":"Point"}
 }

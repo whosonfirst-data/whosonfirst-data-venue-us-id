@@ -2,13 +2,14 @@
   "id": 169614605,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.359723,43.678368,-114.359723,43.678368",
     "geom:latitude":43.678368,
     "geom:longitude":-114.359723,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"471 Leadville Ave",
     "sg:city":"Ketchum",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":169614605,
-    "wof:lastmodified":1449036058,
+    "wof:lastmodified":1466487031,
     "wof:name":"Saddletree Custom Framing",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "frame"
     ]
 },
-  "bbox": [-114.359723,43.678368,-114.359723,43.678368],
+  "bbox": [
+    -114.359723,
+    43.678368,
+    -114.359723,
+    43.678368
+],
   "geometry": {"coordinates":[-114.359723,43.678368],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 185736767,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.599797,43.567358,-116.599797,43.567358",
     "geom:latitude":43.567358,
     "geom:longitude":-116.599797,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"212 Middle Creek Dr",
     "sg:city":"Nampa",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":185736767,
-    "wof:lastmodified":1449008170,
+    "wof:lastmodified":1466487815,
     "wof:name":"Gary Rogers Music Svc",
     "wof:parent_id":85827787,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "musician"
     ]
 },
-  "bbox": [-116.599797,43.567358,-116.599797,43.567358],
+  "bbox": [
+    -116.599797,
+    43.567358,
+    -116.599797,
+    43.567358
+],
   "geometry": {"coordinates":[-116.599797,43.567358],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 185620625,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.099595,44.910928,-116.099595,44.910928",
     "geom:latitude":44.910928,
     "geom:longitude":-116.099595,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"136 E Lake St",
     "sg:city":"Mccall",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":185620625,
-    "wof:lastmodified":1449008083,
+    "wof:lastmodified":1466486919,
     "wof:name":"Huckleberry Patches",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "shop"
     ]
 },
-  "bbox": [-116.099595,44.910928,-116.099595,44.910928],
-  "geometry": {"coordinates":[-116.099595,44.910928],"type":"Point"}
+  "bbox": [
+    -116.099595,
+    44.910928,
+    -116.099595,
+    44.910928
+],
+  "geometry": {"coordinates":[-116.09959499999999,44.910928],"type":"Point"}
 }

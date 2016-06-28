@@ -2,13 +2,14 @@
   "id": 186154347,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.492584,43.87901,-116.492584,43.87901",
     "geom:latitude":43.87901,
     "geom:longitude":-116.492584,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"800 E Locust St",
     "sg:city":"Emmett",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":186154347,
-    "wof:lastmodified":1449053060,
+    "wof:lastmodified":1466488483,
     "wof:name":"Stone Surfaces",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "counter"
     ]
 },
-  "bbox": [-116.492584,43.87901,-116.492584,43.87901],
-  "geometry": {"coordinates":[-116.492584,43.87901],"type":"Point"}
+  "bbox": [
+    -116.492584,
+    43.87901,
+    -116.492584,
+    43.87901
+],
+  "geometry": {"coordinates":[-116.49258399999999,43.87901],"type":"Point"}
 }

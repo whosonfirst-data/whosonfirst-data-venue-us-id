@@ -2,13 +2,14 @@
   "id": 320540323,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.530499,43.588244,-116.530499,43.588244",
     "geom:latitude":43.588244,
     "geom:longitude":-116.530499,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"615 Barger Lane",
     "sg:city":"Nampa",
     "sg:classifiers":[
@@ -52,16 +53,22 @@
         }
     ],
     "wof:id":320540323,
-    "wof:lastmodified":1449012732,
+    "wof:lastmodified":1466486891,
     "wof:name":"Bouncin Bins",
     "wof:parent_id":85827787,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "rental"
     ]
 },
-  "bbox": [-116.530499,43.588244,-116.530499,43.588244],
-  "geometry": {"coordinates":[-116.530499,43.588244],"type":"Point"}
+  "bbox": [
+    -116.530499,
+    43.588244,
+    -116.530499,
+    43.588244
+],
+  "geometry": {"coordinates":[-116.53049900000001,43.588244],"type":"Point"}
 }

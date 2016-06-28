@@ -2,13 +2,14 @@
   "id": 169615219,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.82937,47.701809,-116.82937,47.701809",
     "geom:latitude":47.701809,
     "geom:longitude":-116.82937,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3350 N Old Atlas Rd",
     "sg:city":"Coeur D Alene",
     "sg:classifiers":[
@@ -63,10 +64,11 @@
         }
     ],
     "wof:id":169615219,
-    "wof:lastmodified":1449033734,
+    "wof:lastmodified":1466487041,
     "wof:name":"Expert Marine Technology",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -74,6 +76,11 @@
         "boat"
     ]
 },
-  "bbox": [-116.82937,47.701809,-116.82937,47.701809],
+  "bbox": [
+    -116.82937,
+    47.701809,
+    -116.82937,
+    47.701809
+],
   "geometry": {"coordinates":[-116.82937,47.701809],"type":"Point"}
 }

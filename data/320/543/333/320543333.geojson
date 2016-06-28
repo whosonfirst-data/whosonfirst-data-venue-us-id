@@ -2,13 +2,14 @@
   "id": 320543333,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.168293,43.598681,-116.168293,43.598681",
     "geom:latitude":43.598681,
     "geom:longitude":-116.168293,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"622 S Granite Way",
     "sg:city":"Boise",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":320543333,
-    "wof:lastmodified":1449011988,
+    "wof:lastmodified":1466486964,
     "wof:name":"Attorney Merris Pllc Jd",
     "wof:parent_id":85876305,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "practice"
     ]
 },
-  "bbox": [-116.168293,43.598681,-116.168293,43.598681],
-  "geometry": {"coordinates":[-116.168293,43.598681],"type":"Point"}
+  "bbox": [
+    -116.168293,
+    43.598681,
+    -116.168293,
+    43.598681
+],
+  "geometry": {"coordinates":[-116.16829300000001,43.598681],"type":"Point"}
 }

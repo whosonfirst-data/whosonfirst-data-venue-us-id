@@ -2,13 +2,14 @@
   "id": 169784003,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.493357,43.696351,-116.493357,43.696351",
     "geom:latitude":43.696351,
     "geom:longitude":-116.493357,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"439 N Star Rd",
     "sg:city":"Star",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":169784003,
-    "wof:lastmodified":1449034896,
+    "wof:lastmodified":1466488546,
     "wof:name":"Little Miracles Preschool",
     "wof:parent_id":85876351,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "school"
     ]
 },
-  "bbox": [-116.493357,43.696351,-116.493357,43.696351],
+  "bbox": [
+    -116.493357,
+    43.696351,
+    -116.493357,
+    43.696351
+],
   "geometry": {"coordinates":[-116.493357,43.696351],"type":"Point"}
 }

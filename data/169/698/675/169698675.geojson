@@ -2,13 +2,14 @@
   "id": 169698675,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.045876,43.482101,-112.045876,43.482101",
     "geom:latitude":43.482101,
     "geom:longitude":-112.045876,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1792 S Yellowstone Hwy",
     "sg:city":"Idaho Falls",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":169698675,
-    "wof:lastmodified":1449035754,
+    "wof:lastmodified":1466488008,
     "wof:name":"Sign Works",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.045876,43.482101,-112.045876,43.482101],
-  "geometry": {"coordinates":[-112.045876,43.482101],"type":"Point"}
+  "bbox": [
+    -112.045876,
+    43.482101,
+    -112.045876,
+    43.482101
+],
+  "geometry": {"coordinates":[-112.04587600000001,43.482101],"type":"Point"}
 }

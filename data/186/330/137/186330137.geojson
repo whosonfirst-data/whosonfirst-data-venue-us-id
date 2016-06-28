@@ -2,13 +2,14 @@
   "id": 186330137,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.328919,43.712597,-116.328919,43.712597",
     "geom:latitude":43.712597,
     "geom:longitude":-116.328919,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1917 N Parkforest Way",
     "sg:city":"Eagle",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":186330137,
-    "wof:lastmodified":1449051718,
+    "wof:lastmodified":1466488650,
     "wof:name":"Alice E Taylor",
     "wof:parent_id":85876315,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -66,6 +68,11 @@
         "truck"
     ]
 },
-  "bbox": [-116.328919,43.712597,-116.328919,43.712597],
+  "bbox": [
+    -116.328919,
+    43.712597,
+    -116.328919,
+    43.712597
+],
   "geometry": {"coordinates":[-116.328919,43.712597],"type":"Point"}
 }

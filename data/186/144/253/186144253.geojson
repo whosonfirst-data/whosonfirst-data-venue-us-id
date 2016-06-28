@@ -2,13 +2,14 @@
   "id": 186144253,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.969372,47.715995,-116.969372,47.715995",
     "geom:latitude":47.715995,
     "geom:longitude":-116.969372,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2002 W Seltice Way",
     "sg:city":"Post Falls",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":186144253,
-    "wof:lastmodified":1449052326,
+    "wof:lastmodified":1466488263,
     "wof:name":"Post Falls Wastewater Trtmnt",
     "wof:parent_id":85833263,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "village"
     ]
 },
-  "bbox": [-116.969372,47.715995,-116.969372,47.715995],
-  "geometry": {"coordinates":[-116.969372,47.715995],"type":"Point"}
+  "bbox": [
+    -116.969372,
+    47.715995,
+    -116.969372,
+    47.715995
+],
+  "geometry": {"coordinates":[-116.96937200000001,47.715995],"type":"Point"}
 }

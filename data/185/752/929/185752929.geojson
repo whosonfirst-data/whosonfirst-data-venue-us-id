@@ -2,13 +2,14 @@
   "id": 185752929,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.868826,46.549848,-116.868826,46.549848",
     "geom:latitude":46.549848,
     "geom:longitude":-116.868826,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1277 Gray Eagle Rd",
     "sg:city":"Genesee",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":185752929,
-    "wof:lastmodified":1449006881,
+    "wof:lastmodified":1466487947,
     "wof:name":"Stout Flying Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "applicator"
     ]
 },
-  "bbox": [-116.868826,46.549848,-116.868826,46.549848],
+  "bbox": [
+    -116.868826,
+    46.549848,
+    -116.868826,
+    46.549848
+],
   "geometry": {"coordinates":[-116.868826,46.549848],"type":"Point"}
 }

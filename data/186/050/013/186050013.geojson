@@ -2,13 +2,14 @@
   "id": 186050013,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.793101,47.700828,-116.793101,47.700828",
     "geom:latitude":47.700828,
     "geom:longitude":-116.793101,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"501 W Appleway Ave",
     "sg:city":"Coeur D Alene",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":186050013,
-    "wof:lastmodified":1449051858,
+    "wof:lastmodified":1466487312,
     "wof:name":"Continental Timber",
     "wof:parent_id":85821457,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "lumber"
     ]
 },
-  "bbox": [-116.793101,47.700828,-116.793101,47.700828],
-  "geometry": {"coordinates":[-116.793101,47.700828],"type":"Point"}
+  "bbox": [
+    -116.793101,
+    47.700828,
+    -116.793101,
+    47.700828
+],
+  "geometry": {"coordinates":[-116.79310099999999,47.700828],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 320549991,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.980941,46.72279,-116.980941,46.72279",
     "geom:latitude":46.72279,
     "geom:longitude":-116.980941,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1421 E White Ave",
     "sg:city":"Moscow",
     "sg:classifiers":[
@@ -57,10 +58,11 @@
         }
     ],
     "wof:id":320549991,
-    "wof:lastmodified":1449012284,
+    "wof:lastmodified":1466487039,
     "wof:name":"Les Schwab Tire Centers Of Idaho, Inc.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -69,6 +71,11 @@
         "manufacturer"
     ]
 },
-  "bbox": [-116.980941,46.72279,-116.980941,46.72279],
+  "bbox": [
+    -116.980941,
+    46.72279,
+    -116.980941,
+    46.72279
+],
   "geometry": {"coordinates":[-116.980941,46.72279],"type":"Point"}
 }

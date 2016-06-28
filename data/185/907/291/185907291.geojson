@@ -2,13 +2,14 @@
   "id": 185907291,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.595418,43.574918,-116.595418,43.574918",
     "geom:latitude":43.574918,
     "geom:longitude":-116.595418,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1206 W Fairwood Ave",
     "sg:city":"Nampa",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":185907291,
-    "wof:lastmodified":1449008093,
+    "wof:lastmodified":1466488573,
     "wof:name":"H & L Trucking",
     "wof:parent_id":85827787,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "trucking"
     ]
 },
-  "bbox": [-116.595418,43.574918,-116.595418,43.574918],
+  "bbox": [
+    -116.595418,
+    43.574918,
+    -116.595418,
+    43.574918
+],
   "geometry": {"coordinates":[-116.595418,43.574918],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169711267,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.260298,43.637594,-116.260298,43.637594",
     "geom:latitude":43.637594,
     "geom:longitude":-116.260298,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4640 Chinden Blvd",
     "sg:city":"Boise",
     "sg:classifiers":[
@@ -52,16 +53,22 @@
         }
     ],
     "wof:id":169711267,
-    "wof:lastmodified":1449035356,
+    "wof:lastmodified":1466488139,
     "wof:name":"ANVIL Fence Co",
     "wof:parent_id":85876349,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "fence"
     ]
 },
-  "bbox": [-116.260298,43.637594,-116.260298,43.637594],
-  "geometry": {"coordinates":[-116.260298,43.637594],"type":"Point"}
+  "bbox": [
+    -116.260298,
+    43.637594,
+    -116.260298,
+    43.637594
+],
+  "geometry": {"coordinates":[-116.26029800000001,43.637594],"type":"Point"}
 }

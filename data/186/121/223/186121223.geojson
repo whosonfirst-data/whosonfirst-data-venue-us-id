@@ -2,13 +2,14 @@
   "id": 186121223,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.473451,43.478745,-116.473451,43.478745",
     "geom:latitude":43.478745,
     "geom:longitude":-116.473451,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7749 McDermott Rd",
     "sg:city":"Kuna",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":186121223,
-    "wof:lastmodified":1449052411,
+    "wof:lastmodified":1466488070,
     "wof:name":"Adam G Kirtley",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-116.473451,43.478745,-116.473451,43.478745],
+  "bbox": [
+    -116.473451,
+    43.478745,
+    -116.473451,
+    43.478745
+],
   "geometry": {"coordinates":[-116.473451,43.478745],"type":"Point"}
 }

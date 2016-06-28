@@ -2,13 +2,14 @@
   "id": 185960927,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.939007,46.369572,-116.939007,46.369572",
     "geom:latitude":46.369572,
     "geom:longitude":-116.939007,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1709 Powers Ave",
     "sg:city":"Lewiston",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":185960927,
-    "wof:lastmodified":1449007750,
+    "wof:lastmodified":1466488617,
     "wof:name":"Hartshorn Rick Drywall",
     "wof:parent_id":85837769,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-116.939007,46.369572,-116.939007,46.369572],
+  "bbox": [
+    -116.939007,
+    46.369572,
+    -116.939007,
+    46.369572
+],
   "geometry": {"coordinates":[-116.939007,46.369572],"type":"Point"}
 }

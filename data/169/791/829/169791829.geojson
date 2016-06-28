@@ -2,13 +2,14 @@
   "id": 169791829,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.964901,46.372567,-116.964901,46.372567",
     "geom:latitude":46.372567,
     "geom:longitude":-116.964901,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"606 Thain Rd",
     "sg:city":"Lewiston",
     "sg:classifiers":[
@@ -58,14 +59,20 @@
         }
     ],
     "wof:id":169791829,
-    "wof:lastmodified":1449035194,
+    "wof:lastmodified":1466488484,
     "wof:name":"Liberty Mart",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-116.964901,46.372567,-116.964901,46.372567],
+  "bbox": [
+    -116.964901,
+    46.372567,
+    -116.964901,
+    46.372567
+],
   "geometry": {"coordinates":[-116.964901,46.372567],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 185673011,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.80694,47.748828,-116.80694,47.748828",
     "geom:latitude":47.748828,
     "geom:longitude":-116.80694,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1480 W Leisure Dr",
     "sg:city":"Hayden Lake",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":185673011,
-    "wof:lastmodified":1449007242,
+    "wof:lastmodified":1466487313,
     "wof:name":"Eborall Realty & Construction",
     "wof:parent_id":85821457,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-116.80694,47.748828,-116.80694,47.748828],
+  "bbox": [
+    -116.80694,
+    47.748828,
+    -116.80694,
+    47.748828
+],
   "geometry": {"coordinates":[-116.80694,47.748828],"type":"Point"}
 }

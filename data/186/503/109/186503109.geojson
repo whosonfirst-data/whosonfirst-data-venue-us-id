@@ -2,13 +2,14 @@
   "id": 186503109,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.04642,43.493723,-112.04642,43.493723",
     "geom:latitude":43.493723,
     "geom:longitude":-112.04642,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"675 W Broadway St",
     "sg:city":"Idaho Falls",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":186503109,
-    "wof:lastmodified":1449053037,
+    "wof:lastmodified":1466488915,
     "wof:name":"Illusions Styling Studio",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.04642,43.493723,-112.04642,43.493723],
+  "bbox": [
+    -112.04642,
+    43.493723,
+    -112.04642,
+    43.493723
+],
   "geometry": {"coordinates":[-112.04642,43.493723],"type":"Point"}
 }

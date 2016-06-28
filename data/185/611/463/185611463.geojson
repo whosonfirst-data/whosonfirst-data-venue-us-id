@@ -2,13 +2,14 @@
   "id": 185611463,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-117.028264,46.412418,-117.028264,46.412418",
     "geom:latitude":46.412418,
     "geom:longitude":-117.028264,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"805 4th St",
     "sg:city":"Lewiston",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":185611463,
-    "wof:lastmodified":1449007885,
+    "wof:lastmodified":1466486850,
     "wof:name":"Lewis Clark Kinder College",
     "wof:parent_id":85852537,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-117.028264,46.412418,-117.028264,46.412418],
-  "geometry": {"coordinates":[-117.028264,46.412418],"type":"Point"}
+  "bbox": [
+    -117.028264,
+    46.412418,
+    -117.028264,
+    46.412418
+],
+  "geometry": {"coordinates":[-117.02826399999999,46.412418],"type":"Point"}
 }

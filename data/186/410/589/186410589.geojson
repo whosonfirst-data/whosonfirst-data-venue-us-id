@@ -2,13 +2,14 @@
   "id": 186410589,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.023174,43.511495,-112.023174,43.511495",
     "geom:latitude":43.511495,
     "geom:longitude":-112.023174,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"530 E Anderson St",
     "sg:city":"Idaho Falls",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":186410589,
-    "wof:lastmodified":1449050293,
+    "wof:lastmodified":1466488703,
     "wof:name":"Builders Design Ctr",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.023174,43.511495,-112.023174,43.511495],
+  "bbox": [
+    -112.023174,
+    43.511495,
+    -112.023174,
+    43.511495
+],
   "geometry": {"coordinates":[-112.023174,43.511495],"type":"Point"}
 }

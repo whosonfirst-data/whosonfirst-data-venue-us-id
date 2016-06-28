@@ -2,13 +2,14 @@
   "id": 185921123,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.797599,43.945724,-111.797599,43.945724",
     "geom:latitude":43.945724,
     "geom:longitude":-111.797599,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"433 N 1800 E",
     "sg:city":"St Anthony",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":185921123,
-    "wof:lastmodified":1449007629,
+    "wof:lastmodified":1466488605,
     "wof:name":"Henry's Fork Candles",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "equipment"
     ]
 },
-  "bbox": [-111.797599,43.945724,-111.797599,43.945724],
-  "geometry": {"coordinates":[-111.797599,43.945724],"type":"Point"}
+  "bbox": [
+    -111.797599,
+    43.945724,
+    -111.797599,
+    43.945724
+],
+  "geometry": {"coordinates":[-111.79759900000001,43.945724],"type":"Point"}
 }

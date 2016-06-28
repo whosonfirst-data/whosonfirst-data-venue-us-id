@@ -2,13 +2,14 @@
   "id": 169632375,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.428943,42.548344,-114.428943,42.548344",
     "geom:latitude":42.548344,
     "geom:longitude":-114.428943,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2670 Kimberly Rd",
     "sg:city":"Twin Falls",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":169632375,
-    "wof:lastmodified":1449034793,
+    "wof:lastmodified":1466487316,
     "wof:name":"Gem Equipment Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "equipment"
     ]
 },
-  "bbox": [-114.428943,42.548344,-114.428943,42.548344],
+  "bbox": [
+    -114.428943,
+    42.548344,
+    -114.428943,
+    42.548344
+],
   "geometry": {"coordinates":[-114.428943,42.548344],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186418463,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.333494,43.62486,-116.333494,43.62486",
     "geom:latitude":43.62486,
     "geom:longitude":-116.333494,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"12129 W Clover Meadows Dr",
     "sg:city":"Boise",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":186418463,
-    "wof:lastmodified":1449052425,
+    "wof:lastmodified":1466488853,
     "wof:name":"Darren Carraway",
     "wof:parent_id":85811491,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "cattle"
     ]
 },
-  "bbox": [-116.333494,43.62486,-116.333494,43.62486],
+  "bbox": [
+    -116.333494,
+    43.62486,
+    -116.333494,
+    43.62486
+],
   "geometry": {"coordinates":[-116.333494,43.62486],"type":"Point"}
 }

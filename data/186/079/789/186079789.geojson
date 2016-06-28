@@ -2,13 +2,14 @@
   "id": 186079789,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.872824,43.699211,-111.872824,43.699211",
     "geom:latitude":43.699211,
     "geom:longitude":-111.872824,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4151 E 500 N",
     "sg:city":"Rigby",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":186079789,
-    "wof:lastmodified":1449052557,
+    "wof:lastmodified":1466487657,
     "wof:name":"Red Mountain Carpet Cleaning",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "carpet"
     ]
 },
-  "bbox": [-111.872824,43.699211,-111.872824,43.699211],
-  "geometry": {"coordinates":[-111.872824,43.699211],"type":"Point"}
+  "bbox": [
+    -111.872824,
+    43.699211,
+    -111.872824,
+    43.699211
+],
+  "geometry": {"coordinates":[-111.87282399999999,43.699211],"type":"Point"}
 }

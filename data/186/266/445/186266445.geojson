@@ -2,13 +2,14 @@
   "id": 186266445,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.751311,47.849604,-116.751311,47.849604",
     "geom:latitude":47.849604,
     "geom:longitude":-116.751311,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"19504 N Williams Rd",
     "sg:city":"Hayden",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":186266445,
-    "wof:lastmodified":1449050349,
+    "wof:lastmodified":1466488697,
     "wof:name":"RKM Fortifield Welding",
     "wof:parent_id":85821457,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "welding"
     ]
 },
-  "bbox": [-116.751311,47.849604,-116.751311,47.849604],
+  "bbox": [
+    -116.751311,
+    47.849604,
+    -116.751311,
+    47.849604
+],
   "geometry": {"coordinates":[-116.751311,47.849604],"type":"Point"}
 }

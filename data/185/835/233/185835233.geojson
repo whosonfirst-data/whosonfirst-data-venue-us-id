@@ -2,13 +2,14 @@
   "id": 185835233,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.901897,43.632208,-116.901897,43.632208",
     "geom:latitude":43.632208,
     "geom:longitude":-116.901897,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"25525 Ustick Rd",
     "sg:city":"Wilder",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":185835233,
-    "wof:lastmodified":1449006843,
+    "wof:lastmodified":1466488417,
     "wof:name":"Cliff Eidemiller",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-116.901897,43.632208,-116.901897,43.632208],
-  "geometry": {"coordinates":[-116.901897,43.632208],"type":"Point"}
+  "bbox": [
+    -116.901897,
+    43.632208,
+    -116.901897,
+    43.632208
+],
+  "geometry": {"coordinates":[-116.90189700000001,43.632208],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186090343,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.225702,43.641792,-116.225702,43.641792",
     "geom:latitude":43.641792,
     "geom:longitude":-116.225702,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2902 Breneman St",
     "sg:city":"Boise",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186090343,
-    "wof:lastmodified":1449052467,
+    "wof:lastmodified":1466487761,
     "wof:name":"Acre Antiques-Appraisals",
     "wof:parent_id":85876339,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "antique"
     ]
 },
-  "bbox": [-116.225702,43.641792,-116.225702,43.641792],
+  "bbox": [
+    -116.225702,
+    43.641792,
+    -116.225702,
+    43.641792
+],
   "geometry": {"coordinates":[-116.225702,43.641792],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 185984675,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.941861,47.722766,-116.941861,47.722766",
     "geom:latitude":47.722766,
     "geom:longitude":-116.941861,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"503 E 15th Ave",
     "sg:city":"Post Falls",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":185984675,
-    "wof:lastmodified":1449007515,
+    "wof:lastmodified":1466488668,
     "wof:name":"Valente's Hair Design",
     "wof:parent_id":85833263,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-116.941861,47.722766,-116.941861,47.722766],
+  "bbox": [
+    -116.941861,
+    47.722766,
+    -116.941861,
+    47.722766
+],
   "geometry": {"coordinates":[-116.941861,47.722766],"type":"Point"}
 }

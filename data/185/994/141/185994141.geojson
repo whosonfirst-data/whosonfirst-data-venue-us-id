@@ -2,13 +2,14 @@
   "id": 185994141,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.26268,43.633762,-116.26268,43.633762",
     "geom:latitude":43.633762,
     "geom:longitude":-116.26268,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6501 Ustick Rd",
     "sg:city":"Boise",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":185994141,
-    "wof:lastmodified":1449006656,
+    "wof:lastmodified":1466488742,
     "wof:name":"Formal & Bridal Ctr",
     "wof:parent_id":85876311,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "supply"
     ]
 },
-  "bbox": [-116.26268,43.633762,-116.26268,43.633762],
+  "bbox": [
+    -116.26268,
+    43.633762,
+    -116.26268,
+    43.633762
+],
   "geometry": {"coordinates":[-116.26268,43.633762],"type":"Point"}
 }

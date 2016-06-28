@@ -2,13 +2,14 @@
   "id": 169737153,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.595126,43.600274,-116.595126,43.600274",
     "geom:latitude":43.600274,
     "geom:longitude":-116.595126,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1809 N Bingham Dr",
     "sg:city":"Nampa",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":169737153,
-    "wof:lastmodified":1449033422,
+    "wof:lastmodified":1466488314,
     "wof:name":"Morris Physical Therapy",
     "wof:parent_id":85827787,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "physical"
     ]
 },
-  "bbox": [-116.595126,43.600274,-116.595126,43.600274],
-  "geometry": {"coordinates":[-116.595126,43.600274],"type":"Point"}
+  "bbox": [
+    -116.595126,
+    43.600274,
+    -116.595126,
+    43.600274
+],
+  "geometry": {"coordinates":[-116.59512599999999,43.600274],"type":"Point"}
 }

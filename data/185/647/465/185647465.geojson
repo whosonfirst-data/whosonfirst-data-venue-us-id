@@ -2,13 +2,14 @@
   "id": 185647465,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.286548,43.626678,-116.286548,43.626678",
     "geom:latitude":43.626678,
     "geom:longitude":-116.286548,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8220 Northview St",
     "sg:city":"Boise",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":185647465,
-    "wof:lastmodified":1449007382,
+    "wof:lastmodified":1466487121,
     "wof:name":"Ameriwest Mortgage",
     "wof:parent_id":85841319,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "real estate"
     ]
 },
-  "bbox": [-116.286548,43.626678,-116.286548,43.626678],
+  "bbox": [
+    -116.286548,
+    43.626678,
+    -116.286548,
+    43.626678
+],
   "geometry": {"coordinates":[-116.286548,43.626678],"type":"Point"}
 }

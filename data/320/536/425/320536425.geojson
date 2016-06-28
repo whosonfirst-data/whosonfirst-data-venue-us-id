@@ -2,13 +2,14 @@
   "id": 320536425,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.940125,43.909203,-116.940125,43.909203",
     "geom:latitude":43.909203,
     "geom:longitude":-116.940125,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1510 Echo Ave",
     "sg:city":"Parma",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":320536425,
-    "wof:lastmodified":1449013484,
+    "wof:lastmodified":1466486843,
     "wof:name":"Ida-Ride",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-116.940125,43.909203,-116.940125,43.909203],
-  "geometry": {"coordinates":[-116.940125,43.909203],"type":"Point"}
+  "bbox": [
+    -116.940125,
+    43.909203,
+    -116.940125,
+    43.909203
+],
+  "geometry": {"coordinates":[-116.94012499999999,43.909203],"type":"Point"}
 }

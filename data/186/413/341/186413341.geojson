@@ -2,13 +2,14 @@
   "id": 186413341,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.404504,43.604734,-116.404504,43.604734",
     "geom:latitude":43.604734,
     "geom:longitude":-116.404504,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"850 W Franklin Rd",
     "sg:city":"Meridian",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":186413341,
-    "wof:lastmodified":1449050825,
+    "wof:lastmodified":1466488796,
     "wof:name":"2 Sisters Quilting Shoppe",
     "wof:parent_id":85805083,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -66,6 +68,11 @@
         "supply"
     ]
 },
-  "bbox": [-116.404504,43.604734,-116.404504,43.604734],
+  "bbox": [
+    -116.404504,
+    43.604734,
+    -116.404504,
+    43.604734
+],
   "geometry": {"coordinates":[-116.404504,43.604734],"type":"Point"}
 }

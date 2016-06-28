@@ -2,13 +2,14 @@
   "id": 186261177,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.448768,42.860584,-112.448768,42.860584",
     "geom:latitude":42.860584,
     "geom:longitude":-112.448768,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"215 W Bonneville St",
     "sg:city":"Pocatello",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186261177,
-    "wof:lastmodified":1449050309,
+    "wof:lastmodified":1466488608,
     "wof:name":"Pocatello Regional Transit",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "line"
     ]
 },
-  "bbox": [-112.448768,42.860584,-112.448768,42.860584],
+  "bbox": [
+    -112.448768,
+    42.860584,
+    -112.448768,
+    42.860584
+],
   "geometry": {"coordinates":[-112.448768,42.860584],"type":"Point"}
 }

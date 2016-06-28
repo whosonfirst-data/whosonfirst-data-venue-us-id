@@ -2,13 +2,14 @@
   "id": 320543463,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.325262,43.60956,-116.325262,43.60956",
     "geom:latitude":43.60956,
     "geom:longitude":-116.325262,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"11425 W Executive Dr Ste 220",
     "sg:city":"Boise",
     "sg:classifiers":[
@@ -60,10 +61,11 @@
         }
     ],
     "wof:id":320543463,
-    "wof:lastmodified":1449011987,
+    "wof:lastmodified":1466486967,
     "wof:name":"Cascade Earth Sciences-Ces",
     "wof:parent_id":85805083,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -73,6 +75,11 @@
         "environmental"
     ]
 },
-  "bbox": [-116.325262,43.60956,-116.325262,43.60956],
+  "bbox": [
+    -116.325262,
+    43.60956,
+    -116.325262,
+    43.60956
+],
   "geometry": {"coordinates":[-116.325262,43.60956],"type":"Point"}
 }

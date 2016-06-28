@@ -2,13 +2,14 @@
   "id": 185830589,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.772658,43.830348,-111.772658,43.830348",
     "geom:latitude":43.830348,
     "geom:longitude":-111.772658,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"393 E 2nd N",
     "sg:city":"Rexburg",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":185830589,
-    "wof:lastmodified":1449006958,
+    "wof:lastmodified":1466488417,
     "wof:name":"Marilyn E Brannon PHD",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.772658,43.830348,-111.772658,43.830348],
-  "geometry": {"coordinates":[-111.772658,43.830348],"type":"Point"}
+  "bbox": [
+    -111.772658,
+    43.830348,
+    -111.772658,
+    43.830348
+],
+  "geometry": {"coordinates":[-111.77265800000001,43.830348],"type":"Point"}
 }

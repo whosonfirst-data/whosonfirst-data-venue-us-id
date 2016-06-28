@@ -2,13 +2,14 @@
   "id": 186543231,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.096657,44.897959,-116.096657,44.897959",
     "geom:latitude":44.897959,
     "geom:longitude":-116.096657,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"114 N 3rd St",
     "sg:city":"Mccall",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":186543231,
-    "wof:lastmodified":1449050931,
+    "wof:lastmodified":1466488883,
     "wof:name":"Randy C Mc Mahan PC",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "accountant"
     ]
 },
-  "bbox": [-116.096657,44.897959,-116.096657,44.897959],
-  "geometry": {"coordinates":[-116.096657,44.897959],"type":"Point"}
+  "bbox": [
+    -116.096657,
+    44.897959,
+    -116.096657,
+    44.897959
+],
+  "geometry": {"coordinates":[-116.09665699999999,44.897959],"type":"Point"}
 }

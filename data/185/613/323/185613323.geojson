@@ -2,13 +2,14 @@
   "id": 185613323,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.69278,43.710035,-116.69278,43.710035",
     "geom:latitude":43.710035,
     "geom:longitude":-116.69278,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"23258 el Paso Rd",
     "sg:city":"Caldwell",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":185613323,
-    "wof:lastmodified":1449007362,
+    "wof:lastmodified":1466486864,
     "wof:name":"Stan Bland",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-116.69278,43.710035,-116.69278,43.710035],
+  "bbox": [
+    -116.69278,
+    43.710035,
+    -116.69278,
+    43.710035
+],
   "geometry": {"coordinates":[-116.69278,43.710035],"type":"Point"}
 }

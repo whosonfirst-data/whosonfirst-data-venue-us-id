@@ -2,13 +2,14 @@
   "id": 185671115,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.221104,43.353341,-111.221104,43.353341",
     "geom:latitude":43.353341,
     "geom:longitude":-111.221104,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3846 Swan Valley Hwy",
     "sg:city":"Palisades",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":185671115,
-    "wof:lastmodified":1449006981,
+    "wof:lastmodified":1466487297,
     "wof:name":"Dam Store",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "grocer"
     ]
 },
-  "bbox": [-111.221104,43.353341,-111.221104,43.353341],
+  "bbox": [
+    -111.221104,
+    43.353341,
+    -111.221104,
+    43.353341
+],
   "geometry": {"coordinates":[-111.221104,43.353341],"type":"Point"}
 }

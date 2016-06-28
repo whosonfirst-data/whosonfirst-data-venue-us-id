@@ -2,13 +2,14 @@
   "id": 169789451,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.880233,47.70585,-116.880233,47.70585",
     "geom:latitude":47.70585,
     "geom:longitude":-116.880233,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5250 E Seltice Way",
     "sg:city":"Post Falls",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":169789451,
-    "wof:lastmodified":1449034161,
+    "wof:lastmodified":1466488479,
     "wof:name":"Cooper Fabrication",
     "wof:parent_id":85821457,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "welding"
     ]
 },
-  "bbox": [-116.880233,47.70585,-116.880233,47.70585],
+  "bbox": [
+    -116.880233,
+    47.70585,
+    -116.880233,
+    47.70585
+],
   "geometry": {"coordinates":[-116.880233,47.70585],"type":"Point"}
 }

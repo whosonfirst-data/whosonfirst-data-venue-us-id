@@ -2,13 +2,14 @@
   "id": 320535623,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.944979,43.78605,-116.944979,43.78605",
     "geom:latitude":43.78605,
     "geom:longitude":-116.944979,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"208 E Grove Ave",
     "sg:city":"Parma",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":320535623,
-    "wof:lastmodified":1449011933,
+    "wof:lastmodified":1466486835,
     "wof:name":"Grayfield Insurance Agency Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "business"
     ]
 },
-  "bbox": [-116.944979,43.78605,-116.944979,43.78605],
+  "bbox": [
+    -116.944979,
+    43.78605,
+    -116.944979,
+    43.78605
+],
   "geometry": {"coordinates":[-116.944979,43.78605],"type":"Point"}
 }

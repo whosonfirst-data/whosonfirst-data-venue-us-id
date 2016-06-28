@@ -2,13 +2,14 @@
   "id": 186366405,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.995019,46.749148,-116.995019,46.749148",
     "geom:latitude":46.749148,
     "geom:longitude":-116.995019,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1401 N Polk Exd",
     "sg:city":"Moscow",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":186366405,
-    "wof:lastmodified":1449052316,
+    "wof:lastmodified":1466488758,
     "wof:name":"ALC Clark House",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "residential"
     ]
 },
-  "bbox": [-116.995019,46.749148,-116.995019,46.749148],
+  "bbox": [
+    -116.995019,
+    46.749148,
+    -116.995019,
+    46.749148
+],
   "geometry": {"coordinates":[-116.995019,46.749148],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 185617481,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.203722,43.58531,-116.203722,43.58531",
     "geom:latitude":43.58531,
     "geom:longitude":-116.203722,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1901 Annett St",
     "sg:city":"Boise",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":185617481,
-    "wof:lastmodified":1449006635,
+    "wof:lastmodified":1466486895,
     "wof:name":"Gene Ziegler-Millwright",
     "wof:parent_id":85876343,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "repairing"
     ]
 },
-  "bbox": [-116.203722,43.58531,-116.203722,43.58531],
+  "bbox": [
+    -116.203722,
+    43.58531,
+    -116.203722,
+    43.58531
+],
   "geometry": {"coordinates":[-116.203722,43.58531],"type":"Point"}
 }

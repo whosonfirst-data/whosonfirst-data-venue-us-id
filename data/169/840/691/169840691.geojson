@@ -2,13 +2,14 @@
   "id": 169840691,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.306146,43.622091,-116.306146,43.622091",
     "geom:latitude":43.622091,
     "geom:longitude":-116.306146,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1858 N Carissa Ave",
     "sg:city":"Boise",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":169840691,
-    "wof:lastmodified":1449035210,
+    "wof:lastmodified":1466488517,
     "wof:name":"Pro Books",
     "wof:parent_id":85876309,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "general"
     ]
 },
-  "bbox": [-116.306146,43.622091,-116.306146,43.622091],
+  "bbox": [
+    -116.306146,
+    43.622091,
+    -116.306146,
+    43.622091
+],
   "geometry": {"coordinates":[-116.306146,43.622091],"type":"Point"}
 }

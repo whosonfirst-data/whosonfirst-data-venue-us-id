@@ -2,13 +2,14 @@
   "id": 186551891,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.933427,44.063894,-115.933427,44.063894",
     "geom:latitude":44.063894,
     "geom:longitude":-115.933427,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"19 River Run Way",
     "sg:city":"Garden Valley",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":186551891,
-    "wof:lastmodified":1449050944,
+    "wof:lastmodified":1466488892,
     "wof:name":"Idaho World",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "newspaper"
     ]
 },
-  "bbox": [-115.933427,44.063894,-115.933427,44.063894],
-  "geometry": {"coordinates":[-115.933427,44.063894],"type":"Point"}
+  "bbox": [
+    -115.933427,
+    44.063894,
+    -115.933427,
+    44.063894
+],
+  "geometry": {"coordinates":[-115.93342699999999,44.063894],"type":"Point"}
 }

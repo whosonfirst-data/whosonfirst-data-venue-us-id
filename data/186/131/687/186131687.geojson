@@ -2,13 +2,14 @@
   "id": 186131687,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.409155,43.617568,-116.409155,43.617568",
     "geom:latitude":43.617568,
     "geom:longitude":-116.409155,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1240 Northgate Ct",
     "sg:city":"Meridian",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":186131687,
-    "wof:lastmodified":1449051188,
+    "wof:lastmodified":1466488168,
     "wof:name":"Tropical Tan & Salon",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-116.409155,43.617568,-116.409155,43.617568],
+  "bbox": [
+    -116.409155,
+    43.617568,
+    -116.409155,
+    43.617568
+],
   "geometry": {"coordinates":[-116.409155,43.617568],"type":"Point"}
 }

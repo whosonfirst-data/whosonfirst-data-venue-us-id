@@ -2,13 +2,14 @@
   "id": 185628997,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.879557,47.703183,-116.879557,47.703183",
     "geom:latitude":47.703183,
     "geom:longitude":-116.879557,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"205 Harbor Park Ct",
     "sg:city":"Post Falls",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":185628997,
-    "wof:lastmodified":1449007919,
+    "wof:lastmodified":1466486982,
     "wof:name":"Consider It Done",
     "wof:parent_id":85821457,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-116.879557,47.703183,-116.879557,47.703183],
-  "geometry": {"coordinates":[-116.879557,47.703183],"type":"Point"}
+  "bbox": [
+    -116.879557,
+    47.703183,
+    -116.879557,
+    47.703183
+],
+  "geometry": {"coordinates":[-116.87955700000001,47.703183],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 185852627,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.001258,43.489261,-112.001258,43.489261",
     "geom:latitude":43.489261,
     "geom:longitude":-112.001258,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"930 Koster Ave",
     "sg:city":"Idaho Falls",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":185852627,
-    "wof:lastmodified":1449007962,
+    "wof:lastmodified":1466488471,
     "wof:name":"Mop Shop",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "janitor"
     ]
 },
-  "bbox": [-112.001258,43.489261,-112.001258,43.489261],
-  "geometry": {"coordinates":[-112.001258,43.489261],"type":"Point"}
+  "bbox": [
+    -112.001258,
+    43.489261,
+    -112.001258,
+    43.489261
+],
+  "geometry": {"coordinates":[-112.00125800000001,43.489261],"type":"Point"}
 }

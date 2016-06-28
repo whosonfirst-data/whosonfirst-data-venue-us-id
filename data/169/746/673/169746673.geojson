@@ -2,13 +2,14 @@
   "id": 169746673,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.243962,42.182296,-112.243962,42.182296",
     "geom:latitude":42.182296,
     "geom:longitude":-112.243962,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"170 S Main St",
     "sg:city":"Malad City",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":169746673,
-    "wof:lastmodified":1449032653,
+    "wof:lastmodified":1466488407,
     "wof:name":"Thomas Food Ctr",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "grocer"
     ]
 },
-  "bbox": [-112.243962,42.182296,-112.243962,42.182296],
+  "bbox": [
+    -112.243962,
+    42.182296,
+    -112.243962,
+    42.182296
+],
   "geometry": {"coordinates":[-112.243962,42.182296],"type":"Point"}
 }

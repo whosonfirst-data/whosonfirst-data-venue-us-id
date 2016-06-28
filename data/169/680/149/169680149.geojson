@@ -2,13 +2,14 @@
   "id": 169680149,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.230434,43.57162,-116.230434,43.57162",
     "geom:latitude":43.57162,
     "geom:longitude":-116.230434,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3559 W Wright St",
     "sg:city":"Boise",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":169680149,
-    "wof:lastmodified":1449034995,
+    "wof:lastmodified":1466487964,
     "wof:name":"US Airway Facilities Sector",
     "wof:parent_id":85876337,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "federal"
     ]
 },
-  "bbox": [-116.230434,43.57162,-116.230434,43.57162],
+  "bbox": [
+    -116.230434,
+    43.57162,
+    -116.230434,
+    43.57162
+],
   "geometry": {"coordinates":[-116.230434,43.57162],"type":"Point"}
 }

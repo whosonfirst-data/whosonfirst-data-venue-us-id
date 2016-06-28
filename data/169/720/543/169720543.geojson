@@ -2,13 +2,14 @@
   "id": 169720543,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-113.901231,45.181842,-113.901231,45.181842",
     "geom:latitude":45.181842,
     "geom:longitude":-113.901231,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"302 Lombard St",
     "sg:city":"Salmon",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":169720543,
-    "wof:lastmodified":1449033481,
+    "wof:lastmodified":1466488196,
     "wof:name":"Paydirt Consulting",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "business"
     ]
 },
-  "bbox": [-113.901231,45.181842,-113.901231,45.181842],
+  "bbox": [
+    -113.901231,
+    45.181842,
+    -113.901231,
+    45.181842
+],
   "geometry": {"coordinates":[-113.901231,45.181842],"type":"Point"}
 }

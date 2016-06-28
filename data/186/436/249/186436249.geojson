@@ -2,13 +2,14 @@
   "id": 186436249,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.295422,43.592029,-116.295422,43.592029",
     "geom:latitude":43.592029,
     "geom:longitude":-116.295422,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9100 W Black Eagle Dr",
     "sg:city":"Boise",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186436249,
-    "wof:lastmodified":1449052763,
+    "wof:lastmodified":1466488808,
     "wof:name":"Leavitt Christensen & Co",
     "wof:parent_id":85876309,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "accountant"
     ]
 },
-  "bbox": [-116.295422,43.592029,-116.295422,43.592029],
+  "bbox": [
+    -116.295422,
+    43.592029,
+    -116.295422,
+    43.592029
+],
   "geometry": {"coordinates":[-116.295422,43.592029],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186470203,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.175644,43.563403,-116.175644,43.563403",
     "geom:latitude":43.563403,
     "geom:longitude":-116.175644,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"500 E Boeing Ln",
     "sg:city":"Boise",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186470203,
-    "wof:lastmodified":1449051044,
+    "wof:lastmodified":1466488781,
     "wof:name":"Western Home Transport Inc",
     "wof:parent_id":85876329,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "home"
     ]
 },
-  "bbox": [-116.175644,43.563403,-116.175644,43.563403],
-  "geometry": {"coordinates":[-116.175644,43.563403],"type":"Point"}
+  "bbox": [
+    -116.175644,
+    43.563403,
+    -116.175644,
+    43.563403
+],
+  "geometry": {"coordinates":[-116.17564400000001,43.563403],"type":"Point"}
 }

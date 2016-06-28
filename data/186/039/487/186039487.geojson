@@ -2,13 +2,14 @@
   "id": 186039487,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.120967,45.929236,-116.120967,45.929236",
     "geom:latitude":45.929236,
     "geom:longitude":-116.120967,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"408 N College St",
     "sg:city":"Grangeville",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":186039487,
-    "wof:lastmodified":1449052681,
+    "wof:lastmodified":1466487189,
     "wof:name":"Centennial Evangelical Free",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-116.120967,45.929236,-116.120967,45.929236],
-  "geometry": {"coordinates":[-116.120967,45.929236],"type":"Point"}
+  "bbox": [
+    -116.120967,
+    45.929236,
+    -116.120967,
+    45.929236
+],
+  "geometry": {"coordinates":[-116.12096699999999,45.929236],"type":"Point"}
 }

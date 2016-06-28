@@ -2,13 +2,14 @@
   "id": 169811803,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.662114,43.645121,-116.662114,43.645121",
     "geom:latitude":43.645121,
     "geom:longitude":-116.662114,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3402 Cleveland Blvd",
     "sg:city":"Caldwell",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":169811803,
-    "wof:lastmodified":1449034274,
+    "wof:lastmodified":1466488533,
     "wof:name":"Canyon County Certified Align",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -66,6 +68,11 @@
         "alignment"
     ]
 },
-  "bbox": [-116.662114,43.645121,-116.662114,43.645121],
+  "bbox": [
+    -116.662114,
+    43.645121,
+    -116.662114,
+    43.645121
+],
   "geometry": {"coordinates":[-116.662114,43.645121],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 185737613,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.865138,47.730241,-116.865138,47.730241",
     "geom:latitude":47.730241,
     "geom:longitude":-116.865138,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6531 E Poleline Ave",
     "sg:city":"Post Falls",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":185737613,
-    "wof:lastmodified":1449006979,
+    "wof:lastmodified":1466487821,
     "wof:name":"Grytnes Gemstones",
     "wof:parent_id":85821457,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-116.865138,47.730241,-116.865138,47.730241],
+  "bbox": [
+    -116.865138,
+    47.730241,
+    -116.865138,
+    47.730241
+],
   "geometry": {"coordinates":[-116.865138,47.730241],"type":"Point"}
 }

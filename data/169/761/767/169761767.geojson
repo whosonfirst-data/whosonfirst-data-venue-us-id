@@ -2,13 +2,14 @@
   "id": 169761767,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.110356,43.68977,-111.110356,43.68977",
     "geom:latitude":43.68977,
     "geom:longitude":-111.110356,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"231 S Hwy 33",
     "sg:city":"Driggs",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":169761767,
-    "wof:lastmodified":1449035178,
+    "wof:lastmodified":1466488438,
     "wof:name":"Spud Drive-In Theatre",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.110356,43.68977,-111.110356,43.68977],
+  "bbox": [
+    -111.110356,
+    43.68977,
+    -111.110356,
+    43.68977
+],
   "geometry": {"coordinates":[-111.110356,43.68977],"type":"Point"}
 }

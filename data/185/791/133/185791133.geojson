@@ -2,13 +2,14 @@
   "id": 185791133,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.706622,43.144527,-115.706622,43.144527",
     "geom:latitude":43.144527,
     "geom:longitude":-115.706622,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1080 Sunset Strip",
     "sg:city":"Mountain Home",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":185791133,
-    "wof:lastmodified":1449007863,
+    "wof:lastmodified":1466488242,
     "wof:name":"Terry's Truck & Rv",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-115.706622,43.144527,-115.706622,43.144527],
+  "bbox": [
+    -115.706622,
+    43.144527,
+    -115.706622,
+    43.144527
+],
   "geometry": {"coordinates":[-115.706622,43.144527],"type":"Point"}
 }

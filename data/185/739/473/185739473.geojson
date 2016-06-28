@@ -2,13 +2,14 @@
   "id": 185739473,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.783904,47.67427,-116.783904,47.67427",
     "geom:latitude":47.67427,
     "geom:longitude":-116.783904,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"218 E Lakeside Ave",
     "sg:city":"Coeur D Alene",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":185739473,
-    "wof:lastmodified":1449007281,
+    "wof:lastmodified":1466487837,
     "wof:name":"Washington Trust Bank",
     "wof:parent_id":85821457,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "commercial"
     ]
 },
-  "bbox": [-116.783904,47.67427,-116.783904,47.67427],
-  "geometry": {"coordinates":[-116.783904,47.67427],"type":"Point"}
+  "bbox": [
+    -116.783904,
+    47.67427,
+    -116.783904,
+    47.67427
+],
+  "geometry": {"coordinates":[-116.78390400000001,47.67427],"type":"Point"}
 }

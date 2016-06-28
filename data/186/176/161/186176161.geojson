@@ -2,13 +2,14 @@
   "id": 186176161,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.597146,43.58803,-116.597146,43.58803",
     "geom:latitude":43.58803,
     "geom:longitude":-116.597146,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1308 Camelot Dr",
     "sg:city":"Nampa",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":186176161,
-    "wof:lastmodified":1449052124,
+    "wof:lastmodified":1466488448,
     "wof:name":"Able Carpet Care",
     "wof:parent_id":85827787,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "carpet"
     ]
 },
-  "bbox": [-116.597146,43.58803,-116.597146,43.58803],
+  "bbox": [
+    -116.597146,
+    43.58803,
+    -116.597146,
+    43.58803
+],
   "geometry": {"coordinates":[-116.597146,43.58803],"type":"Point"}
 }

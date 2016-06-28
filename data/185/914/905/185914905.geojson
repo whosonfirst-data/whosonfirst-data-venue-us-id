@@ -2,13 +2,14 @@
   "id": 185914905,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-113.790475,42.524274,-113.790475,42.524274",
     "geom:latitude":42.524274,
     "geom:longitude":-113.790475,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2288 Hansen Dr",
     "sg:city":"Burley",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":185914905,
-    "wof:lastmodified":1449007222,
+    "wof:lastmodified":1466488589,
     "wof:name":"Gibson Distrubuting",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "rebuilt"
     ]
 },
-  "bbox": [-113.790475,42.524274,-113.790475,42.524274],
+  "bbox": [
+    -113.790475,
+    42.524274,
+    -113.790475,
+    42.524274
+],
   "geometry": {"coordinates":[-113.790475,42.524274],"type":"Point"}
 }

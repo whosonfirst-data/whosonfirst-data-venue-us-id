@@ -2,13 +2,14 @@
   "id": 185954181,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.781247,47.673852,-116.781247,47.673852",
     "geom:latitude":47.673852,
     "geom:longitude":-116.781247,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"105 N 4th St",
     "sg:city":"Coeur D Alene",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":185954181,
-    "wof:lastmodified":1449008016,
+    "wof:lastmodified":1466488600,
     "wof:name":"Hometown Planning Svc",
     "wof:parent_id":85821457,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "land"
     ]
 },
-  "bbox": [-116.781247,47.673852,-116.781247,47.673852],
-  "geometry": {"coordinates":[-116.781247,47.673852],"type":"Point"}
+  "bbox": [
+    -116.781247,
+    47.673852,
+    -116.781247,
+    47.673852
+],
+  "geometry": {"coordinates":[-116.78124699999999,47.673852],"type":"Point"}
 }

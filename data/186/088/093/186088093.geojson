@@ -2,13 +2,14 @@
   "id": 186088093,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.974717,47.707738,-116.974717,47.707738",
     "geom:latitude":47.707738,
     "geom:longitude":-116.974717,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2033 W Lundy Blvd",
     "sg:city":"Post Falls",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":186088093,
-    "wof:lastmodified":1449052407,
+    "wof:lastmodified":1466487740,
     "wof:name":"Pat Meadows",
     "wof:parent_id":85833263,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-116.974717,47.707738,-116.974717,47.707738],
+  "bbox": [
+    -116.974717,
+    47.707738,
+    -116.974717,
+    47.707738
+],
   "geometry": {"coordinates":[-116.974717,47.707738],"type":"Point"}
 }

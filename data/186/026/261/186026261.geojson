@@ -2,13 +2,14 @@
   "id": 186026261,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.121751,45.919768,-116.121751,45.919768",
     "geom:latitude":45.919768,
     "geom:longitude":-116.121751,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"120 SE 7th St",
     "sg:city":"Grangeville",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":186026261,
-    "wof:lastmodified":1449051950,
+    "wof:lastmodified":1466487037,
     "wof:name":"Camas Gifts",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-116.121751,45.919768,-116.121751,45.919768],
+  "bbox": [
+    -116.121751,
+    45.919768,
+    -116.121751,
+    45.919768
+],
   "geometry": {"coordinates":[-116.121751,45.919768],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169747903,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.551478,47.299707,-116.551478,47.299707",
     "geom:latitude":47.299707,
     "geom:longitude":-116.551478,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1303 Saint Maries River Rd",
     "sg:city":"Coeur D Alene",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":169747903,
-    "wof:lastmodified":1449033288,
+    "wof:lastmodified":1466488419,
     "wof:name":"Onnen Corp",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-116.551478,47.299707,-116.551478,47.299707],
+  "bbox": [
+    -116.551478,
+    47.299707,
+    -116.551478,
+    47.299707
+],
   "geometry": {"coordinates":[-116.551478,47.299707],"type":"Point"}
 }

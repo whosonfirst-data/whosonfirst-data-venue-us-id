@@ -2,13 +2,14 @@
   "id": 185959387,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-117.003929,47.716165,-117.003929,47.716165",
     "geom:latitude":47.716165,
     "geom:longitude":-117.003929,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4300 W Seltice Way",
     "sg:city":"Post Falls",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":185959387,
-    "wof:lastmodified":1449008064,
+    "wof:lastmodified":1466488689,
     "wof:name":"Summit Mold & Mfg",
     "wof:parent_id":85833263,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "manufacturer"
     ]
 },
-  "bbox": [-117.003929,47.716165,-117.003929,47.716165],
+  "bbox": [
+    -117.003929,
+    47.716165,
+    -117.003929,
+    47.716165
+],
   "geometry": {"coordinates":[-117.003929,47.716165],"type":"Point"}
 }

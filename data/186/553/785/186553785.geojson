@@ -2,13 +2,14 @@
   "id": 186553785,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.942732,43.618779,-116.942732,43.618779",
     "geom:latitude":43.618779,
     "geom:longitude":-116.942732,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"402 W Owyhee Ave",
     "sg:city":"Homedale",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":186553785,
-    "wof:lastmodified":1449050273,
+    "wof:lastmodified":1466488934,
     "wof:name":"Owyhee Sewer & Pump",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "pump"
     ]
 },
-  "bbox": [-116.942732,43.618779,-116.942732,43.618779],
-  "geometry": {"coordinates":[-116.942732,43.618779],"type":"Point"}
+  "bbox": [
+    -116.942732,
+    43.618779,
+    -116.942732,
+    43.618779
+],
+  "geometry": {"coordinates":[-116.94273200000001,43.618779],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 185666421,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.100825,44.910727,-116.100825,44.910727",
     "geom:latitude":44.910727,
     "geom:longitude":-116.100825,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"317 E Lake St",
     "sg:city":"Mc Call",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":185666421,
-    "wof:lastmodified":1449007189,
+    "wof:lastmodified":1466487262,
     "wof:name":"Paleo Impressions",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "fossil"
     ]
 },
-  "bbox": [-116.100825,44.910727,-116.100825,44.910727],
+  "bbox": [
+    -116.100825,
+    44.910727,
+    -116.100825,
+    44.910727
+],
   "geometry": {"coordinates":[-116.100825,44.910727],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186350115,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.109742,43.713,-112.109742,43.713",
     "geom:latitude":43.713,
     "geom:longitude":-112.109742,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2967 E 600 N",
     "sg:city":"Roberts",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":186350115,
-    "wof:lastmodified":1449051733,
+    "wof:lastmodified":1466488675,
     "wof:name":"High Country Storage",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "storage"
     ]
 },
-  "bbox": [-112.109742,43.713,-112.109742,43.713],
+  "bbox": [
+    -112.109742,
+    43.713,
+    -112.109742,
+    43.713
+],
   "geometry": {"coordinates":[-112.109742,43.713],"type":"Point"}
 }

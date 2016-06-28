@@ -2,13 +2,14 @@
   "id": 320544319,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.946968,48.009579,-116.946968,48.009579",
     "geom:latitude":48.009579,
     "geom:longitude":-116.946968,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"26590 Highway 41",
     "sg:city":"Blanchard",
     "sg:classifiers":[
@@ -56,10 +57,11 @@
         }
     ],
     "wof:id":320544319,
-    "wof:lastmodified":1449014962,
+    "wof:lastmodified":1466486977,
     "wof:name":"Blanchard Community Church",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -70,6 +72,11 @@
         "christ"
     ]
 },
-  "bbox": [-116.946968,48.009579,-116.946968,48.009579],
+  "bbox": [
+    -116.946968,
+    48.009579,
+    -116.946968,
+    48.009579
+],
   "geometry": {"coordinates":[-116.946968,48.009579],"type":"Point"}
 }

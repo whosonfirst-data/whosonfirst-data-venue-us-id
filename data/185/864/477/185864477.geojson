@@ -2,13 +2,14 @@
   "id": 185864477,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.466464,42.952267,-112.466464,42.952267",
     "geom:latitude":42.952267,
     "geom:longitude":-112.466464,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"13262 N Yellowstone Hwy",
     "sg:city":"Pocatello",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":185864477,
-    "wof:lastmodified":1449008229,
+    "wof:lastmodified":1466488495,
     "wof:name":"R & A Environmental",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "consultant"
     ]
 },
-  "bbox": [-112.466464,42.952267,-112.466464,42.952267],
+  "bbox": [
+    -112.466464,
+    42.952267,
+    -112.466464,
+    42.952267
+],
   "geometry": {"coordinates":[-112.466464,42.952267],"type":"Point"}
 }

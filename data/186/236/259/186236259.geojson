@@ -2,13 +2,14 @@
   "id": 186236259,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-113.745945,42.60498,-113.745945,42.60498",
     "geom:latitude":42.60498,
     "geom:longitude":-113.745945,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"413 W 100 S",
     "sg:city":"Rupert",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":186236259,
-    "wof:lastmodified":1449050530,
+    "wof:lastmodified":1466488568,
     "wof:name":"Ssas",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-113.745945,42.60498,-113.745945,42.60498],
-  "geometry": {"coordinates":[-113.745945,42.60498],"type":"Point"}
+  "bbox": [
+    -113.745945,
+    42.60498,
+    -113.745945,
+    42.60498
+],
+  "geometry": {"coordinates":[-113.74594500000001,42.60498],"type":"Point"}
 }

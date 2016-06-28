@@ -2,13 +2,14 @@
   "id": 169607213,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.765499,47.667331,-116.765499,47.667331",
     "geom:latitude":47.667331,
     "geom:longitude":-116.765499,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1401 E Ash Ave",
     "sg:city":"Coeur D Alene",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":169607213,
-    "wof:lastmodified":1449033121,
+    "wof:lastmodified":1466486914,
     "wof:name":"Simplee Design",
     "wof:parent_id":85821457,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "mfg"
     ]
 },
-  "bbox": [-116.765499,47.667331,-116.765499,47.667331],
-  "geometry": {"coordinates":[-116.765499,47.667331],"type":"Point"}
+  "bbox": [
+    -116.765499,
+    47.667331,
+    -116.765499,
+    47.667331
+],
+  "geometry": {"coordinates":[-116.76549900000001,47.667331],"type":"Point"}
 }

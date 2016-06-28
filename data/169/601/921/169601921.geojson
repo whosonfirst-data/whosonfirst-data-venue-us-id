@@ -2,13 +2,14 @@
   "id": 169601921,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.851589,46.20934,-116.851589,46.20934",
     "geom:latitude":46.20934,
     "geom:longitude":-116.851589,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"40032 Waha Glen Rd",
     "sg:city":"Lewiston",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":169601921,
-    "wof:lastmodified":1449034149,
+    "wof:lastmodified":1466488397,
     "wof:name":"F & I Fast Forms Inc",
     "wof:parent_id":85837769,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-116.851589,46.20934,-116.851589,46.20934],
+  "bbox": [
+    -116.851589,
+    46.20934,
+    -116.851589,
+    46.20934
+],
   "geometry": {"coordinates":[-116.851589,46.20934],"type":"Point"}
 }

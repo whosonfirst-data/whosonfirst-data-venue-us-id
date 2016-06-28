@@ -2,13 +2,14 @@
   "id": 186555923,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.401061,43.684688,-114.401061,43.684688",
     "geom:latitude":43.684688,
     "geom:longitude":-114.401061,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"119 Picabo St",
     "sg:city":"Ketchum",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":186555923,
-    "wof:lastmodified":1449052634,
+    "wof:lastmodified":1466488894,
     "wof:name":"Mather Capital",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "investment"
     ]
 },
-  "bbox": [-114.401061,43.684688,-114.401061,43.684688],
+  "bbox": [
+    -114.401061,
+    43.684688,
+    -114.401061,
+    43.684688
+],
   "geometry": {"coordinates":[-114.401061,43.684688],"type":"Point"}
 }

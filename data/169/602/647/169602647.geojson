@@ -2,13 +2,14 @@
   "id": 169602647,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.817622,43.747244,-111.817622,43.747244",
     "geom:latitude":43.747244,
     "geom:longitude":-111.817622,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5548 S 2000 W",
     "sg:city":"Rexburg",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":169602647,
-    "wof:lastmodified":1449034228,
+    "wof:lastmodified":1466486840,
     "wof:name":"Lance Turman Construction",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-111.817622,43.747244,-111.817622,43.747244],
+  "bbox": [
+    -111.817622,
+    43.747244,
+    -111.817622,
+    43.747244
+],
   "geometry": {"coordinates":[-111.817622,43.747244],"type":"Point"}
 }

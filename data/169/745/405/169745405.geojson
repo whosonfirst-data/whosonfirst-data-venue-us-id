@@ -2,13 +2,14 @@
   "id": 169745405,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.442088,43.211146,-112.442088,43.211146",
     "geom:latitude":43.211146,
     "geom:longitude":-112.442088,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"702 W 100 N",
     "sg:city":"Blackfoot",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":169745405,
-    "wof:lastmodified":1449035815,
+    "wof:lastmodified":1466488397,
     "wof:name":"Tominaga Custom Framing",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "merchandise"
     ]
 },
-  "bbox": [-112.442088,43.211146,-112.442088,43.211146],
+  "bbox": [
+    -112.442088,
+    43.211146,
+    -112.442088,
+    43.211146
+],
   "geometry": {"coordinates":[-112.442088,43.211146],"type":"Point"}
 }

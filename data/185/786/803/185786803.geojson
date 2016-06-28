@@ -2,13 +2,14 @@
   "id": 185786803,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.910835,43.677817,-116.910835,43.677817",
     "geom:latitude":43.677817,
     "geom:longitude":-116.910835,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"212 4th St",
     "sg:city":"Wilder",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":185786803,
-    "wof:lastmodified":1449006815,
+    "wof:lastmodified":1466488208,
     "wof:name":"Wilder Repair Shop",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "equipment"
     ]
 },
-  "bbox": [-116.910835,43.677817,-116.910835,43.677817],
-  "geometry": {"coordinates":[-116.910835,43.677817],"type":"Point"}
+  "bbox": [
+    -116.910835,
+    43.677817,
+    -116.910835,
+    43.677817
+],
+  "geometry": {"coordinates":[-116.91083500000001,43.677817],"type":"Point"}
 }

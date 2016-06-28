@@ -2,13 +2,14 @@
   "id": 320546729,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-117.037303,46.733632,-117.037303,46.733632",
     "geom:latitude":46.733632,
     "geom:longitude":-117.037303,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"217 Warbonnet Dr",
     "sg:city":"Moscow",
     "sg:classifiers":[
@@ -71,10 +72,11 @@
         }
     ],
     "wof:id":320546729,
-    "wof:lastmodified":1449011254,
+    "wof:lastmodified":1466487007,
     "wof:name":"Deranleau's Appliance Audio",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -91,6 +93,11 @@
         "store"
     ]
 },
-  "bbox": [-117.037303,46.733632,-117.037303,46.733632],
-  "geometry": {"coordinates":[-117.037303,46.733632],"type":"Point"}
+  "bbox": [
+    -117.037303,
+    46.733632,
+    -117.037303,
+    46.733632
+],
+  "geometry": {"coordinates":[-117.03730299999999,46.733632],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186188727,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.280375,43.624682,-116.280375,43.624682",
     "geom:latitude":43.624682,
     "geom:longitude":-116.280375,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7823 Wesley Dr",
     "sg:city":"Boise",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186188727,
-    "wof:lastmodified":1449051708,
+    "wof:lastmodified":1466488378,
     "wof:name":"M Christison Sales",
     "wof:parent_id":85841319,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "business"
     ]
 },
-  "bbox": [-116.280375,43.624682,-116.280375,43.624682],
-  "geometry": {"coordinates":[-116.280375,43.624682],"type":"Point"}
+  "bbox": [
+    -116.280375,
+    43.624682,
+    -116.280375,
+    43.624682
+],
+  "geometry": {"coordinates":[-116.28037500000001,43.624682],"type":"Point"}
 }

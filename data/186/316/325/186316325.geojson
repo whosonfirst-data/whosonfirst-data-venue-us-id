@@ -2,13 +2,14 @@
   "id": 186316325,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.042255,43.489107,-112.042255,43.489107",
     "geom:latitude":43.489107,
     "geom:longitude":-112.042255,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"243 Cliff St",
     "sg:city":"Idaho Falls",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":186316325,
-    "wof:lastmodified":1449052190,
+    "wof:lastmodified":1466488622,
     "wof:name":"Carstens' Bakery",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "baker"
     ]
 },
-  "bbox": [-112.042255,43.489107,-112.042255,43.489107],
+  "bbox": [
+    -112.042255,
+    43.489107,
+    -112.042255,
+    43.489107
+],
   "geometry": {"coordinates":[-112.042255,43.489107],"type":"Point"}
 }

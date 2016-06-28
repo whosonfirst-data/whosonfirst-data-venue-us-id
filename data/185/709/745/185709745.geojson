@@ -2,13 +2,14 @@
   "id": 185709745,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.789931,47.761382,-116.789931,47.761382",
     "geom:latitude":47.761382,
     "geom:longitude":-116.789931,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"249 W Hilgren Ave",
     "sg:city":"Hayden",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":185709745,
-    "wof:lastmodified":1449006939,
+    "wof:lastmodified":1466487601,
     "wof:name":"Designs",
     "wof:parent_id":85821457,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-116.789931,47.761382,-116.789931,47.761382],
+  "bbox": [
+    -116.789931,
+    47.761382,
+    -116.789931,
+    47.761382
+],
   "geometry": {"coordinates":[-116.789931,47.761382],"type":"Point"}
 }

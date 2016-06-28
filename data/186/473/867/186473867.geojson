@@ -2,13 +2,14 @@
   "id": 186473867,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.786697,47.722804,-116.786697,47.722804",
     "geom:latitude":47.722804,
     "geom:longitude":-116.786697,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5712 N Government Way",
     "sg:city":"Coeur D Alene",
     "sg:classifiers":[
@@ -62,10 +63,11 @@
         }
     ],
     "wof:id":186473867,
-    "wof:lastmodified":1449050963,
+    "wof:lastmodified":1466488899,
     "wof:name":"Affordable Transmissions",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -73,6 +75,11 @@
         "general"
     ]
 },
-  "bbox": [-116.786697,47.722804,-116.786697,47.722804],
+  "bbox": [
+    -116.786697,
+    47.722804,
+    -116.786697,
+    47.722804
+],
   "geometry": {"coordinates":[-116.786697,47.722804],"type":"Point"}
 }

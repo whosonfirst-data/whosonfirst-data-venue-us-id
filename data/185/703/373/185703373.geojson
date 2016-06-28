@@ -2,13 +2,14 @@
   "id": 185703373,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.241122,43.610599,-116.241122,43.610599",
     "geom:latitude":43.610599,
     "geom:longitude":-116.241122,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"711 N Pond St",
     "sg:city":"Boise",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":185703373,
-    "wof:lastmodified":1449007096,
+    "wof:lastmodified":1466487551,
     "wof:name":"Steven Jay Hanson",
     "wof:parent_id":85876311,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "contractor"
     ]
 },
-  "bbox": [-116.241122,43.610599,-116.241122,43.610599],
+  "bbox": [
+    -116.241122,
+    43.610599,
+    -116.241122,
+    43.610599
+],
   "geometry": {"coordinates":[-116.241122,43.610599],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186126103,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-113.853145,42.519294,-113.853145,42.519294",
     "geom:latitude":42.519294,
     "geom:longitude":-113.853145,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"60 S 300 W",
     "sg:city":"Burley",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":186126103,
-    "wof:lastmodified":1449051374,
+    "wof:lastmodified":1466488115,
     "wof:name":"Ryan Pearson",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "lessor"
     ]
 },
-  "bbox": [-113.853145,42.519294,-113.853145,42.519294],
+  "bbox": [
+    -113.853145,
+    42.519294,
+    -113.853145,
+    42.519294
+],
   "geometry": {"coordinates":[-113.853145,42.519294],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169665815,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.701425,43.148903,-115.701425,43.148903",
     "geom:latitude":43.148903,
     "geom:longitude":-115.701425,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1585 Castle Way",
     "sg:city":"Mountain Home",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":169665815,
-    "wof:lastmodified":1449033695,
+    "wof:lastmodified":1466487826,
     "wof:name":"Mountain Home Chapter",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "social"
     ]
 },
-  "bbox": [-115.701425,43.148903,-115.701425,43.148903],
+  "bbox": [
+    -115.701425,
+    43.148903,
+    -115.701425,
+    43.148903
+],
   "geometry": {"coordinates":[-115.701425,43.148903],"type":"Point"}
 }

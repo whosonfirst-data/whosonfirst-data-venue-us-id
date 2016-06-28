@@ -2,13 +2,14 @@
   "id": 186244473,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.003104,43.496848,-112.003104,43.496848",
     "geom:latitude":43.496848,
     "geom:longitude":-112.003104,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1421 1st St",
     "sg:city":"Idaho Falls",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":186244473,
-    "wof:lastmodified":1449051434,
+    "wof:lastmodified":1466488577,
     "wof:name":"Essence Of You Day Spa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.003104,43.496848,-112.003104,43.496848],
-  "geometry": {"coordinates":[-112.003104,43.496848],"type":"Point"}
+  "bbox": [
+    -112.003104,
+    43.496848,
+    -112.003104,
+    43.496848
+],
+  "geometry": {"coordinates":[-112.00310399999999,43.496848],"type":"Point"}
 }

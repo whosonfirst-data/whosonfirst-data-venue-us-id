@@ -2,13 +2,14 @@
   "id": 186485731,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.99594,47.7198,-116.99594,47.7198",
     "geom:latitude":47.7198,
     "geom:longitude":-116.99594,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3490 W Echo Dr",
     "sg:city":"Post Falls",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":186485731,
-    "wof:lastmodified":1449051997,
+    "wof:lastmodified":1466488906,
     "wof:name":"Sherman Enterprises",
     "wof:parent_id":85833263,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "engineer"
     ]
 },
-  "bbox": [-116.99594,47.7198,-116.99594,47.7198],
+  "bbox": [
+    -116.99594,
+    47.7198,
+    -116.99594,
+    47.7198
+],
   "geometry": {"coordinates":[-116.99594,47.7198],"type":"Point"}
 }

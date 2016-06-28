@@ -2,13 +2,14 @@
   "id": 169777059,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.574012,43.554209,-116.574012,43.554209",
     "geom:latitude":43.554209,
     "geom:longitude":-116.574012,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"211 W Iowa Ave",
     "sg:city":"Nampa",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":169777059,
-    "wof:lastmodified":1449034427,
+    "wof:lastmodified":1466488463,
     "wof:name":"Family Medical Clinic",
     "wof:parent_id":85827787,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "surgeon"
     ]
 },
-  "bbox": [-116.574012,43.554209,-116.574012,43.554209],
+  "bbox": [
+    -116.574012,
+    43.554209,
+    -116.574012,
+    43.554209
+],
   "geometry": {"coordinates":[-116.574012,43.554209],"type":"Point"}
 }

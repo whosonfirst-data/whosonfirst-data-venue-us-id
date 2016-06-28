@@ -2,13 +2,14 @@
   "id": 186266001,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.21336,43.625233,-116.21336,43.625233",
     "geom:latitude":43.625233,
     "geom:longitude":-116.21336,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1810 W State St",
     "sg:city":"Boise",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186266001,
-    "wof:lastmodified":1449050350,
+    "wof:lastmodified":1466488695,
     "wof:name":"Debi's & Mr T's Bail Bonds",
     "wof:parent_id":85876355,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "bond"
     ]
 },
-  "bbox": [-116.21336,43.625233,-116.21336,43.625233],
-  "geometry": {"coordinates":[-116.21336,43.625233],"type":"Point"}
+  "bbox": [
+    -116.21336,
+    43.625233,
+    -116.21336,
+    43.625233
+],
+  "geometry": {"coordinates":[-116.21335999999999,43.625233],"type":"Point"}
 }

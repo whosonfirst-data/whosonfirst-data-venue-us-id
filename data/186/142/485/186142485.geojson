@@ -2,13 +2,14 @@
   "id": 186142485,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.516172,43.524147,-116.516172,43.524147",
     "geom:latitude":43.524147,
     "geom:longitude":-116.516172,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4500 Alma Ln",
     "sg:city":"Nampa",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":186142485,
-    "wof:lastmodified":1449052475,
+    "wof:lastmodified":1466488248,
     "wof:name":"Schuler Alternatives",
     "wof:parent_id":85827787,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "contractor"
     ]
 },
-  "bbox": [-116.516172,43.524147,-116.516172,43.524147],
+  "bbox": [
+    -116.516172,
+    43.524147,
+    -116.516172,
+    43.524147
+],
   "geometry": {"coordinates":[-116.516172,43.524147],"type":"Point"}
 }

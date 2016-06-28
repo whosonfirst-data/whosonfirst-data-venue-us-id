@@ -2,13 +2,14 @@
   "id": 169826621,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.248739,43.637629,-116.248739,43.637629",
     "geom:latitude":43.637629,
     "geom:longitude":-116.248739,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"701 E 44th St",
     "sg:city":"Boise",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":169826621,
-    "wof:lastmodified":1449035073,
+    "wof:lastmodified":1466488570,
     "wof:name":"Surplus Food",
     "wof:parent_id":85876339,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "welfare"
     ]
 },
-  "bbox": [-116.248739,43.637629,-116.248739,43.637629],
+  "bbox": [
+    -116.248739,
+    43.637629,
+    -116.248739,
+    43.637629
+],
   "geometry": {"coordinates":[-116.248739,43.637629],"type":"Point"}
 }

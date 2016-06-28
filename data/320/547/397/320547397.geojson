@@ -2,13 +2,14 @@
   "id": 320547397,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.992653,46.731121,-116.992653,46.731121",
     "geom:latitude":46.731121,
     "geom:longitude":-116.992653,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"500 S Howard St",
     "sg:city":"Moscow",
     "sg:classifiers":[
@@ -59,10 +60,11 @@
         }
     ],
     "wof:id":320547397,
-    "wof:lastmodified":1449011618,
+    "wof:lastmodified":1466487013,
     "wof:name":"Goicoechea Law Offices",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -77,6 +79,11 @@
         "employment"
     ]
 },
-  "bbox": [-116.992653,46.731121,-116.992653,46.731121],
+  "bbox": [
+    -116.992653,
+    46.731121,
+    -116.992653,
+    46.731121
+],
   "geometry": {"coordinates":[-116.992653,46.731121],"type":"Point"}
 }

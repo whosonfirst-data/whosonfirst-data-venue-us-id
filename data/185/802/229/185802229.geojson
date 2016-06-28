@@ -2,13 +2,14 @@
   "id": 185802229,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.553382,48.275139,-116.553382,48.275139",
     "geom:latitude":48.275139,
     "geom:longitude":-116.553382,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"502 Oak St",
     "sg:city":"Sandpoint",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":185802229,
-    "wof:lastmodified":1449007930,
+    "wof:lastmodified":1466488380,
     "wof:name":"Cycle Haus",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "motor"
     ]
 },
-  "bbox": [-116.553382,48.275139,-116.553382,48.275139],
+  "bbox": [
+    -116.553382,
+    48.275139,
+    -116.553382,
+    48.275139
+],
   "geometry": {"coordinates":[-116.553382,48.275139],"type":"Point"}
 }

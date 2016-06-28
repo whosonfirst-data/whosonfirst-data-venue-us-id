@@ -2,13 +2,14 @@
   "id": 185847727,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-117.001627,46.732264,-117.001627,46.732264",
     "geom:latitude":46.732264,
     "geom:longitude":-117.001627,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"129 W 3rd St",
     "sg:city":"Moscow",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":185847727,
-    "wof:lastmodified":1449007179,
+    "wof:lastmodified":1466488365,
     "wof:name":"Troy Preschool",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "school"
     ]
 },
-  "bbox": [-117.001627,46.732264,-117.001627,46.732264],
+  "bbox": [
+    -117.001627,
+    46.732264,
+    -117.001627,
+    46.732264
+],
   "geometry": {"coordinates":[-117.001627,46.732264],"type":"Point"}
 }

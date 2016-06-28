@@ -2,13 +2,14 @@
   "id": 186004265,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.98746,43.648648,-115.98746,43.648648",
     "geom:latitude":43.648648,
     "geom:longitude":-115.98746,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"13 Blacksmith Rd",
     "sg:city":"Boise",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":186004265,
-    "wof:lastmodified":1449051365,
+    "wof:lastmodified":1466488172,
     "wof:name":"S & S Construction Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "contractor"
     ]
 },
-  "bbox": [-115.98746,43.648648,-115.98746,43.648648],
+  "bbox": [
+    -115.98746,
+    43.648648,
+    -115.98746,
+    43.648648
+],
   "geometry": {"coordinates":[-115.98746,43.648648],"type":"Point"}
 }

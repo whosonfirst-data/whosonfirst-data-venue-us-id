@@ -2,13 +2,14 @@
   "id": 186520517,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.638381,43.861296,-111.638381,43.861296",
     "geom:latitude":43.861296,
     "geom:longitude":-111.638381,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2466 N 7000 E",
     "sg:city":"Teton",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":186520517,
-    "wof:lastmodified":1449051280,
+    "wof:lastmodified":1466488926,
     "wof:name":"Moody Creek Insulation Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "contractor"
     ]
 },
-  "bbox": [-111.638381,43.861296,-111.638381,43.861296],
+  "bbox": [
+    -111.638381,
+    43.861296,
+    -111.638381,
+    43.861296
+],
   "geometry": {"coordinates":[-111.638381,43.861296],"type":"Point"}
 }

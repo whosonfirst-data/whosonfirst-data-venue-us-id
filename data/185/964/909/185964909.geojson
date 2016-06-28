@@ -2,13 +2,14 @@
   "id": 185964909,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.250517,43.630631,-116.250517,43.630631",
     "geom:latitude":43.630631,
     "geom:longitude":-116.250517,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4100 Chinden Blvd",
     "sg:city":"Boise",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":185964909,
-    "wof:lastmodified":1449007824,
+    "wof:lastmodified":1466488699,
     "wof:name":"Harrison Wood Products",
     "wof:parent_id":85876339,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "engineering"
     ]
 },
-  "bbox": [-116.250517,43.630631,-116.250517,43.630631],
+  "bbox": [
+    -116.250517,
+    43.630631,
+    -116.250517,
+    43.630631
+],
   "geometry": {"coordinates":[-116.250517,43.630631],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186053397,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.386506,43.59709,-116.386506,43.59709",
     "geom:latitude":43.59709,
     "geom:longitude":-116.386506,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"580 E Corporate Dr",
     "sg:city":"Meridian",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":186053397,
-    "wof:lastmodified":1449050910,
+    "wof:lastmodified":1466487349,
     "wof:name":"Promed Keyboard Group",
     "wof:parent_id":85805083,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-116.386506,43.59709,-116.386506,43.59709],
+  "bbox": [
+    -116.386506,
+    43.59709,
+    -116.386506,
+    43.59709
+],
   "geometry": {"coordinates":[-116.386506,43.59709],"type":"Point"}
 }

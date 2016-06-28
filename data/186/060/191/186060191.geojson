@@ -2,13 +2,14 @@
   "id": 186060191,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.266181,43.605993,-116.266181,43.605993",
     "geom:latitude":43.605993,
     "geom:longitude":-116.266181,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"142 Allumbaugh St",
     "sg:city":"Boise",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186060191,
-    "wof:lastmodified":1449052778,
+    "wof:lastmodified":1466487429,
     "wof:name":"Alderbury Cove",
     "wof:parent_id":85806577,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "apartment"
     ]
 },
-  "bbox": [-116.266181,43.605993,-116.266181,43.605993],
+  "bbox": [
+    -116.266181,
+    43.605993,
+    -116.266181,
+    43.605993
+],
   "geometry": {"coordinates":[-116.266181,43.605993],"type":"Point"}
 }

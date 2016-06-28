@@ -2,13 +2,14 @@
   "id": 185906033,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.338352,46.500842,-116.338352,46.500842",
     "geom:latitude":46.500842,
     "geom:longitude":-116.338352,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"14233 US Hwy 12",
     "sg:city":"Orofino",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":185906033,
-    "wof:lastmodified":1449007218,
+    "wof:lastmodified":1466488498,
     "wof:name":"Clearwater Alliance Church",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-116.338352,46.500842,-116.338352,46.500842],
+  "bbox": [
+    -116.338352,
+    46.500842,
+    -116.338352,
+    46.500842
+],
   "geometry": {"coordinates":[-116.338352,46.500842],"type":"Point"}
 }

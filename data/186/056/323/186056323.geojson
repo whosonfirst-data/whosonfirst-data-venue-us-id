@@ -2,13 +2,14 @@
   "id": 186056323,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.698903,47.933998,-116.698903,47.933998",
     "geom:latitude":47.933998,
     "geom:longitude":-116.698903,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"29520 US Hwy 95",
     "sg:city":"Athol",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":186056323,
-    "wof:lastmodified":1449051138,
+    "wof:lastmodified":1466487386,
     "wof:name":"Athol Aggregate",
     "wof:parent_id":85821457,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-116.698903,47.933998,-116.698903,47.933998],
+  "bbox": [
+    -116.698903,
+    47.933998,
+    -116.698903,
+    47.933998
+],
   "geometry": {"coordinates":[-116.698903,47.933998],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169667725,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.270564,43.555285,-116.270564,43.555285",
     "geom:latitude":43.555285,
     "geom:longitude":-116.270564,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7245 Chilacot Dr",
     "sg:city":"Boise",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":169667725,
-    "wof:lastmodified":1449034842,
+    "wof:lastmodified":1466487849,
     "wof:name":"Pahrump Community Church",
     "wof:parent_id":85876331,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-116.270564,43.555285,-116.270564,43.555285],
-  "geometry": {"coordinates":[-116.270564,43.555285],"type":"Point"}
+  "bbox": [
+    -116.270564,
+    43.555285,
+    -116.270564,
+    43.555285
+],
+  "geometry": {"coordinates":[-116.27056399999999,43.555285],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186235475,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.317946,43.643949,-116.317946,43.643949",
     "geom:latitude":43.643949,
     "geom:longitude":-116.317946,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10993 W Richey Ct",
     "sg:city":"Boise",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186235475,
-    "wof:lastmodified":1449050877,
+    "wof:lastmodified":1466488657,
     "wof:name":"Advertising Arts",
     "wof:parent_id":85876357,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "design"
     ]
 },
-  "bbox": [-116.317946,43.643949,-116.317946,43.643949],
-  "geometry": {"coordinates":[-116.317946,43.643949],"type":"Point"}
+  "bbox": [
+    -116.317946,
+    43.643949,
+    -116.317946,
+    43.643949
+],
+  "geometry": {"coordinates":[-116.31794600000001,43.643949],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 185827083,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.841029,43.056067,-115.841029,43.056067",
     "geom:latitude":43.056067,
     "geom:longitude":-115.841029,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"366 Gunfighter Cir",
     "sg:city":"Mountain Home A F B",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":185827083,
-    "wof:lastmodified":1449007166,
+    "wof:lastmodified":1466488410,
     "wof:name":"Document Automation & Prod Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "commercial"
     ]
 },
-  "bbox": [-115.841029,43.056067,-115.841029,43.056067],
-  "geometry": {"coordinates":[-115.841029,43.056067],"type":"Point"}
+  "bbox": [
+    -115.841029,
+    43.056067,
+    -115.841029,
+    43.056067
+],
+  "geometry": {"coordinates":[-115.84102900000001,43.056067],"type":"Point"}
 }

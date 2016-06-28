@@ -2,13 +2,14 @@
   "id": 169658653,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.492972,48.193588,-116.492972,48.193588",
     "geom:latitude":48.193588,
     "geom:longitude":-116.492972,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4451 Sagle Rd",
     "sg:city":"Sagle",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":169658653,
-    "wof:lastmodified":1449032613,
+    "wof:lastmodified":1466487717,
     "wof:name":"Crooked Tree Ranch",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "equine"
     ]
 },
-  "bbox": [-116.492972,48.193588,-116.492972,48.193588],
-  "geometry": {"coordinates":[-116.492972,48.193588],"type":"Point"}
+  "bbox": [
+    -116.492972,
+    48.193588,
+    -116.492972,
+    48.193588
+],
+  "geometry": {"coordinates":[-116.49297199999999,48.193588],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186234547,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.783348,47.747463,-116.783348,47.747463",
     "geom:latitude":47.747463,
     "geom:longitude":-116.783348,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8316 N Rude St",
     "sg:city":"Hayden",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":186234547,
-    "wof:lastmodified":1449052889,
+    "wof:lastmodified":1466488491,
     "wof:name":"Bonnie's Floor Covering",
     "wof:parent_id":85821457,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-116.783348,47.747463,-116.783348,47.747463],
+  "bbox": [
+    -116.783348,
+    47.747463,
+    -116.783348,
+    47.747463
+],
   "geometry": {"coordinates":[-116.783348,47.747463],"type":"Point"}
 }

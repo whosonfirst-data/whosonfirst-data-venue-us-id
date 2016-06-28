@@ -2,13 +2,14 @@
   "id": 169815241,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.970876,44.474101,-115.970876,44.474101",
     "geom:latitude":44.474101,
     "geom:longitude":-115.970876,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"40 E Prospectors Dr",
     "sg:city":"Cascade",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":169815241,
-    "wof:lastmodified":1449034283,
+    "wof:lastmodified":1466488539,
     "wof:name":"Valley Calvary Fellowship Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-115.970876,44.474101,-115.970876,44.474101],
+  "bbox": [
+    -115.970876,
+    44.474101,
+    -115.970876,
+    44.474101
+],
   "geometry": {"coordinates":[-115.970876,44.474101],"type":"Point"}
 }

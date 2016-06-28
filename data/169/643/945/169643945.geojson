@@ -2,13 +2,14 @@
   "id": 169643945,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.432825,43.614019,-116.432825,43.614019",
     "geom:latitude":43.614019,
     "geom:longitude":-116.432825,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1180 N Lightning Pl",
     "sg:city":"Meridian",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":169643945,
-    "wof:lastmodified":1449035521,
+    "wof:lastmodified":1466487495,
     "wof:name":"Excel Excavation LLC",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "contractor"
     ]
 },
-  "bbox": [-116.432825,43.614019,-116.432825,43.614019],
-  "geometry": {"coordinates":[-116.432825,43.614019],"type":"Point"}
+  "bbox": [
+    -116.432825,
+    43.614019,
+    -116.432825,
+    43.614019
+],
+  "geometry": {"coordinates":[-116.43282499999999,43.614019],"type":"Point"}
 }

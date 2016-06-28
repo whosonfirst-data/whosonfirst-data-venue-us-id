@@ -2,13 +2,14 @@
   "id": 185683141,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.538599,48.302161,-116.538599,48.302161",
     "geom:latitude":48.302161,
     "geom:longitude":-116.538599,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"31016 Hwy 200",
     "sg:city":"Sandpoint",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":185683141,
-    "wof:lastmodified":1449007191,
+    "wof:lastmodified":1466487391,
     "wof:name":"S & W Motel",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-116.538599,48.302161,-116.538599,48.302161],
+  "bbox": [
+    -116.538599,
+    48.302161,
+    -116.538599,
+    48.302161
+],
   "geometry": {"coordinates":[-116.538599,48.302161],"type":"Point"}
 }

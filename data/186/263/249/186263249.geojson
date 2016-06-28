@@ -2,13 +2,14 @@
   "id": 186263249,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.294724,42.319927,-111.294724,42.319927",
     "geom:latitude":42.319927,
     "geom:longitude":-111.294724,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"244 N 3rd St",
     "sg:city":"Montpelier",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":186263249,
-    "wof:lastmodified":1449052955,
+    "wof:lastmodified":1466488614,
     "wof:name":"Bear Lake Interiors Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "cabinet"
     ]
 },
-  "bbox": [-111.294724,42.319927,-111.294724,42.319927],
+  "bbox": [
+    -111.294724,
+    42.319927,
+    -111.294724,
+    42.319927
+],
   "geometry": {"coordinates":[-111.294724,42.319927],"type":"Point"}
 }

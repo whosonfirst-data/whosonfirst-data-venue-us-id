@@ -2,13 +2,14 @@
   "id": 186269061,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.430349,43.625492,-116.430349,43.625492",
     "geom:latitude":43.625492,
     "geom:longitude":-116.430349,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2919 W Bonner St",
     "sg:city":"Meridian",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":186269061,
-    "wof:lastmodified":1449052054,
+    "wof:lastmodified":1466488695,
     "wof:name":"Russs Small Engine Repair",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-116.430349,43.625492,-116.430349,43.625492],
-  "geometry": {"coordinates":[-116.430349,43.625492],"type":"Point"}
+  "bbox": [
+    -116.430349,
+    43.625492,
+    -116.430349,
+    43.625492
+],
+  "geometry": {"coordinates":[-116.43034900000001,43.625492],"type":"Point"}
 }

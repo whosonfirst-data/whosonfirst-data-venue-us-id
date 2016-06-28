@@ -2,13 +2,14 @@
   "id": 185886929,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.615383,43.709768,-116.615383,43.709768",
     "geom:latitude":43.709768,
     "geom:longitude":-116.615383,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"517 Meadow Ct",
     "sg:city":"Middleton",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":185886929,
-    "wof:lastmodified":1449007500,
+    "wof:lastmodified":1466488468,
     "wof:name":"Cross Transportation Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-116.615383,43.709768,-116.615383,43.709768],
-  "geometry": {"coordinates":[-116.615383,43.709768],"type":"Point"}
+  "bbox": [
+    -116.615383,
+    43.709768,
+    -116.615383,
+    43.709768
+],
+  "geometry": {"coordinates":[-116.61538299999999,43.709768],"type":"Point"}
 }

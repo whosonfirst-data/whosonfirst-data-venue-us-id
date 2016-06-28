@@ -2,13 +2,14 @@
   "id": 320543401,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.320361,43.622201,-116.320361,43.622201",
     "geom:latitude":43.622201,
     "geom:longitude":-116.320361,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1891 Wildwood St",
     "sg:city":"Boise",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":320543401,
-    "wof:lastmodified":1449011988,
+    "wof:lastmodified":1466486965,
     "wof:name":"Decals Plus",
     "wof:parent_id":85811491,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "decal"
     ]
 },
-  "bbox": [-116.320361,43.622201,-116.320361,43.622201],
-  "geometry": {"coordinates":[-116.320361,43.622201],"type":"Point"}
+  "bbox": [
+    -116.320361,
+    43.622201,
+    -116.320361,
+    43.622201
+],
+  "geometry": {"coordinates":[-116.32036100000001,43.622201],"type":"Point"}
 }

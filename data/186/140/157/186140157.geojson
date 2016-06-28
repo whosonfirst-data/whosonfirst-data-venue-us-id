@@ -2,13 +2,14 @@
   "id": 186140157,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.475342,43.596913,-116.475342,43.596913",
     "geom:latitude":43.596913,
     "geom:longitude":-116.475342,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7425 E Flamingo Ave",
     "sg:city":"Nampa",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186140157,
-    "wof:lastmodified":1449050758,
+    "wof:lastmodified":1466488227,
     "wof:name":"Ink Spot",
     "wof:parent_id":85827787,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "printer"
     ]
 },
-  "bbox": [-116.475342,43.596913,-116.475342,43.596913],
+  "bbox": [
+    -116.475342,
+    43.596913,
+    -116.475342,
+    43.596913
+],
   "geometry": {"coordinates":[-116.475342,43.596913],"type":"Point"}
 }

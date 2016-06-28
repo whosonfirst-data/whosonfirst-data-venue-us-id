@@ -2,13 +2,14 @@
   "id": 185770333,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.120651,43.385061,-112.120651,43.385061",
     "geom:latitude":43.385061,
     "geom:longitude":-112.120651,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"326 N State St",
     "sg:city":"Shelley",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":185770333,
-    "wof:lastmodified":1449008249,
+    "wof:lastmodified":1466488087,
     "wof:name":"Spring Hills",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "residential"
     ]
 },
-  "bbox": [-112.120651,43.385061,-112.120651,43.385061],
+  "bbox": [
+    -112.120651,
+    43.385061,
+    -112.120651,
+    43.385061
+],
   "geometry": {"coordinates":[-112.120651,43.385061],"type":"Point"}
 }

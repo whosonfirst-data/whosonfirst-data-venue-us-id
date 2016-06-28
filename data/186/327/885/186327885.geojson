@@ -2,13 +2,14 @@
   "id": 186327885,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.535992,48.304344,-116.535992,48.304344",
     "geom:latitude":48.304344,
     "geom:longitude":-116.535992,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"30784 Hwy 200",
     "sg:city":"Ponderay",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":186327885,
-    "wof:lastmodified":1449050449,
+    "wof:lastmodified":1466488720,
     "wof:name":"Hoot Owl Cafe",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-116.535992,48.304344,-116.535992,48.304344],
-  "geometry": {"coordinates":[-116.535992,48.304344],"type":"Point"}
+  "bbox": [
+    -116.535992,
+    48.304344,
+    -116.535992,
+    48.304344
+],
+  "geometry": {"coordinates":[-116.53599199999999,48.304344],"type":"Point"}
 }

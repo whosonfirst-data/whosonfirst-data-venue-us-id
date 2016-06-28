@@ -2,13 +2,14 @@
   "id": 185869345,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.395881,43.587763,-116.395881,43.587763",
     "geom:latitude":43.587763,
     "geom:longitude":-116.395881,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"182 W Davenport Dr",
     "sg:city":"Meridian",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":185869345,
-    "wof:lastmodified":1449008092,
+    "wof:lastmodified":1466488422,
     "wof:name":"Bulldog Construction",
     "wof:parent_id":85805083,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "house"
     ]
 },
-  "bbox": [-116.395881,43.587763,-116.395881,43.587763],
+  "bbox": [
+    -116.395881,
+    43.587763,
+    -116.395881,
+    43.587763
+],
   "geometry": {"coordinates":[-116.395881,43.587763],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186315963,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.644208,43.518954,-116.644208,43.518954",
     "geom:latitude":43.518954,
     "geom:longitude":-116.644208,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10029 Mallard Dr",
     "sg:city":"Nampa",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":186315963,
-    "wof:lastmodified":1449052898,
+    "wof:lastmodified":1466488694,
     "wof:name":"Micro Molding Inc",
     "wof:parent_id":85827787,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-116.644208,43.518954,-116.644208,43.518954],
-  "geometry": {"coordinates":[-116.644208,43.518954],"type":"Point"}
+  "bbox": [
+    -116.644208,
+    43.518954,
+    -116.644208,
+    43.518954
+],
+  "geometry": {"coordinates":[-116.64420800000001,43.518954],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186102437,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.382353,43.600566,-116.382353,43.600566",
     "geom:latitude":43.600566,
     "geom:longitude":-116.382353,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1090 E Watertower St",
     "sg:city":"Meridian",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186102437,
-    "wof:lastmodified":1449052828,
+    "wof:lastmodified":1466487886,
     "wof:name":"Public Works Contractors Board",
     "wof:parent_id":85805083,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-116.382353,43.600566,-116.382353,43.600566],
-  "geometry": {"coordinates":[-116.382353,43.600566],"type":"Point"}
+  "bbox": [
+    -116.382353,
+    43.600566,
+    -116.382353,
+    43.600566
+],
+  "geometry": {"coordinates":[-116.38235299999999,43.600566],"type":"Point"}
 }

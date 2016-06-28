@@ -2,13 +2,14 @@
   "id": 169607757,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.740637,43.923679,-116.740637,43.923679",
     "geom:latitude":43.923679,
     "geom:longitude":-116.740637,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6260 SE 3rd Ave",
     "sg:city":"New Plymouth",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":169607757,
-    "wof:lastmodified":1449033125,
+    "wof:lastmodified":1466486922,
     "wof:name":"Scotch Pines Dog Training",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "dog"
     ]
 },
-  "bbox": [-116.740637,43.923679,-116.740637,43.923679],
-  "geometry": {"coordinates":[-116.740637,43.923679],"type":"Point"}
+  "bbox": [
+    -116.740637,
+    43.923679,
+    -116.740637,
+    43.923679
+],
+  "geometry": {"coordinates":[-116.74063700000001,43.923679],"type":"Point"}
 }

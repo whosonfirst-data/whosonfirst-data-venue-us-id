@@ -2,13 +2,14 @@
   "id": 186110571,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.417885,43.48741,-116.417885,43.48741",
     "geom:latitude":43.48741,
     "geom:longitude":-116.417885,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"371 Shortline St",
     "sg:city":"Kuna",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":186110571,
-    "wof:lastmodified":1449051276,
+    "wof:lastmodified":1466487970,
     "wof:name":"DNA Portable Sawmills",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "sawmill"
     ]
 },
-  "bbox": [-116.417885,43.48741,-116.417885,43.48741],
+  "bbox": [
+    -116.417885,
+    43.48741,
+    -116.417885,
+    43.48741
+],
   "geometry": {"coordinates":[-116.417885,43.48741],"type":"Point"}
 }

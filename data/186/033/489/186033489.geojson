@@ -2,13 +2,14 @@
   "id": 186033489,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.499945,43.871831,-116.499945,43.871831",
     "geom:latitude":43.871831,
     "geom:longitude":-116.499945,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"510 S Washington Ave",
     "sg:city":"Emmett",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":186033489,
-    "wof:lastmodified":1449050956,
+    "wof:lastmodified":1466487121,
     "wof:name":"Tri County Surveying Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "surveyor"
     ]
 },
-  "bbox": [-116.499945,43.871831,-116.499945,43.871831],
+  "bbox": [
+    -116.499945,
+    43.871831,
+    -116.499945,
+    43.871831
+],
   "geometry": {"coordinates":[-116.499945,43.871831],"type":"Point"}
 }

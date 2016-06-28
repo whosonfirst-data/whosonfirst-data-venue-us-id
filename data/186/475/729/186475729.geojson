@@ -2,13 +2,14 @@
   "id": 186475729,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.056573,43.49684,-112.056573,43.49684",
     "geom:latitude":43.49684,
     "geom:longitude":-112.056573,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1438 W Broadway St",
     "sg:city":"Idaho Falls",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":186475729,
-    "wof:lastmodified":1449051490,
+    "wof:lastmodified":1466488901,
     "wof:name":"O'Brady's Family Restaurant",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.056573,43.49684,-112.056573,43.49684],
+  "bbox": [
+    -112.056573,
+    43.49684,
+    -112.056573,
+    43.49684
+],
   "geometry": {"coordinates":[-112.056573,43.49684],"type":"Point"}
 }

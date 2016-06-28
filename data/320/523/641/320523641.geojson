@@ -2,13 +2,14 @@
   "id": 320523641,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.917532,46.371429,-116.917532,46.371429",
     "geom:latitude":46.371429,
     "geom:longitude":-116.917532,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2211 Alder Ave",
     "sg:city":"Lewiston",
     "sg:classifiers":[
@@ -65,10 +66,11 @@
         }
     ],
     "wof:id":320523641,
-    "wof:lastmodified":1449013413,
+    "wof:lastmodified":1466488304,
     "wof:name":"Holzer Manufacturing",
     "wof:parent_id":85837769,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -84,6 +86,11 @@
         "air conditioning"
     ]
 },
-  "bbox": [-116.917532,46.371429,-116.917532,46.371429],
-  "geometry": {"coordinates":[-116.917532,46.371429],"type":"Point"}
+  "bbox": [
+    -116.917532,
+    46.371429,
+    -116.917532,
+    46.371429
+],
+  "geometry": {"coordinates":[-116.91753199999999,46.371429],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186215037,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.998488,43.472584,-111.998488,43.472584",
     "geom:latitude":43.472584,
     "geom:longitude":-111.998488,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1750 Coronado St",
     "sg:city":"Idaho Falls",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":186215037,
-    "wof:lastmodified":1449052542,
+    "wof:lastmodified":1466488612,
     "wof:name":"Mountain West Aviation",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "aircraft"
     ]
 },
-  "bbox": [-111.998488,43.472584,-111.998488,43.472584],
-  "geometry": {"coordinates":[-111.998488,43.472584],"type":"Point"}
+  "bbox": [
+    -111.998488,
+    43.472584,
+    -111.998488,
+    43.472584
+],
+  "geometry": {"coordinates":[-111.99848799999999,43.472584],"type":"Point"}
 }

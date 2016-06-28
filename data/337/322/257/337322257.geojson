@@ -2,13 +2,14 @@
   "id": 337322257,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.336103,43.69141,-116.336103,43.69141",
     "geom:latitude":43.69141,
     "geom:longitude":-116.336103,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1445 E State St",
     "sg:city":"Eagle",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":337322257,
-    "wof:lastmodified":1449026921,
+    "wof:lastmodified":1466487249,
     "wof:name":"Musick & Sons Auctioneers",
     "wof:parent_id":85876315,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "auctioneer"
     ]
 },
-  "bbox": [-116.336103,43.69141,-116.336103,43.69141],
-  "geometry": {"coordinates":[-116.336103,43.69141],"type":"Point"}
+  "bbox": [
+    -116.336103,
+    43.69141,
+    -116.336103,
+    43.69141
+],
+  "geometry": {"coordinates":[-116.33610299999999,43.69141],"type":"Point"}
 }

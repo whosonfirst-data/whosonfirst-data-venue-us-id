@@ -2,13 +2,14 @@
   "id": 186444627,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.565827,43.57992,-116.565827,43.57992",
     "geom:latitude":43.57992,
     "geom:longitude":-116.565827,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"823 3rd St S",
     "sg:city":"Nampa",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186444627,
-    "wof:lastmodified":1449052653,
+    "wof:lastmodified":1466488860,
     "wof:name":"Rick Body Shop",
     "wof:parent_id":85827787,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "road"
     ]
 },
-  "bbox": [-116.565827,43.57992,-116.565827,43.57992],
+  "bbox": [
+    -116.565827,
+    43.57992,
+    -116.565827,
+    43.57992
+],
   "geometry": {"coordinates":[-116.565827,43.57992],"type":"Point"}
 }

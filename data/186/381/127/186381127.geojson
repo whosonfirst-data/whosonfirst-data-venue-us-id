@@ -2,13 +2,14 @@
   "id": 186381127,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.393867,43.615408,-116.393867,43.615408",
     "geom:latitude":43.615408,
     "geom:longitude":-116.393867,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"37 W Cherry Ave",
     "sg:city":"Meridian",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186381127,
-    "wof:lastmodified":1449050469,
+    "wof:lastmodified":1466488844,
     "wof:name":"States Drywall",
     "wof:parent_id":85811491,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-116.393867,43.615408,-116.393867,43.615408],
+  "bbox": [
+    -116.393867,
+    43.615408,
+    -116.393867,
+    43.615408
+],
   "geometry": {"coordinates":[-116.393867,43.615408],"type":"Point"}
 }

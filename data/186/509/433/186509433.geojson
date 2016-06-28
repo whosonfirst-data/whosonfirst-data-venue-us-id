@@ -2,13 +2,14 @@
   "id": 186509433,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.559518,43.139118,-112.559518,43.139118",
     "geom:latitude":43.139118,
     "geom:longitude":-112.559518,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1321 W 400 S",
     "sg:city":"Pingree",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":186509433,
-    "wof:lastmodified":1449050383,
+    "wof:lastmodified":1466488919,
     "wof:name":"Mecham Brothers",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.559518,43.139118,-112.559518,43.139118],
+  "bbox": [
+    -112.559518,
+    43.139118,
+    -112.559518,
+    43.139118
+],
   "geometry": {"coordinates":[-112.559518,43.139118],"type":"Point"}
 }

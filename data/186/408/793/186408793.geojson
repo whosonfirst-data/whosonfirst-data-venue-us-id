@@ -2,13 +2,14 @@
   "id": 186408793,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-113.894592,45.175791,-113.894592,45.175791",
     "geom:latitude":45.175791,
     "geom:longitude":-113.894592,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"511 Main St",
     "sg:city":"Salmon",
     "sg:classifiers":[
@@ -56,10 +57,11 @@
         }
     ],
     "wof:id":186408793,
-    "wof:lastmodified":1449050601,
+    "wof:lastmodified":1466488849,
     "wof:name":"Little Johns",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "sales"
     ]
 },
-  "bbox": [-113.894592,45.175791,-113.894592,45.175791],
+  "bbox": [
+    -113.894592,
+    45.175791,
+    -113.894592,
+    45.175791
+],
   "geometry": {"coordinates":[-113.894592,45.175791],"type":"Point"}
 }

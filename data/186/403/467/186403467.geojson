@@ -2,13 +2,14 @@
   "id": 186403467,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.687717,43.66423,-116.687717,43.66423",
     "geom:latitude":43.66423,
     "geom:longitude":-116.687717,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"911 Blaine St",
     "sg:city":"Caldwell",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":186403467,
-    "wof:lastmodified":1449052642,
+    "wof:lastmodified":1466488846,
     "wof:name":"Bullet Pawn",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "pawnbroker"
     ]
 },
-  "bbox": [-116.687717,43.66423,-116.687717,43.66423],
-  "geometry": {"coordinates":[-116.687717,43.66423],"type":"Point"}
+  "bbox": [
+    -116.687717,
+    43.66423,
+    -116.687717,
+    43.66423
+],
+  "geometry": {"coordinates":[-116.68771700000001,43.66423],"type":"Point"}
 }

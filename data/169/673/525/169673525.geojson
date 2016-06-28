@@ -2,13 +2,14 @@
   "id": 169673525,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.223678,43.622654,-116.223678,43.622654",
     "geom:latitude":43.622654,
     "geom:longitude":-116.223678,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2621 W Idaho St",
     "sg:city":"Boise",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":169673525,
-    "wof:lastmodified":1449033958,
+    "wof:lastmodified":1466487927,
     "wof:name":"Gabrielli Builds",
     "wof:parent_id":85876355,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "builder"
     ]
 },
-  "bbox": [-116.223678,43.622654,-116.223678,43.622654],
-  "geometry": {"coordinates":[-116.223678,43.622654],"type":"Point"}
+  "bbox": [
+    -116.223678,
+    43.622654,
+    -116.223678,
+    43.622654
+],
+  "geometry": {"coordinates":[-116.22367800000001,43.622654],"type":"Point"}
 }

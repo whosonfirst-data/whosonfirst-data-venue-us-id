@@ -2,13 +2,14 @@
   "id": 186029943,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.668449,43.924763,-111.668449,43.924763",
     "geom:latitude":43.924763,
     "geom:longitude":-111.668449,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"273 N 2450 E",
     "sg:city":"Saint Anthony",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":186029943,
-    "wof:lastmodified":1449051508,
+    "wof:lastmodified":1466487079,
     "wof:name":"Mobile Service",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.668449,43.924763,-111.668449,43.924763],
+  "bbox": [
+    -111.668449,
+    43.924763,
+    -111.668449,
+    43.924763
+],
   "geometry": {"coordinates":[-111.668449,43.924763],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186274643,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.679921,43.502566,-116.679921,43.502566",
     "geom:latitude":43.502566,
     "geom:longitude":-116.679921,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"14200 Deer Flat Rd",
     "sg:city":"Nampa",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186274643,
-    "wof:lastmodified":1449050596,
+    "wof:lastmodified":1466488638,
     "wof:name":"Deerflat Sand & Gravel Inc",
     "wof:parent_id":85827787,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "gravel"
     ]
 },
-  "bbox": [-116.679921,43.502566,-116.679921,43.502566],
-  "geometry": {"coordinates":[-116.679921,43.502566],"type":"Point"}
+  "bbox": [
+    -116.679921,
+    43.502566,
+    -116.679921,
+    43.502566
+],
+  "geometry": {"coordinates":[-116.67992099999999,43.502566],"type":"Point"}
 }

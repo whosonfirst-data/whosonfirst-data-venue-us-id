@@ -2,13 +2,14 @@
   "id": 185646095,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.258841,44.017511,-111.258841,44.017511",
     "geom:latitude":44.017511,
     "geom:longitude":-111.258841,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"975 N 4500 E",
     "sg:city":"Ashton",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":185646095,
-    "wof:lastmodified":1449006561,
+    "wof:lastmodified":1466487110,
     "wof:name":"Kandler Farms",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.258841,44.017511,-111.258841,44.017511],
+  "bbox": [
+    -111.258841,
+    44.017511,
+    -111.258841,
+    44.017511
+],
   "geometry": {"coordinates":[-111.258841,44.017511],"type":"Point"}
 }

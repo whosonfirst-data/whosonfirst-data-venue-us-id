@@ -2,13 +2,14 @@
   "id": 185967515,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.993616,46.411106,-116.993616,46.411106",
     "geom:latitude":46.411106,
     "geom:longitude":-116.993616,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2705 Sunset Dr",
     "sg:city":"Lewiston",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":185967515,
-    "wof:lastmodified":1449008100,
+    "wof:lastmodified":1466488704,
     "wof:name":"Old Folks Antiques",
     "wof:parent_id":85837769,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-116.993616,46.411106,-116.993616,46.411106],
+  "bbox": [
+    -116.993616,
+    46.411106,
+    -116.993616,
+    46.411106
+],
   "geometry": {"coordinates":[-116.993616,46.411106],"type":"Point"}
 }

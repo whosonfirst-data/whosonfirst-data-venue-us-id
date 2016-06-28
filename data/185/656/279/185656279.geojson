@@ -2,13 +2,14 @@
   "id": 185656279,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.132251,47.537395,-116.132251,47.537395",
     "geom:latitude":47.537395,
     "geom:longitude":-116.132251,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"740 McKinley Ave",
     "sg:city":"Kellogg",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":185656279,
-    "wof:lastmodified":1449007648,
+    "wof:lastmodified":1466487186,
     "wof:name":"Nw Molecular Thomas F Heston",
     "wof:parent_id":85849049,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "establishment"
     ]
 },
-  "bbox": [-116.132251,47.537395,-116.132251,47.537395],
+  "bbox": [
+    -116.132251,
+    47.537395,
+    -116.132251,
+    47.537395
+],
   "geometry": {"coordinates":[-116.132251,47.537395],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 320534107,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.375863,43.61149,-116.375863,43.61149",
     "geom:latitude":43.61149,
     "geom:longitude":-116.375863,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"721 N Ralstin St",
     "sg:city":"Meridian",
     "sg:classifiers":[
@@ -55,10 +56,11 @@
         }
     ],
     "wof:id":320534107,
-    "wof:lastmodified":1449012235,
+    "wof:lastmodified":1466488329,
     "wof:name":"Bsr Ventures",
     "wof:parent_id":85811491,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -69,6 +71,11 @@
         "air conditioning"
     ]
 },
-  "bbox": [-116.375863,43.61149,-116.375863,43.61149],
+  "bbox": [
+    -116.375863,
+    43.61149,
+    -116.375863,
+    43.61149
+],
   "geometry": {"coordinates":[-116.375863,43.61149],"type":"Point"}
 }

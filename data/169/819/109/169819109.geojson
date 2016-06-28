@@ -2,13 +2,14 @@
   "id": 169819109,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.287985,43.661773,-116.287985,43.661773",
     "geom:latitude":43.661773,
     "geom:longitude":-116.287985,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8535 W Atwater Dr",
     "sg:city":"Boise",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":169819109,
-    "wof:lastmodified":1449033478,
+    "wof:lastmodified":1466488545,
     "wof:name":"Media Maestro Productions",
     "wof:parent_id":85876357,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-116.287985,43.661773,-116.287985,43.661773],
-  "geometry": {"coordinates":[-116.287985,43.661773],"type":"Point"}
+  "bbox": [
+    -116.287985,
+    43.661773,
+    -116.287985,
+    43.661773
+],
+  "geometry": {"coordinates":[-116.28798500000001,43.661773],"type":"Point"}
 }

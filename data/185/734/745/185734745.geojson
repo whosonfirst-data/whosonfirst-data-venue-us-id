@@ -2,13 +2,14 @@
   "id": 185734745,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.546163,48.306563,-116.546163,48.306563",
     "geom:latitude":48.306563,
     "geom:longitude":-116.546163,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"476978 Hwy 95",
     "sg:city":"Ponderay",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":185734745,
-    "wof:lastmodified":1449008019,
+    "wof:lastmodified":1466487796,
     "wof:name":"J M Construction",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "contractor"
     ]
 },
-  "bbox": [-116.546163,48.306563,-116.546163,48.306563],
-  "geometry": {"coordinates":[-116.546163,48.306563],"type":"Point"}
+  "bbox": [
+    -116.546163,
+    48.306563,
+    -116.546163,
+    48.306563
+],
+  "geometry": {"coordinates":[-116.54616300000001,48.306563],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186301099,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.693288,43.131308,-115.693288,43.131308",
     "geom:latitude":43.131308,
     "geom:longitude":-115.693288,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"170 N 2nd E",
     "sg:city":"Mountain Home",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":186301099,
-    "wof:lastmodified":1449051082,
+    "wof:lastmodified":1466488580,
     "wof:name":"Royal Touch Skin Renewal",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "skin"
     ]
 },
-  "bbox": [-115.693288,43.131308,-115.693288,43.131308],
+  "bbox": [
+    -115.693288,
+    43.131308,
+    -115.693288,
+    43.131308
+],
   "geometry": {"coordinates":[-115.693288,43.131308],"type":"Point"}
 }

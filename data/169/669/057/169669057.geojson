@@ -2,13 +2,14 @@
   "id": 169669057,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.784648,43.633192,-116.784648,43.633192",
     "geom:latitude":43.633192,
     "geom:longitude":-116.784648,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"19850 Ustick Rd",
     "sg:city":"Caldwell",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":169669057,
-    "wof:lastmodified":1449033057,
+    "wof:lastmodified":1466487867,
     "wof:name":"Dan J Silveria",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "general"
     ]
 },
-  "bbox": [-116.784648,43.633192,-116.784648,43.633192],
+  "bbox": [
+    -116.784648,
+    43.633192,
+    -116.784648,
+    43.633192
+],
   "geometry": {"coordinates":[-116.784648,43.633192],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169782427,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.550425,48.273182,-116.550425,48.273182",
     "geom:latitude":48.273182,
     "geom:longitude":-116.550425,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"318 Pine St",
     "sg:city":"Sandpoint",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":169782427,
-    "wof:lastmodified":1449032671,
+    "wof:lastmodified":1466488471,
     "wof:name":"Powell & Reed",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "attorney"
     ]
 },
-  "bbox": [-116.550425,48.273182,-116.550425,48.273182],
+  "bbox": [
+    -116.550425,
+    48.273182,
+    -116.550425,
+    48.273182
+],
   "geometry": {"coordinates":[-116.550425,48.273182],"type":"Point"}
 }

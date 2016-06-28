@@ -2,13 +2,14 @@
   "id": 186249837,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.008622,43.46841,-112.008622,43.46841",
     "geom:latitude":43.46841,
     "geom:longitude":-112.008622,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3084 Londonderry Ave",
     "sg:city":"Idaho Falls",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":186249837,
-    "wof:lastmodified":1449050404,
+    "wof:lastmodified":1466488597,
     "wof:name":"Turnage Builders",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.008622,43.46841,-112.008622,43.46841],
+  "bbox": [
+    -112.008622,
+    43.46841,
+    -112.008622,
+    43.46841
+],
   "geometry": {"coordinates":[-112.008622,43.46841],"type":"Point"}
 }

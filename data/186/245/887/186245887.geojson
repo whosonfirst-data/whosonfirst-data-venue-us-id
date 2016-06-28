@@ -2,13 +2,14 @@
   "id": 186245887,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.223679,43.628136,-116.223679,43.628136",
     "geom:latitude":43.628136,
     "geom:longitude":-116.223679,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2622 Regan Ave",
     "sg:city":"Boise",
     "sg:classifiers":[
@@ -55,10 +56,11 @@
         }
     ],
     "wof:id":186245887,
-    "wof:lastmodified":1449052947,
+    "wof:lastmodified":1466488579,
     "wof:name":"Certified Testing",
     "wof:parent_id":85876355,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -69,6 +71,11 @@
         "contractor"
     ]
 },
-  "bbox": [-116.223679,43.628136,-116.223679,43.628136],
+  "bbox": [
+    -116.223679,
+    43.628136,
+    -116.223679,
+    43.628136
+],
   "geometry": {"coordinates":[-116.223679,43.628136],"type":"Point"}
 }

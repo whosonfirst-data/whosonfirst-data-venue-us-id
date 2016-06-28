@@ -2,13 +2,14 @@
   "id": 185833015,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.99919,46.412568,-116.99919,46.412568",
     "geom:latitude":46.412568,
     "geom:longitude":-116.99919,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2200 8th Ave",
     "sg:city":"Lewiston",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":185833015,
-    "wof:lastmodified":1449006803,
+    "wof:lastmodified":1466488507,
     "wof:name":"Clark Communications Inc",
     "wof:parent_id":85837769,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "cellular"
     ]
 },
-  "bbox": [-116.99919,46.412568,-116.99919,46.412568],
+  "bbox": [
+    -116.99919,
+    46.412568,
+    -116.99919,
+    46.412568
+],
   "geometry": {"coordinates":[-116.99919,46.412568],"type":"Point"}
 }

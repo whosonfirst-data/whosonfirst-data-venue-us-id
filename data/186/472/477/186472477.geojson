@@ -2,13 +2,14 @@
   "id": 186472477,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.996274,47.711804,-116.996274,47.711804",
     "geom:latitude":47.711804,
     "geom:longitude":-116.996274,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"306 N Spokane Rd",
     "sg:city":"Post Falls",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":186472477,
-    "wof:lastmodified":1449050456,
+    "wof:lastmodified":1466488898,
     "wof:name":"Adams & Clark",
     "wof:parent_id":85833263,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "engineer"
     ]
 },
-  "bbox": [-116.996274,47.711804,-116.996274,47.711804],
+  "bbox": [
+    -116.996274,
+    47.711804,
+    -116.996274,
+    47.711804
+],
   "geometry": {"coordinates":[-116.996274,47.711804],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186083941,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.239199,43.611527,-116.239199,43.611527",
     "geom:latitude":43.611527,
     "geom:longitude":-116.239199,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4795 Emerald St",
     "sg:city":"Boise",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186083941,
-    "wof:lastmodified":1449051652,
+    "wof:lastmodified":1466487698,
     "wof:name":"Morehouse Property Management",
     "wof:parent_id":85876311,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "management"
     ]
 },
-  "bbox": [-116.239199,43.611527,-116.239199,43.611527],
+  "bbox": [
+    -116.239199,
+    43.611527,
+    -116.239199,
+    43.611527
+],
   "geometry": {"coordinates":[-116.239199,43.611527],"type":"Point"}
 }

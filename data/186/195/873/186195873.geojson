@@ -2,13 +2,14 @@
   "id": 186195873,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.690635,43.663487,-116.690635,43.663487",
     "geom:latitude":43.663487,
     "geom:longitude":-116.690635,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"509 S Kimball Ave",
     "sg:city":"Caldwell",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":186195873,
-    "wof:lastmodified":1449052131,
+    "wof:lastmodified":1466488567,
     "wof:name":"Zions Bank",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-116.690635,43.663487,-116.690635,43.663487],
+  "bbox": [
+    -116.690635,
+    43.663487,
+    -116.690635,
+    43.663487
+],
   "geometry": {"coordinates":[-116.690635,43.663487],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 185624219,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-117.005104,46.400882,-117.005104,46.400882",
     "geom:latitude":46.400882,
     "geom:longitude":-117.005104,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1720 19th Ave",
     "sg:city":"Lewiston",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":185624219,
-    "wof:lastmodified":1449007695,
+    "wof:lastmodified":1466486947,
     "wof:name":"Gottschalks",
     "wof:parent_id":85837769,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-117.005104,46.400882,-117.005104,46.400882],
+  "bbox": [
+    -117.005104,
+    46.400882,
+    -117.005104,
+    46.400882
+],
   "geometry": {"coordinates":[-117.005104,46.400882],"type":"Point"}
 }

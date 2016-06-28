@@ -2,13 +2,14 @@
   "id": 169767593,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.733322,43.671439,-116.733322,43.671439",
     "geom:latitude":43.671439,
     "geom:longitude":-116.733322,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"20691 Wagner Rd",
     "sg:city":"Caldwell",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":169767593,
-    "wof:lastmodified":1449033626,
+    "wof:lastmodified":1466488442,
     "wof:name":"Jwc Trucking Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "trucking"
     ]
 },
-  "bbox": [-116.733322,43.671439,-116.733322,43.671439],
+  "bbox": [
+    -116.733322,
+    43.671439,
+    -116.733322,
+    43.671439
+],
   "geometry": {"coordinates":[-116.733322,43.671439],"type":"Point"}
 }

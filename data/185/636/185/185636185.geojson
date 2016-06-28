@@ -2,13 +2,14 @@
   "id": 185636185,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.013832,43.474745,-112.013832,43.474745",
     "geom:latitude":43.474745,
     "geom:longitude":-112.013832,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2585 Ridgecrest Dr",
     "sg:city":"Idaho Falls",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":185636185,
-    "wof:lastmodified":1449007257,
+    "wof:lastmodified":1466487038,
     "wof:name":"Southwick Children Trust",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "management"
     ]
 },
-  "bbox": [-112.013832,43.474745,-112.013832,43.474745],
-  "geometry": {"coordinates":[-112.013832,43.474745],"type":"Point"}
+  "bbox": [
+    -112.013832,
+    43.474745,
+    -112.013832,
+    43.474745
+],
+  "geometry": {"coordinates":[-112.01383199999999,43.474745],"type":"Point"}
 }

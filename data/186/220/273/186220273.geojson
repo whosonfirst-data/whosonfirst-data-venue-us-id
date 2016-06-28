@@ -2,13 +2,14 @@
   "id": 186220273,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.334483,43.661094,-116.334483,43.661094",
     "geom:latitude":43.661094,
     "geom:longitude":-116.334483,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6213 N Cloverdale Rd",
     "sg:city":"Boise",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":186220273,
-    "wof:lastmodified":1449052940,
+    "wof:lastmodified":1466488468,
     "wof:name":"Debt Reduction Svc Inc",
     "wof:parent_id":85876351,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "counseling"
     ]
 },
-  "bbox": [-116.334483,43.661094,-116.334483,43.661094],
-  "geometry": {"coordinates":[-116.334483,43.661094],"type":"Point"}
+  "bbox": [
+    -116.334483,
+    43.661094,
+    -116.334483,
+    43.661094
+],
+  "geometry": {"coordinates":[-116.33448300000001,43.661094],"type":"Point"}
 }

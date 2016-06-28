@@ -2,13 +2,14 @@
   "id": 185992157,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.781447,47.751227,-116.781447,47.751227",
     "geom:latitude":47.751227,
     "geom:longitude":-116.781447,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"353 E Cloverleaf Dr",
     "sg:city":"Hayden",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":185992157,
-    "wof:lastmodified":1449007374,
+    "wof:lastmodified":1466488742,
     "wof:name":"Lawanda's Natural Healing",
     "wof:parent_id":85821457,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "store"
     ]
 },
-  "bbox": [-116.781447,47.751227,-116.781447,47.751227],
+  "bbox": [
+    -116.781447,
+    47.751227,
+    -116.781447,
+    47.751227
+],
   "geometry": {"coordinates":[-116.781447,47.751227],"type":"Point"}
 }

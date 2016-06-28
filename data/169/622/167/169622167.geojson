@@ -2,13 +2,14 @@
   "id": 169622167,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.262097,43.669495,-116.262097,43.669495",
     "geom:latitude":43.669495,
     "geom:longitude":-116.262097,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5477 N Citadel Way",
     "sg:city":"Boise",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":169622167,
-    "wof:lastmodified":1449035365,
+    "wof:lastmodified":1466487152,
     "wof:name":"Pinnacle Homes",
     "wof:parent_id":85811879,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "house"
     ]
 },
-  "bbox": [-116.262097,43.669495,-116.262097,43.669495],
+  "bbox": [
+    -116.262097,
+    43.669495,
+    -116.262097,
+    43.669495
+],
   "geometry": {"coordinates":[-116.262097,43.669495],"type":"Point"}
 }

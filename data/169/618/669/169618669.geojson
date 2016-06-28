@@ -2,13 +2,14 @@
   "id": 169618669,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.248397,43.662221,-116.248397,43.662221",
     "geom:latitude":43.662221,
     "geom:longitude":-116.248397,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4997 Collister Dr",
     "sg:city":"Boise",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":169618669,
-    "wof:lastmodified":1449034735,
+    "wof:lastmodified":1466487094,
     "wof:name":"Western Window Cleaning",
     "wof:parent_id":85876323,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "maintenance"
     ]
 },
-  "bbox": [-116.248397,43.662221,-116.248397,43.662221],
+  "bbox": [
+    -116.248397,
+    43.662221,
+    -116.248397,
+    43.662221
+],
   "geometry": {"coordinates":[-116.248397,43.662221],"type":"Point"}
 }

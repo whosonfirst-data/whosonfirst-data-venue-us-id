@@ -2,13 +2,14 @@
   "id": 185949983,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.097333,44.899562,-116.097333,44.899562",
     "geom:latitude":44.899562,
     "geom:longitude":-116.097333,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"212 N 3rd St",
     "sg:city":"Mccall",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":185949983,
-    "wof:lastmodified":1449007607,
+    "wof:lastmodified":1466488591,
     "wof:name":"First Metropolitan Mortgage Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "real estate"
     ]
 },
-  "bbox": [-116.097333,44.899562,-116.097333,44.899562],
-  "geometry": {"coordinates":[-116.097333,44.899562],"type":"Point"}
+  "bbox": [
+    -116.097333,
+    44.899562,
+    -116.097333,
+    44.899562
+],
+  "geometry": {"coordinates":[-116.09733300000001,44.899562],"type":"Point"}
 }

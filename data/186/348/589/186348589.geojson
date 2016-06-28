@@ -2,13 +2,14 @@
   "id": 186348589,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.039903,43.493498,-112.039903,43.493498",
     "geom:latitude":43.493498,
     "geom:longitude":-112.039903,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"320 B St",
     "sg:city":"Idaho Falls",
     "sg:classifiers":[
@@ -57,10 +58,11 @@
         }
     ],
     "wof:id":186348589,
-    "wof:lastmodified":1449050394,
+    "wof:lastmodified":1466488735,
     "wof:name":"Yarn Connection",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -69,6 +71,11 @@
         "mfg"
     ]
 },
-  "bbox": [-112.039903,43.493498,-112.039903,43.493498],
+  "bbox": [
+    -112.039903,
+    43.493498,
+    -112.039903,
+    43.493498
+],
   "geometry": {"coordinates":[-112.039903,43.493498],"type":"Point"}
 }

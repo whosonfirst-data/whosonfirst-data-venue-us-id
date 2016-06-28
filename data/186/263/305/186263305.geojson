@@ -2,13 +2,14 @@
   "id": 186263305,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.266254,43.606472,-116.266254,43.606472",
     "geom:latitude":43.606472,
     "geom:longitude":-116.266254,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7200 Barrister Dr",
     "sg:city":"Boise",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":186263305,
-    "wof:lastmodified":1449052955,
+    "wof:lastmodified":1466488527,
     "wof:name":"Ada County Sheriff-Public Sfty",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "sheriff"
     ]
 },
-  "bbox": [-116.266254,43.606472,-116.266254,43.606472],
+  "bbox": [
+    -116.266254,
+    43.606472,
+    -116.266254,
+    43.606472
+],
   "geometry": {"coordinates":[-116.266254,43.606472],"type":"Point"}
 }

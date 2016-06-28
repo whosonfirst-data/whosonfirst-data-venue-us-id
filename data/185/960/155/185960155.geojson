@@ -2,13 +2,14 @@
   "id": 185960155,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.011224,43.487955,-112.011224,43.487955",
     "geom:latitude":43.487955,
     "geom:longitude":-112.011224,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1105 SE Bonneville Dr",
     "sg:city":"Idaho Falls",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":185960155,
-    "wof:lastmodified":1449007749,
+    "wof:lastmodified":1466488692,
     "wof:name":"L N Johnson Paving",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "nonresidential"
     ]
 },
-  "bbox": [-112.011224,43.487955,-112.011224,43.487955],
+  "bbox": [
+    -112.011224,
+    43.487955,
+    -112.011224,
+    43.487955
+],
   "geometry": {"coordinates":[-112.011224,43.487955],"type":"Point"}
 }

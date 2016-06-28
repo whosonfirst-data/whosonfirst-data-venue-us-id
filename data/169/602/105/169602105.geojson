@@ -2,13 +2,14 @@
   "id": 169602105,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.038593,43.496122,-112.038593,43.496122",
     "geom:latitude":43.496122,
     "geom:longitude":-112.038593,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"485 E St",
     "sg:city":"Idaho Falls",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":169602105,
-    "wof:lastmodified":1449034228,
+    "wof:lastmodified":1466486833,
     "wof:name":"Nelson & Townsend",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "accountant"
     ]
 },
-  "bbox": [-112.038593,43.496122,-112.038593,43.496122],
-  "geometry": {"coordinates":[-112.038593,43.496122],"type":"Point"}
+  "bbox": [
+    -112.038593,
+    43.496122,
+    -112.038593,
+    43.496122
+],
+  "geometry": {"coordinates":[-112.03859300000001,43.496122],"type":"Point"}
 }

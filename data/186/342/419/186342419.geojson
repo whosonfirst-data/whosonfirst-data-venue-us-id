@@ -2,13 +2,14 @@
   "id": 186342419,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.903584,48.181929,-116.903584,48.181929",
     "geom:latitude":48.181929,
     "geom:longitude":-116.903584,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"100 Mc Kinley St",
     "sg:city":"Priest River",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":186342419,
-    "wof:lastmodified":1449052841,
+    "wof:lastmodified":1466488827,
     "wof:name":"Behavior Intervention Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "mental"
     ]
 },
-  "bbox": [-116.903584,48.181929,-116.903584,48.181929],
+  "bbox": [
+    -116.903584,
+    48.181929,
+    -116.903584,
+    48.181929
+],
   "geometry": {"coordinates":[-116.903584,48.181929],"type":"Point"}
 }

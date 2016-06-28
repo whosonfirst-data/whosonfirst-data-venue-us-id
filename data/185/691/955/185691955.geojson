@@ -2,13 +2,14 @@
   "id": 185691955,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.386655,43.604826,-116.386655,43.604826",
     "geom:latitude":43.604826,
     "geom:longitude":-116.386655,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"540 E Franklin Rd",
     "sg:city":"Meridian",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":185691955,
-    "wof:lastmodified":1449006738,
+    "wof:lastmodified":1466487459,
     "wof:name":"Meridian Fire Dept",
     "wof:parent_id":85805083,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "department"
     ]
 },
-  "bbox": [-116.386655,43.604826,-116.386655,43.604826],
+  "bbox": [
+    -116.386655,
+    43.604826,
+    -116.386655,
+    43.604826
+],
   "geometry": {"coordinates":[-116.386655,43.604826],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186349477,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.266173,43.590157,-116.266173,43.590157",
     "geom:latitude":43.590157,
     "geom:longitude":-116.266173,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6710 Overland Rd",
     "sg:city":"Boise",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":186349477,
-    "wof:lastmodified":1449051396,
+    "wof:lastmodified":1466488734,
     "wof:name":"Crowder Associates Architect",
     "wof:parent_id":85876293,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-116.266173,43.590157,-116.266173,43.590157],
-  "geometry": {"coordinates":[-116.266173,43.590157],"type":"Point"}
+  "bbox": [
+    -116.266173,
+    43.590157,
+    -116.266173,
+    43.590157
+],
+  "geometry": {"coordinates":[-116.26617299999999,43.590157],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 185772385,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.119826,45.919477,-116.119826,45.919477",
     "geom:latitude":45.919477,
     "geom:longitude":-116.119826,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1005 S Scott St",
     "sg:city":"Grangeville",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":185772385,
-    "wof:lastmodified":1449007336,
+    "wof:lastmodified":1466488101,
     "wof:name":"Bryans Archery & Photo Shop",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "supply"
     ]
 },
-  "bbox": [-116.119826,45.919477,-116.119826,45.919477],
+  "bbox": [
+    -116.119826,
+    45.919477,
+    -116.119826,
+    45.919477
+],
   "geometry": {"coordinates":[-116.119826,45.919477],"type":"Point"}
 }

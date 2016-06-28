@@ -2,13 +2,14 @@
   "id": 186267079,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.692105,43.669532,-116.692105,43.669532",
     "geom:latitude":43.669532,
     "geom:longitude":-116.692105,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"312 Main St",
     "sg:city":"Caldwell",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186267079,
-    "wof:lastmodified":1449052782,
+    "wof:lastmodified":1466488620,
     "wof:name":"Caxton Printers LTD",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "printer"
     ]
 },
-  "bbox": [-116.692105,43.669532,-116.692105,43.669532],
+  "bbox": [
+    -116.692105,
+    43.669532,
+    -116.692105,
+    43.669532
+],
   "geometry": {"coordinates":[-116.692105,43.669532],"type":"Point"}
 }

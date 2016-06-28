@@ -2,13 +2,14 @@
   "id": 169858291,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.364396,43.682868,-114.364396,43.682868",
     "geom:latitude":43.682868,
     "geom:longitude":-114.364396,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"591 East Ave",
     "sg:city":"Ketchum",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":169858291,
-    "wof:lastmodified":1449032996,
+    "wof:lastmodified":1466488709,
     "wof:name":"Peter W Gray Office",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-114.364396,43.682868,-114.364396,43.682868],
+  "bbox": [
+    -114.364396,
+    43.682868,
+    -114.364396,
+    43.682868
+],
   "geometry": {"coordinates":[-114.364396,43.682868],"type":"Point"}
 }

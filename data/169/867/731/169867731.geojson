@@ -2,13 +2,14 @@
   "id": 169867731,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.958359,44.247674,-116.958359,44.247674",
     "geom:latitude":44.247674,
     "geom:longitude":-116.958359,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"598 US Hwy 95",
     "sg:city":"Weiser",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":169867731,
-    "wof:lastmodified":1449034097,
+    "wof:lastmodified":1466488641,
     "wof:name":"Riverside Baptist Church",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-116.958359,44.247674,-116.958359,44.247674],
+  "bbox": [
+    -116.958359,
+    44.247674,
+    -116.958359,
+    44.247674
+],
   "geometry": {"coordinates":[-116.958359,44.247674],"type":"Point"}
 }

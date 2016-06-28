@@ -2,13 +2,14 @@
   "id": 169717399,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.687514,43.132435,-115.687514,43.132435",
     "geom:latitude":43.132435,
     "geom:longitude":-115.687514,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"125 S 10th E",
     "sg:city":"Mountain Home",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":169717399,
-    "wof:lastmodified":1449032772,
+    "wof:lastmodified":1466488171,
     "wof:name":"Datamat",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "establishment"
     ]
 },
-  "bbox": [-115.687514,43.132435,-115.687514,43.132435],
-  "geometry": {"coordinates":[-115.687514,43.132435],"type":"Point"}
+  "bbox": [
+    -115.687514,
+    43.132435,
+    -115.687514,
+    43.132435
+],
+  "geometry": {"coordinates":[-115.68751399999999,43.132435],"type":"Point"}
 }

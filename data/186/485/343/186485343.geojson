@@ -2,13 +2,14 @@
   "id": 186485343,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.569819,43.571121,-116.569819,43.571121",
     "geom:latitude":43.571121,
     "geom:longitude":-116.569819,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1123 12th Ave S",
     "sg:city":"Nampa",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186485343,
-    "wof:lastmodified":1449051997,
+    "wof:lastmodified":1466488905,
     "wof:name":"Management Associates",
     "wof:parent_id":85827787,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "fuel"
     ]
 },
-  "bbox": [-116.569819,43.571121,-116.569819,43.571121],
+  "bbox": [
+    -116.569819,
+    43.571121,
+    -116.569819,
+    43.571121
+],
   "geometry": {"coordinates":[-116.569819,43.571121],"type":"Point"}
 }

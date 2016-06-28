@@ -2,13 +2,14 @@
   "id": 186445749,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.20697,43.628344,-116.20697,43.628344",
     "geom:latitude":43.628344,
     "geom:longitude":-116.20697,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1006 N 16th St",
     "sg:city":"Boise",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186445749,
-    "wof:lastmodified":1449050690,
+    "wof:lastmodified":1466488860,
     "wof:name":"Mwynhad",
     "wof:parent_id":85876313,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "book"
     ]
 },
-  "bbox": [-116.20697,43.628344,-116.20697,43.628344],
+  "bbox": [
+    -116.20697,
+    43.628344,
+    -116.20697,
+    43.628344
+],
   "geometry": {"coordinates":[-116.20697,43.628344],"type":"Point"}
 }

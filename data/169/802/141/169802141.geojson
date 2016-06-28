@@ -2,13 +2,14 @@
   "id": 169802141,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.963722,43.489245,-111.963722,43.489245",
     "geom:latitude":43.489245,
     "geom:longitude":-111.963722,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"888 Maurine Dr",
     "sg:city":"Idaho Falls",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":169802141,
-    "wof:lastmodified":1449035343,
+    "wof:lastmodified":1466488513,
     "wof:name":"Dunks Wood Den",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "mfg"
     ]
 },
-  "bbox": [-111.963722,43.489245,-111.963722,43.489245],
+  "bbox": [
+    -111.963722,
+    43.489245,
+    -111.963722,
+    43.489245
+],
   "geometry": {"coordinates":[-111.963722,43.489245],"type":"Point"}
 }

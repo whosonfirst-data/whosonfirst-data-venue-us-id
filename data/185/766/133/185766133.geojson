@@ -2,13 +2,14 @@
   "id": 185766133,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.223812,43.622987,-116.223812,43.622987",
     "geom:latitude":43.622987,
     "geom:longitude":-116.223812,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"270 N 27th St",
     "sg:city":"Boise",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":185766133,
-    "wof:lastmodified":1449006579,
+    "wof:lastmodified":1466488050,
     "wof:name":"Association Management LTD",
     "wof:parent_id":85876355,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "association"
     ]
 },
-  "bbox": [-116.223812,43.622987,-116.223812,43.622987],
+  "bbox": [
+    -116.223812,
+    43.622987,
+    -116.223812,
+    43.622987
+],
   "geometry": {"coordinates":[-116.223812,43.622987],"type":"Point"}
 }

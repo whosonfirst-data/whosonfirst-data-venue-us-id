@@ -2,13 +2,14 @@
   "id": 186160769,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.417474,43.619162,-116.417474,43.619162",
     "geom:latitude":43.619162,
     "geom:longitude":-116.417474,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1915 W Cherry Ln",
     "sg:city":"Meridian",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186160769,
-    "wof:lastmodified":1449052578,
+    "wof:lastmodified":1466488402,
     "wof:name":"Children's Unique Styles",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "school"
     ]
 },
-  "bbox": [-116.417474,43.619162,-116.417474,43.619162],
+  "bbox": [
+    -116.417474,
+    43.619162,
+    -116.417474,
+    43.619162
+],
   "geometry": {"coordinates":[-116.417474,43.619162],"type":"Point"}
 }

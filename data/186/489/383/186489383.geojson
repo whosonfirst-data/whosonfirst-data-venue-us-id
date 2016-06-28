@@ -2,13 +2,14 @@
   "id": 186489383,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.838469,47.838902,-116.838469,47.838902",
     "geom:latitude":47.838902,
     "geom:longitude":-116.838469,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3640 W Camrose Ln",
     "sg:city":"Rathdrum",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":186489383,
-    "wof:lastmodified":1449051848,
+    "wof:lastmodified":1466488907,
     "wof:name":"Camrose Consulting Inc",
     "wof:parent_id":85821457,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "book"
     ]
 },
-  "bbox": [-116.838469,47.838902,-116.838469,47.838902],
+  "bbox": [
+    -116.838469,
+    47.838902,
+    -116.838469,
+    47.838902
+],
   "geometry": {"coordinates":[-116.838469,47.838902],"type":"Point"}
 }

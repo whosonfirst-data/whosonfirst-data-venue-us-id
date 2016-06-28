@@ -2,13 +2,14 @@
   "id": 185662885,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.42631,43.226906,-112.42631,43.226906",
     "geom:latitude":43.226906,
     "geom:longitude":-112.42631,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"205 N 650 W",
     "sg:city":"Blackfoot",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":185662885,
-    "wof:lastmodified":1449007676,
+    "wof:lastmodified":1466487236,
     "wof:name":"Humpy's Water Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "company"
     ]
 },
-  "bbox": [-112.42631,43.226906,-112.42631,43.226906],
+  "bbox": [
+    -112.42631,
+    43.226906,
+    -112.42631,
+    43.226906
+],
   "geometry": {"coordinates":[-112.42631,43.226906],"type":"Point"}
 }

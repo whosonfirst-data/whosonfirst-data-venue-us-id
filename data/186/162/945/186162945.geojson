@@ -2,13 +2,14 @@
   "id": 186162945,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.768261,47.76246,-116.768261,47.76246",
     "geom:latitude":47.76246,
     "geom:longitude":-116.768261,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2321 E Dakota Ave",
     "sg:city":"Hayden",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":186162945,
-    "wof:lastmodified":1449052619,
+    "wof:lastmodified":1466488504,
     "wof:name":"Hospitality Manufacturing Inc",
     "wof:parent_id":85821457,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-116.768261,47.76246,-116.768261,47.76246],
+  "bbox": [
+    -116.768261,
+    47.76246,
+    -116.768261,
+    47.76246
+],
   "geometry": {"coordinates":[-116.768261,47.76246],"type":"Point"}
 }

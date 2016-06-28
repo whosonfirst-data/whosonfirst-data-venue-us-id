@@ -2,13 +2,14 @@
   "id": 186298049,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.68259,43.665212,-116.68259,43.665212",
     "geom:latitude":43.665212,
     "geom:longitude":-116.68259,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1104 Albany St",
     "sg:city":"Caldwell",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":186298049,
-    "wof:lastmodified":1449051111,
+    "wof:lastmodified":1466488666,
     "wof:name":"A American Bail Bond Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-116.68259,43.665212,-116.68259,43.665212],
+  "bbox": [
+    -116.68259,
+    43.665212,
+    -116.68259,
+    43.665212
+],
   "geometry": {"coordinates":[-116.68259,43.665212],"type":"Point"}
 }

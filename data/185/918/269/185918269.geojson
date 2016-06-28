@@ -2,13 +2,14 @@
   "id": 185918269,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.789892,47.748969,-116.789892,47.748969",
     "geom:latitude":47.748969,
     "geom:longitude":-116.789892,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8601 N Hayden Pines Way",
     "sg:city":"Hayden",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":185918269,
-    "wof:lastmodified":1449007679,
+    "wof:lastmodified":1466488675,
     "wof:name":"Willow Creek Mobile Home Park",
     "wof:parent_id":85821457,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "community"
     ]
 },
-  "bbox": [-116.789892,47.748969,-116.789892,47.748969],
-  "geometry": {"coordinates":[-116.789892,47.748969],"type":"Point"}
+  "bbox": [
+    -116.789892,
+    47.748969,
+    -116.789892,
+    47.748969
+],
+  "geometry": {"coordinates":[-116.78989199999999,47.748969],"type":"Point"}
 }

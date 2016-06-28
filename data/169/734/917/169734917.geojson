@@ -2,13 +2,14 @@
   "id": 169734917,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.539081,43.584476,-116.539081,43.584476",
     "geom:latitude":43.584476,
     "geom:longitude":-116.539081,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"132 N Venice St",
     "sg:city":"Nampa",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":169734917,
-    "wof:lastmodified":1449035536,
+    "wof:lastmodified":1466488469,
     "wof:name":"Ed Barker's Used Cars",
     "wof:parent_id":85827787,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "dealer"
     ]
 },
-  "bbox": [-116.539081,43.584476,-116.539081,43.584476],
+  "bbox": [
+    -116.539081,
+    43.584476,
+    -116.539081,
+    43.584476
+],
   "geometry": {"coordinates":[-116.539081,43.584476],"type":"Point"}
 }

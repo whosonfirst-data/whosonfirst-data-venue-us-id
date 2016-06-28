@@ -2,13 +2,14 @@
   "id": 186306717,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.365453,43.680197,-114.365453,43.680197",
     "geom:latitude":43.680197,
     "geom:longitude":-114.365453,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"371 Washington Ave",
     "sg:city":"Ketchum",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":186306717,
-    "wof:lastmodified":1449052914,
+    "wof:lastmodified":1466488686,
     "wof:name":"Michael Doty Assoc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-114.365453,43.680197,-114.365453,43.680197],
+  "bbox": [
+    -114.365453,
+    43.680197,
+    -114.365453,
+    43.680197
+],
   "geometry": {"coordinates":[-114.365453,43.680197],"type":"Point"}
 }

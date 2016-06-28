@@ -2,13 +2,14 @@
   "id": 186153447,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.449621,42.898154,-112.449621,42.898154",
     "geom:latitude":42.898154,
     "geom:longitude":-112.449621,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1234 Pershing Ave",
     "sg:city":"Pocatello",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":186153447,
-    "wof:lastmodified":1449052220,
+    "wof:lastmodified":1466488379,
     "wof:name":"Eastside Crown & Bridge Dental",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "laboratory"
     ]
 },
-  "bbox": [-112.449621,42.898154,-112.449621,42.898154],
-  "geometry": {"coordinates":[-112.449621,42.898154],"type":"Point"}
+  "bbox": [
+    -112.449621,
+    42.898154,
+    -112.449621,
+    42.898154
+],
+  "geometry": {"coordinates":[-112.44962099999999,42.898154],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 185996501,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.100177,43.558401,-116.100177,43.558401",
     "geom:latitude":43.558401,
     "geom:longitude":-116.100177,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6601 Glacier Dr",
     "sg:city":"Boise",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":185996501,
-    "wof:lastmodified":1449007046,
+    "wof:lastmodified":1466488745,
     "wof:name":"Anglers Art",
     "wof:parent_id":85876327,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-116.100177,43.558401,-116.100177,43.558401],
+  "bbox": [
+    -116.100177,
+    43.558401,
+    -116.100177,
+    43.558401
+],
   "geometry": {"coordinates":[-116.100177,43.558401],"type":"Point"}
 }

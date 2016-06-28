@@ -2,13 +2,14 @@
   "id": 186556103,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.318082,48.687659,-116.318082,48.687659",
     "geom:latitude":48.687659,
     "geom:longitude":-116.318082,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6818 Denver St",
     "sg:city":"Bonners Ferry",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186556103,
-    "wof:lastmodified":1449051057,
+    "wof:lastmodified":1466488888,
     "wof:name":"Accurate Collision Svc Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "painting"
     ]
 },
-  "bbox": [-116.318082,48.687659,-116.318082,48.687659],
+  "bbox": [
+    -116.318082,
+    48.687659,
+    -116.318082,
+    48.687659
+],
   "geometry": {"coordinates":[-116.318082,48.687659],"type":"Point"}
 }

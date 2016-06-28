@@ -2,13 +2,14 @@
   "id": 169793833,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.687183,43.664798,-116.687183,43.664798",
     "geom:latitude":43.664798,
     "geom:longitude":-116.687183,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"212 S 9th Ave",
     "sg:city":"Caldwell",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":169793833,
-    "wof:lastmodified":1449034506,
+    "wof:lastmodified":1466488490,
     "wof:name":"Men's Room",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-116.687183,43.664798,-116.687183,43.664798],
+  "bbox": [
+    -116.687183,
+    43.664798,
+    -116.687183,
+    43.664798
+],
   "geometry": {"coordinates":[-116.687183,43.664798],"type":"Point"}
 }

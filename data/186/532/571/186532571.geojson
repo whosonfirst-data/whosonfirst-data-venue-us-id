@@ -2,13 +2,14 @@
   "id": 186532571,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.659983,43.59008,-116.659983,43.59008",
     "geom:latitude":43.59008,
     "geom:longitude":-116.659983,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"13376 Orchard Ave",
     "sg:city":"Nampa",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":186532571,
-    "wof:lastmodified":1449051289,
+    "wof:lastmodified":1466488879,
     "wof:name":"Canyon Bounty Farm",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "general"
     ]
 },
-  "bbox": [-116.659983,43.59008,-116.659983,43.59008],
+  "bbox": [
+    -116.659983,
+    43.59008,
+    -116.659983,
+    43.59008
+],
   "geometry": {"coordinates":[-116.659983,43.59008],"type":"Point"}
 }

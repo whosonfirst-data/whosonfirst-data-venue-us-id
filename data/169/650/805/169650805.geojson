@@ -2,13 +2,14 @@
   "id": 169650805,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.345093,43.652141,-116.345093,43.652141",
     "geom:latitude":43.652141,
     "geom:longitude":-116.345093,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5296 N Maidstone Way",
     "sg:city":"Boise",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":169650805,
-    "wof:lastmodified":1449034700,
+    "wof:lastmodified":1466487600,
     "wof:name":"Schreiber Foods",
     "wof:parent_id":85876351,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "product"
     ]
 },
-  "bbox": [-116.345093,43.652141,-116.345093,43.652141],
-  "geometry": {"coordinates":[-116.345093,43.652141],"type":"Point"}
+  "bbox": [
+    -116.345093,
+    43.652141,
+    -116.345093,
+    43.652141
+],
+  "geometry": {"coordinates":[-116.34509300000001,43.652141],"type":"Point"}
 }

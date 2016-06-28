@@ -2,13 +2,14 @@
   "id": 185811649,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.542795,43.555965,-116.542795,43.555965",
     "geom:latitude":43.555965,
     "geom:longitude":-116.542795,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1229 Chicago St",
     "sg:city":"Nampa",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":185811649,
-    "wof:lastmodified":1449007396,
+    "wof:lastmodified":1466488494,
     "wof:name":"Baer Concrete",
     "wof:parent_id":85827787,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-116.542795,43.555965,-116.542795,43.555965],
+  "bbox": [
+    -116.542795,
+    43.555965,
+    -116.542795,
+    43.555965
+],
   "geometry": {"coordinates":[-116.542795,43.555965],"type":"Point"}
 }

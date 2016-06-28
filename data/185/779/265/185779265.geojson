@@ -2,13 +2,14 @@
   "id": 185779265,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.585054,43.554315,-116.585054,43.554315",
     "geom:latitude":43.554315,
     "geom:longitude":-116.585054,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"626 W Iowa Ave",
     "sg:city":"Nampa",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":185779265,
-    "wof:lastmodified":1449006856,
+    "wof:lastmodified":1466488360,
     "wof:name":"Iowa Elementary School",
     "wof:parent_id":85827787,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-116.585054,43.554315,-116.585054,43.554315],
+  "bbox": [
+    -116.585054,
+    43.554315,
+    -116.585054,
+    43.554315
+],
   "geometry": {"coordinates":[-116.585054,43.554315],"type":"Point"}
 }

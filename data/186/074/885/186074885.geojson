@@ -2,13 +2,14 @@
   "id": 186074885,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.998468,43.493431,-111.998468,43.493431",
     "geom:latitude":43.493431,
     "geom:longitude":-111.998468,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1880 John Adams Pkwy",
     "sg:city":"Idaho Falls",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":186074885,
-    "wof:lastmodified":1449051829,
+    "wof:lastmodified":1466487599,
     "wof:name":"Baker Family Practice",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "surgeon"
     ]
 },
-  "bbox": [-111.998468,43.493431,-111.998468,43.493431],
+  "bbox": [
+    -111.998468,
+    43.493431,
+    -111.998468,
+    43.493431
+],
   "geometry": {"coordinates":[-111.998468,43.493431],"type":"Point"}
 }

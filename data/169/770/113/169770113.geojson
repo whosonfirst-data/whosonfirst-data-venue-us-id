@@ -2,13 +2,14 @@
   "id": 169770113,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-117.000716,48.163483,-117.000716,48.163483",
     "geom:latitude":48.163483,
     "geom:longitude":-117.000716,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"206 Hoo Doo Loop",
     "sg:city":"Old Town",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":169770113,
-    "wof:lastmodified":1449036035,
+    "wof:lastmodified":1466488442,
     "wof:name":"Idaho Steel Crafts",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "mfg"
     ]
 },
-  "bbox": [-117.000716,48.163483,-117.000716,48.163483],
+  "bbox": [
+    -117.000716,
+    48.163483,
+    -117.000716,
+    48.163483
+],
   "geometry": {"coordinates":[-117.000716,48.163483],"type":"Point"}
 }

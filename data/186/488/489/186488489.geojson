@@ -2,13 +2,14 @@
   "id": 186488489,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.193737,43.594606,-116.193737,43.594606",
     "geom:latitude":43.594606,
     "geom:longitude":-116.193737,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1403 Broadway Ave",
     "sg:city":"Boise",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":186488489,
-    "wof:lastmodified":1449052973,
+    "wof:lastmodified":1466488861,
     "wof:name":"Power Ridge Corp",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-116.193737,43.594606,-116.193737,43.594606],
+  "bbox": [
+    -116.193737,
+    43.594606,
+    -116.193737,
+    43.594606
+],
   "geometry": {"coordinates":[-116.193737,43.594606],"type":"Point"}
 }

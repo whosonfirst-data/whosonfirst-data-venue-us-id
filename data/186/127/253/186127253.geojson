@@ -2,13 +2,14 @@
   "id": 186127253,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-113.89098,45.17534,-113.89098,45.17534",
     "geom:latitude":45.17534,
     "geom:longitude":-113.89098,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"777 Shoup St",
     "sg:city":"Salmon",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":186127253,
-    "wof:lastmodified":1449052807,
+    "wof:lastmodified":1466488126,
     "wof:name":"East Idaho Federal CU",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-113.89098,45.17534,-113.89098,45.17534],
+  "bbox": [
+    -113.89098,
+    45.17534,
+    -113.89098,
+    45.17534
+],
   "geometry": {"coordinates":[-113.89098,45.17534],"type":"Point"}
 }

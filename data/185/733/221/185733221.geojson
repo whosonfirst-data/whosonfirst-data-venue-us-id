@@ -2,13 +2,14 @@
   "id": 185733221,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.313952,43.706471,-116.313952,43.706471",
     "geom:latitude":43.706471,
     "geom:longitude":-116.313952,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3180 E Floating Feather Rd",
     "sg:city":"Eagle",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":185733221,
-    "wof:lastmodified":1449006826,
+    "wof:lastmodified":1466487785,
     "wof:name":"Eagle Fire Dept",
     "wof:parent_id":85876315,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "department"
     ]
 },
-  "bbox": [-116.313952,43.706471,-116.313952,43.706471],
+  "bbox": [
+    -116.313952,
+    43.706471,
+    -116.313952,
+    43.706471
+],
   "geometry": {"coordinates":[-116.313952,43.706471],"type":"Point"}
 }

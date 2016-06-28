@@ -2,13 +2,14 @@
   "id": 186360079,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.161758,43.612107,-116.161758,43.612107",
     "geom:latitude":43.612107,
     "geom:longitude":-116.161758,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"709 Troutner Way",
     "sg:city":"Boise",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186360079,
-    "wof:lastmodified":1449052391,
+    "wof:lastmodified":1466488753,
     "wof:name":"UBI Inc",
     "wof:parent_id":85876305,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "exporter"
     ]
 },
-  "bbox": [-116.161758,43.612107,-116.161758,43.612107],
-  "geometry": {"coordinates":[-116.161758,43.612107],"type":"Point"}
+  "bbox": [
+    -116.161758,
+    43.612107,
+    -116.161758,
+    43.612107
+],
+  "geometry": {"coordinates":[-116.16175800000001,43.612107],"type":"Point"}
 }

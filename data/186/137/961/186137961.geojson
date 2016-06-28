@@ -2,13 +2,14 @@
   "id": 186137961,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.548704,43.562747,-116.548704,43.562747",
     "geom:latitude":43.562747,
     "geom:longitude":-116.548704,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"710 Dufur St",
     "sg:city":"Nampa",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":186137961,
-    "wof:lastmodified":1449052649,
+    "wof:lastmodified":1466488206,
     "wof:name":"Canyon DTL/Lab",
     "wof:parent_id":85827787,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-116.548704,43.562747,-116.548704,43.562747],
+  "bbox": [
+    -116.548704,
+    43.562747,
+    -116.548704,
+    43.562747
+],
   "geometry": {"coordinates":[-116.548704,43.562747],"type":"Point"}
 }

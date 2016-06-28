@@ -2,13 +2,14 @@
   "id": 186561929,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.920815,46.551923,-116.920815,46.551923",
     "geom:latitude":46.551923,
     "geom:longitude":-116.920815,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"204 N Cedar St",
     "sg:city":"Genesee",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":186561929,
-    "wof:lastmodified":1449052257,
+    "wof:lastmodified":1466488896,
     "wof:name":"Wilks Agricultural Products",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-116.920815,46.551923,-116.920815,46.551923],
+  "bbox": [
+    -116.920815,
+    46.551923,
+    -116.920815,
+    46.551923
+],
   "geometry": {"coordinates":[-116.920815,46.551923],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186550883,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.181395,43.540542,-116.181395,43.540542",
     "geom:latitude":43.540542,
     "geom:longitude":-116.181395,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6527 Supply Way",
     "sg:city":"Boise",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186550883,
-    "wof:lastmodified":1449051838,
+    "wof:lastmodified":1466488935,
     "wof:name":"Western Metal Fabricating Inc",
     "wof:parent_id":85876329,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "metal"
     ]
 },
-  "bbox": [-116.181395,43.540542,-116.181395,43.540542],
-  "geometry": {"coordinates":[-116.181395,43.540542],"type":"Point"}
+  "bbox": [
+    -116.181395,
+    43.540542,
+    -116.181395,
+    43.540542
+],
+  "geometry": {"coordinates":[-116.18139499999999,43.540542],"type":"Point"}
 }

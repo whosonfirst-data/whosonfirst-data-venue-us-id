@@ -2,13 +2,14 @@
   "id": 186331601,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.553159,43.595266,-116.553159,43.595266",
     "geom:latitude":43.595266,
     "geom:longitude":-116.553159,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1201 Franklin Blvd",
     "sg:city":"Nampa",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186331601,
-    "wof:lastmodified":1449051992,
+    "wof:lastmodified":1466488819,
     "wof:name":"Synergy Mktg & Communications",
     "wof:parent_id":85827787,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "agency"
     ]
 },
-  "bbox": [-116.553159,43.595266,-116.553159,43.595266],
-  "geometry": {"coordinates":[-116.553159,43.595266],"type":"Point"}
+  "bbox": [
+    -116.553159,
+    43.595266,
+    -116.553159,
+    43.595266
+],
+  "geometry": {"coordinates":[-116.55315899999999,43.595266],"type":"Point"}
 }

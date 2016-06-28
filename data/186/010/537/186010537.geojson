@@ -2,13 +2,14 @@
   "id": 186010537,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.798367,47.696912,-116.798367,47.696912",
     "geom:latitude":47.696912,
     "geom:longitude":-116.798367,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2190 Ironwood Pl",
     "sg:city":"Coeur D Alene",
     "sg:classifiers":[
@@ -62,10 +63,11 @@
         }
     ],
     "wof:id":186010537,
-    "wof:lastmodified":1449052036,
+    "wof:lastmodified":1466486861,
     "wof:name":"Coeur D'Alene Ob/Gyn",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -73,6 +75,11 @@
         "surgeon"
     ]
 },
-  "bbox": [-116.798367,47.696912,-116.798367,47.696912],
+  "bbox": [
+    -116.798367,
+    47.696912,
+    -116.798367,
+    47.696912
+],
   "geometry": {"coordinates":[-116.798367,47.696912],"type":"Point"}
 }

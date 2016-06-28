@@ -2,13 +2,14 @@
   "id": 169666593,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.106261,43.402996,-112.106261,43.402996",
     "geom:latitude":43.402996,
     "geom:longitude":-112.106261,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"899 E 1450 N",
     "sg:city":"Shelley",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":169666593,
-    "wof:lastmodified":1449033898,
+    "wof:lastmodified":1466487833,
     "wof:name":"Adams Manufacturing",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "manufacturer"
     ]
 },
-  "bbox": [-112.106261,43.402996,-112.106261,43.402996],
+  "bbox": [
+    -112.106261,
+    43.402996,
+    -112.106261,
+    43.402996
+],
   "geometry": {"coordinates":[-112.106261,43.402996],"type":"Point"}
 }

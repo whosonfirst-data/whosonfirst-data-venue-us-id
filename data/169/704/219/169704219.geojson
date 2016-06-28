@@ -2,13 +2,14 @@
   "id": 169704219,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.55872,48.23001,-116.55872,48.23001",
     "geom:latitude":48.23001,
     "geom:longitude":-116.55872,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"135 Hubbard Ln",
     "sg:city":"Sagle",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":169704219,
-    "wof:lastmodified":1449033556,
+    "wof:lastmodified":1466488076,
     "wof:name":"Jill Kahn MA",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-116.55872,48.23001,-116.55872,48.23001],
-  "geometry": {"coordinates":[-116.55872,48.23001],"type":"Point"}
+  "bbox": [
+    -116.55872,
+    48.23001,
+    -116.55872,
+    48.23001
+],
+  "geometry": {"coordinates":[-116.55871999999999,48.23001],"type":"Point"}
 }

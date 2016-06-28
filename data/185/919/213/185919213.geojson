@@ -2,13 +2,14 @@
   "id": 185919213,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.48662,42.578119,-114.48662,42.578119",
     "geom:latitude":42.578119,
     "geom:longitude":-114.48662,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"450 Falls Ave W",
     "sg:city":"Twin Falls",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":185919213,
-    "wof:lastmodified":1449007828,
+    "wof:lastmodified":1466488597,
     "wof:name":"Blackthorn Capital",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "investment"
     ]
 },
-  "bbox": [-114.48662,42.578119,-114.48662,42.578119],
+  "bbox": [
+    -114.48662,
+    42.578119,
+    -114.48662,
+    42.578119
+],
   "geometry": {"coordinates":[-114.48662,42.578119],"type":"Point"}
 }

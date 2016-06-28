@@ -2,13 +2,14 @@
   "id": 185895235,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.424964,43.635214,-116.424964,43.635214",
     "geom:latitude":43.635214,
     "geom:longitude":-116.424964,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3289 N Towerbridge Way",
     "sg:city":"Meridian",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":185895235,
-    "wof:lastmodified":1449007287,
+    "wof:lastmodified":1466488555,
     "wof:name":"Michael Payne PC",
     "wof:parent_id":85876351,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "dentist"
     ]
 },
-  "bbox": [-116.424964,43.635214,-116.424964,43.635214],
+  "bbox": [
+    -116.424964,
+    43.635214,
+    -116.424964,
+    43.635214
+],
   "geometry": {"coordinates":[-116.424964,43.635214],"type":"Point"}
 }

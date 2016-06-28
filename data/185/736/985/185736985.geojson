@@ -2,13 +2,14 @@
   "id": 185736985,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.289585,43.611373,-116.289585,43.611373",
     "geom:latitude":43.611373,
     "geom:longitude":-116.289585,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8620 Emerald St",
     "sg:city":"Boise",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":185736985,
-    "wof:lastmodified":1449008169,
+    "wof:lastmodified":1466487815,
     "wof:name":"Primary Residential Mortgage",
     "wof:parent_id":85876309,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "real estate"
     ]
 },
-  "bbox": [-116.289585,43.611373,-116.289585,43.611373],
+  "bbox": [
+    -116.289585,
+    43.611373,
+    -116.289585,
+    43.611373
+],
   "geometry": {"coordinates":[-116.289585,43.611373],"type":"Point"}
 }

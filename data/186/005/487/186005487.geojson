@@ -2,13 +2,14 @@
   "id": 186005487,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.152794,43.567717,-116.152794,43.567717",
     "geom:latitude":43.567717,
     "geom:longitude":-116.152794,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2459 E Bergeson St",
     "sg:city":"Boise",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186005487,
-    "wof:lastmodified":1449052809,
+    "wof:lastmodified":1466488177,
     "wof:name":"Launchit Inc",
     "wof:parent_id":85876329,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "consultant"
     ]
 },
-  "bbox": [-116.152794,43.567717,-116.152794,43.567717],
+  "bbox": [
+    -116.152794,
+    43.567717,
+    -116.152794,
+    43.567717
+],
   "geometry": {"coordinates":[-116.152794,43.567717],"type":"Point"}
 }

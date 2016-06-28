@@ -2,13 +2,14 @@
   "id": 186448405,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.958883,47.772951,-116.958883,47.772951",
     "geom:latitude":47.772951,
     "geom:longitude":-116.958883,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10623 N Chase Rd",
     "sg:city":"Post Falls",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":186448405,
-    "wof:lastmodified":1449052913,
+    "wof:lastmodified":1466488819,
     "wof:name":"Links Golf Club",
     "wof:parent_id":85833263,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "course"
     ]
 },
-  "bbox": [-116.958883,47.772951,-116.958883,47.772951],
+  "bbox": [
+    -116.958883,
+    47.772951,
+    -116.958883,
+    47.772951
+],
   "geometry": {"coordinates":[-116.958883,47.772951],"type":"Point"}
 }

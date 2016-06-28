@@ -2,13 +2,14 @@
   "id": 185814937,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.893166,47.737708,-116.893166,47.737708",
     "geom:latitude":47.737708,
     "geom:longitude":-116.893166,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4089 E Hope Ave",
     "sg:city":"Post Falls",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":185814937,
-    "wof:lastmodified":1449006910,
+    "wof:lastmodified":1466488502,
     "wof:name":"Gospel Lighthouse Church",
     "wof:parent_id":85833263,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-116.893166,47.737708,-116.893166,47.737708],
-  "geometry": {"coordinates":[-116.893166,47.737708],"type":"Point"}
+  "bbox": [
+    -116.893166,
+    47.737708,
+    -116.893166,
+    47.737708
+],
+  "geometry": {"coordinates":[-116.89316599999999,47.737708],"type":"Point"}
 }

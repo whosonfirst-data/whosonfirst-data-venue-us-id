@@ -2,13 +2,14 @@
   "id": 186176175,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.336638,46.501156,-116.336638,46.501156",
     "geom:latitude":46.501156,
     "geom:longitude":-116.336638,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"115 N 144th St",
     "sg:city":"Orofino",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":186176175,
-    "wof:lastmodified":1449052124,
+    "wof:lastmodified":1466488449,
     "wof:name":"K 2 Farms & Supply",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-116.336638,46.501156,-116.336638,46.501156],
-  "geometry": {"coordinates":[-116.336638,46.501156],"type":"Point"}
+  "bbox": [
+    -116.336638,
+    46.501156,
+    -116.336638,
+    46.501156
+],
+  "geometry": {"coordinates":[-116.33663799999999,46.501156],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169849913,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.125482,47.535741,-116.125482,47.535741",
     "geom:latitude":47.535741,
     "geom:longitude":-116.125482,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"327 McKinley Ave",
     "sg:city":"Kellogg",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":169849913,
-    "wof:lastmodified":1449033298,
+    "wof:lastmodified":1466488623,
     "wof:name":"Box Office Entertainment",
     "wof:parent_id":85849049,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "tape"
     ]
 },
-  "bbox": [-116.125482,47.535741,-116.125482,47.535741],
-  "geometry": {"coordinates":[-116.125482,47.535741],"type":"Point"}
+  "bbox": [
+    -116.125482,
+    47.535741,
+    -116.125482,
+    47.535741
+],
+  "geometry": {"coordinates":[-116.12548200000001,47.535741],"type":"Point"}
 }

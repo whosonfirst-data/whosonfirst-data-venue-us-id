@@ -2,13 +2,14 @@
   "id": 185920597,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.731683,43.159941,-112.731683,43.159941",
     "geom:latitude":43.159941,
     "geom:longitude":-112.731683,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"256 S 2200 W",
     "sg:city":"Pingree",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":185920597,
-    "wof:lastmodified":1449007867,
+    "wof:lastmodified":1466488513,
     "wof:name":"Randy Walker",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.731683,43.159941,-112.731683,43.159941],
+  "bbox": [
+    -112.731683,
+    43.159941,
+    -112.731683,
+    43.159941
+],
   "geometry": {"coordinates":[-112.731683,43.159941],"type":"Point"}
 }

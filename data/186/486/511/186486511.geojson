@@ -2,13 +2,14 @@
   "id": 186486511,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.279098,43.674925,-116.279098,43.674925",
     "geom:latitude":43.674925,
     "geom:longitude":-116.279098,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5960 Gary Ln",
     "sg:city":"Boise",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":186486511,
-    "wof:lastmodified":1449051876,
+    "wof:lastmodified":1466488906,
     "wof:name":"Jehovah's Witnesses",
     "wof:parent_id":85876315,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-116.279098,43.674925,-116.279098,43.674925],
+  "bbox": [
+    -116.279098,
+    43.674925,
+    -116.279098,
+    43.674925
+],
   "geometry": {"coordinates":[-116.279098,43.674925],"type":"Point"}
 }

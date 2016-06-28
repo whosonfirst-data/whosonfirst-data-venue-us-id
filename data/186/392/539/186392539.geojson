@@ -2,13 +2,14 @@
   "id": 186392539,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.266321,43.608365,-116.266321,43.608365",
     "geom:latitude":43.608365,
     "geom:longitude":-116.266321,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"335 Allumbaugh St",
     "sg:city":"Boise",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186392539,
-    "wof:lastmodified":1449052483,
+    "wof:lastmodified":1466488777,
     "wof:name":"Zane P Nelson PHD",
     "wof:parent_id":85841319,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "psychologist"
     ]
 },
-  "bbox": [-116.266321,43.608365,-116.266321,43.608365],
+  "bbox": [
+    -116.266321,
+    43.608365,
+    -116.266321,
+    43.608365
+],
   "geometry": {"coordinates":[-116.266321,43.608365],"type":"Point"}
 }

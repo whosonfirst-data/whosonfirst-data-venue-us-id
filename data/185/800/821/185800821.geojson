@@ -2,13 +2,14 @@
   "id": 185800821,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.33895,43.658927,-116.33895,43.658927",
     "geom:latitude":43.658927,
     "geom:longitude":-116.33895,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"12586 W Bridger St",
     "sg:city":"Boise",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":185800821,
-    "wof:lastmodified":1449006732,
+    "wof:lastmodified":1466488376,
     "wof:name":"Resource Center Inc",
     "wof:parent_id":85876351,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-116.33895,43.658927,-116.33895,43.658927],
+  "bbox": [
+    -116.33895,
+    43.658927,
+    -116.33895,
+    43.658927
+],
   "geometry": {"coordinates":[-116.33895,43.658927],"type":"Point"}
 }

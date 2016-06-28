@@ -2,13 +2,14 @@
   "id": 186411687,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.32316,43.580584,-116.32316,43.580584",
     "geom:latitude":43.580584,
     "geom:longitude":-116.32316,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2519 Essex Way",
     "sg:city":"Boise",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":186411687,
-    "wof:lastmodified":1449050398,
+    "wof:lastmodified":1466488794,
     "wof:name":"Taylor Company",
     "wof:parent_id":85876331,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-116.32316,43.580584,-116.32316,43.580584],
+  "bbox": [
+    -116.32316,
+    43.580584,
+    -116.32316,
+    43.580584
+],
   "geometry": {"coordinates":[-116.32316,43.580584],"type":"Point"}
 }

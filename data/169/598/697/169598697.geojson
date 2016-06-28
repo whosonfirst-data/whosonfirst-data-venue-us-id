@@ -2,13 +2,14 @@
   "id": 169598697,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.839297,47.728184,-116.839297,47.728184",
     "geom:latitude":47.728184,
     "geom:longitude":-116.839297,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4958 Industrial Ave W",
     "sg:city":"Coeur D Alene",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":169598697,
-    "wof:lastmodified":1449032858,
+    "wof:lastmodified":1466488191,
     "wof:name":"Molded Fabric Products Inc",
     "wof:parent_id":85821457,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "fabric"
     ]
 },
-  "bbox": [-116.839297,47.728184,-116.839297,47.728184],
+  "bbox": [
+    -116.839297,
+    47.728184,
+    -116.839297,
+    47.728184
+],
   "geometry": {"coordinates":[-116.839297,47.728184],"type":"Point"}
 }

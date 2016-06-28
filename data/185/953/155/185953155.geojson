@@ -2,13 +2,14 @@
   "id": 185953155,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.900509,43.974613,-116.900509,43.974613",
     "geom:latitude":43.974613,
     "geom:longitude":-116.900509,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2030 US Hwy 30",
     "sg:city":"Fruitland",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":185953155,
-    "wof:lastmodified":1449007700,
+    "wof:lastmodified":1466488675,
     "wof:name":"Treasure Valley Towing",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "wrecker"
     ]
 },
-  "bbox": [-116.900509,43.974613,-116.900509,43.974613],
+  "bbox": [
+    -116.900509,
+    43.974613,
+    -116.900509,
+    43.974613
+],
   "geometry": {"coordinates":[-116.900509,43.974613],"type":"Point"}
 }

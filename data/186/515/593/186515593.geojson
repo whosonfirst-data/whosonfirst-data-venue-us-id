@@ -2,13 +2,14 @@
   "id": 186515593,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.909384,43.677117,-116.909384,43.677117",
     "geom:latitude":43.677117,
     "geom:longitude":-116.909384,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"210 A Ave",
     "sg:city":"Wilder",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":186515593,
-    "wof:lastmodified":1449051026,
+    "wof:lastmodified":1466488924,
     "wof:name":"Wilder High School",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-116.909384,43.677117,-116.909384,43.677117],
+  "bbox": [
+    -116.909384,
+    43.677117,
+    -116.909384,
+    43.677117
+],
   "geometry": {"coordinates":[-116.909384,43.677117],"type":"Point"}
 }

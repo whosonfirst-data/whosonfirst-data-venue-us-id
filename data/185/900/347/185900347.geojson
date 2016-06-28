@@ -2,13 +2,14 @@
   "id": 185900347,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.350692,43.612692,-116.350692,43.612692",
     "geom:latitude":43.612692,
     "geom:longitude":-116.350692,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3587 E Judicial Dr",
     "sg:city":"Meridian",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":185900347,
-    "wof:lastmodified":1449007305,
+    "wof:lastmodified":1466488555,
     "wof:name":"Ido Photography",
     "wof:parent_id":85805083,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "photo"
     ]
 },
-  "bbox": [-116.350692,43.612692,-116.350692,43.612692],
+  "bbox": [
+    -116.350692,
+    43.612692,
+    -116.350692,
+    43.612692
+],
   "geometry": {"coordinates":[-116.350692,43.612692],"type":"Point"}
 }

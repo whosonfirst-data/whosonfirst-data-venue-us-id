@@ -2,13 +2,14 @@
   "id": 185818871,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.451601,42.490791,-114.451601,42.490791",
     "geom:latitude":42.490791,
     "geom:longitude":-114.451601,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3043 E 3400 N",
     "sg:city":"Twin Falls",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":185818871,
-    "wof:lastmodified":1449007409,
+    "wof:lastmodified":1466488500,
     "wof:name":"Wilcox & Wilcox",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-114.451601,42.490791,-114.451601,42.490791],
+  "bbox": [
+    -114.451601,
+    42.490791,
+    -114.451601,
+    42.490791
+],
   "geometry": {"coordinates":[-114.451601,42.490791],"type":"Point"}
 }

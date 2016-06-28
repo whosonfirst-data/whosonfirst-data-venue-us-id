@@ -2,13 +2,14 @@
   "id": 186262883,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.8908,43.697953,-116.8908,43.697953",
     "geom:latitude":43.697953,
     "geom:longitude":-116.8908,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"24549 Fern Ln",
     "sg:city":"Wilder",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":186262883,
-    "wof:lastmodified":1449052028,
+    "wof:lastmodified":1466488613,
     "wof:name":"Craig Paulsen",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "general"
     ]
 },
-  "bbox": [-116.8908,43.697953,-116.8908,43.697953],
+  "bbox": [
+    -116.8908,
+    43.697953,
+    -116.8908,
+    43.697953
+],
   "geometry": {"coordinates":[-116.8908,43.697953],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186381507,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.348693,43.662238,-116.348693,43.662238",
     "geom:latitude":43.662238,
     "geom:longitude":-116.348693,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"13455 W Bluebell Dr",
     "sg:city":"Boise",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186381507,
-    "wof:lastmodified":1449050467,
+    "wof:lastmodified":1466488773,
     "wof:name":"Cued Language of Idaho Inc",
     "wof:parent_id":85876351,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "social"
     ]
 },
-  "bbox": [-116.348693,43.662238,-116.348693,43.662238],
+  "bbox": [
+    -116.348693,
+    43.662238,
+    -116.348693,
+    43.662238
+],
   "geometry": {"coordinates":[-116.348693,43.662238],"type":"Point"}
 }

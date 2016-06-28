@@ -2,13 +2,14 @@
   "id": 185778617,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.201201,43.612562,-116.201201,43.612562",
     "geom:latitude":43.612562,
     "geom:longitude":-116.201201,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"250 S 5th St",
     "sg:city":"Boise",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":185778617,
-    "wof:lastmodified":1449006616,
+    "wof:lastmodified":1466488150,
     "wof:name":"Lori B Keller",
     "wof:parent_id":85876319,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-116.201201,43.612562,-116.201201,43.612562],
+  "bbox": [
+    -116.201201,
+    43.612562,
+    -116.201201,
+    43.612562
+],
   "geometry": {"coordinates":[-116.201201,43.612562],"type":"Point"}
 }

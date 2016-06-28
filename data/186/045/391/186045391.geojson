@@ -2,13 +2,14 @@
   "id": 186045391,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.423555,43.493226,-116.423555,43.493226",
     "geom:latitude":43.493226,
     "geom:longitude":-116.423555,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"512 N School Ave",
     "sg:city":"Kuna",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":186045391,
-    "wof:lastmodified":1449052705,
+    "wof:lastmodified":1466487262,
     "wof:name":"Idaho Web Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "mail"
     ]
 },
-  "bbox": [-116.423555,43.493226,-116.423555,43.493226],
-  "geometry": {"coordinates":[-116.423555,43.493226],"type":"Point"}
+  "bbox": [
+    -116.423555,
+    43.493226,
+    -116.423555,
+    43.493226
+],
+  "geometry": {"coordinates":[-116.42355499999999,43.493226],"type":"Point"}
 }

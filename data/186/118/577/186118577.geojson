@@ -2,13 +2,14 @@
   "id": 186118577,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.15444,43.562924,-116.15444,43.562924",
     "geom:latitude":43.562924,
     "geom:longitude":-116.15444,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4378 S Red Hawk Way",
     "sg:city":"Boise",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186118577,
-    "wof:lastmodified":1449052502,
+    "wof:lastmodified":1466488048,
     "wof:name":"Cappys Frozen Custard Inc",
     "wof:parent_id":85876329,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "eating"
     ]
 },
-  "bbox": [-116.15444,43.562924,-116.15444,43.562924],
-  "geometry": {"coordinates":[-116.15444,43.562924],"type":"Point"}
+  "bbox": [
+    -116.15444,
+    43.562924,
+    -116.15444,
+    43.562924
+],
+  "geometry": {"coordinates":[-116.15443999999999,43.562924],"type":"Point"}
 }

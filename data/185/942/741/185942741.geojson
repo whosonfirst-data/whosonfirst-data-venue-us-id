@@ -2,13 +2,14 @@
   "id": 185942741,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.349232,43.704463,-116.349232,43.704463",
     "geom:latitude":43.704463,
     "geom:longitude":-116.349232,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"283 E Rockingham Dr",
     "sg:city":"Eagle",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":185942741,
-    "wof:lastmodified":1449007353,
+    "wof:lastmodified":1466488565,
     "wof:name":"R Johnson Plumbing",
     "wof:parent_id":85876315,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "contractor"
     ]
 },
-  "bbox": [-116.349232,43.704463,-116.349232,43.704463],
+  "bbox": [
+    -116.349232,
+    43.704463,
+    -116.349232,
+    43.704463
+],
   "geometry": {"coordinates":[-116.349232,43.704463],"type":"Point"}
 }

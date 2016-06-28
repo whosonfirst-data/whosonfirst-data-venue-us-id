@@ -2,13 +2,14 @@
   "id": 186209569,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.212975,43.612894,-116.212975,43.612894",
     "geom:latitude":43.612894,
     "geom:longitude":-116.212975,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1101 River St",
     "sg:city":"Boise",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186209569,
-    "wof:lastmodified":1449052736,
+    "wof:lastmodified":1466488515,
     "wof:name":"W H Moseley Co",
     "wof:parent_id":85876325,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "broker"
     ]
 },
-  "bbox": [-116.212975,43.612894,-116.212975,43.612894],
+  "bbox": [
+    -116.212975,
+    43.612894,
+    -116.212975,
+    43.612894
+],
   "geometry": {"coordinates":[-116.212975,43.612894],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186130433,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.309878,43.610454,-116.309878,43.610454",
     "geom:latitude":43.610454,
     "geom:longitude":-116.309878,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"707 N Armstrong Pl",
     "sg:city":"Boise",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":186130433,
-    "wof:lastmodified":1449051314,
+    "wof:lastmodified":1466488156,
     "wof:name":"Senior Meals",
     "wof:parent_id":85876309,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-116.309878,43.610454,-116.309878,43.610454],
+  "bbox": [
+    -116.309878,
+    43.610454,
+    -116.309878,
+    43.610454
+],
   "geometry": {"coordinates":[-116.309878,43.610454],"type":"Point"}
 }

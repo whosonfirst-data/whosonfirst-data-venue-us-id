@@ -2,13 +2,14 @@
   "id": 169833799,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.222486,43.573552,-116.222486,43.573552",
     "geom:latitude":43.573552,
     "geom:longitude":-116.222486,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3232 Elder St",
     "sg:city":"Boise",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":169833799,
-    "wof:lastmodified":1449033107,
+    "wof:lastmodified":1466488674,
     "wof:name":"Medicaid Administrative Div",
     "wof:parent_id":85876337,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "resource"
     ]
 },
-  "bbox": [-116.222486,43.573552,-116.222486,43.573552],
+  "bbox": [
+    -116.222486,
+    43.573552,
+    -116.222486,
+    43.573552
+],
   "geometry": {"coordinates":[-116.222486,43.573552],"type":"Point"}
 }

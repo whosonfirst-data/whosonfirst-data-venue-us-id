@@ -2,13 +2,14 @@
   "id": 186456001,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-117.007241,46.395015,-117.007241,46.395015",
     "geom:latitude":46.395015,
     "geom:longitude":-117.007241,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2501 17th St",
     "sg:city":"Lewiston",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186456001,
-    "wof:lastmodified":1449051172,
+    "wof:lastmodified":1466488730,
     "wof:name":"Professional Investigation",
     "wof:parent_id":85837769,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "car"
     ]
 },
-  "bbox": [-117.007241,46.395015,-117.007241,46.395015],
-  "geometry": {"coordinates":[-117.007241,46.395015],"type":"Point"}
+  "bbox": [
+    -117.007241,
+    46.395015,
+    -117.007241,
+    46.395015
+],
+  "geometry": {"coordinates":[-117.00724099999999,46.395015],"type":"Point"}
 }

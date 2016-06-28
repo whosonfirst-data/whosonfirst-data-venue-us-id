@@ -2,13 +2,14 @@
   "id": 186167719,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.008541,43.486765,-112.008541,43.486765",
     "geom:latitude":43.486765,
     "geom:longitude":-112.008541,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1220 Bower Dr",
     "sg:city":"Idaho Falls",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186167719,
-    "wof:lastmodified":1449051763,
+    "wof:lastmodified":1466488508,
     "wof:name":"Pantoja's Lawns",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "grounds"
     ]
 },
-  "bbox": [-112.008541,43.486765,-112.008541,43.486765],
-  "geometry": {"coordinates":[-112.008541,43.486765],"type":"Point"}
+  "bbox": [
+    -112.008541,
+    43.486765,
+    -112.008541,
+    43.486765
+],
+  "geometry": {"coordinates":[-112.00854099999999,43.486765],"type":"Point"}
 }

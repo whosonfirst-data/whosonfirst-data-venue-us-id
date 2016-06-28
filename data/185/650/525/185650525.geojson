@@ -2,13 +2,14 @@
   "id": 185650525,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.534431,47.50763,-116.534431,47.50763",
     "geom:latitude":47.50763,
     "geom:longitude":-116.534431,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"18190 E Lane Rd",
     "sg:city":"Cataldo",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":185650525,
-    "wof:lastmodified":1449007596,
+    "wof:lastmodified":1466487145,
     "wof:name":"Marston Custom Cabinets",
     "wof:parent_id":85821457,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "cabinet"
     ]
 },
-  "bbox": [-116.534431,47.50763,-116.534431,47.50763],
+  "bbox": [
+    -116.534431,
+    47.50763,
+    -116.534431,
+    47.50763
+],
   "geometry": {"coordinates":[-116.534431,47.50763],"type":"Point"}
 }

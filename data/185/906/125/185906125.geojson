@@ -2,13 +2,14 @@
   "id": 185906125,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.548945,48.223706,-116.548945,48.223706",
     "geom:latitude":48.223706,
     "geom:longitude":-116.548945,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"146 Brisboys Rd",
     "sg:city":"Sagle",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":185906125,
-    "wof:lastmodified":1449007220,
+    "wof:lastmodified":1466488499,
     "wof:name":"Jacks Barn Mar Shed E",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "general"
     ]
 },
-  "bbox": [-116.548945,48.223706,-116.548945,48.223706],
+  "bbox": [
+    -116.548945,
+    48.223706,
+    -116.548945,
+    48.223706
+],
   "geometry": {"coordinates":[-116.548945,48.223706],"type":"Point"}
 }

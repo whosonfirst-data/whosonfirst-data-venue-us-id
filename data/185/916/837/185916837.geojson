@@ -2,13 +2,14 @@
   "id": 185916837,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.961473,48.172395,-116.961473,48.172395",
     "geom:latitude":48.172395,
     "geom:longitude":-116.961473,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"515 E Cedar Ln",
     "sg:city":"Priest River",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":185916837,
-    "wof:lastmodified":1449007490,
+    "wof:lastmodified":1466488673,
     "wof:name":"JHM Investments",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-116.961473,48.172395,-116.961473,48.172395],
+  "bbox": [
+    -116.961473,
+    48.172395,
+    -116.961473,
+    48.172395
+],
   "geometry": {"coordinates":[-116.961473,48.172395],"type":"Point"}
 }

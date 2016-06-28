@@ -2,13 +2,14 @@
   "id": 169820479,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-117.001851,46.411171,-117.001851,46.411171",
     "geom:latitude":46.411171,
     "geom:longitude":-117.001851,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"921 21st St",
     "sg:city":"Lewiston",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":169820479,
-    "wof:lastmodified":1449034389,
+    "wof:lastmodified":1466488480,
     "wof:name":"Java Stop",
     "wof:parent_id":85837769,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "eating"
     ]
 },
-  "bbox": [-117.001851,46.411171,-117.001851,46.411171],
+  "bbox": [
+    -117.001851,
+    46.411171,
+    -117.001851,
+    46.411171
+],
   "geometry": {"coordinates":[-117.001851,46.411171],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 185976877,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.632592,43.721404,-116.632592,43.721404",
     "geom:latitude":43.721404,
     "geom:longitude":-116.632592,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"24009 Cemetery Rd",
     "sg:city":"Middleton",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":185976877,
-    "wof:lastmodified":1449007269,
+    "wof:lastmodified":1466488814,
     "wof:name":"J L PS Farms Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "general"
     ]
 },
-  "bbox": [-116.632592,43.721404,-116.632592,43.721404],
+  "bbox": [
+    -116.632592,
+    43.721404,
+    -116.632592,
+    43.721404
+],
   "geometry": {"coordinates":[-116.632592,43.721404],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 185706669,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.262719,43.639126,-116.262719,43.639126",
     "geom:latitude":43.639126,
     "geom:longitude":-116.262719,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4838 Chinden Blvd",
     "sg:city":"Boise",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":185706669,
-    "wof:lastmodified":1449006717,
+    "wof:lastmodified":1466487577,
     "wof:name":"A & F Woodworking",
     "wof:parent_id":85876349,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "cabinet"
     ]
 },
-  "bbox": [-116.262719,43.639126,-116.262719,43.639126],
+  "bbox": [
+    -116.262719,
+    43.639126,
+    -116.262719,
+    43.639126
+],
   "geometry": {"coordinates":[-116.262719,43.639126],"type":"Point"}
 }

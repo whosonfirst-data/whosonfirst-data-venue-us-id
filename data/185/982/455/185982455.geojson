@@ -2,13 +2,14 @@
   "id": 185982455,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.186746,43.650486,-116.186746,43.650486",
     "geom:latitude":43.650486,
     "geom:longitude":-116.186746,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"443 Hearthstone Dr",
     "sg:city":"Boise",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":185982455,
-    "wof:lastmodified":1449006890,
+    "wof:lastmodified":1466488656,
     "wof:name":"Pluckebaum Studios",
     "wof:parent_id":85825211,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "commercial"
     ]
 },
-  "bbox": [-116.186746,43.650486,-116.186746,43.650486],
+  "bbox": [
+    -116.186746,
+    43.650486,
+    -116.186746,
+    43.650486
+],
   "geometry": {"coordinates":[-116.186746,43.650486],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169713091,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.758698,43.595982,-116.758698,43.595982",
     "geom:latitude":43.595982,
     "geom:longitude":-116.758698,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"18466 Pear Ln",
     "sg:city":"Caldwell",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":169713091,
-    "wof:lastmodified":1449035647,
+    "wof:lastmodified":1466488155,
     "wof:name":"Bruce C Frans",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "contractor"
     ]
 },
-  "bbox": [-116.758698,43.595982,-116.758698,43.595982],
+  "bbox": [
+    -116.758698,
+    43.595982,
+    -116.758698,
+    43.595982
+],
   "geometry": {"coordinates":[-116.758698,43.595982],"type":"Point"}
 }

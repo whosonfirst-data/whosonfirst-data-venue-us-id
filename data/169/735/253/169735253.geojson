@@ -2,13 +2,14 @@
   "id": 169735253,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-117.001764,46.406105,-117.001764,46.406105",
     "geom:latitude":46.406105,
     "geom:longitude":-117.001764,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2120 14th Ave",
     "sg:city":"Lewiston",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":169735253,
-    "wof:lastmodified":1449035893,
+    "wof:lastmodified":1466488372,
     "wof:name":"Julius Radiator Shop",
     "wof:parent_id":85837769,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "radiator"
     ]
 },
-  "bbox": [-117.001764,46.406105,-117.001764,46.406105],
-  "geometry": {"coordinates":[-117.001764,46.406105],"type":"Point"}
+  "bbox": [
+    -117.001764,
+    46.406105,
+    -117.001764,
+    46.406105
+],
+  "geometry": {"coordinates":[-117.00176399999999,46.406105],"type":"Point"}
 }

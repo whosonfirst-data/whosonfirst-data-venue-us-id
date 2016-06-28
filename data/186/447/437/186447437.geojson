@@ -2,13 +2,14 @@
   "id": 186447437,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.671938,47.774274,-116.671938,47.774274",
     "geom:latitude":47.774274,
     "geom:longitude":-116.671938,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"17415 E Hayden Lake Rd",
     "sg:city":"Hayden Lake",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":186447437,
-    "wof:lastmodified":1449052246,
+    "wof:lastmodified":1466488816,
     "wof:name":"Camp Mi Voden",
     "wof:parent_id":85821457,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "camp"
     ]
 },
-  "bbox": [-116.671938,47.774274,-116.671938,47.774274],
+  "bbox": [
+    -116.671938,
+    47.774274,
+    -116.671938,
+    47.774274
+],
   "geometry": {"coordinates":[-116.671938,47.774274],"type":"Point"}
 }

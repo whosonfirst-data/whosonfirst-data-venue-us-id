@@ -2,13 +2,14 @@
   "id": 169594315,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.680433,43.653988,-116.680433,43.653988",
     "geom:latitude":43.653988,
     "geom:longitude":-116.680433,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1916 Fillmore St",
     "sg:city":"Caldwell",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":169594315,
-    "wof:lastmodified":1449033165,
+    "wof:lastmodified":1466487244,
     "wof:name":"Bradshaw Nutritional Service L",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-116.680433,43.653988,-116.680433,43.653988],
-  "geometry": {"coordinates":[-116.680433,43.653988],"type":"Point"}
+  "bbox": [
+    -116.680433,
+    43.653988,
+    -116.680433,
+    43.653988
+],
+  "geometry": {"coordinates":[-116.68043299999999,43.653988],"type":"Point"}
 }

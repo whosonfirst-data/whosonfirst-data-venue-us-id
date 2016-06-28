@@ -2,13 +2,14 @@
   "id": 169719459,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.4117,43.490538,-116.4117,43.490538",
     "geom:latitude":43.490538,
     "geom:longitude":-116.4117,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"265 E 3rd St",
     "sg:city":"Kuna",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":169719459,
-    "wof:lastmodified":1449033109,
+    "wof:lastmodified":1466488187,
     "wof:name":"Jerry's Tire Svc",
     "wof:parent_id":85876331,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "tire"
     ]
 },
-  "bbox": [-116.4117,43.490538,-116.4117,43.490538],
+  "bbox": [
+    -116.4117,
+    43.490538,
+    -116.4117,
+    43.490538
+],
   "geometry": {"coordinates":[-116.4117,43.490538],"type":"Point"}
 }

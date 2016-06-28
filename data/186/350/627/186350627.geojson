@@ -2,13 +2,14 @@
   "id": 186350627,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.786678,47.736688,-116.786678,47.736688",
     "geom:latitude":47.736688,
     "geom:longitude":-116.786678,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6848 N Government Way",
     "sg:city":"Dalton Gardens",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":186350627,
-    "wof:lastmodified":1449051737,
+    "wof:lastmodified":1466488740,
     "wof:name":"Gourmet Way",
     "wof:parent_id":85821457,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "parcel"
     ]
 },
-  "bbox": [-116.786678,47.736688,-116.786678,47.736688],
-  "geometry": {"coordinates":[-116.786678,47.736688],"type":"Point"}
+  "bbox": [
+    -116.786678,
+    47.736688,
+    -116.786678,
+    47.736688
+],
+  "geometry": {"coordinates":[-116.78667799999999,47.736688],"type":"Point"}
 }

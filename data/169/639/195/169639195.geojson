@@ -2,13 +2,14 @@
   "id": 169639195,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.550866,43.559654,-116.550866,43.559654",
     "geom:latitude":43.559654,
     "geom:longitude":-116.550866,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"919 S Florence St",
     "sg:city":"Nampa",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":169639195,
-    "wof:lastmodified":1449035953,
+    "wof:lastmodified":1466487426,
     "wof:name":"Anderson Residential Care Home",
     "wof:parent_id":85827787,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "community"
     ]
 },
-  "bbox": [-116.550866,43.559654,-116.550866,43.559654],
+  "bbox": [
+    -116.550866,
+    43.559654,
+    -116.550866,
+    43.559654
+],
   "geometry": {"coordinates":[-116.550866,43.559654],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186377035,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.476255,42.665983,-114.476255,42.665983",
     "geom:latitude":42.665983,
     "geom:longitude":-114.476255,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"231 E 400 S",
     "sg:city":"Jerome",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":186377035,
-    "wof:lastmodified":1449051391,
+    "wof:lastmodified":1466488841,
     "wof:name":"Gus Flowers Welded Sculpt",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "mfg"
     ]
 },
-  "bbox": [-114.476255,42.665983,-114.476255,42.665983],
-  "geometry": {"coordinates":[-114.476255,42.665983],"type":"Point"}
+  "bbox": [
+    -114.476255,
+    42.665983,
+    -114.476255,
+    42.665983
+],
+  "geometry": {"coordinates":[-114.47625499999999,42.665983],"type":"Point"}
 }

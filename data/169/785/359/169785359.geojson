@@ -2,13 +2,14 @@
   "id": 169785359,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.016977,43.497921,-112.016977,43.497921",
     "geom:latitude":43.497921,
     "geom:longitude":-112.016977,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"725 Lomax St",
     "sg:city":"Idaho Falls",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":169785359,
-    "wof:lastmodified":1449035396,
+    "wof:lastmodified":1466488475,
     "wof:name":"Transitional Living Ctr",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "apartment"
     ]
 },
-  "bbox": [-112.016977,43.497921,-112.016977,43.497921],
+  "bbox": [
+    -112.016977,
+    43.497921,
+    -112.016977,
+    43.497921
+],
   "geometry": {"coordinates":[-112.016977,43.497921],"type":"Point"}
 }

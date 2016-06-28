@@ -2,13 +2,14 @@
   "id": 169779637,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.972756,46.367708,-116.972756,46.367708",
     "geom:latitude":46.367708,
     "geom:longitude":-116.972756,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1109 Birch Ave",
     "sg:city":"Lewiston",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":169779637,
-    "wof:lastmodified":1449033195,
+    "wof:lastmodified":1466488468,
     "wof:name":"Bob Bosshardt Construction",
     "wof:parent_id":85837769,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "house"
     ]
 },
-  "bbox": [-116.972756,46.367708,-116.972756,46.367708],
+  "bbox": [
+    -116.972756,
+    46.367708,
+    -116.972756,
+    46.367708
+],
   "geometry": {"coordinates":[-116.972756,46.367708],"type":"Point"}
 }

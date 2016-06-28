@@ -2,13 +2,14 @@
   "id": 186109969,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.987718,46.722716,-116.987718,46.722716",
     "geom:latitude":46.722716,
     "geom:longitude":-116.987718,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"915 E White Ave",
     "sg:city":"Moscow",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":186109969,
-    "wof:lastmodified":1449051323,
+    "wof:lastmodified":1466487964,
     "wof:name":"Spence True Value Hardware",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-116.987718,46.722716,-116.987718,46.722716],
+  "bbox": [
+    -116.987718,
+    46.722716,
+    -116.987718,
+    46.722716
+],
   "geometry": {"coordinates":[-116.987718,46.722716],"type":"Point"}
 }

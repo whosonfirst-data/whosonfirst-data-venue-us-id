@@ -2,13 +2,14 @@
   "id": 185949409,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.423529,43.494536,-116.423529,43.494536",
     "geom:latitude":43.494536,
     "geom:longitude":-116.423529,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"610 N School Ave",
     "sg:city":"Kuna",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":185949409,
-    "wof:lastmodified":1449007604,
+    "wof:lastmodified":1466488584,
     "wof:name":"Ross Elementary School",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-116.423529,43.494536,-116.423529,43.494536],
+  "bbox": [
+    -116.423529,
+    43.494536,
+    -116.423529,
+    43.494536
+],
   "geometry": {"coordinates":[-116.423529,43.494536],"type":"Point"}
 }

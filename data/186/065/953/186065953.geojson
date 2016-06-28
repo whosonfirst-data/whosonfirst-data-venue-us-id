@@ -2,13 +2,14 @@
   "id": 186065953,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.118835,47.533688,-116.118835,47.533688",
     "geom:latitude":47.533688,
     "geom:longitude":-116.118835,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"110 Kellogg Ave",
     "sg:city":"Kellogg",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186065953,
-    "wof:lastmodified":1449053008,
+    "wof:lastmodified":1466487495,
     "wof:name":"Hulstrom Construction",
     "wof:parent_id":85849049,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-116.118835,47.533688,-116.118835,47.533688],
+  "bbox": [
+    -116.118835,
+    47.533688,
+    -116.118835,
+    47.533688
+],
   "geometry": {"coordinates":[-116.118835,47.533688],"type":"Point"}
 }

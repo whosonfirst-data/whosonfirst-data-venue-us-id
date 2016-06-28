@@ -2,13 +2,14 @@
   "id": 185708347,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.812697,47.771354,-116.812697,47.771354",
     "geom:latitude":47.771354,
     "geom:longitude":-116.812697,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"11140 N Airport Rd",
     "sg:city":"Hayden Lake",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":185708347,
-    "wof:lastmodified":1449006870,
+    "wof:lastmodified":1466487591,
     "wof:name":"Kootenai County Parks Dept",
     "wof:parent_id":85821457,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "parks"
     ]
 },
-  "bbox": [-116.812697,47.771354,-116.812697,47.771354],
+  "bbox": [
+    -116.812697,
+    47.771354,
+    -116.812697,
+    47.771354
+],
   "geometry": {"coordinates":[-116.812697,47.771354],"type":"Point"}
 }

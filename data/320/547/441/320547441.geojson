@@ -2,13 +2,14 @@
   "id": 320547441,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-117.020502,46.735282,-117.020502,46.735282",
     "geom:latitude":46.735282,
     "geom:longitude":-117.020502,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2500 W A St Ste 201",
     "sg:city":"Moscow",
     "sg:classifiers":[
@@ -55,10 +56,11 @@
         }
     ],
     "wof:id":320547441,
-    "wof:lastmodified":1449011619,
+    "wof:lastmodified":1466487014,
     "wof:name":"Jacobson, Charles A Md",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -70,6 +72,11 @@
         "surgery"
     ]
 },
-  "bbox": [-117.020502,46.735282,-117.020502,46.735282],
-  "geometry": {"coordinates":[-117.020502,46.735282],"type":"Point"}
+  "bbox": [
+    -117.020502,
+    46.735282,
+    -117.020502,
+    46.735282
+],
+  "geometry": {"coordinates":[-117.02050199999999,46.735282],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 185911567,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.181382,43.583008,-116.181382,43.583008",
     "geom:latitude":43.583008,
     "geom:longitude":-116.181382,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2211 Sumac St",
     "sg:city":"Boise",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":185911567,
-    "wof:lastmodified":1449007971,
+    "wof:lastmodified":1466488585,
     "wof:name":"Carden Preschool & Daycare",
     "wof:parent_id":85876329,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "school"
     ]
 },
-  "bbox": [-116.181382,43.583008,-116.181382,43.583008],
+  "bbox": [
+    -116.181382,
+    43.583008,
+    -116.181382,
+    43.583008
+],
   "geometry": {"coordinates":[-116.181382,43.583008],"type":"Point"}
 }

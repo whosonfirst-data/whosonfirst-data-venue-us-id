@@ -2,13 +2,14 @@
   "id": 169834759,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.351162,43.695217,-116.351162,43.695217",
     "geom:latitude":43.695217,
     "geom:longitude":-116.351162,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"52 N 2nd St",
     "sg:city":"Eagle",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":169834759,
-    "wof:lastmodified":1449032976,
+    "wof:lastmodified":1466488674,
     "wof:name":"Land Consultants Inc",
     "wof:parent_id":85876351,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "engineer"
     ]
 },
-  "bbox": [-116.351162,43.695217,-116.351162,43.695217],
+  "bbox": [
+    -116.351162,
+    43.695217,
+    -116.351162,
+    43.695217
+],
   "geometry": {"coordinates":[-116.351162,43.695217],"type":"Point"}
 }

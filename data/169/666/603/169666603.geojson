@@ -2,13 +2,14 @@
   "id": 169666603,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.688504,46.795814,-116.688504,46.795814",
     "geom:latitude":46.795814,
     "geom:longitude":-116.688504,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1200 White Pine Flats Rd",
     "sg:city":"Troy",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":169666603,
-    "wof:lastmodified":1449033899,
+    "wof:lastmodified":1466487834,
     "wof:name":"Environmental Defense Inst",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-116.688504,46.795814,-116.688504,46.795814],
-  "geometry": {"coordinates":[-116.688504,46.795814],"type":"Point"}
+  "bbox": [
+    -116.688504,
+    46.795814,
+    -116.688504,
+    46.795814
+],
+  "geometry": {"coordinates":[-116.68850399999999,46.795814],"type":"Point"}
 }

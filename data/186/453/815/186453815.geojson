@@ -2,13 +2,14 @@
   "id": 186453815,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-117.012547,47.703579,-117.012547,47.703579",
     "geom:latitude":47.703579,
     "geom:longitude":-117.012547,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4752 W Riverbend Ave",
     "sg:city":"Post Falls",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":186453815,
-    "wof:lastmodified":1449052353,
+    "wof:lastmodified":1466488825,
     "wof:name":"Riverbend Commerce Park Dev",
     "wof:parent_id":85833263,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-117.012547,47.703579,-117.012547,47.703579],
+  "bbox": [
+    -117.012547,
+    47.703579,
+    -117.012547,
+    47.703579
+],
   "geometry": {"coordinates":[-117.012547,47.703579],"type":"Point"}
 }

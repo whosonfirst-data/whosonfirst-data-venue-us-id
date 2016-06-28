@@ -2,13 +2,14 @@
   "id": 186486137,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.318196,43.549018,-114.318196,43.549018",
     "geom:latitude":43.549018,
     "geom:longitude":-114.318196,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"105 Aleut Ln",
     "sg:city":"Hailey",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":186486137,
-    "wof:lastmodified":1449051878,
+    "wof:lastmodified":1466488906,
     "wof:name":"Sun Valley Hot Tub Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "tub"
     ]
 },
-  "bbox": [-114.318196,43.549018,-114.318196,43.549018],
+  "bbox": [
+    -114.318196,
+    43.549018,
+    -114.318196,
+    43.549018
+],
   "geometry": {"coordinates":[-114.318196,43.549018],"type":"Point"}
 }

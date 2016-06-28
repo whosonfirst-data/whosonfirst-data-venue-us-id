@@ -2,13 +2,14 @@
   "id": 186335383,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.701818,43.139124,-115.701818,43.139124",
     "geom:latitude":43.139124,
     "geom:longitude":-115.701818,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"903 N Main St",
     "sg:city":"Meridian",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":186335383,
-    "wof:lastmodified":1449052136,
+    "wof:lastmodified":1466488725,
     "wof:name":"Academy Home Lending",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "real estate"
     ]
 },
-  "bbox": [-115.701818,43.139124,-115.701818,43.139124],
+  "bbox": [
+    -115.701818,
+    43.139124,
+    -115.701818,
+    43.139124
+],
   "geometry": {"coordinates":[-115.701818,43.139124],"type":"Point"}
 }

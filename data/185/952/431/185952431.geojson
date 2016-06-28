@@ -2,13 +2,14 @@
   "id": 185952431,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.285151,43.676929,-116.285151,43.676929",
     "geom:latitude":43.676929,
     "geom:longitude":-116.285151,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7862 W Pocono St",
     "sg:city":"Boise",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":185952431,
-    "wof:lastmodified":1449007754,
+    "wof:lastmodified":1466488676,
     "wof:name":"Reflections Video Production",
     "wof:parent_id":85876315,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "taping"
     ]
 },
-  "bbox": [-116.285151,43.676929,-116.285151,43.676929],
+  "bbox": [
+    -116.285151,
+    43.676929,
+    -116.285151,
+    43.676929
+],
   "geometry": {"coordinates":[-116.285151,43.676929],"type":"Point"}
 }

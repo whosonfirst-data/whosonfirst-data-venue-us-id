@@ -2,13 +2,14 @@
   "id": 320537045,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.937017,44.07702,-116.937017,44.07702",
     "geom:latitude":44.07702,
     "geom:longitude":-116.937017,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"715 2nd Ave N",
     "sg:city":"Payette",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":320537045,
-    "wof:lastmodified":1449012178,
+    "wof:lastmodified":1466486849,
     "wof:name":"Windshield Works",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "windshield"
     ]
 },
-  "bbox": [-116.937017,44.07702,-116.937017,44.07702],
+  "bbox": [
+    -116.937017,
+    44.07702,
+    -116.937017,
+    44.07702
+],
   "geometry": {"coordinates":[-116.937017,44.07702],"type":"Point"}
 }

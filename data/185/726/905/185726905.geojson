@@ -2,13 +2,14 @@
   "id": 185726905,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.335851,43.172849,-112.335851,43.172849",
     "geom:latitude":43.172849,
     "geom:longitude":-112.335851,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1734 Christensen Dr",
     "sg:city":"Blackfoot",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":185726905,
-    "wof:lastmodified":1449007689,
+    "wof:lastmodified":1466487736,
     "wof:name":"Unlimited Quilting",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.335851,43.172849,-112.335851,43.172849],
-  "geometry": {"coordinates":[-112.335851,43.172849],"type":"Point"}
+  "bbox": [
+    -112.335851,
+    43.172849,
+    -112.335851,
+    43.172849
+],
+  "geometry": {"coordinates":[-112.33585100000001,43.172849],"type":"Point"}
 }

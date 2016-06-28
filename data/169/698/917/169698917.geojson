@@ -2,13 +2,14 @@
   "id": 169698917,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.161641,43.536741,-116.161641,43.536741",
     "geom:latitude":43.536741,
     "geom:longitude":-116.161641,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6902 S Eisenman Rd",
     "sg:city":"Boise",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":169698917,
-    "wof:lastmodified":1449035757,
+    "wof:lastmodified":1466488013,
     "wof:name":"K-B Toy Outlet",
     "wof:parent_id":85876329,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "store"
     ]
 },
-  "bbox": [-116.161641,43.536741,-116.161641,43.536741],
+  "bbox": [
+    -116.161641,
+    43.536741,
+    -116.161641,
+    43.536741
+],
   "geometry": {"coordinates":[-116.161641,43.536741],"type":"Point"}
 }

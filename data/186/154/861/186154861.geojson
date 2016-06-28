@@ -2,13 +2,14 @@
   "id": 186154861,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.563944,48.203103,-116.563944,48.203103",
     "geom:latitude":48.203103,
     "geom:longitude":-116.563944,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"91 Sagle Rd",
     "sg:city":"Sagle",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":186154861,
-    "wof:lastmodified":1449053062,
+    "wof:lastmodified":1466488385,
     "wof:name":"Alpine Park",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "vehicle"
     ]
 },
-  "bbox": [-116.563944,48.203103,-116.563944,48.203103],
-  "geometry": {"coordinates":[-116.563944,48.203103],"type":"Point"}
+  "bbox": [
+    -116.563944,
+    48.203103,
+    -116.563944,
+    48.203103
+],
+  "geometry": {"coordinates":[-116.56394400000001,48.203103],"type":"Point"}
 }

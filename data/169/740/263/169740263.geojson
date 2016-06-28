@@ -2,13 +2,14 @@
   "id": 169740263,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.311111,43.676598,-114.311111,43.676598",
     "geom:latitude":43.676598,
     "geom:longitude":-114.311111,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"722 Morning Star Rd",
     "sg:city":"Sun Valley",
     "sg:classifiers":[
@@ -56,10 +57,11 @@
         }
     ],
     "wof:id":169740263,
-    "wof:lastmodified":1449034168,
+    "wof:lastmodified":1466488388,
     "wof:name":"Sun Valley Elkhorn Assn Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "swimming"
     ]
 },
-  "bbox": [-114.311111,43.676598,-114.311111,43.676598],
+  "bbox": [
+    -114.311111,
+    43.676598,
+    -114.311111,
+    43.676598
+],
   "geometry": {"coordinates":[-114.311111,43.676598],"type":"Point"}
 }

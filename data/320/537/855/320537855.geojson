@@ -2,13 +2,14 @@
   "id": 320537855,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.918198,44.076226,-116.918198,44.076226",
     "geom:latitude":44.076226,
     "geom:longitude":-116.918198,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"136 N 20th St",
     "sg:city":"Payette",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":320537855,
-    "wof:lastmodified":1449012178,
+    "wof:lastmodified":1466486860,
     "wof:name":"Decker Irragation",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "supply"
     ]
 },
-  "bbox": [-116.918198,44.076226,-116.918198,44.076226],
+  "bbox": [
+    -116.918198,
+    44.076226,
+    -116.918198,
+    44.076226
+],
   "geometry": {"coordinates":[-116.918198,44.076226],"type":"Point"}
 }

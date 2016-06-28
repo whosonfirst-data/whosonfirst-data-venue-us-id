@@ -2,13 +2,14 @@
   "id": 186109833,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.029325,46.228735,-116.029325,46.228735",
     "geom:latitude":46.228735,
     "geom:longitude":-116.029325,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"412 Hill St",
     "sg:city":"Kamiah",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186109833,
-    "wof:lastmodified":1449051323,
+    "wof:lastmodified":1466487963,
     "wof:name":"Journey Counseling & Cnsltng",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "treatment"
     ]
 },
-  "bbox": [-116.029325,46.228735,-116.029325,46.228735],
+  "bbox": [
+    -116.029325,
+    46.228735,
+    -116.029325,
+    46.228735
+],
   "geometry": {"coordinates":[-116.029325,46.228735],"type":"Point"}
 }

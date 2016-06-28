@@ -2,13 +2,14 @@
   "id": 185972631,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.682536,43.137438,-115.682536,43.137438",
     "geom:latitude":43.137438,
     "geom:longitude":-115.682536,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"505 N 14th E",
     "sg:city":"Mountain Home",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":185972631,
-    "wof:lastmodified":1449007439,
+    "wof:lastmodified":1466488706,
     "wof:name":"Whitney Transfer & Storage",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "mover"
     ]
 },
-  "bbox": [-115.682536,43.137438,-115.682536,43.137438],
+  "bbox": [
+    -115.682536,
+    43.137438,
+    -115.682536,
+    43.137438
+],
   "geometry": {"coordinates":[-115.682536,43.137438],"type":"Point"}
 }

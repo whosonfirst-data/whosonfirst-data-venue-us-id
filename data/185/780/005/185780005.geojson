@@ -2,13 +2,14 @@
   "id": 185780005,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.944525,44.073775,-115.944525,44.073775",
     "geom:latitude":44.073775,
     "geom:longitude":-115.944525,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1122 Banks Lowman Rd",
     "sg:city":"Garden Valley",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":185780005,
-    "wof:lastmodified":1449007812,
+    "wof:lastmodified":1466488163,
     "wof:name":"Garden Valley Towing",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "wrecker"
     ]
 },
-  "bbox": [-115.944525,44.073775,-115.944525,44.073775],
+  "bbox": [
+    -115.944525,
+    44.073775,
+    -115.944525,
+    44.073775
+],
   "geometry": {"coordinates":[-115.944525,44.073775],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 185888989,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.535341,48.302292,-116.535341,48.302292",
     "geom:latitude":48.302292,
     "geom:longitude":-116.535341,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"105 2nd St",
     "sg:city":"Ponderay",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":185888989,
-    "wof:lastmodified":1449007612,
+    "wof:lastmodified":1466488544,
     "wof:name":"Money Depot",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "loan"
     ]
 },
-  "bbox": [-116.535341,48.302292,-116.535341,48.302292],
+  "bbox": [
+    -116.535341,
+    48.302292,
+    -116.535341,
+    48.302292
+],
   "geometry": {"coordinates":[-116.535341,48.302292],"type":"Point"}
 }

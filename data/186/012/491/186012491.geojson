@@ -2,13 +2,14 @@
   "id": 186012491,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.025936,43.504044,-112.025936,43.504044",
     "geom:latitude":43.504044,
     "geom:longitude":-112.025936,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"400 E Elva St",
     "sg:city":"Idaho Falls",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":186012491,
-    "wof:lastmodified":1449052750,
+    "wof:lastmodified":1466486883,
     "wof:name":"Rivercity Custom Cycles",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "scooter"
     ]
 },
-  "bbox": [-112.025936,43.504044,-112.025936,43.504044],
+  "bbox": [
+    -112.025936,
+    43.504044,
+    -112.025936,
+    43.504044
+],
   "geometry": {"coordinates":[-112.025936,43.504044],"type":"Point"}
 }

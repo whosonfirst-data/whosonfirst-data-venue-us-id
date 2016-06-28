@@ -2,13 +2,14 @@
   "id": 320524143,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.873173,46.238352,-116.873173,46.238352",
     "geom:latitude":46.238352,
     "geom:longitude":-116.873173,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"38571 Miller Rd",
     "sg:city":"Lewiston",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":320524143,
-    "wof:lastmodified":1449011224,
+    "wof:lastmodified":1466487232,
     "wof:name":"Age",
     "wof:parent_id":85837769,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-116.873173,46.238352,-116.873173,46.238352],
-  "geometry": {"coordinates":[-116.873173,46.238352],"type":"Point"}
+  "bbox": [
+    -116.873173,
+    46.238352,
+    -116.873173,
+    46.238352
+],
+  "geometry": {"coordinates":[-116.87317299999999,46.238352],"type":"Point"}
 }

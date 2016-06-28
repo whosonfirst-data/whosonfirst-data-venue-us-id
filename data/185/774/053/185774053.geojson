@@ -2,13 +2,14 @@
   "id": 185774053,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.332927,43.196521,-112.332927,43.196521",
     "geom:latitude":43.196521,
     "geom:longitude":-112.332927,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"260 Rich Ln",
     "sg:city":"Blackfoot",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":185774053,
-    "wof:lastmodified":1449007241,
+    "wof:lastmodified":1466488114,
     "wof:name":"Army National Guard Recruiter",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "security"
     ]
 },
-  "bbox": [-112.332927,43.196521,-112.332927,43.196521],
+  "bbox": [
+    -112.332927,
+    43.196521,
+    -112.332927,
+    43.196521
+],
   "geometry": {"coordinates":[-112.332927,43.196521],"type":"Point"}
 }

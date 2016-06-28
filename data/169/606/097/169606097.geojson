@@ -2,13 +2,14 @@
   "id": 169606097,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.229637,43.638051,-116.229637,43.638051",
     "geom:latitude":43.638051,
     "geom:longitude":-116.229637,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1923 N 33rd St",
     "sg:city":"Boise",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":169606097,
-    "wof:lastmodified":1449033201,
+    "wof:lastmodified":1466486896,
     "wof:name":"Raggle Day Studios",
     "wof:parent_id":85876339,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "restoring"
     ]
 },
-  "bbox": [-116.229637,43.638051,-116.229637,43.638051],
+  "bbox": [
+    -116.229637,
+    43.638051,
+    -116.229637,
+    43.638051
+],
   "geometry": {"coordinates":[-116.229637,43.638051],"type":"Point"}
 }

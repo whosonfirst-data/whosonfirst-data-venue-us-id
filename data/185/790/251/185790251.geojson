@@ -2,13 +2,14 @@
   "id": 185790251,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.834688,47.706487,-116.834688,47.706487",
     "geom:latitude":47.706487,
     "geom:longitude":-116.834688,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3108 Lodgepole Rd",
     "sg:city":"Coeur D Alene",
     "sg:classifiers":[
@@ -58,14 +59,20 @@
         }
     ],
     "wof:id":185790251,
-    "wof:lastmodified":1449007856,
+    "wof:lastmodified":1466488236,
     "wof:name":"C&K Landscaping Maintenance",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-116.834688,47.706487,-116.834688,47.706487],
+  "bbox": [
+    -116.834688,
+    47.706487,
+    -116.834688,
+    47.706487
+],
   "geometry": {"coordinates":[-116.834688,47.706487],"type":"Point"}
 }

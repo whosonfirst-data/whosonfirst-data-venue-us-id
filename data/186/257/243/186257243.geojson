@@ -2,13 +2,14 @@
   "id": 186257243,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.964941,46.376561,-116.964941,46.376561",
     "geom:latitude":46.376561,
     "geom:longitude":-116.964941,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1306 Burrell Ave",
     "sg:city":"Lewiston",
     "sg:classifiers":[
@@ -61,16 +62,22 @@
         }
     ],
     "wof:id":186257243,
-    "wof:lastmodified":1449051163,
+    "wof:lastmodified":1466488602,
     "wof:name":"Jf Construction",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "house"
     ]
 },
-  "bbox": [-116.964941,46.376561,-116.964941,46.376561],
+  "bbox": [
+    -116.964941,
+    46.376561,
+    -116.964941,
+    46.376561
+],
   "geometry": {"coordinates":[-116.964941,46.376561],"type":"Point"}
 }

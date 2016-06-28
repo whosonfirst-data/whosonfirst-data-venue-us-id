@@ -2,13 +2,14 @@
   "id": 185818759,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.834036,43.827028,-115.834036,43.827028",
     "geom:latitude":43.827028,
     "geom:longitude":-115.834036,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"300 Walulla St",
     "sg:city":"Idaho City",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":185818759,
-    "wof:lastmodified":1449007412,
+    "wof:lastmodified":1466488400,
     "wof:name":"Todd Niehoff",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "hauling"
     ]
 },
-  "bbox": [-115.834036,43.827028,-115.834036,43.827028],
+  "bbox": [
+    -115.834036,
+    43.827028,
+    -115.834036,
+    43.827028
+],
   "geometry": {"coordinates":[-115.834036,43.827028],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186031875,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.222522,43.981476,-112.222522,43.981476",
     "geom:latitude":43.981476,
     "geom:longitude":-112.222522,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2364 N 2375 E",
     "sg:city":"Hamer",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":186031875,
-    "wof:lastmodified":1449051377,
+    "wof:lastmodified":1466487102,
     "wof:name":"Triple K Desert Farms",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.222522,43.981476,-112.222522,43.981476],
+  "bbox": [
+    -112.222522,
+    43.981476,
+    -112.222522,
+    43.981476
+],
   "geometry": {"coordinates":[-112.222522,43.981476],"type":"Point"}
 }

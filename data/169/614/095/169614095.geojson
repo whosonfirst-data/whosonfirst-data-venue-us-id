@@ -2,13 +2,14 @@
   "id": 169614095,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.090524,44.915722,-116.090524,44.915722",
     "geom:latitude":44.915722,
     "geom:longitude":-116.090524,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1608 Davis Ave",
     "sg:city":"Mc Call",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":169614095,
-    "wof:lastmodified":1449036058,
+    "wof:lastmodified":1466487023,
     "wof:name":"Leffingwell Painting",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "contractor"
     ]
 },
-  "bbox": [-116.090524,44.915722,-116.090524,44.915722],
+  "bbox": [
+    -116.090524,
+    44.915722,
+    -116.090524,
+    44.915722
+],
   "geometry": {"coordinates":[-116.090524,44.915722],"type":"Point"}
 }

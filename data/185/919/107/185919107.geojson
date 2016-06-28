@@ -2,13 +2,14 @@
   "id": 185919107,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.52133,43.516141,-116.52133,43.516141",
     "geom:latitude":43.516141,
     "geom:longitude":-116.52133,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9900 Aztlan Dr",
     "sg:city":"Nampa",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":185919107,
-    "wof:lastmodified":1449007827,
+    "wof:lastmodified":1466488597,
     "wof:name":"Leland Nickerson",
     "wof:parent_id":85827787,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "transportation"
     ]
 },
-  "bbox": [-116.52133,43.516141,-116.52133,43.516141],
-  "geometry": {"coordinates":[-116.52133,43.516141],"type":"Point"}
+  "bbox": [
+    -116.52133,
+    43.516141,
+    -116.52133,
+    43.516141
+],
+  "geometry": {"coordinates":[-116.52133000000001,43.516141],"type":"Point"}
 }

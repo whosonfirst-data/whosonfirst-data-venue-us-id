@@ -2,13 +2,14 @@
   "id": 186198559,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.991809,46.40402,-116.991809,46.40402",
     "geom:latitude":46.40402,
     "geom:longitude":-116.991809,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2820 16th Ave",
     "sg:city":"Lewiston",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186198559,
-    "wof:lastmodified":1449051362,
+    "wof:lastmodified":1466488571,
     "wof:name":"Sixteenth Avenue Mini Storage",
     "wof:parent_id":85837769,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "general"
     ]
 },
-  "bbox": [-116.991809,46.40402,-116.991809,46.40402],
+  "bbox": [
+    -116.991809,
+    46.40402,
+    -116.991809,
+    46.40402
+],
   "geometry": {"coordinates":[-116.991809,46.40402],"type":"Point"}
 }

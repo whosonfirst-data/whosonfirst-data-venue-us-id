@@ -2,13 +2,14 @@
   "id": 169591443,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-117.027109,46.421583,-117.027109,46.421583",
     "geom:latitude":46.421583,
     "geom:longitude":-117.027109,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"513 Main St",
     "sg:city":"Lewiston",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":169591443,
-    "wof:lastmodified":1449034452,
+    "wof:lastmodified":1466487235,
     "wof:name":"Pillar Of Truth-Catholic Bkstr",
     "wof:parent_id":85852537,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "dealer"
     ]
 },
-  "bbox": [-117.027109,46.421583,-117.027109,46.421583],
+  "bbox": [
+    -117.027109,
+    46.421583,
+    -117.027109,
+    46.421583
+],
   "geometry": {"coordinates":[-117.027109,46.421583],"type":"Point"}
 }

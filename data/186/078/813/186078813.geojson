@@ -2,13 +2,14 @@
   "id": 186078813,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.208861,43.617088,-116.208861,43.617088",
     "geom:latitude":43.617088,
     "geom:longitude":-116.208861,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1115 Grove St",
     "sg:city":"Boise",
     "sg:classifiers":[
@@ -52,16 +53,22 @@
         }
     ],
     "wof:id":186078813,
-    "wof:lastmodified":1449052587,
+    "wof:lastmodified":1466487646,
     "wof:name":"Tablerock Printing",
     "wof:parent_id":85876297,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "printer"
     ]
 },
-  "bbox": [-116.208861,43.617088,-116.208861,43.617088],
+  "bbox": [
+    -116.208861,
+    43.617088,
+    -116.208861,
+    43.617088
+],
   "geometry": {"coordinates":[-116.208861,43.617088],"type":"Point"}
 }

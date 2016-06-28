@@ -2,13 +2,14 @@
   "id": 169748493,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.410667,43.692121,-116.410667,43.692121",
     "geom:latitude":43.692121,
     "geom:longitude":-116.410667,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"398 S River Rush Ln",
     "sg:city":"Eagle",
     "sg:classifiers":[
@@ -52,16 +53,22 @@
         }
     ],
     "wof:id":169748493,
-    "wof:lastmodified":1449035144,
+    "wof:lastmodified":1466488510,
     "wof:name":"Performance Plus Nutritionals",
     "wof:parent_id":85876351,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "wholesaler"
     ]
 },
-  "bbox": [-116.410667,43.692121,-116.410667,43.692121],
+  "bbox": [
+    -116.410667,
+    43.692121,
+    -116.410667,
+    43.692121
+],
   "geometry": {"coordinates":[-116.410667,43.692121],"type":"Point"}
 }

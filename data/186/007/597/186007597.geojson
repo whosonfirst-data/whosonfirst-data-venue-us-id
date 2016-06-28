@@ -2,13 +2,14 @@
   "id": 186007597,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.761371,47.709915,-116.761371,47.709915",
     "geom:latitude":47.709915,
     "geom:longitude":-116.761371,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1841 E April Elaine Ln",
     "sg:city":"Coeur D Alene",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":186007597,
-    "wof:lastmodified":1449052550,
+    "wof:lastmodified":1466488385,
     "wof:name":"Lake City Mobile Strippin",
     "wof:parent_id":85821457,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-116.761371,47.709915,-116.761371,47.709915],
+  "bbox": [
+    -116.761371,
+    47.709915,
+    -116.761371,
+    47.709915
+],
   "geometry": {"coordinates":[-116.761371,47.709915],"type":"Point"}
 }

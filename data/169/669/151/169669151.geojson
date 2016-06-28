@@ -2,13 +2,14 @@
   "id": 169669151,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.288228,43.609721,-116.288228,43.609721",
     "geom:latitude":43.609721,
     "geom:longitude":-116.288228,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"455 Benjamin Ln",
     "sg:city":"Boise",
     "sg:classifiers":[
@@ -55,10 +56,11 @@
         }
     ],
     "wof:id":169669151,
-    "wof:lastmodified":1449033056,
+    "wof:lastmodified":1466487868,
     "wof:name":"A & H Supply",
     "wof:parent_id":85841319,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -68,6 +70,11 @@
         "contractor"
     ]
 },
-  "bbox": [-116.288228,43.609721,-116.288228,43.609721],
+  "bbox": [
+    -116.288228,
+    43.609721,
+    -116.288228,
+    43.609721
+],
   "geometry": {"coordinates":[-116.288228,43.609721],"type":"Point"}
 }

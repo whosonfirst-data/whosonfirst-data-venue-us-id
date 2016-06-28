@@ -2,13 +2,14 @@
   "id": 185747435,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.601488,43.885283,-111.601488,43.885283",
     "geom:latitude":43.885283,
     "geom:longitude":-111.601488,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"225 Park St",
     "sg:city":"Newdale",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":185747435,
-    "wof:lastmodified":1449006907,
+    "wof:lastmodified":1466487902,
     "wof:name":"Brewer Builders Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-111.601488,43.885283,-111.601488,43.885283],
+  "bbox": [
+    -111.601488,
+    43.885283,
+    -111.601488,
+    43.885283
+],
   "geometry": {"coordinates":[-111.601488,43.885283],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169654427,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.347164,43.604049,-114.347164,43.604049",
     "geom:latitude":43.604049,
     "geom:longitude":-114.347164,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"105 Audubon Pl",
     "sg:city":"Hailey",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":169654427,
-    "wof:lastmodified":1449033792,
+    "wof:lastmodified":1466487652,
     "wof:name":"Interior Motives",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "decorator"
     ]
 },
-  "bbox": [-114.347164,43.604049,-114.347164,43.604049],
-  "geometry": {"coordinates":[-114.347164,43.604049],"type":"Point"}
+  "bbox": [
+    -114.347164,
+    43.604049,
+    -114.347164,
+    43.604049
+],
+  "geometry": {"coordinates":[-114.34716400000001,43.604049],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186514409,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.364645,43.676871,-114.364645,43.676871",
     "geom:latitude":43.676871,
     "geom:longitude":-114.364645,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"220 2nd Ave S",
     "sg:city":"Ketchum",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":186514409,
-    "wof:lastmodified":1449051720,
+    "wof:lastmodified":1466488923,
     "wof:name":"Rokan Idaho",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "investment"
     ]
 },
-  "bbox": [-114.364645,43.676871,-114.364645,43.676871],
+  "bbox": [
+    -114.364645,
+    43.676871,
+    -114.364645,
+    43.676871
+],
   "geometry": {"coordinates":[-114.364645,43.676871],"type":"Point"}
 }

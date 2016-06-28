@@ -2,13 +2,14 @@
   "id": 186255061,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.91241,44.072992,-116.91241,44.072992",
     "geom:latitude":44.072992,
     "geom:longitude":-116.91241,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2320 Roxy Cir",
     "sg:city":"Payette",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":186255061,
-    "wof:lastmodified":1449051587,
+    "wof:lastmodified":1466488679,
     "wof:name":"Legner Dan Painting Contractor",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "contractor"
     ]
 },
-  "bbox": [-116.91241,44.072992,-116.91241,44.072992],
-  "geometry": {"coordinates":[-116.91241,44.072992],"type":"Point"}
+  "bbox": [
+    -116.91241,
+    44.072992,
+    -116.91241,
+    44.072992
+],
+  "geometry": {"coordinates":[-116.91240999999999,44.072992],"type":"Point"}
 }

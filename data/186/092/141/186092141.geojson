@@ -2,13 +2,14 @@
   "id": 186092141,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.221896,43.573558,-116.221896,43.573558",
     "geom:latitude":43.573558,
     "geom:longitude":-116.221896,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3324 Elder St",
     "sg:city":"Boise",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186092141,
-    "wof:lastmodified":1449052507,
+    "wof:lastmodified":1466487781,
     "wof:name":"Hansen & Rice",
     "wof:parent_id":85876337,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "establishment"
     ]
 },
-  "bbox": [-116.221896,43.573558,-116.221896,43.573558],
+  "bbox": [
+    -116.221896,
+    43.573558,
+    -116.221896,
+    43.573558
+],
   "geometry": {"coordinates":[-116.221896,43.573558],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186237971,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.63217,43.757059,-116.63217,43.757059",
     "geom:latitude":43.757059,
     "geom:longitude":-116.63217,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"11981 Bullock Rd",
     "sg:city":"Middleton",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":186237971,
-    "wof:lastmodified":1449050331,
+    "wof:lastmodified":1466488572,
     "wof:name":"Purple Sage Farms Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "produce"
     ]
 },
-  "bbox": [-116.63217,43.757059,-116.63217,43.757059],
+  "bbox": [
+    -116.63217,
+    43.757059,
+    -116.63217,
+    43.757059
+],
   "geometry": {"coordinates":[-116.63217,43.757059],"type":"Point"}
 }

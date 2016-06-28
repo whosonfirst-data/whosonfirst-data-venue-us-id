@@ -2,13 +2,14 @@
   "id": 186236381,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-113.89892,45.169048,-113.89892,45.169048",
     "geom:latitude":45.169048,
     "geom:longitude":-113.89892,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1020 S Church St",
     "sg:city":"Salmon",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":186236381,
-    "wof:lastmodified":1449050529,
+    "wof:lastmodified":1466488568,
     "wof:name":"Robert B Stenersen",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "driver"
     ]
 },
-  "bbox": [-113.89892,45.169048,-113.89892,45.169048],
+  "bbox": [
+    -113.89892,
+    45.169048,
+    -113.89892,
+    45.169048
+],
   "geometry": {"coordinates":[-113.89892,45.169048],"type":"Point"}
 }

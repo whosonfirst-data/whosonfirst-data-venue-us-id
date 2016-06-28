@@ -2,13 +2,14 @@
   "id": 186121689,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.536813,48.309192,-116.536813,48.309192",
     "geom:latitude":48.309192,
     "geom:longitude":-116.536813,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"835 Kootenai Cut Off Rd",
     "sg:city":"Ponderay",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":186121689,
-    "wof:lastmodified":1449052412,
+    "wof:lastmodified":1466488077,
     "wof:name":"Mt Baldy Apartments",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "apartment"
     ]
 },
-  "bbox": [-116.536813,48.309192,-116.536813,48.309192],
+  "bbox": [
+    -116.536813,
+    48.309192,
+    -116.536813,
+    48.309192
+],
   "geometry": {"coordinates":[-116.536813,48.309192],"type":"Point"}
 }

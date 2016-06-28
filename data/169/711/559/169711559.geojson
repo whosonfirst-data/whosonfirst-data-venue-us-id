@@ -2,13 +2,14 @@
   "id": 169711559,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.807945,47.823583,-116.807945,47.823583",
     "geom:latitude":47.823583,
     "geom:longitude":-116.807945,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"17506 N Ramsey Rd",
     "sg:city":"Rathdrum",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":169711559,
-    "wof:lastmodified":1449035355,
+    "wof:lastmodified":1466488142,
     "wof:name":"Garwood Elementary School",
     "wof:parent_id":85821457,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-116.807945,47.823583,-116.807945,47.823583],
+  "bbox": [
+    -116.807945,
+    47.823583,
+    -116.807945,
+    47.823583
+],
   "geometry": {"coordinates":[-116.807945,47.823583],"type":"Point"}
 }

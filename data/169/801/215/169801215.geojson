@@ -2,13 +2,14 @@
   "id": 169801215,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.685973,43.665556,-116.685973,43.665556",
     "geom:latitude":43.665556,
     "geom:longitude":-116.685973,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"911 Main St",
     "sg:city":"Caldwell",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":169801215,
-    "wof:lastmodified":1449035378,
+    "wof:lastmodified":1466488600,
     "wof:name":"Carrow Graphics",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "designer"
     ]
 },
-  "bbox": [-116.685973,43.665556,-116.685973,43.665556],
+  "bbox": [
+    -116.685973,
+    43.665556,
+    -116.685973,
+    43.665556
+],
   "geometry": {"coordinates":[-116.685973,43.665556],"type":"Point"}
 }

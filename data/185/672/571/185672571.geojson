@@ -2,13 +2,14 @@
   "id": 185672571,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.226617,43.59171,-116.226617,43.59171",
     "geom:latitude":43.59171,
     "geom:longitude":-116.226617,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1214 Johnson St",
     "sg:city":"Boise",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":185672571,
-    "wof:lastmodified":1449006703,
+    "wof:lastmodified":1466487309,
     "wof:name":"Doctors Business Bureau",
     "wof:parent_id":85825393,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "business"
     ]
 },
-  "bbox": [-116.226617,43.59171,-116.226617,43.59171],
+  "bbox": [
+    -116.226617,
+    43.59171,
+    -116.226617,
+    43.59171
+],
   "geometry": {"coordinates":[-116.226617,43.59171],"type":"Point"}
 }

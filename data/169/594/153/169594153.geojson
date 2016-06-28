@@ -2,13 +2,14 @@
   "id": 169594153,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.201201,43.612562,-116.201201,43.612562",
     "geom:latitude":43.612562,
     "geom:longitude":-116.201201,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"250 S 5th St",
     "sg:city":"Boise",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":169594153,
-    "wof:lastmodified":1449033165,
+    "wof:lastmodified":1466487241,
     "wof:name":"Penthouse At CW Moore Plaza",
     "wof:parent_id":85876319,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "supply"
     ]
 },
-  "bbox": [-116.201201,43.612562,-116.201201,43.612562],
+  "bbox": [
+    -116.201201,
+    43.612562,
+    -116.201201,
+    43.612562
+],
   "geometry": {"coordinates":[-116.201201,43.612562],"type":"Point"}
 }

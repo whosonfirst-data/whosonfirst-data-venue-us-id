@@ -2,13 +2,14 @@
   "id": 185741221,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.791365,47.713423,-116.791365,47.713423",
     "geom:latitude":47.713423,
     "geom:longitude":-116.791365,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"235 W Sunset Ave",
     "sg:city":"Coeur D Alene",
     "sg:classifiers":[
@@ -62,10 +63,11 @@
         }
     ],
     "wof:id":185741221,
-    "wof:lastmodified":1449006670,
+    "wof:lastmodified":1466487851,
     "wof:name":"Home On The Range",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -73,6 +75,11 @@
         "builder"
     ]
 },
-  "bbox": [-116.791365,47.713423,-116.791365,47.713423],
+  "bbox": [
+    -116.791365,
+    47.713423,
+    -116.791365,
+    47.713423
+],
   "geometry": {"coordinates":[-116.791365,47.713423],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186363989,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.572755,43.538101,-116.572755,43.538101",
     "geom:latitude":43.538101,
     "geom:longitude":-116.572755,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3200 12th Ave Rd",
     "sg:city":"Nampa",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186363989,
-    "wof:lastmodified":1449052693,
+    "wof:lastmodified":1466488759,
     "wof:name":"D & B Supply",
     "wof:parent_id":85827787,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "mower"
     ]
 },
-  "bbox": [-116.572755,43.538101,-116.572755,43.538101],
+  "bbox": [
+    -116.572755,
+    43.538101,
+    -116.572755,
+    43.538101
+],
   "geometry": {"coordinates":[-116.572755,43.538101],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169672877,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.338417,43.595233,-116.338417,43.595233",
     "geom:latitude":43.595233,
     "geom:longitude":-116.338417,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"12501 W Lewisburg Dr",
     "sg:city":"Boise",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":169672877,
-    "wof:lastmodified":1449032890,
+    "wof:lastmodified":1466487917,
     "wof:name":"Spectek",
     "wof:parent_id":85805083,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "communications"
     ]
 },
-  "bbox": [-116.338417,43.595233,-116.338417,43.595233],
-  "geometry": {"coordinates":[-116.338417,43.595233],"type":"Point"}
+  "bbox": [
+    -116.338417,
+    43.595233,
+    -116.338417,
+    43.595233
+],
+  "geometry": {"coordinates":[-116.33841700000001,43.595233],"type":"Point"}
 }

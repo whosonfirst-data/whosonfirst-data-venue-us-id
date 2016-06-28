@@ -2,13 +2,14 @@
   "id": 169842831,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-117.000331,46.715608,-117.000331,46.715608",
     "geom:latitude":46.715608,
     "geom:longitude":-117.000331,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"263 E Palouse River Dr",
     "sg:city":"Moscow",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":169842831,
-    "wof:lastmodified":1449032922,
+    "wof:lastmodified":1466488614,
     "wof:name":"Deny's Auto Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "automobile"
     ]
 },
-  "bbox": [-117.000331,46.715608,-117.000331,46.715608],
+  "bbox": [
+    -117.000331,
+    46.715608,
+    -117.000331,
+    46.715608
+],
   "geometry": {"coordinates":[-117.000331,46.715608],"type":"Point"}
 }

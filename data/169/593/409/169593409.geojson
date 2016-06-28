@@ -2,13 +2,14 @@
   "id": 169593409,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.457644,42.591383,-114.457644,42.591383",
     "geom:latitude":42.591383,
     "geom:longitude":-114.457644,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1653 Elm St N",
     "sg:city":"Twin Falls",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":169593409,
-    "wof:lastmodified":1449034877,
+    "wof:lastmodified":1466486989,
     "wof:name":"Ace Hansen Truck Sales",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "truck"
     ]
 },
-  "bbox": [-114.457644,42.591383,-114.457644,42.591383],
+  "bbox": [
+    -114.457644,
+    42.591383,
+    -114.457644,
+    42.591383
+],
   "geometry": {"coordinates":[-114.457644,42.591383],"type":"Point"}
 }

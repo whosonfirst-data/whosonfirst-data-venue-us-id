@@ -2,13 +2,14 @@
   "id": 320525157,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-117.001985,46.403927,-117.001985,46.403927",
     "geom:latitude":46.403927,
     "geom:longitude":-117.001985,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1617 21st St",
     "sg:city":"Lewiston",
     "sg:classifiers":[
@@ -61,10 +62,11 @@
         }
     ],
     "wof:id":320525157,
-    "wof:lastmodified":1449014189,
+    "wof:lastmodified":1466487258,
     "wof:name":"Joe Hall Nissan",
     "wof:parent_id":85837769,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -75,6 +77,11 @@
         "new"
     ]
 },
-  "bbox": [-117.001985,46.403927,-117.001985,46.403927],
+  "bbox": [
+    -117.001985,
+    46.403927,
+    -117.001985,
+    46.403927
+],
   "geometry": {"coordinates":[-117.001985,46.403927],"type":"Point"}
 }

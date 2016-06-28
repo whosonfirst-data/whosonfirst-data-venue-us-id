@@ -2,13 +2,14 @@
   "id": 169593725,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.578474,43.591044,-116.578474,43.591044",
     "geom:latitude":43.591044,
     "geom:longitude":-116.578474,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"123 Pfe Dr",
     "sg:city":"Nampa",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":169593725,
-    "wof:lastmodified":1449034877,
+    "wof:lastmodified":1466486995,
     "wof:name":"Johnson Electric",
     "wof:parent_id":85827787,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-116.578474,43.591044,-116.578474,43.591044],
+  "bbox": [
+    -116.578474,
+    43.591044,
+    -116.578474,
+    43.591044
+],
   "geometry": {"coordinates":[-116.578474,43.591044],"type":"Point"}
 }

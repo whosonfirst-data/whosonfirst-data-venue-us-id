@@ -2,13 +2,14 @@
   "id": 185984429,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.901594,43.613257,-116.901594,43.613257",
     "geom:latitude":43.613257,
     "geom:longitude":-116.901594,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"16770 Agate Ln",
     "sg:city":"Wilder",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":185984429,
-    "wof:lastmodified":1449007514,
+    "wof:lastmodified":1466488666,
     "wof:name":"Owyhee Range Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-116.901594,43.613257,-116.901594,43.613257],
+  "bbox": [
+    -116.901594,
+    43.613257,
+    -116.901594,
+    43.613257
+],
   "geometry": {"coordinates":[-116.901594,43.613257],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186533479,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.366908,43.682918,-114.366908,43.682918",
     "geom:latitude":43.682918,
     "geom:longitude":-114.366908,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"600 Main St",
     "sg:city":"Ketchum",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":186533479,
-    "wof:lastmodified":1449050213,
+    "wof:lastmodified":1466488877,
     "wof:name":"Charlie's Hair & Nail Salon",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-114.366908,43.682918,-114.366908,43.682918],
+  "bbox": [
+    -114.366908,
+    43.682918,
+    -114.366908,
+    43.682918
+],
   "geometry": {"coordinates":[-114.366908,43.682918],"type":"Point"}
 }

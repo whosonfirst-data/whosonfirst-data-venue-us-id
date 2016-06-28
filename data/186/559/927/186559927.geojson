@@ -2,13 +2,14 @@
   "id": 186559927,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.755453,47.710005,-116.755453,47.710005",
     "geom:latitude":47.710005,
     "geom:longitude":-116.755453,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3529 E 21st Pl",
     "sg:city":"Coeur D Alene",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":186559927,
-    "wof:lastmodified":1449052418,
+    "wof:lastmodified":1466488937,
     "wof:name":"Thomas L Osborn Sr",
     "wof:parent_id":85821457,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "certified"
     ]
 },
-  "bbox": [-116.755453,47.710005,-116.755453,47.710005],
+  "bbox": [
+    -116.755453,
+    47.710005,
+    -116.755453,
+    47.710005
+],
   "geometry": {"coordinates":[-116.755453,47.710005],"type":"Point"}
 }

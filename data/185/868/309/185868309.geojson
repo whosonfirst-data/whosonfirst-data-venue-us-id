@@ -2,13 +2,14 @@
   "id": 185868309,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.958404,44.244434,-116.958404,44.244434",
     "geom:latitude":44.244434,
     "geom:longitude":-116.958404,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"700 E Commercial St",
     "sg:city":"Weiser",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":185868309,
-    "wof:lastmodified":1449006645,
+    "wof:lastmodified":1466488417,
     "wof:name":"Idaho Homes & Land",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-116.958404,44.244434,-116.958404,44.244434],
+  "bbox": [
+    -116.958404,
+    44.244434,
+    -116.958404,
+    44.244434
+],
   "geometry": {"coordinates":[-116.958404,44.244434],"type":"Point"}
 }

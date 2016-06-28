@@ -2,13 +2,14 @@
   "id": 186435143,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.1994,43.621405,-116.1994,43.621405",
     "geom:latitude":43.621405,
     "geom:longitude":-116.1994,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"819 W Hays St",
     "sg:city":"Boise",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":186435143,
-    "wof:lastmodified":1449052776,
+    "wof:lastmodified":1466488808,
     "wof:name":"North End Publications Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "publishing"
     ]
 },
-  "bbox": [-116.1994,43.621405,-116.1994,43.621405],
+  "bbox": [
+    -116.1994,
+    43.621405,
+    -116.1994,
+    43.621405
+],
   "geometry": {"coordinates":[-116.1994,43.621405],"type":"Point"}
 }

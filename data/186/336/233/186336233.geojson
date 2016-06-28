@@ -2,13 +2,14 @@
   "id": 186336233,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.44609,48.190334,-116.44609,48.190334",
     "geom:latitude":48.190334,
     "geom:longitude":-116.44609,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"775 Garfield Bay Rd",
     "sg:city":"Sagle",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":186336233,
-    "wof:lastmodified":1449050187,
+    "wof:lastmodified":1466488726,
     "wof:name":"Anchor Gas & Boat Storage",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "vehicle"
     ]
 },
-  "bbox": [-116.44609,48.190334,-116.44609,48.190334],
+  "bbox": [
+    -116.44609,
+    48.190334,
+    -116.44609,
+    48.190334
+],
   "geometry": {"coordinates":[-116.44609,48.190334],"type":"Point"}
 }

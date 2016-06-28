@@ -2,13 +2,14 @@
   "id": 186096309,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.468934,43.868371,-116.468934,43.868371",
     "geom:latitude":43.868371,
     "geom:longitude":-116.468934,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1565 S Plaza Rd",
     "sg:city":"Emmett",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":186096309,
-    "wof:lastmodified":1449051255,
+    "wof:lastmodified":1466487822,
     "wof:name":"Searl Grading and Landscaping",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "landscape"
     ]
 },
-  "bbox": [-116.468934,43.868371,-116.468934,43.868371],
+  "bbox": [
+    -116.468934,
+    43.868371,
+    -116.468934,
+    43.868371
+],
   "geometry": {"coordinates":[-116.468934,43.868371],"type":"Point"}
 }

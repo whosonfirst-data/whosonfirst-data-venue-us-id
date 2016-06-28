@@ -2,13 +2,14 @@
   "id": 186557729,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-117.033049,47.706809,-117.033049,47.706809",
     "geom:latitude":47.706809,
     "geom:longitude":-117.033049,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6025 W Seltice Way",
     "sg:city":"Post Falls",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186557729,
-    "wof:lastmodified":1449052274,
+    "wof:lastmodified":1466488894,
     "wof:name":"Star West Satellite",
     "wof:parent_id":85833263,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "television"
     ]
 },
-  "bbox": [-117.033049,47.706809,-117.033049,47.706809],
-  "geometry": {"coordinates":[-117.033049,47.706809],"type":"Point"}
+  "bbox": [
+    -117.033049,
+    47.706809,
+    -117.033049,
+    47.706809
+],
+  "geometry": {"coordinates":[-117.03304900000001,47.706809],"type":"Point"}
 }

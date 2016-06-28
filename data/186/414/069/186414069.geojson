@@ -2,13 +2,14 @@
   "id": 186414069,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.786681,47.755434,-116.786681,47.755434",
     "geom:latitude":47.755434,
     "geom:longitude":-116.786681,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9375 N Government Way",
     "sg:city":"Hayden",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":186414069,
-    "wof:lastmodified":1449051636,
+    "wof:lastmodified":1466488852,
     "wof:name":"Hayden Village Salon",
     "wof:parent_id":85821457,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "shop"
     ]
 },
-  "bbox": [-116.786681,47.755434,-116.786681,47.755434],
+  "bbox": [
+    -116.786681,
+    47.755434,
+    -116.786681,
+    47.755434
+],
   "geometry": {"coordinates":[-116.786681,47.755434],"type":"Point"}
 }

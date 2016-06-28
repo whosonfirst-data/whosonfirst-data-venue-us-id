@@ -2,13 +2,14 @@
   "id": 169775393,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.690746,43.126512,-115.690746,43.126512",
     "geom:latitude":43.126512,
     "geom:longitude":-115.690746,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"115 E 6th S",
     "sg:city":"Mountain Home",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":169775393,
-    "wof:lastmodified":1449035117,
+    "wof:lastmodified":1466488530,
     "wof:name":"Intermountain Communications",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "system"
     ]
 },
-  "bbox": [-115.690746,43.126512,-115.690746,43.126512],
+  "bbox": [
+    -115.690746,
+    43.126512,
+    -115.690746,
+    43.126512
+],
   "geometry": {"coordinates":[-115.690746,43.126512],"type":"Point"}
 }

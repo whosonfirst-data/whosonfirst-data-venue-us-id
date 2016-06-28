@@ -2,13 +2,14 @@
   "id": 185726875,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.306688,43.642683,-116.306688,43.642683",
     "geom:latitude":43.642683,
     "geom:longitude":-116.306688,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4148 N Westview Way",
     "sg:city":"Boise",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":185726875,
-    "wof:lastmodified":1449007690,
+    "wof:lastmodified":1466487736,
     "wof:name":"Catalyst Web Applications",
     "wof:parent_id":85876357,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "programming"
     ]
 },
-  "bbox": [-116.306688,43.642683,-116.306688,43.642683],
-  "geometry": {"coordinates":[-116.306688,43.642683],"type":"Point"}
+  "bbox": [
+    -116.306688,
+    43.642683,
+    -116.306688,
+    43.642683
+],
+  "geometry": {"coordinates":[-116.30668799999999,43.642683],"type":"Point"}
 }

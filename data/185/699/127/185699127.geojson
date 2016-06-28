@@ -2,13 +2,14 @@
   "id": 185699127,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.190484,42.468086,-112.190484,42.468086",
     "geom:latitude":42.468086,
     "geom:longitude":-112.190484,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"20474 S Tool Rd",
     "sg:city":"Downey",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":185699127,
-    "wof:lastmodified":1449006823,
+    "wof:lastmodified":1466487516,
     "wof:name":"Barbara Morrison",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.190484,42.468086,-112.190484,42.468086],
+  "bbox": [
+    -112.190484,
+    42.468086,
+    -112.190484,
+    42.468086
+],
   "geometry": {"coordinates":[-112.190484,42.468086],"type":"Point"}
 }

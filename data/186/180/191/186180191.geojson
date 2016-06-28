@@ -2,13 +2,14 @@
   "id": 186180191,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.664724,43.597746,-116.664724,43.597746",
     "geom:latitude":43.597746,
     "geom:longitude":-116.664724,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"13617 Crisholm Rd",
     "sg:city":"Caldwell",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":186180191,
-    "wof:lastmodified":1449050379,
+    "wof:lastmodified":1466488452,
     "wof:name":"Canyon Construction Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "contractor"
     ]
 },
-  "bbox": [-116.664724,43.597746,-116.664724,43.597746],
-  "geometry": {"coordinates":[-116.664724,43.597746],"type":"Point"}
+  "bbox": [
+    -116.664724,
+    43.597746,
+    -116.664724,
+    43.597746
+],
+  "geometry": {"coordinates":[-116.66472400000001,43.597746],"type":"Point"}
 }

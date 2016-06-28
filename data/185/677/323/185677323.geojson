@@ -2,13 +2,14 @@
   "id": 185677323,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.323268,43.625765,-116.323268,43.625765",
     "geom:latitude":43.625765,
     "geom:longitude":-116.323268,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"11286 W Poppy St",
     "sg:city":"Boise",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":185677323,
-    "wof:lastmodified":1449007170,
+    "wof:lastmodified":1466487346,
     "wof:name":"Red Star Construction",
     "wof:parent_id":85811491,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "house"
     ]
 },
-  "bbox": [-116.323268,43.625765,-116.323268,43.625765],
+  "bbox": [
+    -116.323268,
+    43.625765,
+    -116.323268,
+    43.625765
+],
   "geometry": {"coordinates":[-116.323268,43.625765],"type":"Point"}
 }

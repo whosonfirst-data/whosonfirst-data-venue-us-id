@@ -2,13 +2,14 @@
   "id": 186442487,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.485725,42.910364,-112.485725,42.910364",
     "geom:latitude":42.910364,
     "geom:longitude":-112.485725,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1580 Roy St",
     "sg:city":"Pocatello",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":186442487,
-    "wof:lastmodified":1449051549,
+    "wof:lastmodified":1466488814,
     "wof:name":"Bosh Construction",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "nonresidential"
     ]
 },
-  "bbox": [-112.485725,42.910364,-112.485725,42.910364],
+  "bbox": [
+    -112.485725,
+    42.910364,
+    -112.485725,
+    42.910364
+],
   "geometry": {"coordinates":[-112.485725,42.910364],"type":"Point"}
 }

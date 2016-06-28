@@ -2,13 +2,14 @@
   "id": 169730191,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.20585,43.603452,-116.20585,43.603452",
     "geom:latitude":43.603452,
     "geom:longitude":-116.20585,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1910 University Dr",
     "sg:city":"Boise",
     "sg:classifiers":[
@@ -57,16 +58,22 @@
         }
     ],
     "wof:id":169730191,
-    "wof:lastmodified":1449035430,
+    "wof:lastmodified":1466488283,
     "wof:name":"Boise State University Dental",
     "wof:parent_id":85876325,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "academic"
     ]
 },
-  "bbox": [-116.20585,43.603452,-116.20585,43.603452],
+  "bbox": [
+    -116.20585,
+    43.603452,
+    -116.20585,
+    43.603452
+],
   "geometry": {"coordinates":[-116.20585,43.603452],"type":"Point"}
 }

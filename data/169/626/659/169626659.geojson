@@ -2,13 +2,14 @@
   "id": 169626659,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.314416,43.634335,-116.314416,43.634335",
     "geom:latitude":43.634335,
     "geom:longitude":-116.314416,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3339 N Five Mile Rd",
     "sg:city":"Boise",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":169626659,
-    "wof:lastmodified":1449035968,
+    "wof:lastmodified":1466487221,
     "wof:name":"Caribbean Tan",
     "wof:parent_id":85876357,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "salon"
     ]
 },
-  "bbox": [-116.314416,43.634335,-116.314416,43.634335],
-  "geometry": {"coordinates":[-116.314416,43.634335],"type":"Point"}
+  "bbox": [
+    -116.314416,
+    43.634335,
+    -116.314416,
+    43.634335
+],
+  "geometry": {"coordinates":[-116.31441599999999,43.634335],"type":"Point"}
 }

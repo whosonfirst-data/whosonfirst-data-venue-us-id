@@ -2,13 +2,14 @@
   "id": 169822555,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.652713,43.648318,-116.652713,43.648318",
     "geom:latitude":43.648318,
     "geom:longitude":-116.652713,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3703 E Linden St",
     "sg:city":"Caldwell",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":169822555,
-    "wof:lastmodified":1449035865,
+    "wof:lastmodified":1466488560,
     "wof:name":"Insurance Auto Auctions",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "automobile"
     ]
 },
-  "bbox": [-116.652713,43.648318,-116.652713,43.648318],
-  "geometry": {"coordinates":[-116.652713,43.648318],"type":"Point"}
+  "bbox": [
+    -116.652713,
+    43.648318,
+    -116.652713,
+    43.648318
+],
+  "geometry": {"coordinates":[-116.65271300000001,43.648318],"type":"Point"}
 }

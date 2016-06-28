@@ -2,13 +2,14 @@
   "id": 169860421,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.777388,43.828094,-111.777388,43.828094",
     "geom:latitude":43.828094,
     "geom:longitude":-111.777388,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"232 E 1st N",
     "sg:city":"Rexburg",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":169860421,
-    "wof:lastmodified":1449034140,
+    "wof:lastmodified":1466488710,
     "wof:name":"Targhee Internal Medicine",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "surgeon"
     ]
 },
-  "bbox": [-111.777388,43.828094,-111.777388,43.828094],
+  "bbox": [
+    -111.777388,
+    43.828094,
+    -111.777388,
+    43.828094
+],
   "geometry": {"coordinates":[-111.777388,43.828094],"type":"Point"}
 }

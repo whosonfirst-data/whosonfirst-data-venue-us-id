@@ -2,13 +2,14 @@
   "id": 185953663,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.692449,43.135921,-115.692449,43.135921",
     "geom:latitude":43.135921,
     "geom:longitude":-115.692449,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"430 N 6th E",
     "sg:city":"Mountain Home",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":185953663,
-    "wof:lastmodified":1449007697,
+    "wof:lastmodified":1466488678,
     "wof:name":"Ashcraft & Miller",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "attorney"
     ]
 },
-  "bbox": [-115.692449,43.135921,-115.692449,43.135921],
+  "bbox": [
+    -115.692449,
+    43.135921,
+    -115.692449,
+    43.135921
+],
   "geometry": {"coordinates":[-115.692449,43.135921],"type":"Point"}
 }

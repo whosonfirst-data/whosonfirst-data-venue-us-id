@@ -2,13 +2,14 @@
   "id": 320542021,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.284703,43.608861,-116.284703,43.608861",
     "geom:latitude":43.608861,
     "geom:longitude":-116.284703,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"460 N Milwaukee St",
     "sg:city":"Boise",
     "sg:classifiers":[
@@ -65,10 +66,11 @@
         }
     ],
     "wof:id":320542021,
-    "wof:lastmodified":1449014130,
+    "wof:lastmodified":1466486932,
     "wof:name":"Sears Auto Center",
     "wof:parent_id":85841319,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -83,6 +85,11 @@
         "rebuilt"
     ]
 },
-  "bbox": [-116.284703,43.608861,-116.284703,43.608861],
-  "geometry": {"coordinates":[-116.284703,43.608861],"type":"Point"}
+  "bbox": [
+    -116.284703,
+    43.608861,
+    -116.284703,
+    43.608861
+],
+  "geometry": {"coordinates":[-116.28470299999999,43.608861],"type":"Point"}
 }

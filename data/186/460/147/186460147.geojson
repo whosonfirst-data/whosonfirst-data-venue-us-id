@@ -2,13 +2,14 @@
   "id": 186460147,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.207056,43.615515,-116.207056,43.615515",
     "geom:latitude":43.615515,
     "geom:longitude":-116.207056,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"234 S 10th St",
     "sg:city":"Boise",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186460147,
-    "wof:lastmodified":1449052882,
+    "wof:lastmodified":1466488834,
     "wof:name":"Grove Street Garage",
     "wof:parent_id":85876297,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "garage"
     ]
 },
-  "bbox": [-116.207056,43.615515,-116.207056,43.615515],
-  "geometry": {"coordinates":[-116.207056,43.615515],"type":"Point"}
+  "bbox": [
+    -116.207056,
+    43.615515,
+    -116.207056,
+    43.615515
+],
+  "geometry": {"coordinates":[-116.20705599999999,43.615515],"type":"Point"}
 }

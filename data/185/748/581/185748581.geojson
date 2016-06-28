@@ -2,13 +2,14 @@
   "id": 185748581,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.243384,43.608677,-116.243384,43.608677",
     "geom:latitude":43.608677,
     "geom:longitude":-116.243384,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"424 N Orchard St",
     "sg:city":"Boise",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":185748581,
-    "wof:lastmodified":1449007814,
+    "wof:lastmodified":1466487911,
     "wof:name":"All American Jewelry & Pawn",
     "wof:parent_id":85876311,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "pawnbroker"
     ]
 },
-  "bbox": [-116.243384,43.608677,-116.243384,43.608677],
-  "geometry": {"coordinates":[-116.243384,43.608677],"type":"Point"}
+  "bbox": [
+    -116.243384,
+    43.608677,
+    -116.243384,
+    43.608677
+],
+  "geometry": {"coordinates":[-116.24338400000001,43.608677],"type":"Point"}
 }

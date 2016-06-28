@@ -2,13 +2,14 @@
   "id": 169654607,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.162173,43.537897,-116.162173,43.537897",
     "geom:latitude":43.537897,
     "geom:longitude":-116.162173,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6948 S Eisenman Rd",
     "sg:city":"Boise",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":169654607,
-    "wof:lastmodified":1449033792,
+    "wof:lastmodified":1466487656,
     "wof:name":"Hanes Bali Playtex",
     "wof:parent_id":85876329,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "lingerie"
     ]
 },
-  "bbox": [-116.162173,43.537897,-116.162173,43.537897],
+  "bbox": [
+    -116.162173,
+    43.537897,
+    -116.162173,
+    43.537897
+],
   "geometry": {"coordinates":[-116.162173,43.537897],"type":"Point"}
 }

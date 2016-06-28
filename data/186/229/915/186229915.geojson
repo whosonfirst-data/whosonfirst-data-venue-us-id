@@ -2,13 +2,14 @@
   "id": 186229915,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.266127,43.590006,-116.266127,43.590006",
     "geom:latitude":43.590006,
     "geom:longitude":-116.266127,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6726 Overland Rd",
     "sg:city":"Boise",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186229915,
-    "wof:lastmodified":1449052473,
+    "wof:lastmodified":1466488643,
     "wof:name":"S S Grey Jr DDS",
     "wof:parent_id":85876293,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "dentist"
     ]
 },
-  "bbox": [-116.266127,43.590006,-116.266127,43.590006],
+  "bbox": [
+    -116.266127,
+    43.590006,
+    -116.266127,
+    43.590006
+],
   "geometry": {"coordinates":[-116.266127,43.590006],"type":"Point"}
 }

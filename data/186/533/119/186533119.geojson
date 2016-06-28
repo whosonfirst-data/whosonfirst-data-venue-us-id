@@ -2,13 +2,14 @@
   "id": 186533119,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.786584,47.765565,-116.786584,47.765565",
     "geom:latitude":47.765565,
     "geom:longitude":-116.786584,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10325 N Government Way",
     "sg:city":"Hayden Lake",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":186533119,
-    "wof:lastmodified":1449050213,
+    "wof:lastmodified":1466488931,
     "wof:name":"Trophy Supper Club",
     "wof:parent_id":85821457,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-116.786584,47.765565,-116.786584,47.765565],
+  "bbox": [
+    -116.786584,
+    47.765565,
+    -116.786584,
+    47.765565
+],
   "geometry": {"coordinates":[-116.786584,47.765565],"type":"Point"}
 }

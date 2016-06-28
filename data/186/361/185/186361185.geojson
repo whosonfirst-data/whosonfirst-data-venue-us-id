@@ -2,13 +2,14 @@
   "id": 186361185,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.989088,46.416414,-116.989088,46.416414",
     "geom:latitude":46.416414,
     "geom:longitude":-116.989088,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"418 Silcott St",
     "sg:city":"Lewiston",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":186361185,
-    "wof:lastmodified":1449052308,
+    "wof:lastmodified":1466488755,
     "wof:name":"Ed Gustin Trucking",
     "wof:parent_id":85837769,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "trucking"
     ]
 },
-  "bbox": [-116.989088,46.416414,-116.989088,46.416414],
+  "bbox": [
+    -116.989088,
+    46.416414,
+    -116.989088,
+    46.416414
+],
   "geometry": {"coordinates":[-116.989088,46.416414],"type":"Point"}
 }

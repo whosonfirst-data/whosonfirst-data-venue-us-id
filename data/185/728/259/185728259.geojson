@@ -2,13 +2,14 @@
   "id": 185728259,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.28275,43.210716,-112.28275,43.210716",
     "geom:latitude":43.210716,
     "geom:longitude":-112.28275,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"77 E 100 N",
     "sg:city":"Blackfoot",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":185728259,
-    "wof:lastmodified":1449006987,
+    "wof:lastmodified":1466487748,
     "wof:name":"Kris Wadsworth",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "cattle"
     ]
 },
-  "bbox": [-112.28275,43.210716,-112.28275,43.210716],
-  "geometry": {"coordinates":[-112.28275,43.210716],"type":"Point"}
+  "bbox": [
+    -112.28275,
+    43.210716,
+    -112.28275,
+    43.210716
+],
+  "geometry": {"coordinates":[-112.28274999999999,43.210716],"type":"Point"}
 }

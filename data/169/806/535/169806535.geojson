@@ -2,13 +2,14 @@
   "id": 169806535,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.367328,48.489022,-116.367328,48.489022",
     "geom:latitude":48.489022,
     "geom:longitude":-116.367328,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7004 Elmira Rd",
     "sg:city":"Sandpoint",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":169806535,
-    "wof:lastmodified":1449032675,
+    "wof:lastmodified":1466488438,
     "wof:name":"Sand Mountain Construction",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "remodeling"
     ]
 },
-  "bbox": [-116.367328,48.489022,-116.367328,48.489022],
+  "bbox": [
+    -116.367328,
+    48.489022,
+    -116.367328,
+    48.489022
+],
   "geometry": {"coordinates":[-116.367328,48.489022],"type":"Point"}
 }

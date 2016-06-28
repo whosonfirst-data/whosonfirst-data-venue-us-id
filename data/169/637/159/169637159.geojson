@@ -2,13 +2,14 @@
   "id": 169637159,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.316042,43.590362,-116.316042,43.590362",
     "geom:latitude":43.590362,
     "geom:longitude":-116.316042,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10670 Overland Rd",
     "sg:city":"Boise",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":169637159,
-    "wof:lastmodified":1449032686,
+    "wof:lastmodified":1466487392,
     "wof:name":"Carol's Antiques & Collectible",
     "wof:parent_id":85876309,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "antique"
     ]
 },
-  "bbox": [-116.316042,43.590362,-116.316042,43.590362],
+  "bbox": [
+    -116.316042,
+    43.590362,
+    -116.316042,
+    43.590362
+],
   "geometry": {"coordinates":[-116.316042,43.590362],"type":"Point"}
 }

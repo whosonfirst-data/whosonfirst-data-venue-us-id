@@ -2,13 +2,14 @@
   "id": 169610413,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.679115,43.667813,-116.679115,43.667813",
     "geom:latitude":43.667813,
     "geom:longitude":-116.679115,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"516 N 11th Ave",
     "sg:city":"Caldwell",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":169610413,
-    "wof:lastmodified":1449035908,
+    "wof:lastmodified":1466486966,
     "wof:name":"Van Buren Elementary School",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-116.679115,43.667813,-116.679115,43.667813],
+  "bbox": [
+    -116.679115,
+    43.667813,
+    -116.679115,
+    43.667813
+],
   "geometry": {"coordinates":[-116.679115,43.667813],"type":"Point"}
 }

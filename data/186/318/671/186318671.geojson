@@ -2,13 +2,14 @@
   "id": 186318671,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-117.017019,46.404016,-117.017019,46.404016",
     "geom:latitude":46.404016,
     "geom:longitude":-117.017019,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1626 11th St",
     "sg:city":"Lewiston",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186318671,
-    "wof:lastmodified":1449050985,
+    "wof:lastmodified":1466488706,
     "wof:name":"Northwest Home Inspections",
     "wof:parent_id":85837769,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "inspection"
     ]
 },
-  "bbox": [-117.017019,46.404016,-117.017019,46.404016],
+  "bbox": [
+    -117.017019,
+    46.404016,
+    -117.017019,
+    46.404016
+],
   "geometry": {"coordinates":[-117.017019,46.404016],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186057107,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.925417,47.473982,-115.925417,47.473982",
     "geom:latitude":47.473982,
     "geom:longitude":-115.925417,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"209 5th St",
     "sg:city":"Wallace",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186057107,
-    "wof:lastmodified":1449051701,
+    "wof:lastmodified":1466487394,
     "wof:name":"Lucky Miner Used Cars",
     "wof:parent_id":85849049,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "dealer"
     ]
 },
-  "bbox": [-115.925417,47.473982,-115.925417,47.473982],
+  "bbox": [
+    -115.925417,
+    47.473982,
+    -115.925417,
+    47.473982
+],
   "geometry": {"coordinates":[-115.925417,47.473982],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186052345,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.852933,47.704946,-116.852933,47.704946",
     "geom:latitude":47.704946,
     "geom:longitude":-116.852933,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6902 E Seltice Way",
     "sg:city":"Post Falls",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":186052345,
-    "wof:lastmodified":1449051586,
+    "wof:lastmodified":1466487340,
     "wof:name":"Lucky 7 Pizza",
     "wof:parent_id":85821457,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-116.852933,47.704946,-116.852933,47.704946],
-  "geometry": {"coordinates":[-116.852933,47.704946],"type":"Point"}
+  "bbox": [
+    -116.852933,
+    47.704946,
+    -116.852933,
+    47.704946
+],
+  "geometry": {"coordinates":[-116.85293299999999,47.704946],"type":"Point"}
 }

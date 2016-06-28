@@ -2,13 +2,14 @@
   "id": 169810397,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.786655,47.729479,-116.786655,47.729479",
     "geom:latitude":47.729479,
     "geom:longitude":-116.786655,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6270 N Government Way",
     "sg:city":"Dalton Gardens",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":169810397,
-    "wof:lastmodified":1449033644,
+    "wof:lastmodified":1466488532,
     "wof:name":"Big Picture Photography",
     "wof:parent_id":85821457,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "photographer"
     ]
 },
-  "bbox": [-116.786655,47.729479,-116.786655,47.729479],
+  "bbox": [
+    -116.786655,
+    47.729479,
+    -116.786655,
+    47.729479
+],
   "geometry": {"coordinates":[-116.786655,47.729479],"type":"Point"}
 }

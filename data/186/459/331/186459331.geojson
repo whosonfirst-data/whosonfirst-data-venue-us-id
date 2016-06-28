@@ -2,13 +2,14 @@
   "id": 186459331,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.919286,44.008792,-116.919286,44.008792",
     "geom:latitude":44.008792,
     "geom:longitude":-116.919286,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"404 SW 3rd St",
     "sg:city":"Fruitland",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186459331,
-    "wof:lastmodified":1449051467,
+    "wof:lastmodified":1466488832,
     "wof:name":"Donna V Batt",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "family"
     ]
 },
-  "bbox": [-116.919286,44.008792,-116.919286,44.008792],
+  "bbox": [
+    -116.919286,
+    44.008792,
+    -116.919286,
+    44.008792
+],
   "geometry": {"coordinates":[-116.919286,44.008792],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 185901755,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.311979,46.496067,-116.311979,46.496067",
     "geom:latitude":46.496067,
     "geom:longitude":-116.311979,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"12517 Hartford Ave",
     "sg:city":"Orofino",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":185901755,
-    "wof:lastmodified":1449007278,
+    "wof:lastmodified":1466488559,
     "wof:name":"Covenant House Christian Ctr",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-116.311979,46.496067,-116.311979,46.496067],
-  "geometry": {"coordinates":[-116.311979,46.496067],"type":"Point"}
+  "bbox": [
+    -116.311979,
+    46.496067,
+    -116.311979,
+    46.496067
+],
+  "geometry": {"coordinates":[-116.31197899999999,46.496067],"type":"Point"}
 }

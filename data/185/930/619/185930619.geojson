@@ -2,13 +2,14 @@
   "id": 185930619,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.685912,43.665499,-116.685912,43.665499",
     "geom:latitude":43.665499,
     "geom:longitude":-116.685912,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"919 Main St",
     "sg:city":"Caldwell",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":185930619,
-    "wof:lastmodified":1449007113,
+    "wof:lastmodified":1466488625,
     "wof:name":"Caldwell Glass",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "plate"
     ]
 },
-  "bbox": [-116.685912,43.665499,-116.685912,43.665499],
+  "bbox": [
+    -116.685912,
+    43.665499,
+    -116.685912,
+    43.665499
+],
   "geometry": {"coordinates":[-116.685912,43.665499],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 185652129,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.188046,43.588637,-116.188046,43.588637",
     "geom:latitude":43.588637,
     "geom:longitude":-116.188046,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"519 W Boise Ave",
     "sg:city":"Boise",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":185652129,
-    "wof:lastmodified":1449007640,
+    "wof:lastmodified":1466487158,
     "wof:name":"Hornet",
     "wof:parent_id":85876305,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-116.188046,43.588637,-116.188046,43.588637],
+  "bbox": [
+    -116.188046,
+    43.588637,
+    -116.188046,
+    43.588637
+],
   "geometry": {"coordinates":[-116.188046,43.588637],"type":"Point"}
 }

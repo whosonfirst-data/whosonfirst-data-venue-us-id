@@ -2,13 +2,14 @@
   "id": 186261305,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.249502,43.657326,-116.249502,43.657326",
     "geom:latitude":43.657326,
     "geom:longitude":-116.249502,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4869 Bloom St",
     "sg:city":"Boise",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186261305,
-    "wof:lastmodified":1449050302,
+    "wof:lastmodified":1466488609,
     "wof:name":"Ed R Humphries Real Estate",
     "wof:parent_id":85876323,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "appraiser"
     ]
 },
-  "bbox": [-116.249502,43.657326,-116.249502,43.657326],
-  "geometry": {"coordinates":[-116.249502,43.657326],"type":"Point"}
+  "bbox": [
+    -116.249502,
+    43.657326,
+    -116.249502,
+    43.657326
+],
+  "geometry": {"coordinates":[-116.24950200000001,43.657326],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186315305,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-117.012367,46.404189,-117.012367,46.404189",
     "geom:latitude":46.404189,
     "geom:longitude":-117.012367,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1407 16th Ave",
     "sg:city":"Lewiston",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186315305,
-    "wof:lastmodified":1449052897,
+    "wof:lastmodified":1466488616,
     "wof:name":"Appearances Electrolysis",
     "wof:parent_id":85837769,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "electrolysis"
     ]
 },
-  "bbox": [-117.012367,46.404189,-117.012367,46.404189],
+  "bbox": [
+    -117.012367,
+    46.404189,
+    -117.012367,
+    46.404189
+],
   "geometry": {"coordinates":[-117.012367,46.404189],"type":"Point"}
 }

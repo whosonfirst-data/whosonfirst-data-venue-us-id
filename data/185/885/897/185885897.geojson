@@ -2,13 +2,14 @@
   "id": 185885897,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.222668,43.631248,-116.222668,43.631248",
     "geom:latitude":43.631248,
     "geom:longitude":-116.222668,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2727 W State St",
     "sg:city":"Boise",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":185885897,
-    "wof:lastmodified":1449007481,
+    "wof:lastmodified":1466488627,
     "wof:name":"Board Room",
     "wof:parent_id":85876313,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "snowboard"
     ]
 },
-  "bbox": [-116.222668,43.631248,-116.222668,43.631248],
+  "bbox": [
+    -116.222668,
+    43.631248,
+    -116.222668,
+    43.631248
+],
   "geometry": {"coordinates":[-116.222668,43.631248],"type":"Point"}
 }

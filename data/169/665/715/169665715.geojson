@@ -2,13 +2,14 @@
   "id": 169665715,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.186558,43.578989,-116.186558,43.578989",
     "geom:latitude":43.578989,
     "geom:longitude":-116.186558,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"590 Linden St",
     "sg:city":"Boise",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":169665715,
-    "wof:lastmodified":1449033698,
+    "wof:lastmodified":1466487823,
     "wof:name":"Zurn Equipment Sales",
     "wof:parent_id":85876337,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "industrial"
     ]
 },
-  "bbox": [-116.186558,43.578989,-116.186558,43.578989],
-  "geometry": {"coordinates":[-116.186558,43.578989],"type":"Point"}
+  "bbox": [
+    -116.186558,
+    43.578989,
+    -116.186558,
+    43.578989
+],
+  "geometry": {"coordinates":[-116.18655800000001,43.578989],"type":"Point"}
 }

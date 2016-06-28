@@ -2,13 +2,14 @@
   "id": 186112537,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-117.038478,48.176826,-117.038478,48.176826",
     "geom:latitude":48.176826,
     "geom:longitude":-117.038478,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"26508 State Hwy 57",
     "sg:city":"Priest River",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":186112537,
-    "wof:lastmodified":1449051605,
+    "wof:lastmodified":1466487990,
     "wof:name":"Lamb Of God Lutheran Church",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-117.038478,48.176826,-117.038478,48.176826],
+  "bbox": [
+    -117.038478,
+    48.176826,
+    -117.038478,
+    48.176826
+],
   "geometry": {"coordinates":[-117.038478,48.176826],"type":"Point"}
 }

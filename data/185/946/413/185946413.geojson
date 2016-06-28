@@ -2,13 +2,14 @@
   "id": 185946413,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.3414,43.619537,-116.3414,43.619537",
     "geom:latitude":43.619537,
     "geom:longitude":-116.3414,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4360 E Fairview Ave",
     "sg:city":"Meridian",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":185946413,
-    "wof:lastmodified":1449008025,
+    "wof:lastmodified":1466488727,
     "wof:name":"Peak Alarm Co",
     "wof:parent_id":85811491,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "system"
     ]
 },
-  "bbox": [-116.3414,43.619537,-116.3414,43.619537],
-  "geometry": {"coordinates":[-116.3414,43.619537],"type":"Point"}
+  "bbox": [
+    -116.3414,
+    43.619537,
+    -116.3414,
+    43.619537
+],
+  "geometry": {"coordinates":[-116.34139999999999,43.619537],"type":"Point"}
 }

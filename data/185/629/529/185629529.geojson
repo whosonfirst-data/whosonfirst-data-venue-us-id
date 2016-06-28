@@ -2,13 +2,14 @@
   "id": 185629529,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.331446,43.593954,-116.331446,43.593954",
     "geom:latitude":43.593954,
     "geom:longitude":-116.331446,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"11953 W Lewisberg Ct",
     "sg:city":"Boise",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":185629529,
-    "wof:lastmodified":1449007854,
+    "wof:lastmodified":1466486986,
     "wof:name":"Vanzandt Electric",
     "wof:parent_id":85805083,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-116.331446,43.593954,-116.331446,43.593954],
+  "bbox": [
+    -116.331446,
+    43.593954,
+    -116.331446,
+    43.593954
+],
   "geometry": {"coordinates":[-116.331446,43.593954],"type":"Point"}
 }

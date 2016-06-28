@@ -2,13 +2,14 @@
   "id": 320540487,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.90961,43.677021,-116.90961,43.677021",
     "geom:latitude":43.677021,
     "geom:longitude":-116.90961,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"308 A Ave",
     "sg:city":"Wilder",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":320540487,
-    "wof:lastmodified":1449012736,
+    "wof:lastmodified":1466486896,
     "wof:name":"Alejandro's Restaurant",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "mexican"
     ]
 },
-  "bbox": [-116.90961,43.677021,-116.90961,43.677021],
+  "bbox": [
+    -116.90961,
+    43.677021,
+    -116.90961,
+    43.677021
+],
   "geometry": {"coordinates":[-116.90961,43.677021],"type":"Point"}
 }

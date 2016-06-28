@@ -2,13 +2,14 @@
   "id": 186104289,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.376599,46.515146,-116.376599,46.515146",
     "geom:latitude":46.515146,
     "geom:longitude":-116.376599,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4489 Sunnyside Dr",
     "sg:city":"Lenore",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":186104289,
-    "wof:lastmodified":1449051483,
+    "wof:lastmodified":1466487906,
     "wof:name":"Clearwater Constructors",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-116.376599,46.515146,-116.376599,46.515146],
+  "bbox": [
+    -116.376599,
+    46.515146,
+    -116.376599,
+    46.515146
+],
   "geometry": {"coordinates":[-116.376599,46.515146],"type":"Point"}
 }

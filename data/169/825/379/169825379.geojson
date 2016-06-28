@@ -2,13 +2,14 @@
   "id": 169825379,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.698966,47.941833,-116.698966,47.941833",
     "geom:latitude":47.941833,
     "geom:longitude":-116.698966,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"29629 US Hwy 95",
     "sg:city":"Athol",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":169825379,
-    "wof:lastmodified":1449032816,
+    "wof:lastmodified":1466488495,
     "wof:name":"Athol Ok Car Coral",
     "wof:parent_id":85821457,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "dealer"
     ]
 },
-  "bbox": [-116.698966,47.941833,-116.698966,47.941833],
+  "bbox": [
+    -116.698966,
+    47.941833,
+    -116.698966,
+    47.941833
+],
   "geometry": {"coordinates":[-116.698966,47.941833],"type":"Point"}
 }

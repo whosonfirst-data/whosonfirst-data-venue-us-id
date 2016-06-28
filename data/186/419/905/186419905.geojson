@@ -2,13 +2,14 @@
   "id": 186419905,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.570235,43.547001,-116.570235,43.547001",
     "geom:latitude":43.547001,
     "geom:longitude":-116.570235,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2320 Sunnybrook Dr",
     "sg:city":"Nampa",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186419905,
-    "wof:lastmodified":1449052985,
+    "wof:lastmodified":1466488802,
     "wof:name":"Marie A Anderson",
     "wof:parent_id":85827787,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "retail"
     ]
 },
-  "bbox": [-116.570235,43.547001,-116.570235,43.547001],
+  "bbox": [
+    -116.570235,
+    43.547001,
+    -116.570235,
+    43.547001
+],
   "geometry": {"coordinates":[-116.570235,43.547001],"type":"Point"}
 }

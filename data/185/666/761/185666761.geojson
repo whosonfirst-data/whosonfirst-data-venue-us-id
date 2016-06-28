@@ -2,13 +2,14 @@
   "id": 185666761,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-117.027414,46.421601,-117.027414,46.421601",
     "geom:latitude":46.421601,
     "geom:longitude":-117.027414,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"325 Main St",
     "sg:city":"Lewiston",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":185666761,
-    "wof:lastmodified":1449007189,
+    "wof:lastmodified":1466487266,
     "wof:name":"Tomlinson Black Assoc Inc",
     "wof:parent_id":85852537,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-117.027414,46.421601,-117.027414,46.421601],
-  "geometry": {"coordinates":[-117.027414,46.421601],"type":"Point"}
+  "bbox": [
+    -117.027414,
+    46.421601,
+    -117.027414,
+    46.421601
+],
+  "geometry": {"coordinates":[-117.02741399999999,46.421601],"type":"Point"}
 }

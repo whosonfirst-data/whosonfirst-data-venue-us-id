@@ -2,13 +2,14 @@
   "id": 185798337,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.402312,43.61113,-116.402312,43.61113",
     "geom:latitude":43.61113,
     "geom:longitude":-116.402312,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"662 W Idaho Ave",
     "sg:city":"Meridian",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":185798337,
-    "wof:lastmodified":1449006920,
+    "wof:lastmodified":1466488297,
     "wof:name":"Castle National Distributors",
     "wof:parent_id":85805083,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "distribution"
     ]
 },
-  "bbox": [-116.402312,43.61113,-116.402312,43.61113],
-  "geometry": {"coordinates":[-116.402312,43.61113],"type":"Point"}
+  "bbox": [
+    -116.402312,
+    43.61113,
+    -116.402312,
+    43.61113
+],
+  "geometry": {"coordinates":[-116.40231199999999,43.61113],"type":"Point"}
 }

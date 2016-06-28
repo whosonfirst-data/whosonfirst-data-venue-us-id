@@ -2,13 +2,14 @@
   "id": 320524093,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-117.004862,46.400955,-117.004862,46.400955",
     "geom:latitude":46.400955,
     "geom:longitude":-117.004862,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1907 19th Ave",
     "sg:city":"Lewiston",
     "sg:classifiers":[
@@ -61,10 +62,11 @@
         }
     ],
     "wof:id":320524093,
-    "wof:lastmodified":1449011221,
+    "wof:lastmodified":1466487231,
     "wof:name":"Schuck's O'Reilly Auto Parts",
     "wof:parent_id":85837769,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -75,6 +77,11 @@
         "accessory"
     ]
 },
-  "bbox": [-117.004862,46.400955,-117.004862,46.400955],
+  "bbox": [
+    -117.004862,
+    46.400955,
+    -117.004862,
+    46.400955
+],
   "geometry": {"coordinates":[-117.004862,46.400955],"type":"Point"}
 }

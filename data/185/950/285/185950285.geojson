@@ -2,13 +2,14 @@
   "id": 185950285,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.331848,43.710443,-116.331848,43.710443",
     "geom:latitude":43.710443,
     "geom:longitude":-116.331848,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1692 N Parkforest Way",
     "sg:city":"Eagle",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":185950285,
-    "wof:lastmodified":1449007246,
+    "wof:lastmodified":1466488593,
     "wof:name":"Majestic Mtn Homes Idaho LLC",
     "wof:parent_id":85876315,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-116.331848,43.710443,-116.331848,43.710443],
-  "geometry": {"coordinates":[-116.331848,43.710443],"type":"Point"}
+  "bbox": [
+    -116.331848,
+    43.710443,
+    -116.331848,
+    43.710443
+],
+  "geometry": {"coordinates":[-116.33184799999999,43.710443],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169824943,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.920374,48.180667,-116.920374,48.180667",
     "geom:latitude":48.180667,
     "geom:longitude":-116.920374,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1200 US Hwy 2",
     "sg:city":"Priest River",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":169824943,
-    "wof:lastmodified":1449033866,
+    "wof:lastmodified":1466488566,
     "wof:name":"Priest River Hardware",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-116.920374,48.180667,-116.920374,48.180667],
+  "bbox": [
+    -116.920374,
+    48.180667,
+    -116.920374,
+    48.180667
+],
   "geometry": {"coordinates":[-116.920374,48.180667],"type":"Point"}
 }

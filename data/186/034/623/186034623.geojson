@@ -2,13 +2,14 @@
   "id": 186034623,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.966226,43.473708,-111.966226,43.473708",
     "geom:latitude":43.473708,
     "geom:longitude":-111.966226,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3430 Rawson St",
     "sg:city":"Ammon",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":186034623,
-    "wof:lastmodified":1449050546,
+    "wof:lastmodified":1466487134,
     "wof:name":"Craftsman",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "furniture"
     ]
 },
-  "bbox": [-111.966226,43.473708,-111.966226,43.473708],
-  "geometry": {"coordinates":[-111.966226,43.473708],"type":"Point"}
+  "bbox": [
+    -111.966226,
+    43.473708,
+    -111.966226,
+    43.473708
+],
+  "geometry": {"coordinates":[-111.96622600000001,43.473708],"type":"Point"}
 }

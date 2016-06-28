@@ -2,13 +2,14 @@
   "id": 186097929,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.692491,47.656768,-116.692491,47.656768",
     "geom:latitude":47.656768,
     "geom:longitude":-116.692491,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1713 S Bonanza Rd",
     "sg:city":"Coeur D Alene",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":186097929,
-    "wof:lastmodified":1449051423,
+    "wof:lastmodified":1466487838,
     "wof:name":"North Idaho Down Spouts",
     "wof:parent_id":85821457,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "equipment"
     ]
 },
-  "bbox": [-116.692491,47.656768,-116.692491,47.656768],
+  "bbox": [
+    -116.692491,
+    47.656768,
+    -116.692491,
+    47.656768
+],
   "geometry": {"coordinates":[-116.692491,47.656768],"type":"Point"}
 }

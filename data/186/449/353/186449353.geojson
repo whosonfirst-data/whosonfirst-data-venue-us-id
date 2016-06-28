@@ -2,13 +2,14 @@
   "id": 186449353,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.48817,42.549798,-114.48817,42.549798",
     "geom:latitude":42.549798,
     "geom:longitude":-114.48817,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"348 S Park Ave W",
     "sg:city":"Twin Falls",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":186449353,
-    "wof:lastmodified":1449052832,
+    "wof:lastmodified":1466488862,
     "wof:name":"SIT",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "establishment"
     ]
 },
-  "bbox": [-114.48817,42.549798,-114.48817,42.549798],
+  "bbox": [
+    -114.48817,
+    42.549798,
+    -114.48817,
+    42.549798
+],
   "geometry": {"coordinates":[-114.48817,42.549798],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 185883947,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.485754,42.915038,-112.485754,42.915038",
     "geom:latitude":42.915038,
     "geom:longitude":-112.485754,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"891 Pinewood Ave",
     "sg:city":"Pocatello",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":185883947,
-    "wof:lastmodified":1449007851,
+    "wof:lastmodified":1466488542,
     "wof:name":"Advantage Business Comm",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "telecommunication"
     ]
 },
-  "bbox": [-112.485754,42.915038,-112.485754,42.915038],
+  "bbox": [
+    -112.485754,
+    42.915038,
+    -112.485754,
+    42.915038
+],
   "geometry": {"coordinates":[-112.485754,42.915038],"type":"Point"}
 }

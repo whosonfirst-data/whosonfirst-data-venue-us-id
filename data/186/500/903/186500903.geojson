@@ -2,13 +2,14 @@
   "id": 186500903,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.262741,43.612026,-116.262741,43.612026",
     "geom:latitude":43.612026,
     "geom:longitude":-116.262741,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6500 Emerald St",
     "sg:city":"Boise",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186500903,
-    "wof:lastmodified":1449051059,
+    "wof:lastmodified":1466488915,
     "wof:name":"Ada Orthopaedic",
     "wof:parent_id":85806577,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "surgeon"
     ]
 },
-  "bbox": [-116.262741,43.612026,-116.262741,43.612026],
-  "geometry": {"coordinates":[-116.262741,43.612026],"type":"Point"}
+  "bbox": [
+    -116.262741,
+    43.612026,
+    -116.262741,
+    43.612026
+],
+  "geometry": {"coordinates":[-116.26274100000001,43.612026],"type":"Point"}
 }

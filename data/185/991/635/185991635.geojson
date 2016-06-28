@@ -2,13 +2,14 @@
   "id": 185991635,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.196445,43.627489,-116.196445,43.627489",
     "geom:latitude":43.627489,
     "geom:longitude":-116.196445,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1403 N 7th St",
     "sg:city":"Boise",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":185991635,
-    "wof:lastmodified":1449007108,
+    "wof:lastmodified":1466488740,
     "wof:name":"Trim Carpentry Etc",
     "wof:parent_id":85876313,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "photo"
     ]
 },
-  "bbox": [-116.196445,43.627489,-116.196445,43.627489],
+  "bbox": [
+    -116.196445,
+    43.627489,
+    -116.196445,
+    43.627489
+],
   "geometry": {"coordinates":[-116.196445,43.627489],"type":"Point"}
 }

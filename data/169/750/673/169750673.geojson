@@ -2,13 +2,14 @@
   "id": 169750673,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.546601,48.291349,-116.546601,48.291349",
     "geom:latitude":48.291349,
     "geom:longitude":-116.546601,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"30196 Hwy 200",
     "sg:city":"Sandpoint",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":169750673,
-    "wof:lastmodified":1449034675,
+    "wof:lastmodified":1466488425,
     "wof:name":"Elks Golf Club Of Sandpoint",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "course"
     ]
 },
-  "bbox": [-116.546601,48.291349,-116.546601,48.291349],
+  "bbox": [
+    -116.546601,
+    48.291349,
+    -116.546601,
+    48.291349
+],
   "geometry": {"coordinates":[-116.546601,48.291349],"type":"Point"}
 }

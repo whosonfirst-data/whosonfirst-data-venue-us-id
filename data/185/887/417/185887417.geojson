@@ -2,13 +2,14 @@
   "id": 185887417,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.000762,43.482033,-112.000762,43.482033",
     "geom:latitude":43.482033,
     "geom:longitude":-112.000762,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1648 S Woodruff Ave",
     "sg:city":"Idaho Falls",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":185887417,
-    "wof:lastmodified":1449007901,
+    "wof:lastmodified":1466488544,
     "wof:name":"Facial Imprssions Prmnt Makeup",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "merchandise"
     ]
 },
-  "bbox": [-112.000762,43.482033,-112.000762,43.482033],
-  "geometry": {"coordinates":[-112.000762,43.482033],"type":"Point"}
+  "bbox": [
+    -112.000762,
+    43.482033,
+    -112.000762,
+    43.482033
+],
+  "geometry": {"coordinates":[-112.00076199999999,43.482033],"type":"Point"}
 }

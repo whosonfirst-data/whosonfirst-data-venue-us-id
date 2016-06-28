@@ -2,13 +2,14 @@
   "id": 169806359,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.717261,43.131947,-115.717261,43.131947",
     "geom:latitude":43.131947,
     "geom:longitude":-115.717261,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"325 Elmcrest St",
     "sg:city":"Mountain Home",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":169806359,
-    "wof:lastmodified":1449032672,
+    "wof:lastmodified":1466488519,
     "wof:name":"Motion Affordable Storage",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "storage"
     ]
 },
-  "bbox": [-115.717261,43.131947,-115.717261,43.131947],
-  "geometry": {"coordinates":[-115.717261,43.131947],"type":"Point"}
+  "bbox": [
+    -115.717261,
+    43.131947,
+    -115.717261,
+    43.131947
+],
+  "geometry": {"coordinates":[-115.71726099999999,43.131947],"type":"Point"}
 }

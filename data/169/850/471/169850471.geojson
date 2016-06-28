@@ -2,13 +2,14 @@
   "id": 169850471,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.321493,43.730084,-116.321493,43.730084",
     "geom:latitude":43.730084,
     "geom:longitude":-116.321493,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2601 E Connolly Ln",
     "sg:city":"Boise",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":169850471,
-    "wof:lastmodified":1449034601,
+    "wof:lastmodified":1466488620,
     "wof:name":"Whitewater Adventures Selway",
     "wof:parent_id":85876315,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "trip"
     ]
 },
-  "bbox": [-116.321493,43.730084,-116.321493,43.730084],
+  "bbox": [
+    -116.321493,
+    43.730084,
+    -116.321493,
+    43.730084
+],
   "geometry": {"coordinates":[-116.321493,43.730084],"type":"Point"}
 }

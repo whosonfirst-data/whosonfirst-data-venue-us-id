@@ -2,13 +2,14 @@
   "id": 185850437,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.113563,45.924407,-116.113563,45.924407",
     "geom:latitude":45.924407,
     "geom:longitude":-116.113563,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"515 E Main St",
     "sg:city":"Grangeville",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":185850437,
-    "wof:lastmodified":1449007543,
+    "wof:lastmodified":1466488464,
     "wof:name":"Head Start Grangeville",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "school"
     ]
 },
-  "bbox": [-116.113563,45.924407,-116.113563,45.924407],
+  "bbox": [
+    -116.113563,
+    45.924407,
+    -116.113563,
+    45.924407
+],
   "geometry": {"coordinates":[-116.113563,45.924407],"type":"Point"}
 }

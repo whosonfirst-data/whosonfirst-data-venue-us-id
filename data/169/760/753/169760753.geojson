@@ -2,13 +2,14 @@
   "id": 169760753,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.697566,46.489913,-116.697566,46.489913",
     "geom:latitude":46.489913,
     "geom:longitude":-116.697566,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"21066 Gifford Reubens Rd",
     "sg:city":"Culdesac",
     "sg:classifiers":[
@@ -55,10 +56,11 @@
         }
     ],
     "wof:id":169760753,
-    "wof:lastmodified":1449035837,
+    "wof:lastmodified":1466488437,
     "wof:name":"Wayne Hoskins",
     "wof:parent_id":85837769,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -69,6 +71,11 @@
         "cattle"
     ]
 },
-  "bbox": [-116.697566,46.489913,-116.697566,46.489913],
-  "geometry": {"coordinates":[-116.697566,46.489913],"type":"Point"}
+  "bbox": [
+    -116.697566,
+    46.489913,
+    -116.697566,
+    46.489913
+],
+  "geometry": {"coordinates":[-116.69756599999999,46.489913],"type":"Point"}
 }

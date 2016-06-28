@@ -2,13 +2,14 @@
   "id": 185758075,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.391085,43.588839,-116.391085,43.588839",
     "geom:latitude":43.588839,
     "geom:longitude":-116.391085,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1757 Country Terrace Way",
     "sg:city":"Meridian",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":185758075,
-    "wof:lastmodified":1449007089,
+    "wof:lastmodified":1466487986,
     "wof:name":"Northwest Home Automation",
     "wof:parent_id":85805083,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "designer"
     ]
 },
-  "bbox": [-116.391085,43.588839,-116.391085,43.588839],
+  "bbox": [
+    -116.391085,
+    43.588839,
+    -116.391085,
+    43.588839
+],
   "geometry": {"coordinates":[-116.391085,43.588839],"type":"Point"}
 }

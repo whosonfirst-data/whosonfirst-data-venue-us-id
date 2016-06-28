@@ -2,13 +2,14 @@
   "id": 186542269,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.305829,42.530727,-114.305829,42.530727",
     "geom:latitude":42.530727,
     "geom:longitude":-114.305829,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"333 Rock Creek Rd",
     "sg:city":"Hansen",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":186542269,
-    "wof:lastmodified":1449052399,
+    "wof:lastmodified":1466488885,
     "wof:name":"Northwest Estates",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "home"
     ]
 },
-  "bbox": [-114.305829,42.530727,-114.305829,42.530727],
+  "bbox": [
+    -114.305829,
+    42.530727,
+    -114.305829,
+    42.530727
+],
   "geometry": {"coordinates":[-114.305829,42.530727],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169864303,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.544232,47.325731,-116.544232,47.325731",
     "geom:latitude":47.325731,
     "geom:longitude":-116.544232,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1040 Milwaukee Rd",
     "sg:city":"St Maries",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":169864303,
-    "wof:lastmodified":1449036008,
+    "wof:lastmodified":1466488547,
     "wof:name":"Regulus Stud Mills Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-116.544232,47.325731,-116.544232,47.325731],
-  "geometry": {"coordinates":[-116.544232,47.325731],"type":"Point"}
+  "bbox": [
+    -116.544232,
+    47.325731,
+    -116.544232,
+    47.325731
+],
+  "geometry": {"coordinates":[-116.54423199999999,47.325731],"type":"Point"}
 }

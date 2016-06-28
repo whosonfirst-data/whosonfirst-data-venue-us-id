@@ -2,13 +2,14 @@
   "id": 186439803,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.96636,44.246889,-116.96636,44.246889",
     "geom:latitude":44.246889,
     "geom:longitude":-116.96636,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"256 E Court St",
     "sg:city":"Weiser",
     "sg:classifiers":[
@@ -55,16 +56,22 @@
         }
     ],
     "wof:id":186439803,
-    "wof:lastmodified":1449051131,
+    "wof:lastmodified":1466488813,
     "wof:name":"Washington County Dist Court",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "county"
     ]
 },
-  "bbox": [-116.96636,44.246889,-116.96636,44.246889],
-  "geometry": {"coordinates":[-116.96636,44.246889],"type":"Point"}
+  "bbox": [
+    -116.96636,
+    44.246889,
+    -116.96636,
+    44.246889
+],
+  "geometry": {"coordinates":[-116.96635999999999,44.246889],"type":"Point"}
 }

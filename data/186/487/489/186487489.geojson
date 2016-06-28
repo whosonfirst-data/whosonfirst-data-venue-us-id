@@ -2,13 +2,14 @@
   "id": 186487489,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.963752,46.371397,-116.963752,46.371397",
     "geom:latitude":46.371397,
     "geom:longitude":-116.963752,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"626 Thain Rd",
     "sg:city":"Lewiston",
     "sg:classifiers":[
@@ -62,16 +63,22 @@
         }
     ],
     "wof:id":186487489,
-    "wof:lastmodified":1449051271,
+    "wof:lastmodified":1466488859,
     "wof:name":"SYRINGA.NET",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "internet"
     ]
 },
-  "bbox": [-116.963752,46.371397,-116.963752,46.371397],
+  "bbox": [
+    -116.963752,
+    46.371397,
+    -116.963752,
+    46.371397
+],
   "geometry": {"coordinates":[-116.963752,46.371397],"type":"Point"}
 }

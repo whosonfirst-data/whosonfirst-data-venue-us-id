@@ -2,13 +2,14 @@
   "id": 186538241,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.097975,44.910312,-116.097975,44.910312",
     "geom:latitude":44.910312,
     "geom:longitude":-116.097975,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1014 N 3rd St",
     "sg:city":"Mccall",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":186538241,
-    "wof:lastmodified":1449050635,
+    "wof:lastmodified":1466488875,
     "wof:name":"Glimpses Gift Shop",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "shop"
     ]
 },
-  "bbox": [-116.097975,44.910312,-116.097975,44.910312],
-  "geometry": {"coordinates":[-116.097975,44.910312],"type":"Point"}
+  "bbox": [
+    -116.097975,
+    44.910312,
+    -116.097975,
+    44.910312
+],
+  "geometry": {"coordinates":[-116.09797500000001,44.910312],"type":"Point"}
 }

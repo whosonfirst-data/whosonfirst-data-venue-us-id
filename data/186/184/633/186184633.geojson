@@ -2,13 +2,14 @@
   "id": 186184633,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.958397,44.248534,-116.958397,44.248534",
     "geom:latitude":44.248534,
     "geom:longitude":-116.958397,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"613 US Hwy 95",
     "sg:city":"Weiser",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":186184633,
-    "wof:lastmodified":1449050867,
+    "wof:lastmodified":1466488462,
     "wof:name":"Oles Tavern",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-116.958397,44.248534,-116.958397,44.248534],
-  "geometry": {"coordinates":[-116.958397,44.248534],"type":"Point"}
+  "bbox": [
+    -116.958397,
+    44.248534,
+    -116.958397,
+    44.248534
+],
+  "geometry": {"coordinates":[-116.95839700000001,44.248534],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 185939713,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.228929,43.573896,-116.228929,43.573896",
     "geom:latitude":43.573896,
     "geom:longitude":-116.228929,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3804 Normandie Dr",
     "sg:city":"Boise",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":185939713,
-    "wof:lastmodified":1449007087,
+    "wof:lastmodified":1466488720,
     "wof:name":"4 C's Plumbing",
     "wof:parent_id":85825393,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-116.228929,43.573896,-116.228929,43.573896],
-  "geometry": {"coordinates":[-116.228929,43.573896],"type":"Point"}
+  "bbox": [
+    -116.228929,
+    43.573896,
+    -116.228929,
+    43.573896
+],
+  "geometry": {"coordinates":[-116.22892899999999,43.573896],"type":"Point"}
 }

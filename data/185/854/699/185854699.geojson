@@ -2,13 +2,14 @@
   "id": 185854699,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.822819,43.02411,-112.822819,43.02411",
     "geom:latitude":43.02411,
     "geom:longitude":-112.822819,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2678 W 1200 S",
     "sg:city":"Aberdeen",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":185854699,
-    "wof:lastmodified":1449008132,
+    "wof:lastmodified":1466488481,
     "wof:name":"Wayne Kendell Farms Shop",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.822819,43.02411,-112.822819,43.02411],
+  "bbox": [
+    -112.822819,
+    43.02411,
+    -112.822819,
+    43.02411
+],
   "geometry": {"coordinates":[-112.822819,43.02411],"type":"Point"}
 }

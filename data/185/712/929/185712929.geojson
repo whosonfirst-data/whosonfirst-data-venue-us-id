@@ -2,13 +2,14 @@
   "id": 185712929,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.247989,43.638388,-116.247989,43.638388",
     "geom:latitude":43.638388,
     "geom:longitude":-116.247989,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"597 E 44th St",
     "sg:city":"Boise",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":185712929,
-    "wof:lastmodified":1449007299,
+    "wof:lastmodified":1466487627,
     "wof:name":"Precision Crankshaft",
     "wof:parent_id":85876339,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "shop"
     ]
 },
-  "bbox": [-116.247989,43.638388,-116.247989,43.638388],
+  "bbox": [
+    -116.247989,
+    43.638388,
+    -116.247989,
+    43.638388
+],
   "geometry": {"coordinates":[-116.247989,43.638388],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186250447,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.398957,43.697605,-116.398957,43.697605",
     "geom:latitude":43.697605,
     "geom:longitude":-116.398957,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3610 Flint Dr",
     "sg:city":"Eagle",
     "sg:classifiers":[
@@ -56,16 +57,22 @@
         }
     ],
     "wof:id":186250447,
-    "wof:lastmodified":1449051911,
+    "wof:lastmodified":1466488511,
     "wof:name":"A Natural Choice Holistic Svc",
     "wof:parent_id":85876351,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "acupuncture"
     ]
 },
-  "bbox": [-116.398957,43.697605,-116.398957,43.697605],
+  "bbox": [
+    -116.398957,
+    43.697605,
+    -116.398957,
+    43.697605
+],
   "geometry": {"coordinates":[-116.398957,43.697605],"type":"Point"}
 }

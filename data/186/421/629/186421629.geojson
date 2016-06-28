@@ -2,13 +2,14 @@
   "id": 186421629,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.695625,43.132213,-115.695625,43.132213",
     "geom:latitude":43.132213,
     "geom:longitude":-115.695625,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"213 N Main St",
     "sg:city":"Meridian",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":186421629,
-    "wof:lastmodified":1449052080,
+    "wof:lastmodified":1466488801,
     "wof:name":"St Vincent De Paul Ctr",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "thrift"
     ]
 },
-  "bbox": [-115.695625,43.132213,-115.695625,43.132213],
-  "geometry": {"coordinates":[-115.695625,43.132213],"type":"Point"}
+  "bbox": [
+    -115.695625,
+    43.132213,
+    -115.695625,
+    43.132213
+],
+  "geometry": {"coordinates":[-115.69562500000001,43.132213],"type":"Point"}
 }

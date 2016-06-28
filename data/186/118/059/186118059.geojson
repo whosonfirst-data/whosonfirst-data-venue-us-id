@@ -2,13 +2,14 @@
   "id": 186118059,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.683556,43.133914,-115.683556,43.133914",
     "geom:latitude":43.133914,
     "geom:longitude":-115.683556,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1310 American Legion Blvd",
     "sg:city":"Mountain Home",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":186118059,
-    "wof:lastmodified":1449052497,
+    "wof:lastmodified":1466488044,
     "wof:name":"Horizon Home Health & Hospice",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "care"
     ]
 },
-  "bbox": [-115.683556,43.133914,-115.683556,43.133914],
+  "bbox": [
+    -115.683556,
+    43.133914,
+    -115.683556,
+    43.133914
+],
   "geometry": {"coordinates":[-115.683556,43.133914],"type":"Point"}
 }

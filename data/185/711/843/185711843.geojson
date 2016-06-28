@@ -2,13 +2,14 @@
   "id": 185711843,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.586967,48.189672,-116.586967,48.189672",
     "geom:latitude":48.189672,
     "geom:longitude":-116.586967,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"467420 Hwy 95",
     "sg:city":"Sagle",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":185711843,
-    "wof:lastmodified":1449007931,
+    "wof:lastmodified":1466487618,
     "wof:name":"Jack Hester Lowboy Svc Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-116.586967,48.189672,-116.586967,48.189672],
+  "bbox": [
+    -116.586967,
+    48.189672,
+    -116.586967,
+    48.189672
+],
   "geometry": {"coordinates":[-116.586967,48.189672],"type":"Point"}
 }

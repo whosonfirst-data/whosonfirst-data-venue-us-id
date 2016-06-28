@@ -2,13 +2,14 @@
   "id": 186425933,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.536009,43.550039,-116.536009,43.550039",
     "geom:latitude":43.550039,
     "geom:longitude":-116.536009,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2817 E Maryland Ave",
     "sg:city":"Nampa",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":186425933,
-    "wof:lastmodified":1449051340,
+    "wof:lastmodified":1466488807,
     "wof:name":"Sandis Balloons & Gift W",
     "wof:parent_id":85827787,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-116.536009,43.550039,-116.536009,43.550039],
-  "geometry": {"coordinates":[-116.536009,43.550039],"type":"Point"}
+  "bbox": [
+    -116.536009,
+    43.550039,
+    -116.536009,
+    43.550039
+],
+  "geometry": {"coordinates":[-116.53600900000001,43.550039],"type":"Point"}
 }

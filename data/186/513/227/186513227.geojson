@@ -2,13 +2,14 @@
   "id": 186513227,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.303323,43.643448,-116.303323,43.643448",
     "geom:latitude":43.643448,
     "geom:longitude":-116.303323,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4151 Patton Ave",
     "sg:city":"Boise",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186513227,
-    "wof:lastmodified":1449052139,
+    "wof:lastmodified":1466488868,
     "wof:name":"Care Castle Daycare",
     "wof:parent_id":85876357,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "day"
     ]
 },
-  "bbox": [-116.303323,43.643448,-116.303323,43.643448],
-  "geometry": {"coordinates":[-116.303323,43.643448],"type":"Point"}
+  "bbox": [
+    -116.303323,
+    43.643448,
+    -116.303323,
+    43.643448
+],
+  "geometry": {"coordinates":[-116.30332300000001,43.643448],"type":"Point"}
 }

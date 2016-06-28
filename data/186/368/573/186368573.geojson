@@ -2,13 +2,14 @@
   "id": 186368573,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.214422,43.631833,-116.214422,43.631833",
     "geom:latitude":43.631833,
     "geom:longitude":-116.214422,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1220 N 21st St",
     "sg:city":"Boise",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186368573,
-    "wof:lastmodified":1449051021,
+    "wof:lastmodified":1466488837,
     "wof:name":"Lane Schulz",
     "wof:parent_id":85876313,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "technical"
     ]
 },
-  "bbox": [-116.214422,43.631833,-116.214422,43.631833],
+  "bbox": [
+    -116.214422,
+    43.631833,
+    -116.214422,
+    43.631833
+],
   "geometry": {"coordinates":[-116.214422,43.631833],"type":"Point"}
 }

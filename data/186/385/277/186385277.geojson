@@ -2,13 +2,14 @@
   "id": 186385277,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.444644,43.689177,-116.444644,43.689177",
     "geom:latitude":43.689177,
     "geom:longitude":-116.444644,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7390 Moon Valley Rd",
     "sg:city":"Eagle",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186385277,
-    "wof:lastmodified":1449051961,
+    "wof:lastmodified":1466488770,
     "wof:name":"H Bar H Veterinary Clinic",
     "wof:parent_id":85876351,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "veterinarian"
     ]
 },
-  "bbox": [-116.444644,43.689177,-116.444644,43.689177],
+  "bbox": [
+    -116.444644,
+    43.689177,
+    -116.444644,
+    43.689177
+],
   "geometry": {"coordinates":[-116.444644,43.689177],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186390047,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.202015,43.622687,-116.202015,43.622687",
     "geom:latitude":43.622687,
     "geom:longitude":-116.202015,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"717 N 11th St",
     "sg:city":"Boise",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186390047,
-    "wof:lastmodified":1449053053,
+    "wof:lastmodified":1466488844,
     "wof:name":"Wesleyan Preschool & Kindergtn",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "school"
     ]
 },
-  "bbox": [-116.202015,43.622687,-116.202015,43.622687],
+  "bbox": [
+    -116.202015,
+    43.622687,
+    -116.202015,
+    43.622687
+],
   "geometry": {"coordinates":[-116.202015,43.622687],"type":"Point"}
 }

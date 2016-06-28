@@ -2,13 +2,14 @@
   "id": 169611137,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.38753,43.58677,-116.38753,43.58677",
     "geom:latitude":43.58677,
     "geom:longitude":-116.38753,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"603 E Kingsford Dr",
     "sg:city":"Meridian",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":169611137,
-    "wof:lastmodified":1449035265,
+    "wof:lastmodified":1466486978,
     "wof:name":"Northwest Arts",
     "wof:parent_id":85805083,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "design"
     ]
 },
-  "bbox": [-116.38753,43.58677,-116.38753,43.58677],
+  "bbox": [
+    -116.38753,
+    43.58677,
+    -116.38753,
+    43.58677
+],
   "geometry": {"coordinates":[-116.38753,43.58677],"type":"Point"}
 }

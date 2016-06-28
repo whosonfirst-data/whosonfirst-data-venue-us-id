@@ -2,13 +2,14 @@
   "id": 186528989,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.252008,43.516293,-116.252008,43.516293",
     "geom:latitude":43.516293,
     "geom:longitude":-116.252008,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5668 W Flying Hawk Ln",
     "sg:city":"Boise",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":186528989,
-    "wof:lastmodified":1449051102,
+    "wof:lastmodified":1466488881,
     "wof:name":"Peregrine Fund",
     "wof:parent_id":85825393,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "org"
     ]
 },
-  "bbox": [-116.252008,43.516293,-116.252008,43.516293],
+  "bbox": [
+    -116.252008,
+    43.516293,
+    -116.252008,
+    43.516293
+],
   "geometry": {"coordinates":[-116.252008,43.516293],"type":"Point"}
 }

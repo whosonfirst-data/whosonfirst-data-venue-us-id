@@ -2,13 +2,14 @@
   "id": 185785291,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.948858,43.785755,-116.948858,43.785755",
     "geom:latitude":43.785755,
     "geom:longitude":-116.948858,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"111 S Roswell Blvd",
     "sg:city":"Parma",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":185785291,
-    "wof:lastmodified":1449007957,
+    "wof:lastmodified":1466488195,
     "wof:name":"Riverside Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "motor"
     ]
 },
-  "bbox": [-116.948858,43.785755,-116.948858,43.785755],
+  "bbox": [
+    -116.948858,
+    43.785755,
+    -116.948858,
+    43.785755
+],
   "geometry": {"coordinates":[-116.948858,43.785755],"type":"Point"}
 }

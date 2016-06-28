@@ -2,13 +2,14 @@
   "id": 320535637,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.932117,43.798929,-116.932117,43.798929",
     "geom:latitude":43.798929,
     "geom:longitude":-116.932117,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"29457 Parma Rd",
     "sg:city":"Parma",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":320535637,
-    "wof:lastmodified":1449011929,
+    "wof:lastmodified":1466486836,
     "wof:name":"Manuel Hoskins",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "automobile"
     ]
 },
-  "bbox": [-116.932117,43.798929,-116.932117,43.798929],
-  "geometry": {"coordinates":[-116.932117,43.798929],"type":"Point"}
+  "bbox": [
+    -116.932117,
+    43.798929,
+    -116.932117,
+    43.798929
+],
+  "geometry": {"coordinates":[-116.93211700000001,43.798929],"type":"Point"}
 }

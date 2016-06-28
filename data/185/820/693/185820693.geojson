@@ -2,13 +2,14 @@
   "id": 185820693,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.391072,43.604615,-116.391072,43.604615",
     "geom:latitude":43.604615,
     "geom:longitude":-116.391072,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"215 E Franklin Rd",
     "sg:city":"Meridian",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":185820693,
-    "wof:lastmodified":1449007462,
+    "wof:lastmodified":1466488502,
     "wof:name":"Meridian Chamber Of Commerce",
     "wof:parent_id":85805083,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "commerce"
     ]
 },
-  "bbox": [-116.391072,43.604615,-116.391072,43.604615],
-  "geometry": {"coordinates":[-116.391072,43.604615],"type":"Point"}
+  "bbox": [
+    -116.391072,
+    43.604615,
+    -116.391072,
+    43.604615
+],
+  "geometry": {"coordinates":[-116.39107199999999,43.604615],"type":"Point"}
 }

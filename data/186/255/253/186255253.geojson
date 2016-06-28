@@ -2,13 +2,14 @@
   "id": 186255253,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.775217,47.676051,-116.775217,47.676051",
     "geom:latitude":47.676051,
     "geom:longitude":-116.775217,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"420 N 8th St",
     "sg:city":"Coeur D Alene",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":186255253,
-    "wof:lastmodified":1449051592,
+    "wof:lastmodified":1466488602,
     "wof:name":"Cuisine De Couer D'Alene",
     "wof:parent_id":85821457,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "printer"
     ]
 },
-  "bbox": [-116.775217,47.676051,-116.775217,47.676051],
+  "bbox": [
+    -116.775217,
+    47.676051,
+    -116.775217,
+    47.676051
+],
   "geometry": {"coordinates":[-116.775217,47.676051],"type":"Point"}
 }

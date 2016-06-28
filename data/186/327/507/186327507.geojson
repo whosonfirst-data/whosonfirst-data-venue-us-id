@@ -2,13 +2,14 @@
   "id": 186327507,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.200541,43.618686,-116.200541,43.618686",
     "geom:latitude":43.618686,
     "geom:longitude":-116.200541,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"700 W State St",
     "sg:city":"Boise",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186327507,
-    "wof:lastmodified":1449050448,
+    "wof:lastmodified":1466488717,
     "wof:name":"Personnel Commission",
     "wof:parent_id":85876341,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "state"
     ]
 },
-  "bbox": [-116.200541,43.618686,-116.200541,43.618686],
+  "bbox": [
+    -116.200541,
+    43.618686,
+    -116.200541,
+    43.618686
+],
   "geometry": {"coordinates":[-116.200541,43.618686],"type":"Point"}
 }

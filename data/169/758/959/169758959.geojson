@@ -2,13 +2,14 @@
   "id": 169758959,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.356106,43.196872,-112.356106,43.196872",
     "geom:latitude":43.196872,
     "geom:longitude":-112.356106,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"490 N Meridian St",
     "sg:city":"Blackfoot",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":169758959,
-    "wof:lastmodified":1449033685,
+    "wof:lastmodified":1466488435,
     "wof:name":"Blackfoot Street & Garbage",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "program"
     ]
 },
-  "bbox": [-112.356106,43.196872,-112.356106,43.196872],
+  "bbox": [
+    -112.356106,
+    43.196872,
+    -112.356106,
+    43.196872
+],
   "geometry": {"coordinates":[-112.356106,43.196872],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186496267,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.420855,43.676465,-114.420855,43.676465",
     "geom:latitude":43.676465,
     "geom:longitude":-114.420855,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"808 Warm Springs Rd",
     "sg:city":"Ketchum",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":186496267,
-    "wof:lastmodified":1449052607,
+    "wof:lastmodified":1466488864,
     "wof:name":"David Wheelock Photography",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "designer"
     ]
 },
-  "bbox": [-114.420855,43.676465,-114.420855,43.676465],
+  "bbox": [
+    -114.420855,
+    43.676465,
+    -114.420855,
+    43.676465
+],
   "geometry": {"coordinates":[-114.420855,43.676465],"type":"Point"}
 }

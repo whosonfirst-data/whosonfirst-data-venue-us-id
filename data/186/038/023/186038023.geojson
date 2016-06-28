@@ -2,13 +2,14 @@
   "id": 186038023,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.193565,43.585356,-116.193565,43.585356",
     "geom:latitude":43.585356,
     "geom:longitude":-116.193565,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2134 Broadway Ave",
     "sg:city":"Boise",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":186038023,
-    "wof:lastmodified":1449052101,
+    "wof:lastmodified":1466487171,
     "wof:name":"Broadway Pawn & Jewelry Inc",
     "wof:parent_id":85876343,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -66,6 +68,11 @@
         "jewelry"
     ]
 },
-  "bbox": [-116.193565,43.585356,-116.193565,43.585356],
-  "geometry": {"coordinates":[-116.193565,43.585356],"type":"Point"}
+  "bbox": [
+    -116.193565,
+    43.585356,
+    -116.193565,
+    43.585356
+],
+  "geometry": {"coordinates":[-116.19356500000001,43.585356],"type":"Point"}
 }

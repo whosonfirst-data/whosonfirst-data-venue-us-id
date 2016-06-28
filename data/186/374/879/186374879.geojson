@@ -2,13 +2,14 @@
   "id": 186374879,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.700246,43.122591,-115.700246,43.122591",
     "geom:latitude":43.122591,
     "geom:longitude":-115.700246,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"875 Quail Pl",
     "sg:city":"Mountain Home",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":186374879,
-    "wof:lastmodified":1449051535,
+    "wof:lastmodified":1466488840,
     "wof:name":"Camokidz",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "general"
     ]
 },
-  "bbox": [-115.700246,43.122591,-115.700246,43.122591],
-  "geometry": {"coordinates":[-115.700246,43.122591],"type":"Point"}
+  "bbox": [
+    -115.700246,
+    43.122591,
+    -115.700246,
+    43.122591
+],
+  "geometry": {"coordinates":[-115.70024600000001,43.122591],"type":"Point"}
 }

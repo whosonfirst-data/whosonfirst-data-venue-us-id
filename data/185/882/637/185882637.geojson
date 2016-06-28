@@ -2,13 +2,14 @@
   "id": 185882637,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.575984,43.554264,-116.575984,43.554264",
     "geom:latitude":43.554264,
     "geom:longitude":-116.575984,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"343 W Iowa Ave",
     "sg:city":"Nampa",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":185882637,
-    "wof:lastmodified":1449006894,
+    "wof:lastmodified":1466488539,
     "wof:name":"Visions Eye Health Ctr",
     "wof:parent_id":85827787,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-116.575984,43.554264,-116.575984,43.554264],
-  "geometry": {"coordinates":[-116.575984,43.554264],"type":"Point"}
+  "bbox": [
+    -116.575984,
+    43.554264,
+    -116.575984,
+    43.554264
+],
+  "geometry": {"coordinates":[-116.57598400000001,43.554264],"type":"Point"}
 }

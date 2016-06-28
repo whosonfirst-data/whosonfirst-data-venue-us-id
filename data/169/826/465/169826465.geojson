@@ -2,13 +2,14 @@
   "id": 169826465,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.127996,47.544068,-116.127996,47.544068",
     "geom:latitude":47.544068,
     "geom:longitude":-116.127996,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"525 W Cameron Ave",
     "sg:city":"Kellogg",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":169826465,
-    "wof:lastmodified":1449035073,
+    "wof:lastmodified":1466488570,
     "wof:name":"Silver Valley Christian Acad",
     "wof:parent_id":85849049,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-116.127996,47.544068,-116.127996,47.544068],
+  "bbox": [
+    -116.127996,
+    47.544068,
+    -116.127996,
+    47.544068
+],
   "geometry": {"coordinates":[-116.127996,47.544068],"type":"Point"}
 }

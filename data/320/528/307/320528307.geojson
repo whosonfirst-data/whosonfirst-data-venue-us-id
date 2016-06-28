@@ -2,13 +2,14 @@
   "id": 320528307,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.693062,43.637569,-116.693062,43.637569",
     "geom:latitude":43.637569,
     "geom:longitude":-116.693062,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3611 S 10th Ave",
     "sg:city":"Caldwell",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":320528307,
-    "wof:lastmodified":1449012254,
+    "wof:lastmodified":1466487828,
     "wof:name":"Sakimoto, Herman T",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "dentists-orthodontists"
     ]
 },
-  "bbox": [-116.693062,43.637569,-116.693062,43.637569],
+  "bbox": [
+    -116.693062,
+    43.637569,
+    -116.693062,
+    43.637569
+],
   "geometry": {"coordinates":[-116.693062,43.637569],"type":"Point"}
 }

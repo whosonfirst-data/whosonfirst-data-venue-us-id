@@ -2,13 +2,14 @@
   "id": 186218473,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.17022,43.614007,-116.17022,43.614007",
     "geom:latitude":43.614007,
     "geom:longitude":-116.17022,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1750 Ridgecrest Dr",
     "sg:city":"Boise",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186218473,
-    "wof:lastmodified":1449052073,
+    "wof:lastmodified":1466488530,
     "wof:name":"Syringa Ceramic Tile",
     "wof:parent_id":85876305,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "dealer"
     ]
 },
-  "bbox": [-116.17022,43.614007,-116.17022,43.614007],
+  "bbox": [
+    -116.17022,
+    43.614007,
+    -116.17022,
+    43.614007
+],
   "geometry": {"coordinates":[-116.17022,43.614007],"type":"Point"}
 }

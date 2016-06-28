@@ -2,13 +2,14 @@
   "id": 185615281,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.18955,43.637768,-116.18955,43.637768",
     "geom:latitude":43.637768,
     "geom:longitude":-116.18955,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"177 W Hulls Ridge Ct",
     "sg:city":"Boise",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":185615281,
-    "wof:lastmodified":1449007112,
+    "wof:lastmodified":1466486879,
     "wof:name":"Steve Keating",
     "wof:parent_id":85876291,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "consultant"
     ]
 },
-  "bbox": [-116.18955,43.637768,-116.18955,43.637768],
+  "bbox": [
+    -116.18955,
+    43.637768,
+    -116.18955,
+    43.637768
+],
   "geometry": {"coordinates":[-116.18955,43.637768],"type":"Point"}
 }

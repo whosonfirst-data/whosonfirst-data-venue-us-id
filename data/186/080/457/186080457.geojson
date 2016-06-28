@@ -2,13 +2,14 @@
   "id": 186080457,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.251167,43.650272,-116.251167,43.650272",
     "geom:latitude":43.650272,
     "geom:longitude":-116.251167,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3200 N Lakeharbor Ln",
     "sg:city":"Boise",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":186080457,
-    "wof:lastmodified":1449052965,
+    "wof:lastmodified":1466487664,
     "wof:name":"A Birkim Yoga Studio",
     "wof:parent_id":85811879,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "yoga"
     ]
 },
-  "bbox": [-116.251167,43.650272,-116.251167,43.650272],
+  "bbox": [
+    -116.251167,
+    43.650272,
+    -116.251167,
+    43.650272
+],
   "geometry": {"coordinates":[-116.251167,43.650272],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186415703,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.274234,43.614142,-116.274234,43.614142",
     "geom:latitude":43.614142,
     "geom:longitude":-116.274234,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1082 N Cole Rd",
     "sg:city":"Boise",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186415703,
-    "wof:lastmodified":1449052289,
+    "wof:lastmodified":1466488854,
     "wof:name":"Treasure Vly Hring Blnce Clnic",
     "wof:parent_id":85841319,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "merchandise"
     ]
 },
-  "bbox": [-116.274234,43.614142,-116.274234,43.614142],
-  "geometry": {"coordinates":[-116.274234,43.614142],"type":"Point"}
+  "bbox": [
+    -116.274234,
+    43.614142,
+    -116.274234,
+    43.614142
+],
+  "geometry": {"coordinates":[-116.27423400000001,43.614142],"type":"Point"}
 }

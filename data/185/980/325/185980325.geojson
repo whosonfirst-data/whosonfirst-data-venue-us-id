@@ -2,13 +2,14 @@
   "id": 185980325,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.129298,44.803686,-116.129298,44.803686",
     "geom:latitude":44.803686,
     "geom:longitude":-116.129298,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"13853 Nisula Rd",
     "sg:city":"Mccall",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":185980325,
-    "wof:lastmodified":1449006711,
+    "wof:lastmodified":1466488647,
     "wof:name":"Simplot Live Stock",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "livestock"
     ]
 },
-  "bbox": [-116.129298,44.803686,-116.129298,44.803686],
-  "geometry": {"coordinates":[-116.129298,44.803686],"type":"Point"}
+  "bbox": [
+    -116.129298,
+    44.803686,
+    -116.129298,
+    44.803686
+],
+  "geometry": {"coordinates":[-116.12929800000001,44.803686],"type":"Point"}
 }

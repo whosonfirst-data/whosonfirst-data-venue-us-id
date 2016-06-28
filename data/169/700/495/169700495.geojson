@@ -2,13 +2,14 @@
   "id": 169700495,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.574235,43.149434,-112.574235,43.149434",
     "geom:latitude":43.149434,
     "geom:longitude":-112.574235,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"337 S 1400 W",
     "sg:city":"Pingree",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":169700495,
-    "wof:lastmodified":1449035669,
+    "wof:lastmodified":1466488033,
     "wof:name":"WADA Farms",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.574235,43.149434,-112.574235,43.149434],
+  "bbox": [
+    -112.574235,
+    43.149434,
+    -112.574235,
+    43.149434
+],
   "geometry": {"coordinates":[-112.574235,43.149434],"type":"Point"}
 }

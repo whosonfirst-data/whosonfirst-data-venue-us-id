@@ -2,13 +2,14 @@
   "id": 169794733,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.2335,43.596294,-116.2335,43.596294",
     "geom:latitude":43.596294,
     "geom:longitude":-116.2335,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"924 S Roosevelt St",
     "sg:city":"Boise",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":169794733,
-    "wof:lastmodified":1449034265,
+    "wof:lastmodified":1466488493,
     "wof:name":"Robell Fence Co",
     "wof:parent_id":85876295,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "fence"
     ]
 },
-  "bbox": [-116.2335,43.596294,-116.2335,43.596294],
-  "geometry": {"coordinates":[-116.2335,43.596294],"type":"Point"}
+  "bbox": [
+    -116.2335,
+    43.596294,
+    -116.2335,
+    43.596294
+],
+  "geometry": {"coordinates":[-116.23350000000001,43.596294],"type":"Point"}
 }

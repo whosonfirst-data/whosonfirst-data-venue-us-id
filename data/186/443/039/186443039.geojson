@@ -2,13 +2,14 @@
   "id": 186443039,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.004129,43.469589,-112.004129,43.469589",
     "geom:latitude":43.469589,
     "geom:longitude":-112.004129,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3120 S Woodruff Ave",
     "sg:city":"Idaho Falls",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186443039,
-    "wof:lastmodified":1449052517,
+    "wof:lastmodified":1466488858,
     "wof:name":"Kinley Fisher Grooming",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "washing"
     ]
 },
-  "bbox": [-112.004129,43.469589,-112.004129,43.469589],
-  "geometry": {"coordinates":[-112.004129,43.469589],"type":"Point"}
+  "bbox": [
+    -112.004129,
+    43.469589,
+    -112.004129,
+    43.469589
+],
+  "geometry": {"coordinates":[-112.00412900000001,43.469589],"type":"Point"}
 }

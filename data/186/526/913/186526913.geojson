@@ -2,13 +2,14 @@
   "id": 186526913,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.315139,43.63386,-116.315139,43.63386",
     "geom:latitude":43.63386,
     "geom:longitude":-116.315139,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10689 Ustick Rd",
     "sg:city":"Boise",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186526913,
-    "wof:lastmodified":1449051197,
+    "wof:lastmodified":1466488930,
     "wof:name":"Bakery Basket",
     "wof:parent_id":85876357,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "baker"
     ]
 },
-  "bbox": [-116.315139,43.63386,-116.315139,43.63386],
+  "bbox": [
+    -116.315139,
+    43.63386,
+    -116.315139,
+    43.63386
+],
   "geometry": {"coordinates":[-116.315139,43.63386],"type":"Point"}
 }

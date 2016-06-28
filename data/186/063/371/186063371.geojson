@@ -2,13 +2,14 @@
   "id": 186063371,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.539547,43.900766,-116.539547,43.900766",
     "geom:latitude":43.900766,
     "geom:longitude":-116.539547,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2313 W Central Rd",
     "sg:city":"Emmett",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":186063371,
-    "wof:lastmodified":1449050481,
+    "wof:lastmodified":1466487464,
     "wof:name":"American Mortgage Equity Srvc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "real estate"
     ]
 },
-  "bbox": [-116.539547,43.900766,-116.539547,43.900766],
+  "bbox": [
+    -116.539547,
+    43.900766,
+    -116.539547,
+    43.900766
+],
   "geometry": {"coordinates":[-116.539547,43.900766],"type":"Point"}
 }

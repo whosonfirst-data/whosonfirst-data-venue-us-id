@@ -2,13 +2,14 @@
   "id": 186048649,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.927468,44.101527,-116.927468,44.101527",
     "geom:latitude":44.101527,
     "geom:longitude":-116.927468,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10734 River Rd",
     "sg:city":"Payette",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":186048649,
-    "wof:lastmodified":1449051330,
+    "wof:lastmodified":1466487298,
     "wof:name":"Makin Antiques",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "contractor"
     ]
 },
-  "bbox": [-116.927468,44.101527,-116.927468,44.101527],
+  "bbox": [
+    -116.927468,
+    44.101527,
+    -116.927468,
+    44.101527
+],
   "geometry": {"coordinates":[-116.927468,44.101527],"type":"Point"}
 }

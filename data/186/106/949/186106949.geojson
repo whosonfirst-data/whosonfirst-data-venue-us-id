@@ -2,13 +2,14 @@
   "id": 186106949,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.395261,43.60213,-116.395261,43.60213",
     "geom:latitude":43.60213,
     "geom:longitude":-116.395261,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"40 Hope Arms Ln",
     "sg:city":"Meridian",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186106949,
-    "wof:lastmodified":1449050204,
+    "wof:lastmodified":1466487933,
     "wof:name":"Hope Arms Apartments",
     "wof:parent_id":85805083,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "apartment"
     ]
 },
-  "bbox": [-116.395261,43.60213,-116.395261,43.60213],
+  "bbox": [
+    -116.395261,
+    43.60213,
+    -116.395261,
+    43.60213
+],
   "geometry": {"coordinates":[-116.395261,43.60213],"type":"Point"}
 }

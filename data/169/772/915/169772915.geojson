@@ -2,13 +2,14 @@
   "id": 169772915,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.765211,47.748147,-116.765211,47.748147",
     "geom:latitude":47.748147,
     "geom:longitude":-116.765211,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1335 E Loch Haven Dr",
     "sg:city":"Hayden",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":169772915,
-    "wof:lastmodified":1449034154,
+    "wof:lastmodified":1466488525,
     "wof:name":"A Little of This & That",
     "wof:parent_id":85821457,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-116.765211,47.748147,-116.765211,47.748147],
-  "geometry": {"coordinates":[-116.765211,47.748147],"type":"Point"}
+  "bbox": [
+    -116.765211,
+    47.748147,
+    -116.765211,
+    47.748147
+],
+  "geometry": {"coordinates":[-116.76521099999999,47.748147],"type":"Point"}
 }

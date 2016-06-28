@@ -2,13 +2,14 @@
   "id": 169598587,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.01697,42.19688,-112.01697,42.19688",
     "geom:latitude":42.19688,
     "geom:longitude":-112.01697,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"500 N Main Hwy",
     "sg:city":"Clifton",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":169598587,
-    "wof:lastmodified":1449032858,
+    "wof:lastmodified":1466488189,
     "wof:name":"Val Westover",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.01697,42.19688,-112.01697,42.19688],
+  "bbox": [
+    -112.01697,
+    42.19688,
+    -112.01697,
+    42.19688
+],
   "geometry": {"coordinates":[-112.01697,42.19688],"type":"Point"}
 }

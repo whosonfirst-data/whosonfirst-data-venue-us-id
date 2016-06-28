@@ -2,13 +2,14 @@
   "id": 169763243,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.300593,43.600663,-116.300593,43.600663",
     "geom:latitude":43.600663,
     "geom:longitude":-116.300593,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"597 S Cotterell Dr",
     "sg:city":"Boise",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":169763243,
-    "wof:lastmodified":1449035956,
+    "wof:lastmodified":1466488440,
     "wof:name":"Hallenberger Construction",
     "wof:parent_id":85876309,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-116.300593,43.600663,-116.300593,43.600663],
-  "geometry": {"coordinates":[-116.300593,43.600663],"type":"Point"}
+  "bbox": [
+    -116.300593,
+    43.600663,
+    -116.300593,
+    43.600663
+],
+  "geometry": {"coordinates":[-116.30059300000001,43.600663],"type":"Point"}
 }

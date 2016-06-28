@@ -2,13 +2,14 @@
   "id": 185977247,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-117.037394,46.734566,-117.037394,46.734566",
     "geom:latitude":46.734566,
     "geom:longitude":-117.037394,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"185 War Bonnet Dr",
     "sg:city":"Moscow",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":185977247,
-    "wof:lastmodified":1449008261,
+    "wof:lastmodified":1466488717,
     "wof:name":"Amerihost Inn & Suites",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-117.037394,46.734566,-117.037394,46.734566],
-  "geometry": {"coordinates":[-117.037394,46.734566],"type":"Point"}
+  "bbox": [
+    -117.037394,
+    46.734566,
+    -117.037394,
+    46.734566
+],
+  "geometry": {"coordinates":[-117.03739400000001,46.734566],"type":"Point"}
 }

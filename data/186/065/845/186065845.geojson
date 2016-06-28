@@ -2,13 +2,14 @@
   "id": 186065845,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.119169,43.573341,-116.119169,43.573341",
     "geom:latitude":43.573341,
     "geom:longitude":-116.119169,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5249 E Sagewood Dr",
     "sg:city":"Boise",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":186065845,
-    "wof:lastmodified":1449053005,
+    "wof:lastmodified":1466487495,
     "wof:name":"Hartmann & Assoc Inc",
     "wof:parent_id":85876307,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "designer"
     ]
 },
-  "bbox": [-116.119169,43.573341,-116.119169,43.573341],
+  "bbox": [
+    -116.119169,
+    43.573341,
+    -116.119169,
+    43.573341
+],
   "geometry": {"coordinates":[-116.119169,43.573341],"type":"Point"}
 }

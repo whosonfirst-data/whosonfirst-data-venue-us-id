@@ -2,13 +2,14 @@
   "id": 186088207,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-113.608511,42.619812,-113.608511,42.619812",
     "geom:latitude":42.619812,
     "geom:longitude":-113.608511,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"305 E Baseline Rd",
     "sg:city":"Rupert",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":186088207,
-    "wof:lastmodified":1449052408,
+    "wof:lastmodified":1466487741,
     "wof:name":"Stelly Sandblasting & Painting",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "hanging"
     ]
 },
-  "bbox": [-113.608511,42.619812,-113.608511,42.619812],
-  "geometry": {"coordinates":[-113.608511,42.619812],"type":"Point"}
+  "bbox": [
+    -113.608511,
+    42.619812,
+    -113.608511,
+    42.619812
+],
+  "geometry": {"coordinates":[-113.60851099999999,42.619812],"type":"Point"}
 }

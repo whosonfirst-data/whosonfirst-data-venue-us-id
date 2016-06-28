@@ -2,13 +2,14 @@
   "id": 169741841,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.923831,47.723161,-116.923831,47.723161",
     "geom:latitude":47.723161,
     "geom:longitude":-116.923831,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1642 E 16th Ave",
     "sg:city":"Post Falls",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":169741841,
-    "wof:lastmodified":1449032861,
+    "wof:lastmodified":1466488489,
     "wof:name":"Northwest Recumbent Cycles",
     "wof:parent_id":85833263,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-116.923831,47.723161,-116.923831,47.723161],
-  "geometry": {"coordinates":[-116.923831,47.723161],"type":"Point"}
+  "bbox": [
+    -116.923831,
+    47.723161,
+    -116.923831,
+    47.723161
+],
+  "geometry": {"coordinates":[-116.92383100000001,47.723161],"type":"Point"}
 }

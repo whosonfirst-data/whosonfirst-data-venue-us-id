@@ -2,13 +2,14 @@
   "id": 320543349,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.162549,43.609038,-116.162549,43.609038",
     "geom:latitude":43.609038,
     "geom:longitude":-116.162549,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2434 E Roanoke Dr",
     "sg:city":"Boise",
     "sg:classifiers":[
@@ -72,10 +73,11 @@
         }
     ],
     "wof:id":320543349,
-    "wof:lastmodified":1449011987,
+    "wof:lastmodified":1466486965,
     "wof:name":"JC Plumbing",
     "wof:parent_id":85876305,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -93,6 +95,11 @@
         "sewer"
     ]
 },
-  "bbox": [-116.162549,43.609038,-116.162549,43.609038],
+  "bbox": [
+    -116.162549,
+    43.609038,
+    -116.162549,
+    43.609038
+],
   "geometry": {"coordinates":[-116.162549,43.609038],"type":"Point"}
 }

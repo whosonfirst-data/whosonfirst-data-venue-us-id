@@ -2,13 +2,14 @@
   "id": 185918195,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.775541,47.699945,-116.775541,47.699945",
     "geom:latitude":47.699945,
     "geom:longitude":-116.775541,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2514 N 7th St",
     "sg:city":"Coeur D Alene",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":185918195,
-    "wof:lastmodified":1449007679,
+    "wof:lastmodified":1466488675,
     "wof:name":"Pinewood Care Ctr",
     "wof:parent_id":85821457,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "convalescent"
     ]
 },
-  "bbox": [-116.775541,47.699945,-116.775541,47.699945],
+  "bbox": [
+    -116.775541,
+    47.699945,
+    -116.775541,
+    47.699945
+],
   "geometry": {"coordinates":[-116.775541,47.699945],"type":"Point"}
 }

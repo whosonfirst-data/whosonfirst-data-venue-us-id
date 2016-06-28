@@ -2,13 +2,14 @@
   "id": 186509501,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.852673,42.788042,-112.852673,42.788042",
     "geom:latitude":42.788042,
     "geom:longitude":-112.852673,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"346 Fort Hall Ave",
     "sg:city":"American Falls",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186509501,
-    "wof:lastmodified":1449050386,
+    "wof:lastmodified":1466488919,
     "wof:name":"Tim's Truck & Tractor Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "parts"
     ]
 },
-  "bbox": [-112.852673,42.788042,-112.852673,42.788042],
+  "bbox": [
+    -112.852673,
+    42.788042,
+    -112.852673,
+    42.788042
+],
   "geometry": {"coordinates":[-112.852673,42.788042],"type":"Point"}
 }

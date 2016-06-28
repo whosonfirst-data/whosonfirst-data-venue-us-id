@@ -2,13 +2,14 @@
   "id": 320552257,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-117.025582,46.902514,-117.025582,46.902514",
     "geom:latitude":46.902514,
     "geom:longitude":-117.025582,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1270 W Cove Rd",
     "sg:city":"Viola",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":320552257,
-    "wof:lastmodified":1449012821,
+    "wof:lastmodified":1466487066,
     "wof:name":"Jerrylee Farm",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "livestock"
     ]
 },
-  "bbox": [-117.025582,46.902514,-117.025582,46.902514],
+  "bbox": [
+    -117.025582,
+    46.902514,
+    -117.025582,
+    46.902514
+],
   "geometry": {"coordinates":[-117.025582,46.902514],"type":"Point"}
 }

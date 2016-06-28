@@ -2,13 +2,14 @@
   "id": 320533873,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.39149,43.619272,-116.39149,43.619272",
     "geom:latitude":43.619272,
     "geom:longitude":-116.39149,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"104 E Fairview Ave 106",
     "sg:city":"Meridian",
     "sg:classifiers":[
@@ -58,10 +59,11 @@
         }
     ],
     "wof:id":320533873,
-    "wof:lastmodified":1449011213,
+    "wof:lastmodified":1466488382,
     "wof:name":"Professional Business Forms",
     "wof:parent_id":85811491,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -70,6 +72,11 @@
         "printers-business"
     ]
 },
-  "bbox": [-116.39149,43.619272,-116.39149,43.619272],
+  "bbox": [
+    -116.39149,
+    43.619272,
+    -116.39149,
+    43.619272
+],
   "geometry": {"coordinates":[-116.39149,43.619272],"type":"Point"}
 }

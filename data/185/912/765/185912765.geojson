@@ -2,13 +2,14 @@
   "id": 185912765,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.937087,47.521267,-116.937087,47.521267",
     "geom:latitude":47.521267,
     "geom:longitude":-116.937087,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"23171 US Hwy 95",
     "sg:city":"Coeur D Alene",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":185912765,
-    "wof:lastmodified":1449007423,
+    "wof:lastmodified":1466488587,
     "wof:name":"Fightin' Creek Bar",
     "wof:parent_id":85833263,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-116.937087,47.521267,-116.937087,47.521267],
-  "geometry": {"coordinates":[-116.937087,47.521267],"type":"Point"}
+  "bbox": [
+    -116.937087,
+    47.521267,
+    -116.937087,
+    47.521267
+],
+  "geometry": {"coordinates":[-116.93708700000001,47.521267],"type":"Point"}
 }

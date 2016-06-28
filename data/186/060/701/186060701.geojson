@@ -2,13 +2,14 @@
   "id": 186060701,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.78259,43.656988,-116.78259,43.656988",
     "geom:latitude":43.656988,
     "geom:longitude":-116.78259,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"19668 Pride Ln",
     "sg:city":"Caldwell",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":186060701,
-    "wof:lastmodified":1449052778,
+    "wof:lastmodified":1466487434,
     "wof:name":"D L Concrete Coatings",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "waterproofing"
     ]
 },
-  "bbox": [-116.78259,43.656988,-116.78259,43.656988],
+  "bbox": [
+    -116.78259,
+    43.656988,
+    -116.78259,
+    43.656988
+],
   "geometry": {"coordinates":[-116.78259,43.656988],"type":"Point"}
 }

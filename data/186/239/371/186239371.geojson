@@ -2,13 +2,14 @@
   "id": 186239371,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.477573,42.557371,-114.477573,42.557371",
     "geom:latitude":42.557371,
     "geom:longitude":-114.477573,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"404 4th Ave W",
     "sg:city":"Twin Falls",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186239371,
-    "wof:lastmodified":1449050500,
+    "wof:lastmodified":1466488573,
     "wof:name":"A Full Life Agency",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "home"
     ]
 },
-  "bbox": [-114.477573,42.557371,-114.477573,42.557371],
-  "geometry": {"coordinates":[-114.477573,42.557371],"type":"Point"}
+  "bbox": [
+    -114.477573,
+    42.557371,
+    -114.477573,
+    42.557371
+],
+  "geometry": {"coordinates":[-114.47757300000001,42.557371],"type":"Point"}
 }

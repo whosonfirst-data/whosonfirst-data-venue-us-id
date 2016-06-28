@@ -2,13 +2,14 @@
   "id": 320522953,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.988731,46.389511,-116.988731,46.389511",
     "geom:latitude":46.389511,
     "geom:longitude":-116.988731,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"131 Thain Rd",
     "sg:city":"Lewiston",
     "sg:classifiers":[
@@ -58,14 +59,20 @@
         }
     ],
     "wof:id":320522953,
-    "wof:lastmodified":1449013034,
+    "wof:lastmodified":1466487254,
     "wof:name":"Dp Nails And Spa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-116.988731,46.389511,-116.988731,46.389511],
+  "bbox": [
+    -116.988731,
+    46.389511,
+    -116.988731,
+    46.389511
+],
   "geometry": {"coordinates":[-116.988731,46.389511],"type":"Point"}
 }

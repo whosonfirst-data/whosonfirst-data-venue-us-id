@@ -2,13 +2,14 @@
   "id": 185928949,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.553434,43.650216,-116.553434,43.650216",
     "geom:latitude":43.650216,
     "geom:longitude":-116.553434,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"19047 Franklin Rd",
     "sg:city":"Nampa",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":185928949,
-    "wof:lastmodified":1449007994,
+    "wof:lastmodified":1466488622,
     "wof:name":"Outland Steel",
     "wof:parent_id":85835387,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "steel"
     ]
 },
-  "bbox": [-116.553434,43.650216,-116.553434,43.650216],
+  "bbox": [
+    -116.553434,
+    43.650216,
+    -116.553434,
+    43.650216
+],
   "geometry": {"coordinates":[-116.553434,43.650216],"type":"Point"}
 }

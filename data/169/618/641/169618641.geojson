@@ -2,13 +2,14 @@
   "id": 169618641,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.257525,43.453254,-114.257525,43.453254",
     "geom:latitude":43.453254,
     "geom:longitude":-114.257525,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1136 Riverview Dr",
     "sg:city":"Bellevue",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":169618641,
-    "wof:lastmodified":1449034738,
+    "wof:lastmodified":1466487093,
     "wof:name":"Weather Shield Insulation",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "contractor"
     ]
 },
-  "bbox": [-114.257525,43.453254,-114.257525,43.453254],
+  "bbox": [
+    -114.257525,
+    43.453254,
+    -114.257525,
+    43.453254
+],
   "geometry": {"coordinates":[-114.257525,43.453254],"type":"Point"}
 }

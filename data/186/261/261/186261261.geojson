@@ -2,13 +2,14 @@
   "id": 186261261,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.918265,47.702552,-116.918265,47.702552",
     "geom:latitude":47.702552,
     "geom:longitude":-116.918265,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1621 E Tall Timber Loop",
     "sg:city":"Post Falls",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":186261261,
-    "wof:lastmodified":1449050302,
+    "wof:lastmodified":1466488608,
     "wof:name":"Axsys Geomatic Consultants",
     "wof:parent_id":85833263,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "surveyor"
     ]
 },
-  "bbox": [-116.918265,47.702552,-116.918265,47.702552],
-  "geometry": {"coordinates":[-116.918265,47.702552],"type":"Point"}
+  "bbox": [
+    -116.918265,
+    47.702552,
+    -116.918265,
+    47.702552
+],
+  "geometry": {"coordinates":[-116.91826500000001,47.702552],"type":"Point"}
 }

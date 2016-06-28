@@ -2,13 +2,14 @@
   "id": 185828885,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.280467,43.612049,-116.280467,43.612049",
     "geom:latitude":43.612049,
     "geom:longitude":-116.280467,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7845 Emerald St",
     "sg:city":"Boise",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":185828885,
-    "wof:lastmodified":1449007451,
+    "wof:lastmodified":1466488507,
     "wof:name":"Applebee's Neighborhood Grill",
     "wof:parent_id":85841319,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-116.280467,43.612049,-116.280467,43.612049],
+  "bbox": [
+    -116.280467,
+    43.612049,
+    -116.280467,
+    43.612049
+],
   "geometry": {"coordinates":[-116.280467,43.612049],"type":"Point"}
 }

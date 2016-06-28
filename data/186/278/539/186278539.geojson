@@ -2,13 +2,14 @@
   "id": 186278539,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.994174,46.734564,-116.994174,46.734564",
     "geom:latitude":46.734564,
     "geom:longitude":-116.994174,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"121 N Polk St",
     "sg:city":"Moscow",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":186278539,
-    "wof:lastmodified":1449051862,
+    "wof:lastmodified":1466488648,
     "wof:name":"Essential Glass Works",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "leaded"
     ]
 },
-  "bbox": [-116.994174,46.734564,-116.994174,46.734564],
+  "bbox": [
+    -116.994174,
+    46.734564,
+    -116.994174,
+    46.734564
+],
   "geometry": {"coordinates":[-116.994174,46.734564],"type":"Point"}
 }

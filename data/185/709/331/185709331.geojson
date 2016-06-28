@@ -2,13 +2,14 @@
   "id": 185709331,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.684822,43.675885,-116.684822,43.675885",
     "geom:latitude":43.675885,
     "geom:longitude":-116.684822,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"111 Hannibal St",
     "sg:city":"Caldwell",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":185709331,
-    "wof:lastmodified":1449006935,
+    "wof:lastmodified":1466487598,
     "wof:name":"Carol's Barber & Style",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "shop"
     ]
 },
-  "bbox": [-116.684822,43.675885,-116.684822,43.675885],
+  "bbox": [
+    -116.684822,
+    43.675885,
+    -116.684822,
+    43.675885
+],
   "geometry": {"coordinates":[-116.684822,43.675885],"type":"Point"}
 }

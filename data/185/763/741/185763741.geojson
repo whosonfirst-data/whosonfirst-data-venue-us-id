@@ -2,13 +2,14 @@
   "id": 185763741,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.446036,42.866357,-112.446036,42.866357",
     "geom:latitude":42.866357,
     "geom:longitude":-112.446036,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"340 E Clark St",
     "sg:city":"Pocatello",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":185763741,
-    "wof:lastmodified":1449008198,
+    "wof:lastmodified":1466488031,
     "wof:name":"Matkin Truck Auto & Electric",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "generator"
     ]
 },
-  "bbox": [-112.446036,42.866357,-112.446036,42.866357],
-  "geometry": {"coordinates":[-112.446036,42.866357],"type":"Point"}
+  "bbox": [
+    -112.446036,
+    42.866357,
+    -112.446036,
+    42.866357
+],
+  "geometry": {"coordinates":[-112.44603600000001,42.866357],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186413757,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.89985,43.974685,-116.89985,43.974685",
     "geom:latitude":43.974685,
     "geom:longitude":-116.89985,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2330 US Hwy 30",
     "sg:city":"Fruitland",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":186413757,
-    "wof:lastmodified":1449050823,
+    "wof:lastmodified":1466488853,
     "wof:name":"Honey Store",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "shop"
     ]
 },
-  "bbox": [-116.89985,43.974685,-116.89985,43.974685],
+  "bbox": [
+    -116.89985,
+    43.974685,
+    -116.89985,
+    43.974685
+],
   "geometry": {"coordinates":[-116.89985,43.974685],"type":"Point"}
 }

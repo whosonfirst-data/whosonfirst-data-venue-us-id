@@ -2,13 +2,14 @@
   "id": 169617377,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.499897,43.866416,-116.499897,43.866416",
     "geom:latitude":43.866416,
     "geom:longitude":-116.499897,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1108 S Washington Ave",
     "sg:city":"Emmett",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":169617377,
-    "wof:lastmodified":1449032800,
+    "wof:lastmodified":1466487072,
     "wof:name":"Deborah Casdorph Gem Family",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "clinic"
     ]
 },
-  "bbox": [-116.499897,43.866416,-116.499897,43.866416],
+  "bbox": [
+    -116.499897,
+    43.866416,
+    -116.499897,
+    43.866416
+],
   "geometry": {"coordinates":[-116.499897,43.866416],"type":"Point"}
 }

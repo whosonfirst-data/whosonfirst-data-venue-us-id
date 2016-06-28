@@ -2,13 +2,14 @@
   "id": 169620443,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.289506,43.673773,-116.289506,43.673773",
     "geom:latitude":43.673773,
     "geom:longitude":-116.289506,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8306 W State St",
     "sg:city":"Boise",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":169620443,
-    "wof:lastmodified":1449035676,
+    "wof:lastmodified":1466487123,
     "wof:name":"3 Se Corp",
     "wof:parent_id":85876315,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "mower"
     ]
 },
-  "bbox": [-116.289506,43.673773,-116.289506,43.673773],
+  "bbox": [
+    -116.289506,
+    43.673773,
+    -116.289506,
+    43.673773
+],
   "geometry": {"coordinates":[-116.289506,43.673773],"type":"Point"}
 }

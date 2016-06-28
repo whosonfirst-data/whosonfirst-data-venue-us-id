@@ -2,13 +2,14 @@
   "id": 185928925,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.950057,46.381432,-116.950057,46.381432",
     "geom:latitude":46.381432,
     "geom:longitude":-116.950057,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1537 Quail Run Dr",
     "sg:city":"Lewiston",
     "sg:classifiers":[
@@ -63,10 +64,11 @@
         }
     ],
     "wof:id":185928925,
-    "wof:lastmodified":1449007991,
+    "wof:lastmodified":1466488622,
     "wof:name":"Palouse Hills Mobile Court",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -75,6 +77,11 @@
         "site"
     ]
 },
-  "bbox": [-116.950057,46.381432,-116.950057,46.381432],
+  "bbox": [
+    -116.950057,
+    46.381432,
+    -116.950057,
+    46.381432
+],
   "geometry": {"coordinates":[-116.950057,46.381432],"type":"Point"}
 }

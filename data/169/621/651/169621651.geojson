@@ -2,13 +2,14 @@
   "id": 169621651,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.79823,47.70668,-116.79823,47.70668",
     "geom:latitude":47.70668,
     "geom:longitude":-116.79823,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2904 N Francis St",
     "sg:city":"Coeur D Alene",
     "sg:classifiers":[
@@ -61,16 +62,22 @@
         }
     ],
     "wof:id":169621651,
-    "wof:lastmodified":1449035558,
+    "wof:lastmodified":1466487142,
     "wof:name":"Furnace Sales & Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "furnace"
     ]
 },
-  "bbox": [-116.79823,47.70668,-116.79823,47.70668],
+  "bbox": [
+    -116.79823,
+    47.70668,
+    -116.79823,
+    47.70668
+],
   "geometry": {"coordinates":[-116.79823,47.70668],"type":"Point"}
 }

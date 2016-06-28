@@ -2,13 +2,14 @@
   "id": 169595863,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.784518,47.769791,-116.784518,47.769791",
     "geom:latitude":47.769791,
     "geom:longitude":-116.784518,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"184 E Lacey Ave",
     "sg:city":"Hayden Lake",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":169595863,
-    "wof:lastmodified":1449035638,
+    "wof:lastmodified":1466487379,
     "wof:name":"Reed Enterprises Inc",
     "wof:parent_id":85821457,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "equipment"
     ]
 },
-  "bbox": [-116.784518,47.769791,-116.784518,47.769791],
-  "geometry": {"coordinates":[-116.784518,47.769791],"type":"Point"}
+  "bbox": [
+    -116.784518,
+    47.769791,
+    -116.784518,
+    47.769791
+],
+  "geometry": {"coordinates":[-116.78451800000001,47.769791],"type":"Point"}
 }

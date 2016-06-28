@@ -2,13 +2,14 @@
   "id": 320537089,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.933503,44.077217,-116.933503,44.077217",
     "geom:latitude":44.077217,
     "geom:longitude":-116.933503,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"215 N 9th St",
     "sg:city":"Payette",
     "sg:classifiers":[
@@ -66,10 +67,11 @@
         }
     ],
     "wof:id":320537089,
-    "wof:lastmodified":1449012174,
+    "wof:lastmodified":1466486851,
     "wof:name":"First Church-Christ Scientist",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -82,6 +84,11 @@
         "churches-christian"
     ]
 },
-  "bbox": [-116.933503,44.077217,-116.933503,44.077217],
+  "bbox": [
+    -116.933503,
+    44.077217,
+    -116.933503,
+    44.077217
+],
   "geometry": {"coordinates":[-116.933503,44.077217],"type":"Point"}
 }

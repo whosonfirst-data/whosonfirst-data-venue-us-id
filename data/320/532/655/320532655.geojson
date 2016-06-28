@@ -2,13 +2,14 @@
   "id": 320532655,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.409956,43.488441,-116.409956,43.488441",
     "geom:latitude":43.488441,
     "geom:longitude":-116.409956,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"368 E Avalon St",
     "sg:city":"Kuna",
     "sg:classifiers":[
@@ -68,10 +69,11 @@
         }
     ],
     "wof:id":320532655,
-    "wof:lastmodified":1449012528,
+    "wof:lastmodified":1466488292,
     "wof:name":"American Family Insurance- Kerri Avery",
     "wof:parent_id":85876331,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -80,6 +82,11 @@
         "homeowner"
     ]
 },
-  "bbox": [-116.409956,43.488441,-116.409956,43.488441],
-  "geometry": {"coordinates":[-116.409956,43.488441],"type":"Point"}
+  "bbox": [
+    -116.409956,
+    43.488441,
+    -116.409956,
+    43.488441
+],
+  "geometry": {"coordinates":[-116.40995599999999,43.488441],"type":"Point"}
 }

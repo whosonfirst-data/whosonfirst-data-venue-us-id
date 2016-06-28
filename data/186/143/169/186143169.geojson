@@ -2,13 +2,14 @@
   "id": 186143169,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.390598,43.62157,-116.390598,43.62157",
     "geom:latitude":43.62157,
     "geom:longitude":-116.390598,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"299 E Spinosa Dr",
     "sg:city":"Meridian",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186143169,
-    "wof:lastmodified":1449052553,
+    "wof:lastmodified":1466488255,
     "wof:name":"Gale Family",
     "wof:parent_id":85876351,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "establishment"
     ]
 },
-  "bbox": [-116.390598,43.62157,-116.390598,43.62157],
+  "bbox": [
+    -116.390598,
+    43.62157,
+    -116.390598,
+    43.62157
+],
   "geometry": {"coordinates":[-116.390598,43.62157],"type":"Point"}
 }

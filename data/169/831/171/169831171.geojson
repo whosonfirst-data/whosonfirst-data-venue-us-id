@@ -2,13 +2,14 @@
   "id": 169831171,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.3753,43.627498,-116.3753,43.627498",
     "geom:latitude":43.627498,
     "geom:longitude":-116.3753,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2489 N Valmet Ave",
     "sg:city":"Meridian",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":169831171,
-    "wof:lastmodified":1449034628,
+    "wof:lastmodified":1466488590,
     "wof:name":"Meridian Alliance Chr",
     "wof:parent_id":85876351,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-116.3753,43.627498,-116.3753,43.627498],
+  "bbox": [
+    -116.3753,
+    43.627498,
+    -116.3753,
+    43.627498
+],
   "geometry": {"coordinates":[-116.3753,43.627498],"type":"Point"}
 }

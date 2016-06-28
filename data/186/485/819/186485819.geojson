@@ -2,13 +2,14 @@
   "id": 186485819,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.348571,48.282637,-116.348571,48.282637",
     "geom:latitude":48.282637,
     "geom:longitude":-116.348571,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"71 Freeman Ln",
     "sg:city":"Hope",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":186485819,
-    "wof:lastmodified":1449051994,
+    "wof:lastmodified":1466488906,
     "wof:name":"Trestle Creek Friendship Ctr",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-116.348571,48.282637,-116.348571,48.282637],
-  "geometry": {"coordinates":[-116.348571,48.282637],"type":"Point"}
+  "bbox": [
+    -116.348571,
+    48.282637,
+    -116.348571,
+    48.282637
+],
+  "geometry": {"coordinates":[-116.34857100000001,48.282637],"type":"Point"}
 }

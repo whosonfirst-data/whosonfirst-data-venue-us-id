@@ -2,13 +2,14 @@
   "id": 186027847,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.927948,47.715976,-116.927948,47.715976",
     "geom:latitude":47.715976,
     "geom:longitude":-116.927948,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1573 E Mullan Ave",
     "sg:city":"Post Falls",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186027847,
-    "wof:lastmodified":1449050907,
+    "wof:lastmodified":1466487055,
     "wof:name":"Joe's Autoworks",
     "wof:parent_id":85833263,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "painting"
     ]
 },
-  "bbox": [-116.927948,47.715976,-116.927948,47.715976],
+  "bbox": [
+    -116.927948,
+    47.715976,
+    -116.927948,
+    47.715976
+],
   "geometry": {"coordinates":[-116.927948,47.715976],"type":"Point"}
 }

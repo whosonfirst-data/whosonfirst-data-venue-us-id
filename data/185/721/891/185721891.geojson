@@ -2,13 +2,14 @@
   "id": 185721891,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.981334,44.26427,-116.981334,44.26427",
     "geom:latitude":44.26427,
     "geom:longitude":-116.981334,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2320 Galey St",
     "sg:city":"Meridian",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":185721891,
-    "wof:lastmodified":1449008207,
+    "wof:lastmodified":1466487697,
     "wof:name":"Boise Valley Asthma & Allergy",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "surgeon"
     ]
 },
-  "bbox": [-116.981334,44.26427,-116.981334,44.26427],
+  "bbox": [
+    -116.981334,
+    44.26427,
+    -116.981334,
+    44.26427
+],
   "geometry": {"coordinates":[-116.981334,44.26427],"type":"Point"}
 }

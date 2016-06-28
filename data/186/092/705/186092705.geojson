@@ -2,13 +2,14 @@
   "id": 186092705,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.782611,47.674326,-116.782611,47.674326",
     "geom:latitude":47.674326,
     "geom:longitude":-116.782611,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"301 E Lakeside Ave",
     "sg:city":"Coeur D Alene",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":186092705,
-    "wof:lastmodified":1449052510,
+    "wof:lastmodified":1466487786,
     "wof:name":"Olympia Restaurant",
     "wof:parent_id":85821457,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "out"
     ]
 },
-  "bbox": [-116.782611,47.674326,-116.782611,47.674326],
+  "bbox": [
+    -116.782611,
+    47.674326,
+    -116.782611,
+    47.674326
+],
   "geometry": {"coordinates":[-116.782611,47.674326],"type":"Point"}
 }

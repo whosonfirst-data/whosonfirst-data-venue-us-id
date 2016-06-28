@@ -2,13 +2,14 @@
   "id": 169760975,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.678817,43.706124,-116.678817,43.706124",
     "geom:latitude":43.706124,
     "geom:longitude":-116.678817,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"14252 State Hwy 44",
     "sg:city":"Caldwell",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":169760975,
-    "wof:lastmodified":1449035839,
+    "wof:lastmodified":1466488437,
     "wof:name":"Tiny's Chop & Kustom Shop",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "customizing"
     ]
 },
-  "bbox": [-116.678817,43.706124,-116.678817,43.706124],
+  "bbox": [
+    -116.678817,
+    43.706124,
+    -116.678817,
+    43.706124
+],
   "geometry": {"coordinates":[-116.678817,43.706124],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186468837,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.000251,43.478377,-112.000251,43.478377",
     "geom:latitude":43.478377,
     "geom:longitude":-112.000251,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1701 Parley St",
     "sg:city":"Idaho Falls",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":186468837,
-    "wof:lastmodified":1449052280,
+    "wof:lastmodified":1466488771,
     "wof:name":"AAA Tanks",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.000251,43.478377,-112.000251,43.478377],
-  "geometry": {"coordinates":[-112.000251,43.478377],"type":"Point"}
+  "bbox": [
+    -112.000251,
+    43.478377,
+    -112.000251,
+    43.478377
+],
+  "geometry": {"coordinates":[-112.00025100000001,43.478377],"type":"Point"}
 }

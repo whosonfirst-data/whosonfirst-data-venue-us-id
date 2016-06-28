@@ -2,13 +2,14 @@
   "id": 169630845,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-117.026712,46.732644,-117.026712,46.732644",
     "geom:latitude":46.732644,
     "geom:longitude":-117.026712,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1858 W Pullman Rd",
     "sg:city":"Moscow",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":169630845,
-    "wof:lastmodified":1449033869,
+    "wof:lastmodified":1466487291,
     "wof:name":"Flower's Etc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-117.026712,46.732644,-117.026712,46.732644],
+  "bbox": [
+    -117.026712,
+    46.732644,
+    -117.026712,
+    46.732644
+],
   "geometry": {"coordinates":[-117.026712,46.732644],"type":"Point"}
 }

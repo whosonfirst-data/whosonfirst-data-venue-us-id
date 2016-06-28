@@ -2,13 +2,14 @@
   "id": 186330185,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.632649,43.765683,-116.632649,43.765683",
     "geom:latitude":43.765683,
     "geom:longitude":-116.632649,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"27005 Cemetery Rd",
     "sg:city":"Middleton",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":186330185,
-    "wof:lastmodified":1449051715,
+    "wof:lastmodified":1466488651,
     "wof:name":"Rocky Road Farms",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "general"
     ]
 },
-  "bbox": [-116.632649,43.765683,-116.632649,43.765683],
+  "bbox": [
+    -116.632649,
+    43.765683,
+    -116.632649,
+    43.765683
+],
   "geometry": {"coordinates":[-116.632649,43.765683],"type":"Point"}
 }

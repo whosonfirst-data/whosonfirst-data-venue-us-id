@@ -2,13 +2,14 @@
   "id": 169667855,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.768379,47.762462,-116.768379,47.762462",
     "geom:latitude":47.762462,
     "geom:longitude":-116.768379,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1840 E Dakota Ave",
     "sg:city":"Hayden Lake",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":169667855,
-    "wof:lastmodified":1449034844,
+    "wof:lastmodified":1466487851,
     "wof:name":"Rocky Mountain Clear",
     "wof:parent_id":85821457,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "bottler"
     ]
 },
-  "bbox": [-116.768379,47.762462,-116.768379,47.762462],
+  "bbox": [
+    -116.768379,
+    47.762462,
+    -116.768379,
+    47.762462
+],
   "geometry": {"coordinates":[-116.768379,47.762462],"type":"Point"}
 }

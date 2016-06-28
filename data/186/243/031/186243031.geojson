@@ -2,13 +2,14 @@
   "id": 186243031,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.790083,47.704824,-116.790083,47.704824",
     "geom:latitude":47.704824,
     "geom:longitude":-116.790083,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3130 W Cherry Ln",
     "sg:city":"Coeur D Alene",
     "sg:classifiers":[
@@ -61,16 +62,22 @@
         }
     ],
     "wof:id":186243031,
-    "wof:lastmodified":1449051261,
+    "wof:lastmodified":1466488574,
     "wof:name":"Hollingsworth Enterprises",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "nonresidential"
     ]
 },
-  "bbox": [-116.790083,47.704824,-116.790083,47.704824],
+  "bbox": [
+    -116.790083,
+    47.704824,
+    -116.790083,
+    47.704824
+],
   "geometry": {"coordinates":[-116.790083,47.704824],"type":"Point"}
 }

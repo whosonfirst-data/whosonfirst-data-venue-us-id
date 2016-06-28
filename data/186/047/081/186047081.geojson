@@ -2,13 +2,14 @@
   "id": 186047081,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.353265,43.192436,-112.353265,43.192436",
     "geom:latitude":43.192436,
     "geom:longitude":-112.353265,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"710 W Judicial St",
     "sg:city":"Blackfoot",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":186047081,
-    "wof:lastmodified":1449052102,
+    "wof:lastmodified":1466487282,
     "wof:name":"Desert Wind Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "air"
     ]
 },
-  "bbox": [-112.353265,43.192436,-112.353265,43.192436],
-  "geometry": {"coordinates":[-112.353265,43.192436],"type":"Point"}
+  "bbox": [
+    -112.353265,
+    43.192436,
+    -112.353265,
+    43.192436
+],
+  "geometry": {"coordinates":[-112.35326499999999,43.192436],"type":"Point"}
 }

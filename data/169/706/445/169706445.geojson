@@ -2,13 +2,14 @@
   "id": 169706445,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.377028,43.584754,-116.377028,43.584754",
     "geom:latitude":43.584754,
     "geom:longitude":-116.377028,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1427 E Blue Tick St",
     "sg:city":"Meridian",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":169706445,
-    "wof:lastmodified":1449032913,
+    "wof:lastmodified":1466488095,
     "wof:name":"Cosmetic Kreations",
     "wof:parent_id":85805083,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "merchandise"
     ]
 },
-  "bbox": [-116.377028,43.584754,-116.377028,43.584754],
+  "bbox": [
+    -116.377028,
+    43.584754,
+    -116.377028,
+    43.584754
+],
   "geometry": {"coordinates":[-116.377028,43.584754],"type":"Point"}
 }

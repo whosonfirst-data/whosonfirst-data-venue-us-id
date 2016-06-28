@@ -2,13 +2,14 @@
   "id": 185720223,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.579894,48.150498,-116.579894,48.150498",
     "geom:latitude":48.150498,
     "geom:longitude":-116.579894,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"874 Beers Humbird Dr",
     "sg:city":"Sagle",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":185720223,
-    "wof:lastmodified":1449006994,
+    "wof:lastmodified":1466487683,
     "wof:name":"C & S Products",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "supply"
     ]
 },
-  "bbox": [-116.579894,48.150498,-116.579894,48.150498],
+  "bbox": [
+    -116.579894,
+    48.150498,
+    -116.579894,
+    48.150498
+],
   "geometry": {"coordinates":[-116.579894,48.150498],"type":"Point"}
 }

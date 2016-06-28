@@ -2,13 +2,14 @@
   "id": 185818763,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.125934,43.378839,-112.125934,43.378839",
     "geom:latitude":43.378839,
     "geom:longitude":-112.125934,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"270 S Emerson Ave",
     "sg:city":"Shelley",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":185818763,
-    "wof:lastmodified":1449007412,
+    "wof:lastmodified":1466488500,
     "wof:name":"Bank Of Commerce",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.125934,43.378839,-112.125934,43.378839],
+  "bbox": [
+    -112.125934,
+    43.378839,
+    -112.125934,
+    43.378839
+],
   "geometry": {"coordinates":[-112.125934,43.378839],"type":"Point"}
 }

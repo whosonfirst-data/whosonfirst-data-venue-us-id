@@ -2,13 +2,14 @@
   "id": 186377217,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.547851,48.275827,-116.547851,48.275827",
     "geom:latitude":48.275827,
     "geom:longitude":-116.547851,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"323 N 1st Ave",
     "sg:city":"Sandpoint",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":186377217,
-    "wof:lastmodified":1449051392,
+    "wof:lastmodified":1466488841,
     "wof:name":"Glorianne Gooding-Jones",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "attorney"
     ]
 },
-  "bbox": [-116.547851,48.275827,-116.547851,48.275827],
-  "geometry": {"coordinates":[-116.547851,48.275827],"type":"Point"}
+  "bbox": [
+    -116.547851,
+    48.275827,
+    -116.547851,
+    48.275827
+],
+  "geometry": {"coordinates":[-116.54785099999999,48.275827],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186195441,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.237611,43.619815,-116.237611,43.619815",
     "geom:latitude":43.619815,
     "geom:longitude":-116.237611,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"108 W 31st St",
     "sg:city":"Boise",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":186195441,
-    "wof:lastmodified":1449052130,
+    "wof:lastmodified":1466488492,
     "wof:name":"Technical Glass Svc Inc",
     "wof:parent_id":85876301,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-116.237611,43.619815,-116.237611,43.619815],
+  "bbox": [
+    -116.237611,
+    43.619815,
+    -116.237611,
+    43.619815
+],
   "geometry": {"coordinates":[-116.237611,43.619815],"type":"Point"}
 }

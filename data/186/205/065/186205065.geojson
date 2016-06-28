@@ -2,13 +2,14 @@
   "id": 186205065,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-117.005386,46.411317,-117.005386,46.411317",
     "geom:latitude":46.411317,
     "geom:longitude":-117.005386,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1840 9th Ave",
     "sg:city":"Lewiston",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":186205065,
-    "wof:lastmodified":1449051982,
+    "wof:lastmodified":1466488414,
     "wof:name":"Whitman Elementary School",
     "wof:parent_id":85837769,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-117.005386,46.411317,-117.005386,46.411317],
+  "bbox": [
+    -117.005386,
+    46.411317,
+    -117.005386,
+    46.411317
+],
   "geometry": {"coordinates":[-117.005386,46.411317],"type":"Point"}
 }

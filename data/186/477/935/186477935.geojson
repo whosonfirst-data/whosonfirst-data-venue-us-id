@@ -2,13 +2,14 @@
   "id": 186477935,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.09112,44.731139,-116.09112,44.731139",
     "geom:latitude":44.731139,
     "geom:longitude":-116.09112,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"191 W Roseberry Rd",
     "sg:city":"Donnelly",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":186477935,
-    "wof:lastmodified":1449050873,
+    "wof:lastmodified":1466488902,
     "wof:name":"Long Valley Farm Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "feed"
     ]
 },
-  "bbox": [-116.09112,44.731139,-116.09112,44.731139],
+  "bbox": [
+    -116.09112,
+    44.731139,
+    -116.09112,
+    44.731139
+],
   "geometry": {"coordinates":[-116.09112,44.731139],"type":"Point"}
 }

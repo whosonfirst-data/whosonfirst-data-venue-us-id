@@ -2,13 +2,14 @@
   "id": 185727409,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.323804,43.616956,-116.323804,43.616956",
     "geom:latitude":43.616956,
     "geom:longitude":-116.323804,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1351 N Timathy Ln",
     "sg:city":"Boise",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":185727409,
-    "wof:lastmodified":1449006853,
+    "wof:lastmodified":1466487741,
     "wof:name":"Itty Bitty Business",
     "wof:parent_id":85805083,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "lawn"
     ]
 },
-  "bbox": [-116.323804,43.616956,-116.323804,43.616956],
+  "bbox": [
+    -116.323804,
+    43.616956,
+    -116.323804,
+    43.616956
+],
   "geometry": {"coordinates":[-116.323804,43.616956],"type":"Point"}
 }

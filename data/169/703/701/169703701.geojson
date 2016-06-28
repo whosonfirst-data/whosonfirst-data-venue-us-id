@@ -2,13 +2,14 @@
   "id": 169703701,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.274312,43.635033,-116.274312,43.635033",
     "geom:latitude":43.635033,
     "geom:longitude":-116.274312,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3321 N Cole Rd",
     "sg:city":"Boise",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":169703701,
-    "wof:lastmodified":1449033688,
+    "wof:lastmodified":1466488070,
     "wof:name":"Cut'n Paste Inc",
     "wof:parent_id":85876349,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "scrapbook"
     ]
 },
-  "bbox": [-116.274312,43.635033,-116.274312,43.635033],
-  "geometry": {"coordinates":[-116.274312,43.635033],"type":"Point"}
+  "bbox": [
+    -116.274312,
+    43.635033,
+    -116.274312,
+    43.635033
+],
+  "geometry": {"coordinates":[-116.27431199999999,43.635033],"type":"Point"}
 }

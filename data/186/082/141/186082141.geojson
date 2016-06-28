@@ -2,13 +2,14 @@
   "id": 186082141,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.558827,43.577871,-116.558827,43.577871",
     "geom:latitude":43.577871,
     "geom:longitude":-116.558827,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"124 13th Ave S",
     "sg:city":"Nampa",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186082141,
-    "wof:lastmodified":1449050334,
+    "wof:lastmodified":1466487679,
     "wof:name":"Heart Prints",
     "wof:parent_id":85827787,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "shop"
     ]
 },
-  "bbox": [-116.558827,43.577871,-116.558827,43.577871],
-  "geometry": {"coordinates":[-116.558827,43.577871],"type":"Point"}
+  "bbox": [
+    -116.558827,
+    43.577871,
+    -116.558827,
+    43.577871
+],
+  "geometry": {"coordinates":[-116.55882699999999,43.577871],"type":"Point"}
 }

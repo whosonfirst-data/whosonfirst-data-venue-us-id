@@ -2,13 +2,14 @@
   "id": 186314153,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.56087,48.272006,-116.56087,48.272006",
     "geom:latitude":48.272006,
     "geom:longitude":-116.56087,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1041 Lake St",
     "sg:city":"Wallace",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":186314153,
-    "wof:lastmodified":1449052923,
+    "wof:lastmodified":1466488687,
     "wof:name":"Coeur Silver Valley Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "company"
     ]
 },
-  "bbox": [-116.56087,48.272006,-116.56087,48.272006],
-  "geometry": {"coordinates":[-116.56087,48.272006],"type":"Point"}
+  "bbox": [
+    -116.56087,
+    48.272006,
+    -116.56087,
+    48.272006
+],
+  "geometry": {"coordinates":[-116.56086999999999,48.272006],"type":"Point"}
 }

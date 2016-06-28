@@ -2,13 +2,14 @@
   "id": 186457955,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.780656,47.694784,-116.780656,47.694784",
     "geom:latitude":47.694784,
     "geom:longitude":-116.780656,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1918 N 4th St",
     "sg:city":"Coeur D Alene",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":186457955,
-    "wof:lastmodified":1449052171,
+    "wof:lastmodified":1466488868,
     "wof:name":"Advanced Pest Control Svc",
     "wof:parent_id":85821457,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-116.780656,47.694784,-116.780656,47.694784],
-  "geometry": {"coordinates":[-116.780656,47.694784],"type":"Point"}
+  "bbox": [
+    -116.780656,
+    47.694784,
+    -116.780656,
+    47.694784
+],
+  "geometry": {"coordinates":[-116.78065599999999,47.694784],"type":"Point"}
 }

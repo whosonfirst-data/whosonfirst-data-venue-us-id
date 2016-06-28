@@ -2,13 +2,14 @@
   "id": 320552183,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.77113,46.738233,-116.77113,46.738233",
     "geom:latitude":46.738233,
     "geom:longitude":-116.77113,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"511 S Main St Suite B",
     "sg:city":"Troy",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":320552183,
-    "wof:lastmodified":1449012826,
+    "wof:lastmodified":1466487065,
     "wof:name":"Troy Law Office",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -66,6 +68,11 @@
         "bankruptcy"
     ]
 },
-  "bbox": [-116.77113,46.738233,-116.77113,46.738233],
+  "bbox": [
+    -116.77113,
+    46.738233,
+    -116.77113,
+    46.738233
+],
   "geometry": {"coordinates":[-116.77113,46.738233],"type":"Point"}
 }

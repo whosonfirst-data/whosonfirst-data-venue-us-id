@@ -2,13 +2,14 @@
   "id": 186550637,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.430723,43.686332,-116.430723,43.686332",
     "geom:latitude":43.686332,
     "geom:longitude":-116.430723,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"756 S Moonbeam Way",
     "sg:city":"Eagle",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":186550637,
-    "wof:lastmodified":1449051834,
+    "wof:lastmodified":1466488894,
     "wof:name":"Eagle Landscape Contractors",
     "wof:parent_id":85876351,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-116.430723,43.686332,-116.430723,43.686332],
+  "bbox": [
+    -116.430723,
+    43.686332,
+    -116.430723,
+    43.686332
+],
   "geometry": {"coordinates":[-116.430723,43.686332],"type":"Point"}
 }

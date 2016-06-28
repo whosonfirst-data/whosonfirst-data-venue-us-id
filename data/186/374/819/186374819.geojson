@@ -2,13 +2,14 @@
   "id": 186374819,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.700153,43.137018,-115.700153,43.137018",
     "geom:latitude":43.137018,
     "geom:longitude":-115.700153,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"719 N Main St",
     "sg:city":"Meridian",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":186374819,
-    "wof:lastmodified":1449051535,
+    "wof:lastmodified":1466488840,
     "wof:name":"Accountserv Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "general"
     ]
 },
-  "bbox": [-115.700153,43.137018,-115.700153,43.137018],
+  "bbox": [
+    -115.700153,
+    43.137018,
+    -115.700153,
+    43.137018
+],
   "geometry": {"coordinates":[-115.700153,43.137018],"type":"Point"}
 }

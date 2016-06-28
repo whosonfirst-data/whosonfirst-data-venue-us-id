@@ -2,13 +2,14 @@
   "id": 186153029,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.403991,43.478598,-116.403991,43.478598",
     "geom:latitude":43.478598,
     "geom:longitude":-116.403991,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"706 E Old Mesquite St",
     "sg:city":"Kuna",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":186153029,
-    "wof:lastmodified":1449052219,
+    "wof:lastmodified":1466488314,
     "wof:name":"Fyo Group LLC",
     "wof:parent_id":85876331,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-116.403991,43.478598,-116.403991,43.478598],
+  "bbox": [
+    -116.403991,
+    43.478598,
+    -116.403991,
+    43.478598
+],
   "geometry": {"coordinates":[-116.403991,43.478598],"type":"Point"}
 }

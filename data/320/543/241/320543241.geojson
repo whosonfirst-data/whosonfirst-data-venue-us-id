@@ -2,13 +2,14 @@
   "id": 320543241,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.297085,43.590261,-116.297085,43.590261",
     "geom:latitude":43.590261,
     "geom:longitude":-116.297085,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9205 W Overland Rd",
     "sg:city":"Boise",
     "sg:classifiers":[
@@ -57,10 +58,11 @@
         }
     ],
     "wof:id":320543241,
-    "wof:lastmodified":1449011989,
+    "wof:lastmodified":1466486963,
     "wof:name":"Carolyn Boyce Cpa",
     "wof:parent_id":85876309,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -73,6 +75,11 @@
         "public"
     ]
 },
-  "bbox": [-116.297085,43.590261,-116.297085,43.590261],
+  "bbox": [
+    -116.297085,
+    43.590261,
+    -116.297085,
+    43.590261
+],
   "geometry": {"coordinates":[-116.297085,43.590261],"type":"Point"}
 }

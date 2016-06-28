@@ -2,13 +2,14 @@
   "id": 186507635,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.24553,43.635135,-116.24553,43.635135",
     "geom:latitude":43.635135,
     "geom:longitude":-116.24553,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"595 E 42nd St",
     "sg:city":"Boise",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":186507635,
-    "wof:lastmodified":1449051746,
+    "wof:lastmodified":1466488868,
     "wof:name":"DPI",
     "wof:parent_id":85876339,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "copying"
     ]
 },
-  "bbox": [-116.24553,43.635135,-116.24553,43.635135],
+  "bbox": [
+    -116.24553,
+    43.635135,
+    -116.24553,
+    43.635135
+],
   "geometry": {"coordinates":[-116.24553,43.635135],"type":"Point"}
 }

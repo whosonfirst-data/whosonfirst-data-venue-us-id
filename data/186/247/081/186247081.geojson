@@ -2,13 +2,14 @@
   "id": 186247081,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.460403,42.573856,-114.460403,42.573856",
     "geom:latitude":42.573856,
     "geom:longitude":-114.460403,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"637 Blue Lakes Blvd N",
     "sg:city":"Twin Falls",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":186247081,
-    "wof:lastmodified":1449051942,
+    "wof:lastmodified":1466488574,
     "wof:name":"Papa Kelsey's Pizza & Subs",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "pizza"
     ]
 },
-  "bbox": [-114.460403,42.573856,-114.460403,42.573856],
+  "bbox": [
+    -114.460403,
+    42.573856,
+    -114.460403,
+    42.573856
+],
   "geometry": {"coordinates":[-114.460403,42.573856],"type":"Point"}
 }

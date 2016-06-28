@@ -2,13 +2,14 @@
   "id": 169772289,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.122925,47.536219,-116.122925,47.536219",
     "geom:latitude":47.536219,
     "geom:longitude":-116.122925,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"116 W Idaho Ave",
     "sg:city":"Kellogg",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":169772289,
-    "wof:lastmodified":1449034153,
+    "wof:lastmodified":1466488524,
     "wof:name":"Edwards Community Living Svc",
     "wof:parent_id":85849049,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "welfare"
     ]
 },
-  "bbox": [-116.122925,47.536219,-116.122925,47.536219],
+  "bbox": [
+    -116.122925,
+    47.536219,
+    -116.122925,
+    47.536219
+],
   "geometry": {"coordinates":[-116.122925,47.536219],"type":"Point"}
 }

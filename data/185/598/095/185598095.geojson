@@ -2,13 +2,14 @@
   "id": 185598095,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.041007,43.493767,-112.041007,43.493767",
     "geom:latitude":43.493767,
     "geom:longitude":-112.041007,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"431 B St",
     "sg:city":"Idaho Falls",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":185598095,
-    "wof:lastmodified":1449006665,
+    "wof:lastmodified":1466487838,
     "wof:name":"Bodytek",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.041007,43.493767,-112.041007,43.493767],
-  "geometry": {"coordinates":[-112.041007,43.493767],"type":"Point"}
+  "bbox": [
+    -112.041007,
+    43.493767,
+    -112.041007,
+    43.493767
+],
+  "geometry": {"coordinates":[-112.04100699999999,43.493767],"type":"Point"}
 }

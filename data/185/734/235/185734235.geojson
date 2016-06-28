@@ -2,13 +2,14 @@
   "id": 185734235,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.206799,43.567987,-116.206799,43.567987",
     "geom:latitude":43.567987,
     "geom:longitude":-116.206799,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2049 Airport Way",
     "sg:city":"Boise",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":185734235,
-    "wof:lastmodified":1449008017,
+    "wof:lastmodified":1466487793,
     "wof:name":"N Wc Fire Support Svc",
     "wof:parent_id":85876337,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "dry"
     ]
 },
-  "bbox": [-116.206799,43.567987,-116.206799,43.567987],
+  "bbox": [
+    -116.206799,
+    43.567987,
+    -116.206799,
+    43.567987
+],
   "geometry": {"coordinates":[-116.206799,43.567987],"type":"Point"}
 }

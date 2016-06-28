@@ -2,13 +2,14 @@
   "id": 186475513,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.281254,43.576274,-116.281254,43.576274",
     "geom:latitude":43.576274,
     "geom:longitude":-116.281254,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8025 W Woodlark St",
     "sg:city":"Boise",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":186475513,
-    "wof:lastmodified":1449051491,
+    "wof:lastmodified":1466488901,
     "wof:name":"Decorative Concepts",
     "wof:parent_id":85876321,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "fireplace"
     ]
 },
-  "bbox": [-116.281254,43.576274,-116.281254,43.576274],
+  "bbox": [
+    -116.281254,
+    43.576274,
+    -116.281254,
+    43.576274
+],
   "geometry": {"coordinates":[-116.281254,43.576274],"type":"Point"}
 }

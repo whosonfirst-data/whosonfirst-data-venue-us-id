@@ -2,13 +2,14 @@
   "id": 186289619,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.548729,48.274042,-116.548729,48.274042",
     "geom:latitude":48.274042,
     "geom:longitude":-116.548729,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"101 N 2nd Ave",
     "sg:city":"Sandpoint",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":186289619,
-    "wof:lastmodified":1449052559,
+    "wof:lastmodified":1466488667,
     "wof:name":"North Idaho College",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "school"
     ]
 },
-  "bbox": [-116.548729,48.274042,-116.548729,48.274042],
-  "geometry": {"coordinates":[-116.548729,48.274042],"type":"Point"}
+  "bbox": [
+    -116.548729,
+    48.274042,
+    -116.548729,
+    48.274042
+],
+  "geometry": {"coordinates":[-116.54872899999999,48.274042],"type":"Point"}
 }

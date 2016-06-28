@@ -2,13 +2,14 @@
   "id": 186266499,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.3087,43.65171,-116.3087,43.65171",
     "geom:latitude":43.65171,
     "geom:longitude":-116.3087,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10110 S Springdale Ct",
     "sg:city":"Boise",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186266499,
-    "wof:lastmodified":1449050350,
+    "wof:lastmodified":1466488625,
     "wof:name":"Westmark Financial Svc",
     "wof:parent_id":85876357,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "real estate"
     ]
 },
-  "bbox": [-116.3087,43.65171,-116.3087,43.65171],
+  "bbox": [
+    -116.3087,
+    43.65171,
+    -116.3087,
+    43.65171
+],
   "geometry": {"coordinates":[-116.3087,43.65171],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186212053,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.370444,43.683677,-114.370444,43.683677",
     "geom:latitude":43.683677,
     "geom:longitude":-114.370444,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"491 10th St",
     "sg:city":"Ketchum",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":186212053,
-    "wof:lastmodified":1449052109,
+    "wof:lastmodified":1466488610,
     "wof:name":"Legacy Antiques & Imports",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "antique"
     ]
 },
-  "bbox": [-114.370444,43.683677,-114.370444,43.683677],
-  "geometry": {"coordinates":[-114.370444,43.683677],"type":"Point"}
+  "bbox": [
+    -114.370444,
+    43.683677,
+    -114.370444,
+    43.683677
+],
+  "geometry": {"coordinates":[-114.37044400000001,43.683677],"type":"Point"}
 }

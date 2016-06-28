@@ -2,13 +2,14 @@
   "id": 185836429,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.550288,48.274038,-116.550288,48.274038",
     "geom:latitude":48.274038,
     "geom:longitude":-116.550288,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"201 Church St",
     "sg:city":"Sandpoint",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":185836429,
-    "wof:lastmodified":1449007667,
+    "wof:lastmodified":1466488418,
     "wof:name":"Ink Well",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "printer"
     ]
 },
-  "bbox": [-116.550288,48.274038,-116.550288,48.274038],
-  "geometry": {"coordinates":[-116.550288,48.274038],"type":"Point"}
+  "bbox": [
+    -116.550288,
+    48.274038,
+    -116.550288,
+    48.274038
+],
+  "geometry": {"coordinates":[-116.55028799999999,48.274038],"type":"Point"}
 }

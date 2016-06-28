@@ -2,13 +2,14 @@
   "id": 186202489,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.837663,43.823942,-115.837663,43.823942",
     "geom:latitude":43.823942,
     "geom:longitude":-115.837663,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"103 Gold Rd",
     "sg:city":"Idaho City",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":186202489,
-    "wof:lastmodified":1449052666,
+    "wof:lastmodified":1466488502,
     "wof:name":"Pioneer Mobile Hm Park & Spcs",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "home"
     ]
 },
-  "bbox": [-115.837663,43.823942,-115.837663,43.823942],
-  "geometry": {"coordinates":[-115.837663,43.823942],"type":"Point"}
+  "bbox": [
+    -115.837663,
+    43.823942,
+    -115.837663,
+    43.823942
+],
+  "geometry": {"coordinates":[-115.83766300000001,43.823942],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186357455,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.298585,43.633994,-116.298585,43.633994",
     "geom:latitude":43.633994,
     "geom:longitude":-116.298585,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9390 Ustick Rd",
     "sg:city":"Boise",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":186357455,
-    "wof:lastmodified":1449052689,
+    "wof:lastmodified":1466488753,
     "wof:name":"Affordable Homes",
     "wof:parent_id":85876357,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-116.298585,43.633994,-116.298585,43.633994],
+  "bbox": [
+    -116.298585,
+    43.633994,
+    -116.298585,
+    43.633994
+],
   "geometry": {"coordinates":[-116.298585,43.633994],"type":"Point"}
 }

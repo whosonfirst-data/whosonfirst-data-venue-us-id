@@ -2,13 +2,14 @@
   "id": 169718439,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.256166,43.654351,-116.256166,43.654351",
     "geom:latitude":43.654351,
     "geom:longitude":-116.256166,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5420 W State St",
     "sg:city":"Boise",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":169718439,
-    "wof:lastmodified":1449033396,
+    "wof:lastmodified":1466488179,
     "wof:name":"Gem State Gymnastics Academy",
     "wof:parent_id":85811879,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "gymnastic"
     ]
 },
-  "bbox": [-116.256166,43.654351,-116.256166,43.654351],
-  "geometry": {"coordinates":[-116.256166,43.654351],"type":"Point"}
+  "bbox": [
+    -116.256166,
+    43.654351,
+    -116.256166,
+    43.654351
+],
+  "geometry": {"coordinates":[-116.25616599999999,43.654351],"type":"Point"}
 }

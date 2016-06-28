@@ -2,13 +2,14 @@
   "id": 186559099,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.573329,43.510204,-116.573329,43.510204",
     "geom:latitude":43.510204,
     "geom:longitude":-116.573329,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9178 Lake Shore Dr",
     "sg:city":"Nampa",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186559099,
-    "wof:lastmodified":1449052416,
+    "wof:lastmodified":1466488895,
     "wof:name":"Pioneer Hi-Bred Intl Inc",
     "wof:parent_id":85827787,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "seed"
     ]
 },
-  "bbox": [-116.573329,43.510204,-116.573329,43.510204],
+  "bbox": [
+    -116.573329,
+    43.510204,
+    -116.573329,
+    43.510204
+],
   "geometry": {"coordinates":[-116.573329,43.510204],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 185953247,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.000694,43.470604,-112.000694,43.470604",
     "geom:latitude":43.470604,
     "geom:longitude":-112.000694,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1705 Delmar Dr",
     "sg:city":"Idaho Falls",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":185953247,
-    "wof:lastmodified":1449007697,
+    "wof:lastmodified":1466488598,
     "wof:name":"Teton Photo Works",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "laboratory"
     ]
 },
-  "bbox": [-112.000694,43.470604,-112.000694,43.470604],
+  "bbox": [
+    -112.000694,
+    43.470604,
+    -112.000694,
+    43.470604
+],
   "geometry": {"coordinates":[-112.000694,43.470604],"type":"Point"}
 }

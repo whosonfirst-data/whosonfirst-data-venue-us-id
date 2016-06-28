@@ -2,13 +2,14 @@
   "id": 169599845,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.341799,43.188553,-112.341799,43.188553",
     "geom:latitude":43.188553,
     "geom:longitude":-112.341799,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"163 N Shilling Ave",
     "sg:city":"Blackfoot",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":169599845,
-    "wof:lastmodified":1449034205,
+    "wof:lastmodified":1466488375,
     "wof:name":"Blacktie Limousine",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "limousine"
     ]
 },
-  "bbox": [-112.341799,43.188553,-112.341799,43.188553],
-  "geometry": {"coordinates":[-112.341799,43.188553],"type":"Point"}
+  "bbox": [
+    -112.341799,
+    43.188553,
+    -112.341799,
+    43.188553
+],
+  "geometry": {"coordinates":[-112.34179899999999,43.188553],"type":"Point"}
 }

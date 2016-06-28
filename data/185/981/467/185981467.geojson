@@ -2,13 +2,14 @@
   "id": 185981467,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.791661,47.692456,-116.791661,47.692456",
     "geom:latitude":47.692456,
     "geom:longitude":-116.791661,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1814 Lincoln Way",
     "sg:city":"Coeur D Alene",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":185981467,
-    "wof:lastmodified":1449008244,
+    "wof:lastmodified":1466488820,
     "wof:name":"Coeur D'Alene Ophthalmology Pa",
     "wof:parent_id":85821457,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "surgeon"
     ]
 },
-  "bbox": [-116.791661,47.692456,-116.791661,47.692456],
+  "bbox": [
+    -116.791661,
+    47.692456,
+    -116.791661,
+    47.692456
+],
   "geometry": {"coordinates":[-116.791661,47.692456],"type":"Point"}
 }

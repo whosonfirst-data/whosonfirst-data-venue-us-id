@@ -2,13 +2,14 @@
   "id": 186231469,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.255064,43.652287,-116.255064,43.652287",
     "geom:latitude":43.652287,
     "geom:longitude":-116.255064,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3000 N Lakeharbor Ln",
     "sg:city":"Boise",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":186231469,
-    "wof:lastmodified":1449051743,
+    "wof:lastmodified":1466488655,
     "wof:name":"M M Investments",
     "wof:parent_id":85811879,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-116.255064,43.652287,-116.255064,43.652287],
+  "bbox": [
+    -116.255064,
+    43.652287,
+    -116.255064,
+    43.652287
+],
   "geometry": {"coordinates":[-116.255064,43.652287],"type":"Point"}
 }

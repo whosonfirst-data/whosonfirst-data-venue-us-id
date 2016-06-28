@@ -2,13 +2,14 @@
   "id": 320538419,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.514349,43.722262,-116.514349,43.722262",
     "geom:latitude":43.722262,
     "geom:longitude":-116.514349,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6155 Windmill Rim Dr",
     "sg:city":"Star",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":320538419,
-    "wof:lastmodified":1449011720,
+    "wof:lastmodified":1466486865,
     "wof:name":"Packerbacker Bbq Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "barbecue"
     ]
 },
-  "bbox": [-116.514349,43.722262,-116.514349,43.722262],
+  "bbox": [
+    -116.514349,
+    43.722262,
+    -116.514349,
+    43.722262
+],
   "geometry": {"coordinates":[-116.514349,43.722262],"type":"Point"}
 }

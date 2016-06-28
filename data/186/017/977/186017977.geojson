@@ -2,13 +2,14 @@
   "id": 186017977,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.836588,47.755549,-116.836588,47.755549",
     "geom:latitude":47.755549,
     "geom:longitude":-116.836588,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3856 W Robison Ave",
     "sg:city":"Coeur D Alene",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":186017977,
-    "wof:lastmodified":1449051799,
+    "wof:lastmodified":1466486944,
     "wof:name":"Martin Brooks Building Contr",
     "wof:parent_id":85821457,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-116.836588,47.755549,-116.836588,47.755549],
-  "geometry": {"coordinates":[-116.836588,47.755549],"type":"Point"}
+  "bbox": [
+    -116.836588,
+    47.755549,
+    -116.836588,
+    47.755549
+],
+  "geometry": {"coordinates":[-116.83658800000001,47.755549],"type":"Point"}
 }

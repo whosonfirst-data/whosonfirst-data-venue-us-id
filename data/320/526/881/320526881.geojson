@@ -2,13 +2,14 @@
   "id": 320526881,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.987381,46.417648,-116.987381,46.417648",
     "geom:latitude":46.417648,
     "geom:longitude":-116.987381,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3200 E Main St",
     "sg:city":"Lewiston",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":320526881,
-    "wof:lastmodified":1449012415,
+    "wof:lastmodified":1466487396,
     "wof:name":"Lewiston Livestock Market Inc",
     "wof:parent_id":85837769,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-116.987381,46.417648,-116.987381,46.417648],
+  "bbox": [
+    -116.987381,
+    46.417648,
+    -116.987381,
+    46.417648
+],
   "geometry": {"coordinates":[-116.987381,46.417648],"type":"Point"}
 }

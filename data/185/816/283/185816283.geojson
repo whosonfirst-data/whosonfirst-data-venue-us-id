@@ -2,13 +2,14 @@
   "id": 185816283,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.705604,47.689781,-116.705604,47.689781",
     "geom:latitude":47.689781,
     "geom:longitude":-116.705604,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5851 E Sleepy Ln",
     "sg:city":"Coeur D Alene",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":185816283,
-    "wof:lastmodified":1449007548,
+    "wof:lastmodified":1466488400,
     "wof:name":"R & M Enterprises",
     "wof:parent_id":85821457,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "supply"
     ]
 },
-  "bbox": [-116.705604,47.689781,-116.705604,47.689781],
-  "geometry": {"coordinates":[-116.705604,47.689781],"type":"Point"}
+  "bbox": [
+    -116.705604,
+    47.689781,
+    -116.705604,
+    47.689781
+],
+  "geometry": {"coordinates":[-116.70560399999999,47.689781],"type":"Point"}
 }

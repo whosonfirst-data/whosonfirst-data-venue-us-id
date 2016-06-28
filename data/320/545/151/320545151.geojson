@@ -2,13 +2,14 @@
   "id": 320545151,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.986437,46.746874,-116.986437,46.746874",
     "geom:latitude":46.746874,
     "geom:longitude":-116.986437,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1119 Highland Dr",
     "sg:city":"Moscow",
     "sg:classifiers":[
@@ -64,10 +65,11 @@
         }
     ],
     "wof:id":320545151,
-    "wof:lastmodified":1449012157,
+    "wof:lastmodified":1466486988,
     "wof:name":"Viaggio Medical Spa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -78,6 +80,11 @@
         "supply"
     ]
 },
-  "bbox": [-116.986437,46.746874,-116.986437,46.746874],
+  "bbox": [
+    -116.986437,
+    46.746874,
+    -116.986437,
+    46.746874
+],
   "geometry": {"coordinates":[-116.986437,46.746874],"type":"Point"}
 }

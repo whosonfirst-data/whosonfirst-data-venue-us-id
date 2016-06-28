@@ -2,13 +2,14 @@
   "id": 186232115,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.211172,43.61321,-116.211172,43.61321",
     "geom:latitude":43.61321,
     "geom:longitude":-116.211172,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"511 S 11th St",
     "sg:city":"Boise",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":186232115,
-    "wof:lastmodified":1449051251,
+    "wof:lastmodified":1466488654,
     "wof:name":"J T Sales Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "representative"
     ]
 },
-  "bbox": [-116.211172,43.61321,-116.211172,43.61321],
+  "bbox": [
+    -116.211172,
+    43.61321,
+    -116.211172,
+    43.61321
+],
   "geometry": {"coordinates":[-116.211172,43.61321],"type":"Point"}
 }

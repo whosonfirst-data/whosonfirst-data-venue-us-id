@@ -2,13 +2,14 @@
   "id": 169721119,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.062457,43.496712,-112.062457,43.496712",
     "geom:latitude":43.496712,
     "geom:longitude":-112.062457,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1585 W Broadway St",
     "sg:city":"Idaho Falls",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":169721119,
-    "wof:lastmodified":1449035960,
+    "wof:lastmodified":1466488201,
     "wof:name":"Shoe Box & Accessories Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.062457,43.496712,-112.062457,43.496712],
-  "geometry": {"coordinates":[-112.062457,43.496712],"type":"Point"}
+  "bbox": [
+    -112.062457,
+    43.496712,
+    -112.062457,
+    43.496712
+],
+  "geometry": {"coordinates":[-112.06245699999999,43.496712],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169636755,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.571813,43.591035,-116.571813,43.591035",
     "geom:latitude":43.591035,
     "geom:longitude":-116.571813,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"612 Nampa Blvd",
     "sg:city":"Nampa",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":169636755,
-    "wof:lastmodified":1449033987,
+    "wof:lastmodified":1466487386,
     "wof:name":"Paul's Pro Truck Wash",
     "wof:parent_id":85827787,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "cleaning"
     ]
 },
-  "bbox": [-116.571813,43.591035,-116.571813,43.591035],
-  "geometry": {"coordinates":[-116.571813,43.591035],"type":"Point"}
+  "bbox": [
+    -116.571813,
+    43.591035,
+    -116.571813,
+    43.591035
+],
+  "geometry": {"coordinates":[-116.57181300000001,43.591035],"type":"Point"}
 }

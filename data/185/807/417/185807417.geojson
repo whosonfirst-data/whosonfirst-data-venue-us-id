@@ -2,13 +2,14 @@
   "id": 185807417,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.205978,43.611205,-116.205978,43.611205",
     "geom:latitude":43.611205,
     "geom:longitude":-116.205978,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"500 S Capitol Blvd",
     "sg:city":"Boise",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":185807417,
-    "wof:lastmodified":1449007018,
+    "wof:lastmodified":1466488489,
     "wof:name":"Shorty's Diner",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-116.205978,43.611205,-116.205978,43.611205],
+  "bbox": [
+    -116.205978,
+    43.611205,
+    -116.205978,
+    43.611205
+],
   "geometry": {"coordinates":[-116.205978,43.611205],"type":"Point"}
 }

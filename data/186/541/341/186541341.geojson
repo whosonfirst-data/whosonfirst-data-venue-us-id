@@ -2,13 +2,14 @@
   "id": 186541341,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.436973,43.720982,-116.436973,43.720982",
     "geom:latitude":43.720982,
     "geom:longitude":-116.436973,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6477 W Beacon Light Rd",
     "sg:city":"Eagle",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186541341,
-    "wof:lastmodified":1449050546,
+    "wof:lastmodified":1466488882,
     "wof:name":"Idaho Feed Lot Co",
     "wof:parent_id":85876351,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "feeding"
     ]
 },
-  "bbox": [-116.436973,43.720982,-116.436973,43.720982],
-  "geometry": {"coordinates":[-116.436973,43.720982],"type":"Point"}
+  "bbox": [
+    -116.436973,
+    43.720982,
+    -116.436973,
+    43.720982
+],
+  "geometry": {"coordinates":[-116.43697299999999,43.720982],"type":"Point"}
 }

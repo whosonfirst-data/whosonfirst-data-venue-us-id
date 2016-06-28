@@ -2,13 +2,14 @@
   "id": 185613711,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-117.030605,46.732513,-117.030605,46.732513",
     "geom:latitude":46.732513,
     "geom:longitude":-117.030605,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2108 W Pullman Rd",
     "sg:city":"Moscow",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":185613711,
-    "wof:lastmodified":1449007363,
+    "wof:lastmodified":1466486867,
     "wof:name":"Vanity",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-117.030605,46.732513,-117.030605,46.732513],
-  "geometry": {"coordinates":[-117.030605,46.732513],"type":"Point"}
+  "bbox": [
+    -117.030605,
+    46.732513,
+    -117.030605,
+    46.732513
+],
+  "geometry": {"coordinates":[-117.03060499999999,46.732513],"type":"Point"}
 }

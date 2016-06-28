@@ -2,13 +2,14 @@
   "id": 320533429,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.369523,43.618179,-116.369523,43.618179",
     "geom:latitude":43.618179,
     "geom:longitude":-116.369523,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2049 E Wilson Ln",
     "sg:city":"Meridian",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":320533429,
-    "wof:lastmodified":1449011219,
+    "wof:lastmodified":1466488380,
     "wof:name":"Butte Fence Inc",
     "wof:parent_id":85811491,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "fence-sales"
     ]
 },
-  "bbox": [-116.369523,43.618179,-116.369523,43.618179],
+  "bbox": [
+    -116.369523,
+    43.618179,
+    -116.369523,
+    43.618179
+],
   "geometry": {"coordinates":[-116.369523,43.618179],"type":"Point"}
 }

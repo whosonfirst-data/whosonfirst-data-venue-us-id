@@ -2,13 +2,14 @@
   "id": 169610831,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.205688,43.641092,-116.205688,43.641092",
     "geom:latitude":43.641092,
     "geom:longitude":-116.205688,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2477 N 15th Ave",
     "sg:city":"Boise",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":169610831,
-    "wof:lastmodified":1449035911,
+    "wof:lastmodified":1466486973,
     "wof:name":"B A Y Consulting Group",
     "wof:parent_id":85876313,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "related"
     ]
 },
-  "bbox": [-116.205688,43.641092,-116.205688,43.641092],
-  "geometry": {"coordinates":[-116.205688,43.641092],"type":"Point"}
+  "bbox": [
+    -116.205688,
+    43.641092,
+    -116.205688,
+    43.641092
+],
+  "geometry": {"coordinates":[-116.20568799999999,43.641092],"type":"Point"}
 }

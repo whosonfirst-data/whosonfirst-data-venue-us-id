@@ -2,13 +2,14 @@
   "id": 186250801,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.540709,42.646715,-114.540709,42.646715",
     "geom:latitude":42.646715,
     "geom:longitude":-114.540709,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"547 Dee Dr",
     "sg:city":"Jerome",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":186250801,
-    "wof:lastmodified":1449051912,
+    "wof:lastmodified":1466488512,
     "wof:name":"Tav Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "drinking"
     ]
 },
-  "bbox": [-114.540709,42.646715,-114.540709,42.646715],
-  "geometry": {"coordinates":[-114.540709,42.646715],"type":"Point"}
+  "bbox": [
+    -114.540709,
+    42.646715,
+    -114.540709,
+    42.646715
+],
+  "geometry": {"coordinates":[-114.54070900000001,42.646715],"type":"Point"}
 }

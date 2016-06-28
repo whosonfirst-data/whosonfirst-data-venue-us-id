@@ -2,13 +2,14 @@
   "id": 185773483,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.265644,43.643904,-116.265644,43.643904",
     "geom:latitude":43.643904,
     "geom:longitude":-116.265644,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5019 N Sawyer Ave",
     "sg:city":"Boise",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":185773483,
-    "wof:lastmodified":1449006801,
+    "wof:lastmodified":1466488110,
     "wof:name":"Idaho Veterinary Specialists",
     "wof:parent_id":85876349,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "veterinarian"
     ]
 },
-  "bbox": [-116.265644,43.643904,-116.265644,43.643904],
-  "geometry": {"coordinates":[-116.265644,43.643904],"type":"Point"}
+  "bbox": [
+    -116.265644,
+    43.643904,
+    -116.265644,
+    43.643904
+],
+  "geometry": {"coordinates":[-116.26564399999999,43.643904],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 185842131,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.352347,43.192819,-112.352347,43.192819",
     "geom:latitude":43.192819,
     "geom:longitude":-112.352347,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"668 W Bridge St",
     "sg:city":"Blackfoot",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":185842131,
-    "wof:lastmodified":1449006726,
+    "wof:lastmodified":1466488358,
     "wof:name":"House Of Glass",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "plate"
     ]
 },
-  "bbox": [-112.352347,43.192819,-112.352347,43.192819],
-  "geometry": {"coordinates":[-112.352347,43.192819],"type":"Point"}
+  "bbox": [
+    -112.352347,
+    43.192819,
+    -112.352347,
+    43.192819
+],
+  "geometry": {"coordinates":[-112.35234699999999,43.192819],"type":"Point"}
 }

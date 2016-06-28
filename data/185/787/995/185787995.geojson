@@ -2,13 +2,14 @@
   "id": 185787995,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.797986,43.814004,-111.797986,43.814004",
     "geom:latitude":43.814004,
     "geom:longitude":-111.797986,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"577 S 5th W",
     "sg:city":"Rexburg",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":185787995,
-    "wof:lastmodified":1449007348,
+    "wof:lastmodified":1466488218,
     "wof:name":"Pew Publications",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "publishing"
     ]
 },
-  "bbox": [-111.797986,43.814004,-111.797986,43.814004],
-  "geometry": {"coordinates":[-111.797986,43.814004],"type":"Point"}
+  "bbox": [
+    -111.797986,
+    43.814004,
+    -111.797986,
+    43.814004
+],
+  "geometry": {"coordinates":[-111.79798599999999,43.814004],"type":"Point"}
 }

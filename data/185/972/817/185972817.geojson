@@ -2,13 +2,14 @@
   "id": 185972817,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.927014,47.475037,-116.927014,47.475037",
     "geom:latitude":47.475037,
     "geom:longitude":-116.927014,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"22270 S Four Echoes Rd",
     "sg:city":"Worley",
     "sg:classifiers":[
@@ -48,16 +49,22 @@
         }
     ],
     "wof:id":185972817,
-    "wof:lastmodified":1449007440,
+    "wof:lastmodified":1466488707,
     "wof:name":"Camp Four Echoes",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "camp"
     ]
 },
-  "bbox": [-116.927014,47.475037,-116.927014,47.475037],
+  "bbox": [
+    -116.927014,
+    47.475037,
+    -116.927014,
+    47.475037
+],
   "geometry": {"coordinates":[-116.927014,47.475037],"type":"Point"}
 }

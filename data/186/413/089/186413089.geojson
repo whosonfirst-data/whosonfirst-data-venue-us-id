@@ -2,13 +2,14 @@
   "id": 186413089,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.892782,46.915401,-116.892782,46.915401",
     "geom:latitude":46.915401,
     "geom:longitude":-116.892782,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1690 Rock Creek Rd",
     "sg:city":"Potlatch",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":186413089,
-    "wof:lastmodified":1449050811,
+    "wof:lastmodified":1466488852,
     "wof:name":"Schola Classical Tutorials",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "tutoring"
     ]
 },
-  "bbox": [-116.892782,46.915401,-116.892782,46.915401],
+  "bbox": [
+    -116.892782,
+    46.915401,
+    -116.892782,
+    46.915401
+],
   "geometry": {"coordinates":[-116.892782,46.915401],"type":"Point"}
 }

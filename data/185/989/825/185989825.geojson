@@ -2,13 +2,14 @@
   "id": 185989825,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-113.924676,45.552913,-113.924676,45.552913",
     "geom:latitude":45.552913,
     "geom:longitude":-113.924676,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"42 Gibbonsville Rd",
     "sg:city":"Gibbonsville",
     "sg:classifiers":[
@@ -48,16 +49,22 @@
         }
     ],
     "wof:id":185989825,
-    "wof:lastmodified":1449007768,
+    "wof:lastmodified":1466488833,
     "wof:name":"Keating Outfitter's",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "guide"
     ]
 },
-  "bbox": [-113.924676,45.552913,-113.924676,45.552913],
-  "geometry": {"coordinates":[-113.924676,45.552913],"type":"Point"}
+  "bbox": [
+    -113.924676,
+    45.552913,
+    -113.924676,
+    45.552913
+],
+  "geometry": {"coordinates":[-113.92467600000001,45.552913],"type":"Point"}
 }

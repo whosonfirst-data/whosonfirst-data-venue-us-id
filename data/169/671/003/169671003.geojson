@@ -2,13 +2,14 @@
   "id": 169671003,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.938696,46.366794,-116.938696,46.366794",
     "geom:latitude":46.366794,
     "geom:longitude":-116.938696,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3734 18th St",
     "sg:city":"Lewiston",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":169671003,
-    "wof:lastmodified":1449033454,
+    "wof:lastmodified":1466487892,
     "wof:name":"L S Contractors",
     "wof:parent_id":85837769,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-116.938696,46.366794,-116.938696,46.366794],
-  "geometry": {"coordinates":[-116.938696,46.366794],"type":"Point"}
+  "bbox": [
+    -116.938696,
+    46.366794,
+    -116.938696,
+    46.366794
+],
+  "geometry": {"coordinates":[-116.93869599999999,46.366794],"type":"Point"}
 }

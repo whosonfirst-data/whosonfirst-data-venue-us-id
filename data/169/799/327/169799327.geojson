@@ -2,13 +2,14 @@
   "id": 169799327,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.11902,47.538375,-116.11902,47.538375",
     "geom:latitude":47.538375,
     "geom:longitude":-116.11902,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"314 N Division St",
     "sg:city":"Kellogg",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":169799327,
-    "wof:lastmodified":1449035984,
+    "wof:lastmodified":1466488417,
     "wof:name":"Therm-A-Foam Insulation",
     "wof:parent_id":85849049,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "contractor"
     ]
 },
-  "bbox": [-116.11902,47.538375,-116.11902,47.538375],
-  "geometry": {"coordinates":[-116.11902,47.538375],"type":"Point"}
+  "bbox": [
+    -116.11902,
+    47.538375,
+    -116.11902,
+    47.538375
+],
+  "geometry": {"coordinates":[-116.11902000000001,47.538375],"type":"Point"}
 }

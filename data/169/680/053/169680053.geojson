@@ -2,13 +2,14 @@
   "id": 169680053,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.248441,43.601859,-116.248441,43.601859",
     "geom:latitude":43.601859,
     "geom:longitude":-116.248441,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"200 S Phillippi St",
     "sg:city":"Boise",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":169680053,
-    "wof:lastmodified":1449034997,
+    "wof:lastmodified":1466487963,
     "wof:name":"Matt Johnson Photography",
     "wof:parent_id":85806577,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "photographer"
     ]
 },
-  "bbox": [-116.248441,43.601859,-116.248441,43.601859],
+  "bbox": [
+    -116.248441,
+    43.601859,
+    -116.248441,
+    43.601859
+],
   "geometry": {"coordinates":[-116.248441,43.601859],"type":"Point"}
 }

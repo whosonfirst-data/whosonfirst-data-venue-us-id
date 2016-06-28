@@ -2,13 +2,14 @@
   "id": 185973271,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.569907,43.582884,-116.569907,43.582884",
     "geom:latitude":43.582884,
     "geom:longitude":-116.569907,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"424 3rd St S",
     "sg:city":"Nampa",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":185973271,
-    "wof:lastmodified":1449007576,
+    "wof:lastmodified":1466488794,
     "wof:name":"Artcraft Press & Reprographics",
     "wof:parent_id":85827787,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "blueprinting"
     ]
 },
-  "bbox": [-116.569907,43.582884,-116.569907,43.582884],
+  "bbox": [
+    -116.569907,
+    43.582884,
+    -116.569907,
+    43.582884
+],
   "geometry": {"coordinates":[-116.569907,43.582884],"type":"Point"}
 }

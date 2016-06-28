@@ -2,13 +2,14 @@
   "id": 185704381,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.017514,43.472792,-112.017514,43.472792",
     "geom:latitude":43.472792,
     "geom:longitude":-112.017514,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"800 Pescadero Pl",
     "sg:city":"Idaho Falls",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":185704381,
-    "wof:lastmodified":1449007026,
+    "wof:lastmodified":1466487559,
     "wof:name":"Advantage Promotions",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "t"
     ]
 },
-  "bbox": [-112.017514,43.472792,-112.017514,43.472792],
-  "geometry": {"coordinates":[-112.017514,43.472792],"type":"Point"}
+  "bbox": [
+    -112.017514,
+    43.472792,
+    -112.017514,
+    43.472792
+],
+  "geometry": {"coordinates":[-112.01751400000001,43.472792],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186191889,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.825904,47.704187,-116.825904,47.704187",
     "geom:latitude":47.704187,
     "geom:longitude":-116.825904,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2811 W Fairway Pl",
     "sg:city":"Coeur D Alene",
     "sg:classifiers":[
@@ -61,16 +62,22 @@
         }
     ],
     "wof:id":186191889,
-    "wof:lastmodified":1449051983,
+    "wof:lastmodified":1466488559,
     "wof:name":"Quiet Mountain Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "forester"
     ]
 },
-  "bbox": [-116.825904,47.704187,-116.825904,47.704187],
-  "geometry": {"coordinates":[-116.825904,47.704187],"type":"Point"}
+  "bbox": [
+    -116.825904,
+    47.704187,
+    -116.825904,
+    47.704187
+],
+  "geometry": {"coordinates":[-116.82590399999999,47.704187],"type":"Point"}
 }

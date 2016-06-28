@@ -2,13 +2,14 @@
   "id": 185729293,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.689184,43.676047,-116.689184,43.676047",
     "geom:latitude":43.676047,
     "geom:longitude":-116.689184,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"221 W Freeport St",
     "sg:city":"Caldwell",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":185729293,
-    "wof:lastmodified":1449007442,
+    "wof:lastmodified":1466487755,
     "wof:name":"MHL Furniture Liquidators",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "furniture"
     ]
 },
-  "bbox": [-116.689184,43.676047,-116.689184,43.676047],
+  "bbox": [
+    -116.689184,
+    43.676047,
+    -116.689184,
+    43.676047
+],
   "geometry": {"coordinates":[-116.689184,43.676047],"type":"Point"}
 }

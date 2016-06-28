@@ -2,13 +2,14 @@
   "id": 186276679,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.278746,43.646598,-116.278746,43.646598",
     "geom:latitude":43.646598,
     "geom:longitude":-116.278746,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4519 Mountain View Dr",
     "sg:city":"Boise",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186276679,
-    "wof:lastmodified":1449050371,
+    "wof:lastmodified":1466488644,
     "wof:name":"A Plus Quick N Clean",
     "wof:parent_id":85876349,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "janitor"
     ]
 },
-  "bbox": [-116.278746,43.646598,-116.278746,43.646598],
+  "bbox": [
+    -116.278746,
+    43.646598,
+    -116.278746,
+    43.646598
+],
   "geometry": {"coordinates":[-116.278746,43.646598],"type":"Point"}
 }

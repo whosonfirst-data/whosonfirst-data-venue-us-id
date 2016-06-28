@@ -2,13 +2,14 @@
   "id": 185625575,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-113.901646,45.172595,-113.901646,45.172595",
     "geom:latitude":45.172595,
     "geom:longitude":-113.901646,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"522 River St",
     "sg:city":"Salmon",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":185625575,
-    "wof:lastmodified":1449008239,
+    "wof:lastmodified":1466486957,
     "wof:name":"Dahles Red-E-Mix",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "concrete"
     ]
 },
-  "bbox": [-113.901646,45.172595,-113.901646,45.172595],
+  "bbox": [
+    -113.901646,
+    45.172595,
+    -113.901646,
+    45.172595
+],
   "geometry": {"coordinates":[-113.901646,45.172595],"type":"Point"}
 }

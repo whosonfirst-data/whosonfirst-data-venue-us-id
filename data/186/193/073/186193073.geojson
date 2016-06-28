@@ -2,13 +2,14 @@
   "id": 186193073,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.759568,47.736114,-116.759568,47.736114",
     "geom:latitude":47.736114,
     "geom:longitude":-116.759568,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7112 N 16th St",
     "sg:city":"Coeur D Alene",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":186193073,
-    "wof:lastmodified":1449050846,
+    "wof:lastmodified":1466488485,
     "wof:name":"Dennis G Ascher Painting",
     "wof:parent_id":85821457,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "contractor"
     ]
 },
-  "bbox": [-116.759568,47.736114,-116.759568,47.736114],
+  "bbox": [
+    -116.759568,
+    47.736114,
+    -116.759568,
+    47.736114
+],
   "geometry": {"coordinates":[-116.759568,47.736114],"type":"Point"}
 }

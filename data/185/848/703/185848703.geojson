@@ -2,13 +2,14 @@
   "id": 185848703,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.344307,43.694368,-116.344307,43.694368",
     "geom:latitude":43.694368,
     "geom:longitude":-116.344307,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"591 E State St",
     "sg:city":"Eagle",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":185848703,
-    "wof:lastmodified":1449006831,
+    "wof:lastmodified":1466488367,
     "wof:name":"Dental Center Of Eagle",
     "wof:parent_id":85876351,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "dentist"
     ]
 },
-  "bbox": [-116.344307,43.694368,-116.344307,43.694368],
+  "bbox": [
+    -116.344307,
+    43.694368,
+    -116.344307,
+    43.694368
+],
   "geometry": {"coordinates":[-116.344307,43.694368],"type":"Point"}
 }

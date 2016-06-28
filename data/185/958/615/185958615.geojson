@@ -2,13 +2,14 @@
   "id": 185958615,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.433737,42.557292,-114.433737,42.557292",
     "geom:latitude":42.557292,
     "geom:longitude":-114.433737,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"728 Cypress Way",
     "sg:city":"Twin Falls",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":185958615,
-    "wof:lastmodified":1449007880,
+    "wof:lastmodified":1466488689,
     "wof:name":"Susan Riddle Pcd",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "reporting"
     ]
 },
-  "bbox": [-114.433737,42.557292,-114.433737,42.557292],
-  "geometry": {"coordinates":[-114.433737,42.557292],"type":"Point"}
+  "bbox": [
+    -114.433737,
+    42.557292,
+    -114.433737,
+    42.557292
+],
+  "geometry": {"coordinates":[-114.43373699999999,42.557292],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169853025,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.282272,43.611459,-116.282272,43.611459",
     "geom:latitude":43.611459,
     "geom:longitude":-116.282272,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8030 Emerald St",
     "sg:city":"Boise",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":169853025,
-    "wof:lastmodified":1449034012,
+    "wof:lastmodified":1466488542,
     "wof:name":"Coventry Mortgage",
     "wof:parent_id":85841319,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "real estate"
     ]
 },
-  "bbox": [-116.282272,43.611459,-116.282272,43.611459],
-  "geometry": {"coordinates":[-116.282272,43.611459],"type":"Point"}
+  "bbox": [
+    -116.282272,
+    43.611459,
+    -116.282272,
+    43.611459
+],
+  "geometry": {"coordinates":[-116.28227200000001,43.611459],"type":"Point"}
 }

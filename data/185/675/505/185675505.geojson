@@ -2,13 +2,14 @@
   "id": 185675505,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.614073,42.56637,-114.614073,42.56637",
     "geom:latitude":42.56637,
     "geom:longitude":-114.614073,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"700 Stevens Ave",
     "sg:city":"Filer",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":185675505,
-    "wof:lastmodified":1449007456,
+    "wof:lastmodified":1466487331,
     "wof:name":"Filer School Superintendent",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-114.614073,42.56637,-114.614073,42.56637],
+  "bbox": [
+    -114.614073,
+    42.56637,
+    -114.614073,
+    42.56637
+],
   "geometry": {"coordinates":[-114.614073,42.56637],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186167445,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.530879,43.588134,-116.530879,43.588134",
     "geom:latitude":43.588134,
     "geom:longitude":-116.530879,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3116 Garrity Blvd",
     "sg:city":"Nampa",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186167445,
-    "wof:lastmodified":1449051764,
+    "wof:lastmodified":1466488418,
     "wof:name":"Botanica Y Novedades",
     "wof:parent_id":85827787,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "herb"
     ]
 },
-  "bbox": [-116.530879,43.588134,-116.530879,43.588134],
+  "bbox": [
+    -116.530879,
+    43.588134,
+    -116.530879,
+    43.588134
+],
   "geometry": {"coordinates":[-116.530879,43.588134],"type":"Point"}
 }

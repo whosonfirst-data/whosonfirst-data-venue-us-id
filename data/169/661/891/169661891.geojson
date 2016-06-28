@@ -2,13 +2,14 @@
   "id": 169661891,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.325483,43.488204,-116.325483,43.488204",
     "geom:latitude":43.488204,
     "geom:longitude":-116.325483,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"11621 Kuna Rd",
     "sg:city":"Kuna",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":169661891,
-    "wof:lastmodified":1449035597,
+    "wof:lastmodified":1466487766,
     "wof:name":"Winklers Equistrians",
     "wof:parent_id":85876331,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "mfg"
     ]
 },
-  "bbox": [-116.325483,43.488204,-116.325483,43.488204],
-  "geometry": {"coordinates":[-116.325483,43.488204],"type":"Point"}
+  "bbox": [
+    -116.325483,
+    43.488204,
+    -116.325483,
+    43.488204
+],
+  "geometry": {"coordinates":[-116.32548300000001,43.488204],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186364381,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.813292,47.816781,-116.813292,47.816781",
     "geom:latitude":47.816781,
     "geom:longitude":-116.813292,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"15950 N Knudson St",
     "sg:city":"Rathdrum",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":186364381,
-    "wof:lastmodified":1449051888,
+    "wof:lastmodified":1466488753,
     "wof:name":"Topline Expediters",
     "wof:parent_id":85821457,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "trucking"
     ]
 },
-  "bbox": [-116.813292,47.816781,-116.813292,47.816781],
+  "bbox": [
+    -116.813292,
+    47.816781,
+    -116.813292,
+    47.816781
+],
   "geometry": {"coordinates":[-116.813292,47.816781],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 185739163,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.206356,43.64427,-116.206356,43.64427",
     "geom:latitude":43.64427,
     "geom:longitude":-116.206356,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2501 Bogus Basin Rd",
     "sg:city":"Boise",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":185739163,
-    "wof:lastmodified":1449007286,
+    "wof:lastmodified":1466487834,
     "wof:name":"Tealey's Land Surveying",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "surveyor"
     ]
 },
-  "bbox": [-116.206356,43.64427,-116.206356,43.64427],
+  "bbox": [
+    -116.206356,
+    43.64427,
+    -116.206356,
+    43.64427
+],
   "geometry": {"coordinates":[-116.206356,43.64427],"type":"Point"}
 }

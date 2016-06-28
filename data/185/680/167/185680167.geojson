@@ -2,13 +2,14 @@
   "id": 185680167,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.243329,46.267266,-116.243329,46.267266",
     "geom:latitude":46.267266,
     "geom:longitude":-116.243329,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1979 Russell Ridge Rd",
     "sg:city":"Nezperce",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":185680167,
-    "wof:lastmodified":1449007724,
+    "wof:lastmodified":1466487367,
     "wof:name":"Schlader Farms",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-116.243329,46.267266,-116.243329,46.267266],
+  "bbox": [
+    -116.243329,
+    46.267266,
+    -116.243329,
+    46.267266
+],
   "geometry": {"coordinates":[-116.243329,46.267266],"type":"Point"}
 }

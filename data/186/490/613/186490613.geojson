@@ -2,13 +2,14 @@
   "id": 186490613,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.67581,43.64545,-116.67581,43.64545",
     "geom:latitude":43.64545,
     "geom:longitude":-116.67581,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1823 Poplar St",
     "sg:city":"Caldwell",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":186490613,
-    "wof:lastmodified":1449052747,
+    "wof:lastmodified":1466488908,
     "wof:name":"Caribou Design Services",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-116.67581,43.64545,-116.67581,43.64545],
+  "bbox": [
+    -116.67581,
+    43.64545,
+    -116.67581,
+    43.64545
+],
   "geometry": {"coordinates":[-116.67581,43.64545],"type":"Point"}
 }

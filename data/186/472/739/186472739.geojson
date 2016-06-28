@@ -2,13 +2,14 @@
   "id": 186472739,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.790974,47.759033,-116.790974,47.759033",
     "geom:latitude":47.759033,
     "geom:longitude":-116.790974,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"200 W Hayden Ave",
     "sg:city":"Hayden Lake",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":186472739,
-    "wof:lastmodified":1449050456,
+    "wof:lastmodified":1466488898,
     "wof:name":"Exxon Jifi Stop",
     "wof:parent_id":85821457,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "oil"
     ]
 },
-  "bbox": [-116.790974,47.759033,-116.790974,47.759033],
-  "geometry": {"coordinates":[-116.790974,47.759033],"type":"Point"}
+  "bbox": [
+    -116.790974,
+    47.759033,
+    -116.790974,
+    47.759033
+],
+  "geometry": {"coordinates":[-116.79097400000001,47.759033],"type":"Point"}
 }

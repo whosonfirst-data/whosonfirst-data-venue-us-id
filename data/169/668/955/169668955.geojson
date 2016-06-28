@@ -2,13 +2,14 @@
   "id": 169668955,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.68242,43.966791,-111.68242,43.966791",
     "geom:latitude":43.966791,
     "geom:longitude":-111.68242,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"12 N Bridge St",
     "sg:city":"St Anthony",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":169668955,
-    "wof:lastmodified":1449034989,
+    "wof:lastmodified":1466487864,
     "wof:name":"Charizma Full Svc Beauty Salon",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.68242,43.966791,-111.68242,43.966791],
-  "geometry": {"coordinates":[-111.68242,43.966791],"type":"Point"}
+  "bbox": [
+    -111.68242,
+    43.966791,
+    -111.68242,
+    43.966791
+],
+  "geometry": {"coordinates":[-111.68241999999999,43.966791],"type":"Point"}
 }

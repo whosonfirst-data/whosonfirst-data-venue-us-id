@@ -2,13 +2,14 @@
   "id": 185908565,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.271457,43.591243,-116.271457,43.591243",
     "geom:latitude":43.591243,
     "geom:longitude":-116.271457,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1408 Oaklawn Dr",
     "sg:city":"Boise",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":185908565,
-    "wof:lastmodified":1449007519,
+    "wof:lastmodified":1466488580,
     "wof:name":"7 H Cleaning",
     "wof:parent_id":85876293,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "janitor"
     ]
 },
-  "bbox": [-116.271457,43.591243,-116.271457,43.591243],
+  "bbox": [
+    -116.271457,
+    43.591243,
+    -116.271457,
+    43.591243
+],
   "geometry": {"coordinates":[-116.271457,43.591243],"type":"Point"}
 }

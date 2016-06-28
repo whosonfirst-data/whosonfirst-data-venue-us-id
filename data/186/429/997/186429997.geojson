@@ -2,13 +2,14 @@
   "id": 186429997,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.932499,43.618722,-116.932499,43.618722",
     "geom:latitude":43.618722,
     "geom:longitude":-116.932499,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"101 E Owyhee Ave",
     "sg:city":"Homedale",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":186429997,
-    "wof:lastmodified":1449052895,
+    "wof:lastmodified":1466488810,
     "wof:name":"St Hubert's Catholic Church",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-116.932499,43.618722,-116.932499,43.618722],
-  "geometry": {"coordinates":[-116.932499,43.618722],"type":"Point"}
+  "bbox": [
+    -116.932499,
+    43.618722,
+    -116.932499,
+    43.618722
+],
+  "geometry": {"coordinates":[-116.93249900000001,43.618722],"type":"Point"}
 }

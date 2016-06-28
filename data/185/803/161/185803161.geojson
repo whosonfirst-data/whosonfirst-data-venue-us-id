@@ -2,13 +2,14 @@
   "id": 185803161,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.105265,44.893446,-116.105265,44.893446",
     "geom:latitude":44.893446,
     "geom:longitude":-116.105265,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"401 Mission St",
     "sg:city":"Mccall",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":185803161,
-    "wof:lastmodified":1449008226,
+    "wof:lastmodified":1466488381,
     "wof:name":"Dove Touch Auto Detail",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "washing"
     ]
 },
-  "bbox": [-116.105265,44.893446,-116.105265,44.893446],
+  "bbox": [
+    -116.105265,
+    44.893446,
+    -116.105265,
+    44.893446
+],
   "geometry": {"coordinates":[-116.105265,44.893446],"type":"Point"}
 }

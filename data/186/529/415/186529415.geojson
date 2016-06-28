@@ -2,13 +2,14 @@
   "id": 186529415,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.923393,44.025478,-116.923393,44.025478",
     "geom:latitude":44.025478,
     "geom:longitude":-116.923393,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1600 N Whitley Dr",
     "sg:city":"Fruitland",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":186529415,
-    "wof:lastmodified":1449051548,
+    "wof:lastmodified":1466488872,
     "wof:name":"Primary Health Fruitland",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "surgeon"
     ]
 },
-  "bbox": [-116.923393,44.025478,-116.923393,44.025478],
+  "bbox": [
+    -116.923393,
+    44.025478,
+    -116.923393,
+    44.025478
+],
   "geometry": {"coordinates":[-116.923393,44.025478],"type":"Point"}
 }

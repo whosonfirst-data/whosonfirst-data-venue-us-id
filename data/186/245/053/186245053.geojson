@@ -2,13 +2,14 @@
   "id": 186245053,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.286161,43.581664,-116.286161,43.581664",
     "geom:latitude":43.581664,
     "geom:longitude":-116.286161,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2436 Skillern Dr",
     "sg:city":"Boise",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186245053,
-    "wof:lastmodified":1449052946,
+    "wof:lastmodified":1466488671,
     "wof:name":"Lamoyne Byington",
     "wof:parent_id":85876321,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "trucking"
     ]
 },
-  "bbox": [-116.286161,43.581664,-116.286161,43.581664],
-  "geometry": {"coordinates":[-116.286161,43.581664],"type":"Point"}
+  "bbox": [
+    -116.286161,
+    43.581664,
+    -116.286161,
+    43.581664
+],
+  "geometry": {"coordinates":[-116.28616100000001,43.581664],"type":"Point"}
 }

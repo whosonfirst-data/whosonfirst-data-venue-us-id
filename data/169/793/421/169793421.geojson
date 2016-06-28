@@ -2,13 +2,14 @@
   "id": 169793421,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.047265,43.475554,-112.047265,43.475554",
     "geom:latitude":43.475554,
     "geom:longitude":-112.047265,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"645 W 25th St",
     "sg:city":"Idaho Falls",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":169793421,
-    "wof:lastmodified":1449034507,
+    "wof:lastmodified":1466488391,
     "wof:name":"R W Utterbeck Construction",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "builder"
     ]
 },
-  "bbox": [-112.047265,43.475554,-112.047265,43.475554],
+  "bbox": [
+    -112.047265,
+    43.475554,
+    -112.047265,
+    43.475554
+],
   "geometry": {"coordinates":[-112.047265,43.475554],"type":"Point"}
 }

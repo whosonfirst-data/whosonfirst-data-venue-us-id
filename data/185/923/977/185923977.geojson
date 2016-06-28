@@ -2,13 +2,14 @@
   "id": 185923977,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.815017,47.808223,-116.815017,47.808223",
     "geom:latitude":47.808223,
     "geom:longitude":-116.815017,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2237 W Oconnell Ave",
     "sg:city":"Coeur D Alene",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":185923977,
-    "wof:lastmodified":1449008139,
+    "wof:lastmodified":1466488520,
     "wof:name":"Rick's Tree Svc",
     "wof:parent_id":85821457,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "tree"
     ]
 },
-  "bbox": [-116.815017,47.808223,-116.815017,47.808223],
+  "bbox": [
+    -116.815017,
+    47.808223,
+    -116.815017,
+    47.808223
+],
   "geometry": {"coordinates":[-116.815017,47.808223],"type":"Point"}
 }

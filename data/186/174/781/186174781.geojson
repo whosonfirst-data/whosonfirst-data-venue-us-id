@@ -2,13 +2,14 @@
   "id": 186174781,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.318188,43.642557,-116.318188,43.642557",
     "geom:latitude":43.642557,
     "geom:longitude":-116.318188,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10975 W Wildrose Ct",
     "sg:city":"Boise",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186174781,
-    "wof:lastmodified":1449050698,
+    "wof:lastmodified":1466488356,
     "wof:name":"Business Design Ctr",
     "wof:parent_id":85876357,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "designer"
     ]
 },
-  "bbox": [-116.318188,43.642557,-116.318188,43.642557],
-  "geometry": {"coordinates":[-116.318188,43.642557],"type":"Point"}
+  "bbox": [
+    -116.318188,
+    43.642557,
+    -116.318188,
+    43.642557
+],
+  "geometry": {"coordinates":[-116.31818800000001,43.642557],"type":"Point"}
 }

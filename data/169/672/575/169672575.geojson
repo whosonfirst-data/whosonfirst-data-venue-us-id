@@ -2,13 +2,14 @@
   "id": 169672575,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.346216,43.186264,-112.346216,43.186264",
     "geom:latitude":43.186264,
     "geom:longitude":-112.346216,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"280 SE Main St",
     "sg:city":"Blackfoot",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":169672575,
-    "wof:lastmodified":1449032888,
+    "wof:lastmodified":1466487914,
     "wof:name":"Dianes Hair Design",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "shop"
     ]
 },
-  "bbox": [-112.346216,43.186264,-112.346216,43.186264],
+  "bbox": [
+    -112.346216,
+    43.186264,
+    -112.346216,
+    43.186264
+],
   "geometry": {"coordinates":[-112.346216,43.186264],"type":"Point"}
 }

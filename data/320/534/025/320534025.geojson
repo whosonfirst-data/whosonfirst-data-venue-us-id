@@ -2,13 +2,14 @@
   "id": 320534025,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.392202,43.612836,-116.392202,43.612836",
     "geom:latitude":43.612836,
     "geom:longitude":-116.392202,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"66 E State Ave",
     "sg:city":"Meridian",
     "sg:classifiers":[
@@ -61,16 +62,22 @@
         }
     ],
     "wof:id":320534025,
-    "wof:lastmodified":1449012237,
+    "wof:lastmodified":1466488388,
     "wof:name":"Jackson's Food",
     "wof:parent_id":85805083,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "product"
     ]
 },
-  "bbox": [-116.392202,43.612836,-116.392202,43.612836],
+  "bbox": [
+    -116.392202,
+    43.612836,
+    -116.392202,
+    43.612836
+],
   "geometry": {"coordinates":[-116.392202,43.612836],"type":"Point"}
 }

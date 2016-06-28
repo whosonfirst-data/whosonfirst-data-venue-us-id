@@ -2,13 +2,14 @@
   "id": 185804411,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.57377,43.583203,-116.57377,43.583203",
     "geom:latitude":43.583203,
     "geom:longitude":-116.57377,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"105 Smith Ave",
     "sg:city":"Nampa",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":185804411,
-    "wof:lastmodified":1449007708,
+    "wof:lastmodified":1466488485,
     "wof:name":"Accent Lighting Design",
     "wof:parent_id":85827787,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-116.57377,43.583203,-116.57377,43.583203],
+  "bbox": [
+    -116.57377,
+    43.583203,
+    -116.57377,
+    43.583203
+],
   "geometry": {"coordinates":[-116.57377,43.583203],"type":"Point"}
 }

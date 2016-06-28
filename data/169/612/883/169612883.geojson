@@ -2,13 +2,14 @@
   "id": 169612883,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.410238,43.495307,-116.410238,43.495307",
     "geom:latitude":43.495307,
     "geom:longitude":-116.410238,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"363 E Boise St",
     "sg:city":"Kuna",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":169612883,
-    "wof:lastmodified":1449034132,
+    "wof:lastmodified":1466487004,
     "wof:name":"Box T Ranch",
     "wof:parent_id":85876331,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "general"
     ]
 },
-  "bbox": [-116.410238,43.495307,-116.410238,43.495307],
-  "geometry": {"coordinates":[-116.410238,43.495307],"type":"Point"}
+  "bbox": [
+    -116.410238,
+    43.495307,
+    -116.410238,
+    43.495307
+],
+  "geometry": {"coordinates":[-116.41023800000001,43.495307],"type":"Point"}
 }

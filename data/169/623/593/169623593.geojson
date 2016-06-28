@@ -2,13 +2,14 @@
   "id": 169623593,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.601099,43.558982,-116.601099,43.558982",
     "geom:latitude":43.558982,
     "geom:longitude":-116.601099,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1118 S Camas St",
     "sg:city":"Nampa",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":169623593,
-    "wof:lastmodified":1449035000,
+    "wof:lastmodified":1466487178,
     "wof:name":"Imagine Custom Design",
     "wof:parent_id":85827787,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "decorator"
     ]
 },
-  "bbox": [-116.601099,43.558982,-116.601099,43.558982],
+  "bbox": [
+    -116.601099,
+    43.558982,
+    -116.601099,
+    43.558982
+],
   "geometry": {"coordinates":[-116.601099,43.558982],"type":"Point"}
 }

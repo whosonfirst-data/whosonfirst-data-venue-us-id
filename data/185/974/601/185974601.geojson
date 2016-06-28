@@ -2,13 +2,14 @@
   "id": 185974601,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.339487,43.496481,-116.339487,43.496481",
     "geom:latitude":43.496481,
     "geom:longitude":-116.339487,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"889 Cow Horse Dr",
     "sg:city":"Kuna",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":185974601,
-    "wof:lastmodified":1449008010,
+    "wof:lastmodified":1466488635,
     "wof:name":"Lasting Imprints",
     "wof:parent_id":85876331,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "embossing"
     ]
 },
-  "bbox": [-116.339487,43.496481,-116.339487,43.496481],
-  "geometry": {"coordinates":[-116.339487,43.496481],"type":"Point"}
+  "bbox": [
+    -116.339487,
+    43.496481,
+    -116.339487,
+    43.496481
+],
+  "geometry": {"coordinates":[-116.33948700000001,43.496481],"type":"Point"}
 }

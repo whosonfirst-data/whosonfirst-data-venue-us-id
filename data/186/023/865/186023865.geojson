@@ -2,13 +2,14 @@
   "id": 186023865,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.982362,44.12851,-115.982362,44.12851",
     "geom:latitude":44.12851,
     "geom:longitude":-115.982362,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"26 Livingston Ct",
     "sg:city":"Garden Valley",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":186023865,
-    "wof:lastmodified":1449052757,
+    "wof:lastmodified":1466487007,
     "wof:name":"P R Boys Construction",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "contractor"
     ]
 },
-  "bbox": [-115.982362,44.12851,-115.982362,44.12851],
-  "geometry": {"coordinates":[-115.982362,44.12851],"type":"Point"}
+  "bbox": [
+    -115.982362,
+    44.12851,
+    -115.982362,
+    44.12851
+],
+  "geometry": {"coordinates":[-115.98236199999999,44.12851],"type":"Point"}
 }

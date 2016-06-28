@@ -2,13 +2,14 @@
   "id": 186459335,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.942796,43.78478,-116.942796,43.78478",
     "geom:latitude":43.78478,
     "geom:longitude":-116.942796,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"106 N 4th St",
     "sg:city":"Parma",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":186459335,
-    "wof:lastmodified":1449051465,
+    "wof:lastmodified":1466488832,
     "wof:name":"Parma Lumber & Transfer Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "lumber"
     ]
 },
-  "bbox": [-116.942796,43.78478,-116.942796,43.78478],
+  "bbox": [
+    -116.942796,
+    43.78478,
+    -116.942796,
+    43.78478
+],
   "geometry": {"coordinates":[-116.942796,43.78478],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 185790347,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.023683,43.468114,-112.023683,43.468114",
     "geom:latitude":43.468114,
     "geom:longitude":-112.023683,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3315 S Holmes Ave",
     "sg:city":"Idaho Falls",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":185790347,
-    "wof:lastmodified":1449007858,
+    "wof:lastmodified":1466488237,
     "wof:name":"Taylorview Dental",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "dentist"
     ]
 },
-  "bbox": [-112.023683,43.468114,-112.023683,43.468114],
-  "geometry": {"coordinates":[-112.023683,43.468114],"type":"Point"}
+  "bbox": [
+    -112.023683,
+    43.468114,
+    -112.023683,
+    43.468114
+],
+  "geometry": {"coordinates":[-112.02368300000001,43.468114],"type":"Point"}
 }

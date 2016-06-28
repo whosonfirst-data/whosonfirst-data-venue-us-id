@@ -2,13 +2,14 @@
   "id": 186149983,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.119964,45.925782,-116.119964,45.925782",
     "geom:latitude":45.925782,
     "geom:longitude":-116.119964,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"101 E Main St",
     "sg:city":"Grangeville",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":186149983,
-    "wof:lastmodified":1449050262,
+    "wof:lastmodified":1466488306,
     "wof:name":"Oscar's Restaurant",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-116.119964,45.925782,-116.119964,45.925782],
+  "bbox": [
+    -116.119964,
+    45.925782,
+    -116.119964,
+    45.925782
+],
   "geometry": {"coordinates":[-116.119964,45.925782],"type":"Point"}
 }

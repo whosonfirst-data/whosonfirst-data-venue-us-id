@@ -2,13 +2,14 @@
   "id": 186217863,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.011015,43.514066,-112.011015,43.514066",
     "geom:latitude":43.514066,
     "geom:longitude":-112.011015,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1953 N Yellowstone Hwy",
     "sg:city":"Idaho Falls",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":186217863,
-    "wof:lastmodified":1449052871,
+    "wof:lastmodified":1466488454,
     "wof:name":"Ashley Furniture Homestore",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.011015,43.514066,-112.011015,43.514066],
+  "bbox": [
+    -112.011015,
+    43.514066,
+    -112.011015,
+    43.514066
+],
   "geometry": {"coordinates":[-112.011015,43.514066],"type":"Point"}
 }

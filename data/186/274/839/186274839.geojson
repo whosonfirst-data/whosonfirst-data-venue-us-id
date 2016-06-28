@@ -2,13 +2,14 @@
   "id": 186274839,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.384242,43.619345,-116.384242,43.619345",
     "geom:latitude":43.619345,
     "geom:longitude":-116.384242,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"835 E Fairview Ave",
     "sg:city":"Meridian",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186274839,
-    "wof:lastmodified":1449050593,
+    "wof:lastmodified":1466488639,
     "wof:name":"Ultra Touch Car Wash",
     "wof:parent_id":85811491,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "washing"
     ]
 },
-  "bbox": [-116.384242,43.619345,-116.384242,43.619345],
+  "bbox": [
+    -116.384242,
+    43.619345,
+    -116.384242,
+    43.619345
+],
   "geometry": {"coordinates":[-116.384242,43.619345],"type":"Point"}
 }

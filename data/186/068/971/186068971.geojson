@@ -2,13 +2,14 @@
   "id": 186068971,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.193326,43.623877,-116.193326,43.623877",
     "geom:latitude":43.623877,
     "geom:longitude":-116.193326,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"439 Thatcher St",
     "sg:city":"Boise",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":186068971,
-    "wof:lastmodified":1449051751,
+    "wof:lastmodified":1466487530,
     "wof:name":"Doodle Books",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "designer"
     ]
 },
-  "bbox": [-116.193326,43.623877,-116.193326,43.623877],
+  "bbox": [
+    -116.193326,
+    43.623877,
+    -116.193326,
+    43.623877
+],
   "geometry": {"coordinates":[-116.193326,43.623877],"type":"Point"}
 }

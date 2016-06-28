@@ -2,13 +2,14 @@
   "id": 185927617,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.954581,46.367431,-116.954581,46.367431",
     "geom:latitude":46.367431,
     "geom:longitude":-116.954581,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3731 15th St",
     "sg:city":"Lewiston",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":185927617,
-    "wof:lastmodified":1449008051,
+    "wof:lastmodified":1466488622,
     "wof:name":"Western Forest Systems Inc",
     "wof:parent_id":85837769,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "forester"
     ]
 },
-  "bbox": [-116.954581,46.367431,-116.954581,46.367431],
+  "bbox": [
+    -116.954581,
+    46.367431,
+    -116.954581,
+    46.367431
+],
   "geometry": {"coordinates":[-116.954581,46.367431],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 185678729,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.949153,43.633742,-116.949153,43.633742",
     "geom:latitude":43.633742,
     "geom:longitude":-116.949153,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"27792 Ustick Rd",
     "sg:city":"Wilder",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":185678729,
-    "wof:lastmodified":1449007402,
+    "wof:lastmodified":1466487357,
     "wof:name":"Gary Deshazer",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "cattle"
     ]
 },
-  "bbox": [-116.949153,43.633742,-116.949153,43.633742],
+  "bbox": [
+    -116.949153,
+    43.633742,
+    -116.949153,
+    43.633742
+],
   "geometry": {"coordinates":[-116.949153,43.633742],"type":"Point"}
 }

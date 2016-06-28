@@ -2,13 +2,14 @@
   "id": 185737489,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.153043,43.582964,-116.153043,43.582964",
     "geom:latitude":43.582964,
     "geom:longitude":-116.153043,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2843 Star Cir",
     "sg:city":"Boise",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":185737489,
-    "wof:lastmodified":1449006979,
+    "wof:lastmodified":1466487819,
     "wof:name":"J H Wise & Son Inc",
     "wof:parent_id":85876347,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-116.153043,43.582964,-116.153043,43.582964],
+  "bbox": [
+    -116.153043,
+    43.582964,
+    -116.153043,
+    43.582964
+],
   "geometry": {"coordinates":[-116.153043,43.582964],"type":"Point"}
 }

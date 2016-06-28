@@ -2,13 +2,14 @@
   "id": 169779253,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.249371,43.467712,-114.249371,43.467712",
     "geom:latitude":43.467712,
     "geom:longitude":-114.249371,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"210 Ridgeview",
     "sg:city":"Bellevue",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":169779253,
-    "wof:lastmodified":1449033198,
+    "wof:lastmodified":1466488541,
     "wof:name":"Tami Saleen Mpt",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-114.249371,43.467712,-114.249371,43.467712],
+  "bbox": [
+    -114.249371,
+    43.467712,
+    -114.249371,
+    43.467712
+],
   "geometry": {"coordinates":[-114.249371,43.467712],"type":"Point"}
 }

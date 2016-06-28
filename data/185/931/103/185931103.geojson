@@ -2,13 +2,14 @@
   "id": 185931103,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.925237,47.471529,-115.925237,47.471529",
     "geom:latitude":47.471529,
     "geom:longitude":-115.925237,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"520 Bank St",
     "sg:city":"Wallace",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":185931103,
-    "wof:lastmodified":1449008073,
+    "wof:lastmodified":1466488697,
     "wof:name":"Cam's Vintage Ladies Apparel",
     "wof:parent_id":85849049,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "antique"
     ]
 },
-  "bbox": [-115.925237,47.471529,-115.925237,47.471529],
+  "bbox": [
+    -115.925237,
+    47.471529,
+    -115.925237,
+    47.471529
+],
   "geometry": {"coordinates":[-115.925237,47.471529],"type":"Point"}
 }

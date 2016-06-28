@@ -2,13 +2,14 @@
   "id": 185697347,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-113.304527,43.633531,-113.304527,43.633531",
     "geom:latitude":43.633531,
     "geom:longitude":-113.304527,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"443 W Grand Ave",
     "sg:city":"Arco",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":185697347,
-    "wof:lastmodified":1449007615,
+    "wof:lastmodified":1466487501,
     "wof:name":"High Country Mortgage",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "real estate"
     ]
 },
-  "bbox": [-113.304527,43.633531,-113.304527,43.633531],
-  "geometry": {"coordinates":[-113.304527,43.633531],"type":"Point"}
+  "bbox": [
+    -113.304527,
+    43.633531,
+    -113.304527,
+    43.633531
+],
+  "geometry": {"coordinates":[-113.30452699999999,43.633531],"type":"Point"}
 }

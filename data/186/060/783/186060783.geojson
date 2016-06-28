@@ -2,13 +2,14 @@
   "id": 186060783,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.560715,43.577954,-116.560715,43.577954",
     "geom:latitude":43.577954,
     "geom:longitude":-116.560715,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"208 12th Ave S",
     "sg:city":"Nampa",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186060783,
-    "wof:lastmodified":1449052776,
+    "wof:lastmodified":1466487436,
     "wof:name":"Downtown Skate Shop",
     "wof:parent_id":85827787,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "skateboard"
     ]
 },
-  "bbox": [-116.560715,43.577954,-116.560715,43.577954],
+  "bbox": [
+    -116.560715,
+    43.577954,
+    -116.560715,
+    43.577954
+],
   "geometry": {"coordinates":[-116.560715,43.577954],"type":"Point"}
 }

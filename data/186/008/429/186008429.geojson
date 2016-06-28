@@ -2,13 +2,14 @@
   "id": 186008429,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.782562,47.762702,-116.782562,47.762702",
     "geom:latitude":47.762702,
     "geom:longitude":-116.782562,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"275 E Dakota Ave",
     "sg:city":"Hayden",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":186008429,
-    "wof:lastmodified":1449051225,
+    "wof:lastmodified":1466486837,
     "wof:name":"Gary Weber Logging",
     "wof:parent_id":85821457,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "logging"
     ]
 },
-  "bbox": [-116.782562,47.762702,-116.782562,47.762702],
+  "bbox": [
+    -116.782562,
+    47.762702,
+    -116.782562,
+    47.762702
+],
   "geometry": {"coordinates":[-116.782562,47.762702],"type":"Point"}
 }

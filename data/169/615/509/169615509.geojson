@@ -2,13 +2,14 @@
   "id": 169615509,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-117.001983,46.41314,-117.001983,46.41314",
     "geom:latitude":46.41314,
     "geom:longitude":-117.001983,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"730 21st St",
     "sg:city":"Lewiston",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":169615509,
-    "wof:lastmodified":1449033732,
+    "wof:lastmodified":1466487046,
     "wof:name":"FMC Lewiston",
     "wof:parent_id":85837769,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "surgeon"
     ]
 },
-  "bbox": [-117.001983,46.41314,-117.001983,46.41314],
+  "bbox": [
+    -117.001983,
+    46.41314,
+    -117.001983,
+    46.41314
+],
   "geometry": {"coordinates":[-117.001983,46.41314],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186477371,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.285186,43.640492,-116.285186,43.640492",
     "geom:latitude":43.640492,
     "geom:longitude":-116.285186,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3910 Buckingham Pl",
     "sg:city":"Boise",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186477371,
-    "wof:lastmodified":1449050876,
+    "wof:lastmodified":1466488901,
     "wof:name":"Desert Sky Painting LLC",
     "wof:parent_id":85876349,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-116.285186,43.640492,-116.285186,43.640492],
+  "bbox": [
+    -116.285186,
+    43.640492,
+    -116.285186,
+    43.640492
+],
   "geometry": {"coordinates":[-116.285186,43.640492],"type":"Point"}
 }

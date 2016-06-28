@@ -2,13 +2,14 @@
   "id": 186443461,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.005517,43.494065,-112.005517,43.494065",
     "geom:latitude":43.494065,
     "geom:longitude":-112.005517,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"437 Parkway Cir",
     "sg:city":"Idaho Falls",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":186443461,
-    "wof:lastmodified":1449052516,
+    "wof:lastmodified":1466488816,
     "wof:name":"Burton Appraisals",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "appraiser"
     ]
 },
-  "bbox": [-112.005517,43.494065,-112.005517,43.494065],
+  "bbox": [
+    -112.005517,
+    43.494065,
+    -112.005517,
+    43.494065
+],
   "geometry": {"coordinates":[-112.005517,43.494065],"type":"Point"}
 }

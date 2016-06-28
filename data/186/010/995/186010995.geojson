@@ -2,13 +2,14 @@
   "id": 186010995,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.843601,47.759382,-116.843601,47.759382",
     "geom:latitude":47.759382,
     "geom:longitude":-116.843601,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4085 W Hayden Ave",
     "sg:city":"Hayden",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":186010995,
-    "wof:lastmodified":1449052038,
+    "wof:lastmodified":1466486868,
     "wof:name":"Jacquot Farm Enterprises",
     "wof:parent_id":85821457,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "general"
     ]
 },
-  "bbox": [-116.843601,47.759382,-116.843601,47.759382],
-  "geometry": {"coordinates":[-116.843601,47.759382],"type":"Point"}
+  "bbox": [
+    -116.843601,
+    47.759382,
+    -116.843601,
+    47.759382
+],
+  "geometry": {"coordinates":[-116.84360100000001,47.759382],"type":"Point"}
 }

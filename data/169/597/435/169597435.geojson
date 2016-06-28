@@ -2,13 +2,14 @@
   "id": 169597435,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.544727,43.610484,-116.544727,43.610484",
     "geom:latitude":43.610484,
     "geom:longitude":-116.544727,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7483 Bay Meadows Dr",
     "sg:city":"Nampa",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":169597435,
-    "wof:lastmodified":1449035924,
+    "wof:lastmodified":1466488081,
     "wof:name":"Craftsman Residential Design",
     "wof:parent_id":85827787,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-116.544727,43.610484,-116.544727,43.610484],
-  "geometry": {"coordinates":[-116.544727,43.610484],"type":"Point"}
+  "bbox": [
+    -116.544727,
+    43.610484,
+    -116.544727,
+    43.610484
+],
+  "geometry": {"coordinates":[-116.54472699999999,43.610484],"type":"Point"}
 }

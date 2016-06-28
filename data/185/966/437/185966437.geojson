@@ -2,13 +2,14 @@
   "id": 185966437,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.757429,47.74573,-116.757429,47.74573",
     "geom:latitude":47.74573,
     "geom:longitude":-116.757429,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2259 E Grandview Dr",
     "sg:city":"Coeur D Alene",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":185966437,
-    "wof:lastmodified":1449006603,
+    "wof:lastmodified":1466488699,
     "wof:name":"Creative Cut",
     "wof:parent_id":85821457,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "carpenter"
     ]
 },
-  "bbox": [-116.757429,47.74573,-116.757429,47.74573],
+  "bbox": [
+    -116.757429,
+    47.74573,
+    -116.757429,
+    47.74573
+],
   "geometry": {"coordinates":[-116.757429,47.74573],"type":"Point"}
 }

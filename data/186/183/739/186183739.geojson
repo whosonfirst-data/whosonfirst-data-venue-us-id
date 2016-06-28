@@ -2,13 +2,14 @@
   "id": 186183739,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.008087,43.515504,-112.008087,43.515504",
     "geom:latitude":43.515504,
     "geom:longitude":-112.008087,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2092 N Yellowstone Hwy",
     "sg:city":"Idaho Falls",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":186183739,
-    "wof:lastmodified":1449051818,
+    "wof:lastmodified":1466488457,
     "wof:name":"American Construction Supply",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "form"
     ]
 },
-  "bbox": [-112.008087,43.515504,-112.008087,43.515504],
+  "bbox": [
+    -112.008087,
+    43.515504,
+    -112.008087,
+    43.515504
+],
   "geometry": {"coordinates":[-112.008087,43.515504],"type":"Point"}
 }

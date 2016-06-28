@@ -2,13 +2,14 @@
   "id": 186421747,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.272932,43.563188,-116.272932,43.563188",
     "geom:latitude":43.563188,
     "geom:longitude":-116.272932,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4372 S Cochees Way",
     "sg:city":"Boise",
     "sg:classifiers":[
@@ -58,10 +59,11 @@
         }
     ],
     "wof:id":186421747,
-    "wof:lastmodified":1449052079,
+    "wof:lastmodified":1466488802,
     "wof:name":"Gem State Mobile Blind Clng",
     "wof:parent_id":85825393,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -70,6 +72,11 @@
         "shades"
     ]
 },
-  "bbox": [-116.272932,43.563188,-116.272932,43.563188],
+  "bbox": [
+    -116.272932,
+    43.563188,
+    -116.272932,
+    43.563188
+],
   "geometry": {"coordinates":[-116.272932,43.563188],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186273095,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.924105,43.985706,-116.924105,43.985706",
     "geom:latitude":43.985706,
     "geom:longitude":-116.924105,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6633 Whitley Dr",
     "sg:city":"Fruitland",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":186273095,
-    "wof:lastmodified":1449051762,
+    "wof:lastmodified":1466488711,
     "wof:name":"Henggeler Bros Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "market"
     ]
 },
-  "bbox": [-116.924105,43.985706,-116.924105,43.985706],
+  "bbox": [
+    -116.924105,
+    43.985706,
+    -116.924105,
+    43.985706
+],
   "geometry": {"coordinates":[-116.924105,43.985706],"type":"Point"}
 }

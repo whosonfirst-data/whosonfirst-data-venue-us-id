@@ -2,13 +2,14 @@
   "id": 169634417,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.373415,43.198842,-112.373415,43.198842",
     "geom:latitude":43.198842,
     "geom:longitude":-112.373415,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"373 W Hwy 39",
     "sg:city":"Blackfoot",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":169634417,
-    "wof:lastmodified":1449034255,
+    "wof:lastmodified":1466487347,
     "wof:name":"Golden Comb",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.373415,43.198842,-112.373415,43.198842],
-  "geometry": {"coordinates":[-112.373415,43.198842],"type":"Point"}
+  "bbox": [
+    -112.373415,
+    43.198842,
+    -112.373415,
+    43.198842
+],
+  "geometry": {"coordinates":[-112.37341499999999,43.198842],"type":"Point"}
 }

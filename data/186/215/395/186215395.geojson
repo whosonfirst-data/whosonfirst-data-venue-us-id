@@ -2,13 +2,14 @@
   "id": 186215395,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.05232,44.680143,-116.05232,44.680143",
     "geom:latitude":44.680143,
     "geom:longitude":-116.05232,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"12765 State Hwy 55",
     "sg:city":"Donnelly",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":186215395,
-    "wof:lastmodified":1449052542,
+    "wof:lastmodified":1466488613,
     "wof:name":"Representative Ken Roberts",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-116.05232,44.680143,-116.05232,44.680143],
-  "geometry": {"coordinates":[-116.05232,44.680143],"type":"Point"}
+  "bbox": [
+    -116.05232,
+    44.680143,
+    -116.05232,
+    44.680143
+],
+  "geometry": {"coordinates":[-116.05231999999999,44.680143],"type":"Point"}
 }

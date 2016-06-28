@@ -2,13 +2,14 @@
   "id": 185974487,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.819354,47.741346,-116.819354,47.741346",
     "geom:latitude":47.741346,
     "geom:longitude":-116.819354,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2571 W Timberlake Loop",
     "sg:city":"Coeur D Alene",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":185974487,
-    "wof:lastmodified":1449008010,
+    "wof:lastmodified":1466488710,
     "wof:name":"G & J Excavating",
     "wof:parent_id":85821457,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "contractor"
     ]
 },
-  "bbox": [-116.819354,47.741346,-116.819354,47.741346],
+  "bbox": [
+    -116.819354,
+    47.741346,
+    -116.819354,
+    47.741346
+],
   "geometry": {"coordinates":[-116.819354,47.741346],"type":"Point"}
 }

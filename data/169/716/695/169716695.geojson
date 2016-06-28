@@ -2,13 +2,14 @@
   "id": 169716695,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.960844,44.064886,-116.960844,44.064886",
     "geom:latitude":44.064886,
     "geom:longitude":-116.960844,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"880 NW 11th Ave",
     "sg:city":"Payette",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":169716695,
-    "wof:lastmodified":1449033158,
+    "wof:lastmodified":1466488362,
     "wof:name":"Fairchild Farms",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "general"
     ]
 },
-  "bbox": [-116.960844,44.064886,-116.960844,44.064886],
-  "geometry": {"coordinates":[-116.960844,44.064886],"type":"Point"}
+  "bbox": [
+    -116.960844,
+    44.064886,
+    -116.960844,
+    44.064886
+],
+  "geometry": {"coordinates":[-116.96084399999999,44.064886],"type":"Point"}
 }

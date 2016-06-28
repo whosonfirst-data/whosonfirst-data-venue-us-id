@@ -2,13 +2,14 @@
   "id": 185933687,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.931934,44.078068,-116.931934,44.078068",
     "geom:latitude":44.078068,
     "geom:longitude":-116.931934,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"234 N 10th St",
     "sg:city":"Payette",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":185933687,
-    "wof:lastmodified":1449006943,
+    "wof:lastmodified":1466488631,
     "wof:name":"Debban Brothers Cabinets",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "storage"
     ]
 },
-  "bbox": [-116.931934,44.078068,-116.931934,44.078068],
+  "bbox": [
+    -116.931934,
+    44.078068,
+    -116.931934,
+    44.078068
+],
   "geometry": {"coordinates":[-116.931934,44.078068],"type":"Point"}
 }

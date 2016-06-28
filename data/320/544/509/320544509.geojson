@@ -2,13 +2,14 @@
   "id": 320544509,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.972702,47.106309,-116.972702,47.106309",
     "geom:latitude":47.106309,
     "geom:longitude":-116.972702,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2840 King Valley Rd",
     "sg:city":"Desmet",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":320544509,
-    "wof:lastmodified":1449014959,
+    "wof:lastmodified":1466486982,
     "wof:name":"Lazy J Bedding",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "bedroom"
     ]
 },
-  "bbox": [-116.972702,47.106309,-116.972702,47.106309],
+  "bbox": [
+    -116.972702,
+    47.106309,
+    -116.972702,
+    47.106309
+],
   "geometry": {"coordinates":[-116.972702,47.106309],"type":"Point"}
 }

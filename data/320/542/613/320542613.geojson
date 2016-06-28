@@ -2,13 +2,14 @@
   "id": 320542613,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.186711,43.59068,-116.186711,43.59068",
     "geom:latitude":43.59068,
     "geom:longitude":-116.186711,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"408 W Williams St",
     "sg:city":"Boise",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":320542613,
-    "wof:lastmodified":1449014131,
+    "wof:lastmodified":1466486948,
     "wof:name":"Ferranti Fresh Pasta",
     "wof:parent_id":85876305,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "italian"
     ]
 },
-  "bbox": [-116.186711,43.59068,-116.186711,43.59068],
+  "bbox": [
+    -116.186711,
+    43.59068,
+    -116.186711,
+    43.59068
+],
   "geometry": {"coordinates":[-116.186711,43.59068],"type":"Point"}
 }

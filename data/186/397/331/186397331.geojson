@@ -2,13 +2,14 @@
   "id": 186397331,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.940193,43.727095,-116.940193,43.727095",
     "geom:latitude":43.727095,
     "geom:longitude":-116.940193,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"27071 Hatch Ln",
     "sg:city":"Parma",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":186397331,
-    "wof:lastmodified":1449051439,
+    "wof:lastmodified":1466488782,
     "wof:name":"Bos P9 Rodeo Company",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-116.940193,43.727095,-116.940193,43.727095],
-  "geometry": {"coordinates":[-116.940193,43.727095],"type":"Point"}
+  "bbox": [
+    -116.940193,
+    43.727095,
+    -116.940193,
+    43.727095
+],
+  "geometry": {"coordinates":[-116.94019299999999,43.727095],"type":"Point"}
 }

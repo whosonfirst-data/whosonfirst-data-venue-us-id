@@ -2,13 +2,14 @@
   "id": 185968569,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.559608,48.28748,-116.559608,48.28748",
     "geom:latitude":48.28748,
     "geom:longitude":-116.559608,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"985 Baldy Mountain Rd",
     "sg:city":"Sandpoint",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":185968569,
-    "wof:lastmodified":1449006701,
+    "wof:lastmodified":1466488705,
     "wof:name":"Idaho Electric Supply Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "supply"
     ]
 },
-  "bbox": [-116.559608,48.28748,-116.559608,48.28748],
+  "bbox": [
+    -116.559608,
+    48.28748,
+    -116.559608,
+    48.28748
+],
   "geometry": {"coordinates":[-116.559608,48.28748],"type":"Point"}
 }

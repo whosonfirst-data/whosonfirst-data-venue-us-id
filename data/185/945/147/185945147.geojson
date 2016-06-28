@@ -2,13 +2,14 @@
   "id": 185945147,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.017419,43.492898,-112.017419,43.492898",
     "geom:latitude":43.492898,
     "geom:longitude":-112.017419,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"576 Safstrom Pl",
     "sg:city":"Idaho Falls",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":185945147,
-    "wof:lastmodified":1449006745,
+    "wof:lastmodified":1466488658,
     "wof:name":"Carol J Harker",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "hearing"
     ]
 },
-  "bbox": [-112.017419,43.492898,-112.017419,43.492898],
+  "bbox": [
+    -112.017419,
+    43.492898,
+    -112.017419,
+    43.492898
+],
   "geometry": {"coordinates":[-112.017419,43.492898],"type":"Point"}
 }

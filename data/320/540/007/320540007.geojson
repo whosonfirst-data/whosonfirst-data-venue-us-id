@@ -2,13 +2,14 @@
   "id": 320540007,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.931589,43.630768,-116.931589,43.630768",
     "geom:latitude":43.630768,
     "geom:longitude":-116.931589,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"17847 Fargo Rd",
     "sg:city":"Wilder",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":320540007,
-    "wof:lastmodified":1449012736,
+    "wof:lastmodified":1466486884,
     "wof:name":"Bauer Heating & Cooling",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -68,6 +70,11 @@
         "air conditioning"
     ]
 },
-  "bbox": [-116.931589,43.630768,-116.931589,43.630768],
+  "bbox": [
+    -116.931589,
+    43.630768,
+    -116.931589,
+    43.630768
+],
   "geometry": {"coordinates":[-116.931589,43.630768],"type":"Point"}
 }

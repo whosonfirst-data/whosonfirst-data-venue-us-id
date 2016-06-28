@@ -2,13 +2,14 @@
   "id": 185742497,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.460194,42.558547,-114.460194,42.558547",
     "geom:latitude":42.558547,
     "geom:longitude":-114.460194,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"870 Blue Lakes Blvd",
     "sg:city":"Twin Falls",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":185742497,
-    "wof:lastmodified":1449006711,
+    "wof:lastmodified":1466487864,
     "wof:name":"Hastings Books Music Video",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -66,6 +68,11 @@
         "tape"
     ]
 },
-  "bbox": [-114.460194,42.558547,-114.460194,42.558547],
+  "bbox": [
+    -114.460194,
+    42.558547,
+    -114.460194,
+    42.558547
+],
   "geometry": {"coordinates":[-114.460194,42.558547],"type":"Point"}
 }

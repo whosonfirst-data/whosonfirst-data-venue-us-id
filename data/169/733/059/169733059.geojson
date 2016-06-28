@@ -2,13 +2,14 @@
   "id": 169733059,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.777721,47.831896,-116.777721,47.831896",
     "geom:latitude":47.831896,
     "geom:longitude":-116.777721,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"18438 US Hwy 95",
     "sg:city":"Hayden",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":169733059,
-    "wof:lastmodified":1449033147,
+    "wof:lastmodified":1466488466,
     "wof:name":"Classic Auto Parts",
     "wof:parent_id":85821457,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "used"
     ]
 },
-  "bbox": [-116.777721,47.831896,-116.777721,47.831896],
+  "bbox": [
+    -116.777721,
+    47.831896,
+    -116.777721,
+    47.831896
+],
   "geometry": {"coordinates":[-116.777721,47.831896],"type":"Point"}
 }

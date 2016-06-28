@@ -2,13 +2,14 @@
   "id": 169658061,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.386952,46.551286,-116.386952,46.551286",
     "geom:latitude":46.551286,
     "geom:longitude":-116.386952,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4319 Middle Rd",
     "sg:city":"Lenore",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":169658061,
-    "wof:lastmodified":1449032615,
+    "wof:lastmodified":1466487708,
     "wof:name":"Cream Ridge United Brethren",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-116.386952,46.551286,-116.386952,46.551286],
-  "geometry": {"coordinates":[-116.386952,46.551286],"type":"Point"}
+  "bbox": [
+    -116.386952,
+    46.551286,
+    -116.386952,
+    46.551286
+],
+  "geometry": {"coordinates":[-116.38695199999999,46.551286],"type":"Point"}
 }

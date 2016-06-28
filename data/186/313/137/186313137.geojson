@@ -2,13 +2,14 @@
   "id": 186313137,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.193635,43.625666,-116.193635,43.625666",
     "geom:latitude":43.625666,
     "geom:longitude":-116.193635,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"425 Pueblo St",
     "sg:city":"Boise",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":186313137,
-    "wof:lastmodified":1449050346,
+    "wof:lastmodified":1466488686,
     "wof:name":"Thornfeldt Appraisal Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "appraiser"
     ]
 },
-  "bbox": [-116.193635,43.625666,-116.193635,43.625666],
+  "bbox": [
+    -116.193635,
+    43.625666,
+    -116.193635,
+    43.625666
+],
   "geometry": {"coordinates":[-116.193635,43.625666],"type":"Point"}
 }

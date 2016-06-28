@@ -2,13 +2,14 @@
   "id": 320524077,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.950704,46.434797,-116.950704,46.434797",
     "geom:latitude":46.434797,
     "geom:longitude":-116.950704,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5503 Hatwai Rd",
     "sg:city":"Lewiston",
     "sg:classifiers":[
@@ -56,10 +57,11 @@
         }
     ],
     "wof:id":320524077,
-    "wof:lastmodified":1449011222,
+    "wof:lastmodified":1466487230,
     "wof:name":"Summit Utility Contractors",
     "wof:parent_id":85824237,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "contractor"
     ]
 },
-  "bbox": [-116.950704,46.434797,-116.950704,46.434797],
+  "bbox": [
+    -116.950704,
+    46.434797,
+    -116.950704,
+    46.434797
+],
   "geometry": {"coordinates":[-116.950704,46.434797],"type":"Point"}
 }

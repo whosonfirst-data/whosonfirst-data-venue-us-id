@@ -2,13 +2,14 @@
   "id": 169605075,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.243454,43.610707,-116.243454,43.610707",
     "geom:latitude":43.610707,
     "geom:longitude":-116.243454,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"712 N Orchard St",
     "sg:city":"Boise",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":169605075,
-    "wof:lastmodified":1449034288,
+    "wof:lastmodified":1466486877,
     "wof:name":"Crone's Cupboard Magick",
     "wof:parent_id":85876311,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "dealer"
     ]
 },
-  "bbox": [-116.243454,43.610707,-116.243454,43.610707],
+  "bbox": [
+    -116.243454,
+    43.610707,
+    -116.243454,
+    43.610707
+],
   "geometry": {"coordinates":[-116.243454,43.610707],"type":"Point"}
 }

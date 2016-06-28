@@ -2,13 +2,14 @@
   "id": 186193131,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.198403,43.579687,-116.198403,43.579687",
     "geom:latitude":43.579687,
     "geom:longitude":-116.198403,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2513 S Federal Way",
     "sg:city":"Boise",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186193131,
-    "wof:lastmodified":1449050845,
+    "wof:lastmodified":1466488485,
     "wof:name":"A A Ultimate Limousine",
     "wof:parent_id":85876343,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "limousine"
     ]
 },
-  "bbox": [-116.198403,43.579687,-116.198403,43.579687],
+  "bbox": [
+    -116.198403,
+    43.579687,
+    -116.198403,
+    43.579687
+],
   "geometry": {"coordinates":[-116.198403,43.579687],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186310561,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.020735,43.497046,-112.020735,43.497046",
     "geom:latitude":43.497046,
     "geom:longitude":-112.020735,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"635 1st St",
     "sg:city":"Idaho Falls",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186310561,
-    "wof:lastmodified":1449052016,
+    "wof:lastmodified":1466488690,
     "wof:name":"Perk's Photo",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "photographer"
     ]
 },
-  "bbox": [-112.020735,43.497046,-112.020735,43.497046],
+  "bbox": [
+    -112.020735,
+    43.497046,
+    -112.020735,
+    43.497046
+],
   "geometry": {"coordinates":[-112.020735,43.497046],"type":"Point"}
 }

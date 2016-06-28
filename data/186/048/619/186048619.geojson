@@ -2,13 +2,14 @@
   "id": 186048619,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.427352,43.517421,-116.427352,43.517421",
     "geom:latitude":43.517421,
     "geom:longitude":-116.427352,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2835 W Hubbard Rd",
     "sg:city":"Kuna",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":186048619,
-    "wof:lastmodified":1449051327,
+    "wof:lastmodified":1466487298,
     "wof:name":"Emmons Sales",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "mfg"
     ]
 },
-  "bbox": [-116.427352,43.517421,-116.427352,43.517421],
+  "bbox": [
+    -116.427352,
+    43.517421,
+    -116.427352,
+    43.517421
+],
   "geometry": {"coordinates":[-116.427352,43.517421],"type":"Point"}
 }

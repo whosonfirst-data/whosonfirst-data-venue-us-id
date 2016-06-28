@@ -2,13 +2,14 @@
   "id": 169637351,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.349552,43.192597,-112.349552,43.192597",
     "geom:latitude":43.192597,
     "geom:longitude":-112.349552,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"550 W Pacific St",
     "sg:city":"Blackfoot",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":169637351,
-    "wof:lastmodified":1449032690,
+    "wof:lastmodified":1466487397,
     "wof:name":"Clark Radio Electronics",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "system"
     ]
 },
-  "bbox": [-112.349552,43.192597,-112.349552,43.192597],
+  "bbox": [
+    -112.349552,
+    43.192597,
+    -112.349552,
+    43.192597
+],
   "geometry": {"coordinates":[-112.349552,43.192597],"type":"Point"}
 }

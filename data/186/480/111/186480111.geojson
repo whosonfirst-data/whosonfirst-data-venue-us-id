@@ -2,13 +2,14 @@
   "id": 186480111,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.944155,43.523018,-111.944155,43.523018",
     "geom:latitude":43.523018,
     "geom:longitude":-111.944155,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3150 N 45th E",
     "sg:city":"Idaho Falls",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":186480111,
-    "wof:lastmodified":1449051267,
+    "wof:lastmodified":1466488903,
     "wof:name":"Servicemaster Of Pocatello",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "carpet"
     ]
 },
-  "bbox": [-111.944155,43.523018,-111.944155,43.523018],
-  "geometry": {"coordinates":[-111.944155,43.523018],"type":"Point"}
+  "bbox": [
+    -111.944155,
+    43.523018,
+    -111.944155,
+    43.523018
+],
+  "geometry": {"coordinates":[-111.94415499999999,43.523018],"type":"Point"}
 }

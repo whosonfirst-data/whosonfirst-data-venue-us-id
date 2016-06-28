@@ -2,13 +2,14 @@
   "id": 186456109,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-117.022503,46.847819,-117.022503,46.847819",
     "geom:latitude":46.847819,
     "geom:longitude":-117.022503,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4914 US Hwy 95",
     "sg:city":"Viola",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":186456109,
-    "wof:lastmodified":1449051173,
+    "wof:lastmodified":1466488730,
     "wof:name":"Bouma Construction",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "contractor"
     ]
 },
-  "bbox": [-117.022503,46.847819,-117.022503,46.847819],
+  "bbox": [
+    -117.022503,
+    46.847819,
+    -117.022503,
+    46.847819
+],
   "geometry": {"coordinates":[-117.022503,46.847819],"type":"Point"}
 }

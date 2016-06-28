@@ -2,13 +2,14 @@
   "id": 186451827,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.925611,47.713158,-116.925611,47.713158",
     "geom:latitude":47.713158,
     "geom:longitude":-116.925611,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1611 E Edmondton Ave",
     "sg:city":"Post Falls",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":186451827,
-    "wof:lastmodified":1449051541,
+    "wof:lastmodified":1466488863,
     "wof:name":"Quality Stoves & Pellets",
     "wof:parent_id":85833263,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "burning"
     ]
 },
-  "bbox": [-116.925611,47.713158,-116.925611,47.713158],
+  "bbox": [
+    -116.925611,
+    47.713158,
+    -116.925611,
+    47.713158
+],
   "geometry": {"coordinates":[-116.925611,47.713158],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186350593,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.694293,43.132574,-115.694293,43.132574",
     "geom:latitude":43.132574,
     "geom:longitude":-115.694293,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"230 N 2nd E",
     "sg:city":"Mountain Home",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186350593,
-    "wof:lastmodified":1449051736,
+    "wof:lastmodified":1466488678,
     "wof:name":"Carpet Shoppe",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "covering"
     ]
 },
-  "bbox": [-115.694293,43.132574,-115.694293,43.132574],
+  "bbox": [
+    -115.694293,
+    43.132574,
+    -115.694293,
+    43.132574
+],
   "geometry": {"coordinates":[-115.694293,43.132574],"type":"Point"}
 }

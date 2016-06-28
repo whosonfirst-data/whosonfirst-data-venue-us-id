@@ -2,13 +2,14 @@
   "id": 186336137,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.229842,43.590509,-116.229842,43.590509",
     "geom:latitude":43.590509,
     "geom:longitude":-116.229842,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3907 Custer Dr",
     "sg:city":"Boise",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186336137,
-    "wof:lastmodified":1449050185,
+    "wof:lastmodified":1466488823,
     "wof:name":"Custom Recording & Sound Inc",
     "wof:parent_id":85825393,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "studio"
     ]
 },
-  "bbox": [-116.229842,43.590509,-116.229842,43.590509],
+  "bbox": [
+    -116.229842,
+    43.590509,
+    -116.229842,
+    43.590509
+],
   "geometry": {"coordinates":[-116.229842,43.590509],"type":"Point"}
 }

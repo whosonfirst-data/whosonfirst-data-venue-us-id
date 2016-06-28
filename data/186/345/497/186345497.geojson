@@ -2,13 +2,14 @@
   "id": 186345497,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.396411,43.57177,-116.396411,43.57177",
     "geom:latitude":43.57177,
     "geom:longitude":-116.396411,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"226 W Bloomington Dr",
     "sg:city":"Meridian",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186345497,
-    "wof:lastmodified":1449052816,
+    "wof:lastmodified":1466488732,
     "wof:name":"Ginas Hair Salon",
     "wof:parent_id":85805083,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "shop"
     ]
 },
-  "bbox": [-116.396411,43.57177,-116.396411,43.57177],
+  "bbox": [
+    -116.396411,
+    43.57177,
+    -116.396411,
+    43.57177
+],
   "geometry": {"coordinates":[-116.396411,43.57177],"type":"Point"}
 }

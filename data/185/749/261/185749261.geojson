@@ -2,13 +2,14 @@
   "id": 185749261,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.087356,44.305508,-116.087356,44.305508",
     "geom:latitude":44.305508,
     "geom:longitude":-116.087356,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9738 State Hwy 55",
     "sg:city":"Cascade",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":185749261,
-    "wof:lastmodified":1449007072,
+    "wof:lastmodified":1466487916,
     "wof:name":"Cougar Mountain Lodge",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-116.087356,44.305508,-116.087356,44.305508],
+  "bbox": [
+    -116.087356,
+    44.305508,
+    -116.087356,
+    44.305508
+],
   "geometry": {"coordinates":[-116.087356,44.305508],"type":"Point"}
 }

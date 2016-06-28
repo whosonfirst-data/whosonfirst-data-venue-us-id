@@ -2,13 +2,14 @@
   "id": 185806151,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.33419,43.619513,-116.33419,43.619513",
     "geom:latitude":43.619513,
     "geom:longitude":-116.33419,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"11828 Fairview Ave",
     "sg:city":"Boise",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":185806151,
-    "wof:lastmodified":1449006589,
+    "wof:lastmodified":1466488384,
     "wof:name":"Teen Challenge Of Idaho",
     "wof:parent_id":85811491,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-116.33419,43.619513,-116.33419,43.619513],
-  "geometry": {"coordinates":[-116.33419,43.619513],"type":"Point"}
+  "bbox": [
+    -116.33419,
+    43.619513,
+    -116.33419,
+    43.619513
+],
+  "geometry": {"coordinates":[-116.33419000000001,43.619513],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169835381,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.590018,42.578405,-114.590018,42.578405",
     "geom:latitude":42.578405,
     "geom:longitude":-114.590018,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2317 E 4000 N",
     "sg:city":"Filer",
     "sg:classifiers":[
@@ -52,16 +53,22 @@
         }
     ],
     "wof:id":169835381,
-    "wof:lastmodified":1449033158,
+    "wof:lastmodified":1466488507,
     "wof:name":"Ken's Handyman Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "handyman"
     ]
 },
-  "bbox": [-114.590018,42.578405,-114.590018,42.578405],
+  "bbox": [
+    -114.590018,
+    42.578405,
+    -114.590018,
+    42.578405
+],
   "geometry": {"coordinates":[-114.590018,42.578405],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186036259,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.769177,47.672442,-116.769177,47.672442",
     "geom:latitude":47.672442,
     "geom:longitude":-116.769177,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1102 E Front Ave",
     "sg:city":"Coeur D Alene",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":186036259,
-    "wof:lastmodified":1449050994,
+    "wof:lastmodified":1466487153,
     "wof:name":"Mundy Brothers Plastering",
     "wof:parent_id":85821457,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "contractor"
     ]
 },
-  "bbox": [-116.769177,47.672442,-116.769177,47.672442],
+  "bbox": [
+    -116.769177,
+    47.672442,
+    -116.769177,
+    47.672442
+],
   "geometry": {"coordinates":[-116.769177,47.672442],"type":"Point"}
 }

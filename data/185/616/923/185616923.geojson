@@ -2,13 +2,14 @@
   "id": 185616923,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-117.003381,47.70141,-117.003381,47.70141",
     "geom:latitude":47.70141,
     "geom:longitude":-117.003381,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"800 W Clearwater Loop",
     "sg:city":"Post Falls",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":185616923,
-    "wof:lastmodified":1449007777,
+    "wof:lastmodified":1466486890,
     "wof:name":"Bild Industries Inc",
     "wof:parent_id":85833263,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "distribution"
     ]
 },
-  "bbox": [-117.003381,47.70141,-117.003381,47.70141],
+  "bbox": [
+    -117.003381,
+    47.70141,
+    -117.003381,
+    47.70141
+],
   "geometry": {"coordinates":[-117.003381,47.70141],"type":"Point"}
 }

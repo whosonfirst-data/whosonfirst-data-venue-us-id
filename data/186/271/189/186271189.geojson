@@ -2,13 +2,14 @@
   "id": 186271189,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-117.032629,46.830539,-117.032629,46.830539",
     "geom:latitude":46.830539,
     "geom:longitude":-117.032629,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1090 Trestle Rd",
     "sg:city":"Viola",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":186271189,
-    "wof:lastmodified":1449051776,
+    "wof:lastmodified":1466488540,
     "wof:name":"Perrigo Trucking",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "trucking"
     ]
 },
-  "bbox": [-117.032629,46.830539,-117.032629,46.830539],
+  "bbox": [
+    -117.032629,
+    46.830539,
+    -117.032629,
+    46.830539
+],
   "geometry": {"coordinates":[-117.032629,46.830539],"type":"Point"}
 }

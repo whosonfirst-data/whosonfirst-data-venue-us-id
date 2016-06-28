@@ -2,13 +2,14 @@
   "id": 185949985,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.284254,43.612963,-116.284254,43.612963",
     "geom:latitude":43.612963,
     "geom:longitude":-116.284254,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"925 N Milwaukee St",
     "sg:city":"Boise",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":185949985,
-    "wof:lastmodified":1449007605,
+    "wof:lastmodified":1466488591,
     "wof:name":"Ameri Suites",
     "wof:parent_id":85841319,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-116.284254,43.612963,-116.284254,43.612963],
+  "bbox": [
+    -116.284254,
+    43.612963,
+    -116.284254,
+    43.612963
+],
   "geometry": {"coordinates":[-116.284254,43.612963],"type":"Point"}
 }

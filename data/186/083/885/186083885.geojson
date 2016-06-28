@@ -2,13 +2,14 @@
   "id": 186083885,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.792536,43.824957,-111.792536,43.824957",
     "geom:latitude":43.824957,
     "geom:longitude":-111.792536,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"56 S 3rd W",
     "sg:city":"Rexburg",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":186083885,
-    "wof:lastmodified":1449051652,
+    "wof:lastmodified":1466487697,
     "wof:name":"D & T Auto Repair",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "automobile"
     ]
 },
-  "bbox": [-111.792536,43.824957,-111.792536,43.824957],
+  "bbox": [
+    -111.792536,
+    43.824957,
+    -111.792536,
+    43.824957
+],
   "geometry": {"coordinates":[-111.792536,43.824957],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186430845,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.89265,43.67007,-111.89265,43.67007",
     "geom:latitude":43.67007,
     "geom:longitude":-111.89265,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4060 E 300 N",
     "sg:city":"Rigby",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":186430845,
-    "wof:lastmodified":1449052085,
+    "wof:lastmodified":1466488855,
     "wof:name":"Briggs Roofing Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "contractor"
     ]
 },
-  "bbox": [-111.89265,43.67007,-111.89265,43.67007],
+  "bbox": [
+    -111.89265,
+    43.67007,
+    -111.89265,
+    43.67007
+],
   "geometry": {"coordinates":[-111.89265,43.67007],"type":"Point"}
 }

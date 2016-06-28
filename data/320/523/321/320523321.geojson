@@ -2,13 +2,14 @@
   "id": 320523321,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-117.012428,46.382792,-117.012428,46.382792",
     "geom:latitude":46.382792,
     "geom:longitude":-117.012428,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3316 1/2 4th St Suite 4B",
     "sg:city":"Lewiston",
     "sg:classifiers":[
@@ -57,10 +58,11 @@
         }
     ],
     "wof:id":320523321,
-    "wof:lastmodified":1449013412,
+    "wof:lastmodified":1466488296,
     "wof:name":"Clearwater Vein Care Center P.C.-Alan G. Muench M.D., F.A.C.S.",
     "wof:parent_id":85837769,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -72,6 +74,11 @@
         "surgeon"
     ]
 },
-  "bbox": [-117.012428,46.382792,-117.012428,46.382792],
+  "bbox": [
+    -117.012428,
+    46.382792,
+    -117.012428,
+    46.382792
+],
   "geometry": {"coordinates":[-117.012428,46.382792],"type":"Point"}
 }

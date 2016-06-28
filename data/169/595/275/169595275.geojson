@@ -2,13 +2,14 @@
   "id": 169595275,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.521956,48.258488,-116.521956,48.258488",
     "geom:latitude":48.258488,
     "geom:longitude":-116.521956,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3079 Bottle Bay Rd",
     "sg:city":"Sagle",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":169595275,
-    "wof:lastmodified":1449035635,
+    "wof:lastmodified":1466487369,
     "wof:name":"Royal Shields Jr",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-116.521956,48.258488,-116.521956,48.258488],
+  "bbox": [
+    -116.521956,
+    48.258488,
+    -116.521956,
+    48.258488
+],
   "geometry": {"coordinates":[-116.521956,48.258488],"type":"Point"}
 }

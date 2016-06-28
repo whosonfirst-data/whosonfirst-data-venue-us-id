@@ -2,13 +2,14 @@
   "id": 186484845,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.199884,43.629272,-116.199884,43.629272",
     "geom:latitude":43.629272,
     "geom:longitude":-116.199884,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1501 N 10th St",
     "sg:city":"Boise",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186484845,
-    "wof:lastmodified":1449052877,
+    "wof:lastmodified":1466488810,
     "wof:name":"Fire Lily Labor Support Kelly",
     "wof:parent_id":85876313,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "midwife"
     ]
 },
-  "bbox": [-116.199884,43.629272,-116.199884,43.629272],
+  "bbox": [
+    -116.199884,
+    43.629272,
+    -116.199884,
+    43.629272
+],
   "geometry": {"coordinates":[-116.199884,43.629272],"type":"Point"}
 }

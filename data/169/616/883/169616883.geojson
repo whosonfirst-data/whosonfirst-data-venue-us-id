@@ -2,13 +2,14 @@
   "id": 169616883,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.308094,42.317678,-111.308094,42.317678",
     "geom:latitude":42.317678,
     "geom:longitude":-111.308094,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"856 Washington St",
     "sg:city":"Montpelier",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":169616883,
-    "wof:lastmodified":1449035101,
+    "wof:lastmodified":1466487065,
     "wof:name":"Evans Group",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "filing"
     ]
 },
-  "bbox": [-111.308094,42.317678,-111.308094,42.317678],
+  "bbox": [
+    -111.308094,
+    42.317678,
+    -111.308094,
+    42.317678
+],
   "geometry": {"coordinates":[-111.308094,42.317678],"type":"Point"}
 }

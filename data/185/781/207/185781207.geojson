@@ -2,13 +2,14 @@
   "id": 185781207,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.251823,43.640822,-116.251823,43.640822",
     "geom:latitude":43.640822,
     "geom:longitude":-116.251823,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"511 E 46th St",
     "sg:city":"Boise",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":185781207,
-    "wof:lastmodified":1449006924,
+    "wof:lastmodified":1466488364,
     "wof:name":"Dance Dimensions Inc",
     "wof:parent_id":85876339,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "dancing"
     ]
 },
-  "bbox": [-116.251823,43.640822,-116.251823,43.640822],
+  "bbox": [
+    -116.251823,
+    43.640822,
+    -116.251823,
+    43.640822
+],
   "geometry": {"coordinates":[-116.251823,43.640822],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 185780831,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.03663,43.461436,-112.03663,43.461436",
     "geom:latitude":43.461436,
     "geom:longitude":-112.03663,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3961 Nathan Dr",
     "sg:city":"Idaho Falls",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":185780831,
-    "wof:lastmodified":1449007810,
+    "wof:lastmodified":1466488167,
     "wof:name":"Wastren Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "engineer"
     ]
 },
-  "bbox": [-112.03663,43.461436,-112.03663,43.461436],
+  "bbox": [
+    -112.03663,
+    43.461436,
+    -112.03663,
+    43.461436
+],
   "geometry": {"coordinates":[-112.03663,43.461436],"type":"Point"}
 }

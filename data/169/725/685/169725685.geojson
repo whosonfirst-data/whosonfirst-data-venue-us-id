@@ -2,13 +2,14 @@
   "id": 169725685,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.014554,43.476943,-112.014554,43.476943",
     "geom:latitude":43.476943,
     "geom:longitude":-112.014554,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2300 Craig Ave",
     "sg:city":"Idaho Falls",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":169725685,
-    "wof:lastmodified":1449033496,
+    "wof:lastmodified":1466488242,
     "wof:name":"Studio Z",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.014554,43.476943,-112.014554,43.476943],
+  "bbox": [
+    -112.014554,
+    43.476943,
+    -112.014554,
+    43.476943
+],
   "geometry": {"coordinates":[-112.014554,43.476943],"type":"Point"}
 }

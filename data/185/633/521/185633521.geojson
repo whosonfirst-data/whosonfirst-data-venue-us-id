@@ -2,13 +2,14 @@
   "id": 185633521,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.585643,43.598495,-116.585643,43.598495",
     "geom:latitude":43.598495,
     "geom:longitude":-116.585643,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"222 W Railroad St",
     "sg:city":"Nampa",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":185633521,
-    "wof:lastmodified":1449008188,
+    "wof:lastmodified":1466487016,
     "wof:name":"Nampa Bow Chiefs",
     "wof:parent_id":85827787,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "range"
     ]
 },
-  "bbox": [-116.585643,43.598495,-116.585643,43.598495],
+  "bbox": [
+    -116.585643,
+    43.598495,
+    -116.585643,
+    43.598495
+],
   "geometry": {"coordinates":[-116.585643,43.598495],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 185960629,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.931,44.025484,-116.931,44.025484",
     "geom:latitude":44.025484,
     "geom:longitude":-116.931,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1307 NW 16th St",
     "sg:city":"Fruitland",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":185960629,
-    "wof:lastmodified":1449007750,
+    "wof:lastmodified":1466488693,
     "wof:name":"Jensen Homes",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-116.931,44.025484,-116.931,44.025484],
+  "bbox": [
+    -116.931,
+    44.025484,
+    -116.931,
+    44.025484
+],
   "geometry": {"coordinates":[-116.931,44.025484],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 185640717,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.100825,44.910727,-116.100825,44.910727",
     "geom:latitude":44.910727,
     "geom:longitude":-116.100825,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"317 E Lake St",
     "sg:city":"Mccall",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":185640717,
-    "wof:lastmodified":1449007313,
+    "wof:lastmodified":1466487071,
     "wof:name":"Heartland Deli & Ice Cream",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "delicatessen"
     ]
 },
-  "bbox": [-116.100825,44.910727,-116.100825,44.910727],
+  "bbox": [
+    -116.100825,
+    44.910727,
+    -116.100825,
+    44.910727
+],
   "geometry": {"coordinates":[-116.100825,44.910727],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 185778833,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.974431,46.725517,-116.974431,46.725517",
     "geom:latitude":46.725517,
     "geom:longitude":-116.974431,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1023 el Cajon St",
     "sg:city":"Moscow",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":185778833,
-    "wof:lastmodified":1449006616,
+    "wof:lastmodified":1466488153,
     "wof:name":"Appliance Specialist",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "appliance"
     ]
 },
-  "bbox": [-116.974431,46.725517,-116.974431,46.725517],
+  "bbox": [
+    -116.974431,
+    46.725517,
+    -116.974431,
+    46.725517
+],
   "geometry": {"coordinates":[-116.974431,46.725517],"type":"Point"}
 }

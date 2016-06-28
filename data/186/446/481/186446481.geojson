@@ -2,13 +2,14 @@
   "id": 186446481,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.54753,48.299281,-116.54753,48.299281",
     "geom:latitude":48.299281,
     "geom:longitude":-116.54753,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"476534 Hwy 95",
     "sg:city":"Sandpoint",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":186446481,
-    "wof:lastmodified":1449052795,
+    "wof:lastmodified":1466488818,
     "wof:name":"Pend Oreille Pasta",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "wine"
     ]
 },
-  "bbox": [-116.54753,48.299281,-116.54753,48.299281],
-  "geometry": {"coordinates":[-116.54753,48.299281],"type":"Point"}
+  "bbox": [
+    -116.54753,
+    48.299281,
+    -116.54753,
+    48.299281
+],
+  "geometry": {"coordinates":[-116.54752999999999,48.299281],"type":"Point"}
 }

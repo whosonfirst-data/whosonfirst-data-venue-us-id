@@ -2,13 +2,14 @@
   "id": 185725585,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.40743,44.777745,-116.40743,44.777745",
     "geom:latitude":44.777745,
     "geom:longitude":-116.40743,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2488 Lappin Ln",
     "sg:city":"Council",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":185725585,
-    "wof:lastmodified":1449007008,
+    "wof:lastmodified":1466487724,
     "wof:name":"SC Ranch",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "camp"
     ]
 },
-  "bbox": [-116.40743,44.777745,-116.40743,44.777745],
-  "geometry": {"coordinates":[-116.40743,44.777745],"type":"Point"}
+  "bbox": [
+    -116.40743,
+    44.777745,
+    -116.40743,
+    44.777745
+],
+  "geometry": {"coordinates":[-116.40743000000001,44.777745],"type":"Point"}
 }

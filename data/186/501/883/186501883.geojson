@@ -2,13 +2,14 @@
   "id": 186501883,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-117.038429,46.732496,-117.038429,46.732496",
     "geom:latitude":46.732496,
     "geom:longitude":-117.038429,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2720 W Pullman Rd",
     "sg:city":"Moscow",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":186501883,
-    "wof:lastmodified":1449053052,
+    "wof:lastmodified":1466488914,
     "wof:name":"Appaloosa Horse Club Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-117.038429,46.732496,-117.038429,46.732496],
-  "geometry": {"coordinates":[-117.038429,46.732496],"type":"Point"}
+  "bbox": [
+    -117.038429,
+    46.732496,
+    -117.038429,
+    46.732496
+],
+  "geometry": {"coordinates":[-117.03842899999999,46.732496],"type":"Point"}
 }

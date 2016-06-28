@@ -2,13 +2,14 @@
   "id": 320552259,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.99211,46.858522,-116.99211,46.858522",
     "geom:latitude":46.858522,
     "geom:longitude":-116.99211,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1180 Chaney Rd",
     "sg:city":"Viola",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":320552259,
-    "wof:lastmodified":1449012821,
+    "wof:lastmodified":1466487066,
     "wof:name":"Gene's Quality Cleaning Service Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "cleaners-interior"
     ]
 },
-  "bbox": [-116.99211,46.858522,-116.99211,46.858522],
+  "bbox": [
+    -116.99211,
+    46.858522,
+    -116.99211,
+    46.858522
+],
   "geometry": {"coordinates":[-116.99211,46.858522],"type":"Point"}
 }

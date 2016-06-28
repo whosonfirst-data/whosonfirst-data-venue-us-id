@@ -2,13 +2,14 @@
   "id": 186062381,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.261751,43.469033,-114.261751,43.469033",
     "geom:latitude":43.469033,
     "geom:longitude":-114.261751,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"521 2nd St",
     "sg:city":"Bellevue",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":186062381,
-    "wof:lastmodified":1449052833,
+    "wof:lastmodified":1466487453,
     "wof:name":"Buffalo Electric",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "contractor"
     ]
 },
-  "bbox": [-114.261751,43.469033,-114.261751,43.469033],
+  "bbox": [
+    -114.261751,
+    43.469033,
+    -114.261751,
+    43.469033
+],
   "geometry": {"coordinates":[-114.261751,43.469033],"type":"Point"}
 }

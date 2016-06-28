@@ -2,13 +2,14 @@
   "id": 186140791,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.686966,43.965496,-111.686966,43.965496",
     "geom:latitude":43.965496,
     "geom:longitude":-111.686966,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"331 W 1st S",
     "sg:city":"St Anthony",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":186140791,
-    "wof:lastmodified":1449050756,
+    "wof:lastmodified":1466488231,
     "wof:name":"Fremont County Sheds",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.686966,43.965496,-111.686966,43.965496],
+  "bbox": [
+    -111.686966,
+    43.965496,
+    -111.686966,
+    43.965496
+],
   "geometry": {"coordinates":[-111.686966,43.965496],"type":"Point"}
 }

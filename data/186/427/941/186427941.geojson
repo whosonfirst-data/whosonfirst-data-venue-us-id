@@ -2,13 +2,14 @@
   "id": 186427941,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.2938,47.554449,-116.2938,47.554449",
     "geom:latitude":47.554449,
     "geom:longitude":-116.2938,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"410 Valley View Rd",
     "sg:city":"Kingston",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":186427941,
-    "wof:lastmodified":1449051187,
+    "wof:lastmodified":1466488809,
     "wof:name":"Lish & Son Excavation & Constr",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "contractor"
     ]
 },
-  "bbox": [-116.2938,47.554449,-116.2938,47.554449],
+  "bbox": [
+    -116.2938,
+    47.554449,
+    -116.2938,
+    47.554449
+],
   "geometry": {"coordinates":[-116.2938,47.554449],"type":"Point"}
 }

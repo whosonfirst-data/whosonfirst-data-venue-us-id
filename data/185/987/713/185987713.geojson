@@ -2,13 +2,14 @@
   "id": 185987713,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.327933,43.639056,-116.327933,43.639056",
     "geom:latitude":43.639056,
     "geom:longitude":-116.327933,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"11717 W Musket Ct",
     "sg:city":"Boise",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":185987713,
-    "wof:lastmodified":1449007508,
+    "wof:lastmodified":1466488832,
     "wof:name":"Sunrider Distributor",
     "wof:parent_id":85876357,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "merchandise"
     ]
 },
-  "bbox": [-116.327933,43.639056,-116.327933,43.639056],
+  "bbox": [
+    -116.327933,
+    43.639056,
+    -116.327933,
+    43.639056
+],
   "geometry": {"coordinates":[-116.327933,43.639056],"type":"Point"}
 }

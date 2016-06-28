@@ -2,13 +2,14 @@
   "id": 186137349,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.212854,43.592432,-116.212854,43.592432",
     "geom:latitude":43.592432,
     "geom:longitude":-116.212854,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2418 Pendleton St",
     "sg:city":"Boise",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186137349,
-    "wof:lastmodified":1449052647,
+    "wof:lastmodified":1466488199,
     "wof:name":"Basque",
     "wof:parent_id":85876303,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "company"
     ]
 },
-  "bbox": [-116.212854,43.592432,-116.212854,43.592432],
-  "geometry": {"coordinates":[-116.212854,43.592432],"type":"Point"}
+  "bbox": [
+    -116.212854,
+    43.592432,
+    -116.212854,
+    43.592432
+],
+  "geometry": {"coordinates":[-116.21285399999999,43.592432],"type":"Point"}
 }

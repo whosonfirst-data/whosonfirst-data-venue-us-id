@@ -2,13 +2,14 @@
   "id": 320534651,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.620682,43.70649,-116.620682,43.70649",
     "geom:latitude":43.70649,
     "geom:longitude":-116.620682,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"210 E Main St",
     "sg:city":"Middleton",
     "sg:classifiers":[
@@ -65,10 +66,11 @@
         }
     ],
     "wof:id":320534651,
-    "wof:lastmodified":1449012234,
+    "wof:lastmodified":1466488332,
     "wof:name":"Main Tamers",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -79,6 +81,11 @@
         "supply"
     ]
 },
-  "bbox": [-116.620682,43.70649,-116.620682,43.70649],
+  "bbox": [
+    -116.620682,
+    43.70649,
+    -116.620682,
+    43.70649
+],
   "geometry": {"coordinates":[-116.620682,43.70649],"type":"Point"}
 }

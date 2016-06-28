@@ -2,13 +2,14 @@
   "id": 169807615,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.234642,43.635162,-116.234642,43.635162",
     "geom:latitude":43.635162,
     "geom:longitude":-116.234642,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"901 Riviera Dr",
     "sg:city":"Boise",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":169807615,
-    "wof:lastmodified":1449033536,
+    "wof:lastmodified":1466488448,
     "wof:name":"Family Health Sources",
     "wof:parent_id":85876339,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-116.234642,43.635162,-116.234642,43.635162],
-  "geometry": {"coordinates":[-116.234642,43.635162],"type":"Point"}
+  "bbox": [
+    -116.234642,
+    43.635162,
+    -116.234642,
+    43.635162
+],
+  "geometry": {"coordinates":[-116.23464199999999,43.635162],"type":"Point"}
 }

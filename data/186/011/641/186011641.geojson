@@ -2,13 +2,14 @@
   "id": 186011641,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.546213,48.320246,-116.546213,48.320246",
     "geom:latitude":48.320246,
     "geom:longitude":-116.546213,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"477978 Hwy 95",
     "sg:city":"Ponderay",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":186011641,
-    "wof:lastmodified":1449052521,
+    "wof:lastmodified":1466486874,
     "wof:name":"AAA Asphalt Rescue Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "asphalt"
     ]
 },
-  "bbox": [-116.546213,48.320246,-116.546213,48.320246],
-  "geometry": {"coordinates":[-116.546213,48.320246],"type":"Point"}
+  "bbox": [
+    -116.546213,
+    48.320246,
+    -116.546213,
+    48.320246
+],
+  "geometry": {"coordinates":[-116.54621299999999,48.320246],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 185950889,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.903866,43.68986,-111.903866,43.68986",
     "geom:latitude":43.68986,
     "geom:longitude":-111.903866,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"402 N 4000 E",
     "sg:city":"Rigby",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":185950889,
-    "wof:lastmodified":1449007246,
+    "wof:lastmodified":1466488675,
     "wof:name":"Rainey Carpets",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.903866,43.68986,-111.903866,43.68986],
-  "geometry": {"coordinates":[-111.903866,43.68986],"type":"Point"}
+  "bbox": [
+    -111.903866,
+    43.68986,
+    -111.903866,
+    43.68986
+],
+  "geometry": {"coordinates":[-111.90386599999999,43.68986],"type":"Point"}
 }

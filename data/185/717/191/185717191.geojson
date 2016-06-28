@@ -2,13 +2,14 @@
   "id": 185717191,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.674165,42.630315,-114.674165,42.630315",
     "geom:latitude":42.630315,
     "geom:longitude":-114.674165,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4373 N 1900 E",
     "sg:city":"Buhl",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":185717191,
-    "wof:lastmodified":1449006622,
+    "wof:lastmodified":1466487660,
     "wof:name":"Glendale Ranches",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "livestock"
     ]
 },
-  "bbox": [-114.674165,42.630315,-114.674165,42.630315],
+  "bbox": [
+    -114.674165,
+    42.630315,
+    -114.674165,
+    42.630315
+],
   "geometry": {"coordinates":[-114.674165,42.630315],"type":"Point"}
 }

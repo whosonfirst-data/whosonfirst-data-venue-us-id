@@ -2,13 +2,14 @@
   "id": 185687791,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.177723,43.609429,-116.177723,43.609429",
     "geom:latitude":43.609429,
     "geom:longitude":-116.177723,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1224 E Washington St",
     "sg:city":"Boise",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":185687791,
-    "wof:lastmodified":1449007057,
+    "wof:lastmodified":1466487427,
     "wof:name":"Accurato Inc",
     "wof:parent_id":85876345,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-116.177723,43.609429,-116.177723,43.609429],
+  "bbox": [
+    -116.177723,
+    43.609429,
+    -116.177723,
+    43.609429
+],
   "geometry": {"coordinates":[-116.177723,43.609429],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 185857095,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-113.794897,42.53816,-113.794897,42.53816",
     "geom:latitude":42.53816,
     "geom:longitude":-113.794897,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"234 W Main St",
     "sg:city":"Burley",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":185857095,
-    "wof:lastmodified":1449007641,
+    "wof:lastmodified":1466488380,
     "wof:name":"Sound Solutions",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "audio"
     ]
 },
-  "bbox": [-113.794897,42.53816,-113.794897,42.53816],
-  "geometry": {"coordinates":[-113.794897,42.53816],"type":"Point"}
+  "bbox": [
+    -113.794897,
+    42.53816,
+    -113.794897,
+    42.53816
+],
+  "geometry": {"coordinates":[-113.79489700000001,42.53816],"type":"Point"}
 }

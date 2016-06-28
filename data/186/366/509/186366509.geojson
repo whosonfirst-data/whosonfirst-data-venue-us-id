@@ -2,13 +2,14 @@
   "id": 186366509,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.023908,43.504729,-112.023908,43.504729",
     "geom:latitude":43.504729,
     "geom:longitude":-112.023908,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"925 N Holmes Ave",
     "sg:city":"Idaho Falls",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":186366509,
-    "wof:lastmodified":1449052314,
+    "wof:lastmodified":1466488760,
     "wof:name":"Gangplank",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.023908,43.504729,-112.023908,43.504729],
-  "geometry": {"coordinates":[-112.023908,43.504729],"type":"Point"}
+  "bbox": [
+    -112.023908,
+    43.504729,
+    -112.023908,
+    43.504729
+],
+  "geometry": {"coordinates":[-112.02390800000001,43.504729],"type":"Point"}
 }

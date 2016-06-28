@@ -2,13 +2,14 @@
   "id": 186325399,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.970326,43.921782,-115.970326,43.921782",
     "geom:latitude":43.921782,
     "geom:longitude":-115.970326,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"27 Barnes Cir",
     "sg:city":"Idaho City",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":186325399,
-    "wof:lastmodified":1449051413,
+    "wof:lastmodified":1466488810,
     "wof:name":"Debora Poindexter",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "department"
     ]
 },
-  "bbox": [-115.970326,43.921782,-115.970326,43.921782],
+  "bbox": [
+    -115.970326,
+    43.921782,
+    -115.970326,
+    43.921782
+],
   "geometry": {"coordinates":[-115.970326,43.921782],"type":"Point"}
 }

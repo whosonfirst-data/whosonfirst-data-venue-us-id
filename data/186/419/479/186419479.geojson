@@ -2,13 +2,14 @@
   "id": 186419479,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.790552,47.713564,-116.790552,47.713564",
     "geom:latitude":47.713564,
     "geom:longitude":-116.790552,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"296 W Sunset Ave",
     "sg:city":"Coeur D Alene",
     "sg:classifiers":[
@@ -67,10 +68,11 @@
         }
     ],
     "wof:id":186419479,
-    "wof:lastmodified":1449052985,
+    "wof:lastmodified":1466488800,
     "wof:name":"Open Arms Pregnancy Care Ctr",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -78,6 +80,11 @@
         "abortion"
     ]
 },
-  "bbox": [-116.790552,47.713564,-116.790552,47.713564],
-  "geometry": {"coordinates":[-116.790552,47.713564],"type":"Point"}
+  "bbox": [
+    -116.790552,
+    47.713564,
+    -116.790552,
+    47.713564
+],
+  "geometry": {"coordinates":[-116.79055200000001,47.713564],"type":"Point"}
 }

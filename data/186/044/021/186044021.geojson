@@ -2,13 +2,14 @@
   "id": 186044021,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.717307,43.156038,-115.717307,43.156038",
     "geom:latitude":43.156038,
     "geom:longitude":-115.717307,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2725 N 11th W",
     "sg:city":"Mountain Home",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":186044021,
-    "wof:lastmodified":1449051768,
+    "wof:lastmodified":1466487245,
     "wof:name":"Bennett Mountain Roofing",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "contractor"
     ]
 },
-  "bbox": [-115.717307,43.156038,-115.717307,43.156038],
-  "geometry": {"coordinates":[-115.717307,43.156038],"type":"Point"}
+  "bbox": [
+    -115.717307,
+    43.156038,
+    -115.717307,
+    43.156038
+],
+  "geometry": {"coordinates":[-115.71730700000001,43.156038],"type":"Point"}
 }

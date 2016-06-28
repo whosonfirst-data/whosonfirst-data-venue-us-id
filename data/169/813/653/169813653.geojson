@@ -2,13 +2,14 @@
   "id": 169813653,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.760669,46.727747,-116.760669,46.727747",
     "geom:latitude":46.727747,
     "geom:longitude":-116.760669,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1781 State Hwy 99",
     "sg:city":"Troy",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":169813653,
-    "wof:lastmodified":1449033539,
+    "wof:lastmodified":1466488538,
     "wof:name":"Granary",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-116.760669,46.727747,-116.760669,46.727747],
-  "geometry": {"coordinates":[-116.760669,46.727747],"type":"Point"}
+  "bbox": [
+    -116.760669,
+    46.727747,
+    -116.760669,
+    46.727747
+],
+  "geometry": {"coordinates":[-116.76066899999999,46.727747],"type":"Point"}
 }

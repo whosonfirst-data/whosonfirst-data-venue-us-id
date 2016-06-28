@@ -2,13 +2,14 @@
   "id": 320533669,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.382355,43.60483,-116.382355,43.60483",
     "geom:latitude":43.60483,
     "geom:longitude":-116.382355,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"910 E Franklin Rd Ste. 103",
     "sg:city":"Meridian",
     "sg:classifiers":[
@@ -82,10 +83,11 @@
         }
     ],
     "wof:id":320533669,
-    "wof:lastmodified":1449011213,
+    "wof:lastmodified":1466488318,
     "wof:name":"Rocky Mountain Roll",
     "wof:parent_id":85805083,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -102,6 +104,11 @@
         "audio-visual"
     ]
 },
-  "bbox": [-116.382355,43.60483,-116.382355,43.60483],
+  "bbox": [
+    -116.382355,
+    43.60483,
+    -116.382355,
+    43.60483
+],
   "geometry": {"coordinates":[-116.382355,43.60483],"type":"Point"}
 }

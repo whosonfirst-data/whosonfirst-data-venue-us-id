@@ -2,13 +2,14 @@
   "id": 169701079,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.203261,43.633653,-116.203261,43.633653",
     "geom:latitude":43.633653,
     "geom:longitude":-116.203261,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1908 N 13th St",
     "sg:city":"Boise",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":169701079,
-    "wof:lastmodified":1449035271,
+    "wof:lastmodified":1466488041,
     "wof:name":"Ashley Manor",
     "wof:parent_id":85876313,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "community"
     ]
 },
-  "bbox": [-116.203261,43.633653,-116.203261,43.633653],
+  "bbox": [
+    -116.203261,
+    43.633653,
+    -116.203261,
+    43.633653
+],
   "geometry": {"coordinates":[-116.203261,43.633653],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186252631,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.783315,47.758952,-116.783315,47.758952",
     "geom:latitude":47.758952,
     "geom:longitude":-116.783315,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"214 E Hayden Ave",
     "sg:city":"Hayden Lake",
     "sg:classifiers":[
@@ -56,10 +57,11 @@
         }
     ],
     "wof:id":186252631,
-    "wof:lastmodified":1449050657,
+    "wof:lastmodified":1466488680,
     "wof:name":"Shuman Signs & Custom Graphics",
     "wof:parent_id":85821457,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "design"
     ]
 },
-  "bbox": [-116.783315,47.758952,-116.783315,47.758952],
+  "bbox": [
+    -116.783315,
+    47.758952,
+    -116.783315,
+    47.758952
+],
   "geometry": {"coordinates":[-116.783315,47.758952],"type":"Point"}
 }

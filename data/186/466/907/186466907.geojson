@@ -2,13 +2,14 @@
   "id": 186466907,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.262687,43.666633,-116.262687,43.666633",
     "geom:latitude":43.666633,
     "geom:longitude":-116.262687,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5900 Castle Dr",
     "sg:city":"Boise",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":186466907,
-    "wof:lastmodified":1449051179,
+    "wof:lastmodified":1466488897,
     "wof:name":"Pierce Park Ward",
     "wof:parent_id":85811879,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "church"
     ]
 },
-  "bbox": [-116.262687,43.666633,-116.262687,43.666633],
+  "bbox": [
+    -116.262687,
+    43.666633,
+    -116.262687,
+    43.666633
+],
   "geometry": {"coordinates":[-116.262687,43.666633],"type":"Point"}
 }

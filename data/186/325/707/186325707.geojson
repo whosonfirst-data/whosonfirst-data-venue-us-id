@@ -2,13 +2,14 @@
   "id": 186325707,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.679657,43.654898,-116.679657,43.654898",
     "geom:latitude":43.654898,
     "geom:longitude":-116.679657,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1911 Everett St",
     "sg:city":"Caldwell",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":186325707,
-    "wof:lastmodified":1449051415,
+    "wof:lastmodified":1466488716,
     "wof:name":"Botanical & Environmental",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-116.679657,43.654898,-116.679657,43.654898],
-  "geometry": {"coordinates":[-116.679657,43.654898],"type":"Point"}
+  "bbox": [
+    -116.679657,
+    43.654898,
+    -116.679657,
+    43.654898
+],
+  "geometry": {"coordinates":[-116.67965700000001,43.654898],"type":"Point"}
 }

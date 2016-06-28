@@ -2,13 +2,14 @@
   "id": 185688919,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.392145,43.61909,-116.392145,43.61909",
     "geom:latitude":43.61909,
     "geom:longitude":-116.392145,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"39 E Fairview Ave",
     "sg:city":"Meridian",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":185688919,
-    "wof:lastmodified":1449007210,
+    "wof:lastmodified":1466487435,
     "wof:name":"Rampage Gaming",
     "wof:parent_id":85811491,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-116.392145,43.61909,-116.392145,43.61909],
+  "bbox": [
+    -116.392145,
+    43.61909,
+    -116.392145,
+    43.61909
+],
   "geometry": {"coordinates":[-116.392145,43.61909],"type":"Point"}
 }

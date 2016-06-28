@@ -2,13 +2,14 @@
   "id": 186486107,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.390137,43.613786,-116.390137,43.613786",
     "geom:latitude":43.613786,
     "geom:longitude":-116.390137,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"200 E Carlton Ave",
     "sg:city":"Meridian",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186486107,
-    "wof:lastmodified":1449051874,
+    "wof:lastmodified":1466488906,
     "wof:name":"Meridian City Motor Vehicle",
     "wof:parent_id":85811491,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "village"
     ]
 },
-  "bbox": [-116.390137,43.613786,-116.390137,43.613786],
+  "bbox": [
+    -116.390137,
+    43.613786,
+    -116.390137,
+    43.613786
+],
   "geometry": {"coordinates":[-116.390137,43.613786],"type":"Point"}
 }

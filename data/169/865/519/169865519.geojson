@@ -2,13 +2,14 @@
   "id": 169865519,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.730257,42.589846,-111.730257,42.589846",
     "geom:latitude":42.589846,
     "geom:longitude":-111.730257,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1190 State Hwy 34",
     "sg:city":"Grace",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":169865519,
-    "wof:lastmodified":1449035153,
+    "wof:lastmodified":1466488712,
     "wof:name":"JMK Repair",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-111.730257,42.589846,-111.730257,42.589846],
-  "geometry": {"coordinates":[-111.730257,42.589846],"type":"Point"}
+  "bbox": [
+    -111.730257,
+    42.589846,
+    -111.730257,
+    42.589846
+],
+  "geometry": {"coordinates":[-111.73025699999999,42.589846],"type":"Point"}
 }

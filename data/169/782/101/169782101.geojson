@@ -2,13 +2,14 @@
   "id": 169782101,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.241991,43.611684,-116.241991,43.611684",
     "geom:latitude":43.611684,
     "geom:longitude":-116.241991,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4828 Emerald St",
     "sg:city":"Boise",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":169782101,
-    "wof:lastmodified":1449032670,
+    "wof:lastmodified":1466488544,
     "wof:name":"Bench Sewer District",
     "wof:parent_id":85876311,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "system"
     ]
 },
-  "bbox": [-116.241991,43.611684,-116.241991,43.611684],
+  "bbox": [
+    -116.241991,
+    43.611684,
+    -116.241991,
+    43.611684
+],
   "geometry": {"coordinates":[-116.241991,43.611684],"type":"Point"}
 }

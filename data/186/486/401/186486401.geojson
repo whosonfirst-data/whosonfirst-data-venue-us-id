@@ -2,13 +2,14 @@
   "id": 186486401,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.925449,47.471592,-115.925449,47.471592",
     "geom:latitude":47.471592,
     "geom:longitude":-115.925449,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"500 Bank St",
     "sg:city":"Wallace",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":186486401,
-    "wof:lastmodified":1449051878,
+    "wof:lastmodified":1466488906,
     "wof:name":"Majestic Taxidermy Studio",
     "wof:parent_id":85849049,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-115.925449,47.471592,-115.925449,47.471592],
+  "bbox": [
+    -115.925449,
+    47.471592,
+    -115.925449,
+    47.471592
+],
   "geometry": {"coordinates":[-115.925449,47.471592],"type":"Point"}
 }

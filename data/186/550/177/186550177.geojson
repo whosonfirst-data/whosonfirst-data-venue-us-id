@@ -2,13 +2,14 @@
   "id": 186550177,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.27618,43.612488,-116.27618,43.612488",
     "geom:latitude":43.612488,
     "geom:longitude":-116.27618,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7550 Emerald St",
     "sg:city":"Boise",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186550177,
-    "wof:lastmodified":1449051837,
+    "wof:lastmodified":1466488888,
     "wof:name":"Peak Physical Therapy",
     "wof:parent_id":85841319,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "physical"
     ]
 },
-  "bbox": [-116.27618,43.612488,-116.27618,43.612488],
+  "bbox": [
+    -116.27618,
+    43.612488,
+    -116.27618,
+    43.612488
+],
   "geometry": {"coordinates":[-116.27618,43.612488],"type":"Point"}
 }

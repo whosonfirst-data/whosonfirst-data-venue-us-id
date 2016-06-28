@@ -2,13 +2,14 @@
   "id": 186430943,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.187389,43.646848,-116.187389,43.646848",
     "geom:latitude":43.646848,
     "geom:longitude":-116.187389,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"210 E Curling Dr",
     "sg:city":"Boise",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186430943,
-    "wof:lastmodified":1449052084,
+    "wof:lastmodified":1466488807,
     "wof:name":"Robert M Hoover Talent",
     "wof:parent_id":85825211,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "security"
     ]
 },
-  "bbox": [-116.187389,43.646848,-116.187389,43.646848],
+  "bbox": [
+    -116.187389,
+    43.646848,
+    -116.187389,
+    43.646848
+],
   "geometry": {"coordinates":[-116.187389,43.646848],"type":"Point"}
 }

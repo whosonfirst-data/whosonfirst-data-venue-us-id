@@ -2,13 +2,14 @@
   "id": 185975961,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.572964,43.553452,-116.572964,43.553452",
     "geom:latitude":43.553452,
     "geom:longitude":-116.572964,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1603 12th Ave Rd",
     "sg:city":"Nampa",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":185975961,
-    "wof:lastmodified":1449007999,
+    "wof:lastmodified":1466488640,
     "wof:name":"Dynamic Surgical Care",
     "wof:parent_id":85827787,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "surgeon"
     ]
 },
-  "bbox": [-116.572964,43.553452,-116.572964,43.553452],
+  "bbox": [
+    -116.572964,
+    43.553452,
+    -116.572964,
+    43.553452
+],
   "geometry": {"coordinates":[-116.572964,43.553452],"type":"Point"}
 }

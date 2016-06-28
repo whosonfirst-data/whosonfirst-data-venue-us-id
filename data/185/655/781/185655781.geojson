@@ -2,13 +2,14 @@
   "id": 185655781,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.240381,43.598873,-116.240381,43.598873",
     "geom:latitude":43.598873,
     "geom:longitude":-116.240381,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4720 Albion St",
     "sg:city":"Boise",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":185655781,
-    "wof:lastmodified":1449007525,
+    "wof:lastmodified":1466487183,
     "wof:name":"Sidonia Om Dunia",
     "wof:parent_id":85876295,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-116.240381,43.598873,-116.240381,43.598873],
+  "bbox": [
+    -116.240381,
+    43.598873,
+    -116.240381,
+    43.598873
+],
   "geometry": {"coordinates":[-116.240381,43.598873],"type":"Point"}
 }

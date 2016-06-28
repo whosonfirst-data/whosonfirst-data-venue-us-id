@@ -2,13 +2,14 @@
   "id": 185715401,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.049263,43.485426,-112.049263,43.485426",
     "geom:latitude":43.485426,
     "geom:longitude":-112.049263,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"919 Pancheri Dr",
     "sg:city":"Idaho Falls",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":185715401,
-    "wof:lastmodified":1449007896,
+    "wof:lastmodified":1466487644,
     "wof:name":"Platt Electric Supply Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "supply"
     ]
 },
-  "bbox": [-112.049263,43.485426,-112.049263,43.485426],
+  "bbox": [
+    -112.049263,
+    43.485426,
+    -112.049263,
+    43.485426
+],
   "geometry": {"coordinates":[-112.049263,43.485426],"type":"Point"}
 }

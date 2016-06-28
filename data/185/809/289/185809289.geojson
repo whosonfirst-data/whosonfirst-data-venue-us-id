@@ -2,13 +2,14 @@
   "id": 185809289,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.245229,42.186606,-112.245229,42.186606",
     "geom:latitude":42.186606,
     "geom:longitude":-112.245229,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"75 N Main St",
     "sg:city":"Malad City",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":185809289,
-    "wof:lastmodified":1449007942,
+    "wof:lastmodified":1466488328,
     "wof:name":"Down Home Country Gift Shop",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "shop"
     ]
 },
-  "bbox": [-112.245229,42.186606,-112.245229,42.186606],
-  "geometry": {"coordinates":[-112.245229,42.186606],"type":"Point"}
+  "bbox": [
+    -112.245229,
+    42.186606,
+    -112.245229,
+    42.186606
+],
+  "geometry": {"coordinates":[-112.24522899999999,42.186606],"type":"Point"}
 }

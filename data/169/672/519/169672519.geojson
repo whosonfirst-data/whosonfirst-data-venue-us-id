@@ -2,13 +2,14 @@
   "id": 169672519,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.831844,43.832365,-115.831844,43.832365",
     "geom:latitude":43.832365,
     "geom:longitude":-115.831844,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"112 Elk Creek Rd",
     "sg:city":"Idaho City",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":169672519,
-    "wof:lastmodified":1449032890,
+    "wof:lastmodified":1466487912,
     "wof:name":"Mary Annie's Kountry Kurls",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "shop"
     ]
 },
-  "bbox": [-115.831844,43.832365,-115.831844,43.832365],
+  "bbox": [
+    -115.831844,
+    43.832365,
+    -115.831844,
+    43.832365
+],
   "geometry": {"coordinates":[-115.831844,43.832365],"type":"Point"}
 }

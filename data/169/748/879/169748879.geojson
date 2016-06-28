@@ -2,13 +2,14 @@
   "id": 169748879,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.159541,43.567715,-116.159541,43.567715",
     "geom:latitude":43.567715,
     "geom:longitude":-116.159541,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1871 E Bergeson St",
     "sg:city":"Boise",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":169748879,
-    "wof:lastmodified":1449035145,
+    "wof:lastmodified":1466488511,
     "wof:name":"M A Meres",
     "wof:parent_id":85876329,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "mfg"
     ]
 },
-  "bbox": [-116.159541,43.567715,-116.159541,43.567715],
+  "bbox": [
+    -116.159541,
+    43.567715,
+    -116.159541,
+    43.567715
+],
   "geometry": {"coordinates":[-116.159541,43.567715],"type":"Point"}
 }

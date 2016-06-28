@@ -2,13 +2,14 @@
   "id": 185623771,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.420634,43.54645,-116.420634,43.54645",
     "geom:latitude":43.54645,
     "geom:longitude":-116.420634,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2045 W Lake Hazel Rd",
     "sg:city":"Meridian",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":185623771,
-    "wof:lastmodified":1449007727,
+    "wof:lastmodified":1466486943,
     "wof:name":"G/J Ranch",
     "wof:parent_id":85805083,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "general"
     ]
 },
-  "bbox": [-116.420634,43.54645,-116.420634,43.54645],
-  "geometry": {"coordinates":[-116.420634,43.54645],"type":"Point"}
+  "bbox": [
+    -116.420634,
+    43.54645,
+    -116.420634,
+    43.54645
+],
+  "geometry": {"coordinates":[-116.42063400000001,43.54645],"type":"Point"}
 }

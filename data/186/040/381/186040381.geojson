@@ -2,13 +2,14 @@
   "id": 186040381,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.441569,43.590951,-116.441569,43.590951",
     "geom:latitude":43.590951,
     "geom:longitude":-116.441569,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3850 Silver Terrace Rd",
     "sg:city":"Meridian",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":186040381,
-    "wof:lastmodified":1449052958,
+    "wof:lastmodified":1466487202,
     "wof:name":"Allen L Duddles Inc",
     "wof:parent_id":85805083,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-116.441569,43.590951,-116.441569,43.590951],
+  "bbox": [
+    -116.441569,
+    43.590951,
+    -116.441569,
+    43.590951
+],
   "geometry": {"coordinates":[-116.441569,43.590951],"type":"Point"}
 }

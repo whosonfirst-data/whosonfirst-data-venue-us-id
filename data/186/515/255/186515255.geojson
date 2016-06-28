@@ -2,13 +2,14 @@
   "id": 186515255,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.22582,43.616251,-116.22582,43.616251",
     "geom:latitude":43.616251,
     "geom:longitude":-116.22582,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3417 W Americana Ter",
     "sg:city":"Boise",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186515255,
-    "wof:lastmodified":1449051022,
+    "wof:lastmodified":1466488923,
     "wof:name":"Idaho Bioscience Assn",
     "wof:parent_id":85876301,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "referral"
     ]
 },
-  "bbox": [-116.22582,43.616251,-116.22582,43.616251],
+  "bbox": [
+    -116.22582,
+    43.616251,
+    -116.22582,
+    43.616251
+],
   "geometry": {"coordinates":[-116.22582,43.616251],"type":"Point"}
 }

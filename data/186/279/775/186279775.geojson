@@ -2,13 +2,14 @@
   "id": 186279775,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.784986,47.741978,-116.784986,47.741978",
     "geom:latitude":47.741978,
     "geom:longitude":-116.784986,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7735 E Aqua Cir",
     "sg:city":"Dalton Gardens",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":186279775,
-    "wof:lastmodified":1449051604,
+    "wof:lastmodified":1466488650,
     "wof:name":"Kaestner Electric Inc",
     "wof:parent_id":85821457,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "contractor"
     ]
 },
-  "bbox": [-116.784986,47.741978,-116.784986,47.741978],
+  "bbox": [
+    -116.784986,
+    47.741978,
+    -116.784986,
+    47.741978
+],
   "geometry": {"coordinates":[-116.784986,47.741978],"type":"Point"}
 }

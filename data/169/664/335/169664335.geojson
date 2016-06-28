@@ -2,13 +2,14 @@
   "id": 169664335,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.923916,47.471682,-115.923916,47.471682",
     "geom:latitude":47.471682,
     "geom:longitude":-115.923916,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"605 Bank St",
     "sg:city":"Wallace",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":169664335,
-    "wof:lastmodified":1449033914,
+    "wof:lastmodified":1466487802,
     "wof:name":"Cobblestone Collectibles",
     "wof:parent_id":85849049,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "antique"
     ]
 },
-  "bbox": [-115.923916,47.471682,-115.923916,47.471682],
-  "geometry": {"coordinates":[-115.923916,47.471682],"type":"Point"}
+  "bbox": [
+    -115.923916,
+    47.471682,
+    -115.923916,
+    47.471682
+],
+  "geometry": {"coordinates":[-115.92391600000001,47.471682],"type":"Point"}
 }

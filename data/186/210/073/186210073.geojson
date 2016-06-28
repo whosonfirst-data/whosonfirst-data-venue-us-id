@@ -2,13 +2,14 @@
   "id": 186210073,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.401756,43.579659,-116.401756,43.579659",
     "geom:latitude":43.579659,
     "geom:longitude":-116.401756,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2769 S Denali Pl",
     "sg:city":"Meridian",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186210073,
-    "wof:lastmodified":1449051299,
+    "wof:lastmodified":1466488607,
     "wof:name":"FMCI Inc",
     "wof:parent_id":85805083,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "builder"
     ]
 },
-  "bbox": [-116.401756,43.579659,-116.401756,43.579659],
-  "geometry": {"coordinates":[-116.401756,43.579659],"type":"Point"}
+  "bbox": [
+    -116.401756,
+    43.579659,
+    -116.401756,
+    43.579659
+],
+  "geometry": {"coordinates":[-116.40175600000001,43.579659],"type":"Point"}
 }

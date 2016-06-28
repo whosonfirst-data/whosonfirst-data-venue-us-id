@@ -2,13 +2,14 @@
   "id": 186482095,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-113.877918,45.169608,-113.877918,45.169608",
     "geom:latitude":45.169608,
     "geom:longitude":-113.877918,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"186 Lemhi Rd",
     "sg:city":"Salmon",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186482095,
-    "wof:lastmodified":1449051349,
+    "wof:lastmodified":1466488794,
     "wof:name":"Kirtley Creek Automotive",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "general"
     ]
 },
-  "bbox": [-113.877918,45.169608,-113.877918,45.169608],
-  "geometry": {"coordinates":[-113.877918,45.169608],"type":"Point"}
+  "bbox": [
+    -113.877918,
+    45.169608,
+    -113.877918,
+    45.169608
+],
+  "geometry": {"coordinates":[-113.87791799999999,45.169608],"type":"Point"}
 }

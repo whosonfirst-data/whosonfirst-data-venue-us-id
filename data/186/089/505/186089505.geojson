@@ -2,13 +2,14 @@
   "id": 186089505,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.954641,46.370345,-116.954641,46.370345",
     "geom:latitude":46.370345,
     "geom:longitude":-116.954641,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3634 15th St",
     "sg:city":"Lewiston",
     "sg:classifiers":[
@@ -58,14 +59,20 @@
         }
     ],
     "wof:id":186089505,
-    "wof:lastmodified":1449050951,
+    "wof:lastmodified":1466487753,
     "wof:name":"Elaine Goodner LLC",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-116.954641,46.370345,-116.954641,46.370345],
+  "bbox": [
+    -116.954641,
+    46.370345,
+    -116.954641,
+    46.370345
+],
   "geometry": {"coordinates":[-116.954641,46.370345],"type":"Point"}
 }

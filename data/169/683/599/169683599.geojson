@@ -2,13 +2,14 @@
   "id": 169683599,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.563487,48.164958,-116.563487,48.164958",
     "geom:latitude":48.164958,
     "geom:longitude":-116.563487,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1756 E Dufort Rd",
     "sg:city":"Sagle",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":169683599,
-    "wof:lastmodified":1449033907,
+    "wof:lastmodified":1466487978,
     "wof:name":"Hills Pet Nutrition Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-116.563487,48.164958,-116.563487,48.164958],
-  "geometry": {"coordinates":[-116.563487,48.164958],"type":"Point"}
+  "bbox": [
+    -116.563487,
+    48.164958,
+    -116.563487,
+    48.164958
+],
+  "geometry": {"coordinates":[-116.56348699999999,48.164958],"type":"Point"}
 }

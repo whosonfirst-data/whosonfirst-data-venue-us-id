@@ -2,13 +2,14 @@
   "id": 185699165,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-117.009324,46.416052,-117.009324,46.416052",
     "geom:latitude":46.416052,
     "geom:longitude":-117.009324,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1624 G St",
     "sg:city":"Lewiston",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":185699165,
-    "wof:lastmodified":1449006826,
+    "wof:lastmodified":1466487517,
     "wof:name":"Radakovich Law Office",
     "wof:parent_id":85837769,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "attorney"
     ]
 },
-  "bbox": [-117.009324,46.416052,-117.009324,46.416052],
-  "geometry": {"coordinates":[-117.009324,46.416052],"type":"Point"}
+  "bbox": [
+    -117.009324,
+    46.416052,
+    -117.009324,
+    46.416052
+],
+  "geometry": {"coordinates":[-117.00932400000001,46.416052],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169858525,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.418966,43.553512,-116.418966,43.553512",
     "geom:latitude":43.553512,
     "geom:longitude":-116.418966,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1651 W Jarvis Ct",
     "sg:city":"Meridian",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":169858525,
-    "wof:lastmodified":1449032998,
+    "wof:lastmodified":1466488710,
     "wof:name":"Boswell Paving",
     "wof:parent_id":85805083,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "general"
     ]
 },
-  "bbox": [-116.418966,43.553512,-116.418966,43.553512],
+  "bbox": [
+    -116.418966,
+    43.553512,
+    -116.418966,
+    43.553512
+],
   "geometry": {"coordinates":[-116.418966,43.553512],"type":"Point"}
 }

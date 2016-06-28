@@ -2,13 +2,14 @@
   "id": 169792673,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-113.895848,45.177243,-113.895848,45.177243",
     "geom:latitude":45.177243,
     "geom:longitude":-113.895848,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"300 Shoup St",
     "sg:city":"Salmon",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":169792673,
-    "wof:lastmodified":1449033392,
+    "wof:lastmodified":1466488487,
     "wof:name":"House of Bargains",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-113.895848,45.177243,-113.895848,45.177243],
+  "bbox": [
+    -113.895848,
+    45.177243,
+    -113.895848,
+    45.177243
+],
   "geometry": {"coordinates":[-113.895848,45.177243],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186182229,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.058688,43.465194,-112.058688,43.465194",
     "geom:latitude":43.465194,
     "geom:longitude":-112.058688,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3570 S Yellowstone Hwy",
     "sg:city":"Idaho Falls",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":186182229,
-    "wof:lastmodified":1449052071,
+    "wof:lastmodified":1466488529,
     "wof:name":"Stephenson Tile",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-112.058688,43.465194,-112.058688,43.465194],
+  "bbox": [
+    -112.058688,
+    43.465194,
+    -112.058688,
+    43.465194
+],
   "geometry": {"coordinates":[-112.058688,43.465194],"type":"Point"}
 }

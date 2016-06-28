@@ -2,13 +2,14 @@
   "id": 186309457,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.068501,43.452641,-112.068501,43.452641",
     "geom:latitude":43.452641,
     "geom:longitude":-112.068501,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5020 S Yellowstone Hwy",
     "sg:city":"Idaho Falls",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186309457,
-    "wof:lastmodified":1449050989,
+    "wof:lastmodified":1466488688,
     "wof:name":"Printcraft Press Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "commercial"
     ]
 },
-  "bbox": [-112.068501,43.452641,-112.068501,43.452641],
+  "bbox": [
+    -112.068501,
+    43.452641,
+    -112.068501,
+    43.452641
+],
   "geometry": {"coordinates":[-112.068501,43.452641],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 185798249,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.516662,43.670005,-116.516662,43.670005",
     "geom:latitude":43.670005,
     "geom:longitude":-116.516662,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6267 Joplin Rd",
     "sg:city":"Nampa",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":185798249,
-    "wof:lastmodified":1449006916,
+    "wof:lastmodified":1466488370,
     "wof:name":"Clayton Tree Farm",
     "wof:parent_id":85827787,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "tree"
     ]
 },
-  "bbox": [-116.516662,43.670005,-116.516662,43.670005],
+  "bbox": [
+    -116.516662,
+    43.670005,
+    -116.516662,
+    43.670005
+],
   "geometry": {"coordinates":[-116.516662,43.670005],"type":"Point"}
 }

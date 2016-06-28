@@ -2,13 +2,14 @@
   "id": 186316351,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.465859,42.552559,-114.465859,42.552559",
     "geom:latitude":42.552559,
     "geom:longitude":-114.465859,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"460 Main Ave S",
     "sg:city":"Twin Falls",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":186316351,
-    "wof:lastmodified":1449052192,
+    "wof:lastmodified":1466488622,
     "wof:name":"Liberty Care Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "mental"
     ]
 },
-  "bbox": [-114.465859,42.552559,-114.465859,42.552559],
-  "geometry": {"coordinates":[-114.465859,42.552559],"type":"Point"}
+  "bbox": [
+    -114.465859,
+    42.552559,
+    -114.465859,
+    42.552559
+],
+  "geometry": {"coordinates":[-114.46585899999999,42.552559],"type":"Point"}
 }

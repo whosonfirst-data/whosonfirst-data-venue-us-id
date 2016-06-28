@@ -2,13 +2,14 @@
   "id": 185701865,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.329334,43.619354,-116.329334,43.619354",
     "geom:latitude":43.619354,
     "geom:longitude":-116.329334,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"11505 Fairview Ave",
     "sg:city":"Boise",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":185701865,
-    "wof:lastmodified":1449007890,
+    "wof:lastmodified":1466487540,
     "wof:name":"Cabin Co Lodge Pole Pine Furn",
     "wof:parent_id":85811491,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-116.329334,43.619354,-116.329334,43.619354],
+  "bbox": [
+    -116.329334,
+    43.619354,
+    -116.329334,
+    43.619354
+],
   "geometry": {"coordinates":[-116.329334,43.619354],"type":"Point"}
 }

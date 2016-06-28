@@ -2,13 +2,14 @@
   "id": 185599373,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.815171,43.670171,-116.815171,43.670171",
     "geom:latitude":43.670171,
     "geom:longitude":-116.815171,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"20550 Whittier Dr",
     "sg:city":"Greenleaf",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":185599373,
-    "wof:lastmodified":1449007359,
+    "wof:lastmodified":1466486988,
     "wof:name":"Valspec Contracting Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "painter"
     ]
 },
-  "bbox": [-116.815171,43.670171,-116.815171,43.670171],
-  "geometry": {"coordinates":[-116.815171,43.670171],"type":"Point"}
+  "bbox": [
+    -116.815171,
+    43.670171,
+    -116.815171,
+    43.670171
+],
+  "geometry": {"coordinates":[-116.81517100000001,43.670171],"type":"Point"}
 }

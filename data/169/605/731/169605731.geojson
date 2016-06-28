@@ -2,13 +2,14 @@
   "id": 169605731,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.525478,43.551107,-116.525478,43.551107",
     "geom:latitude":43.551107,
     "geom:longitude":-116.525478,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3400 E Brenan Dr",
     "sg:city":"Nampa",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":169605731,
-    "wof:lastmodified":1449034292,
+    "wof:lastmodified":1466486890,
     "wof:name":"Boyce Construction",
     "wof:parent_id":85827787,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-116.525478,43.551107,-116.525478,43.551107],
-  "geometry": {"coordinates":[-116.525478,43.551107],"type":"Point"}
+  "bbox": [
+    -116.525478,
+    43.551107,
+    -116.525478,
+    43.551107
+],
+  "geometry": {"coordinates":[-116.52547800000001,43.551107],"type":"Point"}
 }

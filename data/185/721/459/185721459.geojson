@@ -2,13 +2,14 @@
   "id": 185721459,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.286013,43.585698,-116.286013,43.585698",
     "geom:latitude":43.585698,
     "geom:longitude":-116.286013,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1922 Surrey Rd",
     "sg:city":"Boise",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":185721459,
-    "wof:lastmodified":1449008206,
+    "wof:lastmodified":1466487693,
     "wof:name":"JMR Repair",
     "wof:parent_id":85876321,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "vehicle"
     ]
 },
-  "bbox": [-116.286013,43.585698,-116.286013,43.585698],
+  "bbox": [
+    -116.286013,
+    43.585698,
+    -116.286013,
+    43.585698
+],
   "geometry": {"coordinates":[-116.286013,43.585698],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169836827,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.499056,43.584393,-116.499056,43.584393",
     "geom:latitude":43.584393,
     "geom:longitude":-116.499056,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5820 Oak St",
     "sg:city":"Nampa",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":169836827,
-    "wof:lastmodified":1449034867,
+    "wof:lastmodified":1466488597,
     "wof:name":"Rainbow Prints",
     "wof:parent_id":85827787,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "retail"
     ]
 },
-  "bbox": [-116.499056,43.584393,-116.499056,43.584393],
+  "bbox": [
+    -116.499056,
+    43.584393,
+    -116.499056,
+    43.584393
+],
   "geometry": {"coordinates":[-116.499056,43.584393],"type":"Point"}
 }

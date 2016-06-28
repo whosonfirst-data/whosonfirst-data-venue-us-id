@@ -2,13 +2,14 @@
   "id": 185942067,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.810922,47.832988,-116.810922,47.832988",
     "geom:latitude":47.832988,
     "geom:longitude":-116.810922,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1651 W Hampton Ct",
     "sg:city":"Rathdrum",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":185942067,
-    "wof:lastmodified":1449007352,
+    "wof:lastmodified":1466488653,
     "wof:name":"Thompson Construction",
     "wof:parent_id":85821457,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "house"
     ]
 },
-  "bbox": [-116.810922,47.832988,-116.810922,47.832988],
-  "geometry": {"coordinates":[-116.810922,47.832988],"type":"Point"}
+  "bbox": [
+    -116.810922,
+    47.832988,
+    -116.810922,
+    47.832988
+],
+  "geometry": {"coordinates":[-116.81092200000001,47.832988],"type":"Point"}
 }

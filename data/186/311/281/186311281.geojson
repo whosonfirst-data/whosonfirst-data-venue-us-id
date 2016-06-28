@@ -2,13 +2,14 @@
   "id": 186311281,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.330644,43.588973,-116.330644,43.588973",
     "geom:latitude":43.588973,
     "geom:longitude":-116.330644,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"11990 W Armga Dr",
     "sg:city":"Boise",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":186311281,
-    "wof:lastmodified":1449051031,
+    "wof:lastmodified":1466488686,
     "wof:name":"Sophies Snacks",
     "wof:parent_id":85805083,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-116.330644,43.588973,-116.330644,43.588973],
-  "geometry": {"coordinates":[-116.330644,43.588973],"type":"Point"}
+  "bbox": [
+    -116.330644,
+    43.588973,
+    -116.330644,
+    43.588973
+],
+  "geometry": {"coordinates":[-116.33064400000001,43.588973],"type":"Point"}
 }

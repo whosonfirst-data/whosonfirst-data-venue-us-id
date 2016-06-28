@@ -2,13 +2,14 @@
   "id": 169862047,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.490654,43.69599,-116.490654,43.69599",
     "geom:latitude":43.69599,
     "geom:longitude":-116.490654,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"11031 W Altair St",
     "sg:city":"Star",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":169862047,
-    "wof:lastmodified":1449036047,
+    "wof:lastmodified":1466488633,
     "wof:name":"D J Dave's Mobile Disc Jockey",
     "wof:parent_id":85876351,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "music"
     ]
 },
-  "bbox": [-116.490654,43.69599,-116.490654,43.69599],
-  "geometry": {"coordinates":[-116.490654,43.69599],"type":"Point"}
+  "bbox": [
+    -116.490654,
+    43.69599,
+    -116.490654,
+    43.69599
+],
+  "geometry": {"coordinates":[-116.49065400000001,43.69599],"type":"Point"}
 }

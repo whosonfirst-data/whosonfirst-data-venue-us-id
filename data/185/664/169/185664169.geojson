@@ -2,13 +2,14 @@
   "id": 185664169,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.213574,43.578807,-116.213574,43.578807",
     "geom:latitude":43.578807,
     "geom:longitude":-116.213574,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2770 Vista Ave",
     "sg:city":"Boise",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":185664169,
-    "wof:lastmodified":1449007199,
+    "wof:lastmodified":1466487246,
     "wof:name":"Mortgage Partners",
     "wof:parent_id":85876343,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "real estate"
     ]
 },
-  "bbox": [-116.213574,43.578807,-116.213574,43.578807],
-  "geometry": {"coordinates":[-116.213574,43.578807],"type":"Point"}
+  "bbox": [
+    -116.213574,
+    43.578807,
+    -116.213574,
+    43.578807
+],
+  "geometry": {"coordinates":[-116.21357399999999,43.578807],"type":"Point"}
 }

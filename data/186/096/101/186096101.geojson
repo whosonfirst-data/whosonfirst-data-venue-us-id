@@ -2,13 +2,14 @@
   "id": 186096101,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.547702,48.275909,-116.547702,48.275909",
     "geom:latitude":48.275909,
     "geom:longitude":-116.547702,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"316 N 1st Ave",
     "sg:city":"Sandpoint",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":186096101,
-    "wof:lastmodified":1449051256,
+    "wof:lastmodified":1466487819,
     "wof:name":"Ray Kincaid Jewelry",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "jeweler"
     ]
 },
-  "bbox": [-116.547702,48.275909,-116.547702,48.275909],
+  "bbox": [
+    -116.547702,
+    48.275909,
+    -116.547702,
+    48.275909
+],
   "geometry": {"coordinates":[-116.547702,48.275909],"type":"Point"}
 }

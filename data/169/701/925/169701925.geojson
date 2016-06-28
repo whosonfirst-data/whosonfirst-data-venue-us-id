@@ -2,13 +2,14 @@
   "id": 169701925,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.197644,43.625618,-116.197644,43.625618",
     "geom:latitude":43.625618,
     "geom:longitude":-116.197644,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1213 N 8th St",
     "sg:city":"Boise",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":169701925,
-    "wof:lastmodified":1449035269,
+    "wof:lastmodified":1466488050,
     "wof:name":"DPE Electric Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "contractor"
     ]
 },
-  "bbox": [-116.197644,43.625618,-116.197644,43.625618],
+  "bbox": [
+    -116.197644,
+    43.625618,
+    -116.197644,
+    43.625618
+],
   "geometry": {"coordinates":[-116.197644,43.625618],"type":"Point"}
 }

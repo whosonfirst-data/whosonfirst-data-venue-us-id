@@ -2,13 +2,14 @@
   "id": 185897633,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.243531,43.609303,-116.243531,43.609303",
     "geom:latitude":43.609303,
     "geom:longitude":-116.243531,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"555 N Orchard St",
     "sg:city":"Boise",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":185897633,
-    "wof:lastmodified":1449007977,
+    "wof:lastmodified":1466488554,
     "wof:name":"K C Auto Paint & Supplies Inc",
     "wof:parent_id":85876311,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "equipment"
     ]
 },
-  "bbox": [-116.243531,43.609303,-116.243531,43.609303],
+  "bbox": [
+    -116.243531,
+    43.609303,
+    -116.243531,
+    43.609303
+],
   "geometry": {"coordinates":[-116.243531,43.609303],"type":"Point"}
 }

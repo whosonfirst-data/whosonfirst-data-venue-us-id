@@ -2,13 +2,14 @@
   "id": 185823955,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.816613,47.322931,-116.816613,47.322931",
     "geom:latitude":47.322931,
     "geom:longitude":-116.816613,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1366 Agte Rd",
     "sg:city":"Plummer",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":185823955,
-    "wof:lastmodified":1449008179,
+    "wof:lastmodified":1466488409,
     "wof:name":"Heyburn Hills Guest Farm",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "bed"
     ]
 },
-  "bbox": [-116.816613,47.322931,-116.816613,47.322931],
+  "bbox": [
+    -116.816613,
+    47.322931,
+    -116.816613,
+    47.322931
+],
   "geometry": {"coordinates":[-116.816613,47.322931],"type":"Point"}
 }

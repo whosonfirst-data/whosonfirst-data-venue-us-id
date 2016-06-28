@@ -2,13 +2,14 @@
   "id": 185864423,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.311606,43.538766,-116.311606,43.538766",
     "geom:latitude":43.538766,
     "geom:longitude":-116.311606,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10496 Trestlewood St",
     "sg:city":"Boise",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":185864423,
-    "wof:lastmodified":1449008229,
+    "wof:lastmodified":1466488395,
     "wof:name":"Starr Welder Svc Inc",
     "wof:parent_id":85876331,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "related"
     ]
 },
-  "bbox": [-116.311606,43.538766,-116.311606,43.538766],
+  "bbox": [
+    -116.311606,
+    43.538766,
+    -116.311606,
+    43.538766
+],
   "geometry": {"coordinates":[-116.311606,43.538766],"type":"Point"}
 }

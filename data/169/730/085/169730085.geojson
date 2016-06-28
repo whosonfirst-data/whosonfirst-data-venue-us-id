@@ -2,13 +2,14 @@
   "id": 169730085,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.832265,43.558255,-116.832265,43.558255",
     "geom:latitude":43.558255,
     "geom:longitude":-116.832265,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6362 N Edison Rd",
     "sg:city":"Marsing",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":169730085,
-    "wof:lastmodified":1449035430,
+    "wof:lastmodified":1466488281,
     "wof:name":"Lootens Brothers Shop",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-116.832265,43.558255,-116.832265,43.558255],
-  "geometry": {"coordinates":[-116.832265,43.558255],"type":"Point"}
+  "bbox": [
+    -116.832265,
+    43.558255,
+    -116.832265,
+    43.558255
+],
+  "geometry": {"coordinates":[-116.83226500000001,43.558255],"type":"Point"}
 }

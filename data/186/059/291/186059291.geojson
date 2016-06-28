@@ -2,13 +2,14 @@
   "id": 186059291,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-117.001447,46.73378,-117.001447,46.73378",
     "geom:latitude":46.73378,
     "geom:longitude":-117.001447,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"113 N Main St",
     "sg:city":"Moscow",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":186059291,
-    "wof:lastmodified":1449051117,
+    "wof:lastmodified":1466487419,
     "wof:name":"Locogrinz Hawaiian Plate Lunch",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-117.001447,46.73378,-117.001447,46.73378],
+  "bbox": [
+    -117.001447,
+    46.73378,
+    -117.001447,
+    46.73378
+],
   "geometry": {"coordinates":[-117.001447,46.73378],"type":"Point"}
 }

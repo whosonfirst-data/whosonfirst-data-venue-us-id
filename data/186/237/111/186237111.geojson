@@ -2,13 +2,14 @@
   "id": 186237111,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.79718,47.702216,-116.79718,47.702216",
     "geom:latitude":47.702216,
     "geom:longitude":-116.79718,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2705 N Howard St",
     "sg:city":"Coeur D Alene",
     "sg:classifiers":[
@@ -62,10 +63,11 @@
         }
     ],
     "wof:id":186237111,
-    "wof:lastmodified":1449050332,
+    "wof:lastmodified":1466488498,
     "wof:name":"3-H Mechanical Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -73,6 +75,11 @@
         "contractor"
     ]
 },
-  "bbox": [-116.79718,47.702216,-116.79718,47.702216],
+  "bbox": [
+    -116.79718,
+    47.702216,
+    -116.79718,
+    47.702216
+],
   "geometry": {"coordinates":[-116.79718,47.702216],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186015203,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-117.023265,46.41359,-117.023265,46.41359",
     "geom:latitude":46.41359,
     "geom:longitude":-117.023265,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"631 7th Ave",
     "sg:city":"Lewiston",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186015203,
-    "wof:lastmodified":1449051011,
+    "wof:lastmodified":1466486915,
     "wof:name":"Douglas Construction",
     "wof:parent_id":85852537,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "house"
     ]
 },
-  "bbox": [-117.023265,46.41359,-117.023265,46.41359],
-  "geometry": {"coordinates":[-117.023265,46.41359],"type":"Point"}
+  "bbox": [
+    -117.023265,
+    46.41359,
+    -117.023265,
+    46.41359
+],
+  "geometry": {"coordinates":[-117.02326499999999,46.41359],"type":"Point"}
 }

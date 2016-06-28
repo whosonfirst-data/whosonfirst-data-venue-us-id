@@ -2,13 +2,14 @@
   "id": 185941501,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.448895,43.627933,-116.448895,43.627933",
     "geom:latitude":43.627933,
     "geom:longitude":-116.448895,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2547 N Crooked Creek Way",
     "sg:city":"Meridian",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":185941501,
-    "wof:lastmodified":1449007572,
+    "wof:lastmodified":1466488721,
     "wof:name":"Cfb Electric Inc",
     "wof:parent_id":85876351,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-116.448895,43.627933,-116.448895,43.627933],
-  "geometry": {"coordinates":[-116.448895,43.627933],"type":"Point"}
+  "bbox": [
+    -116.448895,
+    43.627933,
+    -116.448895,
+    43.627933
+],
+  "geometry": {"coordinates":[-116.44889499999999,43.627933],"type":"Point"}
 }

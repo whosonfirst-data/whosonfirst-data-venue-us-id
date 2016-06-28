@@ -2,13 +2,14 @@
   "id": 320550805,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-117.033785,47.782932,-117.033785,47.782932",
     "geom:latitude":47.782932,
     "geom:longitude":-117.033785,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"18404 W Paddlewheel Ln",
     "sg:city":"Hauser",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":320550805,
-    "wof:lastmodified":1449013287,
+    "wof:lastmodified":1466487048,
     "wof:name":"T & D Concessions",
     "wof:parent_id":85833263,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "concessionaire"
     ]
 },
-  "bbox": [-117.033785,47.782932,-117.033785,47.782932],
-  "geometry": {"coordinates":[-117.033785,47.782932],"type":"Point"}
+  "bbox": [
+    -117.033785,
+    47.782932,
+    -117.033785,
+    47.782932
+],
+  "geometry": {"coordinates":[-117.03378499999999,47.782932],"type":"Point"}
 }

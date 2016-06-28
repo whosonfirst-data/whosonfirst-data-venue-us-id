@@ -2,13 +2,14 @@
   "id": 186130721,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.851166,46.214421,-116.851166,46.214421",
     "geom:latitude":46.214421,
     "geom:longitude":-116.851166,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"40787 Waha Rd",
     "sg:city":"Lewiston",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186130721,
-    "wof:lastmodified":1449051319,
+    "wof:lastmodified":1466488158,
     "wof:name":"Waha Store & Grill",
     "wof:parent_id":85837769,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "eating"
     ]
 },
-  "bbox": [-116.851166,46.214421,-116.851166,46.214421],
-  "geometry": {"coordinates":[-116.851166,46.214421],"type":"Point"}
+  "bbox": [
+    -116.851166,
+    46.214421,
+    -116.851166,
+    46.214421
+],
+  "geometry": {"coordinates":[-116.85116600000001,46.214421],"type":"Point"}
 }

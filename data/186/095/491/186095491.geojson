@@ -2,13 +2,14 @@
   "id": 186095491,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.237097,43.62093,-116.237097,43.62093",
     "geom:latitude":43.62093,
     "geom:longitude":-116.237097,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3145 Chinden Blvd",
     "sg:city":"Boise",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186095491,
-    "wof:lastmodified":1449051729,
+    "wof:lastmodified":1466487813,
     "wof:name":"Uncommon Records",
     "wof:parent_id":85876301,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "studio"
     ]
 },
-  "bbox": [-116.237097,43.62093,-116.237097,43.62093],
-  "geometry": {"coordinates":[-116.237097,43.62093],"type":"Point"}
+  "bbox": [
+    -116.237097,
+    43.62093,
+    -116.237097,
+    43.62093
+],
+  "geometry": {"coordinates":[-116.23709700000001,43.62093],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 185763887,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.550631,43.566026,-116.550631,43.566026",
     "geom:latitude":43.566026,
     "geom:longitude":-116.550631,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1620 E Lincoln Ave",
     "sg:city":"Nampa",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":185763887,
-    "wof:lastmodified":1449008200,
+    "wof:lastmodified":1466488032,
     "wof:name":"Little Rascals Day Care",
     "wof:parent_id":85827787,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "day"
     ]
 },
-  "bbox": [-116.550631,43.566026,-116.550631,43.566026],
+  "bbox": [
+    -116.550631,
+    43.566026,
+    -116.550631,
+    43.566026
+],
   "geometry": {"coordinates":[-116.550631,43.566026],"type":"Point"}
 }

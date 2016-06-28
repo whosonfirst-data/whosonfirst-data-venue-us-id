@@ -2,13 +2,14 @@
   "id": 186447795,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.780751,47.687053,-116.780751,47.687053",
     "geom:latitude":47.687053,
     "geom:longitude":-116.780751,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1217 N 4th St",
     "sg:city":"Coeur D Alene",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":186447795,
-    "wof:lastmodified":1449052243,
+    "wof:lastmodified":1466488818,
     "wof:name":"Coeur D'Alene Do It Ctr",
     "wof:parent_id":85821457,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-116.780751,47.687053,-116.780751,47.687053],
+  "bbox": [
+    -116.780751,
+    47.687053,
+    -116.780751,
+    47.687053
+],
   "geometry": {"coordinates":[-116.780751,47.687053],"type":"Point"}
 }

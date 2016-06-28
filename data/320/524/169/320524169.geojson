@@ -2,13 +2,14 @@
   "id": 320524169,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.995206,46.380484,-116.995206,46.380484",
     "geom:latitude":46.380484,
     "geom:longitude":-116.995206,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"708 Bryden Ave",
     "sg:city":"Lewiston",
     "sg:classifiers":[
@@ -68,10 +69,11 @@
         }
     ],
     "wof:id":320524169,
-    "wof:lastmodified":1449011223,
+    "wof:lastmodified":1466487233,
     "wof:name":"Lewiston Microwave & Appliance",
     "wof:parent_id":85837769,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -90,6 +92,11 @@
         "system"
     ]
 },
-  "bbox": [-116.995206,46.380484,-116.995206,46.380484],
+  "bbox": [
+    -116.995206,
+    46.380484,
+    -116.995206,
+    46.380484
+],
   "geometry": {"coordinates":[-116.995206,46.380484],"type":"Point"}
 }

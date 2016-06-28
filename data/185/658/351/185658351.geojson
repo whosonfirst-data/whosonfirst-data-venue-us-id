@@ -2,13 +2,14 @@
   "id": 185658351,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.448887,43.626446,-116.448887,43.626446",
     "geom:latitude":43.626446,
     "geom:longitude":-116.448887,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2346 N Crooked Creek Ln",
     "sg:city":"Meridian",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":185658351,
-    "wof:lastmodified":1449006567,
+    "wof:lastmodified":1466487201,
     "wof:name":"Jenkins Jaron",
     "wof:parent_id":85876351,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-116.448887,43.626446,-116.448887,43.626446],
+  "bbox": [
+    -116.448887,
+    43.626446,
+    -116.448887,
+    43.626446
+],
   "geometry": {"coordinates":[-116.448887,43.626446],"type":"Point"}
 }

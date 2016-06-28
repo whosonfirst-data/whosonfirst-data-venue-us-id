@@ -2,13 +2,14 @@
   "id": 186354677,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.522429,43.591887,-116.522429,43.591887",
     "geom:latitude":43.591887,
     "geom:longitude":-116.522429,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4109 Garrity Blvd",
     "sg:city":"Nampa",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186354677,
-    "wof:lastmodified":1449052721,
+    "wof:lastmodified":1466488751,
     "wof:name":"Niles Crankshaft Svc",
     "wof:parent_id":85827787,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "engine"
     ]
 },
-  "bbox": [-116.522429,43.591887,-116.522429,43.591887],
+  "bbox": [
+    -116.522429,
+    43.591887,
+    -116.522429,
+    43.591887
+],
   "geometry": {"coordinates":[-116.522429,43.591887],"type":"Point"}
 }

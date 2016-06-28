@@ -2,13 +2,14 @@
   "id": 185931559,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.120763,47.536356,-116.120763,47.536356",
     "geom:latitude":47.536356,
     "geom:longitude":-116.120763,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10 E Station Ave",
     "sg:city":"Kellogg",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":185931559,
-    "wof:lastmodified":1449008073,
+    "wof:lastmodified":1466488698,
     "wof:name":"Kellogg Chamber Of Commerce",
     "wof:parent_id":85849049,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "commerce"
     ]
 },
-  "bbox": [-116.120763,47.536356,-116.120763,47.536356],
+  "bbox": [
+    -116.120763,
+    47.536356,
+    -116.120763,
+    47.536356
+],
   "geometry": {"coordinates":[-116.120763,47.536356],"type":"Point"}
 }

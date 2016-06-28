@@ -2,13 +2,14 @@
   "id": 169656515,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-117.001297,46.733782,-117.001297,46.733782",
     "geom:latitude":46.733782,
     "geom:longitude":-117.001297,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"112 N Main St",
     "sg:city":"Moscow",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":169656515,
-    "wof:lastmodified":1449034836,
+    "wof:lastmodified":1466487684,
     "wof:name":"C J's-Cadillac Jack's",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "night"
     ]
 },
-  "bbox": [-117.001297,46.733782,-117.001297,46.733782],
-  "geometry": {"coordinates":[-117.001297,46.733782],"type":"Point"}
+  "bbox": [
+    -117.001297,
+    46.733782,
+    -117.001297,
+    46.733782
+],
+  "geometry": {"coordinates":[-117.00129699999999,46.733782],"type":"Point"}
 }

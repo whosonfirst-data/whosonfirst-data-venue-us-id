@@ -2,13 +2,14 @@
   "id": 186481183,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.246232,43.632172,-116.246232,43.632172",
     "geom:latitude":43.632172,
     "geom:longitude":-116.246232,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"303 E 41st St",
     "sg:city":"Boise",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186481183,
-    "wof:lastmodified":1449052673,
+    "wof:lastmodified":1466488904,
     "wof:name":"Big Bear Mini Storage",
     "wof:parent_id":85876339,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "storage"
     ]
 },
-  "bbox": [-116.246232,43.632172,-116.246232,43.632172],
-  "geometry": {"coordinates":[-116.246232,43.632172],"type":"Point"}
+  "bbox": [
+    -116.246232,
+    43.632172,
+    -116.246232,
+    43.632172
+],
+  "geometry": {"coordinates":[-116.24623200000001,43.632172],"type":"Point"}
 }

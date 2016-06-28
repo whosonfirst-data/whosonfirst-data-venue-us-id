@@ -2,13 +2,14 @@
   "id": 186153817,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.211673,43.624272,-116.211673,43.624272",
     "geom:latitude":43.624272,
     "geom:longitude":-116.211673,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1770 W State St",
     "sg:city":"Boise",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186153817,
-    "wof:lastmodified":1449052219,
+    "wof:lastmodified":1466488319,
     "wof:name":"Pioneer Condos-Bogus Basin Ski",
     "wof:parent_id":85876355,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "condominium"
     ]
 },
-  "bbox": [-116.211673,43.624272,-116.211673,43.624272],
+  "bbox": [
+    -116.211673,
+    43.624272,
+    -116.211673,
+    43.624272
+],
   "geometry": {"coordinates":[-116.211673,43.624272],"type":"Point"}
 }

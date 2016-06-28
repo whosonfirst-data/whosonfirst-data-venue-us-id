@@ -2,13 +2,14 @@
   "id": 186487949,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.68721,43.12302,-115.68721,43.12302",
     "geom:latitude":43.12302,
     "geom:longitude":-115.68721,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1010 E 9th S",
     "sg:city":"Mountain Home",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186487949,
-    "wof:lastmodified":1449051270,
+    "wof:lastmodified":1466488818,
     "wof:name":"Mario Trucking Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "trucking"
     ]
 },
-  "bbox": [-115.68721,43.12302,-115.68721,43.12302],
-  "geometry": {"coordinates":[-115.68721,43.12302],"type":"Point"}
+  "bbox": [
+    -115.68721,
+    43.12302,
+    -115.68721,
+    43.12302
+],
+  "geometry": {"coordinates":[-115.68720999999999,43.12302],"type":"Point"}
 }

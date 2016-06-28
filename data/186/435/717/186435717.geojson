@@ -2,13 +2,14 @@
   "id": 186435717,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.37219,42.534129,-114.37219,42.534129",
     "geom:latitude":42.534129,
     "geom:longitude":-114.37219,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"125 Spruce St",
     "sg:city":"Kimberly",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186435717,
-    "wof:lastmodified":1449052770,
+    "wof:lastmodified":1466488811,
     "wof:name":"Kimberly Sunset Manor",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "community"
     ]
 },
-  "bbox": [-114.37219,42.534129,-114.37219,42.534129],
+  "bbox": [
+    -114.37219,
+    42.534129,
+    -114.37219,
+    42.534129
+],
   "geometry": {"coordinates":[-114.37219,42.534129],"type":"Point"}
 }

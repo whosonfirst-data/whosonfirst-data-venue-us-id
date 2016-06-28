@@ -2,13 +2,14 @@
   "id": 185635445,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.686787,43.657004,-116.686787,43.657004",
     "geom:latitude":43.657004,
     "geom:longitude":-116.686787,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1603 Idaho Ave",
     "sg:city":"Caldwell",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":185635445,
-    "wof:lastmodified":1449007311,
+    "wof:lastmodified":1466487032,
     "wof:name":"Computer & Network Svc LTD",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-116.686787,43.657004,-116.686787,43.657004],
+  "bbox": [
+    -116.686787,
+    43.657004,
+    -116.686787,
+    43.657004
+],
   "geometry": {"coordinates":[-116.686787,43.657004],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169832429,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-117.03343,44.260853,-117.03343,44.260853",
     "geom:latitude":44.260853,
     "geom:longitude":-117.03343,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"758 Pringle Rd",
     "sg:city":"Weiser",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":169832429,
-    "wof:lastmodified":1449032705,
+    "wof:lastmodified":1466488593,
     "wof:name":"Kamerchen Construction",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "contractor"
     ]
 },
-  "bbox": [-117.03343,44.260853,-117.03343,44.260853],
+  "bbox": [
+    -117.03343,
+    44.260853,
+    -117.03343,
+    44.260853
+],
   "geometry": {"coordinates":[-117.03343,44.260853],"type":"Point"}
 }

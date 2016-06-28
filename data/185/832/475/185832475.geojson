@@ -2,13 +2,14 @@
   "id": 185832475,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.235068,47.536587,-116.235068,47.536587",
     "geom:latitude":47.536587,
     "geom:longitude":-116.235068,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"101 S Division St",
     "sg:city":"Pinehurst",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":185832475,
-    "wof:lastmodified":1449006601,
+    "wof:lastmodified":1466488418,
     "wof:name":"Wild Rose Salon",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-116.235068,47.536587,-116.235068,47.536587],
+  "bbox": [
+    -116.235068,
+    47.536587,
+    -116.235068,
+    47.536587
+],
   "geometry": {"coordinates":[-116.235068,47.536587],"type":"Point"}
 }

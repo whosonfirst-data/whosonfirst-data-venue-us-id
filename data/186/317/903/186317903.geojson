@@ -2,13 +2,14 @@
   "id": 186317903,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.827177,47.703827,-116.827177,47.703827",
     "geom:latitude":47.703827,
     "geom:longitude":-116.827177,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2873 W Masters Dr",
     "sg:city":"Coeur D Alene",
     "sg:classifiers":[
@@ -61,16 +62,22 @@
         }
     ],
     "wof:id":186317903,
-    "wof:lastmodified":1449051592,
+    "wof:lastmodified":1466488700,
     "wof:name":"Jostens Memory Express",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "wholesaler"
     ]
 },
-  "bbox": [-116.827177,47.703827,-116.827177,47.703827],
-  "geometry": {"coordinates":[-116.827177,47.703827],"type":"Point"}
+  "bbox": [
+    -116.827177,
+    47.703827,
+    -116.827177,
+    47.703827
+],
+  "geometry": {"coordinates":[-116.82717700000001,47.703827],"type":"Point"}
 }

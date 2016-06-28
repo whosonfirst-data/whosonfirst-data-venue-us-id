@@ -2,13 +2,14 @@
   "id": 186017473,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.555473,48.27409,-116.555473,48.27409",
     "geom:latitude":48.27409,
     "geom:longitude":-116.555473,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"502 Church St",
     "sg:city":"Sandpoint",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186017473,
-    "wof:lastmodified":1449051796,
+    "wof:lastmodified":1466486940,
     "wof:name":"Eklektos Gallery & Design Ctr",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "dealer"
     ]
 },
-  "bbox": [-116.555473,48.27409,-116.555473,48.27409],
-  "geometry": {"coordinates":[-116.555473,48.27409],"type":"Point"}
+  "bbox": [
+    -116.555473,
+    48.27409,
+    -116.555473,
+    48.27409
+],
+  "geometry": {"coordinates":[-116.55547300000001,48.27409],"type":"Point"}
 }

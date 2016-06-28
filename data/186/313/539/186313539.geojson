@@ -2,13 +2,14 @@
   "id": 186313539,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.334421,43.565018,-116.334421,43.565018",
     "geom:latitude":43.565018,
     "geom:longitude":-116.334421,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4291 S Cloverdale Rd",
     "sg:city":"Boise",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":186313539,
-    "wof:lastmodified":1449050350,
+    "wof:lastmodified":1466488688,
     "wof:name":"Aloha Landscape & Sprinklers",
     "wof:parent_id":85876331,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "contractor"
     ]
 },
-  "bbox": [-116.334421,43.565018,-116.334421,43.565018],
-  "geometry": {"coordinates":[-116.334421,43.565018],"type":"Point"}
+  "bbox": [
+    -116.334421,
+    43.565018,
+    -116.334421,
+    43.565018
+],
+  "geometry": {"coordinates":[-116.33442100000001,43.565018],"type":"Point"}
 }

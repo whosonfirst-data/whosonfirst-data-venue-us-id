@@ -2,13 +2,14 @@
   "id": 185970741,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-117.022284,43.778504,-117.022284,43.778504",
     "geom:latitude":43.778504,
     "geom:longitude":-117.022284,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"27818 Pioneer Ln",
     "sg:city":"Parma",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":185970741,
-    "wof:lastmodified":1449008160,
+    "wof:lastmodified":1466488705,
     "wof:name":"Joe Wagner",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "general"
     ]
 },
-  "bbox": [-117.022284,43.778504,-117.022284,43.778504],
+  "bbox": [
+    -117.022284,
+    43.778504,
+    -117.022284,
+    43.778504
+],
   "geometry": {"coordinates":[-117.022284,43.778504],"type":"Point"}
 }

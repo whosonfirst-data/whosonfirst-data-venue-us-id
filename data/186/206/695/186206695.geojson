@@ -2,13 +2,14 @@
   "id": 186206695,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.442883,42.878733,-112.442883,42.878733",
     "geom:latitude":42.878733,
     "geom:longitude":-112.442883,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"100 Randolph Ave",
     "sg:city":"Pocatello",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":186206695,
-    "wof:lastmodified":1449052200,
+    "wof:lastmodified":1466488425,
     "wof:name":"Five Corners",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.442883,42.878733,-112.442883,42.878733],
-  "geometry": {"coordinates":[-112.442883,42.878733],"type":"Point"}
+  "bbox": [
+    -112.442883,
+    42.878733,
+    -112.442883,
+    42.878733
+],
+  "geometry": {"coordinates":[-112.44288299999999,42.878733],"type":"Point"}
 }

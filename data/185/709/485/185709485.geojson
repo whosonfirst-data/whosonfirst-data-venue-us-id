@@ -2,13 +2,14 @@
   "id": 185709485,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.272475,43.611172,-116.272475,43.611172",
     "geom:latitude":43.611172,
     "geom:longitude":-116.272475,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7267 Potomac Dr",
     "sg:city":"Boise",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":185709485,
-    "wof:lastmodified":1449006935,
+    "wof:lastmodified":1466487600,
     "wof:name":"Northview Hospital",
     "wof:parent_id":85841319,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "surgeon"
     ]
 },
-  "bbox": [-116.272475,43.611172,-116.272475,43.611172],
+  "bbox": [
+    -116.272475,
+    43.611172,
+    -116.272475,
+    43.611172
+],
   "geometry": {"coordinates":[-116.272475,43.611172],"type":"Point"}
 }

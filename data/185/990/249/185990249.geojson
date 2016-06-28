@@ -2,13 +2,14 @@
   "id": 185990249,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.388959,43.619303,-116.388959,43.619303",
     "geom:latitude":43.619303,
     "geom:longitude":-116.388959,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"403 E Fairview Ave",
     "sg:city":"Meridian",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":185990249,
-    "wof:lastmodified":1449007669,
+    "wof:lastmodified":1466488736,
     "wof:name":"Elm Grove Mobile Home Park",
     "wof:parent_id":85811491,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "home"
     ]
 },
-  "bbox": [-116.388959,43.619303,-116.388959,43.619303],
+  "bbox": [
+    -116.388959,
+    43.619303,
+    -116.388959,
+    43.619303
+],
   "geometry": {"coordinates":[-116.388959,43.619303],"type":"Point"}
 }

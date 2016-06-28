@@ -2,13 +2,14 @@
   "id": 185936693,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.905167,47.731784,-116.905167,47.731784",
     "geom:latitude":47.731784,
     "geom:longitude":-116.905167,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2615 N Cecil Rd",
     "sg:city":"Post Falls",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":185936693,
-    "wof:lastmodified":1449007134,
+    "wof:lastmodified":1466488553,
     "wof:name":"Intermountain Generator Inc",
     "wof:parent_id":85833263,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "generator"
     ]
 },
-  "bbox": [-116.905167,47.731784,-116.905167,47.731784],
-  "geometry": {"coordinates":[-116.905167,47.731784],"type":"Point"}
+  "bbox": [
+    -116.905167,
+    47.731784,
+    -116.905167,
+    47.731784
+],
+  "geometry": {"coordinates":[-116.90516700000001,47.731784],"type":"Point"}
 }

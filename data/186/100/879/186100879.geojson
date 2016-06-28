@@ -2,13 +2,14 @@
   "id": 186100879,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.256259,43.603323,-116.256259,43.603323",
     "geom:latitude":43.603323,
     "geom:longitude":-116.256259,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6127 Franklin Rd",
     "sg:city":"Boise",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":186100879,
-    "wof:lastmodified":1449052335,
+    "wof:lastmodified":1466487869,
     "wof:name":"Plumbing Parts & Supplies",
     "wof:parent_id":85806577,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "supply"
     ]
 },
-  "bbox": [-116.256259,43.603323,-116.256259,43.603323],
+  "bbox": [
+    -116.256259,
+    43.603323,
+    -116.256259,
+    43.603323
+],
   "geometry": {"coordinates":[-116.256259,43.603323],"type":"Point"}
 }

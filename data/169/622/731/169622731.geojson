@@ -2,13 +2,14 @@
   "id": 169622731,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.950756,46.382195,-116.950756,46.382195",
     "geom:latitude":46.382195,
     "geom:longitude":-116.950756,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1511 Linden Ave",
     "sg:city":"Lewiston",
     "sg:classifiers":[
@@ -62,10 +63,11 @@
         }
     ],
     "wof:id":169622731,
-    "wof:lastmodified":1449035368,
+    "wof:lastmodified":1466487161,
     "wof:name":"Gary Benefiel Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -73,6 +75,11 @@
         "trucking"
     ]
 },
-  "bbox": [-116.950756,46.382195,-116.950756,46.382195],
+  "bbox": [
+    -116.950756,
+    46.382195,
+    -116.950756,
+    46.382195
+],
   "geometry": {"coordinates":[-116.950756,46.382195],"type":"Point"}
 }

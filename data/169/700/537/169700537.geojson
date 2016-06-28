@@ -2,13 +2,14 @@
   "id": 169700537,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.320688,43.486649,-116.320688,43.486649",
     "geom:latitude":43.486649,
     "geom:longitude":-116.320688,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"12786 Romiro Ave",
     "sg:city":"Kuna",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":169700537,
-    "wof:lastmodified":1449035668,
+    "wof:lastmodified":1466488035,
     "wof:name":"Frank's Window Cleaning Svc",
     "wof:parent_id":85876331,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "window"
     ]
 },
-  "bbox": [-116.320688,43.486649,-116.320688,43.486649],
+  "bbox": [
+    -116.320688,
+    43.486649,
+    -116.320688,
+    43.486649
+],
   "geometry": {"coordinates":[-116.320688,43.486649],"type":"Point"}
 }

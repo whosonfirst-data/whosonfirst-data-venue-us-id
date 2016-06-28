@@ -2,13 +2,14 @@
   "id": 186146059,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.850346,43.752143,-111.850346,43.752143",
     "geom:latitude":43.752143,
     "geom:longitude":-111.850346,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5362 S Hwy 191",
     "sg:city":"Rexburg",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":186146059,
-    "wof:lastmodified":1449051487,
+    "wof:lastmodified":1466488278,
     "wof:name":"Sheffield House",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "trailer"
     ]
 },
-  "bbox": [-111.850346,43.752143,-111.850346,43.752143],
+  "bbox": [
+    -111.850346,
+    43.752143,
+    -111.850346,
+    43.752143
+],
   "geometry": {"coordinates":[-111.850346,43.752143],"type":"Point"}
 }

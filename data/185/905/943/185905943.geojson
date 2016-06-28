@@ -2,13 +2,14 @@
   "id": 185905943,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.32817,43.63235,-116.32817,43.63235",
     "geom:latitude":43.63235,
     "geom:longitude":-116.32817,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2998 N Cribbens Ave",
     "sg:city":"Boise",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":185905943,
-    "wof:lastmodified":1449007251,
+    "wof:lastmodified":1466488497,
     "wof:name":"Ford City Missionary Bapt Chr",
     "wof:parent_id":85811491,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-116.32817,43.63235,-116.32817,43.63235],
+  "bbox": [
+    -116.32817,
+    43.63235,
+    -116.32817,
+    43.63235
+],
   "geometry": {"coordinates":[-116.32817,43.63235],"type":"Point"}
 }

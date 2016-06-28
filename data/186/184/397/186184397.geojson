@@ -2,13 +2,14 @@
   "id": 186184397,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.447048,42.567362,-114.447048,42.567362",
     "geom:latitude":42.567362,
     "geom:longitude":-114.447048,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"356 Alturas Dr N",
     "sg:city":"Twin Falls",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":186184397,
-    "wof:lastmodified":1449050865,
+    "wof:lastmodified":1466488461,
     "wof:name":"Buhl Rifle & Pistol Club",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "membership"
     ]
 },
-  "bbox": [-114.447048,42.567362,-114.447048,42.567362],
+  "bbox": [
+    -114.447048,
+    42.567362,
+    -114.447048,
+    42.567362
+],
   "geometry": {"coordinates":[-114.447048,42.567362],"type":"Point"}
 }

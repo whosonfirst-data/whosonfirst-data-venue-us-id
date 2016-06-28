@@ -2,13 +2,14 @@
   "id": 186048091,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.100734,44.908614,-116.100734,44.908614",
     "geom:latitude":44.908614,
     "geom:longitude":-116.100734,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"703 1st St",
     "sg:city":"Mccall",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186048091,
-    "wof:lastmodified":1449051327,
+    "wof:lastmodified":1466487293,
     "wof:name":"Valley County Health Dept",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "health"
     ]
 },
-  "bbox": [-116.100734,44.908614,-116.100734,44.908614],
+  "bbox": [
+    -116.100734,
+    44.908614,
+    -116.100734,
+    44.908614
+],
   "geometry": {"coordinates":[-116.100734,44.908614],"type":"Point"}
 }

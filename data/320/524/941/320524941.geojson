@@ -2,13 +2,14 @@
   "id": 320524941,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-117.008247,46.415844,-117.008247,46.415844",
     "geom:latitude":46.415844,
     "geom:longitude":-117.008247,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"312 17th St",
     "sg:city":"Lewiston",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":320524941,
-    "wof:lastmodified":1449011223,
+    "wof:lastmodified":1466487251,
     "wof:name":"Knowlton, Miles, Merica",
     "wof:parent_id":85837769,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "practice"
     ]
 },
-  "bbox": [-117.008247,46.415844,-117.008247,46.415844],
+  "bbox": [
+    -117.008247,
+    46.415844,
+    -117.008247,
+    46.415844
+],
   "geometry": {"coordinates":[-117.008247,46.415844],"type":"Point"}
 }

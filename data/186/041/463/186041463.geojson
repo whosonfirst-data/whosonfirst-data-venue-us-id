@@ -2,13 +2,14 @@
   "id": 186041463,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.304068,43.569363,-116.304068,43.569363",
     "geom:latitude":43.569363,
     "geom:longitude":-116.304068,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4040 S Mitchell St",
     "sg:city":"Boise",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":186041463,
-    "wof:lastmodified":1449051357,
+    "wof:lastmodified":1466487213,
     "wof:name":"Coral Gardens",
     "wof:parent_id":85876331,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "center"
     ]
 },
-  "bbox": [-116.304068,43.569363,-116.304068,43.569363],
+  "bbox": [
+    -116.304068,
+    43.569363,
+    -116.304068,
+    43.569363
+],
   "geometry": {"coordinates":[-116.304068,43.569363],"type":"Point"}
 }

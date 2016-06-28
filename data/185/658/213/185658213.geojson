@@ -2,13 +2,14 @@
   "id": 185658213,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.914892,43.774266,-111.914892,43.774266",
     "geom:latitude":43.774266,
     "geom:longitude":-111.914892,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3825 S 7000 W",
     "sg:city":"Rexburg",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":185658213,
-    "wof:lastmodified":1449006563,
+    "wof:lastmodified":1466487199,
     "wof:name":"Green Velvet Turf",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "sodding"
     ]
 },
-  "bbox": [-111.914892,43.774266,-111.914892,43.774266],
-  "geometry": {"coordinates":[-111.914892,43.774266],"type":"Point"}
+  "bbox": [
+    -111.914892,
+    43.774266,
+    -111.914892,
+    43.774266
+],
+  "geometry": {"coordinates":[-111.91489199999999,43.774266],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186279963,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.201481,43.581338,-116.201481,43.581338",
     "geom:latitude":43.581338,
     "geom:longitude":-116.201481,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1509 Salem St",
     "sg:city":"Boise",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186279963,
-    "wof:lastmodified":1449051601,
+    "wof:lastmodified":1466488652,
     "wof:name":"Mike Earl Ducker",
     "wof:parent_id":85876343,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "forestry"
     ]
 },
-  "bbox": [-116.201481,43.581338,-116.201481,43.581338],
+  "bbox": [
+    -116.201481,
+    43.581338,
+    -116.201481,
+    43.581338
+],
   "geometry": {"coordinates":[-116.201481,43.581338],"type":"Point"}
 }

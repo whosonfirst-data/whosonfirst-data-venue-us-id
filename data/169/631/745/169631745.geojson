@@ -2,13 +2,14 @@
   "id": 169631745,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.381506,42.822862,-112.381506,42.822862",
     "geom:latitude":42.822862,
     "geom:longitude":-112.381506,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4435 N Williamsburg Ln",
     "sg:city":"Pocatello",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":169631745,
-    "wof:lastmodified":1449033713,
+    "wof:lastmodified":1466487307,
     "wof:name":"Ray's Pump & Well Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "pump"
     ]
 },
-  "bbox": [-112.381506,42.822862,-112.381506,42.822862],
+  "bbox": [
+    -112.381506,
+    42.822862,
+    -112.381506,
+    42.822862
+],
   "geometry": {"coordinates":[-112.381506,42.822862],"type":"Point"}
 }

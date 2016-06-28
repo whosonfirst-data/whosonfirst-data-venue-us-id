@@ -2,13 +2,14 @@
   "id": 185970673,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.23853,43.620514,-116.23853,43.620514",
     "geom:latitude":43.620514,
     "geom:longitude":-116.23853,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"112 W 32nd St",
     "sg:city":"Boise",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":185970673,
-    "wof:lastmodified":1449008161,
+    "wof:lastmodified":1466488704,
     "wof:name":"Gem State Electric",
     "wof:parent_id":85876301,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "motor"
     ]
 },
-  "bbox": [-116.23853,43.620514,-116.23853,43.620514],
+  "bbox": [
+    -116.23853,
+    43.620514,
+    -116.23853,
+    43.620514
+],
   "geometry": {"coordinates":[-116.23853,43.620514],"type":"Point"}
 }

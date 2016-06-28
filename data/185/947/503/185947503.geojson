@@ -2,13 +2,14 @@
   "id": 185947503,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.259363,43.59221,-116.259363,43.59221",
     "geom:latitude":43.59221,
     "geom:longitude":-116.259363,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1415 S Empire Way",
     "sg:city":"Boise",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":185947503,
-    "wof:lastmodified":1449007760,
+    "wof:lastmodified":1466488571,
     "wof:name":"The Jelly Lady",
     "wof:parent_id":85876293,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-116.259363,43.59221,-116.259363,43.59221],
-  "geometry": {"coordinates":[-116.259363,43.59221],"type":"Point"}
+  "bbox": [
+    -116.259363,
+    43.59221,
+    -116.259363,
+    43.59221
+],
+  "geometry": {"coordinates":[-116.25936299999999,43.59221],"type":"Point"}
 }

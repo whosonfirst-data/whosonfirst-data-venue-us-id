@@ -2,13 +2,14 @@
   "id": 169669929,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.923543,44.023621,-116.923543,44.023621",
     "geom:latitude":44.023621,
     "geom:longitude":-116.923543,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1511 N Whitley Dr",
     "sg:city":"Fruitland",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":169669929,
-    "wof:lastmodified":1449033058,
+    "wof:lastmodified":1466487877,
     "wof:name":"Glenn M Lee",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "attorney"
     ]
 },
-  "bbox": [-116.923543,44.023621,-116.923543,44.023621],
+  "bbox": [
+    -116.923543,
+    44.023621,
+    -116.923543,
+    44.023621
+],
   "geometry": {"coordinates":[-116.923543,44.023621],"type":"Point"}
 }

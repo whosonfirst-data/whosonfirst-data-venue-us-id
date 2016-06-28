@@ -2,13 +2,14 @@
   "id": 185868433,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.569077,43.502793,-116.569077,43.502793",
     "geom:latitude":43.502793,
     "geom:longitude":-116.569077,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8759 Deer Flat Rd",
     "sg:city":"Nampa",
     "sg:classifiers":[
@@ -55,10 +56,11 @@
         }
     ],
     "wof:id":185868433,
-    "wof:lastmodified":1449006645,
+    "wof:lastmodified":1466488420,
     "wof:name":"Jerry Allcott",
     "wof:parent_id":85827787,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -69,6 +71,11 @@
         "cattle"
     ]
 },
-  "bbox": [-116.569077,43.502793,-116.569077,43.502793],
-  "geometry": {"coordinates":[-116.569077,43.502793],"type":"Point"}
+  "bbox": [
+    -116.569077,
+    43.502793,
+    -116.569077,
+    43.502793
+],
+  "geometry": {"coordinates":[-116.56907699999999,43.502793],"type":"Point"}
 }

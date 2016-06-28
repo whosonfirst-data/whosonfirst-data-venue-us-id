@@ -2,13 +2,14 @@
   "id": 185771801,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.785003,47.740225,-116.785003,47.740225",
     "geom:latitude":47.740225,
     "geom:longitude":-116.785003,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7551 E Aqua Cir",
     "sg:city":"Dalton Gardens",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":185771801,
-    "wof:lastmodified":1449007485,
+    "wof:lastmodified":1466488096,
     "wof:name":"Mac Industries",
     "wof:parent_id":85821457,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "devices"
     ]
 },
-  "bbox": [-116.785003,47.740225,-116.785003,47.740225],
+  "bbox": [
+    -116.785003,
+    47.740225,
+    -116.785003,
+    47.740225
+],
   "geometry": {"coordinates":[-116.785003,47.740225],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186194267,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.805335,47.696221,-116.805335,47.696221",
     "geom:latitude":47.696221,
     "geom:longitude":-116.805335,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2233 Northwest Blvd",
     "sg:city":"Coeur D Alene",
     "sg:classifiers":[
@@ -58,14 +59,20 @@
         }
     ],
     "wof:id":186194267,
-    "wof:lastmodified":1449052627,
+    "wof:lastmodified":1466488391,
     "wof:name":"R G Nelson Architects",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-116.805335,47.696221,-116.805335,47.696221],
+  "bbox": [
+    -116.805335,
+    47.696221,
+    -116.805335,
+    47.696221
+],
   "geometry": {"coordinates":[-116.805335,47.696221],"type":"Point"}
 }

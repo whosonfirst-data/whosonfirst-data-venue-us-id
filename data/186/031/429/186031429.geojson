@@ -2,13 +2,14 @@
   "id": 186031429,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.555151,43.600594,-116.555151,43.600594",
     "geom:latitude":43.600594,
     "geom:longitude":-116.555151,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1316 Shilo Dr",
     "sg:city":"Nampa",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186031429,
-    "wof:lastmodified":1449051378,
+    "wof:lastmodified":1466487097,
     "wof:name":"Applied Industrial Tech Inc",
     "wof:parent_id":85827787,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "bearing"
     ]
 },
-  "bbox": [-116.555151,43.600594,-116.555151,43.600594],
+  "bbox": [
+    -116.555151,
+    43.600594,
+    -116.555151,
+    43.600594
+],
   "geometry": {"coordinates":[-116.555151,43.600594],"type":"Point"}
 }

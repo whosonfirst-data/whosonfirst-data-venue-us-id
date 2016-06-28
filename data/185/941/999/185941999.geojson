@@ -2,13 +2,14 @@
   "id": 185941999,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.764839,47.676685,-116.764839,47.676685",
     "geom:latitude":47.676685,
     "geom:longitude":-116.764839,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"411 N 15th St",
     "sg:city":"Coeur D Alene",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":185941999,
-    "wof:lastmodified":1449007571,
+    "wof:lastmodified":1466488655,
     "wof:name":"Harding Family Ctr",
     "wof:parent_id":85821457,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "welfare"
     ]
 },
-  "bbox": [-116.764839,47.676685,-116.764839,47.676685],
-  "geometry": {"coordinates":[-116.764839,47.676685],"type":"Point"}
+  "bbox": [
+    -116.764839,
+    47.676685,
+    -116.764839,
+    47.676685
+],
+  "geometry": {"coordinates":[-116.76483899999999,47.676685],"type":"Point"}
 }

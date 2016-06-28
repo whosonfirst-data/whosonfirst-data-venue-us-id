@@ -2,13 +2,14 @@
   "id": 169727411,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.47406,43.691905,-116.47406,43.691905",
     "geom:latitude":43.691905,
     "geom:longitude":-116.47406,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9888 W State St",
     "sg:city":"Star",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":169727411,
-    "wof:lastmodified":1449033187,
+    "wof:lastmodified":1466488258,
     "wof:name":"Quik Cash",
     "wof:parent_id":85876351,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "check"
     ]
 },
-  "bbox": [-116.47406,43.691905,-116.47406,43.691905],
-  "geometry": {"coordinates":[-116.47406,43.691905],"type":"Point"}
+  "bbox": [
+    -116.47406,
+    43.691905,
+    -116.47406,
+    43.691905
+],
+  "geometry": {"coordinates":[-116.47405999999999,43.691905],"type":"Point"}
 }

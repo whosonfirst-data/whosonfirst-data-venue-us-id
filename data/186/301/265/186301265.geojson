@@ -2,13 +2,14 @@
   "id": 186301265,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.269945,43.592027,-116.269945,43.592027",
     "geom:latitude":43.592027,
     "geom:longitude":-116.269945,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7019 Brookover Dr",
     "sg:city":"Boise",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":186301265,
-    "wof:lastmodified":1449051080,
+    "wof:lastmodified":1466488581,
     "wof:name":"Barnes Yards II",
     "wof:parent_id":85876293,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "grounds"
     ]
 },
-  "bbox": [-116.269945,43.592027,-116.269945,43.592027],
-  "geometry": {"coordinates":[-116.269945,43.592027],"type":"Point"}
+  "bbox": [
+    -116.269945,
+    43.592027,
+    -116.269945,
+    43.592027
+],
+  "geometry": {"coordinates":[-116.26994500000001,43.592027],"type":"Point"}
 }

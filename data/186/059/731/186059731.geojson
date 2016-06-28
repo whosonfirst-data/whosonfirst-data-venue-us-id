@@ -2,13 +2,14 @@
   "id": 186059731,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.350768,43.647798,-116.350768,43.647798",
     "geom:latitude":43.647798,
     "geom:longitude":-116.350768,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4723 N Draft Ave",
     "sg:city":"Boise",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186059731,
-    "wof:lastmodified":1449051121,
+    "wof:lastmodified":1466487423,
     "wof:name":"Itron Inc",
     "wof:parent_id":85876351,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "establishment"
     ]
 },
-  "bbox": [-116.350768,43.647798,-116.350768,43.647798],
+  "bbox": [
+    -116.350768,
+    43.647798,
+    -116.350768,
+    43.647798
+],
   "geometry": {"coordinates":[-116.350768,43.647798],"type":"Point"}
 }

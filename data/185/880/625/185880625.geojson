@@ -2,13 +2,14 @@
   "id": 185880625,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.943808,44.086835,-116.943808,44.086835",
     "geom:latitude":44.086835,
     "geom:longitude":-116.943808,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"44 12th Ave N",
     "sg:city":"Payette",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":185880625,
-    "wof:lastmodified":1449008225,
+    "wof:lastmodified":1466488533,
     "wof:name":"Classic Claws",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-116.943808,44.086835,-116.943808,44.086835],
+  "bbox": [
+    -116.943808,
+    44.086835,
+    -116.943808,
+    44.086835
+],
   "geometry": {"coordinates":[-116.943808,44.086835],"type":"Point"}
 }

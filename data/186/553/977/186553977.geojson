@@ -2,13 +2,14 @@
   "id": 186553977,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-113.667044,42.619157,-113.667044,42.619157",
     "geom:latitude":42.619157,
     "geom:longitude":-113.667044,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"718 Oneida St",
     "sg:city":"Rupert",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":186553977,
-    "wof:lastmodified":1449050271,
+    "wof:lastmodified":1466488934,
     "wof:name":"Cloud Nine",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "scooter"
     ]
 },
-  "bbox": [-113.667044,42.619157,-113.667044,42.619157],
+  "bbox": [
+    -113.667044,
+    42.619157,
+    -113.667044,
+    42.619157
+],
   "geometry": {"coordinates":[-113.667044,42.619157],"type":"Point"}
 }

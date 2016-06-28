@@ -2,13 +2,14 @@
   "id": 185912135,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.330695,43.643194,-116.330695,43.643194",
     "geom:latitude":43.643194,
     "geom:longitude":-116.330695,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4204 Nystrom Way",
     "sg:city":"Boise",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":185912135,
-    "wof:lastmodified":1449007421,
+    "wof:lastmodified":1466488582,
     "wof:name":"Bead Soup",
     "wof:parent_id":85876357,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "eating"
     ]
 },
-  "bbox": [-116.330695,43.643194,-116.330695,43.643194],
-  "geometry": {"coordinates":[-116.330695,43.643194],"type":"Point"}
+  "bbox": [
+    -116.330695,
+    43.643194,
+    -116.330695,
+    43.643194
+],
+  "geometry": {"coordinates":[-116.33069500000001,43.643194],"type":"Point"}
 }

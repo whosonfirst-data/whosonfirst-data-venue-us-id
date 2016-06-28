@@ -2,13 +2,14 @@
   "id": 185671655,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.763292,47.722479,-116.763292,47.722479",
     "geom:latitude":47.722479,
     "geom:longitude":-116.763292,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1800 E Dalton Ave",
     "sg:city":"Coeur D Alene",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":185671655,
-    "wof:lastmodified":1449006984,
+    "wof:lastmodified":1466487302,
     "wof:name":"Canfield Middle School",
     "wof:parent_id":85821457,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-116.763292,47.722479,-116.763292,47.722479],
-  "geometry": {"coordinates":[-116.763292,47.722479],"type":"Point"}
+  "bbox": [
+    -116.763292,
+    47.722479,
+    -116.763292,
+    47.722479
+],
+  "geometry": {"coordinates":[-116.76329200000001,47.722479],"type":"Point"}
 }

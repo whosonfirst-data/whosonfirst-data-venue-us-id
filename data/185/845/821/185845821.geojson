@@ -2,13 +2,14 @@
   "id": 185845821,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.273923,43.664987,-116.273923,43.664987",
     "geom:latitude":43.664987,
     "geom:longitude":-116.273923,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7084 W State St",
     "sg:city":"Boise",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":185845821,
-    "wof:lastmodified":1449006875,
+    "wof:lastmodified":1466488460,
     "wof:name":"Papa Murphy's Take 'N' Bake",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-116.273923,43.664987,-116.273923,43.664987],
+  "bbox": [
+    -116.273923,
+    43.664987,
+    -116.273923,
+    43.664987
+],
   "geometry": {"coordinates":[-116.273923,43.664987],"type":"Point"}
 }

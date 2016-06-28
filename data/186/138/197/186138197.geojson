@@ -2,13 +2,14 @@
   "id": 186138197,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.32494,43.687305,-116.32494,43.687305",
     "geom:latitude":43.687305,
     "geom:longitude":-116.32494,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1092 Parkinson St",
     "sg:city":"Eagle",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186138197,
-    "wof:lastmodified":1449051150,
+    "wof:lastmodified":1466488207,
     "wof:name":"Real Vision Inc",
     "wof:parent_id":85876315,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "wood"
     ]
 },
-  "bbox": [-116.32494,43.687305,-116.32494,43.687305],
+  "bbox": [
+    -116.32494,
+    43.687305,
+    -116.32494,
+    43.687305
+],
   "geometry": {"coordinates":[-116.32494,43.687305],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169811425,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.392304,43.280452,-114.392304,43.280452",
     "geom:latitude":43.280452,
     "geom:longitude":-114.392304,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"116 4th St",
     "sg:city":"Shoshone",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":169811425,
-    "wof:lastmodified":1449034271,
+    "wof:lastmodified":1466488623,
     "wof:name":"Adventure Club-Lincoln Country",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-114.392304,43.280452,-114.392304,43.280452],
+  "bbox": [
+    -114.392304,
+    43.280452,
+    -114.392304,
+    43.280452
+],
   "geometry": {"coordinates":[-114.392304,43.280452],"type":"Point"}
 }

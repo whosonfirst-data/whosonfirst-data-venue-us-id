@@ -2,13 +2,14 @@
   "id": 320540773,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.556012,43.608776,-116.556012,43.608776",
     "geom:latitude":43.608776,
     "geom:longitude":-116.556012,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8171 E Executive Dr",
     "sg:city":"Nampa",
     "sg:classifiers":[
@@ -58,10 +59,11 @@
         }
     ],
     "wof:id":320540773,
-    "wof:lastmodified":1449012732,
+    "wof:lastmodified":1466486903,
     "wof:name":"Frasier Transport Inc",
     "wof:parent_id":85827787,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -69,6 +71,11 @@
         "trucking"
     ]
 },
-  "bbox": [-116.556012,43.608776,-116.556012,43.608776],
+  "bbox": [
+    -116.556012,
+    43.608776,
+    -116.556012,
+    43.608776
+],
   "geometry": {"coordinates":[-116.556012,43.608776],"type":"Point"}
 }

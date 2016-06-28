@@ -2,13 +2,14 @@
   "id": 186272655,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.927417,44.078225,-116.927417,44.078225",
     "geom:latitude":44.078225,
     "geom:longitude":-116.927417,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1335 3rd Ave N",
     "sg:city":"Payette",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186272655,
-    "wof:lastmodified":1449052847,
+    "wof:lastmodified":1466488632,
     "wof:name":"New Life Fellowship",
     "wof:parent_id":85840959,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-116.927417,44.078225,-116.927417,44.078225],
-  "geometry": {"coordinates":[-116.927417,44.078225],"type":"Point"}
+  "bbox": [
+    -116.927417,
+    44.078225,
+    -116.927417,
+    44.078225
+],
+  "geometry": {"coordinates":[-116.92741700000001,44.078225],"type":"Point"}
 }

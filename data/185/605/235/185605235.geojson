@@ -2,13 +2,14 @@
   "id": 185605235,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.233687,43.587666,-116.233687,43.587666",
     "geom:latitude":43.587666,
     "geom:longitude":-116.233687,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1907 S Roosevelt St",
     "sg:city":"Boise",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":185605235,
-    "wof:lastmodified":1449007413,
+    "wof:lastmodified":1466488296,
     "wof:name":"Cordell Consulting Inc",
     "wof:parent_id":85825393,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "engineer"
     ]
 },
-  "bbox": [-116.233687,43.587666,-116.233687,43.587666],
+  "bbox": [
+    -116.233687,
+    43.587666,
+    -116.233687,
+    43.587666
+],
   "geometry": {"coordinates":[-116.233687,43.587666],"type":"Point"}
 }

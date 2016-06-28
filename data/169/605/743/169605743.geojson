@@ -2,13 +2,14 @@
   "id": 169605743,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.568803,43.57194,-116.568803,43.57194",
     "geom:latitude":43.57194,
     "geom:longitude":-116.568803,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1015 12th Ave S",
     "sg:city":"Nampa",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":169605743,
-    "wof:lastmodified":1449034291,
+    "wof:lastmodified":1466486891,
     "wof:name":"Crop Shop",
     "wof:parent_id":85827787,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "scrapbook"
     ]
 },
-  "bbox": [-116.568803,43.57194,-116.568803,43.57194],
+  "bbox": [
+    -116.568803,
+    43.57194,
+    -116.568803,
+    43.57194
+],
   "geometry": {"coordinates":[-116.568803,43.57194],"type":"Point"}
 }

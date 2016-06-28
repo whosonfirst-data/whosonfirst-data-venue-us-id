@@ -2,13 +2,14 @@
   "id": 186216913,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.832233,47.724126,-116.832233,47.724126",
     "geom:latitude":47.724126,
     "geom:longitude":-116.832233,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3329 Industrial Ave S",
     "sg:city":"Coeur D Alene",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186216913,
-    "wof:lastmodified":1449052718,
+    "wof:lastmodified":1466488614,
     "wof:name":"Mc Carty's Sacro-Ease",
     "wof:parent_id":85821457,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "orthopedic"
     ]
 },
-  "bbox": [-116.832233,47.724126,-116.832233,47.724126],
+  "bbox": [
+    -116.832233,
+    47.724126,
+    -116.832233,
+    47.724126
+],
   "geometry": {"coordinates":[-116.832233,47.724126],"type":"Point"}
 }

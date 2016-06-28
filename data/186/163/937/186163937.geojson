@@ -2,13 +2,14 @@
   "id": 186163937,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.170069,43.616737,-116.170069,43.616737",
     "geom:latitude":43.616737,
     "geom:longitude":-116.170069,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1664 Sendero Ln",
     "sg:city":"Boise",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186163937,
-    "wof:lastmodified":1449052975,
+    "wof:lastmodified":1466488412,
     "wof:name":"J & J Creations",
     "wof:parent_id":85876305,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "scrapbook"
     ]
 },
-  "bbox": [-116.170069,43.616737,-116.170069,43.616737],
+  "bbox": [
+    -116.170069,
+    43.616737,
+    -116.170069,
+    43.616737
+],
   "geometry": {"coordinates":[-116.170069,43.616737],"type":"Point"}
 }

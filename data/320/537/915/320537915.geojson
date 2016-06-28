@@ -2,13 +2,14 @@
   "id": 320537915,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.917314,44.06736,-116.917314,44.06736",
     "geom:latitude":44.06736,
     "geom:longitude":-116.917314,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"425 Highland Dr",
     "sg:city":"Payette",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":320537915,
-    "wof:lastmodified":1449012178,
+    "wof:lastmodified":1466486861,
     "wof:name":"Burke Electric, Inc.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "electric"
     ]
 },
-  "bbox": [-116.917314,44.06736,-116.917314,44.06736],
+  "bbox": [
+    -116.917314,
+    44.06736,
+    -116.917314,
+    44.06736
+],
   "geometry": {"coordinates":[-116.917314,44.06736],"type":"Point"}
 }

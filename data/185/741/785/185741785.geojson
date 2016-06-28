@@ -2,13 +2,14 @@
   "id": 185741785,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.460152,42.554004,-114.460152,42.554004",
     "geom:latitude":42.554004,
     "geom:longitude":-114.460152,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"412 Blue Lakes Blvd",
     "sg:city":"Twin Falls",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":185741785,
-    "wof:lastmodified":1449006671,
+    "wof:lastmodified":1466487856,
     "wof:name":"Herrin Entertainment",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "group"
     ]
 },
-  "bbox": [-114.460152,42.554004,-114.460152,42.554004],
-  "geometry": {"coordinates":[-114.460152,42.554004],"type":"Point"}
+  "bbox": [
+    -114.460152,
+    42.554004,
+    -114.460152,
+    42.554004
+],
+  "geometry": {"coordinates":[-114.46015199999999,42.554004],"type":"Point"}
 }

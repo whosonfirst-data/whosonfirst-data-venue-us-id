@@ -2,13 +2,14 @@
   "id": 169655261,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.118725,43.380604,-112.118725,43.380604",
     "geom:latitude":43.380604,
     "geom:longitude":-112.118725,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"159 S Milton Ave",
     "sg:city":"Shelley",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":169655261,
-    "wof:lastmodified":1449034586,
+    "wof:lastmodified":1466487664,
     "wof:name":"A + Carpet",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.118725,43.380604,-112.118725,43.380604],
+  "bbox": [
+    -112.118725,
+    43.380604,
+    -112.118725,
+    43.380604
+],
   "geometry": {"coordinates":[-112.118725,43.380604],"type":"Point"}
 }

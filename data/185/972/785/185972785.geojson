@@ -2,13 +2,14 @@
   "id": 185972785,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.192154,43.560334,-116.192154,43.560334",
     "geom:latitude":43.560334,
     "geom:longitude":-116.192154,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"665 W Amity Rd",
     "sg:city":"Boise",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":185972785,
-    "wof:lastmodified":1449007440,
+    "wof:lastmodified":1466488631,
     "wof:name":"Dats Trucking",
     "wof:parent_id":85876329,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "trucking"
     ]
 },
-  "bbox": [-116.192154,43.560334,-116.192154,43.560334],
+  "bbox": [
+    -116.192154,
+    43.560334,
+    -116.192154,
+    43.560334
+],
   "geometry": {"coordinates":[-116.192154,43.560334],"type":"Point"}
 }

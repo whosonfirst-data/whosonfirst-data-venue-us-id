@@ -2,13 +2,14 @@
   "id": 169792033,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.243508,43.616227,-116.243508,43.616227",
     "geom:latitude":43.616227,
     "geom:longitude":-116.243508,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1320 N Orchard St",
     "sg:city":"Boise",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":169792033,
-    "wof:lastmodified":1449033391,
+    "wof:lastmodified":1466488484,
     "wof:name":"Ketchum Closets",
     "wof:parent_id":85876311,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "accessory"
     ]
 },
-  "bbox": [-116.243508,43.616227,-116.243508,43.616227],
-  "geometry": {"coordinates":[-116.243508,43.616227],"type":"Point"}
+  "bbox": [
+    -116.243508,
+    43.616227,
+    -116.243508,
+    43.616227
+],
+  "geometry": {"coordinates":[-116.24350800000001,43.616227],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169866561,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.26108,43.569053,-116.26108,43.569053",
     "geom:latitude":43.569053,
     "geom:longitude":-116.26108,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6480 W Contractors St",
     "sg:city":"Boise",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":169866561,
-    "wof:lastmodified":1449034249,
+    "wof:lastmodified":1466488551,
     "wof:name":"Sloan Fencing & Construction",
     "wof:parent_id":85825393,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "fence"
     ]
 },
-  "bbox": [-116.26108,43.569053,-116.26108,43.569053],
-  "geometry": {"coordinates":[-116.26108,43.569053],"type":"Point"}
+  "bbox": [
+    -116.26108,
+    43.569053,
+    -116.26108,
+    43.569053
+],
+  "geometry": {"coordinates":[-116.26108000000001,43.569053],"type":"Point"}
 }

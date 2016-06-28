@@ -2,13 +2,14 @@
   "id": 186429125,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.695595,43.659734,-116.695595,43.659734",
     "geom:latitude":43.659734,
     "geom:longitude":-116.695595,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1201 S Kimball Ave",
     "sg:city":"Caldwell",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":186429125,
-    "wof:lastmodified":1449052894,
+    "wof:lastmodified":1466488803,
     "wof:name":"Ralph E Smeed",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "investment"
     ]
 },
-  "bbox": [-116.695595,43.659734,-116.695595,43.659734],
+  "bbox": [
+    -116.695595,
+    43.659734,
+    -116.695595,
+    43.659734
+],
   "geometry": {"coordinates":[-116.695595,43.659734],"type":"Point"}
 }

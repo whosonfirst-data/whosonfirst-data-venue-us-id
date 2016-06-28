@@ -2,13 +2,14 @@
   "id": 186497363,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.791053,47.727198,-116.791053,47.727198",
     "geom:latitude":47.727198,
     "geom:longitude":-116.791053,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6125 N Sunshine St",
     "sg:city":"Coeur D Alene",
     "sg:classifiers":[
@@ -58,14 +59,20 @@
         }
     ],
     "wof:id":186497363,
-    "wof:lastmodified":1449053003,
+    "wof:lastmodified":1466488865,
     "wof:name":"First Care Chiropractic",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-116.791053,47.727198,-116.791053,47.727198],
-  "geometry": {"coordinates":[-116.791053,47.727198],"type":"Point"}
+  "bbox": [
+    -116.791053,
+    47.727198,
+    -116.791053,
+    47.727198
+],
+  "geometry": {"coordinates":[-116.79105300000001,47.727198],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 185699089,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.804703,47.698279,-116.804703,47.698279",
     "geom:latitude":47.698279,
     "geom:longitude":-116.804703,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1321 W Northwood Center Ct",
     "sg:city":"Coeur D Alene",
     "sg:classifiers":[
@@ -62,10 +63,11 @@
         }
     ],
     "wof:id":185699089,
-    "wof:lastmodified":1449006822,
+    "wof:lastmodified":1466487515,
     "wof:name":"Kootenai Prosthetic Orthotic",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -73,6 +75,11 @@
         "appliance"
     ]
 },
-  "bbox": [-116.804703,47.698279,-116.804703,47.698279],
+  "bbox": [
+    -116.804703,
+    47.698279,
+    -116.804703,
+    47.698279
+],
   "geometry": {"coordinates":[-116.804703,47.698279],"type":"Point"}
 }

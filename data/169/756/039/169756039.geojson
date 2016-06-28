@@ -2,13 +2,14 @@
   "id": 169756039,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.250819,43.654076,-116.250819,43.654076",
     "geom:latitude":43.654076,
     "geom:longitude":-116.250819,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3776 North St",
     "sg:city":"Boise",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":169756039,
-    "wof:lastmodified":1449034663,
+    "wof:lastmodified":1466488513,
     "wof:name":"Hidden Acre Enterprises",
     "wof:parent_id":85811879,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "stable"
     ]
 },
-  "bbox": [-116.250819,43.654076,-116.250819,43.654076],
-  "geometry": {"coordinates":[-116.250819,43.654076],"type":"Point"}
+  "bbox": [
+    -116.250819,
+    43.654076,
+    -116.250819,
+    43.654076
+],
+  "geometry": {"coordinates":[-116.25081900000001,43.654076],"type":"Point"}
 }

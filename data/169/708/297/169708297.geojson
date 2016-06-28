@@ -2,13 +2,14 @@
   "id": 169708297,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.569539,43.576724,-116.569539,43.576724",
     "geom:latitude":43.576724,
     "geom:longitude":-116.569539,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"847 7th St S",
     "sg:city":"Nampa",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":169708297,
-    "wof:lastmodified":1449033210,
+    "wof:lastmodified":1466488111,
     "wof:name":"Industrial Commission",
     "wof:parent_id":85827787,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "resource"
     ]
 },
-  "bbox": [-116.569539,43.576724,-116.569539,43.576724],
-  "geometry": {"coordinates":[-116.569539,43.576724],"type":"Point"}
+  "bbox": [
+    -116.569539,
+    43.576724,
+    -116.569539,
+    43.576724
+],
+  "geometry": {"coordinates":[-116.56953900000001,43.576724],"type":"Point"}
 }

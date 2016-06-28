@@ -2,13 +2,14 @@
   "id": 186117099,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.784621,43.588485,-116.784621,43.588485",
     "geom:latitude":43.588485,
     "geom:longitude":-116.784621,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"19491 Apricot Ln",
     "sg:city":"Caldwell",
     "sg:classifiers":[
@@ -56,10 +57,11 @@
         }
     ],
     "wof:id":186117099,
-    "wof:lastmodified":1449052195,
+    "wof:lastmodified":1466488035,
     "wof:name":"Caldwell Riverview Orchards",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -70,6 +72,11 @@
         "peach"
     ]
 },
-  "bbox": [-116.784621,43.588485,-116.784621,43.588485],
+  "bbox": [
+    -116.784621,
+    43.588485,
+    -116.784621,
+    43.588485
+],
   "geometry": {"coordinates":[-116.784621,43.588485],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169609505,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.684784,43.675066,-116.684784,43.675066",
     "geom:latitude":43.675066,
     "geom:longitude":-116.684784,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"300 E Frontage Rd",
     "sg:city":"Caldwell",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":169609505,
-    "wof:lastmodified":1449033922,
+    "wof:lastmodified":1466486950,
     "wof:name":"Higher Ground Worship Ctr",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-116.684784,43.675066,-116.684784,43.675066],
-  "geometry": {"coordinates":[-116.684784,43.675066],"type":"Point"}
+  "bbox": [
+    -116.684784,
+    43.675066,
+    -116.684784,
+    43.675066
+],
+  "geometry": {"coordinates":[-116.68478399999999,43.675066],"type":"Point"}
 }

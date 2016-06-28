@@ -2,13 +2,14 @@
   "id": 185657891,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.308824,43.677856,-114.308824,43.677856",
     "geom:latitude":43.677856,
     "geom:longitude":-114.308824,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"105 Defiance Rd",
     "sg:city":"Sun Valley",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":185657891,
-    "wof:lastmodified":1449006786,
+    "wof:lastmodified":1466487198,
     "wof:name":"Cornelius Bahan",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "cabin"
     ]
 },
-  "bbox": [-114.308824,43.677856,-114.308824,43.677856],
+  "bbox": [
+    -114.308824,
+    43.677856,
+    -114.308824,
+    43.677856
+],
   "geometry": {"coordinates":[-114.308824,43.677856],"type":"Point"}
 }

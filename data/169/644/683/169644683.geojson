@@ -2,13 +2,14 @@
   "id": 169644683,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.549045,47.518453,-116.549045,47.518453",
     "geom:latitude":47.518453,
     "geom:longitude":-116.549045,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"21255 E Killarney Lake Rd",
     "sg:city":"Cataldo",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":169644683,
-    "wof:lastmodified":1449034576,
+    "wof:lastmodified":1466487506,
     "wof:name":"Kelly L Zane",
     "wof:parent_id":85821457,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "residential"
     ]
 },
-  "bbox": [-116.549045,47.518453,-116.549045,47.518453],
-  "geometry": {"coordinates":[-116.549045,47.518453],"type":"Point"}
+  "bbox": [
+    -116.549045,
+    47.518453,
+    -116.549045,
+    47.518453
+],
+  "geometry": {"coordinates":[-116.54904500000001,47.518453],"type":"Point"}
 }

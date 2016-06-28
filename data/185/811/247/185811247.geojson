@@ -2,13 +2,14 @@
   "id": 185811247,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.517273,43.314578,-116.517273,43.314578",
     "geom:latitude":43.314578,
     "geom:longitude":-116.517273,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5000 Victory Ln",
     "sg:city":"Melba",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":185811247,
-    "wof:lastmodified":1449007398,
+    "wof:lastmodified":1466488492,
     "wof:name":"Celebration Park",
     "wof:parent_id":85827787,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "parks"
     ]
 },
-  "bbox": [-116.517273,43.314578,-116.517273,43.314578],
+  "bbox": [
+    -116.517273,
+    43.314578,
+    -116.517273,
+    43.314578
+],
   "geometry": {"coordinates":[-116.517273,43.314578],"type":"Point"}
 }

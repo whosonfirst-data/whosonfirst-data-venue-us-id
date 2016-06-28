@@ -2,13 +2,14 @@
   "id": 185916119,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.790777,47.6397,-116.790777,47.6397",
     "geom:latitude":47.6397,
     "geom:longitude":-116.790777,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3680 S Brentwood Ln",
     "sg:city":"Coeur D Alene",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":185916119,
-    "wof:lastmodified":1449007494,
+    "wof:lastmodified":1466488585,
     "wof:name":"Award Winning Photography",
     "wof:parent_id":85821457,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "taping"
     ]
 },
-  "bbox": [-116.790777,47.6397,-116.790777,47.6397],
-  "geometry": {"coordinates":[-116.790777,47.6397],"type":"Point"}
+  "bbox": [
+    -116.790777,
+    47.6397,
+    -116.790777,
+    47.6397
+],
+  "geometry": {"coordinates":[-116.79077700000001,47.6397],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186225427,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.559589,48.270804,-116.559589,48.270804",
     "geom:latitude":48.270804,
     "geom:longitude":-116.559589,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"331 S Florence Ave",
     "sg:city":"Sandpoint",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":186225427,
-    "wof:lastmodified":1449051215,
+    "wof:lastmodified":1466488554,
     "wof:name":"Grass Roots Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-116.559589,48.270804,-116.559589,48.270804],
+  "bbox": [
+    -116.559589,
+    48.270804,
+    -116.559589,
+    48.270804
+],
   "geometry": {"coordinates":[-116.559589,48.270804],"type":"Point"}
 }

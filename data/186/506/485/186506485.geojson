@@ -2,13 +2,14 @@
   "id": 186506485,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.958689,47.719782,-116.958689,47.719782",
     "geom:latitude":47.719782,
     "geom:longitude":-116.958689,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"706 W 12th Ave",
     "sg:city":"Post Falls",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":186506485,
-    "wof:lastmodified":1449050322,
+    "wof:lastmodified":1466488918,
     "wof:name":"Astro Electric Inc",
     "wof:parent_id":85833263,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "generator"
     ]
 },
-  "bbox": [-116.958689,47.719782,-116.958689,47.719782],
-  "geometry": {"coordinates":[-116.958689,47.719782],"type":"Point"}
+  "bbox": [
+    -116.958689,
+    47.719782,
+    -116.958689,
+    47.719782
+],
+  "geometry": {"coordinates":[-116.95868900000001,47.719782],"type":"Point"}
 }

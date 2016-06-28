@@ -2,13 +2,14 @@
   "id": 169700869,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.297217,43.621692,-116.297217,43.621692",
     "geom:latitude":43.621692,
     "geom:longitude":-116.297217,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9011 W Halstead Dr",
     "sg:city":"Boise",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":169700869,
-    "wof:lastmodified":1449035671,
+    "wof:lastmodified":1466488039,
     "wof:name":"Hattrick's Merchandise & Svc",
     "wof:parent_id":85876309,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "general"
     ]
 },
-  "bbox": [-116.297217,43.621692,-116.297217,43.621692],
+  "bbox": [
+    -116.297217,
+    43.621692,
+    -116.297217,
+    43.621692
+],
   "geometry": {"coordinates":[-116.297217,43.621692],"type":"Point"}
 }

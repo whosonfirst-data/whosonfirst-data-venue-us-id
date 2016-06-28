@@ -2,13 +2,14 @@
   "id": 186059821,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.043488,43.48092,-112.043488,43.48092",
     "geom:latitude":43.48092,
     "geom:longitude":-112.043488,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"505 W 19th St",
     "sg:city":"Idaho Falls",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":186059821,
-    "wof:lastmodified":1449051119,
+    "wof:lastmodified":1466487425,
     "wof:name":"Class Act Clips",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "animal"
     ]
 },
-  "bbox": [-112.043488,43.48092,-112.043488,43.48092],
+  "bbox": [
+    -112.043488,
+    43.48092,
+    -112.043488,
+    43.48092
+],
   "geometry": {"coordinates":[-112.043488,43.48092],"type":"Point"}
 }

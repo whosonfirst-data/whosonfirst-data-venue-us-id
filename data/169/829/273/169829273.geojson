@@ -2,13 +2,14 @@
   "id": 169829273,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.875346,47.846289,-116.875346,47.846289",
     "geom:latitude":47.846289,
     "geom:longitude":-116.875346,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6734 W Sturgeon Rd",
     "sg:city":"Rathdrum",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":169829273,
-    "wof:lastmodified":1449035745,
+    "wof:lastmodified":1466488588,
     "wof:name":"Cedar Springs B & B",
     "wof:parent_id":85833263,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "bed"
     ]
 },
-  "bbox": [-116.875346,47.846289,-116.875346,47.846289],
-  "geometry": {"coordinates":[-116.875346,47.846289],"type":"Point"}
+  "bbox": [
+    -116.875346,
+    47.846289,
+    -116.875346,
+    47.846289
+],
+  "geometry": {"coordinates":[-116.87534599999999,47.846289],"type":"Point"}
 }

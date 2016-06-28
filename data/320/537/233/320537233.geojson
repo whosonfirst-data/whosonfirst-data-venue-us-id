@@ -2,13 +2,14 @@
   "id": 320537233,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.928978,44.075066,-116.928978,44.075066",
     "geom:latitude":44.075066,
     "geom:longitude":-116.928978,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"20 N 12th St",
     "sg:city":"Payette",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":320537233,
-    "wof:lastmodified":1449012176,
+    "wof:lastmodified":1466486853,
     "wof:name":"Payette School District",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-116.928978,44.075066,-116.928978,44.075066],
+  "bbox": [
+    -116.928978,
+    44.075066,
+    -116.928978,
+    44.075066
+],
   "geometry": {"coordinates":[-116.928978,44.075066],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186500145,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.254308,43.66218,-116.254308,43.66218",
     "geom:latitude":43.66218,
     "geom:longitude":-116.254308,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5487 Ellens Ferry Dr",
     "sg:city":"Boise",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":186500145,
-    "wof:lastmodified":1449051059,
+    "wof:lastmodified":1466488914,
     "wof:name":"Crimson",
     "wof:parent_id":85811879,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-116.254308,43.66218,-116.254308,43.66218],
-  "geometry": {"coordinates":[-116.254308,43.66218],"type":"Point"}
+  "bbox": [
+    -116.254308,
+    43.66218,
+    -116.254308,
+    43.66218
+],
+  "geometry": {"coordinates":[-116.25430799999999,43.66218],"type":"Point"}
 }

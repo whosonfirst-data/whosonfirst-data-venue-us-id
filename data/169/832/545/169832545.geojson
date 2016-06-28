@@ -2,13 +2,14 @@
   "id": 169832545,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.376424,43.517406,-116.376424,43.517406",
     "geom:latitude":43.517406,
     "geom:longitude":-116.376424,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1570 E Hubbard Rd",
     "sg:city":"Kuna",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":169832545,
-    "wof:lastmodified":1449032703,
+    "wof:lastmodified":1466488593,
     "wof:name":"Lloyd Bridge",
     "wof:parent_id":85876331,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "lessor"
     ]
 },
-  "bbox": [-116.376424,43.517406,-116.376424,43.517406],
+  "bbox": [
+    -116.376424,
+    43.517406,
+    -116.376424,
+    43.517406
+],
   "geometry": {"coordinates":[-116.376424,43.517406],"type":"Point"}
 }

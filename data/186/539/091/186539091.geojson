@@ -2,13 +2,14 @@
   "id": 186539091,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.313419,43.677937,-116.313419,43.677937",
     "geom:latitude":43.677937,
     "geom:longitude":-116.313419,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6342 N Aspen Glen Way",
     "sg:city":"Boise",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186539091,
-    "wof:lastmodified":1449053072,
+    "wof:lastmodified":1466488874,
     "wof:name":"Pal Web Design",
     "wof:parent_id":85876315,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "desi"
     ]
 },
-  "bbox": [-116.313419,43.677937,-116.313419,43.677937],
+  "bbox": [
+    -116.313419,
+    43.677937,
+    -116.313419,
+    43.677937
+],
   "geometry": {"coordinates":[-116.313419,43.677937],"type":"Point"}
 }

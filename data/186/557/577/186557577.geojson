@@ -2,13 +2,14 @@
   "id": 186557577,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.259511,43.563401,-116.259511,43.563401",
     "geom:latitude":43.563401,
     "geom:longitude":-116.259511,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3901 W Gowen Rd",
     "sg:city":"Boise",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186557577,
-    "wof:lastmodified":1449052276,
+    "wof:lastmodified":1466488893,
     "wof:name":"TNT Insured Towing",
     "wof:parent_id":85825393,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "crane"
     ]
 },
-  "bbox": [-116.259511,43.563401,-116.259511,43.563401],
+  "bbox": [
+    -116.259511,
+    43.563401,
+    -116.259511,
+    43.563401
+],
   "geometry": {"coordinates":[-116.259511,43.563401],"type":"Point"}
 }

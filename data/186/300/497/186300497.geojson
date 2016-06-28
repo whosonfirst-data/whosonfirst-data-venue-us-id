@@ -2,13 +2,14 @@
   "id": 186300497,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.786759,47.720658,-116.786759,47.720658",
     "geom:latitude":47.720658,
     "geom:longitude":-116.786759,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5433 N Government Way",
     "sg:city":"Coeur D Alene",
     "sg:classifiers":[
@@ -61,16 +62,22 @@
         }
     ],
     "wof:id":186300497,
-    "wof:lastmodified":1449051895,
+    "wof:lastmodified":1466488574,
     "wof:name":"Redal & Redal",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "attorney"
     ]
 },
-  "bbox": [-116.786759,47.720658,-116.786759,47.720658],
+  "bbox": [
+    -116.786759,
+    47.720658,
+    -116.786759,
+    47.720658
+],
   "geometry": {"coordinates":[-116.786759,47.720658],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169708717,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.24339,43.578828,-116.24339,43.578828",
     "geom:latitude":43.578828,
     "geom:longitude":-116.24339,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4869 Malad St",
     "sg:city":"Boise",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":169708717,
-    "wof:lastmodified":1449033207,
+    "wof:lastmodified":1466488115,
     "wof:name":"Hearts For Hospice",
     "wof:parent_id":85825393,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "hospice"
     ]
 },
-  "bbox": [-116.24339,43.578828,-116.24339,43.578828],
-  "geometry": {"coordinates":[-116.24339,43.578828],"type":"Point"}
+  "bbox": [
+    -116.24339,
+    43.578828,
+    -116.24339,
+    43.578828
+],
+  "geometry": {"coordinates":[-116.24339000000001,43.578828],"type":"Point"}
 }

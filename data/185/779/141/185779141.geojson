@@ -2,13 +2,14 @@
   "id": 185779141,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.572693,43.542383,-116.572693,43.542383",
     "geom:latitude":43.542383,
     "geom:longitude":-116.572693,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2811 12th Ave Rd",
     "sg:city":"Nampa",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":185779141,
-    "wof:lastmodified":1449006856,
+    "wof:lastmodified":1466488156,
     "wof:name":"Daron Stevens Orthodontics",
     "wof:parent_id":85827787,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "dentist"
     ]
 },
-  "bbox": [-116.572693,43.542383,-116.572693,43.542383],
+  "bbox": [
+    -116.572693,
+    43.542383,
+    -116.572693,
+    43.542383
+],
   "geometry": {"coordinates":[-116.572693,43.542383],"type":"Point"}
 }

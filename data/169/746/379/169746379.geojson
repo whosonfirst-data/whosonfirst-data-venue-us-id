@@ -2,13 +2,14 @@
   "id": 169746379,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.427287,42.555058,-114.427287,42.555058",
     "geom:latitude":42.555058,
     "geom:longitude":-114.427287,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"563 Trotter Dr",
     "sg:city":"Twin Falls",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":169746379,
-    "wof:lastmodified":1449032653,
+    "wof:lastmodified":1466488404,
     "wof:name":"Idaho Guide Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "boat"
     ]
 },
-  "bbox": [-114.427287,42.555058,-114.427287,42.555058],
-  "geometry": {"coordinates":[-114.427287,42.555058],"type":"Point"}
+  "bbox": [
+    -114.427287,
+    42.555058,
+    -114.427287,
+    42.555058
+],
+  "geometry": {"coordinates":[-114.42728700000001,42.555058],"type":"Point"}
 }

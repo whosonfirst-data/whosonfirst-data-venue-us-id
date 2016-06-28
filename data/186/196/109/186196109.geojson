@@ -2,13 +2,14 @@
   "id": 186196109,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.800514,47.696507,-116.800514,47.696507",
     "geom:latitude":47.696507,
     "geom:longitude":-116.800514,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1200 W Ironwood Dr",
     "sg:city":"Coeur D Alene",
     "sg:classifiers":[
@@ -61,16 +62,22 @@
         }
     ],
     "wof:id":186196109,
-    "wof:lastmodified":1449051002,
+    "wof:lastmodified":1466488393,
     "wof:name":"Secretarial Headquarters",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "reporting"
     ]
 },
-  "bbox": [-116.800514,47.696507,-116.800514,47.696507],
-  "geometry": {"coordinates":[-116.800514,47.696507],"type":"Point"}
+  "bbox": [
+    -116.800514,
+    47.696507,
+    -116.800514,
+    47.696507
+],
+  "geometry": {"coordinates":[-116.80051400000001,47.696507],"type":"Point"}
 }

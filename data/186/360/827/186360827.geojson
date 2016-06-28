@@ -2,13 +2,14 @@
   "id": 186360827,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.947573,44.222508,-116.947573,44.222508",
     "geom:latitude":44.222508,
     "geom:longitude":-116.947573,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"497 Industrial Rd",
     "sg:city":"Weiser",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":186360827,
-    "wof:lastmodified":1449052389,
+    "wof:lastmodified":1466488836,
     "wof:name":"K Bar K Trucking",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "trucking"
     ]
 },
-  "bbox": [-116.947573,44.222508,-116.947573,44.222508],
-  "geometry": {"coordinates":[-116.947573,44.222508],"type":"Point"}
+  "bbox": [
+    -116.947573,
+    44.222508,
+    -116.947573,
+    44.222508
+],
+  "geometry": {"coordinates":[-116.94757300000001,44.222508],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186451091,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.572701,43.542266,-116.572701,43.542266",
     "geom:latitude":43.542266,
     "geom:longitude":-116.572701,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2821 12th Ave Rd",
     "sg:city":"Nampa",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186451091,
-    "wof:lastmodified":1449051540,
+    "wof:lastmodified":1466488821,
     "wof:name":"Stor All Self Storage",
     "wof:parent_id":85827787,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "storage"
     ]
 },
-  "bbox": [-116.572701,43.542266,-116.572701,43.542266],
+  "bbox": [
+    -116.572701,
+    43.542266,
+    -116.572701,
+    43.542266
+],
   "geometry": {"coordinates":[-116.572701,43.542266],"type":"Point"}
 }

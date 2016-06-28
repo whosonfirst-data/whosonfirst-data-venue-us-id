@@ -2,13 +2,14 @@
   "id": 185665631,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.207628,43.622191,-116.207628,43.622191",
     "geom:latitude":43.622191,
     "geom:longitude":-116.207628,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1303 W State St",
     "sg:city":"Boise",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":185665631,
-    "wof:lastmodified":1449007097,
+    "wof:lastmodified":1466487257,
     "wof:name":"Burns Studio",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "photographer"
     ]
 },
-  "bbox": [-116.207628,43.622191,-116.207628,43.622191],
+  "bbox": [
+    -116.207628,
+    43.622191,
+    -116.207628,
+    43.622191
+],
   "geometry": {"coordinates":[-116.207628,43.622191],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169652569,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.976243,44.114767,-115.976243,44.114767",
     "geom:latitude":44.114767,
     "geom:longitude":-115.976243,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"349 Packer John Dr",
     "sg:city":"Garden Valley",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":169652569,
-    "wof:lastmodified":1449034810,
+    "wof:lastmodified":1466487627,
     "wof:name":"Pete Wier Forestry",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "forestry"
     ]
 },
-  "bbox": [-115.976243,44.114767,-115.976243,44.114767],
+  "bbox": [
+    -115.976243,
+    44.114767,
+    -115.976243,
+    44.114767
+],
   "geometry": {"coordinates":[-115.976243,44.114767],"type":"Point"}
 }

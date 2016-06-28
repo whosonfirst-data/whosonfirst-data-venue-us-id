@@ -2,13 +2,14 @@
   "id": 186289027,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.85256,43.665296,-116.85256,43.665296",
     "geom:latitude":43.665296,
     "geom:longitude":-116.85256,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"20219 Van Slyke Rd",
     "sg:city":"Caldwell",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":186289027,
-    "wof:lastmodified":1449052560,
+    "wof:lastmodified":1466488728,
     "wof:name":"Carol's Flying Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "applicator"
     ]
 },
-  "bbox": [-116.85256,43.665296,-116.85256,43.665296],
+  "bbox": [
+    -116.85256,
+    43.665296,
+    -116.85256,
+    43.665296
+],
   "geometry": {"coordinates":[-116.85256,43.665296],"type":"Point"}
 }

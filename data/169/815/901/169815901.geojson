@@ -2,13 +2,14 @@
   "id": 169815901,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.203606,43.577888,-116.203606,43.577888",
     "geom:latitude":43.577888,
     "geom:longitude":-116.203606,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2714 Annett St",
     "sg:city":"Boise",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":169815901,
-    "wof:lastmodified":1449034279,
+    "wof:lastmodified":1466488541,
     "wof:name":"Run Co",
     "wof:parent_id":85876343,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "general"
     ]
 },
-  "bbox": [-116.203606,43.577888,-116.203606,43.577888],
-  "geometry": {"coordinates":[-116.203606,43.577888],"type":"Point"}
+  "bbox": [
+    -116.203606,
+    43.577888,
+    -116.203606,
+    43.577888
+],
+  "geometry": {"coordinates":[-116.20360599999999,43.577888],"type":"Point"}
 }

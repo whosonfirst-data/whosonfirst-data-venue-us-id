@@ -2,13 +2,14 @@
   "id": 186422925,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.284249,43.614194,-116.284249,43.614194",
     "geom:latitude":43.614194,
     "geom:longitude":-116.284249,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1001 N Milwaukee St",
     "sg:city":"Boise",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186422925,
-    "wof:lastmodified":1449050441,
+    "wof:lastmodified":1466488806,
     "wof:name":"Zurchers Your Discount Party",
     "wof:parent_id":85841319,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "supply"
     ]
 },
-  "bbox": [-116.284249,43.614194,-116.284249,43.614194],
+  "bbox": [
+    -116.284249,
+    43.614194,
+    -116.284249,
+    43.614194
+],
   "geometry": {"coordinates":[-116.284249,43.614194],"type":"Point"}
 }

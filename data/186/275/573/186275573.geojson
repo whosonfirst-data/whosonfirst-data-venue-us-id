@@ -2,13 +2,14 @@
   "id": 186275573,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.970407,46.657873,-116.970407,46.657873",
     "geom:latitude":46.657873,
     "geom:longitude":-116.970407,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1196 Eid Rd",
     "sg:city":"Moscow",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":186275573,
-    "wof:lastmodified":1449051250,
+    "wof:lastmodified":1466488555,
     "wof:name":"La Accounting Services",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-116.970407,46.657873,-116.970407,46.657873],
-  "geometry": {"coordinates":[-116.970407,46.657873],"type":"Point"}
+  "bbox": [
+    -116.970407,
+    46.657873,
+    -116.970407,
+    46.657873
+],
+  "geometry": {"coordinates":[-116.97040699999999,46.657873],"type":"Point"}
 }

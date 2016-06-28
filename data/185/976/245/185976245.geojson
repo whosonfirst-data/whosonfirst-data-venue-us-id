@@ -2,13 +2,14 @@
   "id": 185976245,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.581121,47.316144,-116.581121,47.316144",
     "geom:latitude":47.316144,
     "geom:longitude":-116.581121,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1912 Main Ave",
     "sg:city":"St Maries",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":185976245,
-    "wof:lastmodified":1449007270,
+    "wof:lastmodified":1466488812,
     "wof:name":"Fred & Jerri Appliance Repair",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "appliance"
     ]
 },
-  "bbox": [-116.581121,47.316144,-116.581121,47.316144],
+  "bbox": [
+    -116.581121,
+    47.316144,
+    -116.581121,
+    47.316144
+],
   "geometry": {"coordinates":[-116.581121,47.316144],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186380103,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.322404,43.715482,-116.322404,43.715482",
     "geom:latitude":43.715482,
     "geom:longitude":-116.322404,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2616 E Aspenwood Ct",
     "sg:city":"Eagle",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":186380103,
-    "wof:lastmodified":1449051620,
+    "wof:lastmodified":1466488768,
     "wof:name":"Cornerstone Homes LLC",
     "wof:parent_id":85876315,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "builder"
     ]
 },
-  "bbox": [-116.322404,43.715482,-116.322404,43.715482],
-  "geometry": {"coordinates":[-116.322404,43.715482],"type":"Point"}
+  "bbox": [
+    -116.322404,
+    43.715482,
+    -116.322404,
+    43.715482
+],
+  "geometry": {"coordinates":[-116.32240400000001,43.715482],"type":"Point"}
 }

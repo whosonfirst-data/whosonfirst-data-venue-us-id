@@ -2,13 +2,14 @@
   "id": 169814049,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.143363,43.564566,-116.143363,43.564566",
     "geom:latitude":43.564566,
     "geom:longitude":-116.143363,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3235 E Bayberry Ct",
     "sg:city":"Boise",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":169814049,
-    "wof:lastmodified":1449033294,
+    "wof:lastmodified":1466488537,
     "wof:name":"Laughing Dog Productions",
     "wof:parent_id":85876329,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "taping"
     ]
 },
-  "bbox": [-116.143363,43.564566,-116.143363,43.564566],
-  "geometry": {"coordinates":[-116.143363,43.564566],"type":"Point"}
+  "bbox": [
+    -116.143363,
+    43.564566,
+    -116.143363,
+    43.564566
+],
+  "geometry": {"coordinates":[-116.14336299999999,43.564566],"type":"Point"}
 }

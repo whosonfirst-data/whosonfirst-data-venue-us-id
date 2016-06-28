@@ -2,13 +2,14 @@
   "id": 186413353,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.344785,43.193302,-112.344785,43.193302",
     "geom:latitude":43.193302,
     "geom:longitude":-112.344785,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"490 N Maple St",
     "sg:city":"Blackfoot",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186413353,
-    "wof:lastmodified":1449050811,
+    "wof:lastmodified":1466488853,
     "wof:name":"Child & Family Solutions",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "family"
     ]
 },
-  "bbox": [-112.344785,43.193302,-112.344785,43.193302],
+  "bbox": [
+    -112.344785,
+    43.193302,
+    -112.344785,
+    43.193302
+],
   "geometry": {"coordinates":[-112.344785,43.193302],"type":"Point"}
 }

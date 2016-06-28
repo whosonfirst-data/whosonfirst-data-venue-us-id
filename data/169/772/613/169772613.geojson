@@ -2,13 +2,14 @@
   "id": 169772613,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.2025,43.601851,-116.2025,43.601851",
     "geom:latitude":43.601851,
     "geom:longitude":-116.2025,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1801 University Dr",
     "sg:city":"Boise",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":169772613,
-    "wof:lastmodified":1449034152,
+    "wof:lastmodified":1466488449,
     "wof:name":"Abundant Life Chrisitan Flwshp",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-116.2025,43.601851,-116.2025,43.601851],
+  "bbox": [
+    -116.2025,
+    43.601851,
+    -116.2025,
+    43.601851
+],
   "geometry": {"coordinates":[-116.2025,43.601851],"type":"Point"}
 }

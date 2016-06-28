@@ -2,13 +2,14 @@
   "id": 185638151,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.183914,43.56895,-116.183914,43.56895",
     "geom:latitude":43.56895,
     "geom:longitude":-116.183914,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3353 S Federal Way",
     "sg:city":"Boise",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":185638151,
-    "wof:lastmodified":1449006673,
+    "wof:lastmodified":1466487053,
     "wof:name":"Flying J Travel Plaza",
     "wof:parent_id":85876337,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -66,6 +68,11 @@
         "stops"
     ]
 },
-  "bbox": [-116.183914,43.56895,-116.183914,43.56895],
+  "bbox": [
+    -116.183914,
+    43.56895,
+    -116.183914,
+    43.56895
+],
   "geometry": {"coordinates":[-116.183914,43.56895],"type":"Point"}
 }

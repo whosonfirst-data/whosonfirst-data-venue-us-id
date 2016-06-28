@@ -2,13 +2,14 @@
   "id": 185713645,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.939906,46.369415,-116.939906,46.369415",
     "geom:latitude":46.369415,
     "geom:longitude":-116.939906,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1732 Powers Ave",
     "sg:city":"Lewiston",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":185713645,
-    "wof:lastmodified":1449008066,
+    "wof:lastmodified":1466487631,
     "wof:name":"JPL Construction",
     "wof:parent_id":85837769,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-116.939906,46.369415,-116.939906,46.369415],
-  "geometry": {"coordinates":[-116.939906,46.369415],"type":"Point"}
+  "bbox": [
+    -116.939906,
+    46.369415,
+    -116.939906,
+    46.369415
+],
+  "geometry": {"coordinates":[-116.93990599999999,46.369415],"type":"Point"}
 }

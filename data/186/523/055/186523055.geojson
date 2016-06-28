@@ -2,13 +2,14 @@
   "id": 186523055,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.576502,43.554262,-116.576502,43.554262",
     "geom:latitude":43.554262,
     "geom:longitude":-116.576502,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"353 W Iowa Ave",
     "sg:city":"Nampa",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186523055,
-    "wof:lastmodified":1449051928,
+    "wof:lastmodified":1466488871,
     "wof:name":"Idaho Physical Medicine",
     "wof:parent_id":85827787,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "surgeon"
     ]
 },
-  "bbox": [-116.576502,43.554262,-116.576502,43.554262],
+  "bbox": [
+    -116.576502,
+    43.554262,
+    -116.576502,
+    43.554262
+],
   "geometry": {"coordinates":[-116.576502,43.554262],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186289105,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.788354,47.676712,-116.788354,47.676712",
     "geom:latitude":47.676712,
     "geom:longitude":-116.788354,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"508 Northwest Blvd",
     "sg:city":"Coeur D Alene",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":186289105,
-    "wof:lastmodified":1449052560,
+    "wof:lastmodified":1466488660,
     "wof:name":"Lakeside Food Mart",
     "wof:parent_id":85821457,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-116.788354,47.676712,-116.788354,47.676712],
+  "bbox": [
+    -116.788354,
+    47.676712,
+    -116.788354,
+    47.676712
+],
   "geometry": {"coordinates":[-116.788354,47.676712],"type":"Point"}
 }

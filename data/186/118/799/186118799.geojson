@@ -2,13 +2,14 @@
   "id": 186118799,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.587813,43.692118,-116.587813,43.692118",
     "geom:latitude":43.692118,
     "geom:longitude":-116.587813,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9918 Landruff Ln",
     "sg:city":"Middleton",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":186118799,
-    "wof:lastmodified":1449052502,
+    "wof:lastmodified":1466488049,
     "wof:name":"Sea Horse Farms",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "general"
     ]
 },
-  "bbox": [-116.587813,43.692118,-116.587813,43.692118],
+  "bbox": [
+    -116.587813,
+    43.692118,
+    -116.587813,
+    43.692118
+],
   "geometry": {"coordinates":[-116.587813,43.692118],"type":"Point"}
 }

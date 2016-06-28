@@ -2,13 +2,14 @@
   "id": 185638451,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.992705,46.731037,-116.992705,46.731037",
     "geom:latitude":46.731037,
     "geom:longitude":-116.992705,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"509 S Howard St",
     "sg:city":"Moscow",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":185638451,
-    "wof:lastmodified":1449006672,
+    "wof:lastmodified":1466487055,
     "wof:name":"GTE",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "communications"
     ]
 },
-  "bbox": [-116.992705,46.731037,-116.992705,46.731037],
+  "bbox": [
+    -116.992705,
+    46.731037,
+    -116.992705,
+    46.731037
+],
   "geometry": {"coordinates":[-116.992705,46.731037],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 185881597,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.496308,44.057009,-111.496308,44.057009",
     "geom:latitude":44.057009,
     "geom:longitude":-111.496308,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3330 E 1200 N",
     "sg:city":"Ashton",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":185881597,
-    "wof:lastmodified":1449007545,
+    "wof:lastmodified":1466488536,
     "wof:name":"Fish & Game Dept",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "state"
     ]
 },
-  "bbox": [-111.496308,44.057009,-111.496308,44.057009],
+  "bbox": [
+    -111.496308,
+    44.057009,
+    -111.496308,
+    44.057009
+],
   "geometry": {"coordinates":[-111.496308,44.057009],"type":"Point"}
 }

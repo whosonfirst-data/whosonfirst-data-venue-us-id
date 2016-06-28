@@ -2,13 +2,14 @@
   "id": 169794555,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.722972,43.601777,-116.722972,43.601777",
     "geom:latitude":43.601777,
     "geom:longitude":-116.722972,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"15815 Riverside Rd",
     "sg:city":"Caldwell",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":169794555,
-    "wof:lastmodified":1449034268,
+    "wof:lastmodified":1466488491,
     "wof:name":"Riverside Self Storage",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "general"
     ]
 },
-  "bbox": [-116.722972,43.601777,-116.722972,43.601777],
+  "bbox": [
+    -116.722972,
+    43.601777,
+    -116.722972,
+    43.601777
+],
   "geometry": {"coordinates":[-116.722972,43.601777],"type":"Point"}
 }

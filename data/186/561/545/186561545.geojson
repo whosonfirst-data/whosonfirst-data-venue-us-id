@@ -2,13 +2,14 @@
   "id": 186561545,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.419052,43.500827,-116.419052,43.500827",
     "geom:latitude":43.500827,
     "geom:longitude":-116.419052,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1264 N Black Wolf Ave",
     "sg:city":"Kuna",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":186561545,
-    "wof:lastmodified":1449052255,
+    "wof:lastmodified":1466488896,
     "wof:name":"Rainbeads",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "stone"
     ]
 },
-  "bbox": [-116.419052,43.500827,-116.419052,43.500827],
-  "geometry": {"coordinates":[-116.419052,43.500827],"type":"Point"}
+  "bbox": [
+    -116.419052,
+    43.500827,
+    -116.419052,
+    43.500827
+],
+  "geometry": {"coordinates":[-116.41905199999999,43.500827],"type":"Point"}
 }

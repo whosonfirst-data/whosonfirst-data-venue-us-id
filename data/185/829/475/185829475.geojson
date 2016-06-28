@@ -2,13 +2,14 @@
   "id": 185829475,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.023729,43.554638,-112.023729,43.554638",
     "geom:latitude":43.554638,
     "geom:longitude":-112.023729,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6800 N 5th E",
     "sg:city":"Idaho Falls",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":185829475,
-    "wof:lastmodified":1449008103,
+    "wof:lastmodified":1466488345,
     "wof:name":"Aspen Landscaping",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "contractor"
     ]
 },
-  "bbox": [-112.023729,43.554638,-112.023729,43.554638],
+  "bbox": [
+    -112.023729,
+    43.554638,
+    -112.023729,
+    43.554638
+],
   "geometry": {"coordinates":[-112.023729,43.554638],"type":"Point"}
 }

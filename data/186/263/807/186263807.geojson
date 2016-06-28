@@ -2,13 +2,14 @@
   "id": 186263807,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.533039,43.584555,-116.533039,43.584555",
     "geom:latitude":43.584555,
     "geom:longitude":-116.533039,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"131 N Kings Rd",
     "sg:city":"Nampa",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":186263807,
-    "wof:lastmodified":1449052955,
+    "wof:lastmodified":1466488615,
     "wof:name":"Atlas Pallet Co",
     "wof:parent_id":85827787,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "skid"
     ]
 },
-  "bbox": [-116.533039,43.584555,-116.533039,43.584555],
+  "bbox": [
+    -116.533039,
+    43.584555,
+    -116.533039,
+    43.584555
+],
   "geometry": {"coordinates":[-116.533039,43.584555],"type":"Point"}
 }

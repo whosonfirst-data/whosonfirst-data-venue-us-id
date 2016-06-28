@@ -2,13 +2,14 @@
   "id": 169638059,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.201047,46.536013,-116.201047,46.536013",
     "geom:latitude":46.536013,
     "geom:longitude":-116.201047,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1400 Wells Bench Rd",
     "sg:city":"Orofino",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":169638059,
-    "wof:lastmodified":1449032865,
+    "wof:lastmodified":1466487407,
     "wof:name":"M & M Enterprises",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "mfg"
     ]
 },
-  "bbox": [-116.201047,46.536013,-116.201047,46.536013],
+  "bbox": [
+    -116.201047,
+    46.536013,
+    -116.201047,
+    46.536013
+],
   "geometry": {"coordinates":[-116.201047,46.536013],"type":"Point"}
 }

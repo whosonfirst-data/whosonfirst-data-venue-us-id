@@ -2,13 +2,14 @@
   "id": 320525197,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.964694,46.440231,-116.964694,46.440231",
     "geom:latitude":46.440231,
     "geom:longitude":-116.964694,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1800 Spring Canyon Ln",
     "sg:city":"Lewiston",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":320525197,
-    "wof:lastmodified":1449014190,
+    "wof:lastmodified":1466487259,
     "wof:name":"Kenneth Pearson",
     "wof:parent_id":85824237,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-116.964694,46.440231,-116.964694,46.440231],
-  "geometry": {"coordinates":[-116.964694,46.440231],"type":"Point"}
+  "bbox": [
+    -116.964694,
+    46.440231,
+    -116.964694,
+    46.440231
+],
+  "geometry": {"coordinates":[-116.96469399999999,46.440231],"type":"Point"}
 }

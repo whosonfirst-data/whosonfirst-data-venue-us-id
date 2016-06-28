@@ -2,13 +2,14 @@
   "id": 169599707,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.440696,42.543209,-114.440696,42.543209",
     "geom:latitude":42.543209,
     "geom:longitude":-114.440696,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"393 Eastland Dr S",
     "sg:city":"Twin Falls",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":169599707,
-    "wof:lastmodified":1449034211,
+    "wof:lastmodified":1466488375,
     "wof:name":"Magic Valley Business Systems",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "copying"
     ]
 },
-  "bbox": [-114.440696,42.543209,-114.440696,42.543209],
+  "bbox": [
+    -114.440696,
+    42.543209,
+    -114.440696,
+    42.543209
+],
   "geometry": {"coordinates":[-114.440696,42.543209],"type":"Point"}
 }

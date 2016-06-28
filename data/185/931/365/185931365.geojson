@@ -2,13 +2,14 @@
   "id": 185931365,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.925356,43.799548,-116.925356,43.799548",
     "geom:latitude":43.799548,
     "geom:longitude":-116.925356,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"26726 Burden Rd",
     "sg:city":"Parma",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":185931365,
-    "wof:lastmodified":1449008072,
+    "wof:lastmodified":1466488627,
     "wof:name":"R & L's Floor Covering",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-116.925356,43.799548,-116.925356,43.799548],
-  "geometry": {"coordinates":[-116.925356,43.799548],"type":"Point"}
+  "bbox": [
+    -116.925356,
+    43.799548,
+    -116.925356,
+    43.799548
+],
+  "geometry": {"coordinates":[-116.92535599999999,43.799548],"type":"Point"}
 }

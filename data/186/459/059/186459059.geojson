@@ -2,13 +2,14 @@
   "id": 186459059,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.927761,43.525439,-111.927761,43.525439",
     "geom:latitude":43.525439,
     "geom:longitude":-111.927761,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5338 Owens Ave",
     "sg:city":"Iona",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":186459059,
-    "wof:lastmodified":1449051463,
+    "wof:lastmodified":1466488832,
     "wof:name":"Joint School Dist 93",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.927761,43.525439,-111.927761,43.525439],
+  "bbox": [
+    -111.927761,
+    43.525439,
+    -111.927761,
+    43.525439
+],
   "geometry": {"coordinates":[-111.927761,43.525439],"type":"Point"}
 }

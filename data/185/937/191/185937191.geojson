@@ -2,13 +2,14 @@
   "id": 185937191,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.462942,43.857342,-116.462942,43.857342",
     "geom:latitude":43.857342,
     "geom:longitude":-116.462942,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2771 Cherry Ln",
     "sg:city":"Emmett",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":185937191,
-    "wof:lastmodified":1449006929,
+    "wof:lastmodified":1466488641,
     "wof:name":"Jim Kantola",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "trucking"
     ]
 },
-  "bbox": [-116.462942,43.857342,-116.462942,43.857342],
+  "bbox": [
+    -116.462942,
+    43.857342,
+    -116.462942,
+    43.857342
+],
   "geometry": {"coordinates":[-116.462942,43.857342],"type":"Point"}
 }

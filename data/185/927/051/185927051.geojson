@@ -2,13 +2,14 @@
   "id": 185927051,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.875047,43.719848,-116.875047,43.719848",
     "geom:latitude":43.719848,
     "geom:longitude":-116.875047,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"24005 Boise River Rd",
     "sg:city":"Caldwell",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":185927051,
-    "wof:lastmodified":1449008052,
+    "wof:lastmodified":1466488694,
     "wof:name":"Alfred Kandler",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "general"
     ]
 },
-  "bbox": [-116.875047,43.719848,-116.875047,43.719848],
+  "bbox": [
+    -116.875047,
+    43.719848,
+    -116.875047,
+    43.719848
+],
   "geometry": {"coordinates":[-116.875047,43.719848],"type":"Point"}
 }

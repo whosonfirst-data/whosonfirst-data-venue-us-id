@@ -2,13 +2,14 @@
   "id": 185902699,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.416362,43.666088,-116.416362,43.666088",
     "geom:latitude":43.666088,
     "geom:longitude":-116.416362,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6735 N Barney Ln",
     "sg:city":"Meridian",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":185902699,
-    "wof:lastmodified":1449007792,
+    "wof:lastmodified":1466488561,
     "wof:name":"K & T Distributing Inc",
     "wof:parent_id":85876351,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "distribution"
     ]
 },
-  "bbox": [-116.416362,43.666088,-116.416362,43.666088],
-  "geometry": {"coordinates":[-116.416362,43.666088],"type":"Point"}
+  "bbox": [
+    -116.416362,
+    43.666088,
+    -116.416362,
+    43.666088
+],
+  "geometry": {"coordinates":[-116.41636200000001,43.666088],"type":"Point"}
 }

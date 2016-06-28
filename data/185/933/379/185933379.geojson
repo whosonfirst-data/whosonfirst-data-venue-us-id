@@ -2,13 +2,14 @@
   "id": 185933379,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.186895,43.60907,-116.186895,43.60907",
     "geom:latitude":43.60907,
     "geom:longitude":-116.186895,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"750 Warm Springs Ave",
     "sg:city":"Boise",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":185933379,
-    "wof:lastmodified":1449006946,
+    "wof:lastmodified":1466488630,
     "wof:name":"Crayford Inc",
     "wof:parent_id":85876345,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "establishment"
     ]
 },
-  "bbox": [-116.186895,43.60907,-116.186895,43.60907],
-  "geometry": {"coordinates":[-116.186895,43.60907],"type":"Point"}
+  "bbox": [
+    -116.186895,
+    43.60907,
+    -116.186895,
+    43.60907
+],
+  "geometry": {"coordinates":[-116.18689500000001,43.60907],"type":"Point"}
 }

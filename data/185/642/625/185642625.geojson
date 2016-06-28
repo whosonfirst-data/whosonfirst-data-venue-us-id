@@ -2,13 +2,14 @@
   "id": 185642625,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.183989,43.650992,-116.183989,43.650992",
     "geom:latitude":43.650992,
     "geom:longitude":-116.183989,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"503 Balmoral Rd",
     "sg:city":"Boise",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":185642625,
-    "wof:lastmodified":1449006690,
+    "wof:lastmodified":1466487087,
     "wof:name":"Intermountain Demographics",
     "wof:parent_id":85825211,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "res"
     ]
 },
-  "bbox": [-116.183989,43.650992,-116.183989,43.650992],
+  "bbox": [
+    -116.183989,
+    43.650992,
+    -116.183989,
+    43.650992
+],
   "geometry": {"coordinates":[-116.183989,43.650992],"type":"Point"}
 }

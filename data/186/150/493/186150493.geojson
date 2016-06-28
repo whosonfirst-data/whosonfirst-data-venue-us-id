@@ -2,13 +2,14 @@
   "id": 186150493,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.705812,43.66962,-116.705812,43.66962",
     "geom:latitude":43.66962,
     "geom:longitude":-116.705812,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"506 W Simplot Blvd",
     "sg:city":"Caldwell",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":186150493,
-    "wof:lastmodified":1449050289,
+    "wof:lastmodified":1466488310,
     "wof:name":"Burke's Valley Bowl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "center"
     ]
 },
-  "bbox": [-116.705812,43.66962,-116.705812,43.66962],
-  "geometry": {"coordinates":[-116.705812,43.66962],"type":"Point"}
+  "bbox": [
+    -116.705812,
+    43.66962,
+    -116.705812,
+    43.66962
+],
+  "geometry": {"coordinates":[-116.70581199999999,43.66962],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186539393,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-117.018615,46.732763,-117.018615,46.732763",
     "geom:latitude":46.732763,
     "geom:longitude":-117.018615,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1212 W Pullman Rd",
     "sg:city":"Moscow",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186539393,
-    "wof:lastmodified":1449053075,
+    "wof:lastmodified":1466488877,
     "wof:name":"James Toyota",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "dealer"
     ]
 },
-  "bbox": [-117.018615,46.732763,-117.018615,46.732763],
+  "bbox": [
+    -117.018615,
+    46.732763,
+    -117.018615,
+    46.732763
+],
   "geometry": {"coordinates":[-117.018615,46.732763],"type":"Point"}
 }

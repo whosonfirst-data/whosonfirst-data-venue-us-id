@@ -2,13 +2,14 @@
   "id": 186167289,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.095183,44.894935,-116.095183,44.894935",
     "geom:latitude":44.894935,
     "geom:longitude":-116.095183,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"299 S 3rd St",
     "sg:city":"Mccall",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":186167289,
-    "wof:lastmodified":1449051765,
+    "wof:lastmodified":1466488416,
     "wof:name":"Employment Dept",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "outplacement"
     ]
 },
-  "bbox": [-116.095183,44.894935,-116.095183,44.894935],
-  "geometry": {"coordinates":[-116.095183,44.894935],"type":"Point"}
+  "bbox": [
+    -116.095183,
+    44.894935,
+    -116.095183,
+    44.894935
+],
+  "geometry": {"coordinates":[-116.09518300000001,44.894935],"type":"Point"}
 }

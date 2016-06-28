@@ -2,13 +2,14 @@
   "id": 186403789,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.450913,42.882445,-112.450913,42.882445",
     "geom:latitude":42.882445,
     "geom:longitude":-112.450913,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"110 E Walnut St",
     "sg:city":"Pocatello",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186403789,
-    "wof:lastmodified":1449052642,
+    "wof:lastmodified":1466488787,
     "wof:name":"Check Cash Advance",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "check"
     ]
 },
-  "bbox": [-112.450913,42.882445,-112.450913,42.882445],
+  "bbox": [
+    -112.450913,
+    42.882445,
+    -112.450913,
+    42.882445
+],
   "geometry": {"coordinates":[-112.450913,42.882445],"type":"Point"}
 }

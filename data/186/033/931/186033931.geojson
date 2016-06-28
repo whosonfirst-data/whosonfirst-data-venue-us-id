@@ -2,13 +2,14 @@
   "id": 186033931,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.230015,43.647454,-116.230015,43.647454",
     "geom:latitude":43.647454,
     "geom:longitude":-116.230015,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3209 Edgemoor Rd",
     "sg:city":"Boise",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":186033931,
-    "wof:lastmodified":1449050959,
+    "wof:lastmodified":1466487125,
     "wof:name":"Boos Hauling",
     "wof:parent_id":85876339,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "trucking"
     ]
 },
-  "bbox": [-116.230015,43.647454,-116.230015,43.647454],
-  "geometry": {"coordinates":[-116.230015,43.647454],"type":"Point"}
+  "bbox": [
+    -116.230015,
+    43.647454,
+    -116.230015,
+    43.647454
+],
+  "geometry": {"coordinates":[-116.23001499999999,43.647454],"type":"Point"}
 }

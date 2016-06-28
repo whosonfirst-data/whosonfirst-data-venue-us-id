@@ -2,13 +2,14 @@
   "id": 186401053,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.364931,43.651295,-116.364931,43.651295",
     "geom:latitude":43.651295,
     "geom:longitude":-116.364931,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4900 N Rosepoint Way",
     "sg:city":"Boise",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186401053,
-    "wof:lastmodified":1449052610,
+    "wof:lastmodified":1466488846,
     "wof:name":"Knowledgepoint Mc Millan",
     "wof:parent_id":85876351,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "tutoring"
     ]
 },
-  "bbox": [-116.364931,43.651295,-116.364931,43.651295],
+  "bbox": [
+    -116.364931,
+    43.651295,
+    -116.364931,
+    43.651295
+],
   "geometry": {"coordinates":[-116.364931,43.651295],"type":"Point"}
 }

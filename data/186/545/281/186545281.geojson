@@ -2,13 +2,14 @@
   "id": 186545281,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.593268,43.590968,-116.593268,43.590968",
     "geom:latitude":43.590968,
     "geom:longitude":-116.593268,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"819 N Midland Blvd",
     "sg:city":"Nampa",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186545281,
-    "wof:lastmodified":1449051041,
+    "wof:lastmodified":1466488932,
     "wof:name":"Church Of God Seventh Day",
     "wof:parent_id":85827787,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-116.593268,43.590968,-116.593268,43.590968],
-  "geometry": {"coordinates":[-116.593268,43.590968],"type":"Point"}
+  "bbox": [
+    -116.593268,
+    43.590968,
+    -116.593268,
+    43.590968
+],
+  "geometry": {"coordinates":[-116.59326799999999,43.590968],"type":"Point"}
 }

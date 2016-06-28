@@ -2,13 +2,14 @@
   "id": 186343917,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.424806,43.621137,-116.424806,43.621137",
     "geom:latitude":43.621137,
     "geom:longitude":-116.424806,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1801 Todd Way",
     "sg:city":"Meridian",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":186343917,
-    "wof:lastmodified":1449052263,
+    "wof:lastmodified":1466488735,
     "wof:name":"Accurate Records Research",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "record"
     ]
 },
-  "bbox": [-116.424806,43.621137,-116.424806,43.621137],
+  "bbox": [
+    -116.424806,
+    43.621137,
+    -116.424806,
+    43.621137
+],
   "geometry": {"coordinates":[-116.424806,43.621137],"type":"Point"}
 }

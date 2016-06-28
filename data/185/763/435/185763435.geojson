@@ -2,13 +2,14 @@
   "id": 185763435,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.925382,47.471521,-115.925382,47.471521",
     "geom:latitude":47.471521,
     "geom:longitude":-115.925382,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"506 Bank St",
     "sg:city":"Wallace",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":185763435,
-    "wof:lastmodified":1449008204,
+    "wof:lastmodified":1466488028,
     "wof:name":"Idaho Treasures",
     "wof:parent_id":85849049,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-115.925382,47.471521,-115.925382,47.471521],
+  "bbox": [
+    -115.925382,
+    47.471521,
+    -115.925382,
+    47.471521
+],
   "geometry": {"coordinates":[-115.925382,47.471521],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186066349,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.202384,43.621945,-116.202384,43.621945",
     "geom:latitude":43.621945,
     "geom:longitude":-116.202384,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1020 W Franklin St",
     "sg:city":"Boise",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":186066349,
-    "wof:lastmodified":1449051157,
+    "wof:lastmodified":1466487500,
     "wof:name":"Psychometric Software Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "health"
     ]
 },
-  "bbox": [-116.202384,43.621945,-116.202384,43.621945],
+  "bbox": [
+    -116.202384,
+    43.621945,
+    -116.202384,
+    43.621945
+],
   "geometry": {"coordinates":[-116.202384,43.621945],"type":"Point"}
 }

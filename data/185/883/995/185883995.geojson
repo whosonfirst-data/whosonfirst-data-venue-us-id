@@ -2,13 +2,14 @@
   "id": 185883995,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.195544,43.618426,-116.195544,43.618426",
     "geom:latitude":43.618426,
     "geom:longitude":-116.195544,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"412 W Franklin St",
     "sg:city":"Boise",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":185883995,
-    "wof:lastmodified":1449007852,
+    "wof:lastmodified":1466488629,
     "wof:name":"George R Lund Co",
     "wof:parent_id":85876341,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "establishment"
     ]
 },
-  "bbox": [-116.195544,43.618426,-116.195544,43.618426],
+  "bbox": [
+    -116.195544,
+    43.618426,
+    -116.195544,
+    43.618426
+],
   "geometry": {"coordinates":[-116.195544,43.618426],"type":"Point"}
 }

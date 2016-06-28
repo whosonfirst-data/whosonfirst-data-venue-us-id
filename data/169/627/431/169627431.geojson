@@ -2,13 +2,14 @@
   "id": 169627431,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.317118,43.710268,-116.317118,43.710268",
     "geom:latitude":43.710268,
     "geom:longitude":-116.317118,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2934 E Fern Brook Dr",
     "sg:city":"Eagle",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":169627431,
-    "wof:lastmodified":1449036042,
+    "wof:lastmodified":1466487233,
     "wof:name":"Erv Sinclair",
     "wof:parent_id":85876315,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "equine"
     ]
 },
-  "bbox": [-116.317118,43.710268,-116.317118,43.710268],
-  "geometry": {"coordinates":[-116.317118,43.710268],"type":"Point"}
+  "bbox": [
+    -116.317118,
+    43.710268,
+    -116.317118,
+    43.710268
+],
+  "geometry": {"coordinates":[-116.31711799999999,43.710268],"type":"Point"}
 }

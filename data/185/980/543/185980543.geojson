@@ -2,13 +2,14 @@
   "id": 185980543,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.39032,43.59896,-116.39032,43.59896",
     "geom:latitude":43.59896,
     "geom:longitude":-116.39032,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"320 E Corporate Dr",
     "sg:city":"Meridian",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":185980543,
-    "wof:lastmodified":1449006711,
+    "wof:lastmodified":1466488650,
     "wof:name":"Geo Tek",
     "wof:parent_id":85805083,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "engineer"
     ]
 },
-  "bbox": [-116.39032,43.59896,-116.39032,43.59896],
+  "bbox": [
+    -116.39032,
+    43.59896,
+    -116.39032,
+    43.59896
+],
   "geometry": {"coordinates":[-116.39032,43.59896],"type":"Point"}
 }

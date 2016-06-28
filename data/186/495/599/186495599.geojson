@@ -2,13 +2,14 @@
   "id": 186495599,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.329002,43.611377,-116.329002,43.611377",
     "geom:latitude":43.611377,
     "geom:longitude":-116.329002,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"11350 President Dr",
     "sg:city":"Boise",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186495599,
-    "wof:lastmodified":1449051558,
+    "wof:lastmodified":1466488911,
     "wof:name":"Confetti Productions",
     "wof:parent_id":85805083,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "music"
     ]
 },
-  "bbox": [-116.329002,43.611377,-116.329002,43.611377],
+  "bbox": [
+    -116.329002,
+    43.611377,
+    -116.329002,
+    43.611377
+],
   "geometry": {"coordinates":[-116.329002,43.611377],"type":"Point"}
 }

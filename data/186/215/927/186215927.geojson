@@ -2,13 +2,14 @@
   "id": 186215927,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.687923,43.126544,-115.687923,43.126544",
     "geom:latitude":43.126544,
     "geom:longitude":-115.687923,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"529 Air Base Rd",
     "sg:city":"Mountain Home",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":186215927,
-    "wof:lastmodified":1449052542,
+    "wof:lastmodified":1466488615,
     "wof:name":"Curl Up N Dye",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-115.687923,43.126544,-115.687923,43.126544],
+  "bbox": [
+    -115.687923,
+    43.126544,
+    -115.687923,
+    43.126544
+],
   "geometry": {"coordinates":[-115.687923,43.126544],"type":"Point"}
 }

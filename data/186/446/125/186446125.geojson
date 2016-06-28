@@ -2,13 +2,14 @@
   "id": 186446125,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.499876,43.862496,-116.499876,43.862496",
     "geom:latitude":43.862496,
     "geom:longitude":-116.499876,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1550 S Washington Ave",
     "sg:city":"Emmett",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186446125,
-    "wof:lastmodified":1449052795,
+    "wof:lastmodified":1466488817,
     "wof:name":"Lots Of Cars",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "dealer"
     ]
 },
-  "bbox": [-116.499876,43.862496,-116.499876,43.862496],
+  "bbox": [
+    -116.499876,
+    43.862496,
+    -116.499876,
+    43.862496
+],
   "geometry": {"coordinates":[-116.499876,43.862496],"type":"Point"}
 }

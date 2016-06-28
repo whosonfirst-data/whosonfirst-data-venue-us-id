@@ -2,13 +2,14 @@
   "id": 320527787,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.689027,43.664868,-116.689027,43.664868",
     "geom:latitude":43.664868,
     "geom:longitude":-116.689027,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"313 S Kimball Ave",
     "sg:city":"Caldwell",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":320527787,
-    "wof:lastmodified":1449014194,
+    "wof:lastmodified":1466487774,
     "wof:name":"Tex Garcias Mex Grill",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "mexican"
     ]
 },
-  "bbox": [-116.689027,43.664868,-116.689027,43.664868],
+  "bbox": [
+    -116.689027,
+    43.664868,
+    -116.689027,
+    43.664868
+],
   "geometry": {"coordinates":[-116.689027,43.664868],"type":"Point"}
 }

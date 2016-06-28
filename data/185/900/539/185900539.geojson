@@ -2,13 +2,14 @@
   "id": 185900539,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.421242,43.496011,-116.421242,43.496011",
     "geom:latitude":43.496011,
     "geom:longitude":-116.421242,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"670 Boise St",
     "sg:city":"Kuna",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":185900539,
-    "wof:lastmodified":1449007306,
+    "wof:lastmodified":1466488641,
     "wof:name":"Maddys Treasures",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "house"
     ]
 },
-  "bbox": [-116.421242,43.496011,-116.421242,43.496011],
-  "geometry": {"coordinates":[-116.421242,43.496011],"type":"Point"}
+  "bbox": [
+    -116.421242,
+    43.496011,
+    -116.421242,
+    43.496011
+],
+  "geometry": {"coordinates":[-116.42124200000001,43.496011],"type":"Point"}
 }

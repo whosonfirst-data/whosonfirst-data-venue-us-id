@@ -2,13 +2,14 @@
   "id": 185971453,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.466099,42.888656,-112.466099,42.888656",
     "geom:latitude":42.888656,
     "geom:longitude":-112.466099,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2908 Pole Line Rd",
     "sg:city":"Pocatello",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":185971453,
-    "wof:lastmodified":1449007448,
+    "wof:lastmodified":1466488704,
     "wof:name":"Mike's Music",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.466099,42.888656,-112.466099,42.888656],
+  "bbox": [
+    -112.466099,
+    42.888656,
+    -112.466099,
+    42.888656
+],
   "geometry": {"coordinates":[-112.466099,42.888656],"type":"Point"}
 }

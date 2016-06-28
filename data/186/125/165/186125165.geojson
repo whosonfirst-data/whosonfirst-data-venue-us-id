@@ -2,13 +2,14 @@
   "id": 186125165,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.311074,43.65548,-116.311074,43.65548",
     "geom:latitude":43.65548,
     "geom:longitude":-116.311074,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10310 W Treeline St",
     "sg:city":"Boise",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186125165,
-    "wof:lastmodified":1449052946,
+    "wof:lastmodified":1466488108,
     "wof:name":"Clark Enterprises",
     "wof:parent_id":85876357,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "communications"
     ]
 },
-  "bbox": [-116.311074,43.65548,-116.311074,43.65548],
+  "bbox": [
+    -116.311074,
+    43.65548,
+    -116.311074,
+    43.65548
+],
   "geometry": {"coordinates":[-116.311074,43.65548],"type":"Point"}
 }

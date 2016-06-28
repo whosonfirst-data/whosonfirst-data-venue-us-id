@@ -2,13 +2,14 @@
   "id": 169863799,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.378689,43.204159,-112.378689,43.204159",
     "geom:latitude":43.204159,
     "geom:longitude":-112.378689,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"410 US Hwy 26",
     "sg:city":"Blackfoot",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":169863799,
-    "wof:lastmodified":1449034971,
+    "wof:lastmodified":1466488711,
     "wof:name":"Gas & Scrub",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.378689,43.204159,-112.378689,43.204159],
-  "geometry": {"coordinates":[-112.378689,43.204159],"type":"Point"}
+  "bbox": [
+    -112.378689,
+    43.204159,
+    -112.378689,
+    43.204159
+],
+  "geometry": {"coordinates":[-112.37868899999999,43.204159],"type":"Point"}
 }

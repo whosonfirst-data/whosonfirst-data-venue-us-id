@@ -2,13 +2,14 @@
   "id": 186413365,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.121798,43.381235,-112.121798,43.381235",
     "geom:latitude":43.381235,
     "geom:longitude":-112.121798,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"154 E Center St",
     "sg:city":"Shelley",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":186413365,
-    "wof:lastmodified":1449050813,
+    "wof:lastmodified":1466488796,
     "wof:name":"Shelley Pioneer",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "newspaper"
     ]
 },
-  "bbox": [-112.121798,43.381235,-112.121798,43.381235],
+  "bbox": [
+    -112.121798,
+    43.381235,
+    -112.121798,
+    43.381235
+],
   "geometry": {"coordinates":[-112.121798,43.381235],"type":"Point"}
 }

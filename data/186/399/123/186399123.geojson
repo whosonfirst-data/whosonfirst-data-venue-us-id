@@ -2,13 +2,14 @@
   "id": 186399123,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.801859,47.758939,-116.801859,47.758939",
     "geom:latitude":47.758939,
     "geom:longitude":-116.801859,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1250 W Hayden Ave",
     "sg:city":"Hayden",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":186399123,
-    "wof:lastmodified":1449050890,
+    "wof:lastmodified":1466488782,
     "wof:name":"A & P Construction",
     "wof:parent_id":85821457,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "contractor"
     ]
 },
-  "bbox": [-116.801859,47.758939,-116.801859,47.758939],
-  "geometry": {"coordinates":[-116.801859,47.758939],"type":"Point"}
+  "bbox": [
+    -116.801859,
+    47.758939,
+    -116.801859,
+    47.758939
+],
+  "geometry": {"coordinates":[-116.80185899999999,47.758939],"type":"Point"}
 }

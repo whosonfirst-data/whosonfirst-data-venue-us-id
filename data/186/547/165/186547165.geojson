@@ -2,13 +2,14 @@
   "id": 186547165,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.042945,44.881275,-116.042945,44.881275",
     "geom:latitude":44.881275,
     "geom:longitude":-116.042945,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"14183 Jefferson Rd",
     "sg:city":"Mc Call",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":186547165,
-    "wof:lastmodified":1449050517,
+    "wof:lastmodified":1466488886,
     "wof:name":"Focal Point Drafting Service",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-116.042945,44.881275,-116.042945,44.881275],
+  "bbox": [
+    -116.042945,
+    44.881275,
+    -116.042945,
+    44.881275
+],
   "geometry": {"coordinates":[-116.042945,44.881275],"type":"Point"}
 }

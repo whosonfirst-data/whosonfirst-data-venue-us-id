@@ -2,13 +2,14 @@
   "id": 186362743,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.40456,43.597695,-116.40456,43.597695",
     "geom:latitude":43.597695,
     "geom:longitude":-116.40456,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"871 W Loon St",
     "sg:city":"Meridian",
     "sg:classifiers":[
@@ -53,14 +54,20 @@
         }
     ],
     "wof:id":186362743,
-    "wof:lastmodified":1449052109,
+    "wof:lastmodified":1466488759,
     "wof:name":"Dirt Dart Mobile Bike Service",
     "wof:parent_id":85805083,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-116.40456,43.597695,-116.40456,43.597695],
+  "bbox": [
+    -116.40456,
+    43.597695,
+    -116.40456,
+    43.597695
+],
   "geometry": {"coordinates":[-116.40456,43.597695],"type":"Point"}
 }

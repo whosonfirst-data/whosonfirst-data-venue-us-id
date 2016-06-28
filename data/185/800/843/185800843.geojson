@@ -2,13 +2,14 @@
   "id": 185800843,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.613174,43.688503,-116.613174,43.688503",
     "geom:latitude":43.688503,
     "geom:longitude":-116.613174,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"21991 Middleton Rd",
     "sg:city":"Caldwell",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":185800843,
-    "wof:lastmodified":1449006732,
+    "wof:lastmodified":1466488376,
     "wof:name":"Zamco Technologies",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "powder"
     ]
 },
-  "bbox": [-116.613174,43.688503,-116.613174,43.688503],
+  "bbox": [
+    -116.613174,
+    43.688503,
+    -116.613174,
+    43.688503
+],
   "geometry": {"coordinates":[-116.613174,43.688503],"type":"Point"}
 }

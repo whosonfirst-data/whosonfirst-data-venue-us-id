@@ -2,13 +2,14 @@
   "id": 186340647,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.729453,43.160119,-115.729453,43.160119",
     "geom:latitude":43.160119,
     "geom:longitude":-115.729453,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2610 Sunset Strip",
     "sg:city":"Mountain Home",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":186340647,
-    "wof:lastmodified":1449052394,
+    "wof:lastmodified":1466488826,
     "wof:name":"Summer Rain Sprinkler & Lndscp",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "sprinkler"
     ]
 },
-  "bbox": [-115.729453,43.160119,-115.729453,43.160119],
-  "geometry": {"coordinates":[-115.729453,43.160119],"type":"Point"}
+  "bbox": [
+    -115.729453,
+    43.160119,
+    -115.729453,
+    43.160119
+],
+  "geometry": {"coordinates":[-115.72945300000001,43.160119],"type":"Point"}
 }

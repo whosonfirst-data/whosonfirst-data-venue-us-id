@@ -2,13 +2,14 @@
   "id": 169703821,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.677538,44.572781,-116.677538,44.572781",
     "geom:latitude":44.572781,
     "geom:longitude":-116.677538,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"45 N 1st St",
     "sg:city":"Cambridge",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":169703821,
-    "wof:lastmodified":1449033689,
+    "wof:lastmodified":1466488071,
     "wof:name":"Backeddy Books",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "publisher"
     ]
 },
-  "bbox": [-116.677538,44.572781,-116.677538,44.572781],
+  "bbox": [
+    -116.677538,
+    44.572781,
+    -116.677538,
+    44.572781
+],
   "geometry": {"coordinates":[-116.677538,44.572781],"type":"Point"}
 }

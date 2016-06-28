@@ -2,13 +2,14 @@
   "id": 186125963,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.242048,47.512083,-116.242048,47.512083",
     "geom:latitude":47.512083,
     "geom:longitude":-116.242048,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2450 Pine Creek Rd",
     "sg:city":"Pinehurst",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":186125963,
-    "wof:lastmodified":1449052941,
+    "wof:lastmodified":1466488113,
     "wof:name":"Concrete Unlimited Constr Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "contractor"
     ]
 },
-  "bbox": [-116.242048,47.512083,-116.242048,47.512083],
+  "bbox": [
+    -116.242048,
+    47.512083,
+    -116.242048,
+    47.512083
+],
   "geometry": {"coordinates":[-116.242048,47.512083],"type":"Point"}
 }

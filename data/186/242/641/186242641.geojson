@@ -2,13 +2,14 @@
   "id": 186242641,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.622284,43.872352,-116.622284,43.872352",
     "geom:latitude":43.872352,
     "geom:longitude":-116.622284,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6996 State Hwy 52",
     "sg:city":"Emmett",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":186242641,
-    "wof:lastmodified":1449052701,
+    "wof:lastmodified":1466488579,
     "wof:name":"Modern Pre Cast",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "contractor"
     ]
 },
-  "bbox": [-116.622284,43.872352,-116.622284,43.872352],
-  "geometry": {"coordinates":[-116.622284,43.872352],"type":"Point"}
+  "bbox": [
+    -116.622284,
+    43.872352,
+    -116.622284,
+    43.872352
+],
+  "geometry": {"coordinates":[-116.62228399999999,43.872352],"type":"Point"}
 }

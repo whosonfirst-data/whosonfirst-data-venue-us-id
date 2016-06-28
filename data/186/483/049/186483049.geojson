@@ -2,13 +2,14 @@
   "id": 186483049,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.547696,48.274671,-116.547696,48.274671",
     "geom:latitude":48.274671,
     "geom:longitude":-116.547696,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"212 N 1st Ave",
     "sg:city":"Sandpoint",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186483049,
-    "wof:lastmodified":1449052436,
+    "wof:lastmodified":1466488904,
     "wof:name":"NIDAHO.NET",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "internet"
     ]
 },
-  "bbox": [-116.547696,48.274671,-116.547696,48.274671],
+  "bbox": [
+    -116.547696,
+    48.274671,
+    -116.547696,
+    48.274671
+],
   "geometry": {"coordinates":[-116.547696,48.274671],"type":"Point"}
 }

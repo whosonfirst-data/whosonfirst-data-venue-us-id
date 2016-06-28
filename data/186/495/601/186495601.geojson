@@ -2,13 +2,14 @@
   "id": 186495601,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.207651,43.625573,-116.207651,43.625573",
     "geom:latitude":43.625573,
     "geom:longitude":-116.207651,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1519 W Hays St",
     "sg:city":"Boise",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186495601,
-    "wof:lastmodified":1449051559,
+    "wof:lastmodified":1466488911,
     "wof:name":"Bryce T Bradley & Assoc",
     "wof:parent_id":85876313,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "accountant"
     ]
 },
-  "bbox": [-116.207651,43.625573,-116.207651,43.625573],
+  "bbox": [
+    -116.207651,
+    43.625573,
+    -116.207651,
+    43.625573
+],
   "geometry": {"coordinates":[-116.207651,43.625573],"type":"Point"}
 }

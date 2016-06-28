@@ -2,13 +2,14 @@
   "id": 185803393,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.398585,43.619284,-116.398585,43.619284",
     "geom:latitude":43.619284,
     "geom:longitude":-116.398585,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"424 W Cherry Ln",
     "sg:city":"Meridian",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":185803393,
-    "wof:lastmodified":1449008227,
+    "wof:lastmodified":1466488320,
     "wof:name":"Grapevine 7 Inc",
     "wof:parent_id":85876351,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "mfg"
     ]
 },
-  "bbox": [-116.398585,43.619284,-116.398585,43.619284],
+  "bbox": [
+    -116.398585,
+    43.619284,
+    -116.398585,
+    43.619284
+],
   "geometry": {"coordinates":[-116.398585,43.619284],"type":"Point"}
 }

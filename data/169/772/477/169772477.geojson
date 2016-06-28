@@ -2,13 +2,14 @@
   "id": 169772477,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.405192,43.488468,-116.405192,43.488468",
     "geom:latitude":43.488468,
     "geom:longitude":-116.405192,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"726 E Avalon St",
     "sg:city":"Kuna",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":169772477,
-    "wof:lastmodified":1449034150,
+    "wof:lastmodified":1466488524,
     "wof:name":"Hong Kong Express",
     "wof:parent_id":85876331,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-116.405192,43.488468,-116.405192,43.488468],
+  "bbox": [
+    -116.405192,
+    43.488468,
+    -116.405192,
+    43.488468
+],
   "geometry": {"coordinates":[-116.405192,43.488468],"type":"Point"}
 }

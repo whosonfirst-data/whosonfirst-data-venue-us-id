@@ -2,13 +2,14 @@
   "id": 169660139,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.212371,43.588768,-116.212371,43.588768",
     "geom:latitude":43.588768,
     "geom:longitude":-116.212371,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1612 Robert St",
     "sg:city":"Boise",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":169660139,
-    "wof:lastmodified":1449035610,
+    "wof:lastmodified":1466487740,
     "wof:name":"Words of Wisdom",
     "wof:parent_id":85876343,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "typesetting"
     ]
 },
-  "bbox": [-116.212371,43.588768,-116.212371,43.588768],
+  "bbox": [
+    -116.212371,
+    43.588768,
+    -116.212371,
+    43.588768
+],
   "geometry": {"coordinates":[-116.212371,43.588768],"type":"Point"}
 }

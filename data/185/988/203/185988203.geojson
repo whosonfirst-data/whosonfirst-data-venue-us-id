@@ -2,13 +2,14 @@
   "id": 185988203,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.265587,46.489904,-116.265587,46.489904",
     "geom:latitude":46.489904,
     "geom:longitude":-116.265587,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1265 Ahsahka Rd",
     "sg:city":"Orofino",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":185988203,
-    "wof:lastmodified":1449007146,
+    "wof:lastmodified":1466488736,
     "wof:name":"Gentle Family Dentistry",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "dentist"
     ]
 },
-  "bbox": [-116.265587,46.489904,-116.265587,46.489904],
+  "bbox": [
+    -116.265587,
+    46.489904,
+    -116.265587,
+    46.489904
+],
   "geometry": {"coordinates":[-116.265587,46.489904],"type":"Point"}
 }

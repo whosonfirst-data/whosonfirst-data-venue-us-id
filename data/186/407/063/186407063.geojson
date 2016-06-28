@@ -2,13 +2,14 @@
   "id": 186407063,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.448637,44.071406,-111.448637,44.071406",
     "geom:latitude":44.071406,
     "geom:longitude":-111.448637,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"516 Main St",
     "sg:city":"Ashton",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186407063,
-    "wof:lastmodified":1449051865,
+    "wof:lastmodified":1466488787,
     "wof:name":"Ashton AG Supply",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "system"
     ]
 },
-  "bbox": [-111.448637,44.071406,-111.448637,44.071406],
-  "geometry": {"coordinates":[-111.448637,44.071406],"type":"Point"}
+  "bbox": [
+    -111.448637,
+    44.071406,
+    -111.448637,
+    44.071406
+],
+  "geometry": {"coordinates":[-111.44863700000001,44.071406],"type":"Point"}
 }

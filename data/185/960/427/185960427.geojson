@@ -2,13 +2,14 @@
   "id": 185960427,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.303381,43.687149,-116.303381,43.687149",
     "geom:latitude":43.687149,
     "geom:longitude":-116.303381,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9432 W Donnabell St",
     "sg:city":"Boise",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":185960427,
-    "wof:lastmodified":1449007747,
+    "wof:lastmodified":1466488693,
     "wof:name":"Keri L Hamilton",
     "wof:parent_id":85876315,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "attorney"
     ]
 },
-  "bbox": [-116.303381,43.687149,-116.303381,43.687149],
+  "bbox": [
+    -116.303381,
+    43.687149,
+    -116.303381,
+    43.687149
+],
   "geometry": {"coordinates":[-116.303381,43.687149],"type":"Point"}
 }

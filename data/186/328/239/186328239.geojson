@@ -2,13 +2,14 @@
   "id": 186328239,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.796454,43.817757,-111.796454,43.817757",
     "geom:latitude":43.817757,
     "geom:longitude":-111.796454,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"450 W 4th S",
     "sg:city":"Rexburg",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":186328239,
-    "wof:lastmodified":1449051945,
+    "wof:lastmodified":1466488717,
     "wof:name":"Cottontree Inn",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.796454,43.817757,-111.796454,43.817757],
+  "bbox": [
+    -111.796454,
+    43.817757,
+    -111.796454,
+    43.817757
+],
   "geometry": {"coordinates":[-111.796454,43.817757],"type":"Point"}
 }

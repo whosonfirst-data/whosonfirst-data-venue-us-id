@@ -2,13 +2,14 @@
   "id": 169665199,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.707534,43.126677,-115.707534,43.126677",
     "geom:latitude":43.126677,
     "geom:longitude":-115.707534,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1075 W 6th S",
     "sg:city":"Mountain Home",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":169665199,
-    "wof:lastmodified":1449033695,
+    "wof:lastmodified":1466487817,
     "wof:name":"B's Kid Kare",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-115.707534,43.126677,-115.707534,43.126677],
+  "bbox": [
+    -115.707534,
+    43.126677,
+    -115.707534,
+    43.126677
+],
   "geometry": {"coordinates":[-115.707534,43.126677],"type":"Point"}
 }

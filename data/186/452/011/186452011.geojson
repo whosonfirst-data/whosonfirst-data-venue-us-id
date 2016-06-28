@@ -2,13 +2,14 @@
   "id": 186452011,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.791831,47.690765,-116.791831,47.690765",
     "geom:latitude":47.690765,
     "geom:longitude":-116.791831,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1607 Lincoln Way",
     "sg:city":"Coeur D Alene",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":186452011,
-    "wof:lastmodified":1449051032,
+    "wof:lastmodified":1466488821,
     "wof:name":"North Idaho Gastroenterology",
     "wof:parent_id":85821457,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "surgeon"
     ]
 },
-  "bbox": [-116.791831,47.690765,-116.791831,47.690765],
+  "bbox": [
+    -116.791831,
+    47.690765,
+    -116.791831,
+    47.690765
+],
   "geometry": {"coordinates":[-116.791831,47.690765],"type":"Point"}
 }

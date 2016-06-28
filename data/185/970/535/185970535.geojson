@@ -2,13 +2,14 @@
   "id": 185970535,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-117.010228,46.426516,-117.010228,46.426516",
     "geom:latitude":46.426516,
     "geom:longitude":-117.010228,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1626 6th Ave N",
     "sg:city":"Lewiston",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":185970535,
-    "wof:lastmodified":1449008160,
+    "wof:lastmodified":1466488792,
     "wof:name":"Port Of Lewiston",
     "wof:parent_id":85837769,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "program"
     ]
 },
-  "bbox": [-117.010228,46.426516,-117.010228,46.426516],
+  "bbox": [
+    -117.010228,
+    46.426516,
+    -117.010228,
+    46.426516
+],
   "geometry": {"coordinates":[-117.010228,46.426516],"type":"Point"}
 }

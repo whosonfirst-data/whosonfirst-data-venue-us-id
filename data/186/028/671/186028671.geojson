@@ -2,13 +2,14 @@
   "id": 186028671,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.678795,44.569118,-116.678795,44.569118",
     "geom:latitude":44.569118,
     "geom:longitude":-116.678795,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"240 S Commercial St",
     "sg:city":"Cambridge",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":186028671,
-    "wof:lastmodified":1449051831,
+    "wof:lastmodified":1466487063,
     "wof:name":"Cambridge Welding & Bending",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "welding"
     ]
 },
-  "bbox": [-116.678795,44.569118,-116.678795,44.569118],
-  "geometry": {"coordinates":[-116.678795,44.569118],"type":"Point"}
+  "bbox": [
+    -116.678795,
+    44.569118,
+    -116.678795,
+    44.569118
+],
+  "geometry": {"coordinates":[-116.67879499999999,44.569118],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169602051,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.94366,43.669239,-111.94366,43.669239",
     "geom:latitude":43.669239,
     "geom:longitude":-111.94366,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"290 N 3800 E",
     "sg:city":"Rigby",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":169602051,
-    "wof:lastmodified":1449034228,
+    "wof:lastmodified":1466486832,
     "wof:name":"Rigby Senior High School",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.94366,43.669239,-111.94366,43.669239],
-  "geometry": {"coordinates":[-111.94366,43.669239],"type":"Point"}
+  "bbox": [
+    -111.94366,
+    43.669239,
+    -111.94366,
+    43.669239
+],
+  "geometry": {"coordinates":[-111.94365999999999,43.669239],"type":"Point"}
 }

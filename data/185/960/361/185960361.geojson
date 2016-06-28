@@ -2,13 +2,14 @@
   "id": 185960361,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.194528,42.654565,-112.194528,42.654565",
     "geom:latitude":42.654565,
     "geom:longitude":-112.194528,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"205 Center St",
     "sg:city":"Mccammon",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":185960361,
-    "wof:lastmodified":1449007750,
+    "wof:lastmodified":1466488692,
     "wof:name":"Gramp's Auto Repair",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "automobile"
     ]
 },
-  "bbox": [-112.194528,42.654565,-112.194528,42.654565],
-  "geometry": {"coordinates":[-112.194528,42.654565],"type":"Point"}
+  "bbox": [
+    -112.194528,
+    42.654565,
+    -112.194528,
+    42.654565
+],
+  "geometry": {"coordinates":[-112.19452800000001,42.654565],"type":"Point"}
 }

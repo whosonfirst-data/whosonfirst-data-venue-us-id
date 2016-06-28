@@ -2,13 +2,14 @@
   "id": 186266091,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.193745,43.591458,-116.193745,43.591458",
     "geom:latitude":43.591458,
     "geom:longitude":-116.193745,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1753 Broadway Ave",
     "sg:city":"Boise",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":186266091,
-    "wof:lastmodified":1449050349,
+    "wof:lastmodified":1466488622,
     "wof:name":"Devotion Tattoo",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "tattooing"
     ]
 },
-  "bbox": [-116.193745,43.591458,-116.193745,43.591458],
-  "geometry": {"coordinates":[-116.193745,43.591458],"type":"Point"}
+  "bbox": [
+    -116.193745,
+    43.591458,
+    -116.193745,
+    43.591458
+],
+  "geometry": {"coordinates":[-116.19374500000001,43.591458],"type":"Point"}
 }

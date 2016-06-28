@@ -2,13 +2,14 @@
   "id": 186415269,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.398388,43.61688,-116.398388,43.61688",
     "geom:latitude":43.61688,
     "geom:longitude":-116.398388,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1580 W 4th St",
     "sg:city":"Meridian",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":186415269,
-    "wof:lastmodified":1449052290,
+    "wof:lastmodified":1466488797,
     "wof:name":"Fashion Floors & Interiors Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "material"
     ]
 },
-  "bbox": [-116.398388,43.61688,-116.398388,43.61688],
+  "bbox": [
+    -116.398388,
+    43.61688,
+    -116.398388,
+    43.61688
+],
   "geometry": {"coordinates":[-116.398388,43.61688],"type":"Point"}
 }

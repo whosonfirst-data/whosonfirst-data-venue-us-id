@@ -2,13 +2,14 @@
   "id": 185993743,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.420514,43.595132,-116.420514,43.595132",
     "geom:latitude":43.595132,
     "geom:longitude":-116.420514,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2150 Verbena Dr",
     "sg:city":"Meridian",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":185993743,
-    "wof:lastmodified":1449007328,
+    "wof:lastmodified":1466488746,
     "wof:name":"J D's In-Home Svc",
     "wof:parent_id":85805083,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "sewing"
     ]
 },
-  "bbox": [-116.420514,43.595132,-116.420514,43.595132],
+  "bbox": [
+    -116.420514,
+    43.595132,
+    -116.420514,
+    43.595132
+],
   "geometry": {"coordinates":[-116.420514,43.595132],"type":"Point"}
 }

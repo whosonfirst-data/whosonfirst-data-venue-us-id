@@ -2,13 +2,14 @@
   "id": 186548819,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.912717,43.672148,-111.912717,43.672148",
     "geom:latitude":43.672148,
     "geom:longitude":-111.912717,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"170 E Main St",
     "sg:city":"Rigby",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":186548819,
-    "wof:lastmodified":1449052221,
+    "wof:lastmodified":1466488886,
     "wof:name":"Office",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.912717,43.672148,-111.912717,43.672148],
+  "bbox": [
+    -111.912717,
+    43.672148,
+    -111.912717,
+    43.672148
+],
   "geometry": {"coordinates":[-111.912717,43.672148],"type":"Point"}
 }

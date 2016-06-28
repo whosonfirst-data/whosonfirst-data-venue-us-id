@@ -2,13 +2,14 @@
   "id": 185849263,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.266322,43.607835,-116.266322,43.607835",
     "geom:latitude":43.607835,
     "geom:longitude":-116.266322,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"405 Allumbaugh St",
     "sg:city":"Boise",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":185849263,
-    "wof:lastmodified":1449006917,
+    "wof:lastmodified":1466488533,
     "wof:name":"Access Behavioral Health Svc",
     "wof:parent_id":85841319,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "mental"
     ]
 },
-  "bbox": [-116.266322,43.607835,-116.266322,43.607835],
+  "bbox": [
+    -116.266322,
+    43.607835,
+    -116.266322,
+    43.607835
+],
   "geometry": {"coordinates":[-116.266322,43.607835],"type":"Point"}
 }

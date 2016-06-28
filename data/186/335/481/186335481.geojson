@@ -2,13 +2,14 @@
   "id": 186335481,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.69807,43.646074,-116.69807,43.646074",
     "geom:latitude":43.646074,
     "geom:longitude":-116.69807,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2700 S Kimball Ave",
     "sg:city":"Caldwell",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":186335481,
-    "wof:lastmodified":1449052138,
+    "wof:lastmodified":1466488725,
     "wof:name":"Christian Pre School",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "day"
     ]
 },
-  "bbox": [-116.69807,43.646074,-116.69807,43.646074],
+  "bbox": [
+    -116.69807,
+    43.646074,
+    -116.69807,
+    43.646074
+],
   "geometry": {"coordinates":[-116.69807,43.646074],"type":"Point"}
 }

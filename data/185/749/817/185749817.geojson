@@ -2,13 +2,14 @@
   "id": 185749817,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.685251,43.967728,-111.685251,43.967728",
     "geom:latitude":43.967728,
     "geom:longitude":-111.685251,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"109 N 2nd W",
     "sg:city":"St Anthony",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":185749817,
-    "wof:lastmodified":1449007076,
+    "wof:lastmodified":1466487922,
     "wof:name":"Hossner Brothers Auctioneers",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "auctioneer"
     ]
 },
-  "bbox": [-111.685251,43.967728,-111.685251,43.967728],
-  "geometry": {"coordinates":[-111.685251,43.967728],"type":"Point"}
+  "bbox": [
+    -111.685251,
+    43.967728,
+    -111.685251,
+    43.967728
+],
+  "geometry": {"coordinates":[-111.68525099999999,43.967728],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169745401,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.240186,43.62319,-116.240186,43.62319",
     "geom:latitude":43.62319,
     "geom:longitude":-116.240186,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3409 Chinden Blvd",
     "sg:city":"Boise",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":169745401,
-    "wof:lastmodified":1449035813,
+    "wof:lastmodified":1466488397,
     "wof:name":"Garden City Tattoo",
     "wof:parent_id":85876301,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "tattooing"
     ]
 },
-  "bbox": [-116.240186,43.62319,-116.240186,43.62319],
-  "geometry": {"coordinates":[-116.240186,43.62319],"type":"Point"}
+  "bbox": [
+    -116.240186,
+    43.62319,
+    -116.240186,
+    43.62319
+],
+  "geometry": {"coordinates":[-116.24018599999999,43.62319],"type":"Point"}
 }

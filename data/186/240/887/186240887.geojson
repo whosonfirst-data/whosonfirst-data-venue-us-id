@@ -2,13 +2,14 @@
   "id": 186240887,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.268724,43.590042,-116.268724,43.590042",
     "geom:latitude":43.590042,
     "geom:longitude":-116.268724,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7079 Overland Rd",
     "sg:city":"Boise",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186240887,
-    "wof:lastmodified":1449050526,
+    "wof:lastmodified":1466488574,
     "wof:name":"Idaho Cell World",
     "wof:parent_id":85876293,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "cellular"
     ]
 },
-  "bbox": [-116.268724,43.590042,-116.268724,43.590042],
-  "geometry": {"coordinates":[-116.268724,43.590042],"type":"Point"}
+  "bbox": [
+    -116.268724,
+    43.590042,
+    -116.268724,
+    43.590042
+],
+  "geometry": {"coordinates":[-116.26872400000001,43.590042],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169861375,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.537696,42.563984,-114.537696,42.563984",
     "geom:latitude":42.563984,
     "geom:longitude":-114.537696,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"21390 US Hwy 30",
     "sg:city":"Twin Falls",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":169861375,
-    "wof:lastmodified":1449035941,
+    "wof:lastmodified":1466488634,
     "wof:name":"Highway 30 Garage",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "automobile"
     ]
 },
-  "bbox": [-114.537696,42.563984,-114.537696,42.563984],
+  "bbox": [
+    -114.537696,
+    42.563984,
+    -114.537696,
+    42.563984
+],
   "geometry": {"coordinates":[-114.537696,42.563984],"type":"Point"}
 }

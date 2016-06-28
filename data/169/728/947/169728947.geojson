@@ -2,13 +2,14 @@
   "id": 169728947,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.122222,43.565396,-116.122222,43.565396",
     "geom:latitude":43.565396,
     "geom:longitude":-116.122222,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4968 E Arrow Junction Dr",
     "sg:city":"Boise",
     "sg:classifiers":[
@@ -58,10 +59,11 @@
         }
     ],
     "wof:id":169728947,
-    "wof:lastmodified":1449033460,
+    "wof:lastmodified":1466488272,
     "wof:name":"Graphically Speaking Inc",
     "wof:parent_id":85804435,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -70,6 +72,11 @@
         "typesetting"
     ]
 },
-  "bbox": [-116.122222,43.565396,-116.122222,43.565396],
-  "geometry": {"coordinates":[-116.122222,43.565396],"type":"Point"}
+  "bbox": [
+    -116.122222,
+    43.565396,
+    -116.122222,
+    43.565396
+],
+  "geometry": {"coordinates":[-116.12222199999999,43.565396],"type":"Point"}
 }

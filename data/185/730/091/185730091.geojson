@@ -2,13 +2,14 @@
   "id": 185730091,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.240189,43.623298,-116.240189,43.623298",
     "geom:latitude":43.623298,
     "geom:longitude":-116.240189,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3525 Chinden Blvd",
     "sg:city":"Boise",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":185730091,
-    "wof:lastmodified":1449007975,
+    "wof:lastmodified":1466487760,
     "wof:name":"West River Inn",
     "wof:parent_id":85876301,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-116.240189,43.623298,-116.240189,43.623298],
+  "bbox": [
+    -116.240189,
+    43.623298,
+    -116.240189,
+    43.623298
+],
   "geometry": {"coordinates":[-116.240189,43.623298],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186314459,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.547851,48.275773,-116.547851,48.275773",
     "geom:latitude":48.275773,
     "geom:longitude":-116.547851,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"327 N 1st Ave",
     "sg:city":"Sandpoint",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":186314459,
-    "wof:lastmodified":1449052923,
+    "wof:lastmodified":1466488689,
     "wof:name":"Larson's For Men & Women",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "formal"
     ]
 },
-  "bbox": [-116.547851,48.275773,-116.547851,48.275773],
-  "geometry": {"coordinates":[-116.547851,48.275773],"type":"Point"}
+  "bbox": [
+    -116.547851,
+    48.275773,
+    -116.547851,
+    48.275773
+],
+  "geometry": {"coordinates":[-116.54785099999999,48.275773],"type":"Point"}
 }

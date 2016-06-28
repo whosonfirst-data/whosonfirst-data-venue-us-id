@@ -2,13 +2,14 @@
   "id": 186308095,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.195081,43.623868,-116.195081,43.623868",
     "geom:latitude":43.623868,
     "geom:longitude":-116.195081,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"515 Thatcher St",
     "sg:city":"Boise",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":186308095,
-    "wof:lastmodified":1449053088,
+    "wof:lastmodified":1466488683,
     "wof:name":"Mud Pie Arts",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-116.195081,43.623868,-116.195081,43.623868],
+  "bbox": [
+    -116.195081,
+    43.623868,
+    -116.195081,
+    43.623868
+],
   "geometry": {"coordinates":[-116.195081,43.623868],"type":"Point"}
 }

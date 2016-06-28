@@ -2,13 +2,14 @@
   "id": 186003179,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.381515,42.584607,-114.381515,42.584607",
     "geom:latitude":42.584607,
     "geom:longitude":-114.381515,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3404 Ridge Line Dr",
     "sg:city":"Kimberly",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":186003179,
-    "wof:lastmodified":1449052819,
+    "wof:lastmodified":1466487872,
     "wof:name":"Ray Goffin Construction",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-114.381515,42.584607,-114.381515,42.584607],
-  "geometry": {"coordinates":[-114.381515,42.584607],"type":"Point"}
+  "bbox": [
+    -114.381515,
+    42.584607,
+    -114.381515,
+    42.584607
+],
+  "geometry": {"coordinates":[-114.38151499999999,42.584607],"type":"Point"}
 }

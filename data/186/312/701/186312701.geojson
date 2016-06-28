@@ -2,13 +2,14 @@
   "id": 186312701,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.565627,43.604995,-116.565627,43.604995",
     "geom:latitude":43.604995,
     "geom:longitude":-116.565627,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"705 E Karcher Rd",
     "sg:city":"Nampa",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186312701,
-    "wof:lastmodified":1449051727,
+    "wof:lastmodified":1466488691,
     "wof:name":"Ameri- Tech Inc",
     "wof:parent_id":85827787,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "electrical"
     ]
 },
-  "bbox": [-116.565627,43.604995,-116.565627,43.604995],
-  "geometry": {"coordinates":[-116.565627,43.604995],"type":"Point"}
+  "bbox": [
+    -116.565627,
+    43.604995,
+    -116.565627,
+    43.604995
+],
+  "geometry": {"coordinates":[-116.56562700000001,43.604995],"type":"Point"}
 }

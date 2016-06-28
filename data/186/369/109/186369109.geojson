@@ -2,13 +2,14 @@
   "id": 186369109,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.486606,42.924314,-112.486606,42.924314",
     "geom:latitude":42.924314,
     "geom:longitude":-112.486606,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5084 Redfish Ave",
     "sg:city":"Pocatello",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":186369109,
-    "wof:lastmodified":1449052902,
+    "wof:lastmodified":1466488759,
     "wof:name":"CPW Fine Wooden Gifts",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.486606,42.924314,-112.486606,42.924314],
-  "geometry": {"coordinates":[-112.486606,42.924314],"type":"Point"}
+  "bbox": [
+    -112.486606,
+    42.924314,
+    -112.486606,
+    42.924314
+],
+  "geometry": {"coordinates":[-112.48660599999999,42.924314],"type":"Point"}
 }

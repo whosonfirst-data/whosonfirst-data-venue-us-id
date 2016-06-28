@@ -2,13 +2,14 @@
   "id": 169634903,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.369588,43.628861,-116.369588,43.628861",
     "geom:latitude":43.628861,
     "geom:longitude":-116.369588,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2055 E Challis Dr",
     "sg:city":"Meridian",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":169634903,
-    "wof:lastmodified":1449034255,
+    "wof:lastmodified":1466487355,
     "wof:name":"Douglas Property Mgmt",
     "wof:parent_id":85876351,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "management"
     ]
 },
-  "bbox": [-116.369588,43.628861,-116.369588,43.628861],
-  "geometry": {"coordinates":[-116.369588,43.628861],"type":"Point"}
+  "bbox": [
+    -116.369588,
+    43.628861,
+    -116.369588,
+    43.628861
+],
+  "geometry": {"coordinates":[-116.36958799999999,43.628861],"type":"Point"}
 }

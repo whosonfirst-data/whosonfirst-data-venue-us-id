@@ -2,13 +2,14 @@
   "id": 185835963,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.161403,43.581703,-116.161403,43.581703",
     "geom:latitude":43.581703,
     "geom:longitude":-116.161403,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1699 E Silverspot Ln",
     "sg:city":"Boise",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":185835963,
-    "wof:lastmodified":1449006838,
+    "wof:lastmodified":1466488424,
     "wof:name":"Jordan & Co Chartered Cpas",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "accountant"
     ]
 },
-  "bbox": [-116.161403,43.581703,-116.161403,43.581703],
-  "geometry": {"coordinates":[-116.161403,43.581703],"type":"Point"}
+  "bbox": [
+    -116.161403,
+    43.581703,
+    -116.161403,
+    43.581703
+],
+  "geometry": {"coordinates":[-116.16140300000001,43.581703],"type":"Point"}
 }

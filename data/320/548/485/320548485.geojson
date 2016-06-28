@@ -2,13 +2,14 @@
   "id": 320548485,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.997101,46.730869,-116.997101,46.730869",
     "geom:latitude":46.730869,
     "geom:longitude":-116.997101,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"522 S Adams St Ste 1",
     "sg:city":"Moscow",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":320548485,
-    "wof:lastmodified":1449013855,
+    "wof:lastmodified":1466487023,
     "wof:name":"County Treasurer",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "village"
     ]
 },
-  "bbox": [-116.997101,46.730869,-116.997101,46.730869],
+  "bbox": [
+    -116.997101,
+    46.730869,
+    -116.997101,
+    46.730869
+],
   "geometry": {"coordinates":[-116.997101,46.730869],"type":"Point"}
 }

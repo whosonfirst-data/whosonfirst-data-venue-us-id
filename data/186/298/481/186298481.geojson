@@ -2,13 +2,14 @@
   "id": 186298481,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.313452,43.638885,-116.313452,43.638885",
     "geom:latitude":43.638885,
     "geom:longitude":-116.313452,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10546 Summerwind Dr",
     "sg:city":"Boise",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186298481,
-    "wof:lastmodified":1449051111,
+    "wof:lastmodified":1466488670,
     "wof:name":"Critser Land Surveys",
     "wof:parent_id":85876357,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "surveyor"
     ]
 },
-  "bbox": [-116.313452,43.638885,-116.313452,43.638885],
+  "bbox": [
+    -116.313452,
+    43.638885,
+    -116.313452,
+    43.638885
+],
   "geometry": {"coordinates":[-116.313452,43.638885],"type":"Point"}
 }

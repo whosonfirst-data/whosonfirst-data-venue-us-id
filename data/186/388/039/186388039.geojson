@@ -2,13 +2,14 @@
   "id": 186388039,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.360832,43.6819,-114.360832,43.6819",
     "geom:latitude":43.6819,
     "geom:longitude":-114.360832,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"520 2nd St E",
     "sg:city":"Ketchum",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":186388039,
-    "wof:lastmodified":1449050376,
+    "wof:lastmodified":1466488771,
     "wof:name":"Cristina's",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-114.360832,43.6819,-114.360832,43.6819],
+  "bbox": [
+    -114.360832,
+    43.6819,
+    -114.360832,
+    43.6819
+],
   "geometry": {"coordinates":[-114.360832,43.6819],"type":"Point"}
 }

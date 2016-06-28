@@ -2,13 +2,14 @@
   "id": 169800743,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.129718,43.54772,-116.129718,43.54772",
     "geom:latitude":43.54772,
     "geom:longitude":-116.129718,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6020 S Tallowtree Way",
     "sg:city":"Boise",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":169800743,
-    "wof:lastmodified":1449032940,
+    "wof:lastmodified":1466488427,
     "wof:name":"Advanced Storage Products",
     "wof:parent_id":85876329,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "rack"
     ]
 },
-  "bbox": [-116.129718,43.54772,-116.129718,43.54772],
+  "bbox": [
+    -116.129718,
+    43.54772,
+    -116.129718,
+    43.54772
+],
   "geometry": {"coordinates":[-116.129718,43.54772],"type":"Point"}
 }

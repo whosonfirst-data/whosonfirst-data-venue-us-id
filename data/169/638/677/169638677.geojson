@@ -2,13 +2,14 @@
   "id": 169638677,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.359916,43.180829,-112.359916,43.180829",
     "geom:latitude":43.180829,
     "geom:longitude":-112.359916,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"695 Opal St",
     "sg:city":"Blackfoot",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":169638677,
-    "wof:lastmodified":1449032867,
+    "wof:lastmodified":1466487415,
     "wof:name":"Grannys Place",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "day"
     ]
 },
-  "bbox": [-112.359916,43.180829,-112.359916,43.180829],
+  "bbox": [
+    -112.359916,
+    43.180829,
+    -112.359916,
+    43.180829
+],
   "geometry": {"coordinates":[-112.359916,43.180829],"type":"Point"}
 }

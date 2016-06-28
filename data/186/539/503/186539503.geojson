@@ -2,13 +2,14 @@
   "id": 186539503,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.98758,46.388443,-116.98758,46.388443",
     "geom:latitude":46.388443,
     "geom:longitude":-116.98758,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"145 Thain Rd",
     "sg:city":"Lewiston",
     "sg:classifiers":[
@@ -61,16 +62,22 @@
         }
     ],
     "wof:id":186539503,
-    "wof:lastmodified":1449053077,
+    "wof:lastmodified":1466488878,
     "wof:name":"Andy Su'z",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "shop"
     ]
 },
-  "bbox": [-116.98758,46.388443,-116.98758,46.388443],
-  "geometry": {"coordinates":[-116.98758,46.388443],"type":"Point"}
+  "bbox": [
+    -116.98758,
+    46.388443,
+    -116.98758,
+    46.388443
+],
+  "geometry": {"coordinates":[-116.98757999999999,46.388443],"type":"Point"}
 }

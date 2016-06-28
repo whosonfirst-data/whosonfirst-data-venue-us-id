@@ -2,13 +2,14 @@
   "id": 186073225,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.920788,44.082094,-116.920788,44.082094",
     "geom:latitude":44.082094,
     "geom:longitude":-116.920788,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1910 7th Ave N",
     "sg:city":"Payette",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":186073225,
-    "wof:lastmodified":1449050722,
+    "wof:lastmodified":1466487577,
     "wof:name":"Idaho-Oregon Mill Supply Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "supply"
     ]
 },
-  "bbox": [-116.920788,44.082094,-116.920788,44.082094],
+  "bbox": [
+    -116.920788,
+    44.082094,
+    -116.920788,
+    44.082094
+],
   "geometry": {"coordinates":[-116.920788,44.082094],"type":"Point"}
 }

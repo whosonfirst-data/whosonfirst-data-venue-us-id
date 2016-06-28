@@ -2,13 +2,14 @@
   "id": 186282653,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.800815,47.729974,-116.800815,47.729974",
     "geom:latitude":47.729974,
     "geom:longitude":-116.800815,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6310 N Centennial Dr",
     "sg:city":"Coeur D Alene",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":186282653,
-    "wof:lastmodified":1449052044,
+    "wof:lastmodified":1466488649,
     "wof:name":"Northwest Christian Fellowship",
     "wof:parent_id":85821457,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-116.800815,47.729974,-116.800815,47.729974],
+  "bbox": [
+    -116.800815,
+    47.729974,
+    -116.800815,
+    47.729974
+],
   "geometry": {"coordinates":[-116.800815,47.729974],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 185979215,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.388589,43.575678,-116.388589,43.575678",
     "geom:latitude":43.575678,
     "geom:longitude":-116.388589,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"100 E Victory Rd",
     "sg:city":"Meridian",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":185979215,
-    "wof:lastmodified":1449007737,
+    "wof:lastmodified":1466488818,
     "wof:name":"Bio Lawn",
     "wof:parent_id":85805083,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-116.388589,43.575678,-116.388589,43.575678],
+  "bbox": [
+    -116.388589,
+    43.575678,
+    -116.388589,
+    43.575678
+],
   "geometry": {"coordinates":[-116.388589,43.575678],"type":"Point"}
 }

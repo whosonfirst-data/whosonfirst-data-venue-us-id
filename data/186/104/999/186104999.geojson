@@ -2,13 +2,14 @@
   "id": 186104999,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.472805,47.538443,-116.472805,47.538443",
     "geom:latitude":47.538443,
     "geom:longitude":-116.472805,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"14820 S Queen St",
     "sg:city":"Cataldo",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":186104999,
-    "wof:lastmodified":1449051483,
+    "wof:lastmodified":1466487915,
     "wof:name":"Cody Motors",
     "wof:parent_id":85821457,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "dealer"
     ]
 },
-  "bbox": [-116.472805,47.538443,-116.472805,47.538443],
-  "geometry": {"coordinates":[-116.472805,47.538443],"type":"Point"}
+  "bbox": [
+    -116.472805,
+    47.538443,
+    -116.472805,
+    47.538443
+],
+  "geometry": {"coordinates":[-116.47280499999999,47.538443],"type":"Point"}
 }

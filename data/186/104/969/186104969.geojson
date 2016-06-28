@@ -2,13 +2,14 @@
   "id": 186104969,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.962694,46.371216,-116.962694,46.371216",
     "geom:latitude":46.371216,
     "geom:longitude":-116.962694,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"629 Thain Rd",
     "sg:city":"Lewiston",
     "sg:classifiers":[
@@ -61,16 +62,22 @@
         }
     ],
     "wof:id":186104969,
-    "wof:lastmodified":1449051481,
+    "wof:lastmodified":1466487915,
     "wof:name":"King's Thrones Septic-Pumping",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "septic"
     ]
 },
-  "bbox": [-116.962694,46.371216,-116.962694,46.371216],
+  "bbox": [
+    -116.962694,
+    46.371216,
+    -116.962694,
+    46.371216
+],
   "geometry": {"coordinates":[-116.962694,46.371216],"type":"Point"}
 }

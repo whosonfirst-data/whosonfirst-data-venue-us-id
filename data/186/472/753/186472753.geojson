@@ -2,13 +2,14 @@
   "id": 186472753,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.977843,46.381845,-116.977843,46.381845",
     "geom:latitude":46.381845,
     "geom:longitude":-116.977843,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"347 Thain Rd",
     "sg:city":"Lewiston",
     "sg:classifiers":[
@@ -61,16 +62,22 @@
         }
     ],
     "wof:id":186472753,
-    "wof:lastmodified":1449050456,
+    "wof:lastmodified":1466488899,
     "wof:name":"Orchards Church Of-Nazarene",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-116.977843,46.381845,-116.977843,46.381845],
-  "geometry": {"coordinates":[-116.977843,46.381845],"type":"Point"}
+  "bbox": [
+    -116.977843,
+    46.381845,
+    -116.977843,
+    46.381845
+],
+  "geometry": {"coordinates":[-116.97784299999999,46.381845],"type":"Point"}
 }

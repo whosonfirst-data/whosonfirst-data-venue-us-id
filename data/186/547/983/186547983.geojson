@@ -2,13 +2,14 @@
   "id": 186547983,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.255421,43.575422,-116.255421,43.575422",
     "geom:latitude":43.575422,
     "geom:longitude":-116.255421,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5956 W Victory Rd",
     "sg:city":"Boise",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186547983,
-    "wof:lastmodified":1449050516,
+    "wof:lastmodified":1466488934,
     "wof:name":"Olympus Technical Svc Inc",
     "wof:parent_id":85825393,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "ecological"
     ]
 },
-  "bbox": [-116.255421,43.575422,-116.255421,43.575422],
+  "bbox": [
+    -116.255421,
+    43.575422,
+    -116.255421,
+    43.575422
+],
   "geometry": {"coordinates":[-116.255421,43.575422],"type":"Point"}
 }

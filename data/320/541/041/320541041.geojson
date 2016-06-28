@@ -2,13 +2,14 @@
   "id": 320541041,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.202006,43.617191,-116.202006,43.617191",
     "geom:latitude":43.617191,
     "geom:longitude":-116.202006,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"802 W Bannock St Ste. Lp110",
     "sg:city":"Boise",
     "sg:classifiers":[
@@ -75,10 +76,11 @@
         }
     ],
     "wof:id":320541041,
-    "wof:lastmodified":1449011657,
+    "wof:lastmodified":1466486908,
     "wof:name":"BrightStar - Boise",
     "wof:parent_id":85876341,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -93,6 +95,11 @@
         "eldercare-home"
     ]
 },
-  "bbox": [-116.202006,43.617191,-116.202006,43.617191],
+  "bbox": [
+    -116.202006,
+    43.617191,
+    -116.202006,
+    43.617191
+],
   "geometry": {"coordinates":[-116.202006,43.617191],"type":"Point"}
 }

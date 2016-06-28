@@ -2,13 +2,14 @@
   "id": 186075161,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.314105,43.589829,-116.314105,43.589829",
     "geom:latitude":43.589829,
     "geom:longitude":-116.314105,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1702 S Five Mile Rd",
     "sg:city":"Boise",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186075161,
-    "wof:lastmodified":1449051838,
+    "wof:lastmodified":1466487602,
     "wof:name":"Bangkok Emporium",
     "wof:parent_id":85876309,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "oriental"
     ]
 },
-  "bbox": [-116.314105,43.589829,-116.314105,43.589829],
+  "bbox": [
+    -116.314105,
+    43.589829,
+    -116.314105,
+    43.589829
+],
   "geometry": {"coordinates":[-116.314105,43.589829],"type":"Point"}
 }

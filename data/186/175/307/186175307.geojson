@@ -2,13 +2,14 @@
   "id": 186175307,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.598962,43.11935,-112.598962,43.11935",
     "geom:latitude":43.11935,
     "geom:longitude":-112.598962,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"534 S 1550 W",
     "sg:city":"Pingree",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":186175307,
-    "wof:lastmodified":1449052229,
+    "wof:lastmodified":1466488443,
     "wof:name":"Backwards K Supply",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "welding"
     ]
 },
-  "bbox": [-112.598962,43.11935,-112.598962,43.11935],
+  "bbox": [
+    -112.598962,
+    43.11935,
+    -112.598962,
+    43.11935
+],
   "geometry": {"coordinates":[-112.598962,43.11935],"type":"Point"}
 }

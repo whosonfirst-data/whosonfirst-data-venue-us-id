@@ -2,13 +2,14 @@
   "id": 185787539,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.983318,46.385534,-116.983318,46.385534",
     "geom:latitude":46.385534,
     "geom:longitude":-116.983318,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"244 Thain Rd",
     "sg:city":"Lewiston",
     "sg:classifiers":[
@@ -58,14 +59,20 @@
         }
     ],
     "wof:id":185787539,
-    "wof:lastmodified":1449007348,
+    "wof:lastmodified":1466488214,
     "wof:name":"Jeffrey's Restaurant",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-116.983318,46.385534,-116.983318,46.385534],
+  "bbox": [
+    -116.983318,
+    46.385534,
+    -116.983318,
+    46.385534
+],
   "geometry": {"coordinates":[-116.983318,46.385534],"type":"Point"}
 }

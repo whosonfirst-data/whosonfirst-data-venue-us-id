@@ -2,13 +2,14 @@
   "id": 185928809,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.304316,43.633846,-116.304316,43.633846",
     "geom:latitude":43.633846,
     "geom:longitude":-116.304316,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9703 Ustick Rd",
     "sg:city":"Boise",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":185928809,
-    "wof:lastmodified":1449007994,
+    "wof:lastmodified":1466488621,
     "wof:name":"Judy B Frederick",
     "wof:parent_id":85876357,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-116.304316,43.633846,-116.304316,43.633846],
+  "bbox": [
+    -116.304316,
+    43.633846,
+    -116.304316,
+    43.633846
+],
   "geometry": {"coordinates":[-116.304316,43.633846],"type":"Point"}
 }

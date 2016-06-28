@@ -2,13 +2,14 @@
   "id": 186347405,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.985252,46.730115,-116.985252,46.730115",
     "geom:latitude":46.730115,
     "geom:longitude":-116.985252,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1225 E 6th St",
     "sg:city":"Moscow",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":186347405,
-    "wof:lastmodified":1449051675,
+    "wof:lastmodified":1466488734,
     "wof:name":"Short's Funeral Chapel",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "director"
     ]
 },
-  "bbox": [-116.985252,46.730115,-116.985252,46.730115],
+  "bbox": [
+    -116.985252,
+    46.730115,
+    -116.985252,
+    46.730115
+],
   "geometry": {"coordinates":[-116.985252,46.730115],"type":"Point"}
 }

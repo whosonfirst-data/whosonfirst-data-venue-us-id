@@ -2,13 +2,14 @@
   "id": 186270181,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.112316,43.311507,-112.112316,43.311507",
     "geom:latitude":43.311507,
     "geom:longitude":-112.112316,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"966 E 800 N",
     "sg:city":"Shelley",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":186270181,
-    "wof:lastmodified":1449050894,
+    "wof:lastmodified":1466488622,
     "wof:name":"Deer Creek Drywall",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-112.112316,43.311507,-112.112316,43.311507],
-  "geometry": {"coordinates":[-112.112316,43.311507],"type":"Point"}
+  "bbox": [
+    -112.112316,
+    43.311507,
+    -112.112316,
+    43.311507
+],
+  "geometry": {"coordinates":[-112.11231600000001,43.311507],"type":"Point"}
 }

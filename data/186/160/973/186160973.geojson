@@ -2,13 +2,14 @@
   "id": 186160973,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.897807,47.744798,-116.897807,47.744798",
     "geom:latitude":47.744798,
     "geom:longitude":-116.897807,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8076 W Prairie Ave",
     "sg:city":"Post Falls",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":186160973,
-    "wof:lastmodified":1449052578,
+    "wof:lastmodified":1466488340,
     "wof:name":"Heritage Baptist Church",
     "wof:parent_id":85833263,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-116.897807,47.744798,-116.897807,47.744798],
+  "bbox": [
+    -116.897807,
+    47.744798,
+    -116.897807,
+    47.744798
+],
   "geometry": {"coordinates":[-116.897807,47.744798],"type":"Point"}
 }

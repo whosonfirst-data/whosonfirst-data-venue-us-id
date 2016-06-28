@@ -2,13 +2,14 @@
   "id": 320528057,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.699666,43.65522,-116.699666,43.65522",
     "geom:latitude":43.65522,
     "geom:longitude":-116.699666,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"222 W Logan St",
     "sg:city":"Caldwell",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":320528057,
-    "wof:lastmodified":1449012259,
+    "wof:lastmodified":1466487824,
     "wof:name":"Samantha J Portenier",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "surgeon"
     ]
 },
-  "bbox": [-116.699666,43.65522,-116.699666,43.65522],
-  "geometry": {"coordinates":[-116.699666,43.65522],"type":"Point"}
+  "bbox": [
+    -116.699666,
+    43.65522,
+    -116.699666,
+    43.65522
+],
+  "geometry": {"coordinates":[-116.69966599999999,43.65522],"type":"Point"}
 }

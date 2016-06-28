@@ -2,13 +2,14 @@
   "id": 186035473,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.435057,44.752621,-116.435057,44.752621",
     "geom:latitude":44.752621,
     "geom:longitude":-116.435057,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2278 Orchard Rd",
     "sg:city":"Council",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":186035473,
-    "wof:lastmodified":1449052494,
+    "wof:lastmodified":1466487144,
     "wof:name":"Carl Nichols Logging Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "logging"
     ]
 },
-  "bbox": [-116.435057,44.752621,-116.435057,44.752621],
+  "bbox": [
+    -116.435057,
+    44.752621,
+    -116.435057,
+    44.752621
+],
   "geometry": {"coordinates":[-116.435057,44.752621],"type":"Point"}
 }

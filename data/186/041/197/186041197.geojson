@@ -2,13 +2,14 @@
   "id": 186041197,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.939094,43.938273,-116.939094,43.938273",
     "geom:latitude":43.938273,
     "geom:longitude":-116.939094,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1370 Glenway Ave",
     "sg:city":"Fruitland",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":186041197,
-    "wof:lastmodified":1449051357,
+    "wof:lastmodified":1466487211,
     "wof:name":"Reeve Lyle Farms",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-116.939094,43.938273,-116.939094,43.938273],
+  "bbox": [
+    -116.939094,
+    43.938273,
+    -116.939094,
+    43.938273
+],
   "geometry": {"coordinates":[-116.939094,43.938273],"type":"Point"}
 }

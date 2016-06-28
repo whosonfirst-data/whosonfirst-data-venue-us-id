@@ -2,13 +2,14 @@
   "id": 186145391,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.292623,43.661736,-116.292623,43.661736",
     "geom:latitude":43.661736,
     "geom:longitude":-116.292623,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6081 N Drake Way",
     "sg:city":"Boise",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186145391,
-    "wof:lastmodified":1449051192,
+    "wof:lastmodified":1466488273,
     "wof:name":"Belly Dance By Nejwah",
     "wof:parent_id":85876357,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "singing"
     ]
 },
-  "bbox": [-116.292623,43.661736,-116.292623,43.661736],
-  "geometry": {"coordinates":[-116.292623,43.661736],"type":"Point"}
+  "bbox": [
+    -116.292623,
+    43.661736,
+    -116.292623,
+    43.661736
+],
+  "geometry": {"coordinates":[-116.29262300000001,43.661736],"type":"Point"}
 }

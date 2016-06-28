@@ -2,13 +2,14 @@
   "id": 169625245,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.884092,43.680001,-111.884092,43.680001",
     "geom:latitude":43.680001,
     "geom:longitude":-111.884092,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"364 N 4100 E",
     "sg:city":"Rigby",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":169625245,
-    "wof:lastmodified":1449036026,
+    "wof:lastmodified":1466487202,
     "wof:name":"Rigby Seventh LDS Ward",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-111.884092,43.680001,-111.884092,43.680001],
+  "bbox": [
+    -111.884092,
+    43.680001,
+    -111.884092,
+    43.680001
+],
   "geometry": {"coordinates":[-111.884092,43.680001],"type":"Point"}
 }

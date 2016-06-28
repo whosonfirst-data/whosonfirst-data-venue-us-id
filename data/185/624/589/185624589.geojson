@@ -2,13 +2,14 @@
   "id": 185624589,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.893289,43.670066,-111.893289,43.670066",
     "geom:latitude":43.670066,
     "geom:longitude":-111.893289,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4056 E 300 N",
     "sg:city":"Rigby",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":185624589,
-    "wof:lastmodified":1449007692,
+    "wof:lastmodified":1466486950,
     "wof:name":"Briggs Built Metal",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.893289,43.670066,-111.893289,43.670066],
+  "bbox": [
+    -111.893289,
+    43.670066,
+    -111.893289,
+    43.670066
+],
   "geometry": {"coordinates":[-111.893289,43.670066],"type":"Point"}
 }

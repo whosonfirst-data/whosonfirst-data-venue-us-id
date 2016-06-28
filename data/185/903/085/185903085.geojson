@@ -2,13 +2,14 @@
   "id": 185903085,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.6955,43.134793,-115.6955,43.134793",
     "geom:latitude":43.134793,
     "geom:longitude":-115.6955,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"270 E 5th N",
     "sg:city":"Mountain Home",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":185903085,
-    "wof:lastmodified":1449006690,
+    "wof:lastmodified":1466488563,
     "wof:name":"Neil D Adamson DDS",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "dentist"
     ]
 },
-  "bbox": [-115.6955,43.134793,-115.6955,43.134793],
+  "bbox": [
+    -115.6955,
+    43.134793,
+    -115.6955,
+    43.134793
+],
   "geometry": {"coordinates":[-115.6955,43.134793],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 185863249,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.235613,43.593355,-116.235613,43.593355",
     "geom:latitude":43.593355,
     "geom:longitude":-116.235613,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4401 Kootenai St",
     "sg:city":"Boise",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":185863249,
-    "wof:lastmodified":1449007700,
+    "wof:lastmodified":1466488566,
     "wof:name":"Northwest Animal Companions",
     "wof:parent_id":85876295,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "transporting"
     ]
 },
-  "bbox": [-116.235613,43.593355,-116.235613,43.593355],
+  "bbox": [
+    -116.235613,
+    43.593355,
+    -116.235613,
+    43.593355
+],
   "geometry": {"coordinates":[-116.235613,43.593355],"type":"Point"}
 }

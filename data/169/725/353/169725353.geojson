@@ -2,13 +2,14 @@
   "id": 169725353,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.204068,43.925123,-112.204068,43.925123",
     "geom:latitude":43.925123,
     "geom:longitude":-112.204068,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2099 N Old Butte Hwy",
     "sg:city":"Hamer",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":169725353,
-    "wof:lastmodified":1449033493,
+    "wof:lastmodified":1466488238,
     "wof:name":"Corner Bar & Cafe",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.204068,43.925123,-112.204068,43.925123],
-  "geometry": {"coordinates":[-112.204068,43.925123],"type":"Point"}
+  "bbox": [
+    -112.204068,
+    43.925123,
+    -112.204068,
+    43.925123
+],
+  "geometry": {"coordinates":[-112.20406800000001,43.925123],"type":"Point"}
 }

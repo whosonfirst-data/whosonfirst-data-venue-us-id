@@ -2,13 +2,14 @@
   "id": 185740809,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.781013,47.676022,-116.781013,47.676022",
     "geom:latitude":47.676022,
     "geom:longitude":-116.781013,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"407 E Indiana Ave",
     "sg:city":"Coeur D Alene",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":185740809,
-    "wof:lastmodified":1449007353,
+    "wof:lastmodified":1466487847,
     "wof:name":"Recovery Room",
     "wof:parent_id":85821457,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "upholsterer"
     ]
 },
-  "bbox": [-116.781013,47.676022,-116.781013,47.676022],
+  "bbox": [
+    -116.781013,
+    47.676022,
+    -116.781013,
+    47.676022
+],
   "geometry": {"coordinates":[-116.781013,47.676022],"type":"Point"}
 }

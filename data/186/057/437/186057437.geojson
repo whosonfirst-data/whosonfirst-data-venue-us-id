@@ -2,13 +2,14 @@
   "id": 186057437,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.915485,43.807241,-116.915485,43.807241",
     "geom:latitude":43.807241,
     "geom:longitude":-116.915485,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"26712 Klahr Rd",
     "sg:city":"Parma",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":186057437,
-    "wof:lastmodified":1449051703,
+    "wof:lastmodified":1466487399,
     "wof:name":"Jim Collins Construction",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "contractor"
     ]
 },
-  "bbox": [-116.915485,43.807241,-116.915485,43.807241],
+  "bbox": [
+    -116.915485,
+    43.807241,
+    -116.915485,
+    43.807241
+],
   "geometry": {"coordinates":[-116.915485,43.807241],"type":"Point"}
 }

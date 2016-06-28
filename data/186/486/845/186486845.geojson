@@ -2,13 +2,14 @@
   "id": 186486845,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.593671,43.871905,-116.593671,43.871905",
     "geom:latitude":43.871905,
     "geom:longitude":-116.593671,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1014 Vanderdassen Rd",
     "sg:city":"Emmett",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":186486845,
-    "wof:lastmodified":1449051876,
+    "wof:lastmodified":1466488906,
     "wof:name":"Gilmore Concrete",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "contractor"
     ]
 },
-  "bbox": [-116.593671,43.871905,-116.593671,43.871905],
+  "bbox": [
+    -116.593671,
+    43.871905,
+    -116.593671,
+    43.871905
+],
   "geometry": {"coordinates":[-116.593671,43.871905],"type":"Point"}
 }

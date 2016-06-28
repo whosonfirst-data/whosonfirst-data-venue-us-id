@@ -2,13 +2,14 @@
   "id": 320550887,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-117.03653,47.766292,-117.03653,47.766292",
     "geom:latitude":47.766292,
     "geom:longitude":-117.03653,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"18992 W Rice Ave",
     "sg:city":"Hauser",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":320550887,
-    "wof:lastmodified":1449013288,
+    "wof:lastmodified":1466487051,
     "wof:name":"Comad Development",
     "wof:parent_id":85833263,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-117.03653,47.766292,-117.03653,47.766292],
+  "bbox": [
+    -117.03653,
+    47.766292,
+    -117.03653,
+    47.766292
+],
   "geometry": {"coordinates":[-117.03653,47.766292],"type":"Point"}
 }

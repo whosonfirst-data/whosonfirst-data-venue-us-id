@@ -2,13 +2,14 @@
   "id": 185781539,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.450649,42.862191,-112.450649,42.862191",
     "geom:latitude":42.862191,
     "geom:longitude":-112.450649,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"242 W Center St",
     "sg:city":"Pocatello",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":185781539,
-    "wof:lastmodified":1449006924,
+    "wof:lastmodified":1466488171,
     "wof:name":"HERB-Store.Com",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "herb"
     ]
 },
-  "bbox": [-112.450649,42.862191,-112.450649,42.862191],
+  "bbox": [
+    -112.450649,
+    42.862191,
+    -112.450649,
+    42.862191
+],
   "geometry": {"coordinates":[-112.450649,42.862191],"type":"Point"}
 }

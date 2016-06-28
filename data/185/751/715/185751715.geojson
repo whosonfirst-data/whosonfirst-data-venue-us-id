@@ -2,13 +2,14 @@
   "id": 185751715,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.054824,43.507407,-112.054824,43.507407",
     "geom:latitude":43.507407,
     "geom:longitude":-112.054824,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1440 Lindsay Blvd",
     "sg:city":"Idaho Falls",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":185751715,
-    "wof:lastmodified":1449006679,
+    "wof:lastmodified":1466487937,
     "wof:name":"KOA Kampgrounds",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.054824,43.507407,-112.054824,43.507407],
+  "bbox": [
+    -112.054824,
+    43.507407,
+    -112.054824,
+    43.507407
+],
   "geometry": {"coordinates":[-112.054824,43.507407],"type":"Point"}
 }

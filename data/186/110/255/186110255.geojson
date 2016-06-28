@@ -2,13 +2,14 @@
   "id": 186110255,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.350011,43.662103,-116.350011,43.662103",
     "geom:latitude":43.662103,
     "geom:longitude":-116.350011,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6341 N Bellecreek Ave",
     "sg:city":"Boise",
     "sg:classifiers":[
@@ -55,10 +56,11 @@
         }
     ],
     "wof:id":186110255,
-    "wof:lastmodified":1449051276,
+    "wof:lastmodified":1466487967,
     "wof:name":"Thunder Studio",
     "wof:parent_id":85876351,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -69,6 +71,11 @@
         "portrait"
     ]
 },
-  "bbox": [-116.350011,43.662103,-116.350011,43.662103],
-  "geometry": {"coordinates":[-116.350011,43.662103],"type":"Point"}
+  "bbox": [
+    -116.350011,
+    43.662103,
+    -116.350011,
+    43.662103
+],
+  "geometry": {"coordinates":[-116.35001099999999,43.662103],"type":"Point"}
 }

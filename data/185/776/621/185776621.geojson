@@ -2,13 +2,14 @@
   "id": 185776621,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.540234,43.611583,-116.540234,43.611583",
     "geom:latitude":43.611583,
     "geom:longitude":-116.540234,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7336 Coral Ct",
     "sg:city":"Nampa",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":185776621,
-    "wof:lastmodified":1449006971,
+    "wof:lastmodified":1466488134,
     "wof:name":"Commercial Fuel Corp",
     "wof:parent_id":85827787,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "oil"
     ]
 },
-  "bbox": [-116.540234,43.611583,-116.540234,43.611583],
+  "bbox": [
+    -116.540234,
+    43.611583,
+    -116.540234,
+    43.611583
+],
   "geometry": {"coordinates":[-116.540234,43.611583],"type":"Point"}
 }

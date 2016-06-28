@@ -2,13 +2,14 @@
   "id": 186428705,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.577087,48.179498,-116.577087,48.179498",
     "geom:latitude":48.179498,
     "geom:longitude":-116.577087,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"770 Heath Lake Rd",
     "sg:city":"Sagle",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":186428705,
-    "wof:lastmodified":1449052854,
+    "wof:lastmodified":1466488809,
     "wof:name":"Millcott Corp",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-116.577087,48.179498,-116.577087,48.179498],
-  "geometry": {"coordinates":[-116.577087,48.179498],"type":"Point"}
+  "bbox": [
+    -116.577087,
+    48.179498,
+    -116.577087,
+    48.179498
+],
+  "geometry": {"coordinates":[-116.57708700000001,48.179498],"type":"Point"}
 }

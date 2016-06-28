@@ -2,13 +2,14 @@
   "id": 169698767,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.319688,43.645991,-116.319688,43.645991",
     "geom:latitude":43.645991,
     "geom:longitude":-116.319688,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4498 Wisteria Pl",
     "sg:city":"Boise",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":169698767,
-    "wof:lastmodified":1449035754,
+    "wof:lastmodified":1466488010,
     "wof:name":"American & Greek Catering",
     "wof:parent_id":85876357,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "caterer"
     ]
 },
-  "bbox": [-116.319688,43.645991,-116.319688,43.645991],
+  "bbox": [
+    -116.319688,
+    43.645991,
+    -116.319688,
+    43.645991
+],
   "geometry": {"coordinates":[-116.319688,43.645991],"type":"Point"}
 }

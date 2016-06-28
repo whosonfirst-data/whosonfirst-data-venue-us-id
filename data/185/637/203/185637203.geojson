@@ -2,13 +2,14 @@
   "id": 185637203,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.687513,43.96728,-111.687513,43.96728",
     "geom:latitude":43.96728,
     "geom:longitude":-111.687513,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"328 W 1st N",
     "sg:city":"St Anthony",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":185637203,
-    "wof:lastmodified":1449006594,
+    "wof:lastmodified":1466487045,
     "wof:name":"Mary Immaculate Catholic",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-111.687513,43.96728,-111.687513,43.96728],
+  "bbox": [
+    -111.687513,
+    43.96728,
+    -111.687513,
+    43.96728
+],
   "geometry": {"coordinates":[-111.687513,43.96728],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169738755,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.342355,43.1897,-112.342355,43.1897",
     "geom:latitude":43.1897,
     "geom:longitude":-112.342355,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"280 NE Main St",
     "sg:city":"Blackfoot",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":169738755,
-    "wof:lastmodified":1449035095,
+    "wof:lastmodified":1466488322,
     "wof:name":"Tony's Family Billiards",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "billiard"
     ]
 },
-  "bbox": [-112.342355,43.1897,-112.342355,43.1897],
+  "bbox": [
+    -112.342355,
+    43.1897,
+    -112.342355,
+    43.1897
+],
   "geometry": {"coordinates":[-112.342355,43.1897],"type":"Point"}
 }

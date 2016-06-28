@@ -2,13 +2,14 @@
   "id": 186227905,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.112925,43.548928,-116.112925,43.548928",
     "geom:latitude":43.548928,
     "geom:longitude":-116.112925,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6047 S Settlement Way",
     "sg:city":"Boise",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":186227905,
-    "wof:lastmodified":1449050981,
+    "wof:lastmodified":1466488558,
     "wof:name":"Souldecor",
     "wof:parent_id":85876327,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-116.112925,43.548928,-116.112925,43.548928],
+  "bbox": [
+    -116.112925,
+    43.548928,
+    -116.112925,
+    43.548928
+],
   "geometry": {"coordinates":[-116.112925,43.548928],"type":"Point"}
 }

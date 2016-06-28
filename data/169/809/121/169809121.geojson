@@ -2,13 +2,14 @@
   "id": 169809121,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.265541,43.619316,-116.265541,43.619316",
     "geom:latitude":43.619316,
     "geom:longitude":-116.265541,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6708 Fairview Ave",
     "sg:city":"Boise",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":169809121,
-    "wof:lastmodified":1449035372,
+    "wof:lastmodified":1466488454,
     "wof:name":"Yarborough Law Offices",
     "wof:parent_id":85841319,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "attorney"
     ]
 },
-  "bbox": [-116.265541,43.619316,-116.265541,43.619316],
+  "bbox": [
+    -116.265541,
+    43.619316,
+    -116.265541,
+    43.619316
+],
   "geometry": {"coordinates":[-116.265541,43.619316],"type":"Point"}
 }

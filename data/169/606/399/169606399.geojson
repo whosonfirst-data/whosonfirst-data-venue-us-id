@@ -2,13 +2,14 @@
   "id": 169606399,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.863447,47.621277,-116.863447,47.621277",
     "geom:latitude":47.621277,
     "geom:longitude":-116.863447,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6887 W Kidd Island Rd",
     "sg:city":"Coeur D Alene",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":169606399,
-    "wof:lastmodified":1449033201,
+    "wof:lastmodified":1466486902,
     "wof:name":"Worley Highway District",
     "wof:parent_id":85821457,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-116.863447,47.621277,-116.863447,47.621277],
-  "geometry": {"coordinates":[-116.863447,47.621277],"type":"Point"}
+  "bbox": [
+    -116.863447,
+    47.621277,
+    -116.863447,
+    47.621277
+],
+  "geometry": {"coordinates":[-116.86344699999999,47.621277],"type":"Point"}
 }

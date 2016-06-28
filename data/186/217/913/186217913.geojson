@@ -2,13 +2,14 @@
   "id": 186217913,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.955263,44.177637,-115.955263,44.177637",
     "geom:latitude":44.177637,
     "geom:longitude":-115.955263,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"69 River Ranch Rd",
     "sg:city":"Garden Valley",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":186217913,
-    "wof:lastmodified":1449052871,
+    "wof:lastmodified":1466488455,
     "wof:name":"Walk On The Wild Side B & B",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "bed"
     ]
 },
-  "bbox": [-115.955263,44.177637,-115.955263,44.177637],
+  "bbox": [
+    -115.955263,
+    44.177637,
+    -115.955263,
+    44.177637
+],
   "geometry": {"coordinates":[-115.955263,44.177637],"type":"Point"}
 }

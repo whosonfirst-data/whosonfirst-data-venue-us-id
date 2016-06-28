@@ -2,13 +2,14 @@
   "id": 186207127,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.542573,43.561522,-116.542573,43.561522",
     "geom:latitude":43.561522,
     "geom:longitude":-116.542573,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2412 E Amity Ave",
     "sg:city":"Nampa",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":186207127,
-    "wof:lastmodified":1449052238,
+    "wof:lastmodified":1466488429,
     "wof:name":"Leo Laleff Trucking Inc",
     "wof:parent_id":85827787,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "trucking"
     ]
 },
-  "bbox": [-116.542573,43.561522,-116.542573,43.561522],
+  "bbox": [
+    -116.542573,
+    43.561522,
+    -116.542573,
+    43.561522
+],
   "geometry": {"coordinates":[-116.542573,43.561522],"type":"Point"}
 }

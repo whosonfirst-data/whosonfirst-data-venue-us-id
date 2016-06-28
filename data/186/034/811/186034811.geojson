@@ -2,13 +2,14 @@
   "id": 186034811,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.532739,45.30097,-114.532739,45.30097",
     "geom:latitude":45.30097,
     "geom:longitude":-114.532739,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4 Redside Way",
     "sg:city":"Shoup",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":186034811,
-    "wof:lastmodified":1449050546,
+    "wof:lastmodified":1466487136,
     "wof:name":"Stanley Potts Outfitters",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-114.532739,45.30097,-114.532739,45.30097],
-  "geometry": {"coordinates":[-114.532739,45.30097],"type":"Point"}
+  "bbox": [
+    -114.532739,
+    45.30097,
+    -114.532739,
+    45.30097
+],
+  "geometry": {"coordinates":[-114.53273900000001,45.30097],"type":"Point"}
 }

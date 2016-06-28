@@ -2,13 +2,14 @@
   "id": 185687965,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.664793,43.137348,-115.664793,43.137348",
     "geom:latitude":43.137348,
     "geom:longitude":-115.664793,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2900 American Legion Blvd",
     "sg:city":"Mountain Home",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":185687965,
-    "wof:lastmodified":1449007056,
+    "wof:lastmodified":1466487428,
     "wof:name":"Anderson Ranch Recreation Area",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "amusement"
     ]
 },
-  "bbox": [-115.664793,43.137348,-115.664793,43.137348],
+  "bbox": [
+    -115.664793,
+    43.137348,
+    -115.664793,
+    43.137348
+],
   "geometry": {"coordinates":[-115.664793,43.137348],"type":"Point"}
 }

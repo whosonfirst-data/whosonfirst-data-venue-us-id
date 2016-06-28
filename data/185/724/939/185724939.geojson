@@ -2,13 +2,14 @@
   "id": 185724939,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-117.022666,48.161073,-117.022666,48.161073",
     "geom:latitude":48.161073,
     "geom:longitude":-117.022666,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"146 Memory Ln",
     "sg:city":"Oldtown",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":185724939,
-    "wof:lastmodified":1449008154,
+    "wof:lastmodified":1466487719,
     "wof:name":"B & M Mini Storage",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "storage"
     ]
 },
-  "bbox": [-117.022666,48.161073,-117.022666,48.161073],
+  "bbox": [
+    -117.022666,
+    48.161073,
+    -117.022666,
+    48.161073
+],
   "geometry": {"coordinates":[-117.022666,48.161073],"type":"Point"}
 }

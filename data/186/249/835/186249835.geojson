@@ -2,13 +2,14 @@
   "id": 186249835,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.939313,43.616783,-116.939313,43.616783",
     "geom:latitude":43.616783,
     "geom:longitude":-116.939313,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"201 W Wyoming Ave",
     "sg:city":"Homedale",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":186249835,
-    "wof:lastmodified":1449050404,
+    "wof:lastmodified":1466488597,
     "wof:name":"Cossa Auto & Diesel Shop",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-116.939313,43.616783,-116.939313,43.616783],
+  "bbox": [
+    -116.939313,
+    43.616783,
+    -116.939313,
+    43.616783
+],
   "geometry": {"coordinates":[-116.939313,43.616783],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186558725,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.988882,44.151786,-115.988882,44.151786",
     "geom:latitude":44.151786,
     "geom:longitude":-115.988882,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"75 Sky Ridge Dr",
     "sg:city":"Garden Valley",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":186558725,
-    "wof:lastmodified":1449051113,
+    "wof:lastmodified":1466488897,
     "wof:name":"Bunkhouse Boys Log Furniture",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "mfg"
     ]
 },
-  "bbox": [-115.988882,44.151786,-115.988882,44.151786],
+  "bbox": [
+    -115.988882,
+    44.151786,
+    -115.988882,
+    44.151786
+],
   "geometry": {"coordinates":[-115.988882,44.151786],"type":"Point"}
 }

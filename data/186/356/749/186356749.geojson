@@ -2,13 +2,14 @@
   "id": 186356749,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-113.800959,42.519812,-113.800959,42.519812",
     "geom:latitude":42.519812,
     "geom:longitude":-113.800959,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2608 Fairmont Ave",
     "sg:city":"Burley",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186356749,
-    "wof:lastmodified":1449052531,
+    "wof:lastmodified":1466488754,
     "wof:name":"J R Trucking",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "mfg"
     ]
 },
-  "bbox": [-113.800959,42.519812,-113.800959,42.519812],
-  "geometry": {"coordinates":[-113.800959,42.519812],"type":"Point"}
+  "bbox": [
+    -113.800959,
+    42.519812,
+    -113.800959,
+    42.519812
+],
+  "geometry": {"coordinates":[-113.80095900000001,42.519812],"type":"Point"}
 }

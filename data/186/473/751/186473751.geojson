@@ -2,13 +2,14 @@
   "id": 186473751,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.460253,42.573584,-114.460253,42.573584",
     "geom:latitude":42.573584,
     "geom:longitude":-114.460253,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"684 Blue Lakes Blvd N",
     "sg:city":"Twin Falls",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":186473751,
-    "wof:lastmodified":1449050964,
+    "wof:lastmodified":1466488899,
     "wof:name":"Continental Loans",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "loan"
     ]
 },
-  "bbox": [-114.460253,42.573584,-114.460253,42.573584],
-  "geometry": {"coordinates":[-114.460253,42.573584],"type":"Point"}
+  "bbox": [
+    -114.460253,
+    42.573584,
+    -114.460253,
+    42.573584
+],
+  "geometry": {"coordinates":[-114.46025299999999,42.573584],"type":"Point"}
 }

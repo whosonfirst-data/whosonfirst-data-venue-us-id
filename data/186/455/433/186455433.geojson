@@ -2,13 +2,14 @@
   "id": 186455433,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.07732,43.496644,-112.07732,43.496644",
     "geom:latitude":43.496644,
     "geom:longitude":-112.07732,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2325 W Broadway St",
     "sg:city":"Idaho Falls",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":186455433,
-    "wof:lastmodified":1449052572,
+    "wof:lastmodified":1466488826,
     "wof:name":"Canberra Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "manufacturer"
     ]
 },
-  "bbox": [-112.07732,43.496644,-112.07732,43.496644],
+  "bbox": [
+    -112.07732,
+    43.496644,
+    -112.07732,
+    43.496644
+],
   "geometry": {"coordinates":[-112.07732,43.496644],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186175967,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-113.304548,43.633713,-113.304548,43.633713",
     "geom:latitude":43.633713,
     "geom:longitude":-113.304548,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"434 W Grand Ave",
     "sg:city":"Arco",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":186175967,
-    "wof:lastmodified":1449052230,
+    "wof:lastmodified":1466488523,
     "wof:name":"Grandpa's Southern Bar-B-Q",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-113.304548,43.633713,-113.304548,43.633713],
+  "bbox": [
+    -113.304548,
+    43.633713,
+    -113.304548,
+    43.633713
+],
   "geometry": {"coordinates":[-113.304548,43.633713],"type":"Point"}
 }

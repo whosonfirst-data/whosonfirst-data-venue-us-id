@@ -2,13 +2,14 @@
   "id": 186181055,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.548715,48.274889,-116.548715,48.274889",
     "geom:latitude":48.274889,
     "geom:longitude":-116.548715,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"107 Main St",
     "sg:city":"Sandpoint",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":186181055,
-    "wof:lastmodified":1449052005,
+    "wof:lastmodified":1466488451,
     "wof:name":"Head Lines",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-116.548715,48.274889,-116.548715,48.274889],
+  "bbox": [
+    -116.548715,
+    48.274889,
+    -116.548715,
+    48.274889
+],
   "geometry": {"coordinates":[-116.548715,48.274889],"type":"Point"}
 }

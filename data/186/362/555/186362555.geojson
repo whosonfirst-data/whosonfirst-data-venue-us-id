@@ -2,13 +2,14 @@
   "id": 186362555,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.04991,43.491692,-112.04991,43.491692",
     "geom:latitude":43.491692,
     "geom:longitude":-112.04991,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"571 Utah Cir",
     "sg:city":"Idaho Falls",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":186362555,
-    "wof:lastmodified":1449052109,
+    "wof:lastmodified":1466488757,
     "wof:name":"Industrial Hose & Fittings Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "hydraulic"
     ]
 },
-  "bbox": [-112.04991,43.491692,-112.04991,43.491692],
+  "bbox": [
+    -112.04991,
+    43.491692,
+    -112.04991,
+    43.491692
+],
   "geometry": {"coordinates":[-112.04991,43.491692],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 185858211,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.616711,46.578372,-116.616711,46.578372",
     "geom:latitude":46.578372,
     "geom:longitude":-116.616711,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"33233 Leland Rd",
     "sg:city":"Kendrick",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":185858211,
-    "wof:lastmodified":1449006770,
+    "wof:lastmodified":1466488385,
     "wof:name":"Leland Poineer Community Chr",
     "wof:parent_id":85837769,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-116.616711,46.578372,-116.616711,46.578372],
+  "bbox": [
+    -116.616711,
+    46.578372,
+    -116.616711,
+    46.578372
+],
   "geometry": {"coordinates":[-116.616711,46.578372],"type":"Point"}
 }

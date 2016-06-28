@@ -2,13 +2,14 @@
   "id": 185930867,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.031003,43.484414,-112.031003,43.484414",
     "geom:latitude":43.484414,
     "geom:longitude":-112.031003,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1497 S Lee Ave",
     "sg:city":"Idaho Falls",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":185930867,
-    "wof:lastmodified":1449007115,
+    "wof:lastmodified":1466488626,
     "wof:name":"Progressive Child Care Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.031003,43.484414,-112.031003,43.484414],
+  "bbox": [
+    -112.031003,
+    43.484414,
+    -112.031003,
+    43.484414
+],
   "geometry": {"coordinates":[-112.031003,43.484414],"type":"Point"}
 }

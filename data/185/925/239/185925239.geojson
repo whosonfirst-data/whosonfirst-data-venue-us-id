@@ -2,13 +2,14 @@
   "id": 185925239,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.317304,43.518795,-114.317304,43.518795",
     "geom:latitude":43.518795,
     "geom:longitude":-114.317304,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"128 W Bullion St",
     "sg:city":"Hailey",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":185925239,
-    "wof:lastmodified":1449006606,
+    "wof:lastmodified":1466488613,
     "wof:name":"Povey Pensione",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "bed"
     ]
 },
-  "bbox": [-114.317304,43.518795,-114.317304,43.518795],
-  "geometry": {"coordinates":[-114.317304,43.518795],"type":"Point"}
+  "bbox": [
+    -114.317304,
+    43.518795,
+    -114.317304,
+    43.518795
+],
+  "geometry": {"coordinates":[-114.31730399999999,43.518795],"type":"Point"}
 }

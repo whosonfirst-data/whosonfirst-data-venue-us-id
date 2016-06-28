@@ -2,13 +2,14 @@
   "id": 185728755,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.711204,43.613485,-116.711204,43.613485",
     "geom:latitude":43.613485,
     "geom:longitude":-116.711204,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"16670 Buckaroo Cir",
     "sg:city":"Caldwell",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":185728755,
-    "wof:lastmodified":1449006987,
+    "wof:lastmodified":1466487752,
     "wof:name":"Vintage Wood & Design LLC",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "contractor"
     ]
 },
-  "bbox": [-116.711204,43.613485,-116.711204,43.613485],
+  "bbox": [
+    -116.711204,
+    43.613485,
+    -116.711204,
+    43.613485
+],
   "geometry": {"coordinates":[-116.711204,43.613485],"type":"Point"}
 }

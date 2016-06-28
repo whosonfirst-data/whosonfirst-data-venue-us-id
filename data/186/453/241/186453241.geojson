@@ -2,13 +2,14 @@
   "id": 186453241,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.776003,47.730597,-116.776003,47.730597",
     "geom:latitude":47.730597,
     "geom:longitude":-116.776003,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6672 N 4th St",
     "sg:city":"Dalton Gardens",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":186453241,
-    "wof:lastmodified":1449052353,
+    "wof:lastmodified":1466488728,
     "wof:name":"Sales Direct",
     "wof:parent_id":85821457,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "contractor"
     ]
 },
-  "bbox": [-116.776003,47.730597,-116.776003,47.730597],
+  "bbox": [
+    -116.776003,
+    47.730597,
+    -116.776003,
+    47.730597
+],
   "geometry": {"coordinates":[-116.776003,47.730597],"type":"Point"}
 }

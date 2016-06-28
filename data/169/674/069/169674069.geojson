@@ -2,13 +2,14 @@
   "id": 169674069,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.524786,43.586862,-116.524786,43.586862",
     "geom:latitude":43.586862,
     "geom:longitude":-116.524786,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3714 Airport Rd",
     "sg:city":"Nampa",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":169674069,
-    "wof:lastmodified":1449035137,
+    "wof:lastmodified":1466487934,
     "wof:name":"ABC Septic Svc",
     "wof:parent_id":85827787,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "septic"
     ]
 },
-  "bbox": [-116.524786,43.586862,-116.524786,43.586862],
-  "geometry": {"coordinates":[-116.524786,43.586862],"type":"Point"}
+  "bbox": [
+    -116.524786,
+    43.586862,
+    -116.524786,
+    43.586862
+],
+  "geometry": {"coordinates":[-116.52478600000001,43.586862],"type":"Point"}
 }

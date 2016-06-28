@@ -2,13 +2,14 @@
   "id": 186350149,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.690307,43.668331,-116.690307,43.668331",
     "geom:latitude":43.668331,
     "geom:longitude":-116.690307,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"508 Main St",
     "sg:city":"Caldwell",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":186350149,
-    "wof:lastmodified":1449051733,
+    "wof:lastmodified":1466488675,
     "wof:name":"Corral Lounge",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-116.690307,43.668331,-116.690307,43.668331],
+  "bbox": [
+    -116.690307,
+    43.668331,
+    -116.690307,
+    43.668331
+],
   "geometry": {"coordinates":[-116.690307,43.668331],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 320549955,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-117.001703,46.737438,-117.001703,46.737438",
     "geom:latitude":46.737438,
     "geom:longitude":-117.001703,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"117 W D St",
     "sg:city":"Moscow",
     "sg:classifiers":[
@@ -70,10 +71,11 @@
         }
     ],
     "wof:id":320549955,
-    "wof:lastmodified":1449012285,
+    "wof:lastmodified":1466487039,
     "wof:name":"Allstate Insurance Company - Ted Curet",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -85,6 +87,11 @@
         "renter"
     ]
 },
-  "bbox": [-117.001703,46.737438,-117.001703,46.737438],
-  "geometry": {"coordinates":[-117.001703,46.737438],"type":"Point"}
+  "bbox": [
+    -117.001703,
+    46.737438,
+    -117.001703,
+    46.737438
+],
+  "geometry": {"coordinates":[-117.00170300000001,46.737438],"type":"Point"}
 }

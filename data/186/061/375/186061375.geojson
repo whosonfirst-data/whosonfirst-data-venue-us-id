@@ -2,13 +2,14 @@
   "id": 186061375,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.04943,43.499026,-112.04943,43.499026",
     "geom:latitude":43.499026,
     "geom:longitude":-112.04943,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"820 Wardell Ave",
     "sg:city":"Idaho Falls",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186061375,
-    "wof:lastmodified":1449052294,
+    "wof:lastmodified":1466487442,
     "wof:name":"Independent Glass Distributors",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "plate"
     ]
 },
-  "bbox": [-112.04943,43.499026,-112.04943,43.499026],
+  "bbox": [
+    -112.04943,
+    43.499026,
+    -112.04943,
+    43.499026
+],
   "geometry": {"coordinates":[-112.04943,43.499026],"type":"Point"}
 }

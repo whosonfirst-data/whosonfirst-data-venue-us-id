@@ -2,13 +2,14 @@
   "id": 185871057,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.481016,42.551468,-114.481016,42.551468",
     "geom:latitude":42.551468,
     "geom:longitude":-114.481016,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"901 Russet St",
     "sg:city":"Twin Falls",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":185871057,
-    "wof:lastmodified":1449007118,
+    "wof:lastmodified":1466488512,
     "wof:name":"Hamilton Manufacturing & Dist",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "material"
     ]
 },
-  "bbox": [-114.481016,42.551468,-114.481016,42.551468],
+  "bbox": [
+    -114.481016,
+    42.551468,
+    -114.481016,
+    42.551468
+],
   "geometry": {"coordinates":[-114.481016,42.551468],"type":"Point"}
 }

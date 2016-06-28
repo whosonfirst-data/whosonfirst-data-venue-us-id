@@ -2,13 +2,14 @@
   "id": 169806343,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.791114,47.471198,-115.791114,47.471198",
     "geom:latitude":47.471198,
     "geom:longitude":-115.791114,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"807 Hunter St",
     "sg:city":"Mullan",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":169806343,
-    "wof:lastmodified":1449032678,
+    "wof:lastmodified":1466488437,
     "wof:name":"Gem State Specialists",
     "wof:parent_id":85849049,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "dealer"
     ]
 },
-  "bbox": [-115.791114,47.471198,-115.791114,47.471198],
-  "geometry": {"coordinates":[-115.791114,47.471198],"type":"Point"}
+  "bbox": [
+    -115.791114,
+    47.471198,
+    -115.791114,
+    47.471198
+],
+  "geometry": {"coordinates":[-115.79111399999999,47.471198],"type":"Point"}
 }

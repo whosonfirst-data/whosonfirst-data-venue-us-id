@@ -2,13 +2,14 @@
   "id": 186480007,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.754873,47.784329,-116.754873,47.784329",
     "geom:latitude":47.784329,
     "geom:longitude":-116.754873,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2128 E St James Ave",
     "sg:city":"Hayden",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":186480007,
-    "wof:lastmodified":1449051268,
+    "wof:lastmodified":1466488903,
     "wof:name":"Dew Rite Plumbing",
     "wof:parent_id":85821457,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "contractor"
     ]
 },
-  "bbox": [-116.754873,47.784329,-116.754873,47.784329],
+  "bbox": [
+    -116.754873,
+    47.784329,
+    -116.754873,
+    47.784329
+],
   "geometry": {"coordinates":[-116.754873,47.784329],"type":"Point"}
 }

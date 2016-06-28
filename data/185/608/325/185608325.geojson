@@ -2,13 +2,14 @@
   "id": 185608325,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.025193,43.503974,-112.025193,43.503974",
     "geom:latitude":43.503974,
     "geom:longitude":-112.025193,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"448 E Elva St",
     "sg:city":"Idaho Falls",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":185608325,
-    "wof:lastmodified":1449007296,
+    "wof:lastmodified":1466488422,
     "wof:name":"John Solis' Automotive Village",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "dealer"
     ]
 },
-  "bbox": [-112.025193,43.503974,-112.025193,43.503974],
+  "bbox": [
+    -112.025193,
+    43.503974,
+    -112.025193,
+    43.503974
+],
   "geometry": {"coordinates":[-112.025193,43.503974],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169767187,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.128251,42.555967,-114.128251,42.555967",
     "geom:latitude":42.555967,
     "geom:longitude":-114.128251,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1141 Airport Rd",
     "sg:city":"Hailey",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":169767187,
-    "wof:lastmodified":1449033624,
+    "wof:lastmodified":1466488439,
     "wof:name":"Byron's Welding",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "welding"
     ]
 },
-  "bbox": [-114.128251,42.555967,-114.128251,42.555967],
-  "geometry": {"coordinates":[-114.128251,42.555967],"type":"Point"}
+  "bbox": [
+    -114.128251,
+    42.555967,
+    -114.128251,
+    42.555967
+],
+  "geometry": {"coordinates":[-114.12825100000001,42.555967],"type":"Point"}
 }

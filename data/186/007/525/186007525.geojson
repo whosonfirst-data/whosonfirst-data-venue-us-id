@@ -2,13 +2,14 @@
   "id": 186007525,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-117.001384,46.38063,-117.001384,46.38063",
     "geom:latitude":46.38063,
     "geom:longitude":-117.001384,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"607 Bryden Ave",
     "sg:city":"Lewiston",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186007525,
-    "wof:lastmodified":1449052549,
+    "wof:lastmodified":1466488385,
     "wof:name":"Hot Shot Espresso",
     "wof:parent_id":85837769,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "espresso"
     ]
 },
-  "bbox": [-117.001384,46.38063,-117.001384,46.38063],
+  "bbox": [
+    -117.001384,
+    46.38063,
+    -117.001384,
+    46.38063
+],
   "geometry": {"coordinates":[-117.001384,46.38063],"type":"Point"}
 }

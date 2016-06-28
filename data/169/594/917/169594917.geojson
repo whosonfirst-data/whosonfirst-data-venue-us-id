@@ -2,13 +2,14 @@
   "id": 169594917,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.983958,43.519793,-111.983958,43.519793",
     "geom:latitude":43.519793,
     "geom:longitude":-111.983958,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2695 N 25th E",
     "sg:city":"Idaho Falls",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":169594917,
-    "wof:lastmodified":1449033166,
+    "wof:lastmodified":1466487253,
     "wof:name":"Cherry Glass & Aluminum Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "plate"
     ]
 },
-  "bbox": [-111.983958,43.519793,-111.983958,43.519793],
+  "bbox": [
+    -111.983958,
+    43.519793,
+    -111.983958,
+    43.519793
+],
   "geometry": {"coordinates":[-111.983958,43.519793],"type":"Point"}
 }

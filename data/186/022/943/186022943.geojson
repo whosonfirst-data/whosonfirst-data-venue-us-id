@@ -2,13 +2,14 @@
   "id": 186022943,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.238827,43.642444,-116.238827,43.642444",
     "geom:latitude":43.642444,
     "geom:longitude":-116.238827,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4022 W State St",
     "sg:city":"Boise",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":186022943,
-    "wof:lastmodified":1449051282,
+    "wof:lastmodified":1466486997,
     "wof:name":"Sports Fair",
     "wof:parent_id":85876339,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-116.238827,43.642444,-116.238827,43.642444],
+  "bbox": [
+    -116.238827,
+    43.642444,
+    -116.238827,
+    43.642444
+],
   "geometry": {"coordinates":[-116.238827,43.642444],"type":"Point"}
 }

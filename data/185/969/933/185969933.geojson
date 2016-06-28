@@ -2,13 +2,14 @@
   "id": 185969933,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.238443,43.624471,-116.238443,43.624471",
     "geom:latitude":43.624471,
     "geom:longitude":-116.238443,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"110 E 35th St",
     "sg:city":"Boise",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":185969933,
-    "wof:lastmodified":1449006999,
+    "wof:lastmodified":1466488794,
     "wof:name":"Boise Sales & Svc",
     "wof:parent_id":85876301,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "automobile"
     ]
 },
-  "bbox": [-116.238443,43.624471,-116.238443,43.624471],
+  "bbox": [
+    -116.238443,
+    43.624471,
+    -116.238443,
+    43.624471
+],
   "geometry": {"coordinates":[-116.238443,43.624471],"type":"Point"}
 }

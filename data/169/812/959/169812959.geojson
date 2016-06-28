@@ -2,13 +2,14 @@
   "id": 169812959,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.229582,43.631305,-116.229582,43.631305",
     "geom:latitude":43.631305,
     "geom:longitude":-116.229582,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3101 Moore St",
     "sg:city":"Boise",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":169812959,
-    "wof:lastmodified":1449032777,
+    "wof:lastmodified":1466488537,
     "wof:name":"Tim Claiborne Sprinkling",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "sprinkler"
     ]
 },
-  "bbox": [-116.229582,43.631305,-116.229582,43.631305],
-  "geometry": {"coordinates":[-116.229582,43.631305],"type":"Point"}
+  "bbox": [
+    -116.229582,
+    43.631305,
+    -116.229582,
+    43.631305
+],
+  "geometry": {"coordinates":[-116.22958199999999,43.631305],"type":"Point"}
 }

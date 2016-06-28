@@ -2,13 +2,14 @@
   "id": 186367043,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.207093,43.636259,-116.207093,43.636259",
     "geom:latitude":43.636259,
     "geom:longitude":-116.207093,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1915 N 16th St",
     "sg:city":"Boise",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186367043,
-    "wof:lastmodified":1449051954,
+    "wof:lastmodified":1466488756,
     "wof:name":"Sage Project  The",
     "wof:parent_id":85876313,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "coaching"
     ]
 },
-  "bbox": [-116.207093,43.636259,-116.207093,43.636259],
+  "bbox": [
+    -116.207093,
+    43.636259,
+    -116.207093,
+    43.636259
+],
   "geometry": {"coordinates":[-116.207093,43.636259],"type":"Point"}
 }

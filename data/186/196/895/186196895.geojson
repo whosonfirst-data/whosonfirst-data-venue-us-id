@@ -2,13 +2,14 @@
   "id": 186196895,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.022125,43.498645,-112.022125,43.498645",
     "geom:latitude":43.498645,
     "geom:longitude":-112.022125,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"542 Gladstone St",
     "sg:city":"Idaho Falls",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":186196895,
-    "wof:lastmodified":1449051002,
+    "wof:lastmodified":1466488496,
     "wof:name":"Metcalf Rentals",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "apartment"
     ]
 },
-  "bbox": [-112.022125,43.498645,-112.022125,43.498645],
+  "bbox": [
+    -112.022125,
+    43.498645,
+    -112.022125,
+    43.498645
+],
   "geometry": {"coordinates":[-112.022125,43.498645],"type":"Point"}
 }

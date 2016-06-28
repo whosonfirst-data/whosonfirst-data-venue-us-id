@@ -2,13 +2,14 @@
   "id": 169614857,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.789621,47.743697,-116.789621,47.743697",
     "geom:latitude":47.743697,
     "geom:longitude":-116.789621,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7900 Franklin St",
     "sg:city":"Coeur D Alene",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":169614857,
-    "wof:lastmodified":1449036058,
+    "wof:lastmodified":1466487035,
     "wof:name":"Eclipse Traffic Ctrl Flagging",
     "wof:parent_id":85821457,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-116.789621,47.743697,-116.789621,47.743697],
+  "bbox": [
+    -116.789621,
+    47.743697,
+    -116.789621,
+    47.743697
+],
   "geometry": {"coordinates":[-116.789621,47.743697],"type":"Point"}
 }

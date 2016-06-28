@@ -2,13 +2,14 @@
   "id": 185954853,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.269128,43.56244,-116.269128,43.56244",
     "geom:latitude":43.56244,
     "geom:longitude":-116.269128,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7310 Rim Acres Ln",
     "sg:city":"Boise",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":185954853,
-    "wof:lastmodified":1449008014,
+    "wof:lastmodified":1466488681,
     "wof:name":"Diversified Construction Mgt",
     "wof:parent_id":85825393,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-116.269128,43.56244,-116.269128,43.56244],
-  "geometry": {"coordinates":[-116.269128,43.56244],"type":"Point"}
+  "bbox": [
+    -116.269128,
+    43.56244,
+    -116.269128,
+    43.56244
+],
+  "geometry": {"coordinates":[-116.26912799999999,43.56244],"type":"Point"}
 }

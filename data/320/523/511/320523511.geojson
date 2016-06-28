@@ -2,13 +2,14 @@
   "id": 320523511,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.932876,46.361181,-116.932876,46.361181",
     "geom:latitude":46.361181,
     "geom:longitude":-116.932876,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1954 Allmon Dr",
     "sg:city":"Lewiston",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":320523511,
-    "wof:lastmodified":1449013413,
+    "wof:lastmodified":1466488301,
     "wof:name":"Yochum Plumbing",
     "wof:parent_id":85837769,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "contractors-commercial"
     ]
 },
-  "bbox": [-116.932876,46.361181,-116.932876,46.361181],
-  "geometry": {"coordinates":[-116.932876,46.361181],"type":"Point"}
+  "bbox": [
+    -116.932876,
+    46.361181,
+    -116.932876,
+    46.361181
+],
+  "geometry": {"coordinates":[-116.93287599999999,46.361181],"type":"Point"}
 }

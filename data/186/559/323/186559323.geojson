@@ -2,13 +2,14 @@
   "id": 186559323,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-113.803078,42.521392,-113.803078,42.521392",
     "geom:latitude":42.521392,
     "geom:longitude":-113.803078,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"801 Fairmont Dr",
     "sg:city":"Burley",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":186559323,
-    "wof:lastmodified":1449052412,
+    "wof:lastmodified":1466488897,
     "wof:name":"Earth & Water Works",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-113.803078,42.521392,-113.803078,42.521392],
+  "bbox": [
+    -113.803078,
+    42.521392,
+    -113.803078,
+    42.521392
+],
   "geometry": {"coordinates":[-113.803078,42.521392],"type":"Point"}
 }

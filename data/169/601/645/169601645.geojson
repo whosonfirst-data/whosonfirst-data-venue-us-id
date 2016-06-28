@@ -2,13 +2,14 @@
   "id": 169601645,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.213706,43.580151,-116.213706,43.580151",
     "geom:latitude":43.580151,
     "geom:longitude":-116.213706,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2447 Vista Ave",
     "sg:city":"Boise",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":169601645,
-    "wof:lastmodified":1449034147,
+    "wof:lastmodified":1466488336,
     "wof:name":"RGIS Inventory Specialist",
     "wof:parent_id":85876343,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "inventory"
     ]
 },
-  "bbox": [-116.213706,43.580151,-116.213706,43.580151],
+  "bbox": [
+    -116.213706,
+    43.580151,
+    -116.213706,
+    43.580151
+],
   "geometry": {"coordinates":[-116.213706,43.580151],"type":"Point"}
 }

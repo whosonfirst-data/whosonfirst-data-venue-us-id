@@ -2,13 +2,14 @@
   "id": 186125837,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.870243,42.604223,-114.870243,42.604223",
     "geom:latitude":42.604223,
     "geom:longitude":-114.870243,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4199 N 900 E",
     "sg:city":"Buhl",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":186125837,
-    "wof:lastmodified":1449052942,
+    "wof:lastmodified":1466488111,
     "wof:name":"Twin Falls County Solid Waste",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "program"
     ]
 },
-  "bbox": [-114.870243,42.604223,-114.870243,42.604223],
+  "bbox": [
+    -114.870243,
+    42.604223,
+    -114.870243,
+    42.604223
+],
   "geometry": {"coordinates":[-114.870243,42.604223],"type":"Point"}
 }

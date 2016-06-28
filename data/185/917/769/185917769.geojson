@@ -2,13 +2,14 @@
   "id": 185917769,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-113.766967,42.430916,-113.766967,42.430916",
     "geom:latitude":42.430916,
     "geom:longitude":-113.766967,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"140 E 700 S",
     "sg:city":"Burley",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":185917769,
-    "wof:lastmodified":1449008005,
+    "wof:lastmodified":1466488508,
     "wof:name":"M K Compact Tractors",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "equipment"
     ]
 },
-  "bbox": [-113.766967,42.430916,-113.766967,42.430916],
-  "geometry": {"coordinates":[-113.766967,42.430916],"type":"Point"}
+  "bbox": [
+    -113.766967,
+    42.430916,
+    -113.766967,
+    42.430916
+],
+  "geometry": {"coordinates":[-113.76696699999999,42.430916],"type":"Point"}
 }

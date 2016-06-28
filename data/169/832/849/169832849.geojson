@@ -2,13 +2,14 @@
   "id": 169832849,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.618066,43.575985,-116.618066,43.575985",
     "geom:latitude":43.575985,
     "geom:longitude":-116.618066,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"11228 Lone Star Rd",
     "sg:city":"Nampa",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":169832849,
-    "wof:lastmodified":1449032703,
+    "wof:lastmodified":1466488673,
     "wof:name":"Wilson Lawn Care",
     "wof:parent_id":85827787,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-116.618066,43.575985,-116.618066,43.575985],
+  "bbox": [
+    -116.618066,
+    43.575985,
+    -116.618066,
+    43.575985
+],
   "geometry": {"coordinates":[-116.618066,43.575985],"type":"Point"}
 }

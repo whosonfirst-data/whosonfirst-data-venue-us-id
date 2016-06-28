@@ -2,13 +2,14 @@
   "id": 186051431,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.797283,47.744451,-116.797283,47.744451",
     "geom:latitude":47.744451,
     "geom:longitude":-116.797283,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"827 W Prairie Ave",
     "sg:city":"Hayden",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":186051431,
-    "wof:lastmodified":1449052020,
+    "wof:lastmodified":1466487327,
     "wof:name":"Henry Griffitts",
     "wof:parent_id":85821457,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "supply"
     ]
 },
-  "bbox": [-116.797283,47.744451,-116.797283,47.744451],
-  "geometry": {"coordinates":[-116.797283,47.744451],"type":"Point"}
+  "bbox": [
+    -116.797283,
+    47.744451,
+    -116.797283,
+    47.744451
+],
+  "geometry": {"coordinates":[-116.79728299999999,47.744451],"type":"Point"}
 }

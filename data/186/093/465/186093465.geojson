@@ -2,13 +2,14 @@
   "id": 186093465,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.923801,43.64604,-111.923801,43.64604",
     "geom:latitude":43.64604,
     "geom:longitude":-111.923801,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"141 N 3900 E",
     "sg:city":"Rigby",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":186093465,
-    "wof:lastmodified":1449050258,
+    "wof:lastmodified":1466487793,
     "wof:name":"Richard Smith PI",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "private"
     ]
 },
-  "bbox": [-111.923801,43.64604,-111.923801,43.64604],
+  "bbox": [
+    -111.923801,
+    43.64604,
+    -111.923801,
+    43.64604
+],
   "geometry": {"coordinates":[-111.923801,43.64604],"type":"Point"}
 }

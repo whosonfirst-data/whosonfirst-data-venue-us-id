@@ -2,13 +2,14 @@
   "id": 185728551,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.032663,43.509496,-112.032663,43.509496",
     "geom:latitude":43.509496,
     "geom:longitude":-112.032663,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"155 E Crowley St",
     "sg:city":"Idaho Falls",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":185728551,
-    "wof:lastmodified":1449006987,
+    "wof:lastmodified":1466487749,
     "wof:name":"Migel's Metal Art",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "supply"
     ]
 },
-  "bbox": [-112.032663,43.509496,-112.032663,43.509496],
+  "bbox": [
+    -112.032663,
+    43.509496,
+    -112.032663,
+    43.509496
+],
   "geometry": {"coordinates":[-112.032663,43.509496],"type":"Point"}
 }

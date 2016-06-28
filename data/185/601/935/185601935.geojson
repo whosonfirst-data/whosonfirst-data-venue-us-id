@@ -2,13 +2,14 @@
   "id": 185601935,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.33489,43.698644,-116.33489,43.698644",
     "geom:latitude":43.698644,
     "geom:longitude":-116.33489,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"418 N Crestview Pl",
     "sg:city":"Eagle",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":185601935,
-    "wof:lastmodified":1449007334,
+    "wof:lastmodified":1466487364,
     "wof:name":"Klisha Krafts",
     "wof:parent_id":85876315,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "order"
     ]
 },
-  "bbox": [-116.33489,43.698644,-116.33489,43.698644],
+  "bbox": [
+    -116.33489,
+    43.698644,
+    -116.33489,
+    43.698644
+],
   "geometry": {"coordinates":[-116.33489,43.698644],"type":"Point"}
 }

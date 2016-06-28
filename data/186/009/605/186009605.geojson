@@ -2,13 +2,14 @@
   "id": 186009605,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.564956,43.58081,-116.564956,43.58081",
     "geom:latitude":43.58081,
     "geom:longitude":-116.564956,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"807 2nd St S",
     "sg:city":"Nampa",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186009605,
-    "wof:lastmodified":1449052981,
+    "wof:lastmodified":1466486851,
     "wof:name":"Boulevard Veterinary Clinic",
     "wof:parent_id":85827787,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "veterinarian"
     ]
 },
-  "bbox": [-116.564956,43.58081,-116.564956,43.58081],
+  "bbox": [
+    -116.564956,
+    43.58081,
+    -116.564956,
+    43.58081
+],
   "geometry": {"coordinates":[-116.564956,43.58081],"type":"Point"}
 }

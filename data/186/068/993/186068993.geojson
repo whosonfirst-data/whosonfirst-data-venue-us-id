@@ -2,13 +2,14 @@
   "id": 186068993,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.798518,47.69679,-116.798518,47.69679",
     "geom:latitude":47.69679,
     "geom:longitude":-116.798518,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2207 Ironwood Pl",
     "sg:city":"Coeur D Alene",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":186068993,
-    "wof:lastmodified":1449051752,
+    "wof:lastmodified":1466487530,
     "wof:name":"Adolescent & Adult Health Care",
     "wof:parent_id":85821457,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "surgeon"
     ]
 },
-  "bbox": [-116.798518,47.69679,-116.798518,47.69679],
+  "bbox": [
+    -116.798518,
+    47.69679,
+    -116.798518,
+    47.69679
+],
   "geometry": {"coordinates":[-116.798518,47.69679],"type":"Point"}
 }

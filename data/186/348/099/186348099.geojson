@@ -2,13 +2,14 @@
   "id": 186348099,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.830532,43.78282,-111.830532,43.78282",
     "geom:latitude":43.78282,
     "geom:longitude":-111.830532,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2646 W 3200 S",
     "sg:city":"Rexburg",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":186348099,
-    "wof:lastmodified":1449050393,
+    "wof:lastmodified":1466488829,
     "wof:name":"Passey Painting",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "contractor"
     ]
 },
-  "bbox": [-111.830532,43.78282,-111.830532,43.78282],
-  "geometry": {"coordinates":[-111.830532,43.78282],"type":"Point"}
+  "bbox": [
+    -111.830532,
+    43.78282,
+    -111.830532,
+    43.78282
+],
+  "geometry": {"coordinates":[-111.83053200000001,43.78282],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186056845,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.565851,48.280208,-116.565851,48.280208",
     "geom:latitude":48.280208,
     "geom:longitude":-116.565851,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"704 Washington Ave",
     "sg:city":"Sandpoint",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186056845,
-    "wof:lastmodified":1449051140,
+    "wof:lastmodified":1466487392,
     "wof:name":"Case Basket",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "cotton"
     ]
 },
-  "bbox": [-116.565851,48.280208,-116.565851,48.280208],
-  "geometry": {"coordinates":[-116.565851,48.280208],"type":"Point"}
+  "bbox": [
+    -116.565851,
+    48.280208,
+    -116.565851,
+    48.280208
+],
+  "geometry": {"coordinates":[-116.56585099999999,48.280208],"type":"Point"}
 }

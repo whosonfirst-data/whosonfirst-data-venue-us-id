@@ -2,13 +2,14 @@
   "id": 186218521,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.01256,43.720638,-112.01256,43.720638",
     "geom:latitude":43.720638,
     "geom:longitude":-112.01256,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3449 E 650 N",
     "sg:city":"Menan",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":186218521,
-    "wof:lastmodified":1449052076,
+    "wof:lastmodified":1466488530,
     "wof:name":"Christines Country Cuts",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "shop"
     ]
 },
-  "bbox": [-112.01256,43.720638,-112.01256,43.720638],
-  "geometry": {"coordinates":[-112.01256,43.720638],"type":"Point"}
+  "bbox": [
+    -112.01256,
+    43.720638,
+    -112.01256,
+    43.720638
+],
+  "geometry": {"coordinates":[-112.01255999999999,43.720638],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169810921,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.6982,43.655976,-116.6982,43.655976",
     "geom:latitude":43.655976,
     "geom:longitude":-116.6982,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1620 S Kimball Ave",
     "sg:city":"Caldwell",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":169810921,
-    "wof:lastmodified":1449033645,
+    "wof:lastmodified":1466488532,
     "wof:name":"Caldwell Urology",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "surgeon"
     ]
 },
-  "bbox": [-116.6982,43.655976,-116.6982,43.655976],
+  "bbox": [
+    -116.6982,
+    43.655976,
+    -116.6982,
+    43.655976
+],
   "geometry": {"coordinates":[-116.6982,43.655976],"type":"Point"}
 }

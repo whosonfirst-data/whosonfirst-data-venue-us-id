@@ -2,13 +2,14 @@
   "id": 186302841,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.321955,43.576356,-116.321955,43.576356",
     "geom:latitude":43.576356,
     "geom:longitude":-116.321955,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"11044 Peconic Dr",
     "sg:city":"Boise",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":186302841,
-    "wof:lastmodified":1449051290,
+    "wof:lastmodified":1466488596,
     "wof:name":"Creative Metal",
     "wof:parent_id":85876331,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "welding"
     ]
 },
-  "bbox": [-116.321955,43.576356,-116.321955,43.576356],
+  "bbox": [
+    -116.321955,
+    43.576356,
+    -116.321955,
+    43.576356
+],
   "geometry": {"coordinates":[-116.321955,43.576356],"type":"Point"}
 }

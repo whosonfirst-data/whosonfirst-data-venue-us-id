@@ -2,13 +2,14 @@
   "id": 185959987,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.593179,43.869813,-116.593179,43.869813",
     "geom:latitude":43.869813,
     "geom:longitude":-116.593179,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2119 Toms Cabin Rd",
     "sg:city":"Emmett",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":185959987,
-    "wof:lastmodified":1449008060,
+    "wof:lastmodified":1466488692,
     "wof:name":"Ed Hill Clinic",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "veterinarian"
     ]
 },
-  "bbox": [-116.593179,43.869813,-116.593179,43.869813],
-  "geometry": {"coordinates":[-116.593179,43.869813],"type":"Point"}
+  "bbox": [
+    -116.593179,
+    43.869813,
+    -116.593179,
+    43.869813
+],
+  "geometry": {"coordinates":[-116.59317900000001,43.869813],"type":"Point"}
 }

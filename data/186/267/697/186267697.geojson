@@ -2,13 +2,14 @@
   "id": 186267697,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.786463,47.775485,-116.786463,47.775485",
     "geom:latitude":47.775485,
     "geom:longitude":-116.786463,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"11323 N Government Way",
     "sg:city":"Hayden",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":186267697,
-    "wof:lastmodified":1449052781,
+    "wof:lastmodified":1466488624,
     "wof:name":"Cedar Etc",
     "wof:parent_id":85821457,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-116.786463,47.775485,-116.786463,47.775485],
+  "bbox": [
+    -116.786463,
+    47.775485,
+    -116.786463,
+    47.775485
+],
   "geometry": {"coordinates":[-116.786463,47.775485],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169626017,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.229583,43.571632,-116.229583,43.571632",
     "geom:latitude":43.571632,
     "geom:longitude":-116.229583,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3657 W Wright St",
     "sg:city":"Boise",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":169626017,
-    "wof:lastmodified":1449035970,
+    "wof:lastmodified":1466487213,
     "wof:name":"Sonitrol",
     "wof:parent_id":85876337,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "system"
     ]
 },
-  "bbox": [-116.229583,43.571632,-116.229583,43.571632],
-  "geometry": {"coordinates":[-116.229583,43.571632],"type":"Point"}
+  "bbox": [
+    -116.229583,
+    43.571632,
+    -116.229583,
+    43.571632
+],
+  "geometry": {"coordinates":[-116.22958300000001,43.571632],"type":"Point"}
 }

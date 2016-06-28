@@ -2,13 +2,14 @@
   "id": 186383487,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.588185,43.590309,-116.588185,43.590309",
     "geom:latitude":43.590309,
     "geom:longitude":-116.588185,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"519 N Horton St",
     "sg:city":"Nampa",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":186383487,
-    "wof:lastmodified":1449051512,
+    "wof:lastmodified":1466488844,
     "wof:name":"Kimura Lawn Svc",
     "wof:parent_id":85827787,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "grounds"
     ]
 },
-  "bbox": [-116.588185,43.590309,-116.588185,43.590309],
+  "bbox": [
+    -116.588185,
+    43.590309,
+    -116.588185,
+    43.590309
+],
   "geometry": {"coordinates":[-116.588185,43.590309],"type":"Point"}
 }

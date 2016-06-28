@@ -2,13 +2,14 @@
   "id": 186074353,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.279249,43.666747,-116.279249,43.666747",
     "geom:latitude":43.666747,
     "geom:longitude":-116.279249,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6724 Glenwood St",
     "sg:city":"Boise",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":186074353,
-    "wof:lastmodified":1449051828,
+    "wof:lastmodified":1466487591,
     "wof:name":"Michael's Mattress Express",
     "wof:parent_id":85876315,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "mattress"
     ]
 },
-  "bbox": [-116.279249,43.666747,-116.279249,43.666747],
-  "geometry": {"coordinates":[-116.279249,43.666747],"type":"Point"}
+  "bbox": [
+    -116.279249,
+    43.666747,
+    -116.279249,
+    43.666747
+],
+  "geometry": {"coordinates":[-116.27924899999999,43.666747],"type":"Point"}
 }

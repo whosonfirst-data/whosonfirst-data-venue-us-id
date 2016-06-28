@@ -2,13 +2,14 @@
   "id": 185903689,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.426607,42.556355,-114.426607,42.556355",
     "geom:latitude":42.556355,
     "geom:longitude":-114.426607,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2770 Cochise Cir",
     "sg:city":"Twin Falls",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":185903689,
-    "wof:lastmodified":1449006692,
+    "wof:lastmodified":1466488565,
     "wof:name":"Connection In Catv LLC",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "television"
     ]
 },
-  "bbox": [-114.426607,42.556355,-114.426607,42.556355],
+  "bbox": [
+    -114.426607,
+    42.556355,
+    -114.426607,
+    42.556355
+],
   "geometry": {"coordinates":[-114.426607,42.556355],"type":"Point"}
 }

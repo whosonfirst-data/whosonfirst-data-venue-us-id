@@ -2,13 +2,14 @@
   "id": 320523981,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.954157,46.376673,-116.954157,46.376673",
     "geom:latitude":46.376673,
     "geom:longitude":-116.954157,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1508 Burrell Ave",
     "sg:city":"Lewiston",
     "sg:classifiers":[
@@ -62,10 +63,11 @@
         }
     ],
     "wof:id":320523981,
-    "wof:lastmodified":1449013414,
+    "wof:lastmodified":1466488310,
     "wof:name":"Rick C Taylor",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -73,6 +75,11 @@
         "contractor"
     ]
 },
-  "bbox": [-116.954157,46.376673,-116.954157,46.376673],
+  "bbox": [
+    -116.954157,
+    46.376673,
+    -116.954157,
+    46.376673
+],
   "geometry": {"coordinates":[-116.954157,46.376673],"type":"Point"}
 }

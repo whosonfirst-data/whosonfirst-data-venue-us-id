@@ -2,13 +2,14 @@
   "id": 185940041,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.192161,43.597299,-116.192161,43.597299",
     "geom:latitude":43.597299,
     "geom:longitude":-116.192161,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1212 Longmont Ave",
     "sg:city":"Boise",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":185940041,
-    "wof:lastmodified":1449007010,
+    "wof:lastmodified":1466488719,
     "wof:name":"Parkcenter Place Residential",
     "wof:parent_id":85876345,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "residential"
     ]
 },
-  "bbox": [-116.192161,43.597299,-116.192161,43.597299],
+  "bbox": [
+    -116.192161,
+    43.597299,
+    -116.192161,
+    43.597299
+],
   "geometry": {"coordinates":[-116.192161,43.597299],"type":"Point"}
 }

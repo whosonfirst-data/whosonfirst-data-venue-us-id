@@ -2,13 +2,14 @@
   "id": 169612289,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.500095,43.871745,-116.500095,43.871745",
     "geom:latitude":43.871745,
     "geom:longitude":-116.500095,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"519 S Washington Ave",
     "sg:city":"Emmett",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":169612289,
-    "wof:lastmodified":1449034131,
+    "wof:lastmodified":1466486995,
     "wof:name":"All Time Construction",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-116.500095,43.871745,-116.500095,43.871745],
+  "bbox": [
+    -116.500095,
+    43.871745,
+    -116.500095,
+    43.871745
+],
   "geometry": {"coordinates":[-116.500095,43.871745],"type":"Point"}
 }

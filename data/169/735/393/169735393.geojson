@@ -2,13 +2,14 @@
   "id": 169735393,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.279725,43.619362,-116.279725,43.619362",
     "geom:latitude":43.619362,
     "geom:longitude":-116.279725,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7807 Fairview Ave",
     "sg:city":"Boise",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":169735393,
-    "wof:lastmodified":1449035889,
+    "wof:lastmodified":1466488304,
     "wof:name":"Monument Camera & Video",
     "wof:parent_id":85841319,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "supply"
     ]
 },
-  "bbox": [-116.279725,43.619362,-116.279725,43.619362],
+  "bbox": [
+    -116.279725,
+    43.619362,
+    -116.279725,
+    43.619362
+],
   "geometry": {"coordinates":[-116.279725,43.619362],"type":"Point"}
 }

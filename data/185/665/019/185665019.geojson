@@ -2,13 +2,14 @@
   "id": 185665019,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.838375,47.728365,-116.838375,47.728365",
     "geom:latitude":47.728365,
     "geom:longitude":-116.838375,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4907 Industrial Ave E",
     "sg:city":"Coeur D Alene",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":185665019,
-    "wof:lastmodified":1449007099,
+    "wof:lastmodified":1466487252,
     "wof:name":"Boyd Street Anvil Inc",
     "wof:parent_id":85821457,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "metal"
     ]
 },
-  "bbox": [-116.838375,47.728365,-116.838375,47.728365],
+  "bbox": [
+    -116.838375,
+    47.728365,
+    -116.838375,
+    47.728365
+],
   "geometry": {"coordinates":[-116.838375,47.728365],"type":"Point"}
 }

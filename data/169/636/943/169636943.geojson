@@ -2,13 +2,14 @@
   "id": 169636943,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.748519,47.783299,-116.748519,47.783299",
     "geom:latitude":47.783299,
     "geom:longitude":-116.748519,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"12333 N Sherwood Ct",
     "sg:city":"Hayden",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":169636943,
-    "wof:lastmodified":1449033987,
+    "wof:lastmodified":1466487389,
     "wof:name":"Dish Links Inc",
     "wof:parent_id":85821457,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "system"
     ]
 },
-  "bbox": [-116.748519,47.783299,-116.748519,47.783299],
+  "bbox": [
+    -116.748519,
+    47.783299,
+    -116.748519,
+    47.783299
+],
   "geometry": {"coordinates":[-116.748519,47.783299],"type":"Point"}
 }

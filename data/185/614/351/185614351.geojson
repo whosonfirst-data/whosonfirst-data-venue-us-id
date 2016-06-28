@@ -2,13 +2,14 @@
   "id": 185614351,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.832302,47.7249,-116.832302,47.7249",
     "geom:latitude":47.7249,
     "geom:longitude":-116.832302,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4885 Industrial Pl",
     "sg:city":"Coeur D Alene",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":185614351,
-    "wof:lastmodified":1449008271,
+    "wof:lastmodified":1466486872,
     "wof:name":"Schuon Manufacturing Co Inc",
     "wof:parent_id":85821457,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "construction"
     ]
 },
-  "bbox": [-116.832302,47.7249,-116.832302,47.7249],
+  "bbox": [
+    -116.832302,
+    47.7249,
+    -116.832302,
+    47.7249
+],
   "geometry": {"coordinates":[-116.832302,47.7249],"type":"Point"}
 }

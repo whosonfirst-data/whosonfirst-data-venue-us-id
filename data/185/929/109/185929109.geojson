@@ -2,13 +2,14 @@
   "id": 185929109,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.253661,43.602366,-116.253661,43.602366",
     "geom:latitude":43.602366,
     "geom:longitude":-116.253661,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"222 S Curtis Rd",
     "sg:city":"Boise",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":185929109,
-    "wof:lastmodified":1449007227,
+    "wof:lastmodified":1466488696,
     "wof:name":"Pinup Beauty Shop",
     "wof:parent_id":85806577,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "shop"
     ]
 },
-  "bbox": [-116.253661,43.602366,-116.253661,43.602366],
-  "geometry": {"coordinates":[-116.253661,43.602366],"type":"Point"}
+  "bbox": [
+    -116.253661,
+    43.602366,
+    -116.253661,
+    43.602366
+],
+  "geometry": {"coordinates":[-116.25366099999999,43.602366],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169602005,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.001335,43.511308,-112.001335,43.511308",
     "geom:latitude":43.511308,
     "geom:longitude":-112.001335,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1585 E Lincoln Rd",
     "sg:city":"Idaho Falls",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":169602005,
-    "wof:lastmodified":1449034229,
+    "wof:lastmodified":1466486831,
     "wof:name":"Eldon Halford's House Of Color",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "painting"
     ]
 },
-  "bbox": [-112.001335,43.511308,-112.001335,43.511308],
+  "bbox": [
+    -112.001335,
+    43.511308,
+    -112.001335,
+    43.511308
+],
   "geometry": {"coordinates":[-112.001335,43.511308],"type":"Point"}
 }

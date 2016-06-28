@@ -2,13 +2,14 @@
   "id": 169600665,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.249576,43.62779,-116.249576,43.62779",
     "geom:latitude":43.62779,
     "geom:longitude":-116.249576,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"208 W 40th St",
     "sg:city":"Boise",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":169600665,
-    "wof:lastmodified":1449032969,
+    "wof:lastmodified":1466488323,
     "wof:name":"Forever Green",
     "wof:parent_id":85876311,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "grounds"
     ]
 },
-  "bbox": [-116.249576,43.62779,-116.249576,43.62779],
+  "bbox": [
+    -116.249576,
+    43.62779,
+    -116.249576,
+    43.62779
+],
   "geometry": {"coordinates":[-116.249576,43.62779],"type":"Point"}
 }

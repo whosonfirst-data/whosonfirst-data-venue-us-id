@@ -2,13 +2,14 @@
   "id": 185602943,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.796129,47.698234,-116.796129,47.698234",
     "geom:latitude":47.698234,
     "geom:longitude":-116.796129,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2120 W Ironwood Center Dr",
     "sg:city":"Coeur D Alene",
     "sg:classifiers":[
@@ -58,14 +59,20 @@
         }
     ],
     "wof:id":185602943,
-    "wof:lastmodified":1449007365,
+    "wof:lastmodified":1466487828,
     "wof:name":"Ironwood Medical Supl & Oxygen",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-116.796129,47.698234,-116.796129,47.698234],
-  "geometry": {"coordinates":[-116.796129,47.698234],"type":"Point"}
+  "bbox": [
+    -116.796129,
+    47.698234,
+    -116.796129,
+    47.698234
+],
+  "geometry": {"coordinates":[-116.79612899999999,47.698234],"type":"Point"}
 }

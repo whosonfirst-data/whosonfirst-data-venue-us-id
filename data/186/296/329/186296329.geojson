@@ -2,13 +2,14 @@
   "id": 186296329,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.88977,47.713666,-116.88977,47.713666",
     "geom:latitude":47.713666,
     "geom:longitude":-116.88977,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4125 E Inverness Dr",
     "sg:city":"Post Falls",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":186296329,
-    "wof:lastmodified":1449052513,
+    "wof:lastmodified":1466488667,
     "wof:name":"CLC Inc",
     "wof:parent_id":85821457,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "eating"
     ]
 },
-  "bbox": [-116.88977,47.713666,-116.88977,47.713666],
+  "bbox": [
+    -116.88977,
+    47.713666,
+    -116.88977,
+    47.713666
+],
   "geometry": {"coordinates":[-116.88977,47.713666],"type":"Point"}
 }

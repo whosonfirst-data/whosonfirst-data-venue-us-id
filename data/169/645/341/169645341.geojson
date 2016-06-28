@@ -2,13 +2,14 @@
   "id": 169645341,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-113.724737,42.602469,-113.724737,42.602469",
     "geom:latitude":42.602469,
     "geom:longitude":-113.724737,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"120 S 300 W",
     "sg:city":"Rupert",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":169645341,
-    "wof:lastmodified":1449033007,
+    "wof:lastmodified":1466487516,
     "wof:name":"KART",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "broadcasting"
     ]
 },
-  "bbox": [-113.724737,42.602469,-113.724737,42.602469],
+  "bbox": [
+    -113.724737,
+    42.602469,
+    -113.724737,
+    42.602469
+],
   "geometry": {"coordinates":[-113.724737,42.602469],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186489881,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.308483,48.695077,-116.308483,48.695077",
     "geom:latitude":48.695077,
     "geom:longitude":-116.308483,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7084 Ash St",
     "sg:city":"Bonners Ferry",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":186489881,
-    "wof:lastmodified":1449051848,
+    "wof:lastmodified":1466488907,
     "wof:name":"Barbara Rawlings",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "midwife"
     ]
 },
-  "bbox": [-116.308483,48.695077,-116.308483,48.695077],
+  "bbox": [
+    -116.308483,
+    48.695077,
+    -116.308483,
+    48.695077
+],
   "geometry": {"coordinates":[-116.308483,48.695077],"type":"Point"}
 }

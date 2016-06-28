@@ -2,13 +2,14 @@
   "id": 186110431,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.261902,46.489723,-116.261902,46.489723",
     "geom:latitude":46.489723,
     "geom:longitude":-116.261902,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"23 Hospital Dr",
     "sg:city":"Orofino",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186110431,
-    "wof:lastmodified":1449051273,
+    "wof:lastmodified":1466487969,
     "wof:name":"Corrections Dept Institute",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "institution"
     ]
 },
-  "bbox": [-116.261902,46.489723,-116.261902,46.489723],
-  "geometry": {"coordinates":[-116.261902,46.489723],"type":"Point"}
+  "bbox": [
+    -116.261902,
+    46.489723,
+    -116.261902,
+    46.489723
+],
+  "geometry": {"coordinates":[-116.26190200000001,46.489723],"type":"Point"}
 }

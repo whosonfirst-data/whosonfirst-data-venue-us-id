@@ -2,13 +2,14 @@
   "id": 186066007,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.95848,44.244189,-116.95848,44.244189",
     "geom:latitude":44.244189,
     "geom:longitude":-116.95848,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"229 E 7th St",
     "sg:city":"Weiser",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186066007,
-    "wof:lastmodified":1449051159,
+    "wof:lastmodified":1466487496,
     "wof:name":"Gateway Rv Park",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "vehicle"
     ]
 },
-  "bbox": [-116.95848,44.244189,-116.95848,44.244189],
-  "geometry": {"coordinates":[-116.95848,44.244189],"type":"Point"}
+  "bbox": [
+    -116.95848,
+    44.244189,
+    -116.95848,
+    44.244189
+],
+  "geometry": {"coordinates":[-116.95847999999999,44.244189],"type":"Point"}
 }

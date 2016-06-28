@@ -2,13 +2,14 @@
   "id": 186444925,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.19325,43.615033,-116.19325,43.615033",
     "geom:latitude":43.615033,
     "geom:longitude":-116.19325,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"122 W State St",
     "sg:city":"Boise",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186444925,
-    "wof:lastmodified":1449052649,
+    "wof:lastmodified":1466488819,
     "wof:name":"Above & Beyond",
     "wof:parent_id":85876345,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "entertainer"
     ]
 },
-  "bbox": [-116.19325,43.615033,-116.19325,43.615033],
-  "geometry": {"coordinates":[-116.19325,43.615033],"type":"Point"}
+  "bbox": [
+    -116.19325,
+    43.615033,
+    -116.19325,
+    43.615033
+],
+  "geometry": {"coordinates":[-116.19325000000001,43.615033],"type":"Point"}
 }

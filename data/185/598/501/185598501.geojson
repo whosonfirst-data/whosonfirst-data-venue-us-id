@@ -2,13 +2,14 @@
   "id": 185598501,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.423748,43.609771,-116.423748,43.609771",
     "geom:latitude":43.609771,
     "geom:longitude":-116.423748,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2381 W Snyder St",
     "sg:city":"Meridian",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":185598501,
-    "wof:lastmodified":1449006669,
+    "wof:lastmodified":1466488180,
     "wof:name":"Pride Line Striping",
     "wof:parent_id":85805083,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-116.423748,43.609771,-116.423748,43.609771],
+  "bbox": [
+    -116.423748,
+    43.609771,
+    -116.423748,
+    43.609771
+],
   "geometry": {"coordinates":[-116.423748,43.609771],"type":"Point"}
 }

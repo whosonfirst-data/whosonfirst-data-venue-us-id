@@ -2,13 +2,14 @@
   "id": 186445713,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.784001,47.674423,-116.784001,47.674423",
     "geom:latitude":47.674423,
     "geom:longitude":-116.784001,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"209 E Lakeside Ave",
     "sg:city":"Coeur D Alene",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186445713,
-    "wof:lastmodified":1449050693,
+    "wof:lastmodified":1466488817,
     "wof:name":"Coeur D'Alene Brewing Co",
     "wof:parent_id":85821457,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "brewer"
     ]
 },
-  "bbox": [-116.784001,47.674423,-116.784001,47.674423],
+  "bbox": [
+    -116.784001,
+    47.674423,
+    -116.784001,
+    47.674423
+],
   "geometry": {"coordinates":[-116.784001,47.674423],"type":"Point"}
 }

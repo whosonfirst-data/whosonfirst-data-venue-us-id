@@ -2,13 +2,14 @@
   "id": 169823987,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.586089,43.543469,-116.586089,43.543469",
     "geom:latitude":43.543469,
     "geom:longitude":-116.586089,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"725 Parkside Way",
     "sg:city":"Nampa",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":169823987,
-    "wof:lastmodified":1449035935,
+    "wof:lastmodified":1466488566,
     "wof:name":"Larry Miller Pontiac",
     "wof:parent_id":85827787,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-116.586089,43.543469,-116.586089,43.543469],
+  "bbox": [
+    -116.586089,
+    43.543469,
+    -116.586089,
+    43.543469
+],
   "geometry": {"coordinates":[-116.586089,43.543469],"type":"Point"}
 }

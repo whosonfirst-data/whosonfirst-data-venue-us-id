@@ -2,13 +2,14 @@
   "id": 185790583,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.780864,47.681216,-116.780864,47.681216",
     "geom:latitude":47.681216,
     "geom:longitude":-116.780864,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"848 N 4th St",
     "sg:city":"Coeur D Alene",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":185790583,
-    "wof:lastmodified":1449007858,
+    "wof:lastmodified":1466488237,
     "wof:name":"Women's Center Thrift",
     "wof:parent_id":85821457,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "hand"
     ]
 },
-  "bbox": [-116.780864,47.681216,-116.780864,47.681216],
-  "geometry": {"coordinates":[-116.780864,47.681216],"type":"Point"}
+  "bbox": [
+    -116.780864,
+    47.681216,
+    -116.780864,
+    47.681216
+],
+  "geometry": {"coordinates":[-116.78086399999999,47.681216],"type":"Point"}
 }

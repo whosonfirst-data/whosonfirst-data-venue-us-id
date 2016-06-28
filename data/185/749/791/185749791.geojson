@@ -2,13 +2,14 @@
   "id": 185749791,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.916549,47.703629,-116.916549,47.703629",
     "geom:latitude":47.703629,
     "geom:longitude":-116.916549,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"16 Forest Ln",
     "sg:city":"Post Falls",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":185749791,
-    "wof:lastmodified":1449007074,
+    "wof:lastmodified":1466487921,
     "wof:name":"Specialty Contractors Inc",
     "wof:parent_id":85833263,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "removal"
     ]
 },
-  "bbox": [-116.916549,47.703629,-116.916549,47.703629],
+  "bbox": [
+    -116.916549,
+    47.703629,
+    -116.916549,
+    47.703629
+],
   "geometry": {"coordinates":[-116.916549,47.703629],"type":"Point"}
 }

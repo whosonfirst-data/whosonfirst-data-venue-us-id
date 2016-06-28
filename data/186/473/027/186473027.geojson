@@ -2,13 +2,14 @@
   "id": 186473027,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.572602,48.276094,-116.572602,48.276094",
     "geom:latitude":48.276094,
     "geom:longitude":-116.572602,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1718 Cedar St",
     "sg:city":"Sandpoint",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":186473027,
-    "wof:lastmodified":1449050964,
+    "wof:lastmodified":1466488899,
     "wof:name":"Courtney B Sanborn",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "masonry"
     ]
 },
-  "bbox": [-116.572602,48.276094,-116.572602,48.276094],
+  "bbox": [
+    -116.572602,
+    48.276094,
+    -116.572602,
+    48.276094
+],
   "geometry": {"coordinates":[-116.572602,48.276094],"type":"Point"}
 }

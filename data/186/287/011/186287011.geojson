@@ -2,13 +2,14 @@
   "id": 186287011,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.767687,47.719087,-116.767687,47.719087",
     "geom:latitude":47.719087,
     "geom:longitude":-116.767687,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4943 N Coulson St",
     "sg:city":"Coeur D Alene",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":186287011,
-    "wof:lastmodified":1449050425,
+    "wof:lastmodified":1466488568,
     "wof:name":"Forest Consulting Services",
     "wof:parent_id":85821457,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "business"
     ]
 },
-  "bbox": [-116.767687,47.719087,-116.767687,47.719087],
+  "bbox": [
+    -116.767687,
+    47.719087,
+    -116.767687,
+    47.719087
+],
   "geometry": {"coordinates":[-116.767687,47.719087],"type":"Point"}
 }

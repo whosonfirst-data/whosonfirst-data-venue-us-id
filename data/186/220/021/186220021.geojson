@@ -2,13 +2,14 @@
   "id": 186220021,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.235277,42.230532,-112.235277,42.230532",
     "geom:latitude":42.230532,
     "geom:longitude":-112.235277,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3375 N Deep Creek Rd",
     "sg:city":"Malad City",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":186220021,
-    "wof:lastmodified":1449052939,
+    "wof:lastmodified":1466488467,
     "wof:name":"Country Lane Storage",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "storage"
     ]
 },
-  "bbox": [-112.235277,42.230532,-112.235277,42.230532],
+  "bbox": [
+    -112.235277,
+    42.230532,
+    -112.235277,
+    42.230532
+],
   "geometry": {"coordinates":[-112.235277,42.230532],"type":"Point"}
 }

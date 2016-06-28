@@ -2,13 +2,14 @@
   "id": 185697291,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.274175,43.640332,-116.274175,43.640332",
     "geom:latitude":43.640332,
     "geom:longitude":-116.274175,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3988 N Cole Rd",
     "sg:city":"Boise",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":185697291,
-    "wof:lastmodified":1449007616,
+    "wof:lastmodified":1466487501,
     "wof:name":"Cunningham Financial Corp",
     "wof:parent_id":85876349,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "broker"
     ]
 },
-  "bbox": [-116.274175,43.640332,-116.274175,43.640332],
+  "bbox": [
+    -116.274175,
+    43.640332,
+    -116.274175,
+    43.640332
+],
   "geometry": {"coordinates":[-116.274175,43.640332],"type":"Point"}
 }

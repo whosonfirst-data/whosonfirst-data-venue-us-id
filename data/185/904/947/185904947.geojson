@@ -2,13 +2,14 @@
   "id": 185904947,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.817085,43.717981,-111.817085,43.717981",
     "geom:latitude":43.717981,
     "geom:longitude":-111.817085,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7631 S 2000 W",
     "sg:city":"Rexburg",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":185904947,
-    "wof:lastmodified":1449008256,
+    "wof:lastmodified":1466488566,
     "wof:name":"Nolas Gntle Tuch Pet Grooming",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.817085,43.717981,-111.817085,43.717981],
-  "geometry": {"coordinates":[-111.817085,43.717981],"type":"Point"}
+  "bbox": [
+    -111.817085,
+    43.717981,
+    -111.817085,
+    43.717981
+],
+  "geometry": {"coordinates":[-111.81708500000001,43.717981],"type":"Point"}
 }

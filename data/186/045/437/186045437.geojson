@@ -2,13 +2,14 @@
   "id": 186045437,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.313934,43.683883,-116.313934,43.683883",
     "geom:latitude":43.683883,
     "geom:longitude":-116.313934,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7660 Horseshoe Bend Rd",
     "sg:city":"Boise",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":186045437,
-    "wof:lastmodified":1449052706,
+    "wof:lastmodified":1466487263,
     "wof:name":"Idaho Onsite Printer Svc",
     "wof:parent_id":85876315,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "printer"
     ]
 },
-  "bbox": [-116.313934,43.683883,-116.313934,43.683883],
+  "bbox": [
+    -116.313934,
+    43.683883,
+    -116.313934,
+    43.683883
+],
   "geometry": {"coordinates":[-116.313934,43.683883],"type":"Point"}
 }

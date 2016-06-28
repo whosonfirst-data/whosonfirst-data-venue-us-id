@@ -2,13 +2,14 @@
   "id": 186030285,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.973879,42.151735,-111.973879,42.151735",
     "geom:latitude":42.151735,
     "geom:longitude":-111.973879,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3009 N 4000 W",
     "sg:city":"Dayton",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":186030285,
-    "wof:lastmodified":1449051368,
+    "wof:lastmodified":1466487083,
     "wof:name":"Kent Howell",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "cattle"
     ]
 },
-  "bbox": [-111.973879,42.151735,-111.973879,42.151735],
+  "bbox": [
+    -111.973879,
+    42.151735,
+    -111.973879,
+    42.151735
+],
   "geometry": {"coordinates":[-111.973879,42.151735],"type":"Point"}
 }

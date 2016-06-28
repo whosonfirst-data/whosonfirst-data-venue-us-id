@@ -2,13 +2,14 @@
   "id": 186145685,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.834587,47.724211,-116.834587,47.724211",
     "geom:latitude":47.724211,
     "geom:longitude":-116.834587,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3803 Industrial Ave S",
     "sg:city":"Coeur D Alene",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186145685,
-    "wof:lastmodified":1449051196,
+    "wof:lastmodified":1466488275,
     "wof:name":"Tesh Inc",
     "wof:parent_id":85821457,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "rehabilitation"
     ]
 },
-  "bbox": [-116.834587,47.724211,-116.834587,47.724211],
+  "bbox": [
+    -116.834587,
+    47.724211,
+    -116.834587,
+    47.724211
+],
   "geometry": {"coordinates":[-116.834587,47.724211],"type":"Point"}
 }

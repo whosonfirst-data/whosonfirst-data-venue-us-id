@@ -2,13 +2,14 @@
   "id": 186469433,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.011569,44.828436,-116.011569,44.828436",
     "geom:latitude":44.828436,
     "geom:longitude":-116.011569,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"159 Silver Fox Trl",
     "sg:city":"Mccall",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":186469433,
-    "wof:lastmodified":1449053083,
+    "wof:lastmodified":1466488773,
     "wof:name":"G & S Hardwood Flooring",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "contractor"
     ]
 },
-  "bbox": [-116.011569,44.828436,-116.011569,44.828436],
-  "geometry": {"coordinates":[-116.011569,44.828436],"type":"Point"}
+  "bbox": [
+    -116.011569,
+    44.828436,
+    -116.011569,
+    44.828436
+],
+  "geometry": {"coordinates":[-116.01156899999999,44.828436],"type":"Point"}
 }

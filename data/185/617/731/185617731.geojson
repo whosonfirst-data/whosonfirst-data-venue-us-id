@@ -2,13 +2,14 @@
   "id": 185617731,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.285987,43.647227,-116.285987,43.647227",
     "geom:latitude":43.647227,
     "geom:longitude":-116.285987,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4636 Berkshire Dr",
     "sg:city":"Boise",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":185617731,
-    "wof:lastmodified":1449006636,
+    "wof:lastmodified":1466486898,
     "wof:name":"Duraclean By All Care LLC",
     "wof:parent_id":85876349,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "carpet"
     ]
 },
-  "bbox": [-116.285987,43.647227,-116.285987,43.647227],
-  "geometry": {"coordinates":[-116.285987,43.647227],"type":"Point"}
+  "bbox": [
+    -116.285987,
+    43.647227,
+    -116.285987,
+    43.647227
+],
+  "geometry": {"coordinates":[-116.28598700000001,43.647227],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 185884055,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.508739,46.423925,-116.508739,46.423925",
     "geom:latitude":46.423925,
     "geom:longitude":-116.508739,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"27004 Settlement Rd",
     "sg:city":"Lenore",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":185884055,
-    "wof:lastmodified":1449007915,
+    "wof:lastmodified":1466488535,
     "wof:name":"Davern Riggers Farm Shop",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-116.508739,46.423925,-116.508739,46.423925],
-  "geometry": {"coordinates":[-116.508739,46.423925],"type":"Point"}
+  "bbox": [
+    -116.508739,
+    46.423925,
+    -116.508739,
+    46.423925
+],
+  "geometry": {"coordinates":[-116.50873900000001,46.423925],"type":"Point"}
 }

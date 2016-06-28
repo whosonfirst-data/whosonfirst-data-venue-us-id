@@ -2,13 +2,14 @@
   "id": 186162095,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.36624,43.679218,-114.36624,43.679218",
     "geom:latitude":43.679218,
     "geom:longitude":-114.36624,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"331 3rd St W",
     "sg:city":"Ketchum",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":186162095,
-    "wof:lastmodified":1449052621,
+    "wof:lastmodified":1466488502,
     "wof:name":"John Kearney Painting",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "painter"
     ]
 },
-  "bbox": [-114.36624,43.679218,-114.36624,43.679218],
+  "bbox": [
+    -114.36624,
+    43.679218,
+    -114.36624,
+    43.679218
+],
   "geometry": {"coordinates":[-114.36624,43.679218],"type":"Point"}
 }

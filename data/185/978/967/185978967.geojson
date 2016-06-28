@@ -2,13 +2,14 @@
   "id": 185978967,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.165057,43.542537,-116.165057,43.542537",
     "geom:latitude":43.542537,
     "geom:longitude":-116.165057,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6882 S Eisenman Rd",
     "sg:city":"Boise",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":185978967,
-    "wof:lastmodified":1449007535,
+    "wof:lastmodified":1466488718,
     "wof:name":"Van Heusen",
     "wof:parent_id":85876329,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "outlet"
     ]
 },
-  "bbox": [-116.165057,43.542537,-116.165057,43.542537],
+  "bbox": [
+    -116.165057,
+    43.542537,
+    -116.165057,
+    43.542537
+],
   "geometry": {"coordinates":[-116.165057,43.542537],"type":"Point"}
 }

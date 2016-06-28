@@ -2,13 +2,14 @@
   "id": 186104389,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.852995,47.874314,-116.852995,47.874314",
     "geom:latitude":47.874314,
     "geom:longitude":-116.852995,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"22640 State Hwy 41",
     "sg:city":"Rathdrum",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186104389,
-    "wof:lastmodified":1449051482,
+    "wof:lastmodified":1466487907,
     "wof:name":"Twin Lakes Body & Frame",
     "wof:parent_id":85821457,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "painting"
     ]
 },
-  "bbox": [-116.852995,47.874314,-116.852995,47.874314],
-  "geometry": {"coordinates":[-116.852995,47.874314],"type":"Point"}
+  "bbox": [
+    -116.852995,
+    47.874314,
+    -116.852995,
+    47.874314
+],
+  "geometry": {"coordinates":[-116.85299500000001,47.874314],"type":"Point"}
 }

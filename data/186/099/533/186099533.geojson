@@ -2,13 +2,14 @@
   "id": 186099533,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.617589,43.616686,-116.617589,43.616686",
     "geom:latitude":43.616686,
     "geom:longitude":-116.617589,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3016 Caldwell Blvd",
     "sg:city":"Nampa",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186099533,
-    "wof:lastmodified":1449052117,
+    "wof:lastmodified":1466487856,
     "wof:name":"Eismann Law Office",
     "wof:parent_id":85835387,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "attorney"
     ]
 },
-  "bbox": [-116.617589,43.616686,-116.617589,43.616686],
+  "bbox": [
+    -116.617589,
+    43.616686,
+    -116.617589,
+    43.616686
+],
   "geometry": {"coordinates":[-116.617589,43.616686],"type":"Point"}
 }

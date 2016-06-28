@@ -2,13 +2,14 @@
   "id": 186470701,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.141003,47.519767,-116.141003,47.519767",
     "geom:latitude":47.519767,
     "geom:longitude":-116.141003,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1026 Main St",
     "sg:city":"Kellogg",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186470701,
-    "wof:lastmodified":1449051045,
+    "wof:lastmodified":1466488784,
     "wof:name":"Evergreens",
     "wof:parent_id":85849049,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "house"
     ]
 },
-  "bbox": [-116.141003,47.519767,-116.141003,47.519767],
+  "bbox": [
+    -116.141003,
+    47.519767,
+    -116.141003,
+    47.519767
+],
   "geometry": {"coordinates":[-116.141003,47.519767],"type":"Point"}
 }

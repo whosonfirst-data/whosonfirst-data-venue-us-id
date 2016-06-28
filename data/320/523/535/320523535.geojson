@@ -2,13 +2,14 @@
   "id": 320523535,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-117.020532,46.419302,-117.020532,46.419302",
     "geom:latitude":46.419302,
     "geom:longitude":-117.020532,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1008 Main St",
     "sg:city":"Lewiston",
     "sg:classifiers":[
@@ -63,10 +64,11 @@
         }
     ],
     "wof:id":320523535,
-    "wof:lastmodified":1449013413,
+    "wof:lastmodified":1466488302,
     "wof:name":"Floral Artistry Espresso Garden LLC",
     "wof:parent_id":85852537,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -74,6 +76,11 @@
         "wedding"
     ]
 },
-  "bbox": [-117.020532,46.419302,-117.020532,46.419302],
+  "bbox": [
+    -117.020532,
+    46.419302,
+    -117.020532,
+    46.419302
+],
   "geometry": {"coordinates":[-117.020532,46.419302],"type":"Point"}
 }

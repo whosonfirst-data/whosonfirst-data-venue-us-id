@@ -2,13 +2,14 @@
   "id": 186405011,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.425126,43.495775,-116.425126,43.495775",
     "geom:latitude":43.495775,
     "geom:longitude":-116.425126,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"850 Boise St",
     "sg:city":"Kuna",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":186405011,
-    "wof:lastmodified":1449052798,
+    "wof:lastmodified":1466488847,
     "wof:name":"A & D Quality Hydroseeding",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "contractor"
     ]
 },
-  "bbox": [-116.425126,43.495775,-116.425126,43.495775],
-  "geometry": {"coordinates":[-116.425126,43.495775],"type":"Point"}
+  "bbox": [
+    -116.425126,
+    43.495775,
+    -116.425126,
+    43.495775
+],
+  "geometry": {"coordinates":[-116.42512600000001,43.495775],"type":"Point"}
 }

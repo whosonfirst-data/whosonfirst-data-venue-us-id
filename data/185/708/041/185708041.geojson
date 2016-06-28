@@ -2,13 +2,14 @@
   "id": 185708041,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.324327,43.619386,-116.324327,43.619386",
     "geom:latitude":43.619386,
     "geom:longitude":-116.324327,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"11303 Fairview Ave",
     "sg:city":"Boise",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":185708041,
-    "wof:lastmodified":1449006871,
+    "wof:lastmodified":1466487587,
     "wof:name":"A 1 Mary's Estate Downsizing",
     "wof:parent_id":85811491,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "antique"
     ]
 },
-  "bbox": [-116.324327,43.619386,-116.324327,43.619386],
+  "bbox": [
+    -116.324327,
+    43.619386,
+    -116.324327,
+    43.619386
+],
   "geometry": {"coordinates":[-116.324327,43.619386],"type":"Point"}
 }

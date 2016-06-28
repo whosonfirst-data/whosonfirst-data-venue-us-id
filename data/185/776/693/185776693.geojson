@@ -2,13 +2,14 @@
   "id": 185776693,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.893443,44.005833,-116.893443,44.005833",
     "geom:latitude":44.005833,
     "geom:longitude":-116.893443,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7230 Elmore Rd",
     "sg:city":"Fruitland",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":185776693,
-    "wof:lastmodified":1449006967,
+    "wof:lastmodified":1466488135,
     "wof:name":"Rv Refer",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "vehicle"
     ]
 },
-  "bbox": [-116.893443,44.005833,-116.893443,44.005833],
+  "bbox": [
+    -116.893443,
+    44.005833,
+    -116.893443,
+    44.005833
+],
   "geometry": {"coordinates":[-116.893443,44.005833],"type":"Point"}
 }

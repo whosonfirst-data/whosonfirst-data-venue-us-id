@@ -2,13 +2,14 @@
   "id": 169646195,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.689443,43.129997,-115.689443,43.129997",
     "geom:latitude":43.129997,
     "geom:longitude":-115.689443,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"335 S 4th E",
     "sg:city":"Mountain Home",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":169646195,
-    "wof:lastmodified":1449032607,
+    "wof:lastmodified":1466487529,
     "wof:name":"Casa Elmore County",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "county"
     ]
 },
-  "bbox": [-115.689443,43.129997,-115.689443,43.129997],
+  "bbox": [
+    -115.689443,
+    43.129997,
+    -115.689443,
+    43.129997
+],
   "geometry": {"coordinates":[-115.689443,43.129997],"type":"Point"}
 }

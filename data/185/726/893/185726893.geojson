@@ -2,13 +2,14 @@
   "id": 185726893,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.009882,43.534764,-112.009882,43.534764",
     "geom:latitude":43.534764,
     "geom:longitude":-112.009882,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1241 Kohler Way",
     "sg:city":"Idaho Falls",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":185726893,
-    "wof:lastmodified":1449007689,
+    "wof:lastmodified":1466487736,
     "wof:name":"Taylor Quality Concrete & Snow",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "contractor"
     ]
 },
-  "bbox": [-112.009882,43.534764,-112.009882,43.534764],
+  "bbox": [
+    -112.009882,
+    43.534764,
+    -112.009882,
+    43.534764
+],
   "geometry": {"coordinates":[-112.009882,43.534764],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186269183,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.165147,43.566509,-116.165147,43.566509",
     "geom:latitude":43.566509,
     "geom:longitude":-116.165147,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1408 Boston Dr",
     "sg:city":"Boise",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":186269183,
-    "wof:lastmodified":1449052055,
+    "wof:lastmodified":1466488620,
     "wof:name":"Columbia Heights Baptist",
     "wof:parent_id":85876329,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-116.165147,43.566509,-116.165147,43.566509],
+  "bbox": [
+    -116.165147,
+    43.566509,
+    -116.165147,
+    43.566509
+],
   "geometry": {"coordinates":[-116.165147,43.566509],"type":"Point"}
 }

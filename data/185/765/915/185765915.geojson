@@ -2,13 +2,14 @@
   "id": 185765915,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.551506,48.276033,-116.551506,48.276033",
     "geom:latitude":48.276033,
     "geom:longitude":-116.551506,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"323 Cedar St",
     "sg:city":"Sandpoint",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":185765915,
-    "wof:lastmodified":1449007536,
+    "wof:lastmodified":1466488049,
     "wof:name":"Connie's Restaurant",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-116.551506,48.276033,-116.551506,48.276033],
+  "bbox": [
+    -116.551506,
+    48.276033,
+    -116.551506,
+    48.276033
+],
   "geometry": {"coordinates":[-116.551506,48.276033],"type":"Point"}
 }

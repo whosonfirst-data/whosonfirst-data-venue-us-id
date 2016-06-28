@@ -2,13 +2,14 @@
   "id": 185982425,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.213861,43.617894,-116.213861,43.617894",
     "geom:latitude":43.617894,
     "geom:longitude":-116.213861,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"495 S 15th St",
     "sg:city":"Boise",
     "sg:classifiers":[
@@ -52,16 +53,22 @@
         }
     ],
     "wof:id":185982425,
-    "wof:lastmodified":1449006886,
+    "wof:lastmodified":1466488723,
     "wof:name":"Boise Cold Storage Co",
     "wof:parent_id":85876355,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "ice"
     ]
 },
-  "bbox": [-116.213861,43.617894,-116.213861,43.617894],
-  "geometry": {"coordinates":[-116.213861,43.617894],"type":"Point"}
+  "bbox": [
+    -116.213861,
+    43.617894,
+    -116.213861,
+    43.617894
+],
+  "geometry": {"coordinates":[-116.21386099999999,43.617894],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186132587,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.572963,43.553404,-116.572963,43.553404",
     "geom:latitude":43.553404,
     "geom:longitude":-116.572963,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1609 12th Ave Rd",
     "sg:city":"Nampa",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186132587,
-    "wof:lastmodified":1449051683,
+    "wof:lastmodified":1466488177,
     "wof:name":"Nampa-Caldwell Orthodontics",
     "wof:parent_id":85827787,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "dentist"
     ]
 },
-  "bbox": [-116.572963,43.553404,-116.572963,43.553404],
+  "bbox": [
+    -116.572963,
+    43.553404,
+    -116.572963,
+    43.553404
+],
   "geometry": {"coordinates":[-116.572963,43.553404],"type":"Point"}
 }

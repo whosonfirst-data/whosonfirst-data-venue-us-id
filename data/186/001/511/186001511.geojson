@@ -2,13 +2,14 @@
   "id": 186001511,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.180459,43.838759,-111.180459,43.838759",
     "geom:latitude":43.838759,
     "geom:longitude":-111.180459,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"781 N Hwy 32",
     "sg:city":"Tetonia",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":186001511,
-    "wof:lastmodified":1449051006,
+    "wof:lastmodified":1466487369,
     "wof:name":"Brent Robson Trucking & Excvtn",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "trucking"
     ]
 },
-  "bbox": [-111.180459,43.838759,-111.180459,43.838759],
+  "bbox": [
+    -111.180459,
+    43.838759,
+    -111.180459,
+    43.838759
+],
   "geometry": {"coordinates":[-111.180459,43.838759],"type":"Point"}
 }

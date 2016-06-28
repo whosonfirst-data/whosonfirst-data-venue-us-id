@@ -2,13 +2,14 @@
   "id": 169803955,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.366049,43.678096,-114.366049,43.678096",
     "geom:latitude":43.678096,
     "geom:longitude":-114.366049,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"120 2nd Ave",
     "sg:city":"Ketchum",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":169803955,
-    "wof:lastmodified":1449036007,
+    "wof:lastmodified":1466488521,
     "wof:name":"Trails West Gallery-Fine Arts",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "dealer"
     ]
 },
-  "bbox": [-114.366049,43.678096,-114.366049,43.678096],
+  "bbox": [
+    -114.366049,
+    43.678096,
+    -114.366049,
+    43.678096
+],
   "geometry": {"coordinates":[-114.366049,43.678096],"type":"Point"}
 }

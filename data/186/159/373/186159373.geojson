@@ -2,13 +2,14 @@
   "id": 186159373,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.30357,43.682667,-116.30357,43.682667",
     "geom:latitude":43.682667,
     "geom:longitude":-116.30357,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7633 N Dodgin Ave",
     "sg:city":"Boise",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":186159373,
-    "wof:lastmodified":1449050574,
+    "wof:lastmodified":1466488400,
     "wof:name":"Asana Packworks",
     "wof:parent_id":85876315,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "luggage"
     ]
 },
-  "bbox": [-116.30357,43.682667,-116.30357,43.682667],
-  "geometry": {"coordinates":[-116.30357,43.682667],"type":"Point"}
+  "bbox": [
+    -116.30357,
+    43.682667,
+    -116.30357,
+    43.682667
+],
+  "geometry": {"coordinates":[-116.30356999999999,43.682667],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 320540441,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.507104,43.579601,-116.507104,43.579601",
     "geom:latitude":43.579601,
     "geom:longitude":-116.507104,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5207 Joe Ln",
     "sg:city":"Nampa",
     "sg:classifiers":[
@@ -67,10 +68,11 @@
         }
     ],
     "wof:id":320540441,
-    "wof:lastmodified":1449012733,
+    "wof:lastmodified":1466486894,
     "wof:name":"Ace Automotive Towing & Repair, LLC",
     "wof:parent_id":85827787,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -83,6 +85,11 @@
         "painting"
     ]
 },
-  "bbox": [-116.507104,43.579601,-116.507104,43.579601],
+  "bbox": [
+    -116.507104,
+    43.579601,
+    -116.507104,
+    43.579601
+],
   "geometry": {"coordinates":[-116.507104,43.579601],"type":"Point"}
 }

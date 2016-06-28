@@ -2,13 +2,14 @@
   "id": 186529079,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.237014,43.625223,-116.237014,43.625223",
     "geom:latitude":43.625223,
     "geom:longitude":-116.237014,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"201 E 35th St",
     "sg:city":"Boise",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186529079,
-    "wof:lastmodified":1449051548,
+    "wof:lastmodified":1466488871,
     "wof:name":"Executive Imports",
     "wof:parent_id":85876301,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "dealer"
     ]
 },
-  "bbox": [-116.237014,43.625223,-116.237014,43.625223],
+  "bbox": [
+    -116.237014,
+    43.625223,
+    -116.237014,
+    43.625223
+],
   "geometry": {"coordinates":[-116.237014,43.625223],"type":"Point"}
 }

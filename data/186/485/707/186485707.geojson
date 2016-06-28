@@ -2,13 +2,14 @@
   "id": 186485707,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.947933,47.724225,-116.947933,47.724225",
     "geom:latitude":47.724225,
     "geom:longitude":-116.947933,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1608 N Spokane St",
     "sg:city":"Post Falls",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":186485707,
-    "wof:lastmodified":1449051998,
+    "wof:lastmodified":1466488906,
     "wof:name":"Post Falls Baptist Church",
     "wof:parent_id":85833263,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-116.947933,47.724225,-116.947933,47.724225],
-  "geometry": {"coordinates":[-116.947933,47.724225],"type":"Point"}
+  "bbox": [
+    -116.947933,
+    47.724225,
+    -116.947933,
+    47.724225
+],
+  "geometry": {"coordinates":[-116.94793300000001,47.724225],"type":"Point"}
 }

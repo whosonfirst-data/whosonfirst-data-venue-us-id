@@ -2,13 +2,14 @@
   "id": 186442685,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.694658,43.131211,-115.694658,43.131211",
     "geom:latitude":43.131211,
     "geom:longitude":-115.694658,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"130 N Main St",
     "sg:city":"Mountain Home",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186442685,
-    "wof:lastmodified":1449051553,
+    "wof:lastmodified":1466488815,
     "wof:name":"Youth Center Of Mountain Home",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "center"
     ]
 },
-  "bbox": [-115.694658,43.131211,-115.694658,43.131211],
+  "bbox": [
+    -115.694658,
+    43.131211,
+    -115.694658,
+    43.131211
+],
   "geometry": {"coordinates":[-115.694658,43.131211],"type":"Point"}
 }

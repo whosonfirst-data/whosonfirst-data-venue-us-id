@@ -2,13 +2,14 @@
   "id": 186527519,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.972872,46.423313,-116.972872,46.423313",
     "geom:latitude":46.423313,
     "geom:longitude":-116.972872,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"807 Mill Rd",
     "sg:city":"Lewiston",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":186527519,
-    "wof:lastmodified":1449052455,
+    "wof:lastmodified":1466488874,
     "wof:name":"Wesco Distributing Inc",
     "wof:parent_id":85837769,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "supply"
     ]
 },
-  "bbox": [-116.972872,46.423313,-116.972872,46.423313],
+  "bbox": [
+    -116.972872,
+    46.423313,
+    -116.972872,
+    46.423313
+],
   "geometry": {"coordinates":[-116.972872,46.423313],"type":"Point"}
 }

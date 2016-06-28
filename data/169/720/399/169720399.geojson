@@ -2,13 +2,14 @@
   "id": 169720399,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.315089,43.633861,-116.315089,43.633861",
     "geom:latitude":43.633861,
     "geom:longitude":-116.315089,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10787 Ustick Rd",
     "sg:city":"Boise",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":169720399,
-    "wof:lastmodified":1449033480,
+    "wof:lastmodified":1466488194,
     "wof:name":"Primary Health West Boise",
     "wof:parent_id":85876357,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "surgeon"
     ]
 },
-  "bbox": [-116.315089,43.633861,-116.315089,43.633861],
+  "bbox": [
+    -116.315089,
+    43.633861,
+    -116.315089,
+    43.633861
+],
   "geometry": {"coordinates":[-116.315089,43.633861],"type":"Point"}
 }

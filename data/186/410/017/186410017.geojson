@@ -2,13 +2,14 @@
   "id": 186410017,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.985723,46.745792,-116.985723,46.745792",
     "geom:latitude":46.745792,
     "geom:longitude":-116.985723,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1011 Virginia Ave",
     "sg:city":"Moscow",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186410017,
-    "wof:lastmodified":1449050293,
+    "wof:lastmodified":1466488699,
     "wof:name":"Peters Trust Co of Moscow",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "management"
     ]
 },
-  "bbox": [-116.985723,46.745792,-116.985723,46.745792],
-  "geometry": {"coordinates":[-116.985723,46.745792],"type":"Point"}
+  "bbox": [
+    -116.985723,
+    46.745792,
+    -116.985723,
+    46.745792
+],
+  "geometry": {"coordinates":[-116.98572299999999,46.745792],"type":"Point"}
 }

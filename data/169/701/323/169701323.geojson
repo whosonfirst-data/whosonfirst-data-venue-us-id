@@ -2,13 +2,14 @@
   "id": 169701323,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.875734,42.52062,-114.875734,42.52062",
     "geom:latitude":42.52062,
     "geom:longitude":-114.875734,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"500 Main St",
     "sg:city":"Castleford",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":169701323,
-    "wof:lastmodified":1449035269,
+    "wof:lastmodified":1466488043,
     "wof:name":"Castleford Elem-Jr High School",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-114.875734,42.52062,-114.875734,42.52062],
-  "geometry": {"coordinates":[-114.875734,42.52062],"type":"Point"}
+  "bbox": [
+    -114.875734,
+    42.52062,
+    -114.875734,
+    42.52062
+],
+  "geometry": {"coordinates":[-114.87573399999999,42.52062],"type":"Point"}
 }

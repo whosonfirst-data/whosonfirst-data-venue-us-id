@@ -2,13 +2,14 @@
   "id": 185657019,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.552974,43.588856,-116.552974,43.588856",
     "geom:latitude":43.588856,
     "geom:longitude":-116.552974,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"504 Franklin Blvd",
     "sg:city":"Nampa",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":185657019,
-    "wof:lastmodified":1449006786,
+    "wof:lastmodified":1466487191,
     "wof:name":"Cat N Canary",
     "wof:parent_id":85827787,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-116.552974,43.588856,-116.552974,43.588856],
-  "geometry": {"coordinates":[-116.552974,43.588856],"type":"Point"}
+  "bbox": [
+    -116.552974,
+    43.588856,
+    -116.552974,
+    43.588856
+],
+  "geometry": {"coordinates":[-116.55297400000001,43.588856],"type":"Point"}
 }

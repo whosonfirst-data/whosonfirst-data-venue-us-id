@@ -2,13 +2,14 @@
   "id": 186124255,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.160487,43.566881,-116.160487,43.566881",
     "geom:latitude":43.566881,
     "geom:longitude":-116.160487,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3967 Canfield Ave",
     "sg:city":"Boise",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":186124255,
-    "wof:lastmodified":1449052821,
+    "wof:lastmodified":1466488097,
     "wof:name":"Weimer Consulting LLC",
     "wof:parent_id":85876329,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-116.160487,43.566881,-116.160487,43.566881],
+  "bbox": [
+    -116.160487,
+    43.566881,
+    -116.160487,
+    43.566881
+],
   "geometry": {"coordinates":[-116.160487,43.566881],"type":"Point"}
 }

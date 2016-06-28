@@ -2,13 +2,14 @@
   "id": 186541553,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.413549,43.612542,-116.413549,43.612542",
     "geom:latitude":43.612542,
     "geom:longitude":-116.413549,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"870 N Linder Rd",
     "sg:city":"Meridian",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186541553,
-    "wof:lastmodified":1449050541,
+    "wof:lastmodified":1466488931,
     "wof:name":"Basic Dental Care",
     "wof:parent_id":85805083,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "dentist"
     ]
 },
-  "bbox": [-116.413549,43.612542,-116.413549,43.612542],
+  "bbox": [
+    -116.413549,
+    43.612542,
+    -116.413549,
+    43.612542
+],
   "geometry": {"coordinates":[-116.413549,43.612542],"type":"Point"}
 }

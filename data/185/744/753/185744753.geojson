@@ -2,13 +2,14 @@
   "id": 185744753,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.973708,46.727369,-116.973708,46.727369",
     "geom:latitude":46.727369,
     "geom:longitude":-116.973708,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"819 Sherwood St",
     "sg:city":"Moscow",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":185744753,
-    "wof:lastmodified":1449007173,
+    "wof:lastmodified":1466487882,
     "wof:name":"James Nagler",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-116.973708,46.727369,-116.973708,46.727369],
+  "bbox": [
+    -116.973708,
+    46.727369,
+    -116.973708,
+    46.727369
+],
   "geometry": {"coordinates":[-116.973708,46.727369],"type":"Point"}
 }

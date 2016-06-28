@@ -2,13 +2,14 @@
   "id": 186025685,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.960522,43.661131,-116.960522,43.661131",
     "geom:latitude":43.661131,
     "geom:longitude":-116.960522,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"28439 Lower Pleasant Ridge Rd",
     "sg:city":"Wilder",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":186025685,
-    "wof:lastmodified":1449052568,
+    "wof:lastmodified":1466487030,
     "wof:name":"River Oak Turf",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "sodding"
     ]
 },
-  "bbox": [-116.960522,43.661131,-116.960522,43.661131],
+  "bbox": [
+    -116.960522,
+    43.661131,
+    -116.960522,
+    43.661131
+],
   "geometry": {"coordinates":[-116.960522,43.661131],"type":"Point"}
 }

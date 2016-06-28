@@ -2,13 +2,14 @@
   "id": 186366865,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.776145,47.687154,-116.776145,47.687154",
     "geom:latitude":47.687154,
     "geom:longitude":-116.776145,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"710 E Spokane Ave",
     "sg:city":"Coeur D Alene",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186366865,
-    "wof:lastmodified":1449052316,
+    "wof:lastmodified":1466488762,
     "wof:name":"Mariners Canvas",
     "wof:parent_id":85821457,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "cover"
     ]
 },
-  "bbox": [-116.776145,47.687154,-116.776145,47.687154],
+  "bbox": [
+    -116.776145,
+    47.687154,
+    -116.776145,
+    47.687154
+],
   "geometry": {"coordinates":[-116.776145,47.687154],"type":"Point"}
 }

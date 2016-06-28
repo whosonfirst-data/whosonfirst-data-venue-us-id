@@ -2,13 +2,14 @@
   "id": 169635873,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.980209,47.716114,-116.980209,47.716114",
     "geom:latitude":47.716114,
     "geom:longitude":-116.980209,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2561 W Seltice Way",
     "sg:city":"Post Falls",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":169635873,
-    "wof:lastmodified":1449034097,
+    "wof:lastmodified":1466487371,
     "wof:name":"Penny's Family Diner & Pub",
     "wof:parent_id":85833263,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-116.980209,47.716114,-116.980209,47.716114],
+  "bbox": [
+    -116.980209,
+    47.716114,
+    -116.980209,
+    47.716114
+],
   "geometry": {"coordinates":[-116.980209,47.716114],"type":"Point"}
 }

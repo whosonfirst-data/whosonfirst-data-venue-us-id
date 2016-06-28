@@ -2,13 +2,14 @@
   "id": 186121833,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.704807,43.633578,-116.704807,43.633578",
     "geom:latitude":43.633578,
     "geom:longitude":-116.704807,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4023 Meadow Ave",
     "sg:city":"Caldwell",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":186121833,
-    "wof:lastmodified":1449052410,
+    "wof:lastmodified":1466488078,
     "wof:name":"Herd Health",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "veterinarian"
     ]
 },
-  "bbox": [-116.704807,43.633578,-116.704807,43.633578],
+  "bbox": [
+    -116.704807,
+    43.633578,
+    -116.704807,
+    43.633578
+],
   "geometry": {"coordinates":[-116.704807,43.633578],"type":"Point"}
 }

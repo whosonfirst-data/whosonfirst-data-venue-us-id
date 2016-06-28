@@ -2,13 +2,14 @@
   "id": 169635775,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.586514,43.541087,-116.586514,43.541087",
     "geom:latitude":43.541087,
     "geom:longitude":-116.586514,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"701 Vista Ter",
     "sg:city":"Nampa",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":169635775,
-    "wof:lastmodified":1449034098,
+    "wof:lastmodified":1466487369,
     "wof:name":"Janette Cefalu",
     "wof:parent_id":85827787,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-116.586514,43.541087,-116.586514,43.541087],
-  "geometry": {"coordinates":[-116.586514,43.541087],"type":"Point"}
+  "bbox": [
+    -116.586514,
+    43.541087,
+    -116.586514,
+    43.541087
+],
+  "geometry": {"coordinates":[-116.58651399999999,43.541087],"type":"Point"}
 }

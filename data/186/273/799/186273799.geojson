@@ -2,13 +2,14 @@
   "id": 186273799,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.791593,43.807264,-116.791593,43.807264",
     "geom:latitude":43.807264,
     "geom:longitude":-116.791593,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5046 Oasis Rd",
     "sg:city":"Caldwell",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":186273799,
-    "wof:lastmodified":1449051761,
+    "wof:lastmodified":1466488712,
     "wof:name":"Michael Rainey Graphic Design",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "designer"
     ]
 },
-  "bbox": [-116.791593,43.807264,-116.791593,43.807264],
-  "geometry": {"coordinates":[-116.791593,43.807264],"type":"Point"}
+  "bbox": [
+    -116.791593,
+    43.807264,
+    -116.791593,
+    43.807264
+],
+  "geometry": {"coordinates":[-116.79159300000001,43.807264],"type":"Point"}
 }

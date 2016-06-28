@@ -2,13 +2,14 @@
   "id": 185961079,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.501081,43.615892,-116.501081,43.615892",
     "geom:latitude":43.615892,
     "geom:longitude":-116.501081,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"16757 Rose Briar Ln",
     "sg:city":"Nampa",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":185961079,
-    "wof:lastmodified":1449008160,
+    "wof:lastmodified":1466488618,
     "wof:name":"Davis Susan M F PHD LLC",
     "wof:parent_id":85827787,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-116.501081,43.615892,-116.501081,43.615892],
+  "bbox": [
+    -116.501081,
+    43.615892,
+    -116.501081,
+    43.615892
+],
   "geometry": {"coordinates":[-116.501081,43.615892],"type":"Point"}
 }

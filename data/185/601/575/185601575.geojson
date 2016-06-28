@@ -2,13 +2,14 @@
   "id": 185601575,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.958404,44.244434,-116.958404,44.244434",
     "geom:latitude":44.244434,
     "geom:longitude":-116.958404,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"701 E Commercial St",
     "sg:city":"Weiser",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":185601575,
-    "wof:lastmodified":1449007334,
+    "wof:lastmodified":1466487361,
     "wof:name":"Probation & Parole Dist",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "probation"
     ]
 },
-  "bbox": [-116.958404,44.244434,-116.958404,44.244434],
+  "bbox": [
+    -116.958404,
+    44.244434,
+    -116.958404,
+    44.244434
+],
   "geometry": {"coordinates":[-116.958404,44.244434],"type":"Point"}
 }

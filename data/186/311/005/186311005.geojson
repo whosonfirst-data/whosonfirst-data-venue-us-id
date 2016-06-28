@@ -2,13 +2,14 @@
   "id": 186311005,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.010531,43.485729,-112.010531,43.485729",
     "geom:latitude":43.485729,
     "geom:longitude":-112.010531,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1310 Susanne Ave",
     "sg:city":"Idaho Falls",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":186311005,
-    "wof:lastmodified":1449051030,
+    "wof:lastmodified":1466488765,
     "wof:name":"Jeremie Russell",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-112.010531,43.485729,-112.010531,43.485729],
+  "bbox": [
+    -112.010531,
+    43.485729,
+    -112.010531,
+    43.485729
+],
   "geometry": {"coordinates":[-112.010531,43.485729],"type":"Point"}
 }

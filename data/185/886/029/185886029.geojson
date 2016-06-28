@@ -2,13 +2,14 @@
   "id": 185886029,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.675199,43.66062,-116.675199,43.66062",
     "geom:latitude":43.66062,
     "geom:longitude":-116.675199,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"307 Badiola St",
     "sg:city":"Caldwell",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":185886029,
-    "wof:lastmodified":1449007500,
+    "wof:lastmodified":1466488464,
     "wof:name":"Lurre Construction",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "contractor"
     ]
 },
-  "bbox": [-116.675199,43.66062,-116.675199,43.66062],
-  "geometry": {"coordinates":[-116.675199,43.66062],"type":"Point"}
+  "bbox": [
+    -116.675199,
+    43.66062,
+    -116.675199,
+    43.66062
+],
+  "geometry": {"coordinates":[-116.67519900000001,43.66062],"type":"Point"}
 }

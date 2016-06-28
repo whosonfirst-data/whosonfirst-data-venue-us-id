@@ -2,13 +2,14 @@
   "id": 185721893,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.9119,43.672866,-116.9119,43.672866",
     "geom:latitude":43.672866,
     "geom:longitude":-116.9119,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"128 5th St",
     "sg:city":"Wilder",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":185721893,
-    "wof:lastmodified":1449008206,
+    "wof:lastmodified":1466487697,
     "wof:name":"Jackson's Food",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "grocer"
     ]
 },
-  "bbox": [-116.9119,43.672866,-116.9119,43.672866],
+  "bbox": [
+    -116.9119,
+    43.672866,
+    -116.9119,
+    43.672866
+],
   "geometry": {"coordinates":[-116.9119,43.672866],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 185837111,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.552737,43.713441,-116.552737,43.713441",
     "geom:latitude":43.713441,
     "geom:longitude":-116.552737,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"23252 Kingsbury Rd",
     "sg:city":"Middleton",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":185837111,
-    "wof:lastmodified":1449006867,
+    "wof:lastmodified":1466488421,
     "wof:name":"J R Walker Construction",
     "wof:parent_id":85835387,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-116.552737,43.713441,-116.552737,43.713441],
-  "geometry": {"coordinates":[-116.552737,43.713441],"type":"Point"}
+  "bbox": [
+    -116.552737,
+    43.713441,
+    -116.552737,
+    43.713441
+],
+  "geometry": {"coordinates":[-116.55273699999999,43.713441],"type":"Point"}
 }

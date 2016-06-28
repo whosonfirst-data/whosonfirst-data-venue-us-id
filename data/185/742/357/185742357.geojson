@@ -2,13 +2,14 @@
   "id": 185742357,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.385612,43.719554,-114.385612,43.719554",
     "geom:latitude":43.719554,
     "geom:longitude":-114.385612,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"190 Buckwheat Ln",
     "sg:city":"Ketchum",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":185742357,
-    "wof:lastmodified":1449006709,
+    "wof:lastmodified":1466487861,
     "wof:name":"Pete Smith Co Logo Motive",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "advertising"
     ]
 },
-  "bbox": [-114.385612,43.719554,-114.385612,43.719554],
-  "geometry": {"coordinates":[-114.385612,43.719554],"type":"Point"}
+  "bbox": [
+    -114.385612,
+    43.719554,
+    -114.385612,
+    43.719554
+],
+  "geometry": {"coordinates":[-114.38561199999999,43.719554],"type":"Point"}
 }

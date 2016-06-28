@@ -2,13 +2,14 @@
   "id": 186209837,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-117.001794,47.702099,-117.001794,47.702099",
     "geom:latitude":47.702099,
     "geom:longitude":-117.001794,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"579 S Pleasant View Rd",
     "sg:city":"Post Falls",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":186209837,
-    "wof:lastmodified":1449052734,
+    "wof:lastmodified":1466488435,
     "wof:name":"Richard Zahn MD Inc",
     "wof:parent_id":85833263,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "medical"
     ]
 },
-  "bbox": [-117.001794,47.702099,-117.001794,47.702099],
+  "bbox": [
+    -117.001794,
+    47.702099,
+    -117.001794,
+    47.702099
+],
   "geometry": {"coordinates":[-117.001794,47.702099],"type":"Point"}
 }

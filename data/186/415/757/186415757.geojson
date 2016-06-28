@@ -2,13 +2,14 @@
   "id": 186415757,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-113.674906,42.615949,-113.674906,42.615949",
     "geom:latitude":42.615949,
     "geom:longitude":-113.674906,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"424 F St",
     "sg:city":"Rupert",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":186415757,
-    "wof:lastmodified":1449052289,
+    "wof:lastmodified":1466488801,
     "wof:name":"Credit Bureau Of Rupert",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "agency"
     ]
 },
-  "bbox": [-113.674906,42.615949,-113.674906,42.615949],
-  "geometry": {"coordinates":[-113.674906,42.615949],"type":"Point"}
+  "bbox": [
+    -113.674906,
+    42.615949,
+    -113.674906,
+    42.615949
+],
+  "geometry": {"coordinates":[-113.67490599999999,42.615949],"type":"Point"}
 }

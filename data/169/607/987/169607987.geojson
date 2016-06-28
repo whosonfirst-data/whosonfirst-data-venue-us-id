@@ -2,13 +2,14 @@
   "id": 169607987,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.780915,47.675193,-116.780915,47.675193",
     "geom:latitude":47.675193,
     "geom:longitude":-116.780915,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"421 E Coeur D Alene Ave",
     "sg:city":"Coeur D Alene",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":169607987,
-    "wof:lastmodified":1449033125,
+    "wof:lastmodified":1466486926,
     "wof:name":"Backup Inc",
     "wof:parent_id":85821457,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "computer"
     ]
 },
-  "bbox": [-116.780915,47.675193,-116.780915,47.675193],
-  "geometry": {"coordinates":[-116.780915,47.675193],"type":"Point"}
+  "bbox": [
+    -116.780915,
+    47.675193,
+    -116.780915,
+    47.675193
+],
+  "geometry": {"coordinates":[-116.78091499999999,47.675193],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169592471,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.154921,43.607071,-111.154921,43.607071",
     "geom:latitude":43.607071,
     "geom:longitude":-111.154921,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"268 W 800 S",
     "sg:city":"Victor",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":169592471,
-    "wof:lastmodified":1449034584,
+    "wof:lastmodified":1466488293,
     "wof:name":"Kearsley Trees",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "tree"
     ]
 },
-  "bbox": [-111.154921,43.607071,-111.154921,43.607071],
+  "bbox": [
+    -111.154921,
+    43.607071,
+    -111.154921,
+    43.607071
+],
   "geometry": {"coordinates":[-111.154921,43.607071],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186117959,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.858035,47.759259,-116.858035,47.759259",
     "geom:latitude":47.759259,
     "geom:longitude":-116.858035,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5950 W Hayden Ave",
     "sg:city":"Rathdrum",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":186117959,
-    "wof:lastmodified":1449052195,
+    "wof:lastmodified":1466488042,
     "wof:name":"Hanson & Associates",
     "wof:parent_id":85821457,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-116.858035,47.759259,-116.858035,47.759259],
+  "bbox": [
+    -116.858035,
+    47.759259,
+    -116.858035,
+    47.759259
+],
   "geometry": {"coordinates":[-116.858035,47.759259],"type":"Point"}
 }

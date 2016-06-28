@@ -2,13 +2,14 @@
   "id": 186461115,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.725679,43.069217,-115.725679,43.069217",
     "geom:latitude":43.069217,
     "geom:longitude":-115.725679,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2550 W 54th S",
     "sg:city":"Mountain Home",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":186461115,
-    "wof:lastmodified":1449051392,
+    "wof:lastmodified":1466488835,
     "wof:name":"March Hare",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-115.725679,43.069217,-115.725679,43.069217],
+  "bbox": [
+    -115.725679,
+    43.069217,
+    -115.725679,
+    43.069217
+],
   "geometry": {"coordinates":[-115.725679,43.069217],"type":"Point"}
 }

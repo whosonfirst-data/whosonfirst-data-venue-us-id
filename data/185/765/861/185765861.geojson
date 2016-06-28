@@ -2,13 +2,14 @@
   "id": 185765861,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.985192,46.389554,-116.985192,46.389554",
     "geom:latitude":46.389554,
     "geom:longitude":-116.985192,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"911 Vista Ave",
     "sg:city":"Lewiston",
     "sg:classifiers":[
@@ -62,10 +63,11 @@
         }
     ],
     "wof:id":185765861,
-    "wof:lastmodified":1449007537,
+    "wof:lastmodified":1466488048,
     "wof:name":"Western Construction & Excvtn",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -73,6 +75,11 @@
         "contractor"
     ]
 },
-  "bbox": [-116.985192,46.389554,-116.985192,46.389554],
+  "bbox": [
+    -116.985192,
+    46.389554,
+    -116.985192,
+    46.389554
+],
   "geometry": {"coordinates":[-116.985192,46.389554],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169620253,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.245914,43.668839,-116.245914,43.668839",
     "geom:latitude":43.668839,
     "geom:longitude":-116.245914,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4565 W Quail Ridge Dr",
     "sg:city":"Boise",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":169620253,
-    "wof:lastmodified":1449035674,
+    "wof:lastmodified":1466487119,
     "wof:name":"Story Investments",
     "wof:parent_id":85876323,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "investor"
     ]
 },
-  "bbox": [-116.245914,43.668839,-116.245914,43.668839],
+  "bbox": [
+    -116.245914,
+    43.668839,
+    -116.245914,
+    43.668839
+],
   "geometry": {"coordinates":[-116.245914,43.668839],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186539979,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-113.626778,42.648609,-113.626778,42.648609",
     "geom:latitude":42.648609,
     "geom:longitude":-113.626778,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"215 E 200 N",
     "sg:city":"Rupert",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":186539979,
-    "wof:lastmodified":1449053075,
+    "wof:lastmodified":1466488882,
     "wof:name":"Dockstader Dennis J",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "contractor"
     ]
 },
-  "bbox": [-113.626778,42.648609,-113.626778,42.648609],
+  "bbox": [
+    -113.626778,
+    42.648609,
+    -113.626778,
+    42.648609
+],
   "geometry": {"coordinates":[-113.626778,42.648609],"type":"Point"}
 }

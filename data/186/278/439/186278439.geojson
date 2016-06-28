@@ -2,13 +2,14 @@
   "id": 186278439,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.999573,46.415047,-116.999573,46.415047",
     "geom:latitude":46.415047,
     "geom:longitude":-116.999573,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2101 Main St",
     "sg:city":"Lewiston",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":186278439,
-    "wof:lastmodified":1449051860,
+    "wof:lastmodified":1466488647,
     "wof:name":"Hahn Supply Inc",
     "wof:parent_id":85837769,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -66,6 +68,11 @@
         "supply"
     ]
 },
-  "bbox": [-116.999573,46.415047,-116.999573,46.415047],
+  "bbox": [
+    -116.999573,
+    46.415047,
+    -116.999573,
+    46.415047
+],
   "geometry": {"coordinates":[-116.999573,46.415047],"type":"Point"}
 }

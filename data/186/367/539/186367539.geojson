@@ -2,13 +2,14 @@
   "id": 186367539,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.242178,43.618916,-116.242178,43.618916",
     "geom:latitude":43.618916,
     "geom:longitude":-116.242178,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4809 W Fairview Ave",
     "sg:city":"Boise",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186367539,
-    "wof:lastmodified":1449051957,
+    "wof:lastmodified":1466488761,
     "wof:name":"Mountain State Medical Group",
     "wof:parent_id":85876301,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "surgeon"
     ]
 },
-  "bbox": [-116.242178,43.618916,-116.242178,43.618916],
+  "bbox": [
+    -116.242178,
+    43.618916,
+    -116.242178,
+    43.618916
+],
   "geometry": {"coordinates":[-116.242178,43.618916],"type":"Point"}
 }

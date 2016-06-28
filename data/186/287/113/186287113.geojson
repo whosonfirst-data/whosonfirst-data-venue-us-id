@@ -2,13 +2,14 @@
   "id": 186287113,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.561039,43.735579,-116.561039,43.735579",
     "geom:latitude":43.735579,
     "geom:longitude":-116.561039,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8461 Purple Sage Rd",
     "sg:city":"Middleton",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":186287113,
-    "wof:lastmodified":1449050428,
+    "wof:lastmodified":1466488658,
     "wof:name":"Everlasting Precast",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "septic"
     ]
 },
-  "bbox": [-116.561039,43.735579,-116.561039,43.735579],
-  "geometry": {"coordinates":[-116.561039,43.735579],"type":"Point"}
+  "bbox": [
+    -116.561039,
+    43.735579,
+    -116.561039,
+    43.735579
+],
+  "geometry": {"coordinates":[-116.56103899999999,43.735579],"type":"Point"}
 }

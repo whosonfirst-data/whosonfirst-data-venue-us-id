@@ -2,13 +2,14 @@
   "id": 320527565,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.635997,43.633942,-116.635997,43.633942",
     "geom:latitude":43.633942,
     "geom:longitude":-116.635997,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5202 E Ustick Rd",
     "sg:city":"Caldwell",
     "sg:classifiers":[
@@ -65,10 +66,11 @@
         }
     ],
     "wof:id":320527565,
-    "wof:lastmodified":1449014194,
+    "wof:lastmodified":1466487772,
     "wof:name":"Western States Dust Control",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -80,6 +82,11 @@
         "equipment"
     ]
 },
-  "bbox": [-116.635997,43.633942,-116.635997,43.633942],
+  "bbox": [
+    -116.635997,
+    43.633942,
+    -116.635997,
+    43.633942
+],
   "geometry": {"coordinates":[-116.635997,43.633942],"type":"Point"}
 }

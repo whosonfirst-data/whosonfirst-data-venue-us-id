@@ -2,13 +2,14 @@
   "id": 186255645,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.789967,47.716552,-116.789967,47.716552",
     "geom:latitude":47.716552,
     "geom:longitude":-116.789967,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4301 N Crown Ave",
     "sg:city":"Coeur D Alene",
     "sg:classifiers":[
@@ -63,10 +64,11 @@
         }
     ],
     "wof:id":186255645,
-    "wof:lastmodified":1449051585,
+    "wof:lastmodified":1466488606,
     "wof:name":"Coeur D'Alene Auto Mall",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -74,6 +76,11 @@
         "dealer"
     ]
 },
-  "bbox": [-116.789967,47.716552,-116.789967,47.716552],
+  "bbox": [
+    -116.789967,
+    47.716552,
+    -116.789967,
+    47.716552
+],
   "geometry": {"coordinates":[-116.789967,47.716552],"type":"Point"}
 }

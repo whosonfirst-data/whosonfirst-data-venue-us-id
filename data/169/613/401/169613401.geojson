@@ -2,13 +2,14 @@
   "id": 169613401,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.56204,43.578696,-116.56204,43.578696",
     "geom:latitude":43.578696,
     "geom:longitude":-116.56204,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"223 11th Ave S",
     "sg:city":"Nampa",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":169613401,
-    "wof:lastmodified":1449034213,
+    "wof:lastmodified":1466487011,
     "wof:name":"Washington Federal Savings",
     "wof:parent_id":85827787,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "association"
     ]
 },
-  "bbox": [-116.56204,43.578696,-116.56204,43.578696],
+  "bbox": [
+    -116.56204,
+    43.578696,
+    -116.56204,
+    43.578696
+],
   "geometry": {"coordinates":[-116.56204,43.578696],"type":"Point"}
 }

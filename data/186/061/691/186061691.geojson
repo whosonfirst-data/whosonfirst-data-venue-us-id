@@ -2,13 +2,14 @@
   "id": 186061691,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.335781,43.604964,-116.335781,43.604964",
     "geom:latitude":43.604964,
     "geom:longitude":-116.335781,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4750 E Franklin Rd",
     "sg:city":"Meridian",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":186061691,
-    "wof:lastmodified":1449052294,
+    "wof:lastmodified":1466487446,
     "wof:name":"About Town Houses",
     "wof:parent_id":85805083,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "mover"
     ]
 },
-  "bbox": [-116.335781,43.604964,-116.335781,43.604964],
+  "bbox": [
+    -116.335781,
+    43.604964,
+    -116.335781,
+    43.604964
+],
   "geometry": {"coordinates":[-116.335781,43.604964],"type":"Point"}
 }

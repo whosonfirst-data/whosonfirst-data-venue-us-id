@@ -2,13 +2,14 @@
   "id": 185718263,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.354007,43.695266,-116.354007,43.695266",
     "geom:latitude":43.695266,
     "geom:longitude":-116.354007,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1 E State St",
     "sg:city":"Eagle",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":185718263,
-    "wof:lastmodified":1449006966,
+    "wof:lastmodified":1466487669,
     "wof:name":"Idaho Window Sales-Hurd",
     "wof:parent_id":85876351,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "windows"
     ]
 },
-  "bbox": [-116.354007,43.695266,-116.354007,43.695266],
+  "bbox": [
+    -116.354007,
+    43.695266,
+    -116.354007,
+    43.695266
+],
   "geometry": {"coordinates":[-116.354007,43.695266],"type":"Point"}
 }

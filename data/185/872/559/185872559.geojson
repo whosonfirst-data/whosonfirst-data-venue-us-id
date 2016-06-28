@@ -2,13 +2,14 @@
   "id": 185872559,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.874699,43.676253,-116.874699,43.676253",
     "geom:latitude":43.676253,
     "geom:longitude":-116.874699,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"24241 Peckham Rd",
     "sg:city":"Wilder",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":185872559,
-    "wof:lastmodified":1449006753,
+    "wof:lastmodified":1466488607,
     "wof:name":"Allendale Produce Plant",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-116.874699,43.676253,-116.874699,43.676253],
-  "geometry": {"coordinates":[-116.874699,43.676253],"type":"Point"}
+  "bbox": [
+    -116.874699,
+    43.676253,
+    -116.874699,
+    43.676253
+],
+  "geometry": {"coordinates":[-116.87469900000001,43.676253],"type":"Point"}
 }

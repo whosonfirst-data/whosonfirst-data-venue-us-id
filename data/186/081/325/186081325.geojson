@@ -2,13 +2,14 @@
   "id": 186081325,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.434313,44.729136,-116.434313,44.729136",
     "geom:latitude":44.729136,
     "geom:longitude":-116.434313,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"303 Illinois Ave",
     "sg:city":"Council",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":186081325,
-    "wof:lastmodified":1449051210,
+    "wof:lastmodified":1466487673,
     "wof:name":"Council Floral & Garden Ctr",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-116.434313,44.729136,-116.434313,44.729136],
+  "bbox": [
+    -116.434313,
+    44.729136,
+    -116.434313,
+    44.729136
+],
   "geometry": {"coordinates":[-116.434313,44.729136],"type":"Point"}
 }

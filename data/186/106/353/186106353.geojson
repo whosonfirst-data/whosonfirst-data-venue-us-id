@@ -2,13 +2,14 @@
   "id": 186106353,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.562768,48.271996,-116.562768,48.271996",
     "geom:latitude":48.271996,
     "geom:longitude":-116.562768,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1123 Lake St",
     "sg:city":"Sandpoint",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":186106353,
-    "wof:lastmodified":1449050204,
+    "wof:lastmodified":1466487928,
     "wof:name":"Sandpoint City Utility Billing",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "city"
     ]
 },
-  "bbox": [-116.562768,48.271996,-116.562768,48.271996],
-  "geometry": {"coordinates":[-116.562768,48.271996],"type":"Point"}
+  "bbox": [
+    -116.562768,
+    48.271996,
+    -116.562768,
+    48.271996
+],
+  "geometry": {"coordinates":[-116.56276800000001,48.271996],"type":"Point"}
 }

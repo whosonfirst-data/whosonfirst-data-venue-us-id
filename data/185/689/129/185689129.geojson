@@ -2,13 +2,14 @@
   "id": 185689129,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.804231,47.759087,-116.804231,47.759087",
     "geom:latitude":47.759087,
     "geom:longitude":-116.804231,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1315 W Hayden Ave",
     "sg:city":"Hayden Lake",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":185689129,
-    "wof:lastmodified":1449007966,
+    "wof:lastmodified":1466487437,
     "wof:name":"SCI Structural Consultants",
     "wof:parent_id":85821457,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "engineer"
     ]
 },
-  "bbox": [-116.804231,47.759087,-116.804231,47.759087],
+  "bbox": [
+    -116.804231,
+    47.759087,
+    -116.804231,
+    47.759087
+],
   "geometry": {"coordinates":[-116.804231,47.759087],"type":"Point"}
 }

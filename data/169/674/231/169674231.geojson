@@ -2,13 +2,14 @@
   "id": 169674231,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.202664,43.618084,-116.202664,43.618084",
     "geom:latitude":43.618084,
     "geom:longitude":-116.202664,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"350 N 9th St",
     "sg:city":"Boise",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":169674231,
-    "wof:lastmodified":1449035138,
+    "wof:lastmodified":1466487937,
     "wof:name":"Junior League Of Boise Hq",
     "wof:parent_id":85876341,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-116.202664,43.618084,-116.202664,43.618084],
+  "bbox": [
+    -116.202664,
+    43.618084,
+    -116.202664,
+    43.618084
+],
   "geometry": {"coordinates":[-116.202664,43.618084],"type":"Point"}
 }

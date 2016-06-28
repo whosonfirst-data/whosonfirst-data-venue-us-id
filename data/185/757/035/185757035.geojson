@@ -2,13 +2,14 @@
   "id": 185757035,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.175767,43.609442,-116.175767,43.609442",
     "geom:latitude":43.609442,
     "geom:longitude":-116.175767,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"513 N Haines St",
     "sg:city":"Boise",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":185757035,
-    "wof:lastmodified":1449007510,
+    "wof:lastmodified":1466487978,
     "wof:name":"Resource Technology",
     "wof:parent_id":85876305,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "merchandise"
     ]
 },
-  "bbox": [-116.175767,43.609442,-116.175767,43.609442],
-  "geometry": {"coordinates":[-116.175767,43.609442],"type":"Point"}
+  "bbox": [
+    -116.175767,
+    43.609442,
+    -116.175767,
+    43.609442
+],
+  "geometry": {"coordinates":[-116.17576699999999,43.609442],"type":"Point"}
 }

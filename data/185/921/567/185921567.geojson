@@ -2,13 +2,14 @@
   "id": 185921567,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-113.893996,45.171891,-113.893996,45.171891",
     "geom:latitude":45.171891,
     "geom:longitude":-113.893996,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"720 Union Ave",
     "sg:city":"Salmon",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":185921567,
-    "wof:lastmodified":1449007633,
+    "wof:lastmodified":1466488608,
     "wof:name":"Pierce Pancake & Steak",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-113.893996,45.171891,-113.893996,45.171891],
+  "bbox": [
+    -113.893996,
+    45.171891,
+    -113.893996,
+    45.171891
+],
   "geometry": {"coordinates":[-113.893996,45.171891],"type":"Point"}
 }

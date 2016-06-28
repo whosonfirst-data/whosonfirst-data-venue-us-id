@@ -2,13 +2,14 @@
   "id": 186159017,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.314385,48.696011,-116.314385,48.696011",
     "geom:latitude":48.696011,
     "geom:longitude":-116.314385,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6447 Kootenai St",
     "sg:city":"Bonners Ferry",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":186159017,
-    "wof:lastmodified":1449050590,
+    "wof:lastmodified":1466488396,
     "wof:name":"Boundary County Weed Control",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-116.314385,48.696011,-116.314385,48.696011],
+  "bbox": [
+    -116.314385,
+    48.696011,
+    -116.314385,
+    48.696011
+],
   "geometry": {"coordinates":[-116.314385,48.696011],"type":"Point"}
 }

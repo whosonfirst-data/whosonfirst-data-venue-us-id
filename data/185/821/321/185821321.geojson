@@ -2,13 +2,14 @@
   "id": 185821321,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.998871,46.384226,-116.998871,46.384226",
     "geom:latitude":46.384226,
     "geom:longitude":-116.998871,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"639 Warner Ave",
     "sg:city":"Lewiston",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":185821321,
-    "wof:lastmodified":1449007485,
+    "wof:lastmodified":1466488404,
     "wof:name":"Ready Appliance Repair",
     "wof:parent_id":85837769,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "electrical"
     ]
 },
-  "bbox": [-116.998871,46.384226,-116.998871,46.384226],
-  "geometry": {"coordinates":[-116.998871,46.384226],"type":"Point"}
+  "bbox": [
+    -116.998871,
+    46.384226,
+    -116.998871,
+    46.384226
+],
+  "geometry": {"coordinates":[-116.99887099999999,46.384226],"type":"Point"}
 }

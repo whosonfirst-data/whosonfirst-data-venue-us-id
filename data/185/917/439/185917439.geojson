@@ -2,13 +2,14 @@
   "id": 185917439,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.289799,43.611224,-116.289799,43.611224",
     "geom:latitude":43.611224,
     "geom:longitude":-116.289799,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8601 Emerald St",
     "sg:city":"Boise",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":185917439,
-    "wof:lastmodified":1449008006,
+    "wof:lastmodified":1466488508,
     "wof:name":"ISC",
     "wof:parent_id":85841319,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-116.289799,43.611224,-116.289799,43.611224],
+  "bbox": [
+    -116.289799,
+    43.611224,
+    -116.289799,
+    43.611224
+],
   "geometry": {"coordinates":[-116.289799,43.611224],"type":"Point"}
 }

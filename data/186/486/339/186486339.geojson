@@ -2,13 +2,14 @@
   "id": 186486339,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.987347,43.787092,-116.987347,43.787092",
     "geom:latitude":43.787092,
     "geom:longitude":-116.987347,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"29795 Hexon Rd",
     "sg:city":"Parma",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":186486339,
-    "wof:lastmodified":1449051875,
+    "wof:lastmodified":1466488906,
     "wof:name":"Rex M Merchant",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "cattle"
     ]
 },
-  "bbox": [-116.987347,43.787092,-116.987347,43.787092],
+  "bbox": [
+    -116.987347,
+    43.787092,
+    -116.987347,
+    43.787092
+],
   "geometry": {"coordinates":[-116.987347,43.787092],"type":"Point"}
 }

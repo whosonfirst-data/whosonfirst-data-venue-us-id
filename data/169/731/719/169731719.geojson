@@ -2,13 +2,14 @@
   "id": 169731719,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.43522,42.549393,-114.43522,42.549393",
     "geom:latitude":42.549393,
     "geom:longitude":-114.43522,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"163 Aspenwood Dr",
     "sg:city":"Twin Falls",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":169731719,
-    "wof:lastmodified":1449035585,
+    "wof:lastmodified":1466488292,
     "wof:name":"Kids Can Be Kids Preschool",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-114.43522,42.549393,-114.43522,42.549393],
+  "bbox": [
+    -114.43522,
+    42.549393,
+    -114.43522,
+    42.549393
+],
   "geometry": {"coordinates":[-114.43522,42.549393],"type":"Point"}
 }

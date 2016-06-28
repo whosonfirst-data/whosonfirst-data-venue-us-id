@@ -2,13 +2,14 @@
   "id": 186247235,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-113.662315,42.619645,-113.662315,42.619645",
     "geom:latitude":42.619645,
     "geom:longitude":-113.662315,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"506 E 8th St",
     "sg:city":"Rupert",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":186247235,
-    "wof:lastmodified":1449051942,
+    "wof:lastmodified":1466488576,
     "wof:name":"Southhills Moto Sports",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "automotive"
     ]
 },
-  "bbox": [-113.662315,42.619645,-113.662315,42.619645],
-  "geometry": {"coordinates":[-113.662315,42.619645],"type":"Point"}
+  "bbox": [
+    -113.662315,
+    42.619645,
+    -113.662315,
+    42.619645
+],
+  "geometry": {"coordinates":[-113.66231500000001,42.619645],"type":"Point"}
 }

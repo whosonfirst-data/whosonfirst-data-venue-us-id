@@ -2,13 +2,14 @@
   "id": 186064737,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.683667,47.637383,-116.683667,47.637383",
     "geom:latitude":47.637383,
     "geom:longitude":-116.683667,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7806 E Highview Dr",
     "sg:city":"Coeur D Alene",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":186064737,
-    "wof:lastmodified":1449051335,
+    "wof:lastmodified":1466487480,
     "wof:name":"C S Systems West Inc",
     "wof:parent_id":85821457,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "construction"
     ]
 },
-  "bbox": [-116.683667,47.637383,-116.683667,47.637383],
+  "bbox": [
+    -116.683667,
+    47.637383,
+    -116.683667,
+    47.637383
+],
   "geometry": {"coordinates":[-116.683667,47.637383],"type":"Point"}
 }

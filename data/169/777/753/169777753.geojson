@@ -2,13 +2,14 @@
   "id": 169777753,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.147762,43.581491,-116.147762,43.581491",
     "geom:latitude":43.581491,
     "geom:longitude":-116.147762,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2332 S Ridge Point Way",
     "sg:city":"Boise",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":169777753,
-    "wof:lastmodified":1449034427,
+    "wof:lastmodified":1466488371,
     "wof:name":"Larry Brown Classic Cottage Co",
     "wof:parent_id":85876347,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "design"
     ]
 },
-  "bbox": [-116.147762,43.581491,-116.147762,43.581491],
+  "bbox": [
+    -116.147762,
+    43.581491,
+    -116.147762,
+    43.581491
+],
   "geometry": {"coordinates":[-116.147762,43.581491],"type":"Point"}
 }

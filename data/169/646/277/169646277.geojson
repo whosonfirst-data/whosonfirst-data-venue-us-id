@@ -2,13 +2,14 @@
   "id": 169646277,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.272189,43.554659,-116.272189,43.554659",
     "geom:latitude":43.554659,
     "geom:longitude":-116.272189,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5309 Pony Ave",
     "sg:city":"Boise",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":169646277,
-    "wof:lastmodified":1449032606,
+    "wof:lastmodified":1466487531,
     "wof:name":"Real Property",
     "wof:parent_id":85876331,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "consultant"
     ]
 },
-  "bbox": [-116.272189,43.554659,-116.272189,43.554659],
+  "bbox": [
+    -116.272189,
+    43.554659,
+    -116.272189,
+    43.554659
+],
   "geometry": {"coordinates":[-116.272189,43.554659],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169598861,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.105059,44.893919,-116.105059,44.893919",
     "geom:latitude":44.893919,
     "geom:longitude":-116.105059,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"300 Mission St",
     "sg:city":"Mccall",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":169598861,
-    "wof:lastmodified":1449032860,
+    "wof:lastmodified":1466488195,
     "wof:name":"Camp Pinewood",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "camp"
     ]
 },
-  "bbox": [-116.105059,44.893919,-116.105059,44.893919],
+  "bbox": [
+    -116.105059,
+    44.893919,
+    -116.105059,
+    44.893919
+],
   "geometry": {"coordinates":[-116.105059,44.893919],"type":"Point"}
 }

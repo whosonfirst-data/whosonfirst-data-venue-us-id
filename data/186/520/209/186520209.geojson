@@ -2,13 +2,14 @@
   "id": 186520209,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.023666,43.523486,-112.023666,43.523486",
     "geom:latitude":43.523486,
     "geom:longitude":-112.023666,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3018 N Holmes Ave",
     "sg:city":"Idaho Falls",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":186520209,
-    "wof:lastmodified":1449051279,
+    "wof:lastmodified":1466488926,
     "wof:name":"Chaffin Rv Sales",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.023666,43.523486,-112.023666,43.523486],
-  "geometry": {"coordinates":[-112.023666,43.523486],"type":"Point"}
+  "bbox": [
+    -112.023666,
+    43.523486,
+    -112.023666,
+    43.523486
+],
+  "geometry": {"coordinates":[-112.02366600000001,43.523486],"type":"Point"}
 }

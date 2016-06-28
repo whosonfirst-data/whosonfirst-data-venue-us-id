@@ -2,13 +2,14 @@
   "id": 185836483,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.594503,43.603142,-116.594503,43.603142",
     "geom:latitude":43.603142,
     "geom:longitude":-116.594503,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1901 N Bingham Dr",
     "sg:city":"Nampa",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":185836483,
-    "wof:lastmodified":1449007663,
+    "wof:lastmodified":1466488419,
     "wof:name":"OXARC Fire Equipment",
     "wof:parent_id":85827787,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "protection"
     ]
 },
-  "bbox": [-116.594503,43.603142,-116.594503,43.603142],
+  "bbox": [
+    -116.594503,
+    43.603142,
+    -116.594503,
+    43.603142
+],
   "geometry": {"coordinates":[-116.594503,43.603142],"type":"Point"}
 }

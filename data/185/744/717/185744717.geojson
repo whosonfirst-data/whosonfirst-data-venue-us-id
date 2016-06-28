@@ -2,13 +2,14 @@
   "id": 185744717,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.18866,43.561788,-116.18866,43.561788",
     "geom:latitude":43.561788,
     "geom:longitude":-116.18866,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4525 Market St",
     "sg:city":"Boise",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":185744717,
-    "wof:lastmodified":1449007174,
+    "wof:lastmodified":1466487882,
     "wof:name":"American Construction Supply",
     "wof:parent_id":85876329,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "form"
     ]
 },
-  "bbox": [-116.18866,43.561788,-116.18866,43.561788],
+  "bbox": [
+    -116.18866,
+    43.561788,
+    -116.18866,
+    43.561788
+],
   "geometry": {"coordinates":[-116.18866,43.561788],"type":"Point"}
 }

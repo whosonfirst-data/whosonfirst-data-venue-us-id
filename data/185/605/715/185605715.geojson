@@ -2,13 +2,14 @@
   "id": 185605715,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-117.029757,46.414625,-117.029757,46.414625",
     "geom:latitude":46.414625,
     "geom:longitude":-117.029757,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"307 6th Ave",
     "sg:city":"Lewiston",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":185605715,
-    "wof:lastmodified":1449007415,
+    "wof:lastmodified":1466488371,
     "wof:name":"Lewiston Medical Ctr X-Ray",
     "wof:parent_id":85852537,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "surgeon"
     ]
 },
-  "bbox": [-117.029757,46.414625,-117.029757,46.414625],
+  "bbox": [
+    -117.029757,
+    46.414625,
+    -117.029757,
+    46.414625
+],
   "geometry": {"coordinates":[-117.029757,46.414625],"type":"Point"}
 }

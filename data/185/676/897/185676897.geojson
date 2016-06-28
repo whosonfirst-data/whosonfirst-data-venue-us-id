@@ -2,13 +2,14 @@
   "id": 185676897,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.273923,43.664987,-116.273923,43.664987",
     "geom:latitude":43.664987,
     "geom:longitude":-116.273923,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6942 W State St",
     "sg:city":"Boise",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":185676897,
-    "wof:lastmodified":1449007625,
+    "wof:lastmodified":1466487342,
     "wof:name":"Singer's Insta-Cash Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "check"
     ]
 },
-  "bbox": [-116.273923,43.664987,-116.273923,43.664987],
+  "bbox": [
+    -116.273923,
+    43.664987,
+    -116.273923,
+    43.664987
+],
   "geometry": {"coordinates":[-116.273923,43.664987],"type":"Point"}
 }

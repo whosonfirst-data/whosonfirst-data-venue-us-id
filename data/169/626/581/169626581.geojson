@@ -2,13 +2,14 @@
   "id": 169626581,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.389563,43.210995,-112.389563,43.210995",
     "geom:latitude":43.210995,
     "geom:longitude":-112.389563,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"431 W 100 N",
     "sg:city":"Blackfoot",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":169626581,
-    "wof:lastmodified":1449035970,
+    "wof:lastmodified":1466487220,
     "wof:name":"Blane Robbins Electric Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "contractor"
     ]
 },
-  "bbox": [-112.389563,43.210995,-112.389563,43.210995],
+  "bbox": [
+    -112.389563,
+    43.210995,
+    -112.389563,
+    43.210995
+],
   "geometry": {"coordinates":[-112.389563,43.210995],"type":"Point"}
 }

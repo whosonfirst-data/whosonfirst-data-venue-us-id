@@ -2,13 +2,14 @@
   "id": 186232633,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.966172,43.496388,-111.966172,43.496388",
     "geom:latitude":43.496388,
     "geom:longitude":-111.966172,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3443 1st St",
     "sg:city":"Idaho Falls",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":186232633,
-    "wof:lastmodified":1449051254,
+    "wof:lastmodified":1466488655,
     "wof:name":"Country Corner Car Wash",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "washing"
     ]
 },
-  "bbox": [-111.966172,43.496388,-111.966172,43.496388],
+  "bbox": [
+    -111.966172,
+    43.496388,
+    -111.966172,
+    43.496388
+],
   "geometry": {"coordinates":[-111.966172,43.496388],"type":"Point"}
 }

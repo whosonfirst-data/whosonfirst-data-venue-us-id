@@ -2,13 +2,14 @@
   "id": 186438441,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-113.892734,45.173956,-113.892734,45.173956",
     "geom:latitude":45.173956,
     "geom:longitude":-113.892734,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"707 Van Dreff St",
     "sg:city":"Salmon",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":186438441,
-    "wof:lastmodified":1449051292,
+    "wof:lastmodified":1466488812,
     "wof:name":"Steele Memorial Hospital",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-113.892734,45.173956,-113.892734,45.173956],
+  "bbox": [
+    -113.892734,
+    45.173956,
+    -113.892734,
+    45.173956
+],
   "geometry": {"coordinates":[-113.892734,45.173956],"type":"Point"}
 }

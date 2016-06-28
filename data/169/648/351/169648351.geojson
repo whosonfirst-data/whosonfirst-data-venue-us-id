@@ -2,13 +2,14 @@
   "id": 169648351,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.01911,43.596965,-112.01911,43.596965",
     "geom:latitude":43.596965,
     "geom:longitude":-112.01911,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"774 E 113 N",
     "sg:city":"Idaho Falls",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":169648351,
-    "wof:lastmodified":1449033587,
+    "wof:lastmodified":1466487563,
     "wof:name":"In-Tel Communications",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "system"
     ]
 },
-  "bbox": [-112.01911,43.596965,-112.01911,43.596965],
+  "bbox": [
+    -112.01911,
+    43.596965,
+    -112.01911,
+    43.596965
+],
   "geometry": {"coordinates":[-112.01911,43.596965],"type":"Point"}
 }

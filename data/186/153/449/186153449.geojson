@@ -2,13 +2,14 @@
   "id": 186153449,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.525034,43.619532,-116.525034,43.619532",
     "geom:latitude":43.619532,
     "geom:longitude":-116.525034,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6650 Cherry Ln",
     "sg:city":"Nampa",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":186153449,
-    "wof:lastmodified":1449052220,
+    "wof:lastmodified":1466488316,
     "wof:name":"Stone Mountain Construction",
     "wof:parent_id":85827787,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "contractor"
     ]
 },
-  "bbox": [-116.525034,43.619532,-116.525034,43.619532],
-  "geometry": {"coordinates":[-116.525034,43.619532],"type":"Point"}
+  "bbox": [
+    -116.525034,
+    43.619532,
+    -116.525034,
+    43.619532
+],
+  "geometry": {"coordinates":[-116.52503400000001,43.619532],"type":"Point"}
 }

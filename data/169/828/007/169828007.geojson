@@ -2,13 +2,14 @@
   "id": 169828007,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.78217,47.689089,-116.78217,47.689089",
     "geom:latitude":47.689089,
     "geom:longitude":-116.78217,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"302 E Linden Ave",
     "sg:city":"Coeur D Alene",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":169828007,
-    "wof:lastmodified":1449034356,
+    "wof:lastmodified":1466488583,
     "wof:name":"Shields Produce",
     "wof:parent_id":85821457,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "produce"
     ]
 },
-  "bbox": [-116.78217,47.689089,-116.78217,47.689089],
-  "geometry": {"coordinates":[-116.78217,47.689089],"type":"Point"}
+  "bbox": [
+    -116.78217,
+    47.689089,
+    -116.78217,
+    47.689089
+],
+  "geometry": {"coordinates":[-116.78216999999999,47.689089],"type":"Point"}
 }

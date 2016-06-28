@@ -2,13 +2,14 @@
   "id": 186402939,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.199229,43.608984,-116.199229,43.608984",
     "geom:latitude":43.608984,
     "geom:longitude":-116.199229,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"110 W Myrtle St",
     "sg:city":"Boise",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186402939,
-    "wof:lastmodified":1449051245,
+    "wof:lastmodified":1466488849,
     "wof:name":"Winco Foods",
     "wof:parent_id":85876325,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "grocer"
     ]
 },
-  "bbox": [-116.199229,43.608984,-116.199229,43.608984],
+  "bbox": [
+    -116.199229,
+    43.608984,
+    -116.199229,
+    43.608984
+],
   "geometry": {"coordinates":[-116.199229,43.608984],"type":"Point"}
 }

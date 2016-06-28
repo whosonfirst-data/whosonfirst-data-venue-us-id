@@ -2,13 +2,14 @@
   "id": 185836621,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.154507,43.056553,-114.154507,43.056553",
     "geom:latitude":43.056553,
     "geom:longitude":-114.154507,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"145 W Blaine Ave",
     "sg:city":"Richfield",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":185836621,
-    "wof:lastmodified":1449007666,
+    "wof:lastmodified":1466488419,
     "wof:name":"Gill Dirt Works",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "contractor"
     ]
 },
-  "bbox": [-114.154507,43.056553,-114.154507,43.056553],
+  "bbox": [
+    -114.154507,
+    43.056553,
+    -114.154507,
+    43.056553
+],
   "geometry": {"coordinates":[-114.154507,43.056553],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186433037,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.748144,45.042051,-115.748144,45.042051",
     "geom:latitude":45.042051,
     "geom:longitude":-115.748144,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3134 Lick Creek Rd",
     "sg:city":"Yellow Pine",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":186433037,
-    "wof:lastmodified":1449050561,
+    "wof:lastmodified":1466488808,
     "wof:name":"Zena Creek Ranch",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "guest"
     ]
 },
-  "bbox": [-115.748144,45.042051,-115.748144,45.042051],
+  "bbox": [
+    -115.748144,
+    45.042051,
+    -115.748144,
+    45.042051
+],
   "geometry": {"coordinates":[-115.748144,45.042051],"type":"Point"}
 }

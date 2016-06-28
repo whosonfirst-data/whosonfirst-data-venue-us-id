@@ -2,13 +2,14 @@
   "id": 320525713,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-117.009537,46.415124,-117.009537,46.415124",
     "geom:latitude":46.415124,
     "geom:longitude":-117.009537,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1618 Idaho St Suite 103",
     "sg:city":"Lewiston",
     "sg:classifiers":[
@@ -59,10 +60,11 @@
         }
     ],
     "wof:id":320525713,
-    "wof:lastmodified":1449014190,
+    "wof:lastmodified":1466487272,
     "wof:name":"Nolta Law Office, PLLC",
     "wof:parent_id":85837769,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -77,6 +79,11 @@
         "law"
     ]
 },
-  "bbox": [-117.009537,46.415124,-117.009537,46.415124],
-  "geometry": {"coordinates":[-117.009537,46.415124],"type":"Point"}
+  "bbox": [
+    -117.009537,
+    46.415124,
+    -117.009537,
+    46.415124
+],
+  "geometry": {"coordinates":[-117.00953699999999,46.415124],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169778571,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.660043,43.646967,-116.660043,43.646967",
     "geom:latitude":43.646967,
     "geom:longitude":-116.660043,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"211 S 34th Ave",
     "sg:city":"Caldwell",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":169778571,
-    "wof:lastmodified":1449032750,
+    "wof:lastmodified":1466488468,
     "wof:name":"Discount Building Materials",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "molding"
     ]
 },
-  "bbox": [-116.660043,43.646967,-116.660043,43.646967],
+  "bbox": [
+    -116.660043,
+    43.646967,
+    -116.660043,
+    43.646967
+],
   "geometry": {"coordinates":[-116.660043,43.646967],"type":"Point"}
 }

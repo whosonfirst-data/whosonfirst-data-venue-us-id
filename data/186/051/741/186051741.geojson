@@ -2,13 +2,14 @@
   "id": 186051741,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.767703,47.788091,-116.767703,47.788091",
     "geom:latitude":47.788091,
     "geom:longitude":-116.767703,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1305 E Lancaster Rd",
     "sg:city":"Hayden",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":186051741,
-    "wof:lastmodified":1449052020,
+    "wof:lastmodified":1466487331,
     "wof:name":"Stonehill Group",
     "wof:parent_id":85821457,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-116.767703,47.788091,-116.767703,47.788091],
+  "bbox": [
+    -116.767703,
+    47.788091,
+    -116.767703,
+    47.788091
+],
   "geometry": {"coordinates":[-116.767703,47.788091],"type":"Point"}
 }

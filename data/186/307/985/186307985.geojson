@@ -2,13 +2,14 @@
   "id": 186307985,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-113.677543,42.60977,-113.677543,42.60977",
     "geom:latitude":42.60977,
     "geom:longitude":-113.677543,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"724 S 4th St",
     "sg:city":"Rupert",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":186307985,
-    "wof:lastmodified":1449051084,
+    "wof:lastmodified":1466488683,
     "wof:name":"Church Of Christ Of Central",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-113.677543,42.60977,-113.677543,42.60977],
+  "bbox": [
+    -113.677543,
+    42.60977,
+    -113.677543,
+    42.60977
+],
   "geometry": {"coordinates":[-113.677543,42.60977],"type":"Point"}
 }

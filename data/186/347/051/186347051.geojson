@@ -2,13 +2,14 @@
   "id": 186347051,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.794435,47.701685,-116.794435,47.701685",
     "geom:latitude":47.701685,
     "geom:longitude":-116.794435,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2615 N Fruitland Ln",
     "sg:city":"Coeur D Alene",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":186347051,
-    "wof:lastmodified":1449051672,
+    "wof:lastmodified":1466488829,
     "wof:name":"A Center For Dental Health",
     "wof:parent_id":85821457,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "dentist"
     ]
 },
-  "bbox": [-116.794435,47.701685,-116.794435,47.701685],
-  "geometry": {"coordinates":[-116.794435,47.701685],"type":"Point"}
+  "bbox": [
+    -116.794435,
+    47.701685,
+    -116.794435,
+    47.701685
+],
+  "geometry": {"coordinates":[-116.79443499999999,47.701685],"type":"Point"}
 }

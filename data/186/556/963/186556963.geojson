@@ -2,13 +2,14 @@
   "id": 186556963,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.5289,48.309253,-116.5289,48.309253",
     "geom:latitude":48.309253,
     "geom:longitude":-116.5289,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1500 Hwy 200",
     "sg:city":"Sandpoint",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":186556963,
-    "wof:lastmodified":1449051055,
+    "wof:lastmodified":1466488935,
     "wof:name":"Industrial Commission",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "resource"
     ]
 },
-  "bbox": [-116.5289,48.309253,-116.5289,48.309253],
-  "geometry": {"coordinates":[-116.5289,48.309253],"type":"Point"}
+  "bbox": [
+    -116.5289,
+    48.309253,
+    -116.5289,
+    48.309253
+],
+  "geometry": {"coordinates":[-116.52889999999999,48.309253],"type":"Point"}
 }

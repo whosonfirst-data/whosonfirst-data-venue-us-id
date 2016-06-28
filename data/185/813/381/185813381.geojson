@@ -2,13 +2,14 @@
   "id": 185813381,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.765747,47.789995,-116.765747,47.789995",
     "geom:latitude":47.789995,
     "geom:longitude":-116.765747,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"13273 N Westwood Dr",
     "sg:city":"Hayden",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":185813381,
-    "wof:lastmodified":1449007021,
+    "wof:lastmodified":1466488398,
     "wof:name":"Simmons Construction",
     "wof:parent_id":85821457,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "house"
     ]
 },
-  "bbox": [-116.765747,47.789995,-116.765747,47.789995],
+  "bbox": [
+    -116.765747,
+    47.789995,
+    -116.765747,
+    47.789995
+],
   "geometry": {"coordinates":[-116.765747,47.789995],"type":"Point"}
 }

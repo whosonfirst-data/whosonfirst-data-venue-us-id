@@ -2,13 +2,14 @@
   "id": 186303887,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.247912,43.611548,-116.247912,43.611548",
     "geom:latitude":43.611548,
     "geom:longitude":-116.247912,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5269 Emerald St",
     "sg:city":"Boise",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186303887,
-    "wof:lastmodified":1449050278,
+    "wof:lastmodified":1466488679,
     "wof:name":"Church Referral Network",
     "wof:parent_id":85876311,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-116.247912,43.611548,-116.247912,43.611548],
+  "bbox": [
+    -116.247912,
+    43.611548,
+    -116.247912,
+    43.611548
+],
   "geometry": {"coordinates":[-116.247912,43.611548],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 185813981,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.827833,47.802563,-116.827833,47.802563",
     "geom:latitude":47.802563,
     "geom:longitude":-116.827833,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2530 W Boekel Rd",
     "sg:city":"Rathdrum",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":185813981,
-    "wof:lastmodified":1449007023,
+    "wof:lastmodified":1466488403,
     "wof:name":"Wamica Seed",
     "wof:parent_id":85821457,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "fertilizer"
     ]
 },
-  "bbox": [-116.827833,47.802563,-116.827833,47.802563],
+  "bbox": [
+    -116.827833,
+    47.802563,
+    -116.827833,
+    47.802563
+],
   "geometry": {"coordinates":[-116.827833,47.802563],"type":"Point"}
 }

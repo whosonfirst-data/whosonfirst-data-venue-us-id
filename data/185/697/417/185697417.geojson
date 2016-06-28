@@ -2,13 +2,14 @@
   "id": 185697417,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.12393,47.54128,-116.12393,47.54128",
     "geom:latitude":47.54128,
     "geom:longitude":-116.12393,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"207 W Cameron Ave",
     "sg:city":"Kellogg",
     "sg:classifiers":[
@@ -52,16 +53,22 @@
         }
     ],
     "wof:id":185697417,
-    "wof:lastmodified":1449007615,
+    "wof:lastmodified":1466487502,
     "wof:name":"Stein's IGA",
     "wof:parent_id":85849049,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "grocer"
     ]
 },
-  "bbox": [-116.12393,47.54128,-116.12393,47.54128],
+  "bbox": [
+    -116.12393,
+    47.54128,
+    -116.12393,
+    47.54128
+],
   "geometry": {"coordinates":[-116.12393,47.54128],"type":"Point"}
 }

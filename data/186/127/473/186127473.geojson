@@ -2,13 +2,14 @@
   "id": 186127473,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.065307,43.513176,-112.065307,43.513176",
     "geom:latitude":43.513176,
     "geom:longitude":-112.065307,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2140 N Skyline Dr",
     "sg:city":"Idaho Falls",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":186127473,
-    "wof:lastmodified":1449052806,
+    "wof:lastmodified":1466488130,
     "wof:name":"Delta Airlines Idaho Fall",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "air"
     ]
 },
-  "bbox": [-112.065307,43.513176,-112.065307,43.513176],
+  "bbox": [
+    -112.065307,
+    43.513176,
+    -112.065307,
+    43.513176
+],
   "geometry": {"coordinates":[-112.065307,43.513176],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 185918639,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.947424,44.050876,-116.947424,44.050876",
     "geom:latitude":44.050876,
     "geom:longitude":-116.947424,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8952 Washoe Rd",
     "sg:city":"Payette",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":185918639,
-    "wof:lastmodified":1449007683,
+    "wof:lastmodified":1466488597,
     "wof:name":"Mill Pro",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "lumber"
     ]
 },
-  "bbox": [-116.947424,44.050876,-116.947424,44.050876],
+  "bbox": [
+    -116.947424,
+    44.050876,
+    -116.947424,
+    44.050876
+],
   "geometry": {"coordinates":[-116.947424,44.050876],"type":"Point"}
 }

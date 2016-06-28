@@ -2,13 +2,14 @@
   "id": 186219111,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.789656,43.832484,-111.789656,43.832484",
     "geom:latitude":43.832484,
     "geom:longitude":-111.789656,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"385 N 2nd W",
     "sg:city":"Rexburg",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":186219111,
-    "wof:lastmodified":1449052931,
+    "wof:lastmodified":1466488533,
     "wof:name":"Retreading Warehouse",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "tire"
     ]
 },
-  "bbox": [-111.789656,43.832484,-111.789656,43.832484],
-  "geometry": {"coordinates":[-111.789656,43.832484],"type":"Point"}
+  "bbox": [
+    -111.789656,
+    43.832484,
+    -111.789656,
+    43.832484
+],
+  "geometry": {"coordinates":[-111.78965599999999,43.832484],"type":"Point"}
 }

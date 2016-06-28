@@ -2,13 +2,14 @@
   "id": 185925693,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.321933,43.624336,-116.321933,43.624336",
     "geom:latitude":43.624336,
     "geom:longitude":-116.321933,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"11204 W Bluecanyon St",
     "sg:city":"Boise",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":185925693,
-    "wof:lastmodified":1449006606,
+    "wof:lastmodified":1466488527,
     "wof:name":"Knotty Pine Motel",
     "wof:parent_id":85811491,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "apartment"
     ]
 },
-  "bbox": [-116.321933,43.624336,-116.321933,43.624336],
+  "bbox": [
+    -116.321933,
+    43.624336,
+    -116.321933,
+    43.624336
+],
   "geometry": {"coordinates":[-116.321933,43.624336],"type":"Point"}
 }

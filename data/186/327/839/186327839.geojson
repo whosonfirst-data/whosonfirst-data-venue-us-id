@@ -2,13 +2,14 @@
   "id": 186327839,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.574697,43.575929,-116.574697,43.575929",
     "geom:latitude":43.575929,
     "geom:longitude":-116.574697,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"135 Lone Star Rd",
     "sg:city":"Nampa",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186327839,
-    "wof:lastmodified":1449050448,
+    "wof:lastmodified":1466488817,
     "wof:name":"Lone Star Market & Nursery",
     "wof:parent_id":85827787,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "grocer"
     ]
 },
-  "bbox": [-116.574697,43.575929,-116.574697,43.575929],
+  "bbox": [
+    -116.574697,
+    43.575929,
+    -116.574697,
+    43.575929
+],
   "geometry": {"coordinates":[-116.574697,43.575929],"type":"Point"}
 }

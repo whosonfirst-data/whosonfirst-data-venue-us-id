@@ -2,13 +2,14 @@
   "id": 186541453,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.349209,46.047639,-116.349209,46.047639",
     "geom:latitude":46.047639,
     "geom:longitude":-116.349209,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"414 Main St",
     "sg:city":"Cottonwood",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":186541453,
-    "wof:lastmodified":1449050544,
+    "wof:lastmodified":1466488931,
     "wof:name":"Forsmann Accounting Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "accountant"
     ]
 },
-  "bbox": [-116.349209,46.047639,-116.349209,46.047639],
+  "bbox": [
+    -116.349209,
+    46.047639,
+    -116.349209,
+    46.047639
+],
   "geometry": {"coordinates":[-116.349209,46.047639],"type":"Point"}
 }

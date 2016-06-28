@@ -2,13 +2,14 @@
   "id": 169627425,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.475816,42.559971,-114.475816,42.559971",
     "geom:latitude":42.559971,
     "geom:longitude":-114.475816,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"507 Main Ave W",
     "sg:city":"Twin Falls",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":169627425,
-    "wof:lastmodified":1449036041,
+    "wof:lastmodified":1466487233,
     "wof:name":"Main West Denture Clinic",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-114.475816,42.559971,-114.475816,42.559971],
-  "geometry": {"coordinates":[-114.475816,42.559971],"type":"Point"}
+  "bbox": [
+    -114.475816,
+    42.559971,
+    -114.475816,
+    42.559971
+],
+  "geometry": {"coordinates":[-114.47581599999999,42.559971],"type":"Point"}
 }

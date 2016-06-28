@@ -2,13 +2,14 @@
   "id": 186514565,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.321842,43.661142,-116.321842,43.661142",
     "geom:latitude":43.661142,
     "geom:longitude":-116.321842,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"11311 Chinden Blvd",
     "sg:city":"Boise",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":186514565,
-    "wof:lastmodified":1449051723,
+    "wof:lastmodified":1466488923,
     "wof:name":"Hewlett-Packard Co",
     "wof:parent_id":85876357,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "dealer"
     ]
 },
-  "bbox": [-116.321842,43.661142,-116.321842,43.661142],
+  "bbox": [
+    -116.321842,
+    43.661142,
+    -116.321842,
+    43.661142
+],
   "geometry": {"coordinates":[-116.321842,43.661142],"type":"Point"}
 }

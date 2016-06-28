@@ -2,13 +2,14 @@
   "id": 186260555,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.325795,43.712992,-116.325795,43.712992",
     "geom:latitude":43.712992,
     "geom:longitude":-116.325795,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2255 E Faunhill Dr",
     "sg:city":"Eagle",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":186260555,
-    "wof:lastmodified":1449050862,
+    "wof:lastmodified":1466488610,
     "wof:name":"JBL Enterprises",
     "wof:parent_id":85876315,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "holding"
     ]
 },
-  "bbox": [-116.325795,43.712992,-116.325795,43.712992],
+  "bbox": [
+    -116.325795,
+    43.712992,
+    -116.325795,
+    43.712992
+],
   "geometry": {"coordinates":[-116.325795,43.712992],"type":"Point"}
 }

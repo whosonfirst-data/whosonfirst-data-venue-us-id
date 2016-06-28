@@ -2,13 +2,14 @@
   "id": 186271955,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.546075,48.30512,-116.546075,48.30512",
     "geom:latitude":48.30512,
     "geom:longitude":-116.546075,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"476927 Hwy 95",
     "sg:city":"Ponderay",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":186271955,
-    "wof:lastmodified":1449051778,
+    "wof:lastmodified":1466488543,
     "wof:name":"Perfection Tire & Auto Repair",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "tire"
     ]
 },
-  "bbox": [-116.546075,48.30512,-116.546075,48.30512],
+  "bbox": [
+    -116.546075,
+    48.30512,
+    -116.546075,
+    48.30512
+],
   "geometry": {"coordinates":[-116.546075,48.30512],"type":"Point"}
 }

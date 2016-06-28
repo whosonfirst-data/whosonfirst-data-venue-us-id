@@ -2,13 +2,14 @@
   "id": 186236335,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.879091,47.717397,-116.879091,47.717397",
     "geom:latitude":47.717397,
     "geom:longitude":-116.879091,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5239 E Heather Ln",
     "sg:city":"Post Falls",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":186236335,
-    "wof:lastmodified":1449050533,
+    "wof:lastmodified":1466488568,
     "wof:name":"Robert Pedersen Fine Woodsmith",
     "wof:parent_id":85821457,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-116.879091,47.717397,-116.879091,47.717397],
+  "bbox": [
+    -116.879091,
+    47.717397,
+    -116.879091,
+    47.717397
+],
   "geometry": {"coordinates":[-116.879091,47.717397],"type":"Point"}
 }

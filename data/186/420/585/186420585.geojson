@@ -2,13 +2,14 @@
   "id": 186420585,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.122765,46.412521,-116.122765,46.412521",
     "geom:latitude":46.412521,
     "geom:longitude":-116.122765,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4307 Lower Fords Creek Rd",
     "sg:city":"Orofino",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":186420585,
-    "wof:lastmodified":1449051664,
+    "wof:lastmodified":1466488797,
     "wof:name":"Custom WD Sgns By Bill Cmpbell",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-116.122765,46.412521,-116.122765,46.412521],
+  "bbox": [
+    -116.122765,
+    46.412521,
+    -116.122765,
+    46.412521
+],
   "geometry": {"coordinates":[-116.122765,46.412521],"type":"Point"}
 }

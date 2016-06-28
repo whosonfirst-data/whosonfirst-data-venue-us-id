@@ -2,13 +2,14 @@
   "id": 186194347,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.875496,47.705295,-116.875496,47.705295",
     "geom:latitude":47.705295,
     "geom:longitude":-116.875496,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5676 E Seltice Way",
     "sg:city":"Post Falls",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186194347,
-    "wof:lastmodified":1449052625,
+    "wof:lastmodified":1466488490,
     "wof:name":"MOR Manufacturing Corp",
     "wof:parent_id":85821457,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "fabricating"
     ]
 },
-  "bbox": [-116.875496,47.705295,-116.875496,47.705295],
+  "bbox": [
+    -116.875496,
+    47.705295,
+    -116.875496,
+    47.705295
+],
   "geometry": {"coordinates":[-116.875496,47.705295],"type":"Point"}
 }

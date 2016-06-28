@@ -2,13 +2,14 @@
   "id": 320543009,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.337753,43.602808,-116.337753,43.602808",
     "geom:latitude":43.602808,
     "geom:longitude":-116.337753,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"12523 W View Ridge Dr",
     "sg:city":"Boise",
     "sg:classifiers":[
@@ -68,10 +69,11 @@
         }
     ],
     "wof:id":320543009,
-    "wof:lastmodified":1449011988,
+    "wof:lastmodified":1466486957,
     "wof:name":"Absolute Irrigation Maintenance Inc",
     "wof:parent_id":85805083,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -85,6 +87,11 @@
         "supervisory"
     ]
 },
-  "bbox": [-116.337753,43.602808,-116.337753,43.602808],
-  "geometry": {"coordinates":[-116.337753,43.602808],"type":"Point"}
+  "bbox": [
+    -116.337753,
+    43.602808,
+    -116.337753,
+    43.602808
+],
+  "geometry": {"coordinates":[-116.33775300000001,43.602808],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186253181,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.38065,43.633162,-116.38065,43.633162",
     "geom:latitude":43.633162,
     "geom:longitude":-116.38065,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2968 N Boulder Creek Pl",
     "sg:city":"Meridian",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186253181,
-    "wof:lastmodified":1449052684,
+    "wof:lastmodified":1466488601,
     "wof:name":"Wind LLC",
     "wof:parent_id":85876351,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "management"
     ]
 },
-  "bbox": [-116.38065,43.633162,-116.38065,43.633162],
+  "bbox": [
+    -116.38065,
+    43.633162,
+    -116.38065,
+    43.633162
+],
   "geometry": {"coordinates":[-116.38065,43.633162],"type":"Point"}
 }

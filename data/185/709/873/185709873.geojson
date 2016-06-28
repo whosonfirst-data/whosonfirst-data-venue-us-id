@@ -2,13 +2,14 @@
   "id": 185709873,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.239335,43.62755,-116.239335,43.62755",
     "geom:latitude":43.62755,
     "geom:longitude":-116.239335,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"202 E 37th St",
     "sg:city":"Boise",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":185709873,
-    "wof:lastmodified":1449006933,
+    "wof:lastmodified":1466487602,
     "wof:name":"Peaks & Plains Medical",
     "wof:parent_id":85876301,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "clinic"
     ]
 },
-  "bbox": [-116.239335,43.62755,-116.239335,43.62755],
+  "bbox": [
+    -116.239335,
+    43.62755,
+    -116.239335,
+    43.62755
+],
   "geometry": {"coordinates":[-116.239335,43.62755],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 185976859,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.940942,43.792342,-116.940942,43.792342",
     "geom:latitude":43.792342,
     "geom:longitude":-116.940942,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"403 E Walker Ave",
     "sg:city":"Parma",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":185976859,
-    "wof:lastmodified":1449007270,
+    "wof:lastmodified":1466488716,
     "wof:name":"On Target",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "supply"
     ]
 },
-  "bbox": [-116.940942,43.792342,-116.940942,43.792342],
-  "geometry": {"coordinates":[-116.940942,43.792342],"type":"Point"}
+  "bbox": [
+    -116.940942,
+    43.792342,
+    -116.940942,
+    43.792342
+],
+  "geometry": {"coordinates":[-116.94094200000001,43.792342],"type":"Point"}
 }

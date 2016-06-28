@@ -2,13 +2,14 @@
   "id": 186295057,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.305278,43.65533,-116.305278,43.65533",
     "geom:latitude":43.65533,
     "geom:longitude":-116.305278,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5656 N Kercliffe Ct",
     "sg:city":"Boise",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186295057,
-    "wof:lastmodified":1449051460,
+    "wof:lastmodified":1466488662,
     "wof:name":"William Wayne Patton",
     "wof:parent_id":85876357,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "clean"
     ]
 },
-  "bbox": [-116.305278,43.65533,-116.305278,43.65533],
+  "bbox": [
+    -116.305278,
+    43.65533,
+    -116.305278,
+    43.65533
+],
   "geometry": {"coordinates":[-116.305278,43.65533],"type":"Point"}
 }

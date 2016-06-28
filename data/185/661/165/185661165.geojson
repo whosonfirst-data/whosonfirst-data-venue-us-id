@@ -2,13 +2,14 @@
   "id": 185661165,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.698478,43.150467,-115.698478,43.150467",
     "geom:latitude":43.150467,
     "geom:longitude":-115.698478,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1876 Stonetree Dr",
     "sg:city":"Mountain Home",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":185661165,
-    "wof:lastmodified":1449008051,
+    "wof:lastmodified":1466487224,
     "wof:name":"Bill's Rental & Sm Eng Repair",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "rental"
     ]
 },
-  "bbox": [-115.698478,43.150467,-115.698478,43.150467],
-  "geometry": {"coordinates":[-115.698478,43.150467],"type":"Point"}
+  "bbox": [
+    -115.698478,
+    43.150467,
+    -115.698478,
+    43.150467
+],
+  "geometry": {"coordinates":[-115.69847799999999,43.150467],"type":"Point"}
 }

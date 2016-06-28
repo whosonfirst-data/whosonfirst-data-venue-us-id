@@ -2,13 +2,14 @@
   "id": 185919079,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.499882,43.864271,-116.499882,43.864271",
     "geom:latitude":43.864271,
     "geom:longitude":-116.499882,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1340 S Washington Ave",
     "sg:city":"Emmett",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":185919079,
-    "wof:lastmodified":1449007835,
+    "wof:lastmodified":1466488597,
     "wof:name":"Shell Food Mart",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-116.499882,43.864271,-116.499882,43.864271],
+  "bbox": [
+    -116.499882,
+    43.864271,
+    -116.499882,
+    43.864271
+],
   "geometry": {"coordinates":[-116.499882,43.864271],"type":"Point"}
 }

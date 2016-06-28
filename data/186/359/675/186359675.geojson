@@ -2,13 +2,14 @@
   "id": 186359675,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-117.031518,47.675967,-117.031518,47.675967",
     "geom:latitude":47.675967,
     "geom:longitude":-117.031518,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"18281 W Hardison Rd",
     "sg:city":"Post Falls",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":186359675,
-    "wof:lastmodified":1449050199,
+    "wof:lastmodified":1466488756,
     "wof:name":"Post Falls Equestrian Ctr",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "training"
     ]
 },
-  "bbox": [-117.031518,47.675967,-117.031518,47.675967],
-  "geometry": {"coordinates":[-117.031518,47.675967],"type":"Point"}
+  "bbox": [
+    -117.031518,
+    47.675967,
+    -117.031518,
+    47.675967
+],
+  "geometry": {"coordinates":[-117.03151800000001,47.675967],"type":"Point"}
 }

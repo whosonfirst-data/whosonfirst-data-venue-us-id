@@ -2,13 +2,14 @@
   "id": 186302893,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.924002,43.938887,-116.924002,43.938887",
     "geom:latitude":43.938887,
     "geom:longitude":-116.924002,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5075 Canal Ln",
     "sg:city":"Fruitland",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":186302893,
-    "wof:lastmodified":1449051290,
+    "wof:lastmodified":1466488674,
     "wof:name":"Preferred Blinds",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "blind"
     ]
 },
-  "bbox": [-116.924002,43.938887,-116.924002,43.938887],
+  "bbox": [
+    -116.924002,
+    43.938887,
+    -116.924002,
+    43.938887
+],
   "geometry": {"coordinates":[-116.924002,43.938887],"type":"Point"}
 }

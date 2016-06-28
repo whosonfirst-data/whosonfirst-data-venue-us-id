@@ -2,13 +2,14 @@
   "id": 186183961,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.115001,44.899154,-116.115001,44.899154",
     "geom:latitude":44.899154,
     "geom:longitude":-116.115001,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"304 Rio Vista Blvd",
     "sg:city":"Mc Call",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":186183961,
-    "wof:lastmodified":1449051821,
+    "wof:lastmodified":1466488458,
     "wof:name":"Class VI Whitewater",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "equipment"
     ]
 },
-  "bbox": [-116.115001,44.899154,-116.115001,44.899154],
-  "geometry": {"coordinates":[-116.115001,44.899154],"type":"Point"}
+  "bbox": [
+    -116.115001,
+    44.899154,
+    -116.115001,
+    44.899154
+],
+  "geometry": {"coordinates":[-116.11500100000001,44.899154],"type":"Point"}
 }

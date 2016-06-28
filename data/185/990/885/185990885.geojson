@@ -2,13 +2,14 @@
   "id": 185990885,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-113.904377,45.185523,-113.904377,45.185523",
     "geom:latitude":45.185523,
     "geom:longitude":-113.904377,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"510 Bulwer St",
     "sg:city":"Salmon",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":185990885,
-    "wof:lastmodified":1449007669,
+    "wof:lastmodified":1466488737,
     "wof:name":"Salmon Christian School",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-113.904377,45.185523,-113.904377,45.185523],
+  "bbox": [
+    -113.904377,
+    45.185523,
+    -113.904377,
+    45.185523
+],
   "geometry": {"coordinates":[-113.904377,45.185523],"type":"Point"}
 }

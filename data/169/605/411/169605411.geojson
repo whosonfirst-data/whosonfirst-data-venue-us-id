@@ -2,13 +2,14 @@
   "id": 169605411,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.192173,43.628118,-116.192173,43.628118",
     "geom:latitude":43.628118,
     "geom:longitude":-116.192173,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"420 Sherman St",
     "sg:city":"Boise",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":169605411,
-    "wof:lastmodified":1449034287,
+    "wof:lastmodified":1466486884,
     "wof:name":"R & L Masonry",
     "wof:parent_id":85876313,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-116.192173,43.628118,-116.192173,43.628118],
+  "bbox": [
+    -116.192173,
+    43.628118,
+    -116.192173,
+    43.628118
+],
   "geometry": {"coordinates":[-116.192173,43.628118],"type":"Point"}
 }

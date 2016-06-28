@@ -2,13 +2,14 @@
   "id": 186536995,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.930564,44.067749,-116.930564,44.067749",
     "geom:latitude":44.067749,
     "geom:longitude":-116.930564,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"953 6th Ave S",
     "sg:city":"Payette",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":186536995,
-    "wof:lastmodified":1449051972,
+    "wof:lastmodified":1466488882,
     "wof:name":"Crawford Associates Realty",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-116.930564,44.067749,-116.930564,44.067749],
+  "bbox": [
+    -116.930564,
+    44.067749,
+    -116.930564,
+    44.067749
+],
   "geometry": {"coordinates":[-116.930564,44.067749],"type":"Point"}
 }

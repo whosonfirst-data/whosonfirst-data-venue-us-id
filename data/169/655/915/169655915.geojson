@@ -2,13 +2,14 @@
   "id": 169655915,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.449371,42.56872,-114.449371,42.56872",
     "geom:latitude":42.56872,
     "geom:longitude":-114.449371,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1841 Dorian Dr",
     "sg:city":"Twin Falls",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":169655915,
-    "wof:lastmodified":1449034588,
+    "wof:lastmodified":1466487676,
     "wof:name":"Golay Retriever Kennels",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "sitting"
     ]
 },
-  "bbox": [-114.449371,42.56872,-114.449371,42.56872],
+  "bbox": [
+    -114.449371,
+    42.56872,
+    -114.449371,
+    42.56872
+],
   "geometry": {"coordinates":[-114.449371,42.56872],"type":"Point"}
 }

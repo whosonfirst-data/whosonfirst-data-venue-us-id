@@ -2,13 +2,14 @@
   "id": 337322267,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.790797,47.713416,-116.790797,47.713416",
     "geom:latitude":47.713416,
     "geom:longitude":-116.790797,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"269 W Sunset Ave",
     "sg:city":"Coeur D Alene",
     "sg:classifiers":[
@@ -58,14 +59,20 @@
         }
     ],
     "wof:id":337322267,
-    "wof:lastmodified":1449026923,
+    "wof:lastmodified":1466487249,
     "wof:name":"Realteam Real Estate Ctr",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-116.790797,47.713416,-116.790797,47.713416],
+  "bbox": [
+    -116.790797,
+    47.713416,
+    -116.790797,
+    47.713416
+],
   "geometry": {"coordinates":[-116.790797,47.713416],"type":"Point"}
 }

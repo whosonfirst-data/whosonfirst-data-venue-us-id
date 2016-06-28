@@ -2,13 +2,14 @@
   "id": 169852865,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.16801,43.600762,-116.16801,43.600762",
     "geom:latitude":43.600762,
     "geom:longitude":-116.16801,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2285 Warm Springs Ave",
     "sg:city":"Boise",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":169852865,
-    "wof:lastmodified":1449035403,
+    "wof:lastmodified":1466488541,
     "wof:name":"Five Rivers Furniture",
     "wof:parent_id":85876305,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-116.16801,43.600762,-116.16801,43.600762],
+  "bbox": [
+    -116.16801,
+    43.600762,
+    -116.16801,
+    43.600762
+],
   "geometry": {"coordinates":[-116.16801,43.600762],"type":"Point"}
 }

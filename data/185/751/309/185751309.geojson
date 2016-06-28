@@ -2,13 +2,14 @@
   "id": 185751309,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.465033,42.552026,-114.465033,42.552026",
     "geom:latitude":42.552026,
     "geom:longitude":-114.465033,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"520 Main Ave S",
     "sg:city":"Twin Falls",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":185751309,
-    "wof:lastmodified":1449006678,
+    "wof:lastmodified":1466487934,
     "wof:name":"Audio Creations",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "system"
     ]
 },
-  "bbox": [-114.465033,42.552026,-114.465033,42.552026],
-  "geometry": {"coordinates":[-114.465033,42.552026],"type":"Point"}
+  "bbox": [
+    -114.465033,
+    42.552026,
+    -114.465033,
+    42.552026
+],
+  "geometry": {"coordinates":[-114.46503300000001,42.552026],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186540789,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.559376,46.799864,-116.559376,46.799864",
     "geom:latitude":46.799864,
     "geom:longitude":-116.559376,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"407 Idaho St",
     "sg:city":"Deary",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":186540789,
-    "wof:lastmodified":1449051418,
+    "wof:lastmodified":1466488886,
     "wof:name":"Greg's Chimney Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "contractor"
     ]
 },
-  "bbox": [-116.559376,46.799864,-116.559376,46.799864],
+  "bbox": [
+    -116.559376,
+    46.799864,
+    -116.559376,
+    46.799864
+],
   "geometry": {"coordinates":[-116.559376,46.799864],"type":"Point"}
 }

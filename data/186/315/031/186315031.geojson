@@ -2,13 +2,14 @@
   "id": 186315031,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.586975,43.550317,-116.586975,43.550317",
     "geom:latitude":43.550317,
     "geom:longitude":-116.586975,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1908 Tyler St",
     "sg:city":"Nampa",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186315031,
-    "wof:lastmodified":1449052899,
+    "wof:lastmodified":1466488614,
     "wof:name":"Brad Cooper Construction",
     "wof:parent_id":85827787,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-116.586975,43.550317,-116.586975,43.550317],
+  "bbox": [
+    -116.586975,
+    43.550317,
+    -116.586975,
+    43.550317
+],
   "geometry": {"coordinates":[-116.586975,43.550317],"type":"Point"}
 }

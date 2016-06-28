@@ -2,13 +2,14 @@
   "id": 320525421,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-117.001908,46.414141,-117.001908,46.414141",
     "geom:latitude":46.414141,
     "geom:longitude":-117.001908,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"625 21st St Ste B",
     "sg:city":"Lewiston",
     "sg:classifiers":[
@@ -68,10 +69,11 @@
         }
     ],
     "wof:id":320525421,
-    "wof:lastmodified":1449014188,
+    "wof:lastmodified":1466487264,
     "wof:name":"Scruples Hair Nail & Tanning",
     "wof:parent_id":85837769,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -80,6 +82,11 @@
         "supply"
     ]
 },
-  "bbox": [-117.001908,46.414141,-117.001908,46.414141],
+  "bbox": [
+    -117.001908,
+    46.414141,
+    -117.001908,
+    46.414141
+],
   "geometry": {"coordinates":[-117.001908,46.414141],"type":"Point"}
 }

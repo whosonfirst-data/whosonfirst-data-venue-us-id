@@ -2,13 +2,14 @@
   "id": 169716125,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.274235,43.553348,-116.274235,43.553348",
     "geom:latitude":43.553348,
     "geom:longitude":-116.274235,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5757 S Cole Rd",
     "sg:city":"Boise",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":169716125,
-    "wof:lastmodified":1449033159,
+    "wof:lastmodified":1466488361,
     "wof:name":"Boyer's Glass Co",
     "wof:parent_id":85876331,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "plate"
     ]
 },
-  "bbox": [-116.274235,43.553348,-116.274235,43.553348],
+  "bbox": [
+    -116.274235,
+    43.553348,
+    -116.274235,
+    43.553348
+],
   "geometry": {"coordinates":[-116.274235,43.553348],"type":"Point"}
 }

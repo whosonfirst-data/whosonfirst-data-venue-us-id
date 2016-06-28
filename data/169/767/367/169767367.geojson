@@ -2,13 +2,14 @@
   "id": 169767367,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.133333,43.385558,-112.133333,43.385558",
     "geom:latitude":43.385558,
     "geom:longitude":-112.133333,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"305 N Hanson Ave",
     "sg:city":"Shelley",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":169767367,
-    "wof:lastmodified":1449033627,
+    "wof:lastmodified":1466488441,
     "wof:name":"Gillespies Construction",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "house"
     ]
 },
-  "bbox": [-112.133333,43.385558,-112.133333,43.385558],
-  "geometry": {"coordinates":[-112.133333,43.385558],"type":"Point"}
+  "bbox": [
+    -112.133333,
+    43.385558,
+    -112.133333,
+    43.385558
+],
+  "geometry": {"coordinates":[-112.13333299999999,43.385558],"type":"Point"}
 }

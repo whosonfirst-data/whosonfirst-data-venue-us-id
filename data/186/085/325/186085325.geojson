@@ -2,13 +2,14 @@
   "id": 186085325,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.837525,43.941682,-111.837525,43.941682",
     "geom:latitude":43.941682,
     "geom:longitude":-111.837525,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"383 N 1600 E",
     "sg:city":"St Anthony",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":186085325,
-    "wof:lastmodified":1449051065,
+    "wof:lastmodified":1466487713,
     "wof:name":"B M Tibbitts & Sons Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "potato"
     ]
 },
-  "bbox": [-111.837525,43.941682,-111.837525,43.941682],
+  "bbox": [
+    -111.837525,
+    43.941682,
+    -111.837525,
+    43.941682
+],
   "geometry": {"coordinates":[-111.837525,43.941682],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186156419,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.224153,43.57106,-116.224153,43.57106",
     "geom:latitude":43.57106,
     "geom:longitude":-116.224153,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3591 Rickenbacker St",
     "sg:city":"Boise",
     "sg:classifiers":[
@@ -52,16 +53,22 @@
         }
     ],
     "wof:id":186156419,
-    "wof:lastmodified":1449050944,
+    "wof:lastmodified":1466488390,
     "wof:name":"Metro Couriers Operations",
     "wof:parent_id":85876337,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "courier"
     ]
 },
-  "bbox": [-116.224153,43.57106,-116.224153,43.57106],
+  "bbox": [
+    -116.224153,
+    43.57106,
+    -116.224153,
+    43.57106
+],
   "geometry": {"coordinates":[-116.224153,43.57106],"type":"Point"}
 }

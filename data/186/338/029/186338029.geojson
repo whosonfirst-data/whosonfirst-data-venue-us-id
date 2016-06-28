@@ -2,13 +2,14 @@
   "id": 186338029,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.837737,47.726647,-116.837737,47.726647",
     "geom:latitude":47.726647,
     "geom:longitude":-116.837737,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5002 Industrial Way",
     "sg:city":"Coeur D Alene",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186338029,
-    "wof:lastmodified":1449051320,
+    "wof:lastmodified":1466488726,
     "wof:name":"A-I Consolidated Inc",
     "wof:parent_id":85821457,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "supply"
     ]
 },
-  "bbox": [-116.837737,47.726647,-116.837737,47.726647],
+  "bbox": [
+    -116.837737,
+    47.726647,
+    -116.837737,
+    47.726647
+],
   "geometry": {"coordinates":[-116.837737,47.726647],"type":"Point"}
 }

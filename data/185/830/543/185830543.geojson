@@ -2,13 +2,14 @@
   "id": 185830543,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.448683,48.472589,-116.448683,48.472589",
     "geom:latitude":48.472589,
     "geom:longitude":-116.448683,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1014 Elmira Rd",
     "sg:city":"Sandpoint",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":185830543,
-    "wof:lastmodified":1449006956,
+    "wof:lastmodified":1466488416,
     "wof:name":"Jenkins & Son Christmas Trees",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "tree"
     ]
 },
-  "bbox": [-116.448683,48.472589,-116.448683,48.472589],
+  "bbox": [
+    -116.448683,
+    48.472589,
+    -116.448683,
+    48.472589
+],
   "geometry": {"coordinates":[-116.448683,48.472589],"type":"Point"}
 }

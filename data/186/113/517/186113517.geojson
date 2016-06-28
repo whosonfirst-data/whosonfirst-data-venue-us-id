@@ -2,13 +2,14 @@
   "id": 186113517,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.94643,47.720558,-116.94643,47.720558",
     "geom:latitude":47.720558,
     "geom:longitude":-116.94643,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1216 N Frederick St",
     "sg:city":"Post Falls",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":186113517,
-    "wof:lastmodified":1449052803,
+    "wof:lastmodified":1466488000,
     "wof:name":"Idaho Kettle Korn",
     "wof:parent_id":85833263,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "eating"
     ]
 },
-  "bbox": [-116.94643,47.720558,-116.94643,47.720558],
-  "geometry": {"coordinates":[-116.94643,47.720558],"type":"Point"}
+  "bbox": [
+    -116.94643,
+    47.720558,
+    -116.94643,
+    47.720558
+],
+  "geometry": {"coordinates":[-116.94643000000001,47.720558],"type":"Point"}
 }

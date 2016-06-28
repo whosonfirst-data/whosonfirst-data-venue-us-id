@@ -2,13 +2,14 @@
   "id": 186055193,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.794609,47.775212,-116.794609,47.775212",
     "geom:latitude":47.775212,
     "geom:longitude":-116.794609,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"11392 N Alaska Loop",
     "sg:city":"Hayden",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":186055193,
-    "wof:lastmodified":1449050999,
+    "wof:lastmodified":1466487371,
     "wof:name":"Sun Aire Mobile Home Park",
     "wof:parent_id":85821457,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "home"
     ]
 },
-  "bbox": [-116.794609,47.775212,-116.794609,47.775212],
-  "geometry": {"coordinates":[-116.794609,47.775212],"type":"Point"}
+  "bbox": [
+    -116.794609,
+    47.775212,
+    -116.794609,
+    47.775212
+],
+  "geometry": {"coordinates":[-116.79460899999999,47.775212],"type":"Point"}
 }

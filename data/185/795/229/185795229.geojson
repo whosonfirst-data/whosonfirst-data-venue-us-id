@@ -2,13 +2,14 @@
   "id": 185795229,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.294142,43.609913,-116.294142,43.609913",
     "geom:latitude":43.609913,
     "geom:longitude":-116.294142,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"274 N Maple Grove Rd",
     "sg:city":"Boise",
     "sg:classifiers":[
@@ -55,10 +56,11 @@
         }
     ],
     "wof:id":185795229,
-    "wof:lastmodified":1449007566,
+    "wof:lastmodified":1466488271,
     "wof:name":"Rsd/Total Control",
     "wof:parent_id":85876309,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -68,6 +70,11 @@
         "supply"
     ]
 },
-  "bbox": [-116.294142,43.609913,-116.294142,43.609913],
-  "geometry": {"coordinates":[-116.294142,43.609913],"type":"Point"}
+  "bbox": [
+    -116.294142,
+    43.609913,
+    -116.294142,
+    43.609913
+],
+  "geometry": {"coordinates":[-116.29414199999999,43.609913],"type":"Point"}
 }

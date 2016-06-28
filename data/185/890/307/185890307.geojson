@@ -2,13 +2,14 @@
   "id": 185890307,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.347175,43.189948,-112.347175,43.189948",
     "geom:latitude":43.189948,
     "geom:longitude":-112.347175,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"282 W Bridge St",
     "sg:city":"Blackfoot",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":185890307,
-    "wof:lastmodified":1449006973,
+    "wof:lastmodified":1466488635,
     "wof:name":"Acevedo Law Firm",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "attorney"
     ]
 },
-  "bbox": [-112.347175,43.189948,-112.347175,43.189948],
-  "geometry": {"coordinates":[-112.347175,43.189948],"type":"Point"}
+  "bbox": [
+    -112.347175,
+    43.189948,
+    -112.347175,
+    43.189948
+],
+  "geometry": {"coordinates":[-112.34717499999999,43.189948],"type":"Point"}
 }

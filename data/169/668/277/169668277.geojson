@@ -2,13 +2,14 @@
   "id": 169668277,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.620105,48.16379,-116.620105,48.16379",
     "geom:latitude":48.16379,
     "geom:longitude":-116.620105,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"46 Phillips Ln",
     "sg:city":"Sagle",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":169668277,
-    "wof:lastmodified":1449034988,
+    "wof:lastmodified":1466487856,
     "wof:name":"Harry Phillips",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -69,6 +71,11 @@
         "timber"
     ]
 },
-  "bbox": [-116.620105,48.16379,-116.620105,48.16379],
+  "bbox": [
+    -116.620105,
+    48.16379,
+    -116.620105,
+    48.16379
+],
   "geometry": {"coordinates":[-116.620105,48.16379],"type":"Point"}
 }

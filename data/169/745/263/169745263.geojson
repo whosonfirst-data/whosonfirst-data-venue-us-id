@@ -2,13 +2,14 @@
   "id": 169745263,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.354437,43.587257,-116.354437,43.587257",
     "geom:latitude":43.587257,
     "geom:longitude":-116.354437,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2010 S Eagle Rd",
     "sg:city":"Meridian",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":169745263,
-    "wof:lastmodified":1449035816,
+    "wof:lastmodified":1466488397,
     "wof:name":"Natures Helping Hand",
     "wof:parent_id":85805083,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-116.354437,43.587257,-116.354437,43.587257],
+  "bbox": [
+    -116.354437,
+    43.587257,
+    -116.354437,
+    43.587257
+],
   "geometry": {"coordinates":[-116.354437,43.587257],"type":"Point"}
 }

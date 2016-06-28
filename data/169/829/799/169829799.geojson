@@ -2,13 +2,14 @@
   "id": 169829799,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.811244,42.912701,-112.811244,42.912701",
     "geom:latitude":42.912701,
     "geom:longitude":-112.811244,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1962 S 2600 W",
     "sg:city":"Aberdeen",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":169829799,
-    "wof:lastmodified":1449035746,
+    "wof:lastmodified":1466488673,
     "wof:name":"Ken Horsch Farms",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.811244,42.912701,-112.811244,42.912701],
+  "bbox": [
+    -112.811244,
+    42.912701,
+    -112.811244,
+    42.912701
+],
   "geometry": {"coordinates":[-112.811244,42.912701],"type":"Point"}
 }

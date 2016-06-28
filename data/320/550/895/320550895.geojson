@@ -2,13 +2,14 @@
   "id": 320550895,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.879934,47.337215,-116.879934,47.337215",
     "geom:latitude":47.337215,
     "geom:longitude":-116.879934,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1088 A St",
     "sg:city":"Plummer",
     "sg:classifiers":[
@@ -61,10 +62,11 @@
         }
     ],
     "wof:id":320550895,
-    "wof:lastmodified":1449013287,
+    "wof:lastmodified":1466487051,
     "wof:name":"Arrow Espresso",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -72,6 +74,11 @@
         "espresso"
     ]
 },
-  "bbox": [-116.879934,47.337215,-116.879934,47.337215],
-  "geometry": {"coordinates":[-116.879934,47.337215],"type":"Point"}
+  "bbox": [
+    -116.879934,
+    47.337215,
+    -116.879934,
+    47.337215
+],
+  "geometry": {"coordinates":[-116.87993400000001,47.337215],"type":"Point"}
 }

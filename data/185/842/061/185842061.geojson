@@ -2,13 +2,14 @@
   "id": 185842061,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.991407,46.418272,-116.991407,46.418272",
     "geom:latitude":46.418272,
     "geom:longitude":-116.991407,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2812 Clearwater Ave",
     "sg:city":"Lewiston",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":185842061,
-    "wof:lastmodified":1449006725,
+    "wof:lastmodified":1466488446,
     "wof:name":"Bann & Bann Auto Works",
     "wof:parent_id":85837769,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "automobile"
     ]
 },
-  "bbox": [-116.991407,46.418272,-116.991407,46.418272],
+  "bbox": [
+    -116.991407,
+    46.418272,
+    -116.991407,
+    46.418272
+],
   "geometry": {"coordinates":[-116.991407,46.418272],"type":"Point"}
 }

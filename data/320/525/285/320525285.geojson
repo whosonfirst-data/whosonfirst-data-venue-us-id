@@ -2,13 +2,14 @@
   "id": 320525285,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.998009,46.387749,-116.998009,46.387749",
     "geom:latitude":46.387749,
     "geom:longitude":-116.998009,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"630 Preston Ave",
     "sg:city":"Lewiston",
     "sg:classifiers":[
@@ -57,10 +58,11 @@
         }
     ],
     "wof:id":320525285,
-    "wof:lastmodified":1449014186,
+    "wof:lastmodified":1466487261,
     "wof:name":"ANB Solutions, LLC",
     "wof:parent_id":85837769,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -72,6 +74,11 @@
         "remodeling"
     ]
 },
-  "bbox": [-116.998009,46.387749,-116.998009,46.387749],
+  "bbox": [
+    -116.998009,
+    46.387749,
+    -116.998009,
+    46.387749
+],
   "geometry": {"coordinates":[-116.998009,46.387749],"type":"Point"}
 }

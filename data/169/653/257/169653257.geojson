@@ -2,13 +2,14 @@
   "id": 169653257,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.802023,43.633201,-116.802023,43.633201",
     "geom:latitude":43.633201,
     "geom:longitude":-116.802023,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"20600 Ustick Rd",
     "sg:city":"Caldwell",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":169653257,
-    "wof:lastmodified":1449032917,
+    "wof:lastmodified":1466487636,
     "wof:name":"TLC Floors",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "contractor"
     ]
 },
-  "bbox": [-116.802023,43.633201,-116.802023,43.633201],
-  "geometry": {"coordinates":[-116.802023,43.633201],"type":"Point"}
+  "bbox": [
+    -116.802023,
+    43.633201,
+    -116.802023,
+    43.633201
+],
+  "geometry": {"coordinates":[-116.80202300000001,43.633201],"type":"Point"}
 }

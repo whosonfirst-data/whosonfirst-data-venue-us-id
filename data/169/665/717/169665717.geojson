@@ -2,13 +2,14 @@
   "id": 169665717,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-113.783553,42.576716,-113.783553,42.576716",
     "geom:latitude":42.576716,
     "geom:longitude":-113.783553,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"293 S 600 W",
     "sg:city":"Heyburn",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":169665717,
-    "wof:lastmodified":1449033695,
+    "wof:lastmodified":1466487823,
     "wof:name":"First Response",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "educational"
     ]
 },
-  "bbox": [-113.783553,42.576716,-113.783553,42.576716],
+  "bbox": [
+    -113.783553,
+    42.576716,
+    -113.783553,
+    42.576716
+],
   "geometry": {"coordinates":[-113.783553,42.576716],"type":"Point"}
 }

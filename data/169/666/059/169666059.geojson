@@ -2,13 +2,14 @@
   "id": 169666059,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.68392,43.966547,-111.68392,43.966547",
     "geom:latitude":43.966547,
     "geom:longitude":-111.68392,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"35 N 1st W",
     "sg:city":"Saint Anthony",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":169666059,
-    "wof:lastmodified":1449033897,
+    "wof:lastmodified":1466487828,
     "wof:name":"Rcs Motorsports",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "general"
     ]
 },
-  "bbox": [-111.68392,43.966547,-111.68392,43.966547],
+  "bbox": [
+    -111.68392,
+    43.966547,
+    -111.68392,
+    43.966547
+],
   "geometry": {"coordinates":[-111.68392,43.966547],"type":"Point"}
 }

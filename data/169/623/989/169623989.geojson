@@ -2,13 +2,14 @@
   "id": 169623989,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.060476,43.46267,-112.060476,43.46267",
     "geom:latitude":43.46267,
     "geom:longitude":-112.060476,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3910 S Yellowstone Hwy",
     "sg:city":"Idaho Falls",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":169623989,
-    "wof:lastmodified":1449034999,
+    "wof:lastmodified":1466487182,
     "wof:name":"Melaleuca",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "drug"
     ]
 },
-  "bbox": [-112.060476,43.46267,-112.060476,43.46267],
-  "geometry": {"coordinates":[-112.060476,43.46267],"type":"Point"}
+  "bbox": [
+    -112.060476,
+    43.46267,
+    -112.060476,
+    43.46267
+],
+  "geometry": {"coordinates":[-112.06047599999999,43.46267],"type":"Point"}
 }

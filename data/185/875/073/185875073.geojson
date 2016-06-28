@@ -2,13 +2,14 @@
   "id": 185875073,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.30932,43.620996,-116.30932,43.620996",
     "geom:latitude":43.620996,
     "geom:longitude":-116.30932,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1761 N Hampton Rd",
     "sg:city":"Boise",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":185875073,
-    "wof:lastmodified":1449007793,
+    "wof:lastmodified":1466488438,
     "wof:name":"Ada Storage Inc",
     "wof:parent_id":85811491,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "storage"
     ]
 },
-  "bbox": [-116.30932,43.620996,-116.30932,43.620996],
+  "bbox": [
+    -116.30932,
+    43.620996,
+    -116.30932,
+    43.620996
+],
   "geometry": {"coordinates":[-116.30932,43.620996],"type":"Point"}
 }

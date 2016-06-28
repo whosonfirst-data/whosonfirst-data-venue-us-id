@@ -2,13 +2,14 @@
   "id": 186513297,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.380624,43.611999,-116.380624,43.611999",
     "geom:latitude":43.611999,
     "geom:longitude":-116.380624,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"933 E Pine Ave",
     "sg:city":"Meridian",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186513297,
-    "wof:lastmodified":1449052141,
+    "wof:lastmodified":1466488868,
     "wof:name":"Legislative Office State of ID",
     "wof:parent_id":85805083,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "legislative"
     ]
 },
-  "bbox": [-116.380624,43.611999,-116.380624,43.611999],
+  "bbox": [
+    -116.380624,
+    43.611999,
+    -116.380624,
+    43.611999
+],
   "geometry": {"coordinates":[-116.380624,43.611999],"type":"Point"}
 }

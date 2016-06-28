@@ -2,13 +2,14 @@
   "id": 186466155,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.596158,43.586698,-116.596158,43.586698",
     "geom:latitude":43.586698,
     "geom:longitude":-116.596158,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"216 N Bonner Dr",
     "sg:city":"Nampa",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186466155,
-    "wof:lastmodified":1449051179,
+    "wof:lastmodified":1466488896,
     "wof:name":"Home Turf Spray Services",
     "wof:parent_id":85827787,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "lawn"
     ]
 },
-  "bbox": [-116.596158,43.586698,-116.596158,43.586698],
+  "bbox": [
+    -116.596158,
+    43.586698,
+    -116.596158,
+    43.586698
+],
   "geometry": {"coordinates":[-116.596158,43.586698],"type":"Point"}
 }

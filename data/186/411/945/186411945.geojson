@@ -2,13 +2,14 @@
   "id": 186411945,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.642886,43.813774,-116.642886,43.813774",
     "geom:latitude":43.813774,
     "geom:longitude":-116.642886,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6025 Little Freezeout Rd",
     "sg:city":"Caldwell",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":186411945,
-    "wof:lastmodified":1449050397,
+    "wof:lastmodified":1466488796,
     "wof:name":"R Kind Water Systems",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "treatment"
     ]
 },
-  "bbox": [-116.642886,43.813774,-116.642886,43.813774],
+  "bbox": [
+    -116.642886,
+    43.813774,
+    -116.642886,
+    43.813774
+],
   "geometry": {"coordinates":[-116.642886,43.813774],"type":"Point"}
 }

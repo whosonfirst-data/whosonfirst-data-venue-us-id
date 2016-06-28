@@ -2,13 +2,14 @@
   "id": 185879949,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.79592,47.700761,-116.79592,47.700761",
     "geom:latitude":47.700761,
     "geom:longitude":-116.79592,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"601 W Appleway Ave",
     "sg:city":"Coeur D Alene",
     "sg:classifiers":[
@@ -62,10 +63,11 @@
         }
     ],
     "wof:id":185879949,
-    "wof:lastmodified":1449006613,
+    "wof:lastmodified":1466488532,
     "wof:name":"Paddy's",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -73,6 +75,11 @@
         "billiard"
     ]
 },
-  "bbox": [-116.79592,47.700761,-116.79592,47.700761],
+  "bbox": [
+    -116.79592,
+    47.700761,
+    -116.79592,
+    47.700761
+],
   "geometry": {"coordinates":[-116.79592,47.700761],"type":"Point"}
 }

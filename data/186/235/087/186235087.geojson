@@ -2,13 +2,14 @@
   "id": 186235087,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.112523,45.92384,-116.112523,45.92384",
     "geom:latitude":45.92384,
     "geom:longitude":-116.112523,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"204 S Boulevard St",
     "sg:city":"Grangeville",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":186235087,
-    "wof:lastmodified":1449050877,
+    "wof:lastmodified":1466488656,
     "wof:name":"Bledsoe Hougardy & Strauser",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "accountant"
     ]
 },
-  "bbox": [-116.112523,45.92384,-116.112523,45.92384],
+  "bbox": [
+    -116.112523,
+    45.92384,
+    -116.112523,
+    45.92384
+],
   "geometry": {"coordinates":[-116.112523,45.92384],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 185639585,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.918731,47.710389,-116.918731,47.710389",
     "geom:latitude":47.710389,
     "geom:longitude":-116.918731,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1790 E Seltice Way",
     "sg:city":"Post Falls",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":185639585,
-    "wof:lastmodified":1449008196,
+    "wof:lastmodified":1466487064,
     "wof:name":"Todd's",
     "wof:parent_id":85833263,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "dealer"
     ]
 },
-  "bbox": [-116.918731,47.710389,-116.918731,47.710389],
-  "geometry": {"coordinates":[-116.918731,47.710389],"type":"Point"}
+  "bbox": [
+    -116.918731,
+    47.710389,
+    -116.918731,
+    47.710389
+],
+  "geometry": {"coordinates":[-116.91873099999999,47.710389],"type":"Point"}
 }

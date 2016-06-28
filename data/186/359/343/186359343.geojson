@@ -2,13 +2,14 @@
   "id": 186359343,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.537141,43.551286,-116.537141,43.551286",
     "geom:latitude":43.551286,
     "geom:longitude":-116.537141,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2709 E Castleberg Loop",
     "sg:city":"Nampa",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":186359343,
-    "wof:lastmodified":1449050201,
+    "wof:lastmodified":1466488753,
     "wof:name":"Arroyo Co",
     "wof:parent_id":85827787,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-116.537141,43.551286,-116.537141,43.551286],
-  "geometry": {"coordinates":[-116.537141,43.551286],"type":"Point"}
+  "bbox": [
+    -116.537141,
+    43.551286,
+    -116.537141,
+    43.551286
+],
+  "geometry": {"coordinates":[-116.53714100000001,43.551286],"type":"Point"}
 }

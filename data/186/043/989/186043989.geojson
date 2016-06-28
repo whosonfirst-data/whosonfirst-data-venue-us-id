@@ -2,13 +2,14 @@
   "id": 186043989,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.399085,42.766679,-112.399085,42.766679",
     "geom:latitude":42.766679,
     "geom:longitude":-112.399085,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"346 N Mink Creek Rd",
     "sg:city":"Pocatello",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":186043989,
-    "wof:lastmodified":1449052350,
+    "wof:lastmodified":1466487243,
     "wof:name":"Gate City Painting Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "painter"
     ]
 },
-  "bbox": [-112.399085,42.766679,-112.399085,42.766679],
+  "bbox": [
+    -112.399085,
+    42.766679,
+    -112.399085,
+    42.766679
+],
   "geometry": {"coordinates":[-112.399085,42.766679],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186341245,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.622096,48.366398,-116.622096,48.366398",
     "geom:latitude":48.366398,
     "geom:longitude":-116.622096,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"124 Village Ln",
     "sg:city":"Sandpoint",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":186341245,
-    "wof:lastmodified":1449052920,
+    "wof:lastmodified":1466488668,
     "wof:name":"Resort Lifestyles",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-116.622096,48.366398,-116.622096,48.366398],
+  "bbox": [
+    -116.622096,
+    48.366398,
+    -116.622096,
+    48.366398
+],
   "geometry": {"coordinates":[-116.622096,48.366398],"type":"Point"}
 }

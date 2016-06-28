@@ -2,13 +2,14 @@
   "id": 169752687,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.195326,43.62033,-116.195326,43.62033",
     "geom:latitude":43.62033,
     "geom:longitude":-116.195326,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"550 W Fort St",
     "sg:city":"Boise",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":169752687,
-    "wof:lastmodified":1449033248,
+    "wof:lastmodified":1466488425,
     "wof:name":"Boise Us Employees Federal CU",
     "wof:parent_id":85876291,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-116.195326,43.62033,-116.195326,43.62033],
-  "geometry": {"coordinates":[-116.195326,43.62033],"type":"Point"}
+  "bbox": [
+    -116.195326,
+    43.62033,
+    -116.195326,
+    43.62033
+],
+  "geometry": {"coordinates":[-116.19532599999999,43.62033],"type":"Point"}
 }

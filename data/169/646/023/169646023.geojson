@@ -2,13 +2,14 @@
   "id": 169646023,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.964277,46.372146,-116.964277,46.372146",
     "geom:latitude":46.372146,
     "geom:longitude":-116.964277,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"615 Thain Rd",
     "sg:city":"Lewiston",
     "sg:classifiers":[
@@ -61,16 +62,22 @@
         }
     ],
     "wof:id":169646023,
-    "wof:lastmodified":1449032608,
+    "wof:lastmodified":1466487526,
     "wof:name":"Orchards Pawn Shop",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "pawnbroker"
     ]
 },
-  "bbox": [-116.964277,46.372146,-116.964277,46.372146],
+  "bbox": [
+    -116.964277,
+    46.372146,
+    -116.964277,
+    46.372146
+],
   "geometry": {"coordinates":[-116.964277,46.372146],"type":"Point"}
 }

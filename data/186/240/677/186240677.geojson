@@ -2,13 +2,14 @@
   "id": 186240677,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-117.001386,46.729123,-117.001386,46.729123",
     "geom:latitude":46.729123,
     "geom:longitude":-117.001386,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"600 S Main St",
     "sg:city":"Moscow",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":186240677,
-    "wof:lastmodified":1449050524,
+    "wof:lastmodified":1466488504,
     "wof:name":"Moscow School Of Massage",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "institute"
     ]
 },
-  "bbox": [-117.001386,46.729123,-117.001386,46.729123],
+  "bbox": [
+    -117.001386,
+    46.729123,
+    -117.001386,
+    46.729123
+],
   "geometry": {"coordinates":[-117.001386,46.729123],"type":"Point"}
 }

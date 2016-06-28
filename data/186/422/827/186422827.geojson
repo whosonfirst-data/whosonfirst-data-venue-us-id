@@ -2,13 +2,14 @@
   "id": 186422827,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.304255,43.615198,-116.304255,43.615198",
     "geom:latitude":43.615198,
     "geom:longitude":-116.304255,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1081 N Mitchell St",
     "sg:city":"Boise",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":186422827,
-    "wof:lastmodified":1449050445,
+    "wof:lastmodified":1466488804,
     "wof:name":"Sterling Landscape",
     "wof:parent_id":85876309,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "contractor"
     ]
 },
-  "bbox": [-116.304255,43.615198,-116.304255,43.615198],
+  "bbox": [
+    -116.304255,
+    43.615198,
+    -116.304255,
+    43.615198
+],
   "geometry": {"coordinates":[-116.304255,43.615198],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 185790101,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.278048,43.583641,-116.278048,43.583641",
     "geom:latitude":43.583641,
     "geom:longitude":-116.278048,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7512 Lemhi St",
     "sg:city":"Boise",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":185790101,
-    "wof:lastmodified":1449007857,
+    "wof:lastmodified":1466488235,
     "wof:name":"Geoline Positioning Syst Inc",
     "wof:parent_id":85876321,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "surveying"
     ]
 },
-  "bbox": [-116.278048,43.583641,-116.278048,43.583641],
+  "bbox": [
+    -116.278048,
+    43.583641,
+    -116.278048,
+    43.583641
+],
   "geometry": {"coordinates":[-116.278048,43.583641],"type":"Point"}
 }

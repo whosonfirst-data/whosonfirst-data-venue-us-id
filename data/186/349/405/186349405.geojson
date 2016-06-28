@@ -2,13 +2,14 @@
   "id": 186349405,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.556958,48.270766,-116.556958,48.270766",
     "geom:latitude":48.270766,
     "geom:longitude":-116.556958,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"321 S Boyer Ave",
     "sg:city":"Sandpoint",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":186349405,
-    "wof:lastmodified":1449051400,
+    "wof:lastmodified":1466488734,
     "wof:name":"Tetra Tech Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "ecological"
     ]
 },
-  "bbox": [-116.556958,48.270766,-116.556958,48.270766],
-  "geometry": {"coordinates":[-116.556958,48.270766],"type":"Point"}
+  "bbox": [
+    -116.556958,
+    48.270766,
+    -116.556958,
+    48.270766
+],
+  "geometry": {"coordinates":[-116.55695799999999,48.270766],"type":"Point"}
 }

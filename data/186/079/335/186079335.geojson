@@ -2,13 +2,14 @@
   "id": 186079335,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.549182,43.570056,-116.549182,43.570056",
     "geom:latitude":43.570056,
     "geom:longitude":-116.549182,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2315 2nd St S",
     "sg:city":"Nampa",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186079335,
-    "wof:lastmodified":1449052558,
+    "wof:lastmodified":1466487651,
     "wof:name":"2nd Street Nursery",
     "wof:parent_id":85827787,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-116.549182,43.570056,-116.549182,43.570056],
+  "bbox": [
+    -116.549182,
+    43.570056,
+    -116.549182,
+    43.570056
+],
   "geometry": {"coordinates":[-116.549182,43.570056],"type":"Point"}
 }

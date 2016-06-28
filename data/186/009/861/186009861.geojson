@@ -2,13 +2,14 @@
   "id": 186009861,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.942283,43.802863,-116.942283,43.802863",
     "geom:latitude":43.802863,
     "geom:longitude":-116.942283,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"29603 U of I Ln",
     "sg:city":"Parma",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":186009861,
-    "wof:lastmodified":1449052982,
+    "wof:lastmodified":1466486853,
     "wof:name":"University Of Idaho Ext Ctr",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "school"
     ]
 },
-  "bbox": [-116.942283,43.802863,-116.942283,43.802863],
+  "bbox": [
+    -116.942283,
+    43.802863,
+    -116.942283,
+    43.802863
+],
   "geometry": {"coordinates":[-116.942283,43.802863],"type":"Point"}
 }

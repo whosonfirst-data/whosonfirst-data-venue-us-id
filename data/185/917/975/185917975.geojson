@@ -2,13 +2,14 @@
   "id": 185917975,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.933376,44.088498,-116.933376,44.088498",
     "geom:latitude":44.088498,
     "geom:longitude":-116.933376,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1300 N 9th St",
     "sg:city":"Payette",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":185917975,
-    "wof:lastmodified":1449008008,
+    "wof:lastmodified":1466488596,
     "wof:name":"Northgate Mobile Park",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "home"
     ]
 },
-  "bbox": [-116.933376,44.088498,-116.933376,44.088498],
+  "bbox": [
+    -116.933376,
+    44.088498,
+    -116.933376,
+    44.088498
+],
   "geometry": {"coordinates":[-116.933376,44.088498],"type":"Point"}
 }

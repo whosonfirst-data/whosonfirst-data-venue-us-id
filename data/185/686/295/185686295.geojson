@@ -2,13 +2,14 @@
   "id": 185686295,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.785289,47.693342,-116.785289,47.693342",
     "geom:latitude":47.693342,
     "geom:longitude":-116.785289,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"128 E Locust Ave",
     "sg:city":"Coeur D Alene",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":185686295,
-    "wof:lastmodified":1449007835,
+    "wof:lastmodified":1466487416,
     "wof:name":"Big Country Communications",
     "wof:parent_id":85821457,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "rental"
     ]
 },
-  "bbox": [-116.785289,47.693342,-116.785289,47.693342],
-  "geometry": {"coordinates":[-116.785289,47.693342],"type":"Point"}
+  "bbox": [
+    -116.785289,
+    47.693342,
+    -116.785289,
+    47.693342
+],
+  "geometry": {"coordinates":[-116.78528900000001,47.693342],"type":"Point"}
 }

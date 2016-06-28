@@ -2,13 +2,14 @@
   "id": 169617605,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.772348,47.680925,-116.772348,47.680925",
     "geom:latitude":47.680925,
     "geom:longitude":-116.772348,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"902 E Montana Ave",
     "sg:city":"Coeur D Alene",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":169617605,
-    "wof:lastmodified":1449032800,
+    "wof:lastmodified":1466487076,
     "wof:name":"North Country",
     "wof:parent_id":85821457,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "indian"
     ]
 },
-  "bbox": [-116.772348,47.680925,-116.772348,47.680925],
-  "geometry": {"coordinates":[-116.772348,47.680925],"type":"Point"}
+  "bbox": [
+    -116.772348,
+    47.680925,
+    -116.772348,
+    47.680925
+],
+  "geometry": {"coordinates":[-116.77234799999999,47.680925],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 185976267,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.00959,43.535558,-112.00959,43.535558",
     "geom:latitude":43.535558,
     "geom:longitude":-112.00959,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4409 N Haroldsen Dr",
     "sg:city":"Idaho Falls",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":185976267,
-    "wof:lastmodified":1449007269,
+    "wof:lastmodified":1466488812,
     "wof:name":"Auto Summit",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "dealer"
     ]
 },
-  "bbox": [-112.00959,43.535558,-112.00959,43.535558],
+  "bbox": [
+    -112.00959,
+    43.535558,
+    -112.00959,
+    43.535558
+],
   "geometry": {"coordinates":[-112.00959,43.535558],"type":"Point"}
 }

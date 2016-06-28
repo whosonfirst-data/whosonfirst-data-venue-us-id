@@ -2,13 +2,14 @@
   "id": 185841851,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.46459,43.25636,-112.46459,43.25636",
     "geom:latitude":43.25636,
     "geom:longitude":-112.46459,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"468 N 850 W",
     "sg:city":"Blackfoot",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":185841851,
-    "wof:lastmodified":1449006952,
+    "wof:lastmodified":1466488439,
     "wof:name":"Computer Specialists",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.46459,43.25636,-112.46459,43.25636],
+  "bbox": [
+    -112.46459,
+    43.25636,
+    -112.46459,
+    43.25636
+],
   "geometry": {"coordinates":[-112.46459,43.25636],"type":"Point"}
 }

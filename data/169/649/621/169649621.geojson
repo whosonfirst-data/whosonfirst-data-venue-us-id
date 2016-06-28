@@ -2,13 +2,14 @@
   "id": 169649621,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.28057,43.576426,-116.28057,43.576426",
     "geom:latitude":43.576426,
     "geom:longitude":-116.28057,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7940 W Woodlark St",
     "sg:city":"Boise",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":169649621,
-    "wof:lastmodified":1449034944,
+    "wof:lastmodified":1466487583,
     "wof:name":"Drew Construction Inc",
     "wof:parent_id":85876321,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "contractor"
     ]
 },
-  "bbox": [-116.28057,43.576426,-116.28057,43.576426],
+  "bbox": [
+    -116.28057,
+    43.576426,
+    -116.28057,
+    43.576426
+],
   "geometry": {"coordinates":[-116.28057,43.576426],"type":"Point"}
 }

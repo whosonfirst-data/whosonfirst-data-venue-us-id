@@ -2,13 +2,14 @@
   "id": 185823953,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.861921,47.613979,-116.861921,47.613979",
     "geom:latitude":47.613979,
     "geom:longitude":-116.861921,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6389 S Tall Pines Rd",
     "sg:city":"Coeur D Alene",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":185823953,
-    "wof:lastmodified":1449008179,
+    "wof:lastmodified":1466488409,
     "wof:name":"Education Plus Inc",
     "wof:parent_id":85821457,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-116.861921,47.613979,-116.861921,47.613979],
+  "bbox": [
+    -116.861921,
+    47.613979,
+    -116.861921,
+    47.613979
+],
   "geometry": {"coordinates":[-116.861921,47.613979],"type":"Point"}
 }

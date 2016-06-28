@@ -2,13 +2,14 @@
   "id": 186334059,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.696045,43.142655,-115.696045,43.142655",
     "geom:latitude":43.142655,
     "geom:longitude":-115.696045,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"310 Ruby Ln",
     "sg:city":"Mountain Home",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":186334059,
-    "wof:lastmodified":1449051161,
+    "wof:lastmodified":1466488724,
     "wof:name":"Bennett Creek Farms",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-115.696045,43.142655,-115.696045,43.142655],
+  "bbox": [
+    -115.696045,
+    43.142655,
+    -115.696045,
+    43.142655
+],
   "geometry": {"coordinates":[-115.696045,43.142655],"type":"Point"}
 }

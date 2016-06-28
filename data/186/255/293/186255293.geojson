@@ -2,13 +2,14 @@
   "id": 186255293,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-117.001983,46.412965,-117.001983,46.412965",
     "geom:latitude":46.412965,
     "geom:longitude":-117.001983,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"750 21st St",
     "sg:city":"Lewiston",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186255293,
-    "wof:lastmodified":1449051588,
+    "wof:lastmodified":1466488680,
     "wof:name":"Wrangler",
     "wof:parent_id":85837769,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "cocktail"
     ]
 },
-  "bbox": [-117.001983,46.412965,-117.001983,46.412965],
+  "bbox": [
+    -117.001983,
+    46.412965,
+    -117.001983,
+    46.412965
+],
   "geometry": {"coordinates":[-117.001983,46.412965],"type":"Point"}
 }

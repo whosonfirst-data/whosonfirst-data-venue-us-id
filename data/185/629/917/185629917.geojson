@@ -2,13 +2,14 @@
   "id": 185629917,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.668172,43.648095,-116.668172,43.648095",
     "geom:latitude":43.648095,
     "geom:longitude":-116.668172,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2512 S Georgia Ave",
     "sg:city":"Caldwell",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":185629917,
-    "wof:lastmodified":1449007856,
+    "wof:lastmodified":1466486988,
     "wof:name":"Skinner Land Survey Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "surveyor"
     ]
 },
-  "bbox": [-116.668172,43.648095,-116.668172,43.648095],
+  "bbox": [
+    -116.668172,
+    43.648095,
+    -116.668172,
+    43.648095
+],
   "geometry": {"coordinates":[-116.668172,43.648095],"type":"Point"}
 }

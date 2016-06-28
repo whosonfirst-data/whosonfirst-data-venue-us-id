@@ -2,13 +2,14 @@
   "id": 169706901,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.71286,43.606728,-116.71286,43.606728",
     "geom:latitude":43.606728,
     "geom:longitude":-116.71286,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"16100 Farmway Rd",
     "sg:city":"Caldwell",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":169706901,
-    "wof:lastmodified":1449032914,
+    "wof:lastmodified":1466488097,
     "wof:name":"Progressive Bovine Supply",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "dairy"
     ]
 },
-  "bbox": [-116.71286,43.606728,-116.71286,43.606728],
-  "geometry": {"coordinates":[-116.71286,43.606728],"type":"Point"}
+  "bbox": [
+    -116.71286,
+    43.606728,
+    -116.71286,
+    43.606728
+],
+  "geometry": {"coordinates":[-116.71286000000001,43.606728],"type":"Point"}
 }

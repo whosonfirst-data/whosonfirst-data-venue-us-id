@@ -2,13 +2,14 @@
   "id": 186078521,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.330569,43.567943,-116.330569,43.567943",
     "geom:latitude":43.567943,
     "geom:longitude":-116.330569,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3900 Sumter Way",
     "sg:city":"Boise",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186078521,
-    "wof:lastmodified":1449052590,
+    "wof:lastmodified":1466487642,
     "wof:name":"Amway",
     "wof:parent_id":85876331,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "sales"
     ]
 },
-  "bbox": [-116.330569,43.567943,-116.330569,43.567943],
+  "bbox": [
+    -116.330569,
+    43.567943,
+    -116.330569,
+    43.567943
+],
   "geometry": {"coordinates":[-116.330569,43.567943],"type":"Point"}
 }

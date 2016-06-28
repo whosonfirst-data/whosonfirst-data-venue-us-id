@@ -2,13 +2,14 @@
   "id": 185670941,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.22091,43.620595,-116.22091,43.620595",
     "geom:latitude":43.620595,
     "geom:longitude":-116.22091,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2419 Fairview Ave",
     "sg:city":"Boise",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":185670941,
-    "wof:lastmodified":1449006851,
+    "wof:lastmodified":1466487296,
     "wof:name":"Auto Finance America",
     "wof:parent_id":85876355,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "financing"
     ]
 },
-  "bbox": [-116.22091,43.620595,-116.22091,43.620595],
+  "bbox": [
+    -116.22091,
+    43.620595,
+    -116.22091,
+    43.620595
+],
   "geometry": {"coordinates":[-116.22091,43.620595],"type":"Point"}
 }

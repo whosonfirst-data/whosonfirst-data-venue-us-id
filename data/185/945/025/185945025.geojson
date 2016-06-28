@@ -2,13 +2,14 @@
   "id": 185945025,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.567964,48.265464,-116.567964,48.265464",
     "geom:latitude":48.265464,
     "geom:longitude":-116.567964,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"624 S Division Ave",
     "sg:city":"Sandpoint",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":185945025,
-    "wof:lastmodified":1449006742,
+    "wof:lastmodified":1466488568,
     "wof:name":"Evergreen Sandpoint Assisted",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "adult"
     ]
 },
-  "bbox": [-116.567964,48.265464,-116.567964,48.265464],
+  "bbox": [
+    -116.567964,
+    48.265464,
+    -116.567964,
+    48.265464
+],
   "geometry": {"coordinates":[-116.567964,48.265464],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169648653,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.688144,43.666847,-116.688144,43.666847",
     "geom:latitude":43.666847,
     "geom:longitude":-116.688144,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"718 Main St",
     "sg:city":"Caldwell",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":169648653,
-    "wof:lastmodified":1449033582,
+    "wof:lastmodified":1466487566,
     "wof:name":"Zamora Freight Management",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "trucking"
     ]
 },
-  "bbox": [-116.688144,43.666847,-116.688144,43.666847],
-  "geometry": {"coordinates":[-116.688144,43.666847],"type":"Point"}
+  "bbox": [
+    -116.688144,
+    43.666847,
+    -116.688144,
+    43.666847
+],
+  "geometry": {"coordinates":[-116.68814399999999,43.666847],"type":"Point"}
 }

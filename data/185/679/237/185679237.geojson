@@ -2,13 +2,14 @@
   "id": 185679237,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.434602,43.622074,-116.434602,43.622074",
     "geom:latitude":43.622074,
     "geom:longitude":-116.434602,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1880 N Aronmink Way",
     "sg:city":"Meridian",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":185679237,
-    "wof:lastmodified":1449007633,
+    "wof:lastmodified":1466487360,
     "wof:name":"Gb Painting",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "contractor"
     ]
 },
-  "bbox": [-116.434602,43.622074,-116.434602,43.622074],
+  "bbox": [
+    -116.434602,
+    43.622074,
+    -116.434602,
+    43.622074
+],
   "geometry": {"coordinates":[-116.434602,43.622074],"type":"Point"}
 }

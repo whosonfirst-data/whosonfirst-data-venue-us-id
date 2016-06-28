@@ -2,13 +2,14 @@
   "id": 185743203,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.249842,43.622849,-116.249842,43.622849",
     "geom:latitude":43.622849,
     "geom:longitude":-116.249842,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1911 Larch St",
     "sg:city":"Boise",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":185743203,
-    "wof:lastmodified":1449008191,
+    "wof:lastmodified":1466487869,
     "wof:name":"Ichy Prints",
     "wof:parent_id":85876311,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "printer"
     ]
 },
-  "bbox": [-116.249842,43.622849,-116.249842,43.622849],
+  "bbox": [
+    -116.249842,
+    43.622849,
+    -116.249842,
+    43.622849
+],
   "geometry": {"coordinates":[-116.249842,43.622849],"type":"Point"}
 }

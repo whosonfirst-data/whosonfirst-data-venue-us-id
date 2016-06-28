@@ -2,13 +2,14 @@
   "id": 186302813,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.497756,43.614817,-116.497756,43.614817",
     "geom:latitude":43.614817,
     "geom:longitude":-116.497756,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"16642 Cardinal Loop",
     "sg:city":"Nampa",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":186302813,
-    "wof:lastmodified":1449051291,
+    "wof:lastmodified":1466488674,
     "wof:name":"Petal By Petal Floral Dcrtns",
     "wof:parent_id":85827787,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-116.497756,43.614817,-116.497756,43.614817],
+  "bbox": [
+    -116.497756,
+    43.614817,
+    -116.497756,
+    43.614817
+],
   "geometry": {"coordinates":[-116.497756,43.614817],"type":"Point"}
 }

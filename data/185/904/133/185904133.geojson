@@ -2,13 +2,14 @@
   "id": 185904133,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.34873,43.65858,-116.34873,43.65858",
     "geom:latitude":43.65858,
     "geom:longitude":-116.34873,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5895 N Wellspring Way",
     "sg:city":"Boise",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":185904133,
-    "wof:lastmodified":1449008258,
+    "wof:lastmodified":1466488563,
     "wof:name":"Pacific Commercial Group Inc",
     "wof:parent_id":85876351,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "investment"
     ]
 },
-  "bbox": [-116.34873,43.65858,-116.34873,43.65858],
+  "bbox": [
+    -116.34873,
+    43.65858,
+    -116.34873,
+    43.65858
+],
   "geometry": {"coordinates":[-116.34873,43.65858],"type":"Point"}
 }

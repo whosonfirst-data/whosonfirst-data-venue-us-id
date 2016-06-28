@@ -2,13 +2,14 @@
   "id": 185993345,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.788794,47.715319,-116.788794,47.715319",
     "geom:latitude":47.715319,
     "geom:longitude":-116.788794,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"170 W Kathleen Ave",
     "sg:city":"Coeur D Alene",
     "sg:classifiers":[
@@ -58,14 +59,20 @@
         }
     ],
     "wof:id":185993345,
-    "wof:lastmodified":1449007326,
+    "wof:lastmodified":1466488742,
     "wof:name":"D & B Farm & Home Stores",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-116.788794,47.715319,-116.788794,47.715319],
+  "bbox": [
+    -116.788794,
+    47.715319,
+    -116.788794,
+    47.715319
+],
   "geometry": {"coordinates":[-116.788794,47.715319],"type":"Point"}
 }

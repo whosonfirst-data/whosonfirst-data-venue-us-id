@@ -2,13 +2,14 @@
   "id": 169813207,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.267476,43.623436,-116.267476,43.623436",
     "geom:latitude":43.623436,
     "geom:longitude":-116.267476,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6808 Poplar St",
     "sg:city":"Boise",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":169813207,
-    "wof:lastmodified":1449033544,
+    "wof:lastmodified":1466488627,
     "wof:name":"Illuminations Photography",
     "wof:parent_id":85841319,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "photographer"
     ]
 },
-  "bbox": [-116.267476,43.623436,-116.267476,43.623436],
+  "bbox": [
+    -116.267476,
+    43.623436,
+    -116.267476,
+    43.623436
+],
   "geometry": {"coordinates":[-116.267476,43.623436],"type":"Point"}
 }

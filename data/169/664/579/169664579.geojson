@@ -2,13 +2,14 @@
   "id": 169664579,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.911988,43.671831,-111.911988,43.671831",
     "geom:latitude":43.671831,
     "geom:longitude":-111.911988,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"116 S Clark St",
     "sg:city":"Rigby",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":169664579,
-    "wof:lastmodified":1449033911,
+    "wof:lastmodified":1466487806,
     "wof:name":"Child Discovery Ctr",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.911988,43.671831,-111.911988,43.671831],
-  "geometry": {"coordinates":[-111.911988,43.671831],"type":"Point"}
+  "bbox": [
+    -111.911988,
+    43.671831,
+    -111.911988,
+    43.671831
+],
+  "geometry": {"coordinates":[-111.91198799999999,43.671831],"type":"Point"}
 }

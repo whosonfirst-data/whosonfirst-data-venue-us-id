@@ -2,13 +2,14 @@
   "id": 186195215,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.886527,46.928685,-116.886527,46.928685",
     "geom:latitude":46.928685,
     "geom:longitude":-116.886527,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"125 County Rd",
     "sg:city":"Smelterville",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":186195215,
-    "wof:lastmodified":1449052132,
+    "wof:lastmodified":1466488564,
     "wof:name":"Panhandle Pipe & Welding",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "contractor"
     ]
 },
-  "bbox": [-116.886527,46.928685,-116.886527,46.928685],
+  "bbox": [
+    -116.886527,
+    46.928685,
+    -116.886527,
+    46.928685
+],
   "geometry": {"coordinates":[-116.886527,46.928685],"type":"Point"}
 }

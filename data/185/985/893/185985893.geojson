@@ -2,13 +2,14 @@
   "id": 185985893,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.703505,43.652562,-116.703505,43.652562",
     "geom:latitude":43.652562,
     "geom:longitude":-116.703505,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"520 W Hazel St",
     "sg:city":"Caldwell",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":185985893,
-    "wof:lastmodified":1449007427,
+    "wof:lastmodified":1466488735,
     "wof:name":"Suzan M Kidman",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-116.703505,43.652562,-116.703505,43.652562],
-  "geometry": {"coordinates":[-116.703505,43.652562],"type":"Point"}
+  "bbox": [
+    -116.703505,
+    43.652562,
+    -116.703505,
+    43.652562
+],
+  "geometry": {"coordinates":[-116.70350500000001,43.652562],"type":"Point"}
 }

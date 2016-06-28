@@ -2,13 +2,14 @@
   "id": 185926573,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.544532,43.593202,-116.544532,43.593202",
     "geom:latitude":43.593202,
     "geom:longitude":-116.544532,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2107 Industrial Rd",
     "sg:city":"Nampa",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":185926573,
-    "wof:lastmodified":1449007150,
+    "wof:lastmodified":1466488617,
     "wof:name":"Stucco Co",
     "wof:parent_id":85827787,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "contractor"
     ]
 },
-  "bbox": [-116.544532,43.593202,-116.544532,43.593202],
+  "bbox": [
+    -116.544532,
+    43.593202,
+    -116.544532,
+    43.593202
+],
   "geometry": {"coordinates":[-116.544532,43.593202],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169775927,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.201779,43.615362,-116.201779,43.615362",
     "geom:latitude":43.615362,
     "geom:longitude":-116.201779,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"150 N Capitol Blvd",
     "sg:city":"Boise",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":169775927,
-    "wof:lastmodified":1449035118,
+    "wof:lastmodified":1466488531,
     "wof:name":"Local Improvement Dist Billing",
     "wof:parent_id":85876319,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "billing"
     ]
 },
-  "bbox": [-116.201779,43.615362,-116.201779,43.615362],
+  "bbox": [
+    -116.201779,
+    43.615362,
+    -116.201779,
+    43.615362
+],
   "geometry": {"coordinates":[-116.201779,43.615362],"type":"Point"}
 }

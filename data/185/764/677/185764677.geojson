@@ -2,13 +2,14 @@
   "id": 185764677,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.22908,43.57562,-116.22908,43.57562",
     "geom:latitude":43.57562,
     "geom:longitude":-116.22908,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2705 Inglewood Rd",
     "sg:city":"Boise",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":185764677,
-    "wof:lastmodified":1449008121,
+    "wof:lastmodified":1466488040,
     "wof:name":"A Better Bottom Line",
     "wof:parent_id":85825393,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "financial"
     ]
 },
-  "bbox": [-116.22908,43.57562,-116.22908,43.57562],
+  "bbox": [
+    -116.22908,
+    43.57562,
+    -116.22908,
+    43.57562
+],
   "geometry": {"coordinates":[-116.22908,43.57562],"type":"Point"}
 }

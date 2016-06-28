@@ -2,13 +2,14 @@
   "id": 186446111,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.568827,47.317531,-116.568827,47.317531",
     "geom:latitude":47.317531,
     "geom:longitude":-116.568827,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"220 N 9th St",
     "sg:city":"St Maries",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":186446111,
-    "wof:lastmodified":1449052795,
+    "wof:lastmodified":1466488816,
     "wof:name":"St Maries Fire Protection",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "department"
     ]
 },
-  "bbox": [-116.568827,47.317531,-116.568827,47.317531],
+  "bbox": [
+    -116.568827,
+    47.317531,
+    -116.568827,
+    47.317531
+],
   "geometry": {"coordinates":[-116.568827,47.317531],"type":"Point"}
 }

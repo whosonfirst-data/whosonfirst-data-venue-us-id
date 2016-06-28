@@ -2,13 +2,14 @@
   "id": 186097305,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.364284,43.621854,-116.364284,43.621854",
     "geom:latitude":43.621854,
     "geom:longitude":-116.364284,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2643 E Apricot Ct",
     "sg:city":"Meridian",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186097305,
-    "wof:lastmodified":1449051421,
+    "wof:lastmodified":1466487834,
     "wof:name":"Ameri Trans Logistics",
     "wof:parent_id":85811491,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "trucking"
     ]
 },
-  "bbox": [-116.364284,43.621854,-116.364284,43.621854],
+  "bbox": [
+    -116.364284,
+    43.621854,
+    -116.364284,
+    43.621854
+],
   "geometry": {"coordinates":[-116.364284,43.621854],"type":"Point"}
 }

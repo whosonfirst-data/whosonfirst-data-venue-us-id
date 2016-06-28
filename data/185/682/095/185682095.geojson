@@ -2,13 +2,14 @@
   "id": 185682095,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.03929,43.489515,-112.03929,43.489515",
     "geom:latitude":43.489515,
     "geom:longitude":-112.03929,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"101 S Eastern Ave",
     "sg:city":"Idaho Falls",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":185682095,
-    "wof:lastmodified":1449006892,
+    "wof:lastmodified":1466487381,
     "wof:name":"Meadow Gold Dairies",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "product"
     ]
 },
-  "bbox": [-112.03929,43.489515,-112.03929,43.489515],
-  "geometry": {"coordinates":[-112.03929,43.489515],"type":"Point"}
+  "bbox": [
+    -112.03929,
+    43.489515,
+    -112.03929,
+    43.489515
+],
+  "geometry": {"coordinates":[-112.03928999999999,43.489515],"type":"Point"}
 }

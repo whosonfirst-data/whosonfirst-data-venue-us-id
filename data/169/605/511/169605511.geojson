@@ -2,13 +2,14 @@
   "id": 169605511,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.316772,43.70962,-116.316772,43.70962",
     "geom:latitude":43.70962,
     "geom:longitude":-116.316772,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2982 E Dagger Falls Dr",
     "sg:city":"Eagle",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":169605511,
-    "wof:lastmodified":1449034288,
+    "wof:lastmodified":1466486886,
     "wof:name":"American Biohazard Service",
     "wof:parent_id":85876315,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-116.316772,43.70962,-116.316772,43.70962],
+  "bbox": [
+    -116.316772,
+    43.70962,
+    -116.316772,
+    43.70962
+],
   "geometry": {"coordinates":[-116.316772,43.70962],"type":"Point"}
 }

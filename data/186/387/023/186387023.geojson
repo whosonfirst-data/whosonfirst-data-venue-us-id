@@ -2,13 +2,14 @@
   "id": 186387023,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.742473,47.929515,-116.742473,47.929515",
     "geom:latitude":47.929515,
     "geom:longitude":-116.742473,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2720 E War Eagle Ave",
     "sg:city":"Athol",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":186387023,
-    "wof:lastmodified":1449052655,
+    "wof:lastmodified":1466488772,
     "wof:name":"L & L Roofing",
     "wof:parent_id":85821457,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "contractor"
     ]
 },
-  "bbox": [-116.742473,47.929515,-116.742473,47.929515],
+  "bbox": [
+    -116.742473,
+    47.929515,
+    -116.742473,
+    47.929515
+],
   "geometry": {"coordinates":[-116.742473,47.929515],"type":"Point"}
 }

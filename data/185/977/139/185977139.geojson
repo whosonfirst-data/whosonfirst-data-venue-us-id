@@ -2,13 +2,14 @@
   "id": 185977139,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.226177,43.585304,-116.226177,43.585304",
     "geom:latitude":43.585304,
     "geom:longitude":-116.226177,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1823 S Atlantic St",
     "sg:city":"Boise",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":185977139,
-    "wof:lastmodified":1449008258,
+    "wof:lastmodified":1466488716,
     "wof:name":"Parker Homes",
     "wof:parent_id":85825393,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "house"
     ]
 },
-  "bbox": [-116.226177,43.585304,-116.226177,43.585304],
-  "geometry": {"coordinates":[-116.226177,43.585304],"type":"Point"}
+  "bbox": [
+    -116.226177,
+    43.585304,
+    -116.226177,
+    43.585304
+],
+  "geometry": {"coordinates":[-116.22617700000001,43.585304],"type":"Point"}
 }

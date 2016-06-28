@@ -2,13 +2,14 @@
   "id": 186273977,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.375753,43.011115,-114.375753,43.011115",
     "geom:latitude":43.011115,
     "geom:longitude":-114.375753,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"148 E 520 N",
     "sg:city":"Shoshone",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":186273977,
-    "wof:lastmodified":1449051762,
+    "wof:lastmodified":1466488712,
     "wof:name":"Quality Tree Farm",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-114.375753,43.011115,-114.375753,43.011115],
+  "bbox": [
+    -114.375753,
+    43.011115,
+    -114.375753,
+    43.011115
+],
   "geometry": {"coordinates":[-114.375753,43.011115],"type":"Point"}
 }

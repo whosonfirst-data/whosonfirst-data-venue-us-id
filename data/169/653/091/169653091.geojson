@@ -2,13 +2,14 @@
   "id": 169653091,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.680154,43.660934,-116.680154,43.660934",
     "geom:latitude":43.660934,
     "geom:longitude":-116.680154,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1502 Main St",
     "sg:city":"Caldwell",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":169653091,
-    "wof:lastmodified":1449032916,
+    "wof:lastmodified":1466487634,
     "wof:name":"Lucky Ducky Daycare",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-116.680154,43.660934,-116.680154,43.660934],
+  "bbox": [
+    -116.680154,
+    43.660934,
+    -116.680154,
+    43.660934
+],
   "geometry": {"coordinates":[-116.680154,43.660934],"type":"Point"}
 }

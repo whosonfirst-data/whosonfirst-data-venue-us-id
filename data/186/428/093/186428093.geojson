@@ -2,13 +2,14 @@
   "id": 186428093,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.016307,43.494083,-112.016307,43.494083",
     "geom:latitude":43.494083,
     "geom:longitude":-112.016307,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"425 S Fanning Ave",
     "sg:city":"Idaho Falls",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":186428093,
-    "wof:lastmodified":1449052851,
+    "wof:lastmodified":1466488854,
     "wof:name":"Manchester Tank & Equipment Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "component"
     ]
 },
-  "bbox": [-112.016307,43.494083,-112.016307,43.494083],
+  "bbox": [
+    -112.016307,
+    43.494083,
+    -112.016307,
+    43.494083
+],
   "geometry": {"coordinates":[-112.016307,43.494083],"type":"Point"}
 }

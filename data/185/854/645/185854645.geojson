@@ -2,13 +2,14 @@
   "id": 185854645,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.446703,43.209735,-112.446703,43.209735",
     "geom:latitude":43.209735,
     "geom:longitude":-112.446703,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"86 N 760 W",
     "sg:city":"Blackfoot",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":185854645,
-    "wof:lastmodified":1449008132,
+    "wof:lastmodified":1466488480,
     "wof:name":"Troy Goodwin",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.446703,43.209735,-112.446703,43.209735],
+  "bbox": [
+    -112.446703,
+    43.209735,
+    -112.446703,
+    43.209735
+],
   "geometry": {"coordinates":[-112.446703,43.209735],"type":"Point"}
 }

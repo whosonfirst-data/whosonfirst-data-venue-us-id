@@ -2,13 +2,14 @@
   "id": 169816161,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.213689,43.597889,-116.213689,43.597889",
     "geom:latitude":43.597889,
     "geom:longitude":-116.213689,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"717 Vista Ave",
     "sg:city":"Boise",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":169816161,
-    "wof:lastmodified":1449034608,
+    "wof:lastmodified":1466488538,
     "wof:name":"Boise At Its Best",
     "wof:parent_id":85876303,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-116.213689,43.597889,-116.213689,43.597889],
+  "bbox": [
+    -116.213689,
+    43.597889,
+    -116.213689,
+    43.597889
+],
   "geometry": {"coordinates":[-116.213689,43.597889],"type":"Point"}
 }

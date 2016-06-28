@@ -2,13 +2,14 @@
   "id": 169768925,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.932093,47.72801,-116.932093,47.72801",
     "geom:latitude":47.72801,
     "geom:longitude":-116.932093,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1011 Teton Ave",
     "sg:city":"Post Falls",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":169768925,
-    "wof:lastmodified":1449033952,
+    "wof:lastmodified":1466488442,
     "wof:name":"Dynamic Exteriors Inc",
     "wof:parent_id":85833263,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "siding"
     ]
 },
-  "bbox": [-116.932093,47.72801,-116.932093,47.72801],
-  "geometry": {"coordinates":[-116.932093,47.72801],"type":"Point"}
+  "bbox": [
+    -116.932093,
+    47.72801,
+    -116.932093,
+    47.72801
+],
+  "geometry": {"coordinates":[-116.93209299999999,47.72801],"type":"Point"}
 }

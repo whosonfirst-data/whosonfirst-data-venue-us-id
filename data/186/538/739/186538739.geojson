@@ -2,13 +2,14 @@
   "id": 186538739,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.223607,43.589825,-116.223607,43.589825",
     "geom:latitude":43.589825,
     "geom:longitude":-116.223607,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1300 S Owyhee St",
     "sg:city":"Boise",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":186538739,
-    "wof:lastmodified":1449050631,
+    "wof:lastmodified":1466488880,
     "wof:name":"Bread of Life Fellowhship",
     "wof:parent_id":85825393,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-116.223607,43.589825,-116.223607,43.589825],
+  "bbox": [
+    -116.223607,
+    43.589825,
+    -116.223607,
+    43.589825
+],
   "geometry": {"coordinates":[-116.223607,43.589825],"type":"Point"}
 }

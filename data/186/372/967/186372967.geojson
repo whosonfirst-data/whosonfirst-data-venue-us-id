@@ -2,13 +2,14 @@
   "id": 186372967,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.468891,42.556404,-114.468891,42.556404",
     "geom:latitude":42.556404,
     "geom:longitude":-114.468891,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"121 2nd Ave E",
     "sg:city":"Twin Falls",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":186372967,
-    "wof:lastmodified":1449051991,
+    "wof:lastmodified":1466488764,
     "wof:name":"Sinclair & Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "commodity"
     ]
 },
-  "bbox": [-114.468891,42.556404,-114.468891,42.556404],
+  "bbox": [
+    -114.468891,
+    42.556404,
+    -114.468891,
+    42.556404
+],
   "geometry": {"coordinates":[-114.468891,42.556404],"type":"Point"}
 }

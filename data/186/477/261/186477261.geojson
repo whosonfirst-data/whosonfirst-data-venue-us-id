@@ -2,13 +2,14 @@
   "id": 186477261,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.392923,43.473858,-116.392923,43.473858",
     "geom:latitude":43.473858,
     "geom:longitude":-116.392923,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1686 E King Rd",
     "sg:city":"Kuna",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186477261,
-    "wof:lastmodified":1449050870,
+    "wof:lastmodified":1466488901,
     "wof:name":"Blue Island Snow",
     "wof:parent_id":85876331,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "mfg"
     ]
 },
-  "bbox": [-116.392923,43.473858,-116.392923,43.473858],
+  "bbox": [
+    -116.392923,
+    43.473858,
+    -116.392923,
+    43.473858
+],
   "geometry": {"coordinates":[-116.392923,43.473858],"type":"Point"}
 }

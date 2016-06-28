@@ -2,13 +2,14 @@
   "id": 185953953,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.289262,43.669692,-116.289262,43.669692",
     "geom:latitude":43.669692,
     "geom:longitude":-116.289262,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5400 N Riffle Way",
     "sg:city":"Boise",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":185953953,
-    "wof:lastmodified":1449007697,
+    "wof:lastmodified":1466488678,
     "wof:name":"Financial Business Services",
     "wof:parent_id":85876315,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "business"
     ]
 },
-  "bbox": [-116.289262,43.669692,-116.289262,43.669692],
-  "geometry": {"coordinates":[-116.289262,43.669692],"type":"Point"}
+  "bbox": [
+    -116.289262,
+    43.669692,
+    -116.289262,
+    43.669692
+],
+  "geometry": {"coordinates":[-116.28926199999999,43.669692],"type":"Point"}
 }

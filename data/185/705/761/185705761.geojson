@@ -2,13 +2,14 @@
   "id": 185705761,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.803007,47.693789,-116.803007,47.693789",
     "geom:latitude":47.693789,
     "geom:longitude":-116.803007,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1916 N Lakewood Dr",
     "sg:city":"Coeur D Alene",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":185705761,
-    "wof:lastmodified":1449008219,
+    "wof:lastmodified":1466487571,
     "wof:name":"Lake City Senior Ctr",
     "wof:parent_id":85821457,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-116.803007,47.693789,-116.803007,47.693789],
-  "geometry": {"coordinates":[-116.803007,47.693789],"type":"Point"}
+  "bbox": [
+    -116.803007,
+    47.693789,
+    -116.803007,
+    47.693789
+],
+  "geometry": {"coordinates":[-116.80300699999999,47.693789],"type":"Point"}
 }

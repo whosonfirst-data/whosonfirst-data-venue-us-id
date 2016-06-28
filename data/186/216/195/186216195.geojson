@@ -2,13 +2,14 @@
   "id": 186216195,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.230678,43.571692,-116.230678,43.571692",
     "geom:latitude":43.571692,
     "geom:longitude":-116.230678,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3653 Rickenbacker St",
     "sg:city":"Boise",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186216195,
-    "wof:lastmodified":1449052718,
+    "wof:lastmodified":1466488524,
     "wof:name":"Sedans & Vans",
     "wof:parent_id":85876337,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "limousine"
     ]
 },
-  "bbox": [-116.230678,43.571692,-116.230678,43.571692],
+  "bbox": [
+    -116.230678,
+    43.571692,
+    -116.230678,
+    43.571692
+],
   "geometry": {"coordinates":[-116.230678,43.571692],"type":"Point"}
 }

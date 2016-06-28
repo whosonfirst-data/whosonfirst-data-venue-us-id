@@ -2,13 +2,14 @@
   "id": 169837483,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.995624,46.732503,-116.995624,46.732503",
     "geom:latitude":46.732503,
     "geom:longitude":-116.995624,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"504 E 3rd St",
     "sg:city":"Moscow",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":169837483,
-    "wof:lastmodified":1449033208,
+    "wof:lastmodified":1466488597,
     "wof:name":"Hammer Works Construction",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "house"
     ]
 },
-  "bbox": [-116.995624,46.732503,-116.995624,46.732503],
-  "geometry": {"coordinates":[-116.995624,46.732503],"type":"Point"}
+  "bbox": [
+    -116.995624,
+    46.732503,
+    -116.995624,
+    46.732503
+],
+  "geometry": {"coordinates":[-116.99562400000001,46.732503],"type":"Point"}
 }

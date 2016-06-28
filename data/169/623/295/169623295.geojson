@@ -2,13 +2,14 @@
   "id": 169623295,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.654729,43.640366,-116.654729,43.640366",
     "geom:latitude":43.640366,
     "geom:longitude":-116.654729,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"503 S 41st Ave",
     "sg:city":"Caldwell",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":169623295,
-    "wof:lastmodified":1449034999,
+    "wof:lastmodified":1466487171,
     "wof:name":"Cedar Pro Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "fence"
     ]
 },
-  "bbox": [-116.654729,43.640366,-116.654729,43.640366],
+  "bbox": [
+    -116.654729,
+    43.640366,
+    -116.654729,
+    43.640366
+],
   "geometry": {"coordinates":[-116.654729,43.640366],"type":"Point"}
 }

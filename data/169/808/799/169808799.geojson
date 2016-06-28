@@ -2,13 +2,14 @@
   "id": 169808799,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.167847,43.586638,-116.167847,43.586638",
     "geom:latitude":43.586638,
     "geom:longitude":-116.167847,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2031 S Springbrook Ln",
     "sg:city":"Boise",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":169808799,
-    "wof:lastmodified":1449032849,
+    "wof:lastmodified":1466488453,
     "wof:name":"Better Health Technologies LLC",
     "wof:parent_id":85876347,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "business"
     ]
 },
-  "bbox": [-116.167847,43.586638,-116.167847,43.586638],
-  "geometry": {"coordinates":[-116.167847,43.586638],"type":"Point"}
+  "bbox": [
+    -116.167847,
+    43.586638,
+    -116.167847,
+    43.586638
+],
+  "geometry": {"coordinates":[-116.16784699999999,43.586638],"type":"Point"}
 }

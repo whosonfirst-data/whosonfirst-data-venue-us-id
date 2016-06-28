@@ -2,13 +2,14 @@
   "id": 186513829,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.683388,43.124357,-115.683388,43.124357",
     "geom:latitude":43.124357,
     "geom:longitude":-115.683388,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"785 S 13th E",
     "sg:city":"Mountain Home",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":186513829,
-    "wof:lastmodified":1449052144,
+    "wof:lastmodified":1466488869,
     "wof:name":"Dukes Detailing",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "carwash"
     ]
 },
-  "bbox": [-115.683388,43.124357,-115.683388,43.124357],
-  "geometry": {"coordinates":[-115.683388,43.124357],"type":"Point"}
+  "bbox": [
+    -115.683388,
+    43.124357,
+    -115.683388,
+    43.124357
+],
+  "geometry": {"coordinates":[-115.68338799999999,43.124357],"type":"Point"}
 }

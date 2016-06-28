@@ -2,13 +2,14 @@
   "id": 169619745,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-113.667803,42.628756,-113.667803,42.628756",
     "geom:latitude":42.628756,
     "geom:longitude":-113.667803,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1624 A St",
     "sg:city":"Rupert",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":169619745,
-    "wof:lastmodified":1449033283,
+    "wof:lastmodified":1466487112,
     "wof:name":"Steves Heating & Air",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -66,6 +68,11 @@
         "contractor"
     ]
 },
-  "bbox": [-113.667803,42.628756,-113.667803,42.628756],
-  "geometry": {"coordinates":[-113.667803,42.628756],"type":"Point"}
+  "bbox": [
+    -113.667803,
+    42.628756,
+    -113.667803,
+    42.628756
+],
+  "geometry": {"coordinates":[-113.66780300000001,42.628756],"type":"Point"}
 }

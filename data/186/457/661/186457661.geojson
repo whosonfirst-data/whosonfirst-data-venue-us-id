@@ -2,13 +2,14 @@
   "id": 186457661,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.695015,43.135079,-115.695015,43.135079",
     "geom:latitude":43.135079,
     "geom:longitude":-115.695015,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"210 E 5th N",
     "sg:city":"Mountain Home",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":186457661,
-    "wof:lastmodified":1449052171,
+    "wof:lastmodified":1466488868,
     "wof:name":"Carlos' Mexican Style Family",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-115.695015,43.135079,-115.695015,43.135079],
+  "bbox": [
+    -115.695015,
+    43.135079,
+    -115.695015,
+    43.135079
+],
   "geometry": {"coordinates":[-115.695015,43.135079],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186033027,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.04725,43.468395,-112.04725,43.468395",
     "geom:latitude":43.468395,
     "geom:longitude":-112.04725,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"714 W Sunnyside Rd",
     "sg:city":"Idaho Falls",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":186033027,
-    "wof:lastmodified":1449050954,
+    "wof:lastmodified":1466487115,
     "wof:name":"Molzahn Construction Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "contractor"
     ]
 },
-  "bbox": [-112.04725,43.468395,-112.04725,43.468395],
-  "geometry": {"coordinates":[-112.04725,43.468395],"type":"Point"}
+  "bbox": [
+    -112.04725,
+    43.468395,
+    -112.04725,
+    43.468395
+],
+  "geometry": {"coordinates":[-112.04725000000001,43.468395],"type":"Point"}
 }

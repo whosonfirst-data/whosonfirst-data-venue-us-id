@@ -2,13 +2,14 @@
   "id": 320542723,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.179471,43.595749,-116.179471,43.595749",
     "geom:latitude":43.595749,
     "geom:longitude":-116.179471,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1423 S Tyrell Ln",
     "sg:city":"Boise",
     "sg:classifiers":[
@@ -68,10 +69,11 @@
         }
     ],
     "wof:id":320542723,
-    "wof:lastmodified":1449014130,
+    "wof:lastmodified":1466486951,
     "wof:name":"Cantrill Skinner Sullivan & King LLP",
     "wof:parent_id":85876305,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -95,6 +97,11 @@
         "law"
     ]
 },
-  "bbox": [-116.179471,43.595749,-116.179471,43.595749],
-  "geometry": {"coordinates":[-116.179471,43.595749],"type":"Point"}
+  "bbox": [
+    -116.179471,
+    43.595749,
+    -116.179471,
+    43.595749
+],
+  "geometry": {"coordinates":[-116.17947100000001,43.595749],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186095155,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.369522,43.673835,-114.369522,43.673835",
     "geom:latitude":43.673835,
     "geom:longitude":-114.369522,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"300 Wood River Dr",
     "sg:city":"Ketchum",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186095155,
-    "wof:lastmodified":1449051733,
+    "wof:lastmodified":1466487810,
     "wof:name":"Pennay's At River Run",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "skiing"
     ]
 },
-  "bbox": [-114.369522,43.673835,-114.369522,43.673835],
+  "bbox": [
+    -114.369522,
+    43.673835,
+    -114.369522,
+    43.673835
+],
   "geometry": {"coordinates":[-114.369522,43.673835],"type":"Point"}
 }

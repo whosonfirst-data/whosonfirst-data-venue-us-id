@@ -2,13 +2,14 @@
   "id": 185881163,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.921253,47.713737,-116.921253,47.713737",
     "geom:latitude":47.713737,
     "geom:longitude":-116.921253,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"550 N Alberta St",
     "sg:city":"Post Falls",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":185881163,
-    "wof:lastmodified":1449007546,
+    "wof:lastmodified":1466488625,
     "wof:name":"Midway Chrysler Jeep Inc",
     "wof:parent_id":85833263,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "dealer"
     ]
 },
-  "bbox": [-116.921253,47.713737,-116.921253,47.713737],
-  "geometry": {"coordinates":[-116.921253,47.713737],"type":"Point"}
+  "bbox": [
+    -116.921253,
+    47.713737,
+    -116.921253,
+    47.713737
+],
+  "geometry": {"coordinates":[-116.92125299999999,47.713737],"type":"Point"}
 }

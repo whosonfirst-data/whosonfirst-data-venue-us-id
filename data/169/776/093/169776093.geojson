@@ -2,13 +2,14 @@
   "id": 169776093,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.600049,48.157178,-116.600049,48.157178",
     "geom:latitude":48.157178,
     "geom:longitude":-116.600049,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"464881 Hwy 95",
     "sg:city":"Sagle",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":169776093,
-    "wof:lastmodified":1449033405,
+    "wof:lastmodified":1466488365,
     "wof:name":"Angus' Custom Cuts",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "cutting"
     ]
 },
-  "bbox": [-116.600049,48.157178,-116.600049,48.157178],
+  "bbox": [
+    -116.600049,
+    48.157178,
+    -116.600049,
+    48.157178
+],
   "geometry": {"coordinates":[-116.600049,48.157178],"type":"Point"}
 }

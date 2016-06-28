@@ -2,13 +2,14 @@
   "id": 186459343,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.189673,43.566221,-116.189673,43.566221",
     "geom:latitude":43.566221,
     "geom:longitude":-116.189673,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"875 W McGregor Ct",
     "sg:city":"Boise",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":186459343,
-    "wof:lastmodified":1449051466,
+    "wof:lastmodified":1466488739,
     "wof:name":"EMI Building Automation Svc",
     "wof:parent_id":85876337,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "gas"
     ]
 },
-  "bbox": [-116.189673,43.566221,-116.189673,43.566221],
+  "bbox": [
+    -116.189673,
+    43.566221,
+    -116.189673,
+    43.566221
+],
   "geometry": {"coordinates":[-116.189673,43.566221],"type":"Point"}
 }

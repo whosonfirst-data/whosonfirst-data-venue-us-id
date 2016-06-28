@@ -2,13 +2,14 @@
   "id": 186043173,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.682527,43.124766,-115.682527,43.124766",
     "geom:latitude":43.124766,
     "geom:longitude":-115.682527,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"750 S 14th E",
     "sg:city":"Mountain Home",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":186043173,
-    "wof:lastmodified":1449052347,
+    "wof:lastmodified":1466487233,
     "wof:name":"Arc Electric",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "contractor"
     ]
 },
-  "bbox": [-115.682527,43.124766,-115.682527,43.124766],
-  "geometry": {"coordinates":[-115.682527,43.124766],"type":"Point"}
+  "bbox": [
+    -115.682527,
+    43.124766,
+    -115.682527,
+    43.124766
+],
+  "geometry": {"coordinates":[-115.68252699999999,43.124766],"type":"Point"}
 }

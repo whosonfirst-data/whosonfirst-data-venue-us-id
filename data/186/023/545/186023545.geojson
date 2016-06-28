@@ -2,13 +2,14 @@
   "id": 186023545,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-113.78945,42.559246,-113.78945,42.559246",
     "geom:latitude":42.559246,
     "geom:longitude":-113.78945,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"318 Wauna Vista Dr",
     "sg:city":"Burley",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":186023545,
-    "wof:lastmodified":1449052756,
+    "wof:lastmodified":1466487003,
     "wof:name":"Wilson's Ink",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "commercial"
     ]
 },
-  "bbox": [-113.78945,42.559246,-113.78945,42.559246],
+  "bbox": [
+    -113.78945,
+    42.559246,
+    -113.78945,
+    42.559246
+],
   "geometry": {"coordinates":[-113.78945,42.559246],"type":"Point"}
 }

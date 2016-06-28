@@ -2,13 +2,14 @@
   "id": 169642489,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-113.793332,42.531503,-113.793332,42.531503",
     "geom:latitude":42.531503,
     "geom:longitude":-113.793332,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1710 Overland Ave",
     "sg:city":"Burley",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":169642489,
-    "wof:lastmodified":1449032877,
+    "wof:lastmodified":1466487473,
     "wof:name":"King Pope Phillips Oakes & Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "accountant"
     ]
 },
-  "bbox": [-113.793332,42.531503,-113.793332,42.531503],
-  "geometry": {"coordinates":[-113.793332,42.531503],"type":"Point"}
+  "bbox": [
+    -113.793332,
+    42.531503,
+    -113.793332,
+    42.531503
+],
+  "geometry": {"coordinates":[-113.79333200000001,42.531503],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 185689587,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.607368,43.595891,-116.607368,43.595891",
     "geom:latitude":43.595891,
     "geom:longitude":-116.607368,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2111 Demar Pl",
     "sg:city":"Nampa",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":185689587,
-    "wof:lastmodified":1449007964,
+    "wof:lastmodified":1466487441,
     "wof:name":"Q E Hair Designs",
     "wof:parent_id":85827787,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-116.607368,43.595891,-116.607368,43.595891],
-  "geometry": {"coordinates":[-116.607368,43.595891],"type":"Point"}
+  "bbox": [
+    -116.607368,
+    43.595891,
+    -116.607368,
+    43.595891
+],
+  "geometry": {"coordinates":[-116.60736799999999,43.595891],"type":"Point"}
 }

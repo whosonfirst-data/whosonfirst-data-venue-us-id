@@ -2,13 +2,14 @@
   "id": 186239005,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.434426,44.732439,-116.434426,44.732439",
     "geom:latitude":44.732439,
     "geom:longitude":-116.434426,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"502 S Exeter St",
     "sg:city":"Council",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":186239005,
-    "wof:lastmodified":1449050499,
+    "wof:lastmodified":1466488668,
     "wof:name":"Hair Den",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-116.434426,44.732439,-116.434426,44.732439],
+  "bbox": [
+    -116.434426,
+    44.732439,
+    -116.434426,
+    44.732439
+],
   "geometry": {"coordinates":[-116.434426,44.732439],"type":"Point"}
 }

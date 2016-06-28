@@ -2,13 +2,14 @@
   "id": 320547167,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.913135,46.718049,-116.913135,46.718049",
     "geom:latitude":46.718049,
     "geom:longitude":-116.913135,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1031 Grand Fir Dr",
     "sg:city":"Moscow",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":320547167,
-    "wof:lastmodified":1449011620,
+    "wof:lastmodified":1466487009,
     "wof:name":"Sheldon Properties",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "park"
     ]
 },
-  "bbox": [-116.913135,46.718049,-116.913135,46.718049],
+  "bbox": [
+    -116.913135,
+    46.718049,
+    -116.913135,
+    46.718049
+],
   "geometry": {"coordinates":[-116.913135,46.718049],"type":"Point"}
 }

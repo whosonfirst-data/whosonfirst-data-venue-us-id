@@ -2,13 +2,14 @@
   "id": 185876563,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.547705,48.275937,-116.547705,48.275937",
     "geom:latitude":48.275937,
     "geom:longitude":-116.547705,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"314 N 1st Ave",
     "sg:city":"Sandpoint",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":185876563,
-    "wof:lastmodified":1449006938,
+    "wof:lastmodified":1466488447,
     "wof:name":"Outdoor Experience",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-116.547705,48.275937,-116.547705,48.275937],
-  "geometry": {"coordinates":[-116.547705,48.275937],"type":"Point"}
+  "bbox": [
+    -116.547705,
+    48.275937,
+    -116.547705,
+    48.275937
+],
+  "geometry": {"coordinates":[-116.54770499999999,48.275937],"type":"Point"}
 }

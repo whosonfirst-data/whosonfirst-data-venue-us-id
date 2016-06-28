@@ -2,13 +2,14 @@
   "id": 169796731,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.236618,43.562515,-116.236618,43.562515",
     "geom:latitude":43.562515,
     "geom:longitude":-116.236618,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4300 S Kennedy St",
     "sg:city":"Boise",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":169796731,
-    "wof:lastmodified":1449034238,
+    "wof:lastmodified":1466488406,
     "wof:name":"Western Aircraft Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "maintenance"
     ]
 },
-  "bbox": [-116.236618,43.562515,-116.236618,43.562515],
-  "geometry": {"coordinates":[-116.236618,43.562515],"type":"Point"}
+  "bbox": [
+    -116.236618,
+    43.562515,
+    -116.236618,
+    43.562515
+],
+  "geometry": {"coordinates":[-116.23661800000001,43.562515],"type":"Point"}
 }

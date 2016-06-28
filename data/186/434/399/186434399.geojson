@@ -2,13 +2,14 @@
   "id": 186434399,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-117.039445,48.183893,-117.039445,48.183893",
     "geom:latitude":48.183893,
     "geom:longitude":-117.039445,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"309 N State Ave",
     "sg:city":"Oldtown",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186434399,
-    "wof:lastmodified":1449050976,
+    "wof:lastmodified":1466488856,
     "wof:name":"Pooch Parlor",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "washing"
     ]
 },
-  "bbox": [-117.039445,48.183893,-117.039445,48.183893],
+  "bbox": [
+    -117.039445,
+    48.183893,
+    -117.039445,
+    48.183893
+],
   "geometry": {"coordinates":[-117.039445,48.183893],"type":"Point"}
 }

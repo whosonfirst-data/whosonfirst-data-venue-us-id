@@ -2,13 +2,14 @@
   "id": 185904037,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-117.008176,46.415761,-117.008176,46.415761",
     "geom:latitude":46.415761,
     "geom:longitude":-117.008176,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"321 17th St",
     "sg:city":"Lewiston",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":185904037,
-    "wof:lastmodified":1449008259,
+    "wof:lastmodified":1466488654,
     "wof:name":"ANS Developmental Therapy",
     "wof:parent_id":85837769,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "home"
     ]
 },
-  "bbox": [-117.008176,46.415761,-117.008176,46.415761],
-  "geometry": {"coordinates":[-117.008176,46.415761],"type":"Point"}
+  "bbox": [
+    -117.008176,
+    46.415761,
+    -117.008176,
+    46.415761
+],
+  "geometry": {"coordinates":[-117.00817600000001,46.415761],"type":"Point"}
 }

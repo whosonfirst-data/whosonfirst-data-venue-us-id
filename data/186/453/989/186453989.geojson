@@ -2,13 +2,14 @@
   "id": 186453989,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.029763,43.479805,-112.029763,43.479805",
     "geom:latitude":43.479805,
     "geom:longitude":-112.029763,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"264 E 20th St",
     "sg:city":"Idaho Falls",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":186453989,
-    "wof:lastmodified":1449052354,
+    "wof:lastmodified":1466488825,
     "wof:name":"Brian M Moberly",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.029763,43.479805,-112.029763,43.479805],
+  "bbox": [
+    -112.029763,
+    43.479805,
+    -112.029763,
+    43.479805
+],
   "geometry": {"coordinates":[-112.029763,43.479805],"type":"Point"}
 }

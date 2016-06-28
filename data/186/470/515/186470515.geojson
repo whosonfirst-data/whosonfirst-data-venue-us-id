@@ -2,13 +2,14 @@
   "id": 186470515,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.785049,47.703142,-116.785049,47.703142",
     "geom:latitude":47.703142,
     "geom:longitude":-116.785049,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"202 E Anton Ave",
     "sg:city":"Coeur D Alene",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186470515,
-    "wof:lastmodified":1449051045,
+    "wof:lastmodified":1466488782,
     "wof:name":"Northwest Telcom Inc",
     "wof:parent_id":85821457,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "cable"
     ]
 },
-  "bbox": [-116.785049,47.703142,-116.785049,47.703142],
+  "bbox": [
+    -116.785049,
+    47.703142,
+    -116.785049,
+    47.703142
+],
   "geometry": {"coordinates":[-116.785049,47.703142],"type":"Point"}
 }

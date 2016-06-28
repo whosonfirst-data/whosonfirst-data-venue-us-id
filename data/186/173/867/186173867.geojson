@@ -2,13 +2,14 @@
   "id": 186173867,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.800153,47.69638,-116.800153,47.69638",
     "geom:latitude":47.69638,
     "geom:longitude":-116.800153,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1120 W Ironwood Dr",
     "sg:city":"Coeur D Alene",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186173867,
-    "wof:lastmodified":1449050924,
+    "wof:lastmodified":1466488434,
     "wof:name":"Region 1 Health Service Center",
     "wof:parent_id":85821457,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "center"
     ]
 },
-  "bbox": [-116.800153,47.69638,-116.800153,47.69638],
-  "geometry": {"coordinates":[-116.800153,47.69638],"type":"Point"}
+  "bbox": [
+    -116.800153,
+    47.69638,
+    -116.800153,
+    47.69638
+],
+  "geometry": {"coordinates":[-116.80015299999999,47.69638],"type":"Point"}
 }

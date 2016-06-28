@@ -2,13 +2,14 @@
   "id": 169626067,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.119411,43.381424,-112.119411,43.381424",
     "geom:latitude":43.381424,
     "geom:longitude":-112.119411,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"229 E Center St",
     "sg:city":"Shelley",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":169626067,
-    "wof:lastmodified":1449035968,
+    "wof:lastmodified":1466487213,
     "wof:name":"Russet Brokerage",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "merchandise"
     ]
 },
-  "bbox": [-112.119411,43.381424,-112.119411,43.381424],
+  "bbox": [
+    -112.119411,
+    43.381424,
+    -112.119411,
+    43.381424
+],
   "geometry": {"coordinates":[-112.119411,43.381424],"type":"Point"}
 }

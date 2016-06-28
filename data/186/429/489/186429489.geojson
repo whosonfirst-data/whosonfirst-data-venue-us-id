@@ -2,13 +2,14 @@
   "id": 186429489,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.396047,43.611975,-116.396047,43.611975",
     "geom:latitude":43.611975,
     "geom:longitude":-116.396047,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"907 W 2nd St",
     "sg:city":"Meridian",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186429489,
-    "wof:lastmodified":1449052894,
+    "wof:lastmodified":1466488854,
     "wof:name":"Handy Home Repair",
     "wof:parent_id":85805083,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-116.396047,43.611975,-116.396047,43.611975],
+  "bbox": [
+    -116.396047,
+    43.611975,
+    -116.396047,
+    43.611975
+],
   "geometry": {"coordinates":[-116.396047,43.611975],"type":"Point"}
 }

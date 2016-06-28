@@ -2,13 +2,14 @@
   "id": 185812455,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.596376,43.55549,-116.596376,43.55549",
     "geom:latitude":43.55549,
     "geom:longitude":-116.596376,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1309 Georgia Cir",
     "sg:city":"Nampa",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":185812455,
-    "wof:lastmodified":1449006630,
+    "wof:lastmodified":1466488336,
     "wof:name":"First Choice Appraisal Inc",
     "wof:parent_id":85827787,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "appraiser"
     ]
 },
-  "bbox": [-116.596376,43.55549,-116.596376,43.55549],
-  "geometry": {"coordinates":[-116.596376,43.55549],"type":"Point"}
+  "bbox": [
+    -116.596376,
+    43.55549,
+    -116.596376,
+    43.55549
+],
+  "geometry": {"coordinates":[-116.59637600000001,43.55549],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169670557,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.698478,43.150467,-115.698478,43.150467",
     "geom:latitude":43.150467,
     "geom:longitude":-115.698478,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1865 Stonetree Dr",
     "sg:city":"Mountain Home",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":169670557,
-    "wof:lastmodified":1449033186,
+    "wof:lastmodified":1466487886,
     "wof:name":"Wendy Niksich",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-115.698478,43.150467,-115.698478,43.150467],
-  "geometry": {"coordinates":[-115.698478,43.150467],"type":"Point"}
+  "bbox": [
+    -115.698478,
+    43.150467,
+    -115.698478,
+    43.150467
+],
+  "geometry": {"coordinates":[-115.69847799999999,43.150467],"type":"Point"}
 }

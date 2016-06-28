@@ -2,13 +2,14 @@
   "id": 186197719,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.384193,43.690656,-114.384193,43.690656",
     "geom:latitude":43.690656,
     "geom:longitude":-114.384193,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2207 Warm Springs Rd",
     "sg:city":"Ketchum",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":186197719,
-    "wof:lastmodified":1449052674,
+    "wof:lastmodified":1466488570,
     "wof:name":"Sun Valley Telephone Directory",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "guide"
     ]
 },
-  "bbox": [-114.384193,43.690656,-114.384193,43.690656],
+  "bbox": [
+    -114.384193,
+    43.690656,
+    -114.384193,
+    43.690656
+],
   "geometry": {"coordinates":[-114.384193,43.690656],"type":"Point"}
 }

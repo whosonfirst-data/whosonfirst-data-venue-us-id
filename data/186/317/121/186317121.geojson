@@ -2,13 +2,14 @@
   "id": 186317121,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.622076,48.366815,-116.622076,48.366815",
     "geom:latitude":48.366815,
     "geom:longitude":-116.622076,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"166 Village Ln",
     "sg:city":"Sandpoint",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":186317121,
-    "wof:lastmodified":1449051593,
+    "wof:lastmodified":1466488627,
     "wof:name":"Lakeshore Mountain Properties",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-116.622076,48.366815,-116.622076,48.366815],
-  "geometry": {"coordinates":[-116.622076,48.366815],"type":"Point"}
+  "bbox": [
+    -116.622076,
+    48.366815,
+    -116.622076,
+    48.366815
+],
+  "geometry": {"coordinates":[-116.62207600000001,48.366815],"type":"Point"}
 }

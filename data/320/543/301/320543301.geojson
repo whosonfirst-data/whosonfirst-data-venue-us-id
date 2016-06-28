@@ -2,13 +2,14 @@
   "id": 320543301,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.145043,43.587882,-116.145043,43.587882",
     "geom:latitude":43.587882,
     "geom:longitude":-116.145043,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3299 E Red Stone Dr",
     "sg:city":"Boise",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":320543301,
-    "wof:lastmodified":1449011987,
+    "wof:lastmodified":1466486964,
     "wof:name":"Cole Ecological Services",
     "wof:parent_id":85876347,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "consultant"
     ]
 },
-  "bbox": [-116.145043,43.587882,-116.145043,43.587882],
+  "bbox": [
+    -116.145043,
+    43.587882,
+    -116.145043,
+    43.587882
+],
   "geometry": {"coordinates":[-116.145043,43.587882],"type":"Point"}
 }

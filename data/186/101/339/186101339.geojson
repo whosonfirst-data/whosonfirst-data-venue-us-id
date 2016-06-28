@@ -2,13 +2,14 @@
   "id": 186101339,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.243357,43.616437,-116.243357,43.616437",
     "geom:latitude":43.616437,
     "geom:longitude":-116.243357,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1299 N Orchard St",
     "sg:city":"Boise",
     "sg:classifiers":[
@@ -52,16 +53,22 @@
         }
     ],
     "wof:id":186101339,
-    "wof:lastmodified":1449051785,
+    "wof:lastmodified":1466487874,
     "wof:name":"Syringa Bank Residential Mtg",
     "wof:parent_id":85876301,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "loan"
     ]
 },
-  "bbox": [-116.243357,43.616437,-116.243357,43.616437],
+  "bbox": [
+    -116.243357,
+    43.616437,
+    -116.243357,
+    43.616437
+],
   "geometry": {"coordinates":[-116.243357,43.616437],"type":"Point"}
 }

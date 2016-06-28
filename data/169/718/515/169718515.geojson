@@ -2,13 +2,14 @@
   "id": 169718515,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.849115,47.705048,-116.849115,47.705048",
     "geom:latitude":47.705048,
     "geom:longitude":-116.849115,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4697 W Seltice Way",
     "sg:city":"Coeur D Alene",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":169718515,
-    "wof:lastmodified":1449033396,
+    "wof:lastmodified":1466488180,
     "wof:name":"CDF Landscape",
     "wof:parent_id":85821457,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "contractor"
     ]
 },
-  "bbox": [-116.849115,47.705048,-116.849115,47.705048],
+  "bbox": [
+    -116.849115,
+    47.705048,
+    -116.849115,
+    47.705048
+],
   "geometry": {"coordinates":[-116.849115,47.705048],"type":"Point"}
 }

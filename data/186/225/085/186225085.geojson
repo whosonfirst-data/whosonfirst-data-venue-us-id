@@ -2,13 +2,14 @@
   "id": 186225085,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.247368,43.648409,-116.247368,43.648409",
     "geom:latitude":43.648409,
     "geom:longitude":-116.247368,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4712 W State St",
     "sg:city":"Boise",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186225085,
-    "wof:lastmodified":1449051214,
+    "wof:lastmodified":1466488551,
     "wof:name":"Twentieth Century Bowling Inc",
     "wof:parent_id":85876339,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "center"
     ]
 },
-  "bbox": [-116.247368,43.648409,-116.247368,43.648409],
-  "geometry": {"coordinates":[-116.247368,43.648409],"type":"Point"}
+  "bbox": [
+    -116.247368,
+    43.648409,
+    -116.247368,
+    43.648409
+],
+  "geometry": {"coordinates":[-116.24736799999999,43.648409],"type":"Point"}
 }

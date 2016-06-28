@@ -2,13 +2,14 @@
   "id": 169609431,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.481003,43.585764,-116.481003,43.585764",
     "geom:latitude":43.585764,
     "geom:longitude":-116.481003,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7100 Airport Rd",
     "sg:city":"Nampa",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":169609431,
-    "wof:lastmodified":1449033920,
+    "wof:lastmodified":1466486949,
     "wof:name":"Dick Francke Innovative Buildi",
     "wof:parent_id":85827787,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-116.481003,43.585764,-116.481003,43.585764],
+  "bbox": [
+    -116.481003,
+    43.585764,
+    -116.481003,
+    43.585764
+],
   "geometry": {"coordinates":[-116.481003,43.585764],"type":"Point"}
 }

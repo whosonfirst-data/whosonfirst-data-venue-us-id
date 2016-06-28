@@ -2,13 +2,14 @@
   "id": 169607805,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.477261,43.196997,-112.477261,43.196997",
     "geom:latitude":43.196997,
     "geom:longitude":-112.477261,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"918 W Hwy 39",
     "sg:city":"Blackfoot",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":169607805,
-    "wof:lastmodified":1449033121,
+    "wof:lastmodified":1466486923,
     "wof:name":"Snake River Junior High School",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.477261,43.196997,-112.477261,43.196997],
+  "bbox": [
+    -112.477261,
+    43.196997,
+    -112.477261,
+    43.196997
+],
   "geometry": {"coordinates":[-112.477261,43.196997],"type":"Point"}
 }

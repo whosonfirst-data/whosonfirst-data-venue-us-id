@@ -2,13 +2,14 @@
   "id": 185923297,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.023619,43.519765,-112.023619,43.519765",
     "geom:latitude":43.519765,
     "geom:longitude":-112.023619,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2665 N Holmes Ave",
     "sg:city":"Idaho Falls",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":185923297,
-    "wof:lastmodified":1449008135,
+    "wof:lastmodified":1466488516,
     "wof:name":"Vickers Western Stores Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "western"
     ]
 },
-  "bbox": [-112.023619,43.519765,-112.023619,43.519765],
+  "bbox": [
+    -112.023619,
+    43.519765,
+    -112.023619,
+    43.519765
+],
   "geometry": {"coordinates":[-112.023619,43.519765],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 185718003,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.120364,43.353333,-112.120364,43.353333",
     "geom:latitude":43.353333,
     "geom:longitude":-112.120364,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1024 N 900 E",
     "sg:city":"Shelley",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":185718003,
-    "wof:lastmodified":1449006968,
+    "wof:lastmodified":1466487665,
     "wof:name":"High Mountain Fire Protection",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "protection"
     ]
 },
-  "bbox": [-112.120364,43.353333,-112.120364,43.353333],
+  "bbox": [
+    -112.120364,
+    43.353333,
+    -112.120364,
+    43.353333
+],
   "geometry": {"coordinates":[-112.120364,43.353333],"type":"Point"}
 }

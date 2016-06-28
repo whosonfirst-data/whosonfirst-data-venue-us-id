@@ -2,13 +2,14 @@
   "id": 169667827,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.679993,47.637223,-116.679993,47.637223",
     "geom:latitude":47.637223,
     "geom:longitude":-116.679993,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3857 S Bonnell Rd",
     "sg:city":"Coeur D Alene",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":169667827,
-    "wof:lastmodified":1449034845,
+    "wof:lastmodified":1466487850,
     "wof:name":"Grammer Vacuum Technologies",
     "wof:parent_id":85821457,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "mfg"
     ]
 },
-  "bbox": [-116.679993,47.637223,-116.679993,47.637223],
+  "bbox": [
+    -116.679993,
+    47.637223,
+    -116.679993,
+    47.637223
+],
   "geometry": {"coordinates":[-116.679993,47.637223],"type":"Point"}
 }

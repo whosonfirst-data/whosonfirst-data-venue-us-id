@@ -2,13 +2,14 @@
   "id": 185768977,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.874578,44.367616,-116.874578,44.367616",
     "geom:latitude":44.367616,
     "geom:longitude":-116.874578,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1498 US Hwy 95",
     "sg:city":"Weiser",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":185768977,
-    "wof:lastmodified":1449007232,
+    "wof:lastmodified":1466488075,
     "wof:name":"Mann Creek Store",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "vehicle"
     ]
 },
-  "bbox": [-116.874578,44.367616,-116.874578,44.367616],
+  "bbox": [
+    -116.874578,
+    44.367616,
+    -116.874578,
+    44.367616
+],
   "geometry": {"coordinates":[-116.874578,44.367616],"type":"Point"}
 }

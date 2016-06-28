@@ -2,13 +2,14 @@
   "id": 185926057,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.705662,47.800292,-116.705662,47.800292",
     "geom:latitude":47.800292,
     "geom:longitude":-116.705662,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"37186 E Hayden Lake Rd",
     "sg:city":"Hayden",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":185926057,
-    "wof:lastmodified":1449007151,
+    "wof:lastmodified":1466488616,
     "wof:name":"Monty Montgomery Trucking",
     "wof:parent_id":85821457,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "trucking"
     ]
 },
-  "bbox": [-116.705662,47.800292,-116.705662,47.800292],
+  "bbox": [
+    -116.705662,
+    47.800292,
+    -116.705662,
+    47.800292
+],
   "geometry": {"coordinates":[-116.705662,47.800292],"type":"Point"}
 }

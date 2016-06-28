@@ -2,13 +2,14 @@
   "id": 169794453,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-113.724717,42.541422,-113.724717,42.541422",
     "geom:latitude":42.541422,
     "geom:longitude":-113.724717,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"525 S 300 W",
     "sg:city":"Heyburn",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":169794453,
-    "wof:lastmodified":1449034268,
+    "wof:lastmodified":1466488491,
     "wof:name":"J F Sharpening",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-113.724717,42.541422,-113.724717,42.541422],
+  "bbox": [
+    -113.724717,
+    42.541422,
+    -113.724717,
+    42.541422
+],
   "geometry": {"coordinates":[-113.724717,42.541422],"type":"Point"}
 }

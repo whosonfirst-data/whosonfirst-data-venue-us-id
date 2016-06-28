@@ -2,13 +2,14 @@
   "id": 169624261,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.732553,43.752011,-116.732553,43.752011",
     "geom:latitude":43.752011,
     "geom:longitude":-116.732553,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"26020 Wagner Rd",
     "sg:city":"Caldwell",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":169624261,
-    "wof:lastmodified":1449034956,
+    "wof:lastmodified":1466487187,
     "wof:name":"Cundiff Excavating Backhoe Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "septic"
     ]
 },
-  "bbox": [-116.732553,43.752011,-116.732553,43.752011],
+  "bbox": [
+    -116.732553,
+    43.752011,
+    -116.732553,
+    43.752011
+],
   "geometry": {"coordinates":[-116.732553,43.752011],"type":"Point"}
 }

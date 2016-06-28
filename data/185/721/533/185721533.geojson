@@ -2,13 +2,14 @@
   "id": 185721533,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.687382,43.648966,-116.687382,43.648966",
     "geom:latitude":43.648966,
     "geom:longitude":-116.687382,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"905 Walnut St",
     "sg:city":"Caldwell",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":185721533,
-    "wof:lastmodified":1449008205,
+    "wof:lastmodified":1466487694,
     "wof:name":"Beautiful Beginnings",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-116.687382,43.648966,-116.687382,43.648966],
+  "bbox": [
+    -116.687382,
+    43.648966,
+    -116.687382,
+    43.648966
+],
   "geometry": {"coordinates":[-116.687382,43.648966],"type":"Point"}
 }

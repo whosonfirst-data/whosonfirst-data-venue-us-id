@@ -2,13 +2,14 @@
   "id": 186121079,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.181653,43.606592,-116.181653,43.606592",
     "geom:latitude":43.606592,
     "geom:longitude":-116.181653,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1127 Warm Springs Ave",
     "sg:city":"Boise",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186121079,
-    "wof:lastmodified":1449052412,
+    "wof:lastmodified":1466488068,
     "wof:name":"Syringa Charter LLC",
     "wof:parent_id":85876345,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "transport"
     ]
 },
-  "bbox": [-116.181653,43.606592,-116.181653,43.606592],
+  "bbox": [
+    -116.181653,
+    43.606592,
+    -116.181653,
+    43.606592
+],
   "geometry": {"coordinates":[-116.181653,43.606592],"type":"Point"}
 }

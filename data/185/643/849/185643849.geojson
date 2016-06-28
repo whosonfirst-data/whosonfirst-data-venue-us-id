@@ -2,13 +2,14 @@
   "id": 185643849,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.559184,43.578436,-116.559184,43.578436",
     "geom:latitude":43.578436,
     "geom:longitude":-116.559184,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1212 1st St S",
     "sg:city":"Nampa",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":185643849,
-    "wof:lastmodified":1449008001,
+    "wof:lastmodified":1466487094,
     "wof:name":"Old Town Antique Mall Coffe",
     "wof:parent_id":85827787,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "shop"
     ]
 },
-  "bbox": [-116.559184,43.578436,-116.559184,43.578436],
+  "bbox": [
+    -116.559184,
+    43.578436,
+    -116.559184,
+    43.578436
+],
   "geometry": {"coordinates":[-116.559184,43.578436],"type":"Point"}
 }

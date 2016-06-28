@@ -2,13 +2,14 @@
   "id": 185617547,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.243451,43.611084,-116.243451,43.611084",
     "geom:latitude":43.611084,
     "geom:longitude":-116.243451,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"701 N Orchard St",
     "sg:city":"Boise",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":185617547,
-    "wof:lastmodified":1449006633,
+    "wof:lastmodified":1466486896,
     "wof:name":"Bakery LA Michoacana",
     "wof:parent_id":85876311,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "baker"
     ]
 },
-  "bbox": [-116.243451,43.611084,-116.243451,43.611084],
-  "geometry": {"coordinates":[-116.243451,43.611084],"type":"Point"}
+  "bbox": [
+    -116.243451,
+    43.611084,
+    -116.243451,
+    43.611084
+],
+  "geometry": {"coordinates":[-116.24345099999999,43.611084],"type":"Point"}
 }

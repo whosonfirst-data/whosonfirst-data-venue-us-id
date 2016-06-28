@@ -2,13 +2,14 @@
   "id": 186426311,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.932572,43.445057,-111.932572,43.445057",
     "geom:latitude":43.445057,
     "geom:longitude":-111.932572,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5800 S Marbrisa Ln",
     "sg:city":"Idaho Falls",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":186426311,
-    "wof:lastmodified":1449050973,
+    "wof:lastmodified":1466488803,
     "wof:name":"Environmental Perspectives Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "physical"
     ]
 },
-  "bbox": [-111.932572,43.445057,-111.932572,43.445057],
-  "geometry": {"coordinates":[-111.932572,43.445057],"type":"Point"}
+  "bbox": [
+    -111.932572,
+    43.445057,
+    -111.932572,
+    43.445057
+],
+  "geometry": {"coordinates":[-111.93257199999999,43.445057],"type":"Point"}
 }

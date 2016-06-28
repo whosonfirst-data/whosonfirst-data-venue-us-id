@@ -2,13 +2,14 @@
   "id": 186555269,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-117.004278,46.739476,-117.004278,46.739476",
     "geom:latitude":46.739476,
     "geom:longitude":-117.004278,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"609 N Almon St",
     "sg:city":"Moscow",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":186555269,
-    "wof:lastmodified":1449052634,
+    "wof:lastmodified":1466488888,
     "wof:name":"Neverest Carpentry",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "contractor"
     ]
 },
-  "bbox": [-117.004278,46.739476,-117.004278,46.739476],
+  "bbox": [
+    -117.004278,
+    46.739476,
+    -117.004278,
+    46.739476
+],
   "geometry": {"coordinates":[-117.004278,46.739476],"type":"Point"}
 }

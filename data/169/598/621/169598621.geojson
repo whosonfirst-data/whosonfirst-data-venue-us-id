@@ -2,13 +2,14 @@
   "id": 169598621,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.255646,43.603268,-116.255646,43.603268",
     "geom:latitude":43.603268,
     "geom:longitude":-116.255646,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6207 Franklin Rd",
     "sg:city":"Boise",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":169598621,
-    "wof:lastmodified":1449032859,
+    "wof:lastmodified":1466488190,
     "wof:name":"Potting Shed",
     "wof:parent_id":85806577,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "maintenance"
     ]
 },
-  "bbox": [-116.255646,43.603268,-116.255646,43.603268],
+  "bbox": [
+    -116.255646,
+    43.603268,
+    -116.255646,
+    43.603268
+],
   "geometry": {"coordinates":[-116.255646,43.603268],"type":"Point"}
 }

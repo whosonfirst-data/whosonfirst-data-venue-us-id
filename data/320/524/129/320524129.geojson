@@ -2,13 +2,14 @@
   "id": 320524129,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.967244,46.374813,-116.967244,46.374813",
     "geom:latitude":46.374813,
     "geom:longitude":-116.967244,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1240 Cedar Ave",
     "sg:city":"Lewiston",
     "sg:classifiers":[
@@ -69,10 +70,11 @@
         }
     ],
     "wof:id":320524129,
-    "wof:lastmodified":1449011223,
+    "wof:lastmodified":1466487231,
     "wof:name":"Final Touch",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -82,6 +84,11 @@
         "automobile"
     ]
 },
-  "bbox": [-116.967244,46.374813,-116.967244,46.374813],
-  "geometry": {"coordinates":[-116.967244,46.374813],"type":"Point"}
+  "bbox": [
+    -116.967244,
+    46.374813,
+    -116.967244,
+    46.374813
+],
+  "geometry": {"coordinates":[-116.96724399999999,46.374813],"type":"Point"}
 }

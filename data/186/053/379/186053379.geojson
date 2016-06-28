@@ -2,13 +2,14 @@
   "id": 186053379,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.252353,43.613515,-116.252353,43.613515",
     "geom:latitude":43.613515,
     "geom:longitude":-116.252353,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5610 Gage St",
     "sg:city":"Boise",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186053379,
-    "wof:lastmodified":1449050913,
+    "wof:lastmodified":1466487348,
     "wof:name":"Idaho Nephrology Assoc",
     "wof:parent_id":85876311,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "surgeon"
     ]
 },
-  "bbox": [-116.252353,43.613515,-116.252353,43.613515],
+  "bbox": [
+    -116.252353,
+    43.613515,
+    -116.252353,
+    43.613515
+],
   "geometry": {"coordinates":[-116.252353,43.613515],"type":"Point"}
 }

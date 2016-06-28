@@ -2,13 +2,14 @@
   "id": 169643769,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.193694,43.589892,-116.193694,43.589892",
     "geom:latitude":43.589892,
     "geom:longitude":-116.193694,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1804 Broadway Ave",
     "sg:city":"Boise",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":169643769,
-    "wof:lastmodified":1449035521,
+    "wof:lastmodified":1466487492,
     "wof:name":"Idaho Taekwondo Training Ctr",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-116.193694,43.589892,-116.193694,43.589892],
-  "geometry": {"coordinates":[-116.193694,43.589892],"type":"Point"}
+  "bbox": [
+    -116.193694,
+    43.589892,
+    -116.193694,
+    43.589892
+],
+  "geometry": {"coordinates":[-116.19369399999999,43.589892],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186078503,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.631199,43.708599,-116.631199,43.708599",
     "geom:latitude":43.708599,
     "geom:longitude":-116.631199,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"556 W 3rd St N",
     "sg:city":"Middleton",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":186078503,
-    "wof:lastmodified":1449052589,
+    "wof:lastmodified":1466487641,
     "wof:name":"Class C Faller",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "forestry"
     ]
 },
-  "bbox": [-116.631199,43.708599,-116.631199,43.708599],
+  "bbox": [
+    -116.631199,
+    43.708599,
+    -116.631199,
+    43.708599
+],
   "geometry": {"coordinates":[-116.631199,43.708599],"type":"Point"}
 }

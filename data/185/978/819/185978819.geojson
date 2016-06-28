@@ -2,13 +2,14 @@
   "id": 185978819,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-113.305913,43.638147,-113.305913,43.638147",
     "geom:latitude":43.638147,
     "geom:longitude":-113.305913,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"246 Sunset Dr",
     "sg:city":"Arco",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":185978819,
-    "wof:lastmodified":1449007529,
+    "wof:lastmodified":1466488717,
     "wof:name":"Arco Superintendent Of Schools",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-113.305913,43.638147,-113.305913,43.638147],
+  "bbox": [
+    -113.305913,
+    43.638147,
+    -113.305913,
+    43.638147
+],
   "geometry": {"coordinates":[-113.305913,43.638147],"type":"Point"}
 }

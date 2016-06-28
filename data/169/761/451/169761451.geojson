@@ -2,13 +2,14 @@
   "id": 169761451,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.952076,43.851184,-116.952076,43.851184",
     "geom:latitude":43.851184,
     "geom:longitude":-116.952076,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1068 Grandview Rd",
     "sg:city":"Parma",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":169761451,
-    "wof:lastmodified":1449035178,
+    "wof:lastmodified":1466488438,
     "wof:name":"Broken Sickle Farms Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "general"
     ]
 },
-  "bbox": [-116.952076,43.851184,-116.952076,43.851184],
-  "geometry": {"coordinates":[-116.952076,43.851184],"type":"Point"}
+  "bbox": [
+    -116.952076,
+    43.851184,
+    -116.952076,
+    43.851184
+],
+  "geometry": {"coordinates":[-116.95207600000001,43.851184],"type":"Point"}
 }

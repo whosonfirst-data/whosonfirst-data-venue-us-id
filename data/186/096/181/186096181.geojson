@@ -2,13 +2,14 @@
   "id": 186096181,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-113.669312,42.613447,-113.669312,42.613447",
     "geom:latitude":42.613447,
     "geom:longitude":-113.669312,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"102 2nd St",
     "sg:city":"Rupert",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":186096181,
-    "wof:lastmodified":1449051256,
+    "wof:lastmodified":1466487820,
     "wof:name":"Community Oasis Outreach",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-113.669312,42.613447,-113.669312,42.613447],
-  "geometry": {"coordinates":[-113.669312,42.613447],"type":"Point"}
+  "bbox": [
+    -113.669312,
+    42.613447,
+    -113.669312,
+    42.613447
+],
+  "geometry": {"coordinates":[-113.66931200000001,42.613447],"type":"Point"}
 }

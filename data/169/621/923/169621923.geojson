@@ -2,13 +2,14 @@
   "id": 169621923,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.324031,43.53549,-116.324031,43.53549",
     "geom:latitude":43.53549,
     "geom:longitude":-116.324031,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"11187 Chapin Ave",
     "sg:city":"Boise",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":169621923,
-    "wof:lastmodified":1449035560,
+    "wof:lastmodified":1466487148,
     "wof:name":"All 4 You",
     "wof:parent_id":85876331,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-116.324031,43.53549,-116.324031,43.53549],
-  "geometry": {"coordinates":[-116.324031,43.53549],"type":"Point"}
+  "bbox": [
+    -116.324031,
+    43.53549,
+    -116.324031,
+    43.53549
+],
+  "geometry": {"coordinates":[-116.32403100000001,43.53549],"type":"Point"}
 }

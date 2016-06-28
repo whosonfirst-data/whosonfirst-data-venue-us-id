@@ -2,13 +2,14 @@
   "id": 186546775,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-117.00519,46.381428,-117.00519,46.381428",
     "geom:latitude":46.381428,
     "geom:longitude":-117.00519,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"518 Linden Dr",
     "sg:city":"Lewiston",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":186546775,
-    "wof:lastmodified":1449050245,
+    "wof:lastmodified":1466488892,
     "wof:name":"Joseph S Conder",
     "wof:parent_id":85837769,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "contractor"
     ]
 },
-  "bbox": [-117.00519,46.381428,-117.00519,46.381428],
+  "bbox": [
+    -117.00519,
+    46.381428,
+    -117.00519,
+    46.381428
+],
   "geometry": {"coordinates":[-117.00519,46.381428],"type":"Point"}
 }

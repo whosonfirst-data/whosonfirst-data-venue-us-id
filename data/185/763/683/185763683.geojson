@@ -2,13 +2,14 @@
   "id": 185763683,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.257674,43.609887,-116.257674,43.609887",
     "geom:latitude":43.609887,
     "geom:longitude":-116.257674,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5907 Denton St",
     "sg:city":"Boise",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":185763683,
-    "wof:lastmodified":1449008201,
+    "wof:lastmodified":1466488030,
     "wof:name":"Advanced Quality Janitorial",
     "wof:parent_id":85876311,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "janitor"
     ]
 },
-  "bbox": [-116.257674,43.609887,-116.257674,43.609887],
-  "geometry": {"coordinates":[-116.257674,43.609887],"type":"Point"}
+  "bbox": [
+    -116.257674,
+    43.609887,
+    -116.257674,
+    43.609887
+],
+  "geometry": {"coordinates":[-116.25767399999999,43.609887],"type":"Point"}
 }

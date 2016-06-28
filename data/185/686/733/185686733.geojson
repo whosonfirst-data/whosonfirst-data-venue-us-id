@@ -2,13 +2,14 @@
   "id": 185686733,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.258493,43.611947,-116.258493,43.611947",
     "geom:latitude":43.611947,
     "geom:longitude":-116.258493,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6030 Emerald St",
     "sg:city":"Boise",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":185686733,
-    "wof:lastmodified":1449007833,
+    "wof:lastmodified":1466487419,
     "wof:name":"Mountain States Neonatologist",
     "wof:parent_id":85876311,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "surgeon"
     ]
 },
-  "bbox": [-116.258493,43.611947,-116.258493,43.611947],
+  "bbox": [
+    -116.258493,
+    43.611947,
+    -116.258493,
+    43.611947
+],
   "geometry": {"coordinates":[-116.258493,43.611947],"type":"Point"}
 }

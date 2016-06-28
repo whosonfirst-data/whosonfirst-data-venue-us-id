@@ -2,13 +2,14 @@
   "id": 186301239,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.25698,43.603388,-116.25698,43.603388",
     "geom:latitude":43.603388,
     "geom:longitude":-116.25698,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6033 Franklin Rd",
     "sg:city":"Boise",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":186301239,
-    "wof:lastmodified":1449051081,
+    "wof:lastmodified":1466488581,
     "wof:name":"Allied General Fire & Security",
     "wof:parent_id":85806577,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "system"
     ]
 },
-  "bbox": [-116.25698,43.603388,-116.25698,43.603388],
+  "bbox": [
+    -116.25698,
+    43.603388,
+    -116.25698,
+    43.603388
+],
   "geometry": {"coordinates":[-116.25698,43.603388],"type":"Point"}
 }

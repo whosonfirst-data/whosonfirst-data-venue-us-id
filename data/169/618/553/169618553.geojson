@@ -2,13 +2,14 @@
   "id": 169618553,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.284985,43.639559,-116.284985,43.639559",
     "geom:latitude":43.639559,
     "geom:longitude":-116.284985,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3811 Buckingham Dr",
     "sg:city":"Boise",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":169618553,
-    "wof:lastmodified":1449034736,
+    "wof:lastmodified":1466487092,
     "wof:name":"Walton & Associates",
     "wof:parent_id":85876349,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-116.284985,43.639559,-116.284985,43.639559],
-  "geometry": {"coordinates":[-116.284985,43.639559],"type":"Point"}
+  "bbox": [
+    -116.284985,
+    43.639559,
+    -116.284985,
+    43.639559
+],
+  "geometry": {"coordinates":[-116.28498500000001,43.639559],"type":"Point"}
 }

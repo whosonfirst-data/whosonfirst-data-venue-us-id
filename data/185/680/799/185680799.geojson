@@ -2,13 +2,14 @@
   "id": 185680799,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.49987,43.870822,-116.49987,43.870822",
     "geom:latitude":43.870822,
     "geom:longitude":-116.49987,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"115 E 5th St",
     "sg:city":"Emmett",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":185680799,
-    "wof:lastmodified":1449007726,
+    "wof:lastmodified":1466487370,
     "wof:name":"Quality Cleaning Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "janitor"
     ]
 },
-  "bbox": [-116.49987,43.870822,-116.49987,43.870822],
+  "bbox": [
+    -116.49987,
+    43.870822,
+    -116.49987,
+    43.870822
+],
   "geometry": {"coordinates":[-116.49987,43.870822],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186536783,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.780664,47.692041,-116.780664,47.692041",
     "geom:latitude":47.692041,
     "geom:longitude":-116.780664,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1710 N 4th St",
     "sg:city":"Coeur D Alene",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":186536783,
-    "wof:lastmodified":1449051968,
+    "wof:lastmodified":1466488880,
     "wof:name":"Autos By Owners",
     "wof:parent_id":85821457,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "automobile"
     ]
 },
-  "bbox": [-116.780664,47.692041,-116.780664,47.692041],
+  "bbox": [
+    -116.780664,
+    47.692041,
+    -116.780664,
+    47.692041
+],
   "geometry": {"coordinates":[-116.780664,47.692041],"type":"Point"}
 }

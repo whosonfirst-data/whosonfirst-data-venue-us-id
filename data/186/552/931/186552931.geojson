@@ -2,13 +2,14 @@
   "id": 186552931,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.699268,43.667391,-116.699268,43.667391",
     "geom:latitude":43.667391,
     "geom:longitude":-116.699268,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"208 Evans St",
     "sg:city":"Caldwell",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186552931,
-    "wof:lastmodified":1449051498,
+    "wof:lastmodified":1466488895,
     "wof:name":"Karen Donleavy Designs",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "pottery"
     ]
 },
-  "bbox": [-116.699268,43.667391,-116.699268,43.667391],
+  "bbox": [
+    -116.699268,
+    43.667391,
+    -116.699268,
+    43.667391
+],
   "geometry": {"coordinates":[-116.699268,43.667391],"type":"Point"}
 }

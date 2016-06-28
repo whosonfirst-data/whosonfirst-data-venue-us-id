@@ -2,13 +2,14 @@
   "id": 185889781,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.394055,46.876083,-116.394055,46.876083",
     "geom:latitude":46.876083,
     "geom:longitude":-116.394055,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1034 Sanderson Ln",
     "sg:city":"Bovill",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":185889781,
-    "wof:lastmodified":1449006572,
+    "wof:lastmodified":1466488475,
     "wof:name":"M & M Cedar & Logging Shop",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "logging"
     ]
 },
-  "bbox": [-116.394055,46.876083,-116.394055,46.876083],
-  "geometry": {"coordinates":[-116.394055,46.876083],"type":"Point"}
+  "bbox": [
+    -116.394055,
+    46.876083,
+    -116.394055,
+    46.876083
+],
+  "geometry": {"coordinates":[-116.39405499999999,46.876083],"type":"Point"}
 }

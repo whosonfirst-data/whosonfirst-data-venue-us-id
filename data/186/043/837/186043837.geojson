@@ -2,13 +2,14 @@
   "id": 186043837,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.339304,43.704962,-116.339304,43.704962",
     "geom:latitude":43.704962,
     "geom:longitude":-116.339304,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1138 N Pebble Beach Way",
     "sg:city":"Eagle",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":186043837,
-    "wof:lastmodified":1449052347,
+    "wof:lastmodified":1466487242,
     "wof:name":"J M Sales LLC",
     "wof:parent_id":85876315,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -66,6 +68,11 @@
         "air"
     ]
 },
-  "bbox": [-116.339304,43.704962,-116.339304,43.704962],
+  "bbox": [
+    -116.339304,
+    43.704962,
+    -116.339304,
+    43.704962
+],
   "geometry": {"coordinates":[-116.339304,43.704962],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186054713,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.243368,43.614904,-116.243368,43.614904",
     "geom:latitude":43.614904,
     "geom:longitude":-116.243368,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1136 N Orchard St",
     "sg:city":"Boise",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":186054713,
-    "wof:lastmodified":1449051649,
+    "wof:lastmodified":1466487364,
     "wof:name":"Wing Chun Kung Fu Council",
     "wof:parent_id":85876301,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "instruction"
     ]
 },
-  "bbox": [-116.243368,43.614904,-116.243368,43.614904],
+  "bbox": [
+    -116.243368,
+    43.614904,
+    -116.243368,
+    43.614904
+],
   "geometry": {"coordinates":[-116.243368,43.614904],"type":"Point"}
 }

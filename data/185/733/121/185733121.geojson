@@ -2,13 +2,14 @@
   "id": 185733121,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.55484,47.304196,-116.55484,47.304196",
     "geom:latitude":47.304196,
     "geom:longitude":-116.55484,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"911 Saint Maries River Rd",
     "sg:city":"Coeur D Alene",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":185733121,
-    "wof:lastmodified":1449006827,
+    "wof:lastmodified":1466487784,
     "wof:name":"Advanced Auto/Marine",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "automobile"
     ]
 },
-  "bbox": [-116.55484,47.304196,-116.55484,47.304196],
+  "bbox": [
+    -116.55484,
+    47.304196,
+    -116.55484,
+    47.304196
+],
   "geometry": {"coordinates":[-116.55484,47.304196],"type":"Point"}
 }

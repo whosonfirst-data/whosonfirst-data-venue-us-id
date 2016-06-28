@@ -2,13 +2,14 @@
   "id": 169847327,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.299227,43.689592,-116.299227,43.689592",
     "geom:latitude":43.689592,
     "geom:longitude":-116.299227,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9200 E Hill Rd",
     "sg:city":"Boise",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":169847327,
-    "wof:lastmodified":1449033888,
+    "wof:lastmodified":1466488617,
     "wof:name":"Rocky Mountain Seal & Packing",
     "wof:parent_id":85876315,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "seal"
     ]
 },
-  "bbox": [-116.299227,43.689592,-116.299227,43.689592],
+  "bbox": [
+    -116.299227,
+    43.689592,
+    -116.299227,
+    43.689592
+],
   "geometry": {"coordinates":[-116.299227,43.689592],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169617887,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.265761,43.643445,-116.265761,43.643445",
     "geom:latitude":43.643445,
     "geom:longitude":-116.265761,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"270 E 50th St",
     "sg:city":"Boise",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":169617887,
-    "wof:lastmodified":1449032804,
+    "wof:lastmodified":1466487080,
     "wof:name":"Rhapsody Manufacturing Corp",
     "wof:parent_id":85876349,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -66,6 +68,11 @@
         "beauty"
     ]
 },
-  "bbox": [-116.265761,43.643445,-116.265761,43.643445],
+  "bbox": [
+    -116.265761,
+    43.643445,
+    -116.265761,
+    43.643445
+],
   "geometry": {"coordinates":[-116.265761,43.643445],"type":"Point"}
 }

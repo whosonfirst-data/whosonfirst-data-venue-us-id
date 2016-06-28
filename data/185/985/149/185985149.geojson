@@ -2,13 +2,14 @@
   "id": 185985149,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.223896,43.620466,-116.223896,43.620466",
     "geom:latitude":43.620466,
     "geom:longitude":-116.223896,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2727 Fairview Ave",
     "sg:city":"Boise",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":185985149,
-    "wof:lastmodified":1449007424,
+    "wof:lastmodified":1466488731,
     "wof:name":"U S Auto",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "dealer"
     ]
 },
-  "bbox": [-116.223896,43.620466,-116.223896,43.620466],
+  "bbox": [
+    -116.223896,
+    43.620466,
+    -116.223896,
+    43.620466
+],
   "geometry": {"coordinates":[-116.223896,43.620466],"type":"Point"}
 }

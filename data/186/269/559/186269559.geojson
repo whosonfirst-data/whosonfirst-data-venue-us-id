@@ -2,13 +2,14 @@
   "id": 186269559,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.884675,43.639679,-116.884675,43.639679",
     "geom:latitude":43.639679,
     "geom:longitude":-116.884675,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"24654 Boehner Rd",
     "sg:city":"Wilder",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":186269559,
-    "wof:lastmodified":1449052055,
+    "wof:lastmodified":1466488622,
     "wof:name":"Asap Lock & Key",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-116.884675,43.639679,-116.884675,43.639679],
+  "bbox": [
+    -116.884675,
+    43.639679,
+    -116.884675,
+    43.639679
+],
   "geometry": {"coordinates":[-116.884675,43.639679],"type":"Point"}
 }

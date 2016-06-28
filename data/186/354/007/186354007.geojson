@@ -2,13 +2,14 @@
   "id": 186354007,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.517595,48.412822,-116.517595,48.412822",
     "geom:latitude":48.412822,
     "geom:longitude":-116.517595,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"484180 Hwy 95",
     "sg:city":"Sandpoint",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":186354007,
-    "wof:lastmodified":1449052722,
+    "wof:lastmodified":1466488834,
     "wof:name":"Woods Crushing & Hauling",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "trucking"
     ]
 },
-  "bbox": [-116.517595,48.412822,-116.517595,48.412822],
+  "bbox": [
+    -116.517595,
+    48.412822,
+    -116.517595,
+    48.412822
+],
   "geometry": {"coordinates":[-116.517595,48.412822],"type":"Point"}
 }

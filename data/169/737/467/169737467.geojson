@@ -2,13 +2,14 @@
   "id": 169737467,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.454185,48.318313,-116.454185,48.318313",
     "geom:latitude":48.318313,
     "geom:longitude":-116.454185,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"224 Sunnyside Rd",
     "sg:city":"Sandpoint",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":169737467,
-    "wof:lastmodified":1449033422,
+    "wof:lastmodified":1466488316,
     "wof:name":"Technical Corporate Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "business"
     ]
 },
-  "bbox": [-116.454185,48.318313,-116.454185,48.318313],
+  "bbox": [
+    -116.454185,
+    48.318313,
+    -116.454185,
+    48.318313
+],
   "geometry": {"coordinates":[-116.454185,48.318313],"type":"Point"}
 }

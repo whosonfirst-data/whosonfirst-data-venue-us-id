@@ -2,13 +2,14 @@
   "id": 185622899,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.537867,43.59087,-116.537867,43.59087",
     "geom:latitude":43.59087,
     "geom:longitude":-116.537867,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"606 Carnation Dr",
     "sg:city":"Nampa",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":185622899,
-    "wof:lastmodified":1449007940,
+    "wof:lastmodified":1466486937,
     "wof:name":"G2B Co",
     "wof:parent_id":85827787,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "pumping"
     ]
 },
-  "bbox": [-116.537867,43.59087,-116.537867,43.59087],
-  "geometry": {"coordinates":[-116.537867,43.59087],"type":"Point"}
+  "bbox": [
+    -116.537867,
+    43.59087,
+    -116.537867,
+    43.59087
+],
+  "geometry": {"coordinates":[-116.53786700000001,43.59087],"type":"Point"}
 }

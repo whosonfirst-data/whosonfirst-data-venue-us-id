@@ -2,13 +2,14 @@
   "id": 169841261,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.437064,43.198549,-112.437064,43.198549",
     "geom:latitude":43.198549,
     "geom:longitude":-112.437064,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"702 W 10 N",
     "sg:city":"Blackfoot",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":169841261,
-    "wof:lastmodified":1449033375,
+    "wof:lastmodified":1466488610,
     "wof:name":"Rivera Express Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "establishment"
     ]
 },
-  "bbox": [-112.437064,43.198549,-112.437064,43.198549],
-  "geometry": {"coordinates":[-112.437064,43.198549],"type":"Point"}
+  "bbox": [
+    -112.437064,
+    43.198549,
+    -112.437064,
+    43.198549
+],
+  "geometry": {"coordinates":[-112.43706400000001,43.198549],"type":"Point"}
 }

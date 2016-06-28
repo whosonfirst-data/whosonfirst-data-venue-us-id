@@ -2,13 +2,14 @@
   "id": 185838229,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.223375,43.64515,-116.223375,43.64515",
     "geom:latitude":43.64515,
     "geom:longitude":-116.223375,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2821 N 28th St",
     "sg:city":"Boise",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":185838229,
-    "wof:lastmodified":1449006796,
+    "wof:lastmodified":1466488429,
     "wof:name":"Steckmest Furniture Design",
     "wof:parent_id":85876339,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "custom"
     ]
 },
-  "bbox": [-116.223375,43.64515,-116.223375,43.64515],
+  "bbox": [
+    -116.223375,
+    43.64515,
+    -116.223375,
+    43.64515
+],
   "geometry": {"coordinates":[-116.223375,43.64515],"type":"Point"}
 }

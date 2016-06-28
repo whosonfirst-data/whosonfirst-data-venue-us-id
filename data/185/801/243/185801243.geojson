@@ -2,13 +2,14 @@
   "id": 185801243,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.554321,43.600851,-116.554321,43.600851",
     "geom:latitude":43.600851,
     "geom:longitude":-116.554321,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1400 Shilo Dr",
     "sg:city":"Nampa",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":185801243,
-    "wof:lastmodified":1449007951,
+    "wof:lastmodified":1466488377,
     "wof:name":"Embroidered Images Inc",
     "wof:parent_id":85827787,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "embroidery"
     ]
 },
-  "bbox": [-116.554321,43.600851,-116.554321,43.600851],
+  "bbox": [
+    -116.554321,
+    43.600851,
+    -116.554321,
+    43.600851
+],
   "geometry": {"coordinates":[-116.554321,43.600851],"type":"Point"}
 }

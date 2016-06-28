@@ -2,13 +2,14 @@
   "id": 169633259,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.848649,48.480554,-116.848649,48.480554",
     "geom:latitude":48.480554,
     "geom:longitude":-116.848649,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"352 Bayview Dr",
     "sg:city":"Coolin",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":169633259,
-    "wof:lastmodified":1449035938,
+    "wof:lastmodified":1466487330,
     "wof:name":"Bishop's Restaurant Marina",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-116.848649,48.480554,-116.848649,48.480554],
-  "geometry": {"coordinates":[-116.848649,48.480554],"type":"Point"}
+  "bbox": [
+    -116.848649,
+    48.480554,
+    -116.848649,
+    48.480554
+],
+  "geometry": {"coordinates":[-116.84864899999999,48.480554],"type":"Point"}
 }

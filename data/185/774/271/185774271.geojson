@@ -2,13 +2,14 @@
   "id": 185774271,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.755854,43.807193,-116.755854,43.807193",
     "geom:latitude":43.807193,
     "geom:longitude":-116.755854,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5800 Oasis Rd",
     "sg:city":"Caldwell",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":185774271,
-    "wof:lastmodified":1449007243,
+    "wof:lastmodified":1466488116,
     "wof:name":"Wild Rose Manor",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "operation"
     ]
 },
-  "bbox": [-116.755854,43.807193,-116.755854,43.807193],
+  "bbox": [
+    -116.755854,
+    43.807193,
+    -116.755854,
+    43.807193
+],
   "geometry": {"coordinates":[-116.755854,43.807193],"type":"Point"}
 }

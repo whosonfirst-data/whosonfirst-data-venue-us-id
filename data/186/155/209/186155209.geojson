@@ -2,13 +2,14 @@
   "id": 186155209,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.771247,47.700826,-116.771247,47.700826",
     "geom:latitude":47.700826,
     "geom:longitude":-116.771247,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1003 E Best Ave",
     "sg:city":"Coeur D Alene",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":186155209,
-    "wof:lastmodified":1449052539,
+    "wof:lastmodified":1466488321,
     "wof:name":"American Labor Force",
     "wof:parent_id":85821457,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "manicuring"
     ]
 },
-  "bbox": [-116.771247,47.700826,-116.771247,47.700826],
+  "bbox": [
+    -116.771247,
+    47.700826,
+    -116.771247,
+    47.700826
+],
   "geometry": {"coordinates":[-116.771247,47.700826],"type":"Point"}
 }

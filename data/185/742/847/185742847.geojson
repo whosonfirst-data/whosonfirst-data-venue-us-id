@@ -2,13 +2,14 @@
   "id": 185742847,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.042193,43.46934,-112.042193,43.46934",
     "geom:latitude":43.46934,
     "geom:longitude":-112.042193,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"484 Gustafson Dr",
     "sg:city":"Idaho Falls",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":185742847,
-    "wof:lastmodified":1449006708,
+    "wof:lastmodified":1466487866,
     "wof:name":"Gustafson House",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "residential"
     ]
 },
-  "bbox": [-112.042193,43.46934,-112.042193,43.46934],
+  "bbox": [
+    -112.042193,
+    43.46934,
+    -112.042193,
+    43.46934
+],
   "geometry": {"coordinates":[-112.042193,43.46934],"type":"Point"}
 }

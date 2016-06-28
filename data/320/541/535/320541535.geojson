@@ -2,13 +2,14 @@
   "id": 320541535,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.204839,43.619721,-116.204839,43.619721",
     "geom:latitude":43.619721,
     "geom:longitude":-116.204839,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1111 W Jefferson St #530",
     "sg:city":"Boise",
     "sg:classifiers":[
@@ -60,10 +61,11 @@
         }
     ],
     "wof:id":320541535,
-    "wof:lastmodified":1449011654,
+    "wof:lastmodified":1466486919,
     "wof:name":"Eberle Berlin Kading Turnbow & McKlveen, Chartered",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -79,6 +81,11 @@
         "law"
     ]
 },
-  "bbox": [-116.204839,43.619721,-116.204839,43.619721],
-  "geometry": {"coordinates":[-116.204839,43.619721],"type":"Point"}
+  "bbox": [
+    -116.204839,
+    43.619721,
+    -116.204839,
+    43.619721
+],
+  "geometry": {"coordinates":[-116.20483900000001,43.619721],"type":"Point"}
 }

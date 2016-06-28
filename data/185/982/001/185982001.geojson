@@ -2,13 +2,14 @@
   "id": 185982001,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.226606,43.62273,-116.226606,43.62273",
     "geom:latitude":43.62273,
     "geom:longitude":-116.226606,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2801 W Idaho St",
     "sg:city":"Boise",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":185982001,
-    "wof:lastmodified":1449006886,
+    "wof:lastmodified":1466488654,
     "wof:name":"Transmission Parts Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "parts"
     ]
 },
-  "bbox": [-116.226606,43.62273,-116.226606,43.62273],
+  "bbox": [
+    -116.226606,
+    43.62273,
+    -116.226606,
+    43.62273
+],
   "geometry": {"coordinates":[-116.226606,43.62273],"type":"Point"}
 }

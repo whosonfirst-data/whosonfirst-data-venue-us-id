@@ -2,13 +2,14 @@
   "id": 186329389,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.593225,43.597664,-116.593225,43.597664",
     "geom:latitude":43.597664,
     "geom:longitude":-116.593225,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1419 N Midland Blvd",
     "sg:city":"Nampa",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186329389,
-    "wof:lastmodified":1449051133,
+    "wof:lastmodified":1466488719,
     "wof:name":"Millennium Mortgage & Ins",
     "wof:parent_id":85827787,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "real estate"
     ]
 },
-  "bbox": [-116.593225,43.597664,-116.593225,43.597664],
+  "bbox": [
+    -116.593225,
+    43.597664,
+    -116.593225,
+    43.597664
+],
   "geometry": {"coordinates":[-116.593225,43.597664],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169618173,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.066986,43.496687,-112.066986,43.496687",
     "geom:latitude":43.496687,
     "geom:longitude":-112.066986,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1717 W Broadway St",
     "sg:city":"Idaho Falls",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":169618173,
-    "wof:lastmodified":1449034736,
+    "wof:lastmodified":1466487086,
     "wof:name":"Idaho Liquor Stores",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.066986,43.496687,-112.066986,43.496687],
+  "bbox": [
+    -112.066986,
+    43.496687,
+    -112.066986,
+    43.496687
+],
   "geometry": {"coordinates":[-112.066986,43.496687],"type":"Point"}
 }

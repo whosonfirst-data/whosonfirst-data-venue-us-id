@@ -2,13 +2,14 @@
   "id": 169637491,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.786579,47.758376,-116.786579,47.758376",
     "geom:latitude":47.758376,
     "geom:longitude":-116.786579,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9424 N Government Way",
     "sg:city":"Hayden",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":169637491,
-    "wof:lastmodified":1449032688,
+    "wof:lastmodified":1466487398,
     "wof:name":"Make Wine Make Beer",
     "wof:parent_id":85821457,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "supply"
     ]
 },
-  "bbox": [-116.786579,47.758376,-116.786579,47.758376],
+  "bbox": [
+    -116.786579,
+    47.758376,
+    -116.786579,
+    47.758376
+],
   "geometry": {"coordinates":[-116.786579,47.758376],"type":"Point"}
 }

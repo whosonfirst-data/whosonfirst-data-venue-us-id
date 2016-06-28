@@ -2,13 +2,14 @@
   "id": 185793503,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-117.009836,44.281755,-117.009836,44.281755",
     "geom:latitude":44.281755,
     "geom:longitude":-117.009836,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1117 Olds Ferry Rd",
     "sg:city":"Weiser",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":185793503,
-    "wof:lastmodified":1449007500,
+    "wof:lastmodified":1466488259,
     "wof:name":"RES Trucking LLC",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "trucking"
     ]
 },
-  "bbox": [-117.009836,44.281755,-117.009836,44.281755],
-  "geometry": {"coordinates":[-117.009836,44.281755],"type":"Point"}
+  "bbox": [
+    -117.009836,
+    44.281755,
+    -117.009836,
+    44.281755
+],
+  "geometry": {"coordinates":[-117.00983600000001,44.281755],"type":"Point"}
 }

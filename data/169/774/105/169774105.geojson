@@ -2,13 +2,14 @@
   "id": 169774105,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.367898,43.651052,-116.367898,43.651052",
     "geom:latitude":43.651052,
     "geom:longitude":-116.367898,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"14442 W Meadow Creek Dr",
     "sg:city":"Boise",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":169774105,
-    "wof:lastmodified":1449033962,
+    "wof:lastmodified":1466488450,
     "wof:name":"Mortage Service Bureau",
     "wof:parent_id":85876351,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "closed"
     ]
 },
-  "bbox": [-116.367898,43.651052,-116.367898,43.651052],
+  "bbox": [
+    -116.367898,
+    43.651052,
+    -116.367898,
+    43.651052
+],
   "geometry": {"coordinates":[-116.367898,43.651052],"type":"Point"}
 }

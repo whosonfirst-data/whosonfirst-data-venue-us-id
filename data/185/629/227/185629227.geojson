@@ -2,13 +2,14 @@
   "id": 185629227,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.886682,47.68447,-116.886682,47.68447",
     "geom:latitude":47.68447,
     "geom:longitude":-116.886682,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1449 S Agate Rd",
     "sg:city":"Coeur D Alene",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":185629227,
-    "wof:lastmodified":1449007853,
+    "wof:lastmodified":1466486984,
     "wof:name":"Magitech",
     "wof:parent_id":85821457,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "related"
     ]
 },
-  "bbox": [-116.886682,47.68447,-116.886682,47.68447],
-  "geometry": {"coordinates":[-116.886682,47.68447],"type":"Point"}
+  "bbox": [
+    -116.886682,
+    47.68447,
+    -116.886682,
+    47.68447
+],
+  "geometry": {"coordinates":[-116.88668199999999,47.68447],"type":"Point"}
 }

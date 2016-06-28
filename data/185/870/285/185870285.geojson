@@ -2,13 +2,14 @@
   "id": 185870285,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.786364,47.77246,-116.786364,47.77246",
     "geom:latitude":47.77246,
     "geom:longitude":-116.786364,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10812 N Government Way",
     "sg:city":"Hayden Lake",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":185870285,
-    "wof:lastmodified":1449007027,
+    "wof:lastmodified":1466488510,
     "wof:name":"Artistic Oral Ceramics Inc",
     "wof:parent_id":85821457,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "laboratory"
     ]
 },
-  "bbox": [-116.786364,47.77246,-116.786364,47.77246],
-  "geometry": {"coordinates":[-116.786364,47.77246],"type":"Point"}
+  "bbox": [
+    -116.786364,
+    47.77246,
+    -116.786364,
+    47.77246
+],
+  "geometry": {"coordinates":[-116.78636400000001,47.77246],"type":"Point"}
 }

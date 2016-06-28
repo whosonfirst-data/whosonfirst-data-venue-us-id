@@ -2,13 +2,14 @@
   "id": 186446359,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.687748,43.126694,-115.687748,43.126694",
     "geom:latitude":43.126694,
     "geom:longitude":-115.687748,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"790 Air Base Rd",
     "sg:city":"Mountain Home",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":186446359,
-    "wof:lastmodified":1449052789,
+    "wof:lastmodified":1466488817,
     "wof:name":"B Secure Self Storage",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "mover"
     ]
 },
-  "bbox": [-115.687748,43.126694,-115.687748,43.126694],
+  "bbox": [
+    -115.687748,
+    43.126694,
+    -115.687748,
+    43.126694
+],
   "geometry": {"coordinates":[-115.687748,43.126694],"type":"Point"}
 }

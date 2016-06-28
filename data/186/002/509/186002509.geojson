@@ -2,13 +2,14 @@
   "id": 186002509,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.432096,43.619238,-116.432096,43.619238",
     "geom:latitude":43.619238,
     "geom:longitude":-116.432096,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3127 W Cherry Ln",
     "sg:city":"Meridian",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":186002509,
-    "wof:lastmodified":1449052523,
+    "wof:lastmodified":1466487804,
     "wof:name":"Idaho Central Credit Union",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-116.432096,43.619238,-116.432096,43.619238],
+  "bbox": [
+    -116.432096,
+    43.619238,
+    -116.432096,
+    43.619238
+],
   "geometry": {"coordinates":[-116.432096,43.619238],"type":"Point"}
 }

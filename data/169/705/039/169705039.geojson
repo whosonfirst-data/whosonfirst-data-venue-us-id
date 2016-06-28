@@ -2,13 +2,14 @@
   "id": 169705039,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.313413,43.62083,-116.313413,43.62083",
     "geom:latitude":43.62083,
     "geom:longitude":-116.313413,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10552 Garverdale Ct",
     "sg:city":"Boise",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":169705039,
-    "wof:lastmodified":1449035992,
+    "wof:lastmodified":1466488082,
     "wof:name":"Randy Hemmer Construction LLC",
     "wof:parent_id":85811491,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "general"
     ]
 },
-  "bbox": [-116.313413,43.62083,-116.313413,43.62083],
+  "bbox": [
+    -116.313413,
+    43.62083,
+    -116.313413,
+    43.62083
+],
   "geometry": {"coordinates":[-116.313413,43.62083],"type":"Point"}
 }

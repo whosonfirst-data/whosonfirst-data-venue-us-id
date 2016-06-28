@@ -2,13 +2,14 @@
   "id": 169638227,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.261049,43.662645,-116.261049,43.662645",
     "geom:latitude":43.662645,
     "geom:longitude":-116.261049,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5656 Peachtree St",
     "sg:city":"Boise",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":169638227,
-    "wof:lastmodified":1449032864,
+    "wof:lastmodified":1466487410,
     "wof:name":"Rohm and Haas Company",
     "wof:parent_id":85811879,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -68,6 +70,11 @@
         "plastic"
     ]
 },
-  "bbox": [-116.261049,43.662645,-116.261049,43.662645],
+  "bbox": [
+    -116.261049,
+    43.662645,
+    -116.261049,
+    43.662645
+],
   "geometry": {"coordinates":[-116.261049,43.662645],"type":"Point"}
 }

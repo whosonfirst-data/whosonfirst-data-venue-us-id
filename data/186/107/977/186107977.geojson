@@ -2,13 +2,14 @@
   "id": 186107977,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.883564,47.704306,-116.883564,47.704306",
     "geom:latitude":47.704306,
     "geom:longitude":-116.883564,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"55 S Cedar St",
     "sg:city":"Post Falls",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":186107977,
-    "wof:lastmodified":1449050267,
+    "wof:lastmodified":1466487944,
     "wof:name":"GMACS",
     "wof:parent_id":85821457,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "dealer"
     ]
 },
-  "bbox": [-116.883564,47.704306,-116.883564,47.704306],
-  "geometry": {"coordinates":[-116.883564,47.704306],"type":"Point"}
+  "bbox": [
+    -116.883564,
+    47.704306,
+    -116.883564,
+    47.704306
+],
+  "geometry": {"coordinates":[-116.88356400000001,47.704306],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169744837,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.198556,43.563273,-116.198556,43.563273",
     "geom:latitude":43.563273,
     "geom:longitude":-116.198556,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4300 Enterprise St",
     "sg:city":"Boise",
     "sg:classifiers":[
@@ -52,16 +53,22 @@
         }
     ],
     "wof:id":169744837,
-    "wof:lastmodified":1449033876,
+    "wof:lastmodified":1466488396,
     "wof:name":"Boise Cascade Corp",
     "wof:parent_id":85876329,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "building"
     ]
 },
-  "bbox": [-116.198556,43.563273,-116.198556,43.563273],
+  "bbox": [
+    -116.198556,
+    43.563273,
+    -116.198556,
+    43.563273
+],
   "geometry": {"coordinates":[-116.198556,43.563273],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186072041,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.910064,44.130615,-116.910064,44.130615",
     "geom:latitude":44.130615,
     "geom:longitude":-116.910064,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"11575 N River Rd",
     "sg:city":"Payette",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":186072041,
-    "wof:lastmodified":1449051791,
+    "wof:lastmodified":1466487563,
     "wof:name":"Lazy River Mobile Home & Park",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "vehicle"
     ]
 },
-  "bbox": [-116.910064,44.130615,-116.910064,44.130615],
-  "geometry": {"coordinates":[-116.910064,44.130615],"type":"Point"}
+  "bbox": [
+    -116.910064,
+    44.130615,
+    -116.910064,
+    44.130615
+],
+  "geometry": {"coordinates":[-116.91006400000001,44.130615],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 185852471,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.394463,43.584308,-116.394463,43.584308",
     "geom:latitude":43.584308,
     "geom:longitude":-116.394463,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2302 S Gull Cove Pl",
     "sg:city":"Meridian",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":185852471,
-    "wof:lastmodified":1449007961,
+    "wof:lastmodified":1466488376,
     "wof:name":"Centerline Construction",
     "wof:parent_id":85805083,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "house"
     ]
 },
-  "bbox": [-116.394463,43.584308,-116.394463,43.584308],
+  "bbox": [
+    -116.394463,
+    43.584308,
+    -116.394463,
+    43.584308
+],
   "geometry": {"coordinates":[-116.394463,43.584308],"type":"Point"}
 }

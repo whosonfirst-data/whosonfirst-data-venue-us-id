@@ -2,13 +2,14 @@
   "id": 186383429,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.256964,43.637471,-116.256964,43.637471",
     "geom:latitude":43.637471,
     "geom:longitude":-116.256964,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"200 E 46th Pl",
     "sg:city":"Boise",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":186383429,
-    "wof:lastmodified":1449051514,
+    "wof:lastmodified":1466488772,
     "wof:name":"Huckstep Movers",
     "wof:parent_id":85876339,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "mover"
     ]
 },
-  "bbox": [-116.256964,43.637471,-116.256964,43.637471],
+  "bbox": [
+    -116.256964,
+    43.637471,
+    -116.256964,
+    43.637471
+],
   "geometry": {"coordinates":[-116.256964,43.637471],"type":"Point"}
 }

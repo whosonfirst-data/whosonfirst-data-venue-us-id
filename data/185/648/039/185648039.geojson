@@ -2,13 +2,14 @@
   "id": 185648039,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.271344,43.612137,-116.271344,43.612137",
     "geom:latitude":43.612137,
     "geom:longitude":-116.271344,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7153 Emerald St",
     "sg:city":"Boise",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":185648039,
-    "wof:lastmodified":1449007051,
+    "wof:lastmodified":1466487125,
     "wof:name":"Knowles Chiropractic Clinic",
     "wof:parent_id":85841319,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-116.271344,43.612137,-116.271344,43.612137],
+  "bbox": [
+    -116.271344,
+    43.612137,
+    -116.271344,
+    43.612137
+],
   "geometry": {"coordinates":[-116.271344,43.612137],"type":"Point"}
 }

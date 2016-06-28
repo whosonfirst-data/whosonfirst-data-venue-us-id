@@ -2,13 +2,14 @@
   "id": 185742851,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.35381,43.703811,-116.35381,43.703811",
     "geom:latitude":43.703811,
     "geom:longitude":-116.35381,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"966 N Eagle Rd",
     "sg:city":"Eagle",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":185742851,
-    "wof:lastmodified":1449006709,
+    "wof:lastmodified":1466487866,
     "wof:name":"Eagle Fire Dept",
     "wof:parent_id":85876351,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "department"
     ]
 },
-  "bbox": [-116.35381,43.703811,-116.35381,43.703811],
+  "bbox": [
+    -116.35381,
+    43.703811,
+    -116.35381,
+    43.703811
+],
   "geometry": {"coordinates":[-116.35381,43.703811],"type":"Point"}
 }

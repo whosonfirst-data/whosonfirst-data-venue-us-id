@@ -2,13 +2,14 @@
   "id": 186559955,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.567785,47.315272,-116.567785,47.315272",
     "geom:latitude":47.315272,
     "geom:longitude":-116.567785,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"701 W College Ave",
     "sg:city":"St Maries",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":186559955,
-    "wof:lastmodified":1449052416,
+    "wof:lastmodified":1466488937,
     "wof:name":"Benewah Extension Agent",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-116.567785,47.315272,-116.567785,47.315272],
+  "bbox": [
+    -116.567785,
+    47.315272,
+    -116.567785,
+    47.315272
+],
   "geometry": {"coordinates":[-116.567785,47.315272],"type":"Point"}
 }

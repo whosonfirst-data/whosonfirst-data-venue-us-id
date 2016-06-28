@@ -2,13 +2,14 @@
   "id": 186460725,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.524493,48.31351,-116.524493,48.31351",
     "geom:latitude":48.31351,
     "geom:longitude":-116.524493,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"140 McGhee Rd",
     "sg:city":"Sandpoint",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":186460725,
-    "wof:lastmodified":1449052881,
+    "wof:lastmodified":1466488748,
     "wof:name":"Bonneville Power Adm",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -66,6 +68,11 @@
         "general"
     ]
 },
-  "bbox": [-116.524493,48.31351,-116.524493,48.31351],
-  "geometry": {"coordinates":[-116.524493,48.31351],"type":"Point"}
+  "bbox": [
+    -116.524493,
+    48.31351,
+    -116.524493,
+    48.31351
+],
+  "geometry": {"coordinates":[-116.52449300000001,48.31351],"type":"Point"}
 }

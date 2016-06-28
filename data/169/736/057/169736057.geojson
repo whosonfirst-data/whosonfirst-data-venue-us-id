@@ -2,13 +2,14 @@
   "id": 169736057,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.262982,43.709272,-116.262982,43.709272",
     "geom:latitude":43.709272,
     "geom:longitude":-116.262982,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10300 Seamans Gulch Rd",
     "sg:city":"Boise",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":169736057,
-    "wof:lastmodified":1449035930,
+    "wof:lastmodified":1466488309,
     "wof:name":"Hidden Hollow Landfill",
     "wof:parent_id":85876315,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-116.262982,43.709272,-116.262982,43.709272],
-  "geometry": {"coordinates":[-116.262982,43.709272],"type":"Point"}
+  "bbox": [
+    -116.262982,
+    43.709272,
+    -116.262982,
+    43.709272
+],
+  "geometry": {"coordinates":[-116.26298199999999,43.709272],"type":"Point"}
 }

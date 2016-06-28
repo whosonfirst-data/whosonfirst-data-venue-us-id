@@ -2,13 +2,14 @@
   "id": 186281147,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.280309,43.576427,-116.280309,43.576427",
     "geom:latitude":43.576427,
     "geom:longitude":-116.280309,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7908 W Woodlark St",
     "sg:city":"Boise",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":186281147,
-    "wof:lastmodified":1449052601,
+    "wof:lastmodified":1466488646,
     "wof:name":"Bolen's Control House",
     "wof:parent_id":85876321,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "supply"
     ]
 },
-  "bbox": [-116.280309,43.576427,-116.280309,43.576427],
+  "bbox": [
+    -116.280309,
+    43.576427,
+    -116.280309,
+    43.576427
+],
   "geometry": {"coordinates":[-116.280309,43.576427],"type":"Point"}
 }

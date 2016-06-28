@@ -2,13 +2,14 @@
   "id": 185974481,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.983309,44.253002,-116.983309,44.253002",
     "geom:latitude":44.253002,
     "geom:longitude":-116.983309,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1230 W 9th St",
     "sg:city":"Weiser",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":185974481,
-    "wof:lastmodified":1449008013,
+    "wof:lastmodified":1466488634,
     "wof:name":"Kim Markel Contractor",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "contractor"
     ]
 },
-  "bbox": [-116.983309,44.253002,-116.983309,44.253002],
-  "geometry": {"coordinates":[-116.983309,44.253002],"type":"Point"}
+  "bbox": [
+    -116.983309,
+    44.253002,
+    -116.983309,
+    44.253002
+],
+  "geometry": {"coordinates":[-116.98330900000001,44.253002],"type":"Point"}
 }

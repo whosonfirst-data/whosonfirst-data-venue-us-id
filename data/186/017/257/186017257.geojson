@@ -2,13 +2,14 @@
   "id": 186017257,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.348211,43.187121,-112.348211,43.187121",
     "geom:latitude":43.187121,
     "geom:longitude":-112.348211,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"310 S Broadway St",
     "sg:city":"Blackfoot",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":186017257,
-    "wof:lastmodified":1449051796,
+    "wof:lastmodified":1466486936,
     "wof:name":"Flooring Specialties",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "rug"
     ]
 },
-  "bbox": [-112.348211,43.187121,-112.348211,43.187121],
-  "geometry": {"coordinates":[-112.348211,43.187121],"type":"Point"}
+  "bbox": [
+    -112.348211,
+    43.187121,
+    -112.348211,
+    43.187121
+],
+  "geometry": {"coordinates":[-112.34821100000001,43.187121],"type":"Point"}
 }

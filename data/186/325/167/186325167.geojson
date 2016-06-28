@@ -2,13 +2,14 @@
   "id": 186325167,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.509675,48.265831,-116.509675,48.265831",
     "geom:latitude":48.265831,
     "geom:longitude":-116.509675,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3667 Bottle Bay Rd",
     "sg:city":"Sagle",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":186325167,
-    "wof:lastmodified":1449051413,
+    "wof:lastmodified":1466488809,
     "wof:name":"Willam B Snow Third",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-116.509675,48.265831,-116.509675,48.265831],
+  "bbox": [
+    -116.509675,
+    48.265831,
+    -116.509675,
+    48.265831
+],
   "geometry": {"coordinates":[-116.509675,48.265831],"type":"Point"}
 }

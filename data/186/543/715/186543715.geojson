@@ -2,13 +2,14 @@
   "id": 186543715,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.320556,43.577453,-116.320556,43.577453",
     "geom:latitude":43.577453,
     "geom:longitude":-116.320556,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"11132 Tioga St",
     "sg:city":"Boise",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":186543715,
-    "wof:lastmodified":1449050933,
+    "wof:lastmodified":1466488883,
     "wof:name":"A O K Electric",
     "wof:parent_id":85876331,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -66,6 +68,11 @@
         "contractor"
     ]
 },
-  "bbox": [-116.320556,43.577453,-116.320556,43.577453],
+  "bbox": [
+    -116.320556,
+    43.577453,
+    -116.320556,
+    43.577453
+],
   "geometry": {"coordinates":[-116.320556,43.577453],"type":"Point"}
 }

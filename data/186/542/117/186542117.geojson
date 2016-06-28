@@ -2,13 +2,14 @@
   "id": 186542117,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.344107,46.045239,-116.344107,46.045239",
     "geom:latitude":46.045239,
     "geom:longitude":-116.344107,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"208 Main St",
     "sg:city":"Cottonwood",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":186542117,
-    "wof:lastmodified":1449052400,
+    "wof:lastmodified":1466488883,
     "wof:name":"L & L Auto Sales",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "dealer"
     ]
 },
-  "bbox": [-116.344107,46.045239,-116.344107,46.045239],
-  "geometry": {"coordinates":[-116.344107,46.045239],"type":"Point"}
+  "bbox": [
+    -116.344107,
+    46.045239,
+    -116.344107,
+    46.045239
+],
+  "geometry": {"coordinates":[-116.34410699999999,46.045239],"type":"Point"}
 }

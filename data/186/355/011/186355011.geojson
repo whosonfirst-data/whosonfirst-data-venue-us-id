@@ -2,13 +2,14 @@
   "id": 186355011,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.356601,43.607244,-116.356601,43.607244",
     "geom:latitude":43.607244,
     "geom:longitude":-116.356601,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3036 Lanark St",
     "sg:city":"Meridian",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186355011,
-    "wof:lastmodified":1449051139,
+    "wof:lastmodified":1466488750,
     "wof:name":"Wheel City Inc-Id",
     "wof:parent_id":85805083,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "cover"
     ]
 },
-  "bbox": [-116.356601,43.607244,-116.356601,43.607244],
+  "bbox": [
+    -116.356601,
+    43.607244,
+    -116.356601,
+    43.607244
+],
   "geometry": {"coordinates":[-116.356601,43.607244],"type":"Point"}
 }

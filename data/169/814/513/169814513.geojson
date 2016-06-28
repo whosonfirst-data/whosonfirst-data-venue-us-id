@@ -2,13 +2,14 @@
   "id": 169814513,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.11364,45.926148,-116.11364,45.926148",
     "geom:latitude":45.926148,
     "geom:longitude":-116.11364,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"410 NE 2nd St",
     "sg:city":"Grangeville",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":169814513,
-    "wof:lastmodified":1449033295,
+    "wof:lastmodified":1466488628,
     "wof:name":"Grangeville Health & Rehab Ctr",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "convalescent"
     ]
 },
-  "bbox": [-116.11364,45.926148,-116.11364,45.926148],
+  "bbox": [
+    -116.11364,
+    45.926148,
+    -116.11364,
+    45.926148
+],
   "geometry": {"coordinates":[-116.11364,45.926148],"type":"Point"}
 }

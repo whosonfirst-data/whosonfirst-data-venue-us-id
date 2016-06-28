@@ -2,13 +2,14 @@
   "id": 186400815,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.203975,43.611378,-116.203975,43.611378",
     "geom:latitude":43.611378,
     "geom:longitude":-116.203975,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"406 S 6th St",
     "sg:city":"Boise",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":186400815,
-    "wof:lastmodified":1449050503,
+    "wof:lastmodified":1466488783,
     "wof:name":"Jordan-Wilcomb Construction",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "contractor"
     ]
 },
-  "bbox": [-116.203975,43.611378,-116.203975,43.611378],
+  "bbox": [
+    -116.203975,
+    43.611378,
+    -116.203975,
+    43.611378
+],
   "geometry": {"coordinates":[-116.203975,43.611378],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169652487,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-117.001678,46.408386,-117.001678,46.408386",
     "geom:latitude":46.408386,
     "geom:longitude":-117.001678,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2117 12th Ave",
     "sg:city":"Lewiston",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":169652487,
-    "wof:lastmodified":1449034807,
+    "wof:lastmodified":1466487626,
     "wof:name":"Fisher Systems",
     "wof:parent_id":85837769,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "system"
     ]
 },
-  "bbox": [-117.001678,46.408386,-117.001678,46.408386],
+  "bbox": [
+    -117.001678,
+    46.408386,
+    -117.001678,
+    46.408386
+],
   "geometry": {"coordinates":[-117.001678,46.408386],"type":"Point"}
 }

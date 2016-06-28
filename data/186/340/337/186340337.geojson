@@ -2,13 +2,14 @@
   "id": 186340337,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.576423,43.554263,-116.576423,43.554263",
     "geom:latitude":43.554263,
     "geom:longitude":-116.576423,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"349 W Iowa Ave",
     "sg:city":"Nampa",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186340337,
-    "wof:lastmodified":1449052394,
+    "wof:lastmodified":1466488825,
     "wof:name":"Children's Dentistry",
     "wof:parent_id":85827787,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "dentist"
     ]
 },
-  "bbox": [-116.576423,43.554263,-116.576423,43.554263],
-  "geometry": {"coordinates":[-116.576423,43.554263],"type":"Point"}
+  "bbox": [
+    -116.576423,
+    43.554263,
+    -116.576423,
+    43.554263
+],
+  "geometry": {"coordinates":[-116.57642300000001,43.554263],"type":"Point"}
 }

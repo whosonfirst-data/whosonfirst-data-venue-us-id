@@ -2,13 +2,14 @@
   "id": 169705079,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.343857,43.18656,-112.343857,43.18656",
     "geom:latitude":43.18656,
     "geom:longitude":-112.343857,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"132 S Shilling Ave",
     "sg:city":"Blackfoot",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":169705079,
-    "wof:lastmodified":1449035992,
+    "wof:lastmodified":1466488083,
     "wof:name":"Hill-Hawker-Sandberg Funeral",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "director"
     ]
 },
-  "bbox": [-112.343857,43.18656,-112.343857,43.18656],
+  "bbox": [
+    -112.343857,
+    43.18656,
+    -112.343857,
+    43.18656
+],
   "geometry": {"coordinates":[-112.343857,43.18656],"type":"Point"}
 }

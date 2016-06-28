@@ -2,13 +2,14 @@
   "id": 186069115,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.265,43.612053,-116.265,43.612053",
     "geom:latitude":43.612053,
     "geom:longitude":-116.265,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6724 Emerald St",
     "sg:city":"Boise",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":186069115,
-    "wof:lastmodified":1449052063,
+    "wof:lastmodified":1466487531,
     "wof:name":"Northwest Technologies Inc",
     "wof:parent_id":85806577,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "removal"
     ]
 },
-  "bbox": [-116.265,43.612053,-116.265,43.612053],
+  "bbox": [
+    -116.265,
+    43.612053,
+    -116.265,
+    43.612053
+],
   "geometry": {"coordinates":[-116.265,43.612053],"type":"Point"}
 }

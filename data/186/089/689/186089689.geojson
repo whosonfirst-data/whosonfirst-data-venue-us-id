@@ -2,13 +2,14 @@
   "id": 186089689,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-113.891194,45.174565,-113.891194,45.174565",
     "geom:latitude":45.174565,
     "geom:longitude":-113.891194,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"800 Main St",
     "sg:city":"Salmon",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":186089689,
-    "wof:lastmodified":1449050950,
+    "wof:lastmodified":1466487754,
     "wof:name":"FURNMED@IDA.NET",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "surgeon"
     ]
 },
-  "bbox": [-113.891194,45.174565,-113.891194,45.174565],
+  "bbox": [
+    -113.891194,
+    45.174565,
+    -113.891194,
+    45.174565
+],
   "geometry": {"coordinates":[-113.891194,45.174565],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186186181,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.546751,43.588829,-116.546751,43.588829",
     "geom:latitude":43.588829,
     "geom:longitude":-116.546751,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"500 Stampede Dr",
     "sg:city":"Nampa",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":186186181,
-    "wof:lastmodified":1449052420,
+    "wof:lastmodified":1466488373,
     "wof:name":"Nampa Snake River Elementary",
     "wof:parent_id":85827787,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-116.546751,43.588829,-116.546751,43.588829],
+  "bbox": [
+    -116.546751,
+    43.588829,
+    -116.546751,
+    43.588829
+],
   "geometry": {"coordinates":[-116.546751,43.588829],"type":"Point"}
 }

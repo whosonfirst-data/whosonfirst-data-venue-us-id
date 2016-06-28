@@ -2,13 +2,14 @@
   "id": 186310389,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.028565,43.472713,-112.028565,43.472713",
     "geom:latitude":43.472713,
     "geom:longitude":-112.028565,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2705 Homestead Ln",
     "sg:city":"Idaho Falls",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":186310389,
-    "wof:lastmodified":1449052015,
+    "wof:lastmodified":1466488689,
     "wof:name":"Snake River Chamber Orchestra",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "group"
     ]
 },
-  "bbox": [-112.028565,43.472713,-112.028565,43.472713],
+  "bbox": [
+    -112.028565,
+    43.472713,
+    -112.028565,
+    43.472713
+],
   "geometry": {"coordinates":[-112.028565,43.472713],"type":"Point"}
 }

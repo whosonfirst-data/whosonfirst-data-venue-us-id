@@ -2,13 +2,14 @@
   "id": 320542797,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.274132,43.582088,-116.274132,43.582088",
     "geom:latitude":43.582088,
     "geom:longitude":-116.274132,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2222 S Cole Rd Ste 105",
     "sg:city":"Boise",
     "sg:classifiers":[
@@ -66,10 +67,11 @@
         }
     ],
     "wof:id":320542797,
-    "wof:lastmodified":1449014134,
+    "wof:lastmodified":1466486952,
     "wof:name":"Fast Glass",
     "wof:parent_id":85876321,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -81,6 +83,11 @@
         "frames"
     ]
 },
-  "bbox": [-116.274132,43.582088,-116.274132,43.582088],
-  "geometry": {"coordinates":[-116.274132,43.582088],"type":"Point"}
+  "bbox": [
+    -116.274132,
+    43.582088,
+    -116.274132,
+    43.582088
+],
+  "geometry": {"coordinates":[-116.27413199999999,43.582088],"type":"Point"}
 }

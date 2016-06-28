@@ -2,13 +2,14 @@
   "id": 186543793,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.733045,43.634191,-116.733045,43.634191",
     "geom:latitude":43.634191,
     "geom:longitude":-116.733045,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"18232 Wagner Rd",
     "sg:city":"Caldwell",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":186543793,
-    "wof:lastmodified":1449050931,
+    "wof:lastmodified":1466488883,
     "wof:name":"Gig Computers",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-116.733045,43.634191,-116.733045,43.634191],
+  "bbox": [
+    -116.733045,
+    43.634191,
+    -116.733045,
+    43.634191
+],
   "geometry": {"coordinates":[-116.733045,43.634191],"type":"Point"}
 }

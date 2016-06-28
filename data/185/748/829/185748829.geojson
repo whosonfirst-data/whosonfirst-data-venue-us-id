@@ -2,13 +2,14 @@
   "id": 185748829,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.927048,43.674562,-111.927048,43.674562",
     "geom:latitude":43.674562,
     "geom:longitude":-111.927048,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"265 N 4th W",
     "sg:city":"Rigby",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":185748829,
-    "wof:lastmodified":1449007815,
+    "wof:lastmodified":1466487913,
     "wof:name":"Burl Wood Crafts",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.927048,43.674562,-111.927048,43.674562],
+  "bbox": [
+    -111.927048,
+    43.674562,
+    -111.927048,
+    43.674562
+],
   "geometry": {"coordinates":[-111.927048,43.674562],"type":"Point"}
 }

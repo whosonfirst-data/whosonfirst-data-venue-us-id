@@ -2,13 +2,14 @@
   "id": 169722403,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.673021,43.604935,-116.673021,43.604935",
     "geom:latitude":43.604935,
     "geom:longitude":-116.673021,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"16177 S Indiana Ave",
     "sg:city":"Caldwell",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":169722403,
-    "wof:lastmodified":1449033849,
+    "wof:lastmodified":1466488213,
     "wof:name":"Christensen School Of Dance",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-116.673021,43.604935,-116.673021,43.604935],
-  "geometry": {"coordinates":[-116.673021,43.604935],"type":"Point"}
+  "bbox": [
+    -116.673021,
+    43.604935,
+    -116.673021,
+    43.604935
+],
+  "geometry": {"coordinates":[-116.67302100000001,43.604935],"type":"Point"}
 }

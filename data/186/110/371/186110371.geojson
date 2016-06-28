@@ -2,13 +2,14 @@
   "id": 186110371,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.810556,42.696158,-114.810556,42.696158",
     "geom:latitude":42.696158,
     "geom:longitude":-114.810556,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1424 Bob Barton Hwy",
     "sg:city":"Wendell",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":186110371,
-    "wof:lastmodified":1449051276,
+    "wof:lastmodified":1466487968,
     "wof:name":"Blind Canyon Hydro",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "company"
     ]
 },
-  "bbox": [-114.810556,42.696158,-114.810556,42.696158],
-  "geometry": {"coordinates":[-114.810556,42.696158],"type":"Point"}
+  "bbox": [
+    -114.810556,
+    42.696158,
+    -114.810556,
+    42.696158
+],
+  "geometry": {"coordinates":[-114.81055600000001,42.696158],"type":"Point"}
 }

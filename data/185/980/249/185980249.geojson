@@ -2,13 +2,14 @@
   "id": 185980249,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.271818,43.644713,-116.271818,43.644713",
     "geom:latitude":43.644713,
     "geom:longitude":-116.271818,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5425 Chinden Blvd",
     "sg:city":"Boise",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":185980249,
-    "wof:lastmodified":1449006711,
+    "wof:lastmodified":1466488646,
     "wof:name":"Fred Meyer One Stop Shopping",
     "wof:parent_id":85876349,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-116.271818,43.644713,-116.271818,43.644713],
+  "bbox": [
+    -116.271818,
+    43.644713,
+    -116.271818,
+    43.644713
+],
   "geometry": {"coordinates":[-116.271818,43.644713],"type":"Point"}
 }

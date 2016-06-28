@@ -2,13 +2,14 @@
   "id": 185610761,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.875132,47.705253,-116.875132,47.705253",
     "geom:latitude":47.705253,
     "geom:longitude":-116.875132,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5710 E Seltice Way",
     "sg:city":"Post Falls",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":185610761,
-    "wof:lastmodified":1449008167,
+    "wof:lastmodified":1466486844,
     "wof:name":"Century Publishing Co",
     "wof:parent_id":85821457,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "periodical"
     ]
 },
-  "bbox": [-116.875132,47.705253,-116.875132,47.705253],
-  "geometry": {"coordinates":[-116.875132,47.705253],"type":"Point"}
+  "bbox": [
+    -116.875132,
+    47.705253,
+    -116.875132,
+    47.705253
+],
+  "geometry": {"coordinates":[-116.87513199999999,47.705253],"type":"Point"}
 }

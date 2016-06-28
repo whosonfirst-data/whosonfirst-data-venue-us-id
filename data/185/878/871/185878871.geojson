@@ -2,13 +2,14 @@
   "id": 185878871,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-113.885488,45.169969,-113.885488,45.169969",
     "geom:latitude":45.169969,
     "geom:longitude":-113.885488,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"401 S Warpath St",
     "sg:city":"Salmon",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":185878871,
-    "wof:lastmodified":1449007467,
+    "wof:lastmodified":1466488458,
     "wof:name":"Salmon High School",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-113.885488,45.169969,-113.885488,45.169969],
+  "bbox": [
+    -113.885488,
+    45.169969,
+    -113.885488,
+    45.169969
+],
   "geometry": {"coordinates":[-113.885488,45.169969],"type":"Point"}
 }

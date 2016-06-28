@@ -2,13 +2,14 @@
   "id": 186095951,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.789453,47.764356,-116.789453,47.764356",
     "geom:latitude":47.764356,
     "geom:longitude":-116.789453,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10188 N Taryne St",
     "sg:city":"Hayden",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":186095951,
-    "wof:lastmodified":1449051728,
+    "wof:lastmodified":1466487818,
     "wof:name":"Pineview Horticultural Svc",
     "wof:parent_id":85821457,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "seed"
     ]
 },
-  "bbox": [-116.789453,47.764356,-116.789453,47.764356],
-  "geometry": {"coordinates":[-116.789453,47.764356],"type":"Point"}
+  "bbox": [
+    -116.789453,
+    47.764356,
+    -116.789453,
+    47.764356
+],
+  "geometry": {"coordinates":[-116.78945299999999,47.764356],"type":"Point"}
 }

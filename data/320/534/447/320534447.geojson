@@ -2,13 +2,14 @@
   "id": 320534447,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.383189,43.620972,-116.383189,43.620972",
     "geom:latitude":43.620972,
     "geom:longitude":-116.383189,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1830 N Lakes Pl",
     "sg:city":"Meridian",
     "sg:classifiers":[
@@ -71,10 +72,11 @@
         }
     ],
     "wof:id":320534447,
-    "wof:lastmodified":1449012236,
+    "wof:lastmodified":1466488391,
     "wof:name":"Allstate Insurance Company - Nick Veldhouse",
     "wof:parent_id":85876351,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -86,6 +88,11 @@
         "renter"
     ]
 },
-  "bbox": [-116.383189,43.620972,-116.383189,43.620972],
+  "bbox": [
+    -116.383189,
+    43.620972,
+    -116.383189,
+    43.620972
+],
   "geometry": {"coordinates":[-116.383189,43.620972],"type":"Point"}
 }

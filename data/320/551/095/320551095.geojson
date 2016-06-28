@@ -2,13 +2,14 @@
   "id": 320551095,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.89222,47.334126,-116.89222,47.334126",
     "geom:latitude":47.334126,
     "geom:longitude":-116.89222,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"800 D St",
     "sg:city":"Plummer",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":320551095,
-    "wof:lastmodified":1449012014,
+    "wof:lastmodified":1466487052,
     "wof:name":"Plummer Public Library",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-116.89222,47.334126,-116.89222,47.334126],
-  "geometry": {"coordinates":[-116.89222,47.334126],"type":"Point"}
+  "bbox": [
+    -116.89222,
+    47.334126,
+    -116.89222,
+    47.334126
+],
+  "geometry": {"coordinates":[-116.89221999999999,47.334126],"type":"Point"}
 }

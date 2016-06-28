@@ -2,13 +2,14 @@
   "id": 169601911,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.290239,43.60891,-116.290239,43.60891",
     "geom:latitude":43.60891,
     "geom:longitude":-116.290239,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"554 Steelhead Way",
     "sg:city":"Boise",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":169601911,
-    "wof:lastmodified":1449034148,
+    "wof:lastmodified":1466488338,
     "wof:name":"Nexus Solutions Group",
     "wof:parent_id":85841319,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "software"
     ]
 },
-  "bbox": [-116.290239,43.60891,-116.290239,43.60891],
+  "bbox": [
+    -116.290239,
+    43.60891,
+    -116.290239,
+    43.60891
+],
   "geometry": {"coordinates":[-116.290239,43.60891],"type":"Point"}
 }

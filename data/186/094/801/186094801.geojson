@@ -2,13 +2,14 @@
   "id": 186094801,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.195816,43.562923,-116.195816,43.562923",
     "geom:latitude":43.562923,
     "geom:longitude":-116.195816,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1090 Boeing St",
     "sg:city":"Boise",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":186094801,
-    "wof:lastmodified":1449052051,
+    "wof:lastmodified":1466487806,
     "wof:name":"Lake Hazel Property",
     "wof:parent_id":85876329,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-116.195816,43.562923,-116.195816,43.562923],
-  "geometry": {"coordinates":[-116.195816,43.562923],"type":"Point"}
+  "bbox": [
+    -116.195816,
+    43.562923,
+    -116.195816,
+    43.562923
+],
+  "geometry": {"coordinates":[-116.19581599999999,43.562923],"type":"Point"}
 }

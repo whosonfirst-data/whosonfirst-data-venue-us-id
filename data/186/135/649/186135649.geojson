@@ -2,13 +2,14 @@
   "id": 186135649,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.219816,43.64161,-116.219816,43.64161",
     "geom:latitude":43.64161,
     "geom:longitude":-116.219816,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2309 N 25th St",
     "sg:city":"Boise",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":186135649,
-    "wof:lastmodified":1449051406,
+    "wof:lastmodified":1466488183,
     "wof:name":"Spleker Properties",
     "wof:parent_id":85876339,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-116.219816,43.64161,-116.219816,43.64161],
-  "geometry": {"coordinates":[-116.219816,43.64161],"type":"Point"}
+  "bbox": [
+    -116.219816,
+    43.64161,
+    -116.219816,
+    43.64161
+],
+  "geometry": {"coordinates":[-116.21981599999999,43.64161],"type":"Point"}
 }

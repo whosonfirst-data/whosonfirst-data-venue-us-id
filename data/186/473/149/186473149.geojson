@@ -2,13 +2,14 @@
   "id": 186473149,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.671737,43.126591,-115.671737,43.126591",
     "geom:latitude":43.126591,
     "geom:longitude":-115.671737,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2155 Air Base Rd",
     "sg:city":"Mountain Home",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":186473149,
-    "wof:lastmodified":1449050963,
+    "wof:lastmodified":1466488899,
     "wof:name":"Checkpointe",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "check"
     ]
 },
-  "bbox": [-115.671737,43.126591,-115.671737,43.126591],
-  "geometry": {"coordinates":[-115.671737,43.126591],"type":"Point"}
+  "bbox": [
+    -115.671737,
+    43.126591,
+    -115.671737,
+    43.126591
+],
+  "geometry": {"coordinates":[-115.67173699999999,43.126591],"type":"Point"}
 }

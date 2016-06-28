@@ -2,13 +2,14 @@
   "id": 185815587,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.685278,43.666103,-116.685278,43.666103",
     "geom:latitude":43.666103,
     "geom:longitude":-116.685278,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"110 N 9th Ave",
     "sg:city":"Caldwell",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":185815587,
-    "wof:lastmodified":1449007404,
+    "wof:lastmodified":1466488404,
     "wof:name":"Alexanderson Davis Rainey",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "attorney"
     ]
 },
-  "bbox": [-116.685278,43.666103,-116.685278,43.666103],
+  "bbox": [
+    -116.685278,
+    43.666103,
+    -116.685278,
+    43.666103
+],
   "geometry": {"coordinates":[-116.685278,43.666103],"type":"Point"}
 }

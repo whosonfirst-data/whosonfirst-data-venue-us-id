@@ -2,13 +2,14 @@
   "id": 186009277,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.199653,43.615842,-116.199653,43.615842",
     "geom:latitude":43.615842,
     "geom:longitude":-116.199653,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"210 N 6th St",
     "sg:city":"Boise",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186009277,
-    "wof:lastmodified":1449052978,
+    "wof:lastmodified":1466486848,
     "wof:name":"Music Matters",
     "wof:parent_id":85876319,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "dealer"
     ]
 },
-  "bbox": [-116.199653,43.615842,-116.199653,43.615842],
+  "bbox": [
+    -116.199653,
+    43.615842,
+    -116.199653,
+    43.615842
+],
   "geometry": {"coordinates":[-116.199653,43.615842],"type":"Point"}
 }

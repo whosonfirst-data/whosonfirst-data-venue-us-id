@@ -2,13 +2,14 @@
   "id": 185756461,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.361932,43.728182,-116.361932,43.728182",
     "geom:latitude":43.728182,
     "geom:longitude":-116.361932,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"722 Valli-Hi Rd",
     "sg:city":"Eagle",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":185756461,
-    "wof:lastmodified":1449007573,
+    "wof:lastmodified":1466487975,
     "wof:name":"A Treehouse Exotic Plants",
     "wof:parent_id":85876315,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "plant"
     ]
 },
-  "bbox": [-116.361932,43.728182,-116.361932,43.728182],
+  "bbox": [
+    -116.361932,
+    43.728182,
+    -116.361932,
+    43.728182
+],
   "geometry": {"coordinates":[-116.361932,43.728182],"type":"Point"}
 }

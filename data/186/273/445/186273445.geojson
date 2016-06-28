@@ -2,13 +2,14 @@
   "id": 186273445,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.543002,43.495776,-116.543002,43.495776",
     "geom:latitude":43.495776,
     "geom:longitude":-116.543002,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8514 Track Rd",
     "sg:city":"Nampa",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186273445,
-    "wof:lastmodified":1449051758,
+    "wof:lastmodified":1466488638,
     "wof:name":"L J Cabinetry",
     "wof:parent_id":85827787,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-116.543002,43.495776,-116.543002,43.495776],
+  "bbox": [
+    -116.543002,
+    43.495776,
+    -116.543002,
+    43.495776
+],
   "geometry": {"coordinates":[-116.543002,43.495776],"type":"Point"}
 }

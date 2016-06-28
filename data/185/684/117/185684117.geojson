@@ -2,13 +2,14 @@
   "id": 185684117,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-117.001444,46.727348,-117.001444,46.727348",
     "geom:latitude":46.727348,
     "geom:longitude":-117.001444,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"803 S Main St",
     "sg:city":"Moscow",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":185684117,
-    "wof:lastmodified":1449007014,
+    "wof:lastmodified":1466487399,
     "wof:name":"Latah County Grain Growers Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "seed"
     ]
 },
-  "bbox": [-117.001444,46.727348,-117.001444,46.727348],
-  "geometry": {"coordinates":[-117.001444,46.727348],"type":"Point"}
+  "bbox": [
+    -117.001444,
+    46.727348,
+    -117.001444,
+    46.727348
+],
+  "geometry": {"coordinates":[-117.00144400000001,46.727348],"type":"Point"}
 }

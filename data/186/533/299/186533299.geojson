@@ -2,13 +2,14 @@
   "id": 186533299,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.513137,43.482198,-116.513137,43.482198",
     "geom:latitude":43.482198,
     "geom:longitude":-116.513137,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7626 Happy Valley Rd",
     "sg:city":"Kuna",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186533299,
-    "wof:lastmodified":1449050213,
+    "wof:lastmodified":1466488875,
     "wof:name":"Rl Construction",
     "wof:parent_id":85827787,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "house"
     ]
 },
-  "bbox": [-116.513137,43.482198,-116.513137,43.482198],
+  "bbox": [
+    -116.513137,
+    43.482198,
+    -116.513137,
+    43.482198
+],
   "geometry": {"coordinates":[-116.513137,43.482198],"type":"Point"}
 }

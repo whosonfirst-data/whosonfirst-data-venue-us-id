@@ -2,13 +2,14 @@
   "id": 186301697,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-113.917138,45.182148,-113.917138,45.182148",
     "geom:latitude":45.182148,
     "geom:longitude":-113.917138,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1110 Roosevelt Ave",
     "sg:city":"Salmon",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":186301697,
-    "wof:lastmodified":1449051080,
+    "wof:lastmodified":1466488587,
     "wof:name":"Jeff's Auto Repair",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "automobile"
     ]
 },
-  "bbox": [-113.917138,45.182148,-113.917138,45.182148],
-  "geometry": {"coordinates":[-113.917138,45.182148],"type":"Point"}
+  "bbox": [
+    -113.917138,
+    45.182148,
+    -113.917138,
+    45.182148
+],
+  "geometry": {"coordinates":[-113.91713799999999,45.182148],"type":"Point"}
 }

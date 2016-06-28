@@ -2,13 +2,14 @@
   "id": 186060781,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.514747,48.198189,-116.514747,48.198189",
     "geom:latitude":48.198189,
     "geom:longitude":-116.514747,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"104 Fry Creek Rd",
     "sg:city":"Sagle",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":186060781,
-    "wof:lastmodified":1449052776,
+    "wof:lastmodified":1466487435,
     "wof:name":"Wahl Reidar",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "custom"
     ]
 },
-  "bbox": [-116.514747,48.198189,-116.514747,48.198189],
+  "bbox": [
+    -116.514747,
+    48.198189,
+    -116.514747,
+    48.198189
+],
   "geometry": {"coordinates":[-116.514747,48.198189],"type":"Point"}
 }

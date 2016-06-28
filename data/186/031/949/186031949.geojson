@@ -2,13 +2,14 @@
   "id": 186031949,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.241017,43.586105,-116.241017,43.586105",
     "geom:latitude":43.586105,
     "geom:longitude":-116.241017,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4610 Hillcrest Dr",
     "sg:city":"Boise",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":186031949,
-    "wof:lastmodified":1449051377,
+    "wof:lastmodified":1466487104,
     "wof:name":"Hillcrest Country Club",
     "wof:parent_id":85825393,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-116.241017,43.586105,-116.241017,43.586105],
+  "bbox": [
+    -116.241017,
+    43.586105,
+    -116.241017,
+    43.586105
+],
   "geometry": {"coordinates":[-116.241017,43.586105],"type":"Point"}
 }

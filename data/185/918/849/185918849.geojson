@@ -2,13 +2,14 @@
   "id": 185918849,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.368103,43.68106,-114.368103,43.68106",
     "geom:latitude":43.68106,
     "geom:longitude":-114.368103,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"507 1st Ave",
     "sg:city":"Ketchum",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":185918849,
-    "wof:lastmodified":1449007678,
+    "wof:lastmodified":1466488676,
     "wof:name":"Hospice Of The Wood River Vly",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "hospice"
     ]
 },
-  "bbox": [-114.368103,43.68106,-114.368103,43.68106],
+  "bbox": [
+    -114.368103,
+    43.68106,
+    -114.368103,
+    43.68106
+],
   "geometry": {"coordinates":[-114.368103,43.68106],"type":"Point"}
 }

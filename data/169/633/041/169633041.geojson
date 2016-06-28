@@ -2,13 +2,14 @@
   "id": 169633041,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.923613,44.028199,-116.923613,44.028199",
     "geom:latitude":44.028199,
     "geom:longitude":-116.923613,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1815 N Whitley Dr",
     "sg:city":"Fruitland",
     "sg:classifiers":[
@@ -58,10 +59,11 @@
         }
     ],
     "wof:id":169633041,
-    "wof:lastmodified":1449035939,
+    "wof:lastmodified":1466487326,
     "wof:name":"S A Evaluators",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -71,6 +73,11 @@
         "specialty"
     ]
 },
-  "bbox": [-116.923613,44.028199,-116.923613,44.028199],
+  "bbox": [
+    -116.923613,
+    44.028199,
+    -116.923613,
+    44.028199
+],
   "geometry": {"coordinates":[-116.923613,44.028199],"type":"Point"}
 }

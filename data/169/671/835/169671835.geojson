@@ -2,13 +2,14 @@
   "id": 169671835,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.662758,43.654088,-116.662758,43.654088",
     "geom:latitude":43.654088,
     "geom:longitude":-116.662758,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2800 E Chicago St",
     "sg:city":"Caldwell",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":169671835,
-    "wof:lastmodified":1449033451,
+    "wof:lastmodified":1466487903,
     "wof:name":"Lambert Construction",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "contractor"
     ]
 },
-  "bbox": [-116.662758,43.654088,-116.662758,43.654088],
+  "bbox": [
+    -116.662758,
+    43.654088,
+    -116.662758,
+    43.654088
+],
   "geometry": {"coordinates":[-116.662758,43.654088],"type":"Point"}
 }

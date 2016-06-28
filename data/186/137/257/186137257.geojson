@@ -2,13 +2,14 @@
   "id": 186137257,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.678165,43.133852,-115.678165,43.133852",
     "geom:latitude":43.133852,
     "geom:longitude":-115.678165,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1745 American Legion Blvd",
     "sg:city":"Mountain Home",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":186137257,
-    "wof:lastmodified":1449052646,
+    "wof:lastmodified":1466488197,
     "wof:name":"Mountain Home Preschool",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-115.678165,43.133852,-115.678165,43.133852],
-  "geometry": {"coordinates":[-115.678165,43.133852],"type":"Point"}
+  "bbox": [
+    -115.678165,
+    43.133852,
+    -115.678165,
+    43.133852
+],
+  "geometry": {"coordinates":[-115.67816500000001,43.133852],"type":"Point"}
 }

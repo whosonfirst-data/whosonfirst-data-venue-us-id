@@ -2,13 +2,14 @@
   "id": 186028223,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.442961,42.956476,-112.442961,42.956476",
     "geom:latitude":42.956476,
     "geom:longitude":-112.442961,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"13456 N Smith Rd",
     "sg:city":"Pocatello",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":186028223,
-    "wof:lastmodified":1449051831,
+    "wof:lastmodified":1466487059,
     "wof:name":"Old Time Revival Clock Repair",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "parts"
     ]
 },
-  "bbox": [-112.442961,42.956476,-112.442961,42.956476],
+  "bbox": [
+    -112.442961,
+    42.956476,
+    -112.442961,
+    42.956476
+],
   "geometry": {"coordinates":[-112.442961,42.956476],"type":"Point"}
 }

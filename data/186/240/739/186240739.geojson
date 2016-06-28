@@ -2,13 +2,14 @@
   "id": 186240739,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.759276,47.672425,-116.759276,47.672425",
     "geom:latitude":47.672425,
     "geom:longitude":-116.759276,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1910 E Front Ave",
     "sg:city":"Coeur D Alene",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":186240739,
-    "wof:lastmodified":1449050524,
+    "wof:lastmodified":1466488573,
     "wof:name":"Northwood Home Repair & Remode",
     "wof:parent_id":85821457,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "house"
     ]
 },
-  "bbox": [-116.759276,47.672425,-116.759276,47.672425],
+  "bbox": [
+    -116.759276,
+    47.672425,
+    -116.759276,
+    47.672425
+],
   "geometry": {"coordinates":[-116.759276,47.672425],"type":"Point"}
 }

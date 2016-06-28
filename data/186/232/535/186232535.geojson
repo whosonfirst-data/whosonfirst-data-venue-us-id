@@ -2,13 +2,14 @@
   "id": 186232535,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.275302,43.626574,-116.275302,43.626574",
     "geom:latitude":43.626574,
     "geom:longitude":-116.275302,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7503 Northview St",
     "sg:city":"Boise",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186232535,
-    "wof:lastmodified":1449051252,
+    "wof:lastmodified":1466488565,
     "wof:name":"St Mark Catholic Church",
     "wof:parent_id":85841319,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "religious"
     ]
 },
-  "bbox": [-116.275302,43.626574,-116.275302,43.626574],
+  "bbox": [
+    -116.275302,
+    43.626574,
+    -116.275302,
+    43.626574
+],
   "geometry": {"coordinates":[-116.275302,43.626574],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 185678207,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.310947,43.619527,-116.310947,43.619527",
     "geom:latitude":43.619527,
     "geom:longitude":-116.310947,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10250 Fairview Ave",
     "sg:city":"Boise",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":185678207,
-    "wof:lastmodified":1449007401,
+    "wof:lastmodified":1466487352,
     "wof:name":"Idaho Air",
     "wof:parent_id":85811491,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "automobile"
     ]
 },
-  "bbox": [-116.310947,43.619527,-116.310947,43.619527],
+  "bbox": [
+    -116.310947,
+    43.619527,
+    -116.310947,
+    43.619527
+],
   "geometry": {"coordinates":[-116.310947,43.619527],"type":"Point"}
 }

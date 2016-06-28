@@ -2,13 +2,14 @@
   "id": 185750323,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-117.039461,48.182751,-117.039461,48.182751",
     "geom:latitude":48.182751,
     "geom:longitude":-117.039461,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"217 N State Ave",
     "sg:city":"Oldtown",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":185750323,
-    "wof:lastmodified":1449007590,
+    "wof:lastmodified":1466487927,
     "wof:name":"Panhandel Veterinary Hospital",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "veterinarian"
     ]
 },
-  "bbox": [-117.039461,48.182751,-117.039461,48.182751],
+  "bbox": [
+    -117.039461,
+    48.182751,
+    -117.039461,
+    48.182751
+],
   "geometry": {"coordinates":[-117.039461,48.182751],"type":"Point"}
 }

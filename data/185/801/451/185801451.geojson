@@ -2,13 +2,14 @@
   "id": 185801451,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.476351,44.598071,-116.476351,44.598071",
     "geom:latitude":44.598071,
     "geom:longitude":-116.476351,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1067 US Hwy 95",
     "sg:city":"Indian Valley",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":185801451,
-    "wof:lastmodified":1449007952,
+    "wof:lastmodified":1466488314,
     "wof:name":"NCR Properties",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-116.476351,44.598071,-116.476351,44.598071],
-  "geometry": {"coordinates":[-116.476351,44.598071],"type":"Point"}
+  "bbox": [
+    -116.476351,
+    44.598071,
+    -116.476351,
+    44.598071
+],
+  "geometry": {"coordinates":[-116.47635099999999,44.598071],"type":"Point"}
 }

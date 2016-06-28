@@ -2,13 +2,14 @@
   "id": 169756399,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-117.030312,46.42344,-117.030312,46.42344",
     "geom:latitude":46.42344,
     "geom:longitude":-117.030312,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"309 2nd St",
     "sg:city":"Lewiston",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":169756399,
-    "wof:lastmodified":1449034662,
+    "wof:lastmodified":1466488434,
     "wof:name":"Mimsi Wise Msw Acsw",
     "wof:parent_id":85852537,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "mental"
     ]
 },
-  "bbox": [-117.030312,46.42344,-117.030312,46.42344],
+  "bbox": [
+    -117.030312,
+    46.42344,
+    -117.030312,
+    46.42344
+],
   "geometry": {"coordinates":[-117.030312,46.42344],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186171701,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-117.007427,47.705559,-117.007427,47.705559",
     "geom:latitude":47.705559,
     "geom:longitude":-117.007427,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4282 W Riverbend Ave",
     "sg:city":"Post Falls",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":186171701,
-    "wof:lastmodified":1449053042,
+    "wof:lastmodified":1466488512,
     "wof:name":"Samsonite",
     "wof:parent_id":85833263,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-117.007427,47.705559,-117.007427,47.705559],
-  "geometry": {"coordinates":[-117.007427,47.705559],"type":"Point"}
+  "bbox": [
+    -117.007427,
+    47.705559,
+    -117.007427,
+    47.705559
+],
+  "geometry": {"coordinates":[-117.00742700000001,47.705559],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169657217,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.287693,43.594744,-116.287693,43.594744",
     "geom:latitude":43.594744,
     "geom:longitude":-116.287693,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8555 W Hackamore Dr",
     "sg:city":"Boise",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":169657217,
-    "wof:lastmodified":1449033051,
+    "wof:lastmodified":1466487697,
     "wof:name":"Your Problems Solved Inc",
     "wof:parent_id":85876309,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "citizen"
     ]
 },
-  "bbox": [-116.287693,43.594744,-116.287693,43.594744],
+  "bbox": [
+    -116.287693,
+    43.594744,
+    -116.287693,
+    43.594744
+],
   "geometry": {"coordinates":[-116.287693,43.594744],"type":"Point"}
 }

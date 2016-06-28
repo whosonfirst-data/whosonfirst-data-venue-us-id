@@ -2,13 +2,14 @@
   "id": 186477667,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.199841,43.615834,-116.199841,43.615834",
     "geom:latitude":43.615834,
     "geom:longitude":-116.199841,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"223 N 6th St",
     "sg:city":"Boise",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186477667,
-    "wof:lastmodified":1449050875,
+    "wof:lastmodified":1466488902,
     "wof:name":"James M Neil Attorney At Law",
     "wof:parent_id":85876341,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "attorney"
     ]
 },
-  "bbox": [-116.199841,43.615834,-116.199841,43.615834],
-  "geometry": {"coordinates":[-116.199841,43.615834],"type":"Point"}
+  "bbox": [
+    -116.199841,
+    43.615834,
+    -116.199841,
+    43.615834
+],
+  "geometry": {"coordinates":[-116.19984100000001,43.615834],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 320537859,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.934407,44.084065,-116.934407,44.084065",
     "geom:latitude":44.084065,
     "geom:longitude":-116.934407,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"930 N 8th St",
     "sg:city":"Payette",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":320537859,
-    "wof:lastmodified":1449012177,
+    "wof:lastmodified":1466486861,
     "wof:name":"Hair Plus",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-116.934407,44.084065,-116.934407,44.084065],
-  "geometry": {"coordinates":[-116.934407,44.084065],"type":"Point"}
+  "bbox": [
+    -116.934407,
+    44.084065,
+    -116.934407,
+    44.084065
+],
+  "geometry": {"coordinates":[-116.93440699999999,44.084065],"type":"Point"}
 }

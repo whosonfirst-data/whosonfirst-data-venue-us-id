@@ -2,13 +2,14 @@
   "id": 169846367,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.778812,47.722721,-116.778812,47.722721",
     "geom:latitude":47.722721,
     "geom:longitude":-116.778812,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5904 N Colfax St",
     "sg:city":"Dalton Gardens",
     "sg:classifiers":[
@@ -62,10 +63,11 @@
         }
     ],
     "wof:id":169846367,
-    "wof:lastmodified":1449035218,
+    "wof:lastmodified":1466488616,
     "wof:name":"C E Oakland Plumbing & Heating",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -73,6 +75,11 @@
         "contractor"
     ]
 },
-  "bbox": [-116.778812,47.722721,-116.778812,47.722721],
+  "bbox": [
+    -116.778812,
+    47.722721,
+    -116.778812,
+    47.722721
+],
   "geometry": {"coordinates":[-116.778812,47.722721],"type":"Point"}
 }

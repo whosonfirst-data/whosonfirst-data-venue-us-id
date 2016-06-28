@@ -2,13 +2,14 @@
   "id": 169770189,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.946717,47.686299,-116.946717,47.686299",
     "geom:latitude":47.686299,
     "geom:longitude":-116.946717,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"971 S Serene View Dr",
     "sg:city":"Post Falls",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":169770189,
-    "wof:lastmodified":1449036035,
+    "wof:lastmodified":1466488443,
     "wof:name":"Northwest Network Hardware",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-116.946717,47.686299,-116.946717,47.686299],
-  "geometry": {"coordinates":[-116.946717,47.686299],"type":"Point"}
+  "bbox": [
+    -116.946717,
+    47.686299,
+    -116.946717,
+    47.686299
+],
+  "geometry": {"coordinates":[-116.94671700000001,47.686299],"type":"Point"}
 }

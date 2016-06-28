@@ -2,13 +2,14 @@
   "id": 185986051,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.234123,43.637831,-116.234123,43.637831",
     "geom:latitude":43.637831,
     "geom:longitude":-116.234123,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1042 Clover Dr",
     "sg:city":"Boise",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":185986051,
-    "wof:lastmodified":1449007911,
+    "wof:lastmodified":1466488830,
     "wof:name":"Park View Inn",
     "wof:parent_id":85876339,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-116.234123,43.637831,-116.234123,43.637831],
+  "bbox": [
+    -116.234123,
+    43.637831,
+    -116.234123,
+    43.637831
+],
   "geometry": {"coordinates":[-116.234123,43.637831],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169829399,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.257969,43.668669,-116.257969,43.668669",
     "geom:latitude":43.668669,
     "geom:longitude":-116.257969,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5351 N Northwall Ave",
     "sg:city":"Boise",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":169829399,
-    "wof:lastmodified":1449035743,
+    "wof:lastmodified":1466488589,
     "wof:name":"Clean Pro Cleaning",
     "wof:parent_id":85811879,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "carpet"
     ]
 },
-  "bbox": [-116.257969,43.668669,-116.257969,43.668669],
+  "bbox": [
+    -116.257969,
+    43.668669,
+    -116.257969,
+    43.668669
+],
   "geometry": {"coordinates":[-116.257969,43.668669],"type":"Point"}
 }

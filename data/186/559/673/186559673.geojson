@@ -2,13 +2,14 @@
   "id": 186559673,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.575037,43.556062,-116.575037,43.556062",
     "geom:latitude":43.556062,
     "geom:longitude":-116.575037,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"820 W Georgia Ave",
     "sg:city":"Nampa",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186559673,
-    "wof:lastmodified":1449052417,
+    "wof:lastmodified":1466488937,
     "wof:name":"Napoles Brothers Painting",
     "wof:parent_id":85827787,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-116.575037,43.556062,-116.575037,43.556062],
-  "geometry": {"coordinates":[-116.575037,43.556062],"type":"Point"}
+  "bbox": [
+    -116.575037,
+    43.556062,
+    -116.575037,
+    43.556062
+],
+  "geometry": {"coordinates":[-116.57503699999999,43.556062],"type":"Point"}
 }

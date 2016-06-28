@@ -2,13 +2,14 @@
   "id": 169628251,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.973731,43.525889,-111.973731,43.525889",
     "geom:latitude":43.525889,
     "geom:longitude":-111.973731,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3055 E Iona Rd",
     "sg:city":"Idaho Falls",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":169628251,
-    "wof:lastmodified":1449035331,
+    "wof:lastmodified":1466488351,
     "wof:name":"Lds Seminary",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-111.973731,43.525889,-111.973731,43.525889],
+  "bbox": [
+    -111.973731,
+    43.525889,
+    -111.973731,
+    43.525889
+],
   "geometry": {"coordinates":[-111.973731,43.525889],"type":"Point"}
 }

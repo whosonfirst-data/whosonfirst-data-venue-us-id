@@ -2,13 +2,14 @@
   "id": 185718721,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.559869,43.578616,-116.559869,43.578616",
     "geom:latitude":43.578616,
     "geom:longitude":-116.559869,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"122 12th Ave S",
     "sg:city":"Nampa",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":185718721,
-    "wof:lastmodified":1449006966,
+    "wof:lastmodified":1466487672,
     "wof:name":"Ye Olde Deli Shoppe",
     "wof:parent_id":85827787,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "delicatessen"
     ]
 },
-  "bbox": [-116.559869,43.578616,-116.559869,43.578616],
-  "geometry": {"coordinates":[-116.559869,43.578616],"type":"Point"}
+  "bbox": [
+    -116.559869,
+    43.578616,
+    -116.559869,
+    43.578616
+],
+  "geometry": {"coordinates":[-116.55986900000001,43.578616],"type":"Point"}
 }

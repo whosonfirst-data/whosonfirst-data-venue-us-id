@@ -2,13 +2,14 @@
   "id": 186167387,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.769822,47.712562,-116.769822,47.712562",
     "geom:latitude":47.712562,
     "geom:longitude":-116.769822,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1113 E Shorewood Ct",
     "sg:city":"Coeur D Alene",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186167387,
-    "wof:lastmodified":1449051765,
+    "wof:lastmodified":1466488417,
     "wof:name":"Corina's Small Dog Grooming",
     "wof:parent_id":85821457,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "washing"
     ]
 },
-  "bbox": [-116.769822,47.712562,-116.769822,47.712562],
+  "bbox": [
+    -116.769822,
+    47.712562,
+    -116.769822,
+    47.712562
+],
   "geometry": {"coordinates":[-116.769822,47.712562],"type":"Point"}
 }

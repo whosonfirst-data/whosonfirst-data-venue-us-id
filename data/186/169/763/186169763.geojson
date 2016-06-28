@@ -2,13 +2,14 @@
   "id": 186169763,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.38575,42.819363,-112.38575,42.819363",
     "geom:latitude":42.819363,
     "geom:longitude":-112.38575,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3861 N Gateway Dr",
     "sg:city":"Pocatello",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":186169763,
-    "wof:lastmodified":1449052021,
+    "wof:lastmodified":1466488512,
     "wof:name":"Jakes Equipment Company",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "fencing"
     ]
 },
-  "bbox": [-112.38575,42.819363,-112.38575,42.819363],
+  "bbox": [
+    -112.38575,
+    42.819363,
+    -112.38575,
+    42.819363
+],
   "geometry": {"coordinates":[-112.38575,42.819363],"type":"Point"}
 }

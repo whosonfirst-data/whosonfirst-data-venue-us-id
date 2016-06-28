@@ -2,13 +2,14 @@
   "id": 186157555,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.455244,43.868403,-116.455244,43.868403",
     "geom:latitude":43.868403,
     "geom:longitude":-116.455244,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"555 S Plaza Rd",
     "sg:city":"Emmett",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":186157555,
-    "wof:lastmodified":1449052639,
+    "wof:lastmodified":1466488394,
     "wof:name":"Bright Ideas Custom Sewing",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "operates"
     ]
 },
-  "bbox": [-116.455244,43.868403,-116.455244,43.868403],
-  "geometry": {"coordinates":[-116.455244,43.868403],"type":"Point"}
+  "bbox": [
+    -116.455244,
+    43.868403,
+    -116.455244,
+    43.868403
+],
+  "geometry": {"coordinates":[-116.45524399999999,43.868403],"type":"Point"}
 }

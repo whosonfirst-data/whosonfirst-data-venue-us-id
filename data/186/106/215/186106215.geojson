@@ -2,13 +2,14 @@
   "id": 186106215,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.918875,47.944431,-116.918875,47.944431",
     "geom:latitude":47.944431,
     "geom:longitude":-116.918875,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"11670 Spirit Lake Rd",
     "sg:city":"Spirit Lake",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186106215,
-    "wof:lastmodified":1449050211,
+    "wof:lastmodified":1466487925,
     "wof:name":"Mission Spirit",
     "wof:parent_id":85833263,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "fixture"
     ]
 },
-  "bbox": [-116.918875,47.944431,-116.918875,47.944431],
+  "bbox": [
+    -116.918875,
+    47.944431,
+    -116.918875,
+    47.944431
+],
   "geometry": {"coordinates":[-116.918875,47.944431],"type":"Point"}
 }

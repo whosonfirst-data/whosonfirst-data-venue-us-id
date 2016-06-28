@@ -2,13 +2,14 @@
   "id": 185652391,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-117.009666,46.416235,-117.009666,46.416235",
     "geom:latitude":46.416235,
     "geom:longitude":-117.009666,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"106 16th St",
     "sg:city":"Lewiston",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":185652391,
-    "wof:lastmodified":1449007638,
+    "wof:lastmodified":1466487159,
     "wof:name":"John's Saw Svc",
     "wof:parent_id":85837769,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "saw"
     ]
 },
-  "bbox": [-117.009666,46.416235,-117.009666,46.416235],
+  "bbox": [
+    -117.009666,
+    46.416235,
+    -117.009666,
+    46.416235
+],
   "geometry": {"coordinates":[-117.009666,46.416235],"type":"Point"}
 }

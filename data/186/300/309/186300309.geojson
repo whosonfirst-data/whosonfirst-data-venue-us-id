@@ -2,13 +2,14 @@
   "id": 186300309,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.499881,43.860532,-116.499881,43.860532",
     "geom:latitude":43.860532,
     "geom:longitude":-116.499881,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2030 S Washington Ave",
     "sg:city":"Emmett",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":186300309,
-    "wof:lastmodified":1449051893,
+    "wof:lastmodified":1466488573,
     "wof:name":"Commerce & Labor Dept",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "inspection"
     ]
 },
-  "bbox": [-116.499881,43.860532,-116.499881,43.860532],
+  "bbox": [
+    -116.499881,
+    43.860532,
+    -116.499881,
+    43.860532
+],
   "geometry": {"coordinates":[-116.499881,43.860532],"type":"Point"}
 }

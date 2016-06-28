@@ -2,13 +2,14 @@
   "id": 186254815,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.667275,43.648801,-116.667275,43.648801",
     "geom:latitude":43.648801,
     "geom:longitude":-116.667275,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2922 Cleveland Blvd",
     "sg:city":"Caldwell",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186254815,
-    "wof:lastmodified":1449052214,
+    "wof:lastmodified":1466488680,
     "wof:name":"K Akagi",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "dealer"
     ]
 },
-  "bbox": [-116.667275,43.648801,-116.667275,43.648801],
+  "bbox": [
+    -116.667275,
+    43.648801,
+    -116.667275,
+    43.648801
+],
   "geometry": {"coordinates":[-116.667275,43.648801],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169733297,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.962188,46.370608,-116.962188,46.370608",
     "geom:latitude":46.370608,
     "geom:longitude":-116.962188,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"652 Thain Rd",
     "sg:city":"Lewiston",
     "sg:classifiers":[
@@ -62,10 +63,11 @@
         }
     ],
     "wof:id":169733297,
-    "wof:lastmodified":1449033147,
+    "wof:lastmodified":1466488372,
     "wof:name":"Wadholm D J Trucking LLC",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -73,6 +75,11 @@
         "trucking"
     ]
 },
-  "bbox": [-116.962188,46.370608,-116.962188,46.370608],
+  "bbox": [
+    -116.962188,
+    46.370608,
+    -116.962188,
+    46.370608
+],
   "geometry": {"coordinates":[-116.962188,46.370608],"type":"Point"}
 }

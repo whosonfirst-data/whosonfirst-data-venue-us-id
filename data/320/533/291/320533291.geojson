@@ -2,13 +2,14 @@
   "id": 320533291,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.393608,43.600839,-116.393608,43.600839",
     "geom:latitude":43.600839,
     "geom:longitude":-116.393608,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"450 S Meridian Rd",
     "sg:city":"Meridian",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":320533291,
-    "wof:lastmodified":1449011213,
+    "wof:lastmodified":1466488378,
     "wof:name":"Adecco Employment Svc",
     "wof:parent_id":85805083,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -66,6 +68,11 @@
         "contractor"
     ]
 },
-  "bbox": [-116.393608,43.600839,-116.393608,43.600839],
+  "bbox": [
+    -116.393608,
+    43.600839,
+    -116.393608,
+    43.600839
+],
   "geometry": {"coordinates":[-116.393608,43.600839],"type":"Point"}
 }

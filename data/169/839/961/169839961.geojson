@@ -2,13 +2,14 @@
   "id": 169839961,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.532971,43.590118,-116.532971,43.590118",
     "geom:latitude":43.590118,
     "geom:longitude":-116.532971,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"410 N Kings Rd",
     "sg:city":"Nampa",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":169839961,
-    "wof:lastmodified":1449034669,
+    "wof:lastmodified":1466488512,
     "wof:name":"Nail Benders Custom Finish",
     "wof:parent_id":85827787,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "carpenter"
     ]
 },
-  "bbox": [-116.532971,43.590118,-116.532971,43.590118],
+  "bbox": [
+    -116.532971,
+    43.590118,
+    -116.532971,
+    43.590118
+],
   "geometry": {"coordinates":[-116.532971,43.590118],"type":"Point"}
 }

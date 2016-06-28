@@ -2,13 +2,14 @@
   "id": 186383785,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.598309,43.66326,-116.598309,43.66326",
     "geom:latitude":43.66326,
     "geom:longitude":-116.598309,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10296 US Hwy 26",
     "sg:city":"Caldwell",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":186383785,
-    "wof:lastmodified":1449051515,
+    "wof:lastmodified":1466488775,
     "wof:name":"Longview Fibre Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "fiber"
     ]
 },
-  "bbox": [-116.598309,43.66326,-116.598309,43.66326],
+  "bbox": [
+    -116.598309,
+    43.66326,
+    -116.598309,
+    43.66326
+],
   "geometry": {"coordinates":[-116.598309,43.66326],"type":"Point"}
 }

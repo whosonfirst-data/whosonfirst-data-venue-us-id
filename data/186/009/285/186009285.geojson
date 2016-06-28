@@ -2,13 +2,14 @@
   "id": 186009285,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.99081,43.473398,-111.99081,43.473398",
     "geom:latitude":43.473398,
     "geom:longitude":-111.99081,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2520 Channing Way",
     "sg:city":"Idaho Falls",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186009285,
-    "wof:lastmodified":1449052977,
+    "wof:lastmodified":1466486849,
     "wof:name":"Westmark Credit Union",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "real estate"
     ]
 },
-  "bbox": [-111.99081,43.473398,-111.99081,43.473398],
+  "bbox": [
+    -111.99081,
+    43.473398,
+    -111.99081,
+    43.473398
+],
   "geometry": {"coordinates":[-111.99081,43.473398],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186298287,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.274048,43.583904,-116.274048,43.583904",
     "geom:latitude":43.583904,
     "geom:longitude":-116.274048,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2100 S Cole Rd",
     "sg:city":"Boise",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186298287,
-    "wof:lastmodified":1449051110,
+    "wof:lastmodified":1466488729,
     "wof:name":"Varsity Contractors",
     "wof:parent_id":85876321,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "janitor"
     ]
 },
-  "bbox": [-116.274048,43.583904,-116.274048,43.583904],
-  "geometry": {"coordinates":[-116.274048,43.583904],"type":"Point"}
+  "bbox": [
+    -116.274048,
+    43.583904,
+    -116.274048,
+    43.583904
+],
+  "geometry": {"coordinates":[-116.27404799999999,43.583904],"type":"Point"}
 }

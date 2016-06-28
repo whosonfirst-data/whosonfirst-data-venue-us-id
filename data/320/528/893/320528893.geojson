@@ -2,13 +2,14 @@
   "id": 320528893,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.771286,43.662207,-116.771286,43.662207",
     "geom:latitude":43.662207,
     "geom:longitude":-116.771286,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"18954 Lower Pleasant Ridge Rd",
     "sg:city":"Caldwell",
     "sg:classifiers":[
@@ -60,10 +61,11 @@
         }
     ],
     "wof:id":320528893,
-    "wof:lastmodified":1449012259,
+    "wof:lastmodified":1466487833,
     "wof:name":"Hacker & Son's Construction Inc.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -78,6 +80,11 @@
         "air conditioning"
     ]
 },
-  "bbox": [-116.771286,43.662207,-116.771286,43.662207],
+  "bbox": [
+    -116.771286,
+    43.662207,
+    -116.771286,
+    43.662207
+],
   "geometry": {"coordinates":[-116.771286,43.662207],"type":"Point"}
 }

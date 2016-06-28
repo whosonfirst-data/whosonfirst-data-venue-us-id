@@ -2,13 +2,14 @@
   "id": 320526155,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-117.031013,46.421349,-117.031013,46.421349",
     "geom:latitude":46.421349,
     "geom:longitude":-117.031013,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"111 Main St Suite 302",
     "sg:city":"Lewiston",
     "sg:classifiers":[
@@ -55,10 +56,11 @@
         }
     ],
     "wof:id":320526155,
-    "wof:lastmodified":1449012416,
+    "wof:lastmodified":1466487378,
     "wof:name":"Kenneth L Anderson",
     "wof:parent_id":85852537,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -69,6 +71,11 @@
         "bankruptcy"
     ]
 },
-  "bbox": [-117.031013,46.421349,-117.031013,46.421349],
+  "bbox": [
+    -117.031013,
+    46.421349,
+    -117.031013,
+    46.421349
+],
   "geometry": {"coordinates":[-117.031013,46.421349],"type":"Point"}
 }

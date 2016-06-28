@@ -2,13 +2,14 @@
   "id": 185772263,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.567119,43.582341,-116.567119,43.582341",
     "geom:latitude":43.582341,
     "geom:longitude":-116.567119,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"207 6th Ave S",
     "sg:city":"Nampa",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":185772263,
-    "wof:lastmodified":1449007340,
+    "wof:lastmodified":1466488100,
     "wof:name":"Chuck & Del's Heating & AC",
     "wof:parent_id":85827787,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-116.567119,43.582341,-116.567119,43.582341],
-  "geometry": {"coordinates":[-116.567119,43.582341],"type":"Point"}
+  "bbox": [
+    -116.567119,
+    43.582341,
+    -116.567119,
+    43.582341
+],
+  "geometry": {"coordinates":[-116.56711900000001,43.582341],"type":"Point"}
 }

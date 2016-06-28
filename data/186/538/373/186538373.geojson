@@ -2,13 +2,14 @@
   "id": 186538373,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.528645,43.375591,-116.528645,43.375591",
     "geom:latitude":43.375591,
     "geom:longitude":-116.528645,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"306 Randolph St",
     "sg:city":"Melba",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186538373,
-    "wof:lastmodified":1449050633,
+    "wof:lastmodified":1466488878,
     "wof:name":"Melba First Ward",
     "wof:parent_id":85827787,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "church"
     ]
 },
-  "bbox": [-116.528645,43.375591,-116.528645,43.375591],
+  "bbox": [
+    -116.528645,
+    43.375591,
+    -116.528645,
+    43.375591
+],
   "geometry": {"coordinates":[-116.528645,43.375591],"type":"Point"}
 }

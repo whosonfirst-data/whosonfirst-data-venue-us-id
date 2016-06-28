@@ -2,13 +2,14 @@
   "id": 186154451,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.793721,43.3464,-114.793721,43.3464",
     "geom:latitude":43.3464,
     "geom:longitude":-114.793721,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"519 1st St W",
     "sg:city":"Fairfield",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":186154451,
-    "wof:lastmodified":1449053060,
+    "wof:lastmodified":1466488483,
     "wof:name":"Camas County Public Library",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-114.793721,43.3464,-114.793721,43.3464],
-  "geometry": {"coordinates":[-114.793721,43.3464],"type":"Point"}
+  "bbox": [
+    -114.793721,
+    43.3464,
+    -114.793721,
+    43.3464
+],
+  "geometry": {"coordinates":[-114.79372100000001,43.3464],"type":"Point"}
 }

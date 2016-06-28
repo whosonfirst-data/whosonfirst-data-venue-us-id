@@ -2,13 +2,14 @@
   "id": 186445853,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.79182,47.691592,-116.79182,47.691592",
     "geom:latitude":47.691592,
     "geom:longitude":-116.79182,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1717 Lincoln Way",
     "sg:city":"Coeur D Alene",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":186445853,
-    "wof:lastmodified":1449050690,
+    "wof:lastmodified":1466488860,
     "wof:name":"Kenneth P Ostaszewski MA",
     "wof:parent_id":85821457,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-116.79182,47.691592,-116.79182,47.691592],
+  "bbox": [
+    -116.79182,
+    47.691592,
+    -116.79182,
+    47.691592
+],
   "geometry": {"coordinates":[-116.79182,47.691592],"type":"Point"}
 }

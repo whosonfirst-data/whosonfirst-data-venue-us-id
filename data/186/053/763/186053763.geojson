@@ -2,13 +2,14 @@
   "id": 186053763,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.673236,42.923255,-114.673236,42.923255",
     "geom:latitude":42.923255,
     "geom:longitude":-114.673236,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1904 S 2100 E",
     "sg:city":"Gooding",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":186053763,
-    "wof:lastmodified":1449050913,
+    "wof:lastmodified":1466487355,
     "wof:name":"Alan Patterson",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "cattle"
     ]
 },
-  "bbox": [-114.673236,42.923255,-114.673236,42.923255],
+  "bbox": [
+    -114.673236,
+    42.923255,
+    -114.673236,
+    42.923255
+],
   "geometry": {"coordinates":[-114.673236,42.923255],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186203771,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.453291,42.862941,-112.453291,42.862941",
     "geom:latitude":42.862941,
     "geom:longitude":-112.453291,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"355 W Lander St",
     "sg:city":"Pocatello",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":186203771,
-    "wof:lastmodified":1449051567,
+    "wof:lastmodified":1466488403,
     "wof:name":"Adult Success Ctr",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "school"
     ]
 },
-  "bbox": [-112.453291,42.862941,-112.453291,42.862941],
-  "geometry": {"coordinates":[-112.453291,42.862941],"type":"Point"}
+  "bbox": [
+    -112.453291,
+    42.862941,
+    -112.453291,
+    42.862941
+],
+  "geometry": {"coordinates":[-112.45329099999999,42.862941],"type":"Point"}
 }

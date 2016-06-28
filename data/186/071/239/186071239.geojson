@@ -2,13 +2,14 @@
   "id": 186071239,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.562988,43.579445,-116.562988,43.579445",
     "geom:latitude":43.579445,
     "geom:longitude":-116.562988,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"211 10th Ave S",
     "sg:city":"Nampa",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":186071239,
-    "wof:lastmodified":1449052057,
+    "wof:lastmodified":1466487554,
     "wof:name":"Ruben's Body Shop",
     "wof:parent_id":85827787,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "painting"
     ]
 },
-  "bbox": [-116.562988,43.579445,-116.562988,43.579445],
+  "bbox": [
+    -116.562988,
+    43.579445,
+    -116.562988,
+    43.579445
+],
   "geometry": {"coordinates":[-116.562988,43.579445],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186298727,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.920775,44.073838,-116.920775,44.073838",
     "geom:latitude":44.073838,
     "geom:longitude":-116.920775,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1827 1st Ave S",
     "sg:city":"Payette",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186298727,
-    "wof:lastmodified":1449051109,
+    "wof:lastmodified":1466488730,
     "wof:name":"Steven Lee Williams",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "trucking"
     ]
 },
-  "bbox": [-116.920775,44.073838,-116.920775,44.073838],
-  "geometry": {"coordinates":[-116.920775,44.073838],"type":"Point"}
+  "bbox": [
+    -116.920775,
+    44.073838,
+    -116.920775,
+    44.073838
+],
+  "geometry": {"coordinates":[-116.92077500000001,44.073838],"type":"Point"}
 }

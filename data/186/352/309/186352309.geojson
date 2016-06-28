@@ -2,13 +2,14 @@
   "id": 186352309,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.027115,44.870663,-116.027115,44.870663",
     "geom:latitude":44.870663,
     "geom:longitude":-116.027115,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"14094 Morel Rd",
     "sg:city":"Mc Call",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":186352309,
-    "wof:lastmodified":1449052009,
+    "wof:lastmodified":1466488747,
     "wof:name":"Phoenix Design Engineering",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "aviation"
     ]
 },
-  "bbox": [-116.027115,44.870663,-116.027115,44.870663],
-  "geometry": {"coordinates":[-116.027115,44.870663],"type":"Point"}
+  "bbox": [
+    -116.027115,
+    44.870663,
+    -116.027115,
+    44.870663
+],
+  "geometry": {"coordinates":[-116.02711499999999,44.870663],"type":"Point"}
 }

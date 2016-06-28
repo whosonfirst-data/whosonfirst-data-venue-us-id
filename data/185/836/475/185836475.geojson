@@ -2,13 +2,14 @@
   "id": 185836475,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.342985,43.697768,-116.342985,43.697768",
     "geom:latitude":43.697768,
     "geom:longitude":-116.342985,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"876 E Monarch St",
     "sg:city":"Eagle",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":185836475,
-    "wof:lastmodified":1449007663,
+    "wof:lastmodified":1466488419,
     "wof:name":"Rockville Construction",
     "wof:parent_id":85876315,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "house"
     ]
 },
-  "bbox": [-116.342985,43.697768,-116.342985,43.697768],
+  "bbox": [
+    -116.342985,
+    43.697768,
+    -116.342985,
+    43.697768
+],
   "geometry": {"coordinates":[-116.342985,43.697768],"type":"Point"}
 }

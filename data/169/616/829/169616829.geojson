@@ -2,13 +2,14 @@
   "id": 169616829,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-117.021612,46.419435,-117.021612,46.419435",
     "geom:latitude":46.419435,
     "geom:longitude":-117.021612,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"119 9th St",
     "sg:city":"Lewiston",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":169616829,
-    "wof:lastmodified":1449035102,
+    "wof:lastmodified":1466487064,
     "wof:name":"Auto Paint & Parts",
     "wof:parent_id":85852537,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "painting"
     ]
 },
-  "bbox": [-117.021612,46.419435,-117.021612,46.419435],
+  "bbox": [
+    -117.021612,
+    46.419435,
+    -117.021612,
+    46.419435
+],
   "geometry": {"coordinates":[-117.021612,46.419435],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 320538463,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.964484,44.245657,-116.964484,44.245657",
     "geom:latitude":44.245657,
     "geom:longitude":-116.964484,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"343 E Main St",
     "sg:city":"Weiser",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":320538463,
-    "wof:lastmodified":1449011720,
+    "wof:lastmodified":1466486867,
     "wof:name":"Total Wellness Chiropract",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "chiropractic"
     ]
 },
-  "bbox": [-116.964484,44.245657,-116.964484,44.245657],
+  "bbox": [
+    -116.964484,
+    44.245657,
+    -116.964484,
+    44.245657
+],
   "geometry": {"coordinates":[-116.964484,44.245657],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 185647097,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-117.003905,46.380584,-117.003905,46.380584",
     "geom:latitude":46.380584,
     "geom:longitude":-117.003905,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"524 Bryden Ave",
     "sg:city":"Lewiston",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":185647097,
-    "wof:lastmodified":1449007382,
+    "wof:lastmodified":1466487118,
     "wof:name":"Loren J Eddy Law Office",
     "wof:parent_id":85837769,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "attorney"
     ]
 },
-  "bbox": [-117.003905,46.380584,-117.003905,46.380584],
+  "bbox": [
+    -117.003905,
+    46.380584,
+    -117.003905,
+    46.380584
+],
   "geometry": {"coordinates":[-117.003905,46.380584],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186098011,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.039816,43.490967,-112.039816,43.490967",
     "geom:latitude":43.490967,
     "geom:longitude":-112.039816,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"265 W Broadway St",
     "sg:city":"Idaho Falls",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":186098011,
-    "wof:lastmodified":1449052740,
+    "wof:lastmodified":1466487840,
     "wof:name":"Noble Finance Corp",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "loan"
     ]
 },
-  "bbox": [-112.039816,43.490967,-112.039816,43.490967],
+  "bbox": [
+    -112.039816,
+    43.490967,
+    -112.039816,
+    43.490967
+],
   "geometry": {"coordinates":[-112.039816,43.490967],"type":"Point"}
 }

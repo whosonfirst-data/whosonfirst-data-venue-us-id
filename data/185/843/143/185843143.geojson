@@ -2,13 +2,14 @@
   "id": 185843143,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.42704,43.629607,-116.42704,43.629607",
     "geom:latitude":43.629607,
     "geom:longitude":-116.42704,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2674 N Old Stone Way",
     "sg:city":"Meridian",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":185843143,
-    "wof:lastmodified":1449006747,
+    "wof:lastmodified":1466488451,
     "wof:name":"M C Squared",
     "wof:parent_id":85876351,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "plastic"
     ]
 },
-  "bbox": [-116.42704,43.629607,-116.42704,43.629607],
-  "geometry": {"coordinates":[-116.42704,43.629607],"type":"Point"}
+  "bbox": [
+    -116.42704,
+    43.629607,
+    -116.42704,
+    43.629607
+],
+  "geometry": {"coordinates":[-116.42704000000001,43.629607],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186528625,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-113.786229,42.517652,-113.786229,42.517652",
     "geom:latitude":42.517652,
     "geom:longitude":-113.786229,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"604 Deon St",
     "sg:city":"Burley",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":186528625,
-    "wof:lastmodified":1449051105,
+    "wof:lastmodified":1466488877,
     "wof:name":"Sky Blue Haven LLC",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "investor"
     ]
 },
-  "bbox": [-113.786229,42.517652,-113.786229,42.517652],
-  "geometry": {"coordinates":[-113.786229,42.517652],"type":"Point"}
+  "bbox": [
+    -113.786229,
+    42.517652,
+    -113.786229,
+    42.517652
+],
+  "geometry": {"coordinates":[-113.78622900000001,42.517652],"type":"Point"}
 }

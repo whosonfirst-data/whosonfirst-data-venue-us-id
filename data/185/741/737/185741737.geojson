@@ -2,13 +2,14 @@
   "id": 185741737,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.585411,43.552846,-116.585411,43.552846",
     "geom:latitude":43.552846,
     "geom:longitude":-116.585411,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"714 Aberdeen Dr",
     "sg:city":"Nampa",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":185741737,
-    "wof:lastmodified":1449006667,
+    "wof:lastmodified":1466487855,
     "wof:name":"Country Cottage Antiques",
     "wof:parent_id":85827787,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-116.585411,43.552846,-116.585411,43.552846],
-  "geometry": {"coordinates":[-116.585411,43.552846],"type":"Point"}
+  "bbox": [
+    -116.585411,
+    43.552846,
+    -116.585411,
+    43.552846
+],
+  "geometry": {"coordinates":[-116.58541099999999,43.552846],"type":"Point"}
 }

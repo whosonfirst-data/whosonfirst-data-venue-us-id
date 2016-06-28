@@ -2,13 +2,14 @@
   "id": 186455665,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.688211,43.666943,-116.688211,43.666943",
     "geom:latitude":43.666943,
     "geom:longitude":-116.688211,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"107 S 7th Ave",
     "sg:city":"Caldwell",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":186455665,
-    "wof:lastmodified":1449052573,
+    "wof:lastmodified":1466488867,
     "wof:name":"Monarca Soccer Store",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-116.688211,43.666943,-116.688211,43.666943],
+  "bbox": [
+    -116.688211,
+    43.666943,
+    -116.688211,
+    43.666943
+],
   "geometry": {"coordinates":[-116.688211,43.666943],"type":"Point"}
 }

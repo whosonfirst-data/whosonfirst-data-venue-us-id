@@ -2,13 +2,14 @@
   "id": 169774431,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.412851,43.60469,-116.412851,43.60469",
     "geom:latitude":43.60469,
     "geom:longitude":-116.412851,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1535 W Franklin Rd",
     "sg:city":"Meridian",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":169774431,
-    "wof:lastmodified":1449033961,
+    "wof:lastmodified":1466488453,
     "wof:name":"Joltz Internet Cafe",
     "wof:parent_id":85805083,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "internet"
     ]
 },
-  "bbox": [-116.412851,43.60469,-116.412851,43.60469],
+  "bbox": [
+    -116.412851,
+    43.60469,
+    -116.412851,
+    43.60469
+],
   "geometry": {"coordinates":[-116.412851,43.60469],"type":"Point"}
 }

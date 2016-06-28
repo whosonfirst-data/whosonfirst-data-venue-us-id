@@ -2,13 +2,14 @@
   "id": 186225199,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.533935,47.151246,-116.533935,47.151246",
     "geom:latitude":47.151246,
     "geom:longitude":-116.533935,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"33069 State Hwy 6",
     "sg:city":"St Maries",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":186225199,
-    "wof:lastmodified":1449051212,
+    "wof:lastmodified":1466488552,
     "wof:name":"Danielson Logging Shop",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "logging"
     ]
 },
-  "bbox": [-116.533935,47.151246,-116.533935,47.151246],
+  "bbox": [
+    -116.533935,
+    47.151246,
+    -116.533935,
+    47.151246
+],
   "geometry": {"coordinates":[-116.533935,47.151246],"type":"Point"}
 }

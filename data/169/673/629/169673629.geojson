@@ -2,13 +2,14 @@
   "id": 169673629,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.252175,43.618973,-116.252175,43.618973",
     "geom:latitude":43.618973,
     "geom:longitude":-116.252175,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5621 W Fairview Ave",
     "sg:city":"Boise",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":169673629,
-    "wof:lastmodified":1449033960,
+    "wof:lastmodified":1466487929,
     "wof:name":"Mor Furniture For Less",
     "wof:parent_id":85876311,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-116.252175,43.618973,-116.252175,43.618973],
-  "geometry": {"coordinates":[-116.252175,43.618973],"type":"Point"}
+  "bbox": [
+    -116.252175,
+    43.618973,
+    -116.252175,
+    43.618973
+],
+  "geometry": {"coordinates":[-116.25217499999999,43.618973],"type":"Point"}
 }

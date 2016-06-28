@@ -2,13 +2,14 @@
   "id": 186360023,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.270103,43.57268,-116.270103,43.57268",
     "geom:latitude":43.57268,
     "geom:longitude":-116.270103,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7025 Delwood Dr",
     "sg:city":"Boise",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":186360023,
-    "wof:lastmodified":1449052391,
+    "wof:lastmodified":1466488835,
     "wof:name":"Aurora Sprinklers",
     "wof:parent_id":85876321,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "sprinkler"
     ]
 },
-  "bbox": [-116.270103,43.57268,-116.270103,43.57268],
-  "geometry": {"coordinates":[-116.270103,43.57268],"type":"Point"}
+  "bbox": [
+    -116.270103,
+    43.57268,
+    -116.270103,
+    43.57268
+],
+  "geometry": {"coordinates":[-116.27010300000001,43.57268],"type":"Point"}
 }

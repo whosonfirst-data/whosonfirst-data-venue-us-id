@@ -2,13 +2,14 @@
   "id": 185802033,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.558584,48.273003,-116.558584,48.273003",
     "geom:latitude":48.273003,
     "geom:longitude":-116.558584,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"803 Pine St",
     "sg:city":"Sandpoint",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":185802033,
-    "wof:lastmodified":1449007926,
+    "wof:lastmodified":1466488477,
     "wof:name":"Touche Therapeutic Massage",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "massage"
     ]
 },
-  "bbox": [-116.558584,48.273003,-116.558584,48.273003],
+  "bbox": [
+    -116.558584,
+    48.273003,
+    -116.558584,
+    48.273003
+],
   "geometry": {"coordinates":[-116.558584,48.273003],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186071961,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.317547,43.569179,-116.317547,43.569179",
     "geom:latitude":43.569179,
     "geom:longitude":-116.317547,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10877 Oswego Dr",
     "sg:city":"Boise",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":186071961,
-    "wof:lastmodified":1449052059,
+    "wof:lastmodified":1466487563,
     "wof:name":"Unsub Productions LLC",
     "wof:parent_id":85876331,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "motion"
     ]
 },
-  "bbox": [-116.317547,43.569179,-116.317547,43.569179],
+  "bbox": [
+    -116.317547,
+    43.569179,
+    -116.317547,
+    43.569179
+],
   "geometry": {"coordinates":[-116.317547,43.569179],"type":"Point"}
 }

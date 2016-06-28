@@ -2,13 +2,14 @@
   "id": 186015013,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.453748,43.598033,-116.453748,43.598033",
     "geom:latitude":43.598033,
     "geom:longitude":-116.453748,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"745 S Black Cat Rd",
     "sg:city":"Meridian",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":186015013,
-    "wof:lastmodified":1449051010,
+    "wof:lastmodified":1466486913,
     "wof:name":"Hastings Concrete Pumping",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "equipment"
     ]
 },
-  "bbox": [-116.453748,43.598033,-116.453748,43.598033],
+  "bbox": [
+    -116.453748,
+    43.598033,
+    -116.453748,
+    43.598033
+],
   "geometry": {"coordinates":[-116.453748,43.598033],"type":"Point"}
 }

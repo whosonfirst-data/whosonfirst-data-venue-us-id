@@ -2,13 +2,14 @@
   "id": 320550877,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.880494,47.337213,-116.880494,47.337213",
     "geom:latitude":47.337213,
     "geom:longitude":-116.880494,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"850 A St",
     "sg:city":"Plummer",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":320550877,
-    "wof:lastmodified":1449013289,
+    "wof:lastmodified":1466487050,
     "wof:name":"The Coeur D'alene Tribe",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "offices-tribal"
     ]
 },
-  "bbox": [-116.880494,47.337213,-116.880494,47.337213],
+  "bbox": [
+    -116.880494,
+    47.337213,
+    -116.880494,
+    47.337213
+],
   "geometry": {"coordinates":[-116.880494,47.337213],"type":"Point"}
 }

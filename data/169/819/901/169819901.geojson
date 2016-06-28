@@ -2,13 +2,14 @@
   "id": 169819901,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.889814,47.892786,-116.889814,47.892786",
     "geom:latitude":47.892786,
     "geom:longitude":-116.889814,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7765 W Lorelei Ln",
     "sg:city":"Rathdrum",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":169819901,
-    "wof:lastmodified":1449033478,
+    "wof:lastmodified":1466488475,
     "wof:name":"Northern Lakes Masonry",
     "wof:parent_id":85833263,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "contractor"
     ]
 },
-  "bbox": [-116.889814,47.892786,-116.889814,47.892786],
+  "bbox": [
+    -116.889814,
+    47.892786,
+    -116.889814,
+    47.892786
+],
   "geometry": {"coordinates":[-116.889814,47.892786],"type":"Point"}
 }

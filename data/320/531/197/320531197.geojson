@@ -2,13 +2,14 @@
   "id": 320531197,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.919388,44.01326,-116.919388,44.01326",
     "geom:latitude":44.01326,
     "geom:longitude":-116.919388,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"500 NW 3rd St",
     "sg:city":"Fruitland",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":320531197,
-    "wof:lastmodified":1449012149,
+    "wof:lastmodified":1466488363,
     "wof:name":"Fruitland Public Schools: Agriculture Department",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "district"
     ]
 },
-  "bbox": [-116.919388,44.01326,-116.919388,44.01326],
+  "bbox": [
+    -116.919388,
+    44.01326,
+    -116.919388,
+    44.01326
+],
   "geometry": {"coordinates":[-116.919388,44.01326],"type":"Point"}
 }

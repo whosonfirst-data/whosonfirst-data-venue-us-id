@@ -2,13 +2,14 @@
   "id": 186054797,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.718711,43.121327,-115.718711,43.121327",
     "geom:latitude":43.121327,
     "geom:longitude":-115.718711,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2450 Liercke Ln",
     "sg:city":"Mountain Home",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":186054797,
-    "wof:lastmodified":1449051648,
+    "wof:lastmodified":1466487365,
     "wof:name":"Liercke Construction Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "contractor"
     ]
 },
-  "bbox": [-115.718711,43.121327,-115.718711,43.121327],
+  "bbox": [
+    -115.718711,
+    43.121327,
+    -115.718711,
+    43.121327
+],
   "geometry": {"coordinates":[-115.718711,43.121327],"type":"Point"}
 }

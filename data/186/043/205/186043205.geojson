@@ -2,13 +2,14 @@
   "id": 186043205,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.716038,43.132434,-115.716038,43.132434",
     "geom:latitude":43.132434,
     "geom:longitude":-115.716038,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"430 Date St",
     "sg:city":"Mountain Home",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":186043205,
-    "wof:lastmodified":1449052351,
+    "wof:lastmodified":1466487234,
     "wof:name":"Duke's Detailing",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "clean"
     ]
 },
-  "bbox": [-115.716038,43.132434,-115.716038,43.132434],
+  "bbox": [
+    -115.716038,
+    43.132434,
+    -115.716038,
+    43.132434
+],
   "geometry": {"coordinates":[-115.716038,43.132434],"type":"Point"}
 }

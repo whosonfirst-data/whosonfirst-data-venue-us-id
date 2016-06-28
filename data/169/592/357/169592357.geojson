@@ -2,13 +2,14 @@
   "id": 169592357,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.336618,43.173938,-112.336618,43.173938",
     "geom:latitude":43.173938,
     "geom:longitude":-112.336618,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1320 Pendlebury Ln",
     "sg:city":"Blackfoot",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":169592357,
-    "wof:lastmodified":1449034584,
+    "wof:lastmodified":1466488289,
     "wof:name":"Scott Stfflbeam Attrney At Law",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "business"
     ]
 },
-  "bbox": [-112.336618,43.173938,-112.336618,43.173938],
+  "bbox": [
+    -112.336618,
+    43.173938,
+    -112.336618,
+    43.173938
+],
   "geometry": {"coordinates":[-112.336618,43.173938],"type":"Point"}
 }

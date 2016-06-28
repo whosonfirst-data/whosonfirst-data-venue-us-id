@@ -2,13 +2,14 @@
   "id": 320544677,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.810592,47.774202,-116.810592,47.774202",
     "geom:latitude":47.774202,
     "geom:longitude":-116.810592,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"11405 N Airport Rd",
     "sg:city":"Hayden",
     "sg:classifiers":[
@@ -65,10 +66,11 @@
         }
     ],
     "wof:id":320544677,
-    "wof:lastmodified":1449014961,
+    "wof:lastmodified":1466486985,
     "wof:name":"Northern Skies Air Center",
     "wof:parent_id":85821457,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -80,6 +82,11 @@
         "painting"
     ]
 },
-  "bbox": [-116.810592,47.774202,-116.810592,47.774202],
+  "bbox": [
+    -116.810592,
+    47.774202,
+    -116.810592,
+    47.774202
+],
   "geometry": {"coordinates":[-116.810592,47.774202],"type":"Point"}
 }

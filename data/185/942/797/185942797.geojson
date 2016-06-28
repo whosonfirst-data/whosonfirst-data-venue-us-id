@@ -2,13 +2,14 @@
   "id": 185942797,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.425198,43.614512,-116.425198,43.614512",
     "geom:latitude":43.614512,
     "geom:longitude":-116.425198,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2533 W Wave Ct",
     "sg:city":"Meridian",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":185942797,
-    "wof:lastmodified":1449007357,
+    "wof:lastmodified":1466488656,
     "wof:name":"East West Centers Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-116.425198,43.614512,-116.425198,43.614512],
-  "geometry": {"coordinates":[-116.425198,43.614512],"type":"Point"}
+  "bbox": [
+    -116.425198,
+    43.614512,
+    -116.425198,
+    43.614512
+],
+  "geometry": {"coordinates":[-116.42519799999999,43.614512],"type":"Point"}
 }

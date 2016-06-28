@@ -2,13 +2,14 @@
   "id": 186413457,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.201972,43.578067,-116.201972,43.578067",
     "geom:latitude":43.578067,
     "geom:longitude":-116.201972,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1722 Norcrest Ct",
     "sg:city":"Boise",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":186413457,
-    "wof:lastmodified":1449050824,
+    "wof:lastmodified":1466488797,
     "wof:name":"Gem Pressure Wash",
     "wof:parent_id":85876343,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "deck"
     ]
 },
-  "bbox": [-116.201972,43.578067,-116.201972,43.578067],
+  "bbox": [
+    -116.201972,
+    43.578067,
+    -116.201972,
+    43.578067
+],
   "geometry": {"coordinates":[-116.201972,43.578067],"type":"Point"}
 }

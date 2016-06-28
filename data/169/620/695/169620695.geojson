@@ -2,13 +2,14 @@
   "id": 169620695,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.192028,43.569283,-116.192028,43.569283",
     "geom:latitude":43.569283,
     "geom:longitude":-116.192028,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3440 S Tk Ave",
     "sg:city":"Boise",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":169620695,
-    "wof:lastmodified":1449035673,
+    "wof:lastmodified":1466487128,
     "wof:name":"Nichols Photo Lab",
     "wof:parent_id":85876337,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "finishing"
     ]
 },
-  "bbox": [-116.192028,43.569283,-116.192028,43.569283],
-  "geometry": {"coordinates":[-116.192028,43.569283],"type":"Point"}
+  "bbox": [
+    -116.192028,
+    43.569283,
+    -116.192028,
+    43.569283
+],
+  "geometry": {"coordinates":[-116.19202799999999,43.569283],"type":"Point"}
 }

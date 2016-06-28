@@ -2,13 +2,14 @@
   "id": 185745533,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.889102,47.816774,-116.889102,47.816774",
     "geom:latitude":47.816774,
     "geom:longitude":-116.889102,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"755 State Hwy 53",
     "sg:city":"Rathdrum",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":185745533,
-    "wof:lastmodified":1449008122,
+    "wof:lastmodified":1466487888,
     "wof:name":"R Dog Grooming",
     "wof:parent_id":85833263,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-116.889102,47.816774,-116.889102,47.816774],
-  "geometry": {"coordinates":[-116.889102,47.816774],"type":"Point"}
+  "bbox": [
+    -116.889102,
+    47.816774,
+    -116.889102,
+    47.816774
+],
+  "geometry": {"coordinates":[-116.88910199999999,47.816774],"type":"Point"}
 }

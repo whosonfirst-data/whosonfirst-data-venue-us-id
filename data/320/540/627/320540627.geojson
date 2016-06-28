@@ -2,13 +2,14 @@
   "id": 320540627,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.573105,43.594499,-116.573105,43.594499",
     "geom:latitude":43.594499,
     "geom:longitude":-116.573105,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"332 N Broadmore Way Suite 102",
     "sg:city":"Nampa",
     "sg:classifiers":[
@@ -57,10 +58,11 @@
         }
     ],
     "wof:id":320540627,
-    "wof:lastmodified":1449012739,
+    "wof:lastmodified":1466486899,
     "wof:name":"Morrow & Fischer",
     "wof:parent_id":85827787,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -72,6 +74,11 @@
         "trust"
     ]
 },
-  "bbox": [-116.573105,43.594499,-116.573105,43.594499],
+  "bbox": [
+    -116.573105,
+    43.594499,
+    -116.573105,
+    43.594499
+],
   "geometry": {"coordinates":[-116.573105,43.594499],"type":"Point"}
 }

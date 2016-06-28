@@ -2,13 +2,14 @@
   "id": 185942765,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.763893,47.831407,-116.763893,47.831407",
     "geom:latitude":47.831407,
     "geom:longitude":-116.763893,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"18545 N Cedar Grove Ln",
     "sg:city":"Hayden",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":185942765,
-    "wof:lastmodified":1449007356,
+    "wof:lastmodified":1466488655,
     "wof:name":"Outlaw Painting",
     "wof:parent_id":85821457,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "painter"
     ]
 },
-  "bbox": [-116.763893,47.831407,-116.763893,47.831407],
+  "bbox": [
+    -116.763893,
+    47.831407,
+    -116.763893,
+    47.831407
+],
   "geometry": {"coordinates":[-116.763893,47.831407],"type":"Point"}
 }

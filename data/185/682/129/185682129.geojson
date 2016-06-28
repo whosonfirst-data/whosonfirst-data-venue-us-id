@@ -2,13 +2,14 @@
   "id": 185682129,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.807845,43.821913,-111.807845,43.821913",
     "geom:latitude":43.821913,
     "geom:longitude":-111.807845,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"276 Pioneer Rd",
     "sg:city":"Rexburg",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":185682129,
-    "wof:lastmodified":1449006894,
+    "wof:lastmodified":1466487381,
     "wof:name":"Rv-Mini Storage",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "vehicle"
     ]
 },
-  "bbox": [-111.807845,43.821913,-111.807845,43.821913],
+  "bbox": [
+    -111.807845,
+    43.821913,
+    -111.807845,
+    43.821913
+],
   "geometry": {"coordinates":[-111.807845,43.821913],"type":"Point"}
 }

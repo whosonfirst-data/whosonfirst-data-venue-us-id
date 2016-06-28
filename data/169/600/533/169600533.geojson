@@ -2,13 +2,14 @@
   "id": 169600533,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.441541,42.881951,-112.441541,42.881951",
     "geom:latitude":42.881951,
     "geom:longitude":-112.441541,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"322 Jefferson Ave",
     "sg:city":"Pocatello",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":169600533,
-    "wof:lastmodified":1449032969,
+    "wof:lastmodified":1466488321,
     "wof:name":"Otter Creek",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "shop"
     ]
 },
-  "bbox": [-112.441541,42.881951,-112.441541,42.881951],
+  "bbox": [
+    -112.441541,
+    42.881951,
+    -112.441541,
+    42.881951
+],
   "geometry": {"coordinates":[-112.441541,42.881951],"type":"Point"}
 }

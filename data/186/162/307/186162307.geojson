@@ -2,13 +2,14 @@
   "id": 186162307,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.552883,43.513009,-116.552883,43.513009",
     "geom:latitude":43.513009,
     "geom:longitude":-116.552883,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9650 S Powerline Rd",
     "sg:city":"Nampa",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":186162307,
-    "wof:lastmodified":1449052621,
+    "wof:lastmodified":1466488407,
     "wof:name":"Plant It Trees",
     "wof:parent_id":85827787,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "tree"
     ]
 },
-  "bbox": [-116.552883,43.513009,-116.552883,43.513009],
-  "geometry": {"coordinates":[-116.552883,43.513009],"type":"Point"}
+  "bbox": [
+    -116.552883,
+    43.513009,
+    -116.552883,
+    43.513009
+],
+  "geometry": {"coordinates":[-116.55288299999999,43.513009],"type":"Point"}
 }

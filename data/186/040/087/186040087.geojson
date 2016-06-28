@@ -2,13 +2,14 @@
   "id": 186040087,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.562278,48.293839,-116.562278,48.293839",
     "geom:latitude":48.293839,
     "geom:longitude":-116.562278,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1714 Industrial Dr",
     "sg:city":"Sandpoint",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":186040087,
-    "wof:lastmodified":1449052959,
+    "wof:lastmodified":1466487194,
     "wof:name":"Selkirk Automated Postal Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "shipping"
     ]
 },
-  "bbox": [-116.562278,48.293839,-116.562278,48.293839],
-  "geometry": {"coordinates":[-116.562278,48.293839],"type":"Point"}
+  "bbox": [
+    -116.562278,
+    48.293839,
+    -116.562278,
+    48.293839
+],
+  "geometry": {"coordinates":[-116.56227800000001,48.293839],"type":"Point"}
 }

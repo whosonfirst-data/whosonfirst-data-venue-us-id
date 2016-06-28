@@ -2,13 +2,14 @@
   "id": 185681155,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.989429,46.417921,-116.989429,46.417921",
     "geom:latitude":46.417921,
     "geom:longitude":-116.989429,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3010 Main St",
     "sg:city":"Lewiston",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":185681155,
-    "wof:lastmodified":1449007602,
+    "wof:lastmodified":1466487374,
     "wof:name":"Odom Northwest Beverages",
     "wof:parent_id":85837769,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "beverage"
     ]
 },
-  "bbox": [-116.989429,46.417921,-116.989429,46.417921],
+  "bbox": [
+    -116.989429,
+    46.417921,
+    -116.989429,
+    46.417921
+],
   "geometry": {"coordinates":[-116.989429,46.417921],"type":"Point"}
 }

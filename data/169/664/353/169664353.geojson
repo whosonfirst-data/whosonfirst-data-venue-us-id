@@ -2,13 +2,14 @@
   "id": 169664353,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.418044,43.490532,-116.418044,43.490532",
     "geom:latitude":43.490532,
     "geom:longitude":-116.418044,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"333 Ave C",
     "sg:city":"Kuna",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":169664353,
-    "wof:lastmodified":1449033911,
+    "wof:lastmodified":1466487802,
     "wof:name":"KUNA Chiropractic & Family",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-116.418044,43.490532,-116.418044,43.490532],
-  "geometry": {"coordinates":[-116.418044,43.490532],"type":"Point"}
+  "bbox": [
+    -116.418044,
+    43.490532,
+    -116.418044,
+    43.490532
+],
+  "geometry": {"coordinates":[-116.41804399999999,43.490532],"type":"Point"}
 }

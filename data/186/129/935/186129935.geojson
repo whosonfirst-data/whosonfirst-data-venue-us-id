@@ -2,13 +2,14 @@
   "id": 186129935,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.38412,43.1973,-112.38412,43.1973",
     "geom:latitude":43.1973,
     "geom:longitude":-112.38412,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"443 W Hwy 39",
     "sg:city":"Blackfoot",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":186129935,
-    "wof:lastmodified":1449052492,
+    "wof:lastmodified":1466488152,
     "wof:name":"Southeast Sales Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "dealer"
     ]
 },
-  "bbox": [-112.38412,43.1973,-112.38412,43.1973],
+  "bbox": [
+    -112.38412,
+    43.1973,
+    -112.38412,
+    43.1973
+],
   "geometry": {"coordinates":[-112.38412,43.1973],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186085835,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.947021,47.723432,-116.947021,47.723432",
     "geom:latitude":47.723432,
     "geom:longitude":-116.947021,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"215 E 16th Ave",
     "sg:city":"Post Falls",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186085835,
-    "wof:lastmodified":1449051064,
+    "wof:lastmodified":1466487719,
     "wof:name":"Claude Fry Trucking Inc",
     "wof:parent_id":85833263,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "trucking"
     ]
 },
-  "bbox": [-116.947021,47.723432,-116.947021,47.723432],
-  "geometry": {"coordinates":[-116.947021,47.723432],"type":"Point"}
+  "bbox": [
+    -116.947021,
+    47.723432,
+    -116.947021,
+    47.723432
+],
+  "geometry": {"coordinates":[-116.94702100000001,47.723432],"type":"Point"}
 }

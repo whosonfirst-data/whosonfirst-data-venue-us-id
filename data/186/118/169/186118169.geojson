@@ -2,13 +2,14 @@
   "id": 186118169,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.791738,47.715416,-116.791738,47.715416",
     "geom:latitude":47.715416,
     "geom:longitude":-116.791738,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"220 W Kathleen Ave",
     "sg:city":"Coeur D Alene",
     "sg:classifiers":[
@@ -62,16 +63,22 @@
         }
     ],
     "wof:id":186118169,
-    "wof:lastmodified":1449052501,
+    "wof:lastmodified":1466488045,
     "wof:name":"Home Depot",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "center"
     ]
 },
-  "bbox": [-116.791738,47.715416,-116.791738,47.715416],
+  "bbox": [
+    -116.791738,
+    47.715416,
+    -116.791738,
+    47.715416
+],
   "geometry": {"coordinates":[-116.791738,47.715416],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169613157,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.974652,46.741006,-116.974652,46.741006",
     "geom:latitude":46.741006,
     "geom:longitude":-116.974652,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"819 Valley Vw",
     "sg:city":"Moscow",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":169613157,
-    "wof:lastmodified":1449034214,
+    "wof:lastmodified":1466487008,
     "wof:name":"Davis-Mundy Irene Accounting",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "return"
     ]
 },
-  "bbox": [-116.974652,46.741006,-116.974652,46.741006],
-  "geometry": {"coordinates":[-116.974652,46.741006],"type":"Point"}
+  "bbox": [
+    -116.974652,
+    46.741006,
+    -116.974652,
+    46.741006
+],
+  "geometry": {"coordinates":[-116.97465200000001,46.741006],"type":"Point"}
 }

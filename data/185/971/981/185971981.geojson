@@ -2,13 +2,14 @@
   "id": 185971981,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.946476,47.715204,-116.946476,47.715204",
     "geom:latitude":47.715204,
     "geom:longitude":-116.946476,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"205 E Seltice Way",
     "sg:city":"Post Falls",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":185971981,
-    "wof:lastmodified":1449007449,
+    "wof:lastmodified":1466488707,
     "wof:name":"River City Framing & Gallery",
     "wof:parent_id":85833263,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "merchandise"
     ]
 },
-  "bbox": [-116.946476,47.715204,-116.946476,47.715204],
+  "bbox": [
+    -116.946476,
+    47.715204,
+    -116.946476,
+    47.715204
+],
   "geometry": {"coordinates":[-116.946476,47.715204],"type":"Point"}
 }

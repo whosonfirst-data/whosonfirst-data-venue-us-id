@@ -2,13 +2,14 @@
   "id": 186444393,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-117.0013,46.721513,-117.0013,46.721513",
     "geom:latitude":46.721513,
     "geom:longitude":-117.0013,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1428 S Main St",
     "sg:city":"Moscow",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":186444393,
-    "wof:lastmodified":1449052650,
+    "wof:lastmodified":1466488818,
     "wof:name":"Strata Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "engineer"
     ]
 },
-  "bbox": [-117.0013,46.721513,-117.0013,46.721513],
+  "bbox": [
+    -117.0013,
+    46.721513,
+    -117.0013,
+    46.721513
+],
   "geometry": {"coordinates":[-117.0013,46.721513],"type":"Point"}
 }

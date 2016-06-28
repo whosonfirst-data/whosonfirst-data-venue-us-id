@@ -2,13 +2,14 @@
   "id": 169836379,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.179215,43.582067,-116.179215,43.582067",
     "geom:latitude":43.582067,
     "geom:longitude":-116.179215,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"213 Woodvine St",
     "sg:city":"Boise",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":169836379,
-    "wof:lastmodified":1449034869,
+    "wof:lastmodified":1466488595,
     "wof:name":"Cools Cutom Paints",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "center"
     ]
 },
-  "bbox": [-116.179215,43.582067,-116.179215,43.582067],
+  "bbox": [
+    -116.179215,
+    43.582067,
+    -116.179215,
+    43.582067
+],
   "geometry": {"coordinates":[-116.179215,43.582067],"type":"Point"}
 }

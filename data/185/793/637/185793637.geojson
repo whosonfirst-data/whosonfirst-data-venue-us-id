@@ -2,13 +2,14 @@
   "id": 185793637,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.100776,43.559179,-116.100776,43.559179",
     "geom:latitude":43.559179,
     "geom:longitude":-116.100776,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6637 Loess Pl",
     "sg:city":"Boise",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":185793637,
-    "wof:lastmodified":1449007496,
+    "wof:lastmodified":1466488261,
     "wof:name":"J Nor Inc",
     "wof:parent_id":85876327,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "trucking"
     ]
 },
-  "bbox": [-116.100776,43.559179,-116.100776,43.559179],
+  "bbox": [
+    -116.100776,
+    43.559179,
+    -116.100776,
+    43.559179
+],
   "geometry": {"coordinates":[-116.100776,43.559179],"type":"Point"}
 }

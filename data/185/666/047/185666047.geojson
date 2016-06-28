@@ -2,13 +2,14 @@
   "id": 185666047,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.777003,47.779647,-116.777003,47.779647",
     "geom:latitude":47.779647,
     "geom:longitude":-116.777003,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"13043 N Emerald Dr",
     "sg:city":"Hayden Lake",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":185666047,
-    "wof:lastmodified":1449007189,
+    "wof:lastmodified":1466487259,
     "wof:name":"Appraisal Services",
     "wof:parent_id":85821457,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "appraiser"
     ]
 },
-  "bbox": [-116.777003,47.779647,-116.777003,47.779647],
-  "geometry": {"coordinates":[-116.777003,47.779647],"type":"Point"}
+  "bbox": [
+    -116.777003,
+    47.779647,
+    -116.777003,
+    47.779647
+],
+  "geometry": {"coordinates":[-116.77700299999999,47.779647],"type":"Point"}
 }

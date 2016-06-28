@@ -2,13 +2,14 @@
   "id": 169798855,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.570616,48.287417,-116.570616,48.287417",
     "geom:latitude":48.287417,
     "geom:longitude":-116.570616,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1705 Baldy Mountain Rd",
     "sg:city":"Sandpoint",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":169798855,
-    "wof:lastmodified":1449033303,
+    "wof:lastmodified":1466488414,
     "wof:name":"Mountain Metal Works Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "metal"
     ]
 },
-  "bbox": [-116.570616,48.287417,-116.570616,48.287417],
+  "bbox": [
+    -116.570616,
+    48.287417,
+    -116.570616,
+    48.287417
+],
   "geometry": {"coordinates":[-116.570616,48.287417],"type":"Point"}
 }

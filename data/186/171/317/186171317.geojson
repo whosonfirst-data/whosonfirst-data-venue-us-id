@@ -2,13 +2,14 @@
   "id": 186171317,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.947976,47.717697,-116.947976,47.717697",
     "geom:latitude":47.717697,
     "geom:longitude":-116.947976,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"920 N Spokane St",
     "sg:city":"Post Falls",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":186171317,
-    "wof:lastmodified":1449053042,
+    "wof:lastmodified":1466488428,
     "wof:name":"Post Falls Animal Clinic",
     "wof:parent_id":85833263,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "veterinarian"
     ]
 },
-  "bbox": [-116.947976,47.717697,-116.947976,47.717697],
+  "bbox": [
+    -116.947976,
+    47.717697,
+    -116.947976,
+    47.717697
+],
   "geometry": {"coordinates":[-116.947976,47.717697],"type":"Point"}
 }

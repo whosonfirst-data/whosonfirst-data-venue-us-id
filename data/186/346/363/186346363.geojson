@@ -2,13 +2,14 @@
   "id": 186346363,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.46165,42.873197,-112.46165,42.873197",
     "geom:latitude":42.873197,
     "geom:longitude":-112.46165,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1430 N Harrison Ave",
     "sg:city":"Pocatello",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":186346363,
-    "wof:lastmodified":1449050241,
+    "wof:lastmodified":1466488734,
     "wof:name":"Spoklie Drywall",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "contractor"
     ]
 },
-  "bbox": [-112.46165,42.873197,-112.46165,42.873197],
-  "geometry": {"coordinates":[-112.46165,42.873197],"type":"Point"}
+  "bbox": [
+    -112.46165,
+    42.873197,
+    -112.46165,
+    42.873197
+],
+  "geometry": {"coordinates":[-112.46165000000001,42.873197],"type":"Point"}
 }

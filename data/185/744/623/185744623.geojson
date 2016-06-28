@@ -2,13 +2,14 @@
   "id": 185744623,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-113.357526,44.680269,-113.357526,44.680269",
     "geom:latitude":44.680269,
     "geom:longitude":-113.357526,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"205 S Railroad St",
     "sg:city":"Leadore",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":185744623,
-    "wof:lastmodified":1449007176,
+    "wof:lastmodified":1466487881,
     "wof:name":"Silver Dollar Bar & Restaurant",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-113.357526,44.680269,-113.357526,44.680269],
-  "geometry": {"coordinates":[-113.357526,44.680269],"type":"Point"}
+  "bbox": [
+    -113.357526,
+    44.680269,
+    -113.357526,
+    44.680269
+],
+  "geometry": {"coordinates":[-113.35752599999999,44.680269],"type":"Point"}
 }

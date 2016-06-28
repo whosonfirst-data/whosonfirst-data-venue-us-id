@@ -2,13 +2,14 @@
   "id": 186193443,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.572021,47.315291,-116.572021,47.315291",
     "geom:latitude":47.315291,
     "geom:longitude":-116.572021,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1100 W College Ave",
     "sg:city":"St Maries",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":186193443,
-    "wof:lastmodified":1449050848,
+    "wof:lastmodified":1466488488,
     "wof:name":"Presbyterian Community Church",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-116.572021,47.315291,-116.572021,47.315291],
-  "geometry": {"coordinates":[-116.572021,47.315291],"type":"Point"}
+  "bbox": [
+    -116.572021,
+    47.315291,
+    -116.572021,
+    47.315291
+],
+  "geometry": {"coordinates":[-116.57202100000001,47.315291],"type":"Point"}
 }

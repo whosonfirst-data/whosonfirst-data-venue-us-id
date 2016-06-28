@@ -2,13 +2,14 @@
   "id": 169599289,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.567486,48.269359,-116.567486,48.269359",
     "geom:latitude":48.269359,
     "geom:longitude":-116.567486,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1223 Michigan St",
     "sg:city":"Sandpoint",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":169599289,
-    "wof:lastmodified":1449034210,
+    "wof:lastmodified":1466488305,
     "wof:name":"Glassworks",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "plate"
     ]
 },
-  "bbox": [-116.567486,48.269359,-116.567486,48.269359],
+  "bbox": [
+    -116.567486,
+    48.269359,
+    -116.567486,
+    48.269359
+],
   "geometry": {"coordinates":[-116.567486,48.269359],"type":"Point"}
 }

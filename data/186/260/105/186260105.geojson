@@ -2,13 +2,14 @@
   "id": 186260105,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.263536,43.633759,-116.263536,43.633759",
     "geom:latitude":43.633759,
     "geom:longitude":-116.263536,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6403 Ustick Rd",
     "sg:city":"Boise",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186260105,
-    "wof:lastmodified":1449050862,
+    "wof:lastmodified":1466488608,
     "wof:name":"Mountain View Svc Inc",
     "wof:parent_id":85876311,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "automobile"
     ]
 },
-  "bbox": [-116.263536,43.633759,-116.263536,43.633759],
+  "bbox": [
+    -116.263536,
+    43.633759,
+    -116.263536,
+    43.633759
+],
   "geometry": {"coordinates":[-116.263536,43.633759],"type":"Point"}
 }

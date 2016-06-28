@@ -2,13 +2,14 @@
   "id": 185603375,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-117.008713,47.69662,-117.008713,47.69662",
     "geom:latitude":47.69662,
     "geom:longitude":-117.008713,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"721 S Lochsa St",
     "sg:city":"Post Falls",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":185603375,
-    "wof:lastmodified":1449007982,
+    "wof:lastmodified":1466487972,
     "wof:name":"Ednetics Inc",
     "wof:parent_id":85833263,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "software"
     ]
 },
-  "bbox": [-117.008713,47.69662,-117.008713,47.69662],
+  "bbox": [
+    -117.008713,
+    47.69662,
+    -117.008713,
+    47.69662
+],
   "geometry": {"coordinates":[-117.008713,47.69662],"type":"Point"}
 }

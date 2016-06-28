@@ -2,13 +2,14 @@
   "id": 185611301,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.985946,46.387378,-116.985946,46.387378",
     "geom:latitude":46.387378,
     "geom:longitude":-116.985946,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"204 Thain Rd",
     "sg:city":"Lewiston",
     "sg:classifiers":[
@@ -62,10 +63,11 @@
         }
     ],
     "wof:id":185611301,
-    "wof:lastmodified":1449007884,
+    "wof:lastmodified":1466486849,
     "wof:name":"Brockman's Arts & Custom Frmng",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -73,6 +75,11 @@
         "supply"
     ]
 },
-  "bbox": [-116.985946,46.387378,-116.985946,46.387378],
+  "bbox": [
+    -116.985946,
+    46.387378,
+    -116.985946,
+    46.387378
+],
   "geometry": {"coordinates":[-116.985946,46.387378],"type":"Point"}
 }

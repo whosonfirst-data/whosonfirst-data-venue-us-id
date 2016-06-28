@@ -2,13 +2,14 @@
   "id": 186462507,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.351116,43.184755,-112.351116,43.184755",
     "geom:latitude":43.184755,
     "geom:longitude":-112.351116,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"690 S Broadway St",
     "sg:city":"Blackfoot",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":186462507,
-    "wof:lastmodified":1449052935,
+    "wof:lastmodified":1466488885,
     "wof:name":"Precision Muffler & Brake",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "exhaust"
     ]
 },
-  "bbox": [-112.351116,43.184755,-112.351116,43.184755],
+  "bbox": [
+    -112.351116,
+    43.184755,
+    -112.351116,
+    43.184755
+],
   "geometry": {"coordinates":[-112.351116,43.184755],"type":"Point"}
 }

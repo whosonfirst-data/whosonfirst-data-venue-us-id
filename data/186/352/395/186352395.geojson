@@ -2,13 +2,14 @@
   "id": 186352395,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.786477,47.786762,-116.786477,47.786762",
     "geom:latitude":47.786762,
     "geom:longitude":-116.786477,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"12655 N Government Way",
     "sg:city":"Hayden",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":186352395,
-    "wof:lastmodified":1449052010,
+    "wof:lastmodified":1466488748,
     "wof:name":"Huckleberry Wholesalers Nrsry",
     "wof:parent_id":85821457,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "nurseryman"
     ]
 },
-  "bbox": [-116.786477,47.786762,-116.786477,47.786762],
+  "bbox": [
+    -116.786477,
+    47.786762,
+    -116.786477,
+    47.786762
+],
   "geometry": {"coordinates":[-116.786477,47.786762],"type":"Point"}
 }

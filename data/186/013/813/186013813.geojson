@@ -2,13 +2,14 @@
   "id": 186013813,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.253713,43.608738,-116.253713,43.608738",
     "geom:latitude":43.608738,
     "geom:longitude":-116.253713,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"477 N Curtis Rd",
     "sg:city":"Boise",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186013813,
-    "wof:lastmodified":1449052184,
+    "wof:lastmodified":1466486897,
     "wof:name":"Joseph L Morton",
     "wof:parent_id":85876311,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "attorney"
     ]
 },
-  "bbox": [-116.253713,43.608738,-116.253713,43.608738],
+  "bbox": [
+    -116.253713,
+    43.608738,
+    -116.253713,
+    43.608738
+],
   "geometry": {"coordinates":[-116.253713,43.608738],"type":"Point"}
 }

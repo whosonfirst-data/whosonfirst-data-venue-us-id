@@ -2,13 +2,14 @@
   "id": 186091611,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.879744,47.973293,-116.879744,47.973293",
     "geom:latitude":47.973293,
     "geom:longitude":-116.879744,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7582 W Nash Rd",
     "sg:city":"Spirit Lake",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":186091611,
-    "wof:lastmodified":1449050507,
+    "wof:lastmodified":1466487776,
     "wof:name":"Logan Trucking",
     "wof:parent_id":85833263,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "trucking"
     ]
 },
-  "bbox": [-116.879744,47.973293,-116.879744,47.973293],
+  "bbox": [
+    -116.879744,
+    47.973293,
+    -116.879744,
+    47.973293
+],
   "geometry": {"coordinates":[-116.879744,47.973293],"type":"Point"}
 }

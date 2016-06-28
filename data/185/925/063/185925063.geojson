@@ -2,13 +2,14 @@
   "id": 185925063,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.832262,43.558652,-116.832262,43.558652",
     "geom:latitude":43.558652,
     "geom:longitude":-116.832262,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5078 N Edison Rd",
     "sg:city":"Marsing",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":185925063,
-    "wof:lastmodified":1449006606,
+    "wof:lastmodified":1466488612,
     "wof:name":"Showalter Construction",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "contractor"
     ]
 },
-  "bbox": [-116.832262,43.558652,-116.832262,43.558652],
+  "bbox": [
+    -116.832262,
+    43.558652,
+    -116.832262,
+    43.558652
+],
   "geometry": {"coordinates":[-116.832262,43.558652],"type":"Point"}
 }

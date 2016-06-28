@@ -2,13 +2,14 @@
   "id": 185973787,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.215588,43.618391,-116.215588,43.618391",
     "geom:latitude":43.618391,
     "geom:longitude":-116.215588,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"528 Americana Blvd",
     "sg:city":"Boise",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":185973787,
-    "wof:lastmodified":1449007577,
+    "wof:lastmodified":1466488795,
     "wof:name":"Nordlings Inc",
     "wof:parent_id":85876355,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "supply"
     ]
 },
-  "bbox": [-116.215588,43.618391,-116.215588,43.618391],
+  "bbox": [
+    -116.215588,
+    43.618391,
+    -116.215588,
+    43.618391
+],
   "geometry": {"coordinates":[-116.215588,43.618391],"type":"Point"}
 }

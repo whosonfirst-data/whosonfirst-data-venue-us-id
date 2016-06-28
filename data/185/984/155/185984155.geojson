@@ -2,13 +2,14 @@
   "id": 185984155,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.924188,43.907773,-116.924188,43.907773",
     "geom:latitude":43.907773,
     "geom:longitude":-116.924188,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3900 2nd Ln E",
     "sg:city":"Parma",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":185984155,
-    "wof:lastmodified":1449007514,
+    "wof:lastmodified":1466488728,
     "wof:name":"M Cross Cattle Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "advisory"
     ]
 },
-  "bbox": [-116.924188,43.907773,-116.924188,43.907773],
+  "bbox": [
+    -116.924188,
+    43.907773,
+    -116.924188,
+    43.907773
+],
   "geometry": {"coordinates":[-116.924188,43.907773],"type":"Point"}
 }

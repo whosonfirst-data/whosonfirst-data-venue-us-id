@@ -2,13 +2,14 @@
   "id": 169620657,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.292332,43.594701,-116.292332,43.594701",
     "geom:latitude":43.594701,
     "geom:longitude":-116.292332,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1141 S Allante Ave",
     "sg:city":"Boise",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":169620657,
-    "wof:lastmodified":1449035673,
+    "wof:lastmodified":1466487127,
     "wof:name":"Silver Creek Software",
     "wof:parent_id":85876309,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "designer"
     ]
 },
-  "bbox": [-116.292332,43.594701,-116.292332,43.594701],
+  "bbox": [
+    -116.292332,
+    43.594701,
+    -116.292332,
+    43.594701
+],
   "geometry": {"coordinates":[-116.292332,43.594701],"type":"Point"}
 }

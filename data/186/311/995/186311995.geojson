@@ -2,13 +2,14 @@
   "id": 186311995,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.214631,43.614872,-116.214631,43.614872",
     "geom:latitude":43.614872,
     "geom:longitude":-116.214631,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1226 River St",
     "sg:city":"Boise",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":186311995,
-    "wof:lastmodified":1449051030,
+    "wof:lastmodified":1466488767,
     "wof:name":"Humphreys Diabetes Education",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "surgeon"
     ]
 },
-  "bbox": [-116.214631,43.614872,-116.214631,43.614872],
+  "bbox": [
+    -116.214631,
+    43.614872,
+    -116.214631,
+    43.614872
+],
   "geometry": {"coordinates":[-116.214631,43.614872],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 185947595,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-113.881651,45.170761,-113.881651,45.170761",
     "geom:latitude":45.170761,
     "geom:longitude":-113.881651,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1709 Main St",
     "sg:city":"Salmon",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":185947595,
-    "wof:lastmodified":1449007760,
+    "wof:lastmodified":1466488665,
     "wof:name":"Grooming Cut'n Dried",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "washing"
     ]
 },
-  "bbox": [-113.881651,45.170761,-113.881651,45.170761],
-  "geometry": {"coordinates":[-113.881651,45.170761],"type":"Point"}
+  "bbox": [
+    -113.881651,
+    45.170761,
+    -113.881651,
+    45.170761
+],
+  "geometry": {"coordinates":[-113.88165100000001,45.170761],"type":"Point"}
 }

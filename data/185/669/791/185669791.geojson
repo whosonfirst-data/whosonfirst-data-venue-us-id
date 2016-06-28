@@ -2,13 +2,14 @@
   "id": 185669791,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.708832,43.625738,-116.708832,43.625738",
     "geom:latitude":43.625738,
     "geom:longitude":-116.708832,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"619 Kiser Rd",
     "sg:city":"Caldwell",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":185669791,
-    "wof:lastmodified":1449006789,
+    "wof:lastmodified":1466487288,
     "wof:name":"Dillon Auto Craft",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "dealer"
     ]
 },
-  "bbox": [-116.708832,43.625738,-116.708832,43.625738],
+  "bbox": [
+    -116.708832,
+    43.625738,
+    -116.708832,
+    43.625738
+],
   "geometry": {"coordinates":[-116.708832,43.625738],"type":"Point"}
 }

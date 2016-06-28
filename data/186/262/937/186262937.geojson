@@ -2,13 +2,14 @@
   "id": 186262937,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.357657,43.196734,-112.357657,43.196734",
     "geom:latitude":43.196734,
     "geom:longitude":-112.357657,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1180 Parkway Dr",
     "sg:city":"Blackfoot",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":186262937,
-    "wof:lastmodified":1449052026,
+    "wof:lastmodified":1466488525,
     "wof:name":"Simpson Dental Offices",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "dentist"
     ]
 },
-  "bbox": [-112.357657,43.196734,-112.357657,43.196734],
+  "bbox": [
+    -112.357657,
+    43.196734,
+    -112.357657,
+    43.196734
+],
   "geometry": {"coordinates":[-112.357657,43.196734],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186326421,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.190922,43.594977,-116.190922,43.594977",
     "geom:latitude":43.594977,
     "geom:longitude":-116.190922,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1430 Leadville Ave",
     "sg:city":"Boise",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186326421,
-    "wof:lastmodified":1449051517,
+    "wof:lastmodified":1466488640,
     "wof:name":"Hulls Gulch Brewing Co",
     "wof:parent_id":85876345,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "brewer"
     ]
 },
-  "bbox": [-116.190922,43.594977,-116.190922,43.594977],
+  "bbox": [
+    -116.190922,
+    43.594977,
+    -116.190922,
+    43.594977
+],
   "geometry": {"coordinates":[-116.190922,43.594977],"type":"Point"}
 }

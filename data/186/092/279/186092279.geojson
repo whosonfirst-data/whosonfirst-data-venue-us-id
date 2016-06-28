@@ -2,13 +2,14 @@
   "id": 186092279,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.411033,42.81251,-112.411033,42.81251",
     "geom:latitude":42.81251,
     "geom:longitude":-112.411033,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1134 Cedar Hollow",
     "sg:city":"Pocatello",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":186092279,
-    "wof:lastmodified":1449052507,
+    "wof:lastmodified":1466487782,
     "wof:name":"RAS Productions",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "counselor"
     ]
 },
-  "bbox": [-112.411033,42.81251,-112.411033,42.81251],
+  "bbox": [
+    -112.411033,
+    42.81251,
+    -112.411033,
+    42.81251
+],
   "geometry": {"coordinates":[-112.411033,42.81251],"type":"Point"}
 }

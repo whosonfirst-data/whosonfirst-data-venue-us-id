@@ -2,13 +2,14 @@
   "id": 186521659,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.601643,42.656921,-111.601643,42.656921",
     "geom:latitude":42.656921,
     "geom:longitude":-111.601643,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"45 E 1st St S",
     "sg:city":"Soda Springs",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186521659,
-    "wof:lastmodified":1449052905,
+    "wof:lastmodified":1466488927,
     "wof:name":"Sweers Small Engine Repair",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "mfg"
     ]
 },
-  "bbox": [-111.601643,42.656921,-111.601643,42.656921],
+  "bbox": [
+    -111.601643,
+    42.656921,
+    -111.601643,
+    42.656921
+],
   "geometry": {"coordinates":[-111.601643,42.656921],"type":"Point"}
 }

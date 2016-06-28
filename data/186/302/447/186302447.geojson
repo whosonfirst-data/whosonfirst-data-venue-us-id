@@ -2,13 +2,14 @@
   "id": 186302447,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.913029,48.182059,-116.913029,48.182059",
     "geom:latitude":48.182059,
     "geom:longitude":-116.913029,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"618 Jackson Ave",
     "sg:city":"Priest River",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":186302447,
-    "wof:lastmodified":1449051291,
+    "wof:lastmodified":1466488673,
     "wof:name":"7th & Jackson Street Salon",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-116.913029,48.182059,-116.913029,48.182059],
-  "geometry": {"coordinates":[-116.913029,48.182059],"type":"Point"}
+  "bbox": [
+    -116.913029,
+    48.182059,
+    -116.913029,
+    48.182059
+],
+  "geometry": {"coordinates":[-116.91302899999999,48.182059],"type":"Point"}
 }

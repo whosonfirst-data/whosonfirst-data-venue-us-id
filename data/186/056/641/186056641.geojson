@@ -2,13 +2,14 @@
   "id": 186056641,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.208807,43.611903,-116.208807,43.611903",
     "geom:latitude":43.611903,
     "geom:longitude":-116.208807,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"600 S 9th St",
     "sg:city":"Boise",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":186056641,
-    "wof:lastmodified":1449051141,
+    "wof:lastmodified":1466487390,
     "wof:name":"Fire Science Systems Inc",
     "wof:parent_id":85876325,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "protection"
     ]
 },
-  "bbox": [-116.208807,43.611903,-116.208807,43.611903],
-  "geometry": {"coordinates":[-116.208807,43.611903],"type":"Point"}
+  "bbox": [
+    -116.208807,
+    43.611903,
+    -116.208807,
+    43.611903
+],
+  "geometry": {"coordinates":[-116.20880699999999,43.611903],"type":"Point"}
 }

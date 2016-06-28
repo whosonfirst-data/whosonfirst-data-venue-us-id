@@ -2,13 +2,14 @@
   "id": 185970377,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.593228,43.595583,-116.593228,43.595583",
     "geom:latitude":43.595583,
     "geom:longitude":-116.593228,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1253 N Midland Blvd",
     "sg:city":"Nampa",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":185970377,
-    "wof:lastmodified":1449008162,
+    "wof:lastmodified":1466488702,
     "wof:name":"Action Restoration Specialists",
     "wof:parent_id":85827787,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "damage"
     ]
 },
-  "bbox": [-116.593228,43.595583,-116.593228,43.595583],
+  "bbox": [
+    -116.593228,
+    43.595583,
+    -116.593228,
+    43.595583
+],
   "geometry": {"coordinates":[-116.593228,43.595583],"type":"Point"}
 }

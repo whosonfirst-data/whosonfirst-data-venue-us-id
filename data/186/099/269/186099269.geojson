@@ -2,13 +2,14 @@
   "id": 186099269,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.632967,46.826868,-116.632967,46.826868",
     "geom:latitude":46.826868,
     "geom:longitude":-116.632967,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1575 State Hwy 9",
     "sg:city":"Deary",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":186099269,
-    "wof:lastmodified":1449052119,
+    "wof:lastmodified":1466487854,
     "wof:name":"Deverich Farm",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "general"
     ]
 },
-  "bbox": [-116.632967,46.826868,-116.632967,46.826868],
-  "geometry": {"coordinates":[-116.632967,46.826868],"type":"Point"}
+  "bbox": [
+    -116.632967,
+    46.826868,
+    -116.632967,
+    46.826868
+],
+  "geometry": {"coordinates":[-116.63296699999999,46.826868],"type":"Point"}
 }

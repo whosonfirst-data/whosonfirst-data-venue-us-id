@@ -2,13 +2,14 @@
   "id": 169866471,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.036983,43.490479,-112.036983,43.490479",
     "geom:latitude":43.490479,
     "geom:longitude":-112.036983,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"237 N Water Ave",
     "sg:city":"Idaho Falls",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":169866471,
-    "wof:lastmodified":1449034249,
+    "wof:lastmodified":1466488638,
     "wof:name":"Trinity United Methodist Chr",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-112.036983,43.490479,-112.036983,43.490479],
-  "geometry": {"coordinates":[-112.036983,43.490479],"type":"Point"}
+  "bbox": [
+    -112.036983,
+    43.490479,
+    -112.036983,
+    43.490479
+],
+  "geometry": {"coordinates":[-112.03698300000001,43.490479],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169744745,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.333496,43.955668,-116.333496,43.955668",
     "geom:latitude":43.955668,
     "geom:longitude":-116.333496,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6600 Sweet Ola Hwy",
     "sg:city":"Sweet",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":169744745,
-    "wof:lastmodified":1449033880,
+    "wof:lastmodified":1466488496,
     "wof:name":"Sweet-Montour School",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-116.333496,43.955668,-116.333496,43.955668],
+  "bbox": [
+    -116.333496,
+    43.955668,
+    -116.333496,
+    43.955668
+],
   "geometry": {"coordinates":[-116.333496,43.955668],"type":"Point"}
 }

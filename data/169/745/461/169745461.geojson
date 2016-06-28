@@ -2,13 +2,14 @@
   "id": 169745461,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.825221,47.759224,-116.825221,47.759224",
     "geom:latitude":47.759224,
     "geom:longitude":-116.825221,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2795 W Hayden Ave",
     "sg:city":"Hayden",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":169745461,
-    "wof:lastmodified":1449035812,
+    "wof:lastmodified":1466488397,
     "wof:name":"Hayden Avenue Boat & Rv STGE",
     "wof:parent_id":85821457,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "storage"
     ]
 },
-  "bbox": [-116.825221,47.759224,-116.825221,47.759224],
+  "bbox": [
+    -116.825221,
+    47.759224,
+    -116.825221,
+    47.759224
+],
   "geometry": {"coordinates":[-116.825221,47.759224],"type":"Point"}
 }

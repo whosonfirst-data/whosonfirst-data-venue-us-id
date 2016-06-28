@@ -2,13 +2,14 @@
   "id": 186462877,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.252512,43.563898,-116.252512,43.563898",
     "geom:latitude":43.563898,
     "geom:longitude":-116.252512,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5690 Albatros St",
     "sg:city":"Boise",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":186462877,
-    "wof:lastmodified":1449052938,
+    "wof:lastmodified":1466488886,
     "wof:name":"Sheet Metal Workers Local 213",
     "wof:parent_id":85825393,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-116.252512,43.563898,-116.252512,43.563898],
+  "bbox": [
+    -116.252512,
+    43.563898,
+    -116.252512,
+    43.563898
+],
   "geometry": {"coordinates":[-116.252512,43.563898],"type":"Point"}
 }

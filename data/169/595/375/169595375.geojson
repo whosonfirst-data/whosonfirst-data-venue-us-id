@@ -2,13 +2,14 @@
   "id": 169595375,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.347513,43.575679,-116.347513,43.575679",
     "geom:latitude":43.575679,
     "geom:longitude":-116.347513,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3745 E Victory Rd",
     "sg:city":"Meridian",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":169595375,
-    "wof:lastmodified":1449035636,
+    "wof:lastmodified":1466487371,
     "wof:name":"Premier Truck Lines",
     "wof:parent_id":85876331,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "truck"
     ]
 },
-  "bbox": [-116.347513,43.575679,-116.347513,43.575679],
-  "geometry": {"coordinates":[-116.347513,43.575679],"type":"Point"}
+  "bbox": [
+    -116.347513,
+    43.575679,
+    -116.347513,
+    43.575679
+],
+  "geometry": {"coordinates":[-116.34751300000001,43.575679],"type":"Point"}
 }

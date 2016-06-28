@@ -2,13 +2,14 @@
   "id": 169643303,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.600663,43.6036,-116.600663,43.6036",
     "geom:latitude":43.6036,
     "geom:longitude":-116.600663,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1509 Caldwell Blvd",
     "sg:city":"Nampa",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":169643303,
-    "wof:lastmodified":1449035522,
+    "wof:lastmodified":1466487485,
     "wof:name":"Pretzel Time",
     "wof:parent_id":85827787,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "pretzel"
     ]
 },
-  "bbox": [-116.600663,43.6036,-116.600663,43.6036],
+  "bbox": [
+    -116.600663,
+    43.6036,
+    -116.600663,
+    43.6036
+],
   "geometry": {"coordinates":[-116.600663,43.6036],"type":"Point"}
 }

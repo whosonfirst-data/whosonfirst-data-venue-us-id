@@ -2,13 +2,14 @@
   "id": 185726971,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.354693,43.687839,-116.354693,43.687839",
     "geom:latitude":43.687839,
     "geom:longitude":-116.354693,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"661 S Rivershore Ln",
     "sg:city":"Eagle",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":185726971,
-    "wof:lastmodified":1449007690,
+    "wof:lastmodified":1466487738,
     "wof:name":"Vision First",
     "wof:parent_id":85876351,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-116.354693,43.687839,-116.354693,43.687839],
+  "bbox": [
+    -116.354693,
+    43.687839,
+    -116.354693,
+    43.687839
+],
   "geometry": {"coordinates":[-116.354693,43.687839],"type":"Point"}
 }

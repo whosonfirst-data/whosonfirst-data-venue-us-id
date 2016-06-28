@@ -2,13 +2,14 @@
   "id": 186316865,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.365831,43.677877,-114.365831,43.677877",
     "geom:latitude":43.677877,
     "geom:longitude":-114.365831,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"160 2nd Ave",
     "sg:city":"Ketchum",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":186316865,
-    "wof:lastmodified":1449052191,
+    "wof:lastmodified":1466488698,
     "wof:name":"Royal Tropics",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "diet"
     ]
 },
-  "bbox": [-114.365831,43.677877,-114.365831,43.677877],
+  "bbox": [
+    -114.365831,
+    43.677877,
+    -114.365831,
+    43.677877
+],
   "geometry": {"coordinates":[-114.365831,43.677877],"type":"Point"}
 }

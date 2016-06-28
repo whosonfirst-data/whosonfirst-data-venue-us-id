@@ -2,13 +2,14 @@
   "id": 185976947,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.566254,48.272967,-116.566254,48.272967",
     "geom:latitude":48.272967,
     "geom:longitude":-116.566254,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1325 Pine St",
     "sg:city":"Sandpoint",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":185976947,
-    "wof:lastmodified":1449007271,
+    "wof:lastmodified":1466488814,
     "wof:name":"VFW Post 2453",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-116.566254,48.272967,-116.566254,48.272967],
+  "bbox": [
+    -116.566254,
+    48.272967,
+    -116.566254,
+    48.272967
+],
   "geometry": {"coordinates":[-116.566254,48.272967],"type":"Point"}
 }

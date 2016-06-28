@@ -2,13 +2,14 @@
   "id": 185859331,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.679281,43.64077,-116.679281,43.64077",
     "geom:latitude":43.64077,
     "geom:longitude":-116.679281,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3304 Iowa Ave",
     "sg:city":"Caldwell",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":185859331,
-    "wof:lastmodified":1449007744,
+    "wof:lastmodified":1466488390,
     "wof:name":"Tony Elordi",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-116.679281,43.64077,-116.679281,43.64077],
+  "bbox": [
+    -116.679281,
+    43.64077,
+    -116.679281,
+    43.64077
+],
   "geometry": {"coordinates":[-116.679281,43.64077],"type":"Point"}
 }

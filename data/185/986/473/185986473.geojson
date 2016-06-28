@@ -2,13 +2,14 @@
   "id": 185986473,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.943363,47.716862,-116.943363,47.716862",
     "geom:latitude":47.716862,
     "geom:longitude":-116.943363,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"810 N Henry St",
     "sg:city":"Post Falls",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":185986473,
-    "wof:lastmodified":1449007911,
+    "wof:lastmodified":1466488831,
     "wof:name":"Pulver Invstigations Polygraph",
     "wof:parent_id":85833263,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "car"
     ]
 },
-  "bbox": [-116.943363,47.716862,-116.943363,47.716862],
-  "geometry": {"coordinates":[-116.943363,47.716862],"type":"Point"}
+  "bbox": [
+    -116.943363,
+    47.716862,
+    -116.943363,
+    47.716862
+],
+  "geometry": {"coordinates":[-116.94336300000001,47.716862],"type":"Point"}
 }

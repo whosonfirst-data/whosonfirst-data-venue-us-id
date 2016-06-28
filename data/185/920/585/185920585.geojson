@@ -2,13 +2,14 @@
   "id": 185920585,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.446369,43.886426,-116.446369,43.886426",
     "geom:latitude":43.886426,
     "geom:longitude":-116.446369,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3700 Waterwheel Rd",
     "sg:city":"Emmett",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":185920585,
-    "wof:lastmodified":1449007868,
+    "wof:lastmodified":1466488513,
     "wof:name":"Waterwheel Gardens",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-116.446369,43.886426,-116.446369,43.886426],
+  "bbox": [
+    -116.446369,
+    43.886426,
+    -116.446369,
+    43.886426
+],
   "geometry": {"coordinates":[-116.446369,43.886426],"type":"Point"}
 }

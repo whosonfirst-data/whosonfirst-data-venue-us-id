@@ -2,13 +2,14 @@
   "id": 185985337,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.327923,43.624138,-116.327923,43.624138",
     "geom:latitude":43.624138,
     "geom:longitude":-116.327923,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2204 N Cribbens St",
     "sg:city":"Boise",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":185985337,
-    "wof:lastmodified":1449007425,
+    "wof:lastmodified":1466488672,
     "wof:name":"Arneys Construction & Rmdlg",
     "wof:parent_id":85811491,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "house"
     ]
 },
-  "bbox": [-116.327923,43.624138,-116.327923,43.624138],
+  "bbox": [
+    -116.327923,
+    43.624138,
+    -116.327923,
+    43.624138
+],
   "geometry": {"coordinates":[-116.327923,43.624138],"type":"Point"}
 }

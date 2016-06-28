@@ -2,13 +2,14 @@
   "id": 186499991,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.088423,44.844329,-116.088423,44.844329",
     "geom:latitude":44.844329,
     "geom:longitude":-116.088423,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"13876 State Hwy 55",
     "sg:city":"Mccall",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":186499991,
-    "wof:lastmodified":1449050915,
+    "wof:lastmodified":1466488913,
     "wof:name":"Robertson Supply Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "supply"
     ]
 },
-  "bbox": [-116.088423,44.844329,-116.088423,44.844329],
-  "geometry": {"coordinates":[-116.088423,44.844329],"type":"Point"}
+  "bbox": [
+    -116.088423,
+    44.844329,
+    -116.088423,
+    44.844329
+],
+  "geometry": {"coordinates":[-116.08842300000001,44.844329],"type":"Point"}
 }

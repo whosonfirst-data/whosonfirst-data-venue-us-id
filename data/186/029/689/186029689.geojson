@@ -2,13 +2,14 @@
   "id": 186029689,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.913742,44.010934,-116.913742,44.010934",
     "geom:latitude":44.010934,
     "geom:longitude":-116.913742,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"100 E 1st St",
     "sg:city":"Fruitland",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186029689,
-    "wof:lastmodified":1449051509,
+    "wof:lastmodified":1466487076,
     "wof:name":"W Valley Free Methodist Church",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-116.913742,44.010934,-116.913742,44.010934],
+  "bbox": [
+    -116.913742,
+    44.010934,
+    -116.913742,
+    44.010934
+],
   "geometry": {"coordinates":[-116.913742,44.010934],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186274397,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.566762,47.314192,-116.566762,47.314192",
     "geom:latitude":47.314192,
     "geom:longitude":-116.566762,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"711 W Jefferson Ave",
     "sg:city":"St Maries",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":186274397,
-    "wof:lastmodified":1449050593,
+    "wof:lastmodified":1466488637,
     "wof:name":"Benewah Cnty Public Hlth Dept",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-116.566762,47.314192,-116.566762,47.314192],
+  "bbox": [
+    -116.566762,
+    47.314192,
+    -116.566762,
+    47.314192
+],
   "geometry": {"coordinates":[-116.566762,47.314192],"type":"Point"}
 }

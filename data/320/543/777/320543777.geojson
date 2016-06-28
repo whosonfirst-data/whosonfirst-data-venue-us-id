@@ -2,13 +2,14 @@
   "id": 320543777,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.144275,43.560518,-116.144275,43.560518",
     "geom:latitude":43.560518,
     "geom:longitude":-116.144275,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3236 E Amity Rd",
     "sg:city":"Boise",
     "sg:classifiers":[
@@ -55,10 +56,11 @@
         }
     ],
     "wof:id":320543777,
-    "wof:lastmodified":1449011987,
+    "wof:lastmodified":1466486975,
     "wof:name":"Maaco - Boise",
     "wof:parent_id":85876329,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -68,6 +70,11 @@
         "repairing"
     ]
 },
-  "bbox": [-116.144275,43.560518,-116.144275,43.560518],
-  "geometry": {"coordinates":[-116.144275,43.560518],"type":"Point"}
+  "bbox": [
+    -116.144275,
+    43.560518,
+    -116.144275,
+    43.560518
+],
+  "geometry": {"coordinates":[-116.14427499999999,43.560518],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 185994723,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.149599,43.373413,-112.149599,43.373413",
     "geom:latitude":43.373413,
     "geom:longitude":-112.149599,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"671 E 1275 N",
     "sg:city":"Shelley",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":185994723,
-    "wof:lastmodified":1449006659,
+    "wof:lastmodified":1466488747,
     "wof:name":"Grover Construction Co Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "company"
     ]
 },
-  "bbox": [-112.149599,43.373413,-112.149599,43.373413],
-  "geometry": {"coordinates":[-112.149599,43.373413],"type":"Point"}
+  "bbox": [
+    -112.149599,
+    43.373413,
+    -112.149599,
+    43.373413
+],
+  "geometry": {"coordinates":[-112.14959899999999,43.373413],"type":"Point"}
 }

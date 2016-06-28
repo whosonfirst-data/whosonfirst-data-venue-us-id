@@ -2,13 +2,14 @@
   "id": 186297167,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.336577,43.707039,-116.336577,43.707039",
     "geom:latitude":43.707039,
     "geom:longitude":-116.336577,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1441 E Prohaska Ct",
     "sg:city":"Eagle",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":186297167,
-    "wof:lastmodified":1449052082,
+    "wof:lastmodified":1466488668,
     "wof:name":"Trevalley Ad Service",
     "wof:parent_id":85876315,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-116.336577,43.707039,-116.336577,43.707039],
-  "geometry": {"coordinates":[-116.336577,43.707039],"type":"Point"}
+  "bbox": [
+    -116.336577,
+    43.707039,
+    -116.336577,
+    43.707039
+],
+  "geometry": {"coordinates":[-116.33657700000001,43.707039],"type":"Point"}
 }

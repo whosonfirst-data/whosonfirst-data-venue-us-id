@@ -2,13 +2,14 @@
   "id": 169668993,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.121284,45.932222,-116.121284,45.932222",
     "geom:latitude":45.932222,
     "geom:longitude":-116.121284,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"313 Cunningham St",
     "sg:city":"Grangeville",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":169668993,
-    "wof:lastmodified":1449034989,
+    "wof:lastmodified":1466487866,
     "wof:name":"Dave Obrien",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "forest"
     ]
 },
-  "bbox": [-116.121284,45.932222,-116.121284,45.932222],
+  "bbox": [
+    -116.121284,
+    45.932222,
+    -116.121284,
+    45.932222
+],
   "geometry": {"coordinates":[-116.121284,45.932222],"type":"Point"}
 }

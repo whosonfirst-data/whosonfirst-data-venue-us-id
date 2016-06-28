@@ -2,13 +2,14 @@
   "id": 186114165,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.25318,43.613368,-116.25318,43.613368",
     "geom:latitude":43.613368,
     "geom:longitude":-116.25318,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5475 Gage St",
     "sg:city":"Boise",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186114165,
-    "wof:lastmodified":1449051496,
+    "wof:lastmodified":1466488006,
     "wof:name":"Tmco Inc",
     "wof:parent_id":85876311,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "establishment"
     ]
 },
-  "bbox": [-116.25318,43.613368,-116.25318,43.613368],
+  "bbox": [
+    -116.25318,
+    43.613368,
+    -116.25318,
+    43.613368
+],
   "geometry": {"coordinates":[-116.25318,43.613368],"type":"Point"}
 }

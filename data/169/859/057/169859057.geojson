@@ -2,13 +2,14 @@
   "id": 169859057,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.266707,43.590095,-116.266707,43.590095",
     "geom:latitude":43.590095,
     "geom:longitude":-116.266707,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6627 Overland Rd",
     "sg:city":"Boise",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":169859057,
-    "wof:lastmodified":1449035044,
+    "wof:lastmodified":1466488545,
     "wof:name":"Sport Shoppe",
     "wof:parent_id":85876293,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-116.266707,43.590095,-116.266707,43.590095],
+  "bbox": [
+    -116.266707,
+    43.590095,
+    -116.266707,
+    43.590095
+],
   "geometry": {"coordinates":[-116.266707,43.590095],"type":"Point"}
 }

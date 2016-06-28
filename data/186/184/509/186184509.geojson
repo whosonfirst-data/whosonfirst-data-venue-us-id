@@ -2,13 +2,14 @@
   "id": 186184509,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.532112,46.773153,-116.532112,46.773153",
     "geom:latitude":46.773153,
     "geom:longitude":-116.532112,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1100 Harris Rd",
     "sg:city":"Deary",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":186184509,
-    "wof:lastmodified":1449050865,
+    "wof:lastmodified":1466488461,
     "wof:name":"D & D Excavation",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "contractor"
     ]
 },
-  "bbox": [-116.532112,46.773153,-116.532112,46.773153],
+  "bbox": [
+    -116.532112,
+    46.773153,
+    -116.532112,
+    46.773153
+],
   "geometry": {"coordinates":[-116.532112,46.773153],"type":"Point"}
 }

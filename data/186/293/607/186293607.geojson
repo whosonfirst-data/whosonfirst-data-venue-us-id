@@ -2,13 +2,14 @@
   "id": 186293607,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.772137,47.677378,-116.772137,47.677378",
     "geom:latitude":47.677378,
     "geom:longitude":-116.772137,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1016 E Garden Ave",
     "sg:city":"Coeur D Alene",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":186293607,
-    "wof:lastmodified":1449050933,
+    "wof:lastmodified":1466488729,
     "wof:name":"Parsons Painting",
     "wof:parent_id":85821457,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "contractor"
     ]
 },
-  "bbox": [-116.772137,47.677378,-116.772137,47.677378],
+  "bbox": [
+    -116.772137,
+    47.677378,
+    -116.772137,
+    47.677378
+],
   "geometry": {"coordinates":[-116.772137,47.677378],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186369303,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.612723,43.730959,-116.612723,43.730959",
     "geom:latitude":43.730959,
     "geom:longitude":-116.612723,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"24625 Middleton Rd",
     "sg:city":"Middleton",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":186369303,
-    "wof:lastmodified":1449052901,
+    "wof:lastmodified":1466488760,
     "wof:name":"Dwd Trucking Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "trucking"
     ]
 },
-  "bbox": [-116.612723,43.730959,-116.612723,43.730959],
+  "bbox": [
+    -116.612723,
+    43.730959,
+    -116.612723,
+    43.730959
+],
   "geometry": {"coordinates":[-116.612723,43.730959],"type":"Point"}
 }

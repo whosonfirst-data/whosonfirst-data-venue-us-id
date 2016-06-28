@@ -2,13 +2,14 @@
   "id": 169832981,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.914146,44.071276,-116.914146,44.071276",
     "geom:latitude":44.071276,
     "geom:longitude":-116.914146,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"465 Farber Dr",
     "sg:city":"Payette",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":169832981,
-    "wof:lastmodified":1449032706,
+    "wof:lastmodified":1466488595,
     "wof:name":"Jim L Miller Roofing & Cnstr",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "general"
     ]
 },
-  "bbox": [-116.914146,44.071276,-116.914146,44.071276],
+  "bbox": [
+    -116.914146,
+    44.071276,
+    -116.914146,
+    44.071276
+],
   "geometry": {"coordinates":[-116.914146,44.071276],"type":"Point"}
 }

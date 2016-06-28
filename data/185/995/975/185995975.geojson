@@ -2,13 +2,14 @@
   "id": 185995975,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.267684,43.468008,-114.267684,43.468008",
     "geom:latitude":43.468008,
     "geom:longitude":-114.267684,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"403 Broadford Rd",
     "sg:city":"Hailey",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":185995975,
-    "wof:lastmodified":1449008046,
+    "wof:lastmodified":1466488750,
     "wof:name":"Baseline Real Estate",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-114.267684,43.468008,-114.267684,43.468008],
+  "bbox": [
+    -114.267684,
+    43.468008,
+    -114.267684,
+    43.468008
+],
   "geometry": {"coordinates":[-114.267684,43.468008],"type":"Point"}
 }

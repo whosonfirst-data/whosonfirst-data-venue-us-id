@@ -2,13 +2,14 @@
   "id": 169761101,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.372981,43.699138,-114.372981,43.699138",
     "geom:latitude":43.699138,
     "geom:longitude":-114.372981,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"105 Sheep Meadow Ln",
     "sg:city":"Ketchum",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":169761101,
-    "wof:lastmodified":1449035178,
+    "wof:lastmodified":1466488437,
     "wof:name":"Grossman Co Properties",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-114.372981,43.699138,-114.372981,43.699138],
+  "bbox": [
+    -114.372981,
+    43.699138,
+    -114.372981,
+    43.699138
+],
   "geometry": {"coordinates":[-114.372981,43.699138],"type":"Point"}
 }

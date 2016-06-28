@@ -2,13 +2,14 @@
   "id": 169783867,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.890585,44.161218,-116.890585,44.161218",
     "geom:latitude":44.161218,
     "geom:longitude":-116.890585,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"19 US Hwy 95",
     "sg:city":"Payette",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":169783867,
-    "wof:lastmodified":1449032794,
+    "wof:lastmodified":1466488472,
     "wof:name":"Riverside Rv Park",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "vehicle"
     ]
 },
-  "bbox": [-116.890585,44.161218,-116.890585,44.161218],
+  "bbox": [
+    -116.890585,
+    44.161218,
+    -116.890585,
+    44.161218
+],
   "geometry": {"coordinates":[-116.890585,44.161218],"type":"Point"}
 }

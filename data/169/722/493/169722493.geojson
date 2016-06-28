@@ -2,13 +2,14 @@
   "id": 169722493,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.969863,44.246325,-116.969863,44.246325",
     "geom:latitude":44.246325,
     "geom:longitude":-116.969863,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1 E Main St",
     "sg:city":"Weiser",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":169722493,
-    "wof:lastmodified":1449033845,
+    "wof:lastmodified":1466488214,
     "wof:name":"Golden Horse Restaurants",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-116.969863,44.246325,-116.969863,44.246325],
+  "bbox": [
+    -116.969863,
+    44.246325,
+    -116.969863,
+    44.246325
+],
   "geometry": {"coordinates":[-116.969863,44.246325],"type":"Point"}
 }

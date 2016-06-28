@@ -2,13 +2,14 @@
   "id": 186553975,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.596396,47.116214,-116.596396,47.116214",
     "geom:latitude":47.116214,
     "geom:longitude":-116.596396,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"131 S Main Ave",
     "sg:city":"Saint Maries",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":186553975,
-    "wof:lastmodified":1449050273,
+    "wof:lastmodified":1466488894,
     "wof:name":"Petrie Enterprises",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "general"
     ]
 },
-  "bbox": [-116.596396,47.116214,-116.596396,47.116214],
+  "bbox": [
+    -116.596396,
+    47.116214,
+    -116.596396,
+    47.116214
+],
   "geometry": {"coordinates":[-116.596396,47.116214],"type":"Point"}
 }

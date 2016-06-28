@@ -2,13 +2,14 @@
   "id": 169601987,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.786653,47.738807,-116.786653,47.738807",
     "geom:latitude":47.738807,
     "geom:longitude":-116.786653,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7352 N Government Way",
     "sg:city":"Dalton Gardens",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":169601987,
-    "wof:lastmodified":1449034148,
+    "wof:lastmodified":1466488338,
     "wof:name":"Kootenai Kids Teaching Supls",
     "wof:parent_id":85821457,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "material"
     ]
 },
-  "bbox": [-116.786653,47.738807,-116.786653,47.738807],
+  "bbox": [
+    -116.786653,
+    47.738807,
+    -116.786653,
+    47.738807
+],
   "geometry": {"coordinates":[-116.786653,47.738807],"type":"Point"}
 }

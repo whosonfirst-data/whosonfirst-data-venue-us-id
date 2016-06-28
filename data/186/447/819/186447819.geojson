@@ -2,13 +2,14 @@
   "id": 186447819,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.938931,47.731207,-116.938931,47.731207",
     "geom:latitude":47.731207,
     "geom:longitude":-116.938931,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2670 N Sand Trap Way",
     "sg:city":"Post Falls",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":186447819,
-    "wof:lastmodified":1449052243,
+    "wof:lastmodified":1466488721,
     "wof:name":"Dukarts Repair",
     "wof:parent_id":85833263,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-116.938931,47.731207,-116.938931,47.731207],
+  "bbox": [
+    -116.938931,
+    47.731207,
+    -116.938931,
+    47.731207
+],
   "geometry": {"coordinates":[-116.938931,47.731207],"type":"Point"}
 }

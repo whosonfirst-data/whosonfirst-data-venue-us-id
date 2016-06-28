@@ -2,13 +2,14 @@
   "id": 186387289,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.186998,43.609133,-116.186998,43.609133",
     "geom:latitude":43.609133,
     "geom:longitude":-116.186998,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"760 Warm Springs Ave",
     "sg:city":"Boise",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186387289,
-    "wof:lastmodified":1449052655,
+    "wof:lastmodified":1466488775,
     "wof:name":"QVIUS Healing Arts Ctr",
     "wof:parent_id":85876345,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "homeopath"
     ]
 },
-  "bbox": [-116.186998,43.609133,-116.186998,43.609133],
+  "bbox": [
+    -116.186998,
+    43.609133,
+    -116.186998,
+    43.609133
+],
   "geometry": {"coordinates":[-116.186998,43.609133],"type":"Point"}
 }

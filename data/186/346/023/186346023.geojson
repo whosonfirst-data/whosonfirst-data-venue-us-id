@@ -2,13 +2,14 @@
   "id": 186346023,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.881894,47.706389,-116.881894,47.706389",
     "geom:latitude":47.706389,
     "geom:longitude":-116.881894,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5271 E Seltice Way",
     "sg:city":"Post Falls",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":186346023,
-    "wof:lastmodified":1449050242,
+    "wof:lastmodified":1466488828,
     "wof:name":"Kootenai County Fire & Rescue",
     "wof:parent_id":85821457,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "protection"
     ]
 },
-  "bbox": [-116.881894,47.706389,-116.881894,47.706389],
+  "bbox": [
+    -116.881894,
+    47.706389,
+    -116.881894,
+    47.706389
+],
   "geometry": {"coordinates":[-116.881894,47.706389],"type":"Point"}
 }

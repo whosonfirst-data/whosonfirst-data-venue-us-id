@@ -2,13 +2,14 @@
   "id": 169698727,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.94833,46.719678,-116.94833,46.719678",
     "geom:latitude":46.719678,
     "geom:longitude":-116.94833,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1700 Mill Rd",
     "sg:city":"Moscow",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":169698727,
-    "wof:lastmodified":1449035754,
+    "wof:lastmodified":1466488009,
     "wof:name":"Moscow Mini Storage",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "storage"
     ]
 },
-  "bbox": [-116.94833,46.719678,-116.94833,46.719678],
+  "bbox": [
+    -116.94833,
+    46.719678,
+    -116.94833,
+    46.719678
+],
   "geometry": {"coordinates":[-116.94833,46.719678],"type":"Point"}
 }

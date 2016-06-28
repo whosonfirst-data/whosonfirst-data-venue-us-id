@@ -2,13 +2,14 @@
   "id": 186515461,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.698327,47.969806,-116.698327,47.969806",
     "geom:latitude":47.969806,
     "geom:longitude":-116.698327,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"35184 US Hwy 95",
     "sg:city":"Athol",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":186515461,
-    "wof:lastmodified":1449051022,
+    "wof:lastmodified":1466488923,
     "wof:name":"Panhandle Siding LTD",
     "wof:parent_id":85821457,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "contractor"
     ]
 },
-  "bbox": [-116.698327,47.969806,-116.698327,47.969806],
-  "geometry": {"coordinates":[-116.698327,47.969806],"type":"Point"}
+  "bbox": [
+    -116.698327,
+    47.969806,
+    -116.698327,
+    47.969806
+],
+  "geometry": {"coordinates":[-116.69832700000001,47.969806],"type":"Point"}
 }

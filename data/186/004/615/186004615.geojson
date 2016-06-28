@@ -2,13 +2,14 @@
   "id": 186004615,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-113.896345,45.176461,-113.896345,45.176461",
     "geom:latitude":45.176461,
     "geom:longitude":-113.896345,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"111 S Terrace St",
     "sg:city":"Salmon",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":186004615,
-    "wof:lastmodified":1449051365,
+    "wof:lastmodified":1466488176,
     "wof:name":"Salmon River Lodge Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "resort"
     ]
 },
-  "bbox": [-113.896345,45.176461,-113.896345,45.176461],
+  "bbox": [
+    -113.896345,
+    45.176461,
+    -113.896345,
+    45.176461
+],
   "geometry": {"coordinates":[-113.896345,45.176461],"type":"Point"}
 }

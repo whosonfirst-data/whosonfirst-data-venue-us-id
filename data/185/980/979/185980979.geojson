@@ -2,13 +2,14 @@
   "id": 185980979,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-113.888166,45.176473,-113.888166,45.176473",
     "geom:latitude":45.176473,
     "geom:longitude":-113.888166,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"217 N Daisy St",
     "sg:city":"Salmon",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":185980979,
-    "wof:lastmodified":1449006713,
+    "wof:lastmodified":1466488720,
     "wof:name":"Westfall Logging Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "logging"
     ]
 },
-  "bbox": [-113.888166,45.176473,-113.888166,45.176473],
+  "bbox": [
+    -113.888166,
+    45.176473,
+    -113.888166,
+    45.176473
+],
   "geometry": {"coordinates":[-113.888166,45.176473],"type":"Point"}
 }

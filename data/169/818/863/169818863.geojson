@@ -2,13 +2,14 @@
   "id": 169818863,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.739722,47.619427,-116.739722,47.619427",
     "geom:latitude":47.619427,
     "geom:longitude":-116.739722,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5879 S Squaw Bay Rd",
     "sg:city":"Harrison",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":169818863,
-    "wof:lastmodified":1449034286,
+    "wof:lastmodified":1466488544,
     "wof:name":"A & B Boat Sales",
     "wof:parent_id":85821457,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-116.739722,47.619427,-116.739722,47.619427],
+  "bbox": [
+    -116.739722,
+    47.619427,
+    -116.739722,
+    47.619427
+],
   "geometry": {"coordinates":[-116.739722,47.619427],"type":"Point"}
 }

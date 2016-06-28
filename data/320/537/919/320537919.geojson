@@ -2,13 +2,14 @@
   "id": 320537919,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.944541,44.085116,-116.944541,44.085116",
     "geom:latitude":44.085116,
     "geom:longitude":-116.944541,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"109 10th Ave N",
     "sg:city":"Payette",
     "sg:classifiers":[
@@ -68,10 +69,11 @@
         }
     ],
     "wof:id":320537919,
-    "wof:lastmodified":1449012176,
+    "wof:lastmodified":1466486862,
     "wof:name":"Rocky Mountain C T R",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -86,6 +88,11 @@
         "carpet"
     ]
 },
-  "bbox": [-116.944541,44.085116,-116.944541,44.085116],
+  "bbox": [
+    -116.944541,
+    44.085116,
+    -116.944541,
+    44.085116
+],
   "geometry": {"coordinates":[-116.944541,44.085116],"type":"Point"}
 }

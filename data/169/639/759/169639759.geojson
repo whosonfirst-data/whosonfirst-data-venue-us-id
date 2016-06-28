@@ -2,13 +2,14 @@
   "id": 169639759,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.320605,43.52634,-114.320605,43.52634",
     "geom:latitude":43.52634,
     "geom:longitude":-114.320605,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"11702 State Hwy 75 Scn",
     "sg:city":"Hailey",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":169639759,
-    "wof:lastmodified":1449035953,
+    "wof:lastmodified":1466487433,
     "wof:name":"Sutton & Sons Auto Ctr",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "truck"
     ]
 },
-  "bbox": [-114.320605,43.52634,-114.320605,43.52634],
+  "bbox": [
+    -114.320605,
+    43.52634,
+    -114.320605,
+    43.52634
+],
   "geometry": {"coordinates":[-114.320605,43.52634],"type":"Point"}
 }

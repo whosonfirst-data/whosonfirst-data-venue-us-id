@@ -2,13 +2,14 @@
   "id": 186479123,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.933123,44.073673,-116.933123,44.073673",
     "geom:latitude":44.073673,
     "geom:longitude":-116.933123,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"934 1st Ave S",
     "sg:city":"Payette",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":186479123,
-    "wof:lastmodified":1449052206,
+    "wof:lastmodified":1466488851,
     "wof:name":"Boerner Agency",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-116.933123,44.073673,-116.933123,44.073673],
-  "geometry": {"coordinates":[-116.933123,44.073673],"type":"Point"}
+  "bbox": [
+    -116.933123,
+    44.073673,
+    -116.933123,
+    44.073673
+],
+  "geometry": {"coordinates":[-116.93312299999999,44.073673],"type":"Point"}
 }

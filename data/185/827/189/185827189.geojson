@@ -2,13 +2,14 @@
   "id": 185827189,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.919451,44.014542,-116.919451,44.014542",
     "geom:latitude":44.014542,
     "geom:longitude":-116.919451,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"305 N Kansas Ave",
     "sg:city":"Fruitland",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":185827189,
-    "wof:lastmodified":1449007168,
+    "wof:lastmodified":1466488410,
     "wof:name":"Terry A Neeley",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "contractor"
     ]
 },
-  "bbox": [-116.919451,44.014542,-116.919451,44.014542],
+  "bbox": [
+    -116.919451,
+    44.014542,
+    -116.919451,
+    44.014542
+],
   "geometry": {"coordinates":[-116.919451,44.014542],"type":"Point"}
 }

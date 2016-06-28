@@ -2,13 +2,14 @@
   "id": 186394353,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.319853,43.527523,-114.319853,43.527523",
     "geom:latitude":43.527523,
     "geom:longitude":-114.319853,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"709 1st Ave N",
     "sg:city":"Hailey",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":186394353,
-    "wof:lastmodified":1449050925,
+    "wof:lastmodified":1466488778,
     "wof:name":"Carrae Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "establishment"
     ]
 },
-  "bbox": [-114.319853,43.527523,-114.319853,43.527523],
-  "geometry": {"coordinates":[-114.319853,43.527523],"type":"Point"}
+  "bbox": [
+    -114.319853,
+    43.527523,
+    -114.319853,
+    43.527523
+],
+  "geometry": {"coordinates":[-114.31985299999999,43.527523],"type":"Point"}
 }

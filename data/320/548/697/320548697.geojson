@@ -2,13 +2,14 @@
   "id": 320548697,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-117.013026,46.721117,-117.013026,46.721117",
     "geom:latitude":46.721117,
     "geom:longitude":-117.013026,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1350 Walenta Dr",
     "sg:city":"Moscow",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":320548697,
-    "wof:lastmodified":1449013854,
+    "wof:lastmodified":1466487026,
     "wof:name":"J H Payne",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "merchandising"
     ]
 },
-  "bbox": [-117.013026,46.721117,-117.013026,46.721117],
+  "bbox": [
+    -117.013026,
+    46.721117,
+    -117.013026,
+    46.721117
+],
   "geometry": {"coordinates":[-117.013026,46.721117],"type":"Point"}
 }

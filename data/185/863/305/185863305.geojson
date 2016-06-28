@@ -2,13 +2,14 @@
   "id": 185863305,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.487558,43.875729,-116.487558,43.875729",
     "geom:latitude":43.875729,
     "geom:longitude":-116.487558,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1008 E Main St",
     "sg:city":"Emmett",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":185863305,
-    "wof:lastmodified":1449007699,
+    "wof:lastmodified":1466488566,
     "wof:name":"River Bend Park Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-116.487558,43.875729,-116.487558,43.875729],
-  "geometry": {"coordinates":[-116.487558,43.875729],"type":"Point"}
+  "bbox": [
+    -116.487558,
+    43.875729,
+    -116.487558,
+    43.875729
+],
+  "geometry": {"coordinates":[-116.48755800000001,43.875729],"type":"Point"}
 }

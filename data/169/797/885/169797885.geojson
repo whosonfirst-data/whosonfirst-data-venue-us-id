@@ -2,13 +2,14 @@
   "id": 169797885,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.362465,43.194472,-112.362465,43.194472",
     "geom:latitude":43.194472,
     "geom:longitude":-112.362465,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1441 Parkway Dr",
     "sg:city":"Blackfoot",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":169797885,
-    "wof:lastmodified":1449035628,
+    "wof:lastmodified":1466488411,
     "wof:name":"Pocatello Podiatry Assoc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.362465,43.194472,-112.362465,43.194472],
+  "bbox": [
+    -112.362465,
+    43.194472,
+    -112.362465,
+    43.194472
+],
   "geometry": {"coordinates":[-112.362465,43.194472],"type":"Point"}
 }

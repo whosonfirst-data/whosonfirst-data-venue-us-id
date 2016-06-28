@@ -2,13 +2,14 @@
   "id": 186550153,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.765466,43.559692,-116.765466,43.559692",
     "geom:latitude":43.559692,
     "geom:longitude":-116.765466,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"18835 Symms Rd",
     "sg:city":"Caldwell",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":186550153,
-    "wof:lastmodified":1449051838,
+    "wof:lastmodified":1466488888,
     "wof:name":"Hells Canyon Winery",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "winery"
     ]
 },
-  "bbox": [-116.765466,43.559692,-116.765466,43.559692],
+  "bbox": [
+    -116.765466,
+    43.559692,
+    -116.765466,
+    43.559692
+],
   "geometry": {"coordinates":[-116.765466,43.559692],"type":"Point"}
 }

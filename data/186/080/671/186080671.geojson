@@ -2,13 +2,14 @@
   "id": 186080671,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.228703,43.652713,-116.228703,43.652713",
     "geom:latitude":43.652713,
     "geom:longitude":-116.228703,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3660 Stone Creek Way",
     "sg:city":"Boise",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":186080671,
-    "wof:lastmodified":1449052963,
+    "wof:lastmodified":1466487667,
     "wof:name":"Garden Tenders",
     "wof:parent_id":85876339,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-116.228703,43.652713,-116.228703,43.652713],
+  "bbox": [
+    -116.228703,
+    43.652713,
+    -116.228703,
+    43.652713
+],
   "geometry": {"coordinates":[-116.228703,43.652713],"type":"Point"}
 }

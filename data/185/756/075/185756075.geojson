@@ -2,13 +2,14 @@
   "id": 185756075,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.872499,47.796019,-116.872499,47.796019",
     "geom:latitude":47.796019,
     "geom:longitude":-116.872499,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"14273 N Meyer Rd",
     "sg:city":"Rathdrum",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":185756075,
-    "wof:lastmodified":1449007574,
+    "wof:lastmodified":1466487971,
     "wof:name":"Inland Dock",
     "wof:parent_id":85821457,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "storage"
     ]
 },
-  "bbox": [-116.872499,47.796019,-116.872499,47.796019],
+  "bbox": [
+    -116.872499,
+    47.796019,
+    -116.872499,
+    47.796019
+],
   "geometry": {"coordinates":[-116.872499,47.796019],"type":"Point"}
 }

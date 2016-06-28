@@ -2,13 +2,14 @@
   "id": 169597649,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.177957,43.569745,-116.177957,43.569745",
     "geom:latitude":43.569745,
     "geom:longitude":-116.177957,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3550 S Brookshore Pl",
     "sg:city":"Boise",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":169597649,
-    "wof:lastmodified":1449035923,
+    "wof:lastmodified":1466488084,
     "wof:name":"Azmeta Corporation",
     "wof:parent_id":85876329,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "agency"
     ]
 },
-  "bbox": [-116.177957,43.569745,-116.177957,43.569745],
-  "geometry": {"coordinates":[-116.177957,43.569745],"type":"Point"}
+  "bbox": [
+    -116.177957,
+    43.569745,
+    -116.177957,
+    43.569745
+],
+  "geometry": {"coordinates":[-116.17795700000001,43.569745],"type":"Point"}
 }

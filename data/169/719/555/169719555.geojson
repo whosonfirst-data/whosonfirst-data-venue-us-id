@@ -2,13 +2,14 @@
   "id": 169719555,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-117.001305,46.732948,-117.001305,46.732948",
     "geom:latitude":46.732948,
     "geom:longitude":-117.001305,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"107 E 2nd St",
     "sg:city":"Moscow",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":169719555,
-    "wof:lastmodified":1449033112,
+    "wof:lastmodified":1466488188,
     "wof:name":"Bennett & Assoc Property Mgmt",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-117.001305,46.732948,-117.001305,46.732948],
+  "bbox": [
+    -117.001305,
+    46.732948,
+    -117.001305,
+    46.732948
+],
   "geometry": {"coordinates":[-117.001305,46.732948],"type":"Point"}
 }

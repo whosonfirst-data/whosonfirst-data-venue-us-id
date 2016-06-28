@@ -2,13 +2,14 @@
   "id": 185989105,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.347848,43.189213,-112.347848,43.189213",
     "geom:latitude":43.189213,
     "geom:longitude":-112.347848,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"111 S Ash St",
     "sg:city":"Blackfoot",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":185989105,
-    "wof:lastmodified":1449007769,
+    "wof:lastmodified":1466488736,
     "wof:name":"KAPS Automotive Warehouse",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "supply"
     ]
 },
-  "bbox": [-112.347848,43.189213,-112.347848,43.189213],
+  "bbox": [
+    -112.347848,
+    43.189213,
+    -112.347848,
+    43.189213
+],
   "geometry": {"coordinates":[-112.347848,43.189213],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186184551,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-117.00626,47.706222,-117.00626,47.706222",
     "geom:latitude":47.706222,
     "geom:longitude":-117.00626,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4406 W Riverbend Ave",
     "sg:city":"Post Falls",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186184551,
-    "wof:lastmodified":1449050865,
+    "wof:lastmodified":1466488367,
     "wof:name":"World Of Art",
     "wof:parent_id":85833263,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "dealer"
     ]
 },
-  "bbox": [-117.00626,47.706222,-117.00626,47.706222],
+  "bbox": [
+    -117.00626,
+    47.706222,
+    -117.00626,
+    47.706222
+],
   "geometry": {"coordinates":[-117.00626,47.706222],"type":"Point"}
 }

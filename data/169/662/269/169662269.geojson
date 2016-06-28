@@ -2,13 +2,14 @@
   "id": 169662269,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.999323,47.716297,-116.999323,47.716297",
     "geom:latitude":47.716297,
     "geom:longitude":-116.999323,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3669 W Seltice Way",
     "sg:city":"Post Falls",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":169662269,
-    "wof:lastmodified":1449034923,
+    "wof:lastmodified":1466487772,
     "wof:name":"ACI Shop",
     "wof:parent_id":85833263,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "contractor"
     ]
 },
-  "bbox": [-116.999323,47.716297,-116.999323,47.716297],
+  "bbox": [
+    -116.999323,
+    47.716297,
+    -116.999323,
+    47.716297
+],
   "geometry": {"coordinates":[-116.999323,47.716297],"type":"Point"}
 }

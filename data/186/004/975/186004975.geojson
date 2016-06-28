@@ -2,13 +2,14 @@
   "id": 186004975,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.613061,48.251672,-116.613061,48.251672",
     "geom:latitude":48.251672,
     "geom:longitude":-116.613061,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"208 Railroad Ave",
     "sg:city":"Priest River",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":186004975,
-    "wof:lastmodified":1449051366,
+    "wof:lastmodified":1466488180,
     "wof:name":"Rivertown Financial Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "financial"
     ]
 },
-  "bbox": [-116.613061,48.251672,-116.613061,48.251672],
+  "bbox": [
+    -116.613061,
+    48.251672,
+    -116.613061,
+    48.251672
+],
   "geometry": {"coordinates":[-116.613061,48.251672],"type":"Point"}
 }

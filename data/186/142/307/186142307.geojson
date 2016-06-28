@@ -2,13 +2,14 @@
   "id": 186142307,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.340832,43.693559,-116.340832,43.693559",
     "geom:latitude":43.693559,
     "geom:longitude":-116.340832,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"650 E State St",
     "sg:city":"Eagle",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186142307,
-    "wof:lastmodified":1449052474,
+    "wof:lastmodified":1466488246,
     "wof:name":"Boise Memorial Hospice",
     "wof:parent_id":85876351,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "hospice"
     ]
 },
-  "bbox": [-116.340832,43.693559,-116.340832,43.693559],
-  "geometry": {"coordinates":[-116.340832,43.693559],"type":"Point"}
+  "bbox": [
+    -116.340832,
+    43.693559,
+    -116.340832,
+    43.693559
+],
+  "geometry": {"coordinates":[-116.34083200000001,43.693559],"type":"Point"}
 }

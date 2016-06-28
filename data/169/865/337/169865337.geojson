@@ -2,13 +2,14 @@
   "id": 169865337,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.027886,46.227184,-116.027886,46.227184",
     "geom:latitude":46.227184,
     "geom:longitude":-116.027886,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"508 Main St",
     "sg:city":"Kamiah",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":169865337,
-    "wof:lastmodified":1449035153,
+    "wof:lastmodified":1466488712,
     "wof:name":"Bud's Electric",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "company"
     ]
 },
-  "bbox": [-116.027886,46.227184,-116.027886,46.227184],
+  "bbox": [
+    -116.027886,
+    46.227184,
+    -116.027886,
+    46.227184
+],
   "geometry": {"coordinates":[-116.027886,46.227184],"type":"Point"}
 }

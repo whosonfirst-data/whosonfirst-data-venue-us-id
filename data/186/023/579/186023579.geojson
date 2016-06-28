@@ -2,13 +2,14 @@
   "id": 186023579,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.397564,42.599426,-114.397564,42.599426",
     "geom:latitude":42.599426,
     "geom:longitude":-114.397564,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"835 River View Dr",
     "sg:city":"Twin Falls",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":186023579,
-    "wof:lastmodified":1449052757,
+    "wof:lastmodified":1466487005,
     "wof:name":"Rti Sales Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-114.397564,42.599426,-114.397564,42.599426],
+  "bbox": [
+    -114.397564,
+    42.599426,
+    -114.397564,
+    42.599426
+],
   "geometry": {"coordinates":[-114.397564,42.599426],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186558157,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-117.019783,46.412363,-117.019783,46.412363",
     "geom:latitude":46.412363,
     "geom:longitude":-117.019783,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"920 8th Ave",
     "sg:city":"Lewiston",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186558157,
-    "wof:lastmodified":1449051114,
+    "wof:lastmodified":1466488935,
     "wof:name":"Trinity Evangelical Lutheran",
     "wof:parent_id":85837769,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-117.019783,46.412363,-117.019783,46.412363],
+  "bbox": [
+    -117.019783,
+    46.412363,
+    -117.019783,
+    46.412363
+],
   "geometry": {"coordinates":[-117.019783,46.412363],"type":"Point"}
 }

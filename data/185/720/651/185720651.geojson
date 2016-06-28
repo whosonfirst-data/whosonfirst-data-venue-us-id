@@ -2,13 +2,14 @@
   "id": 185720651,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.597138,43.587878,-116.597138,43.587878",
     "geom:latitude":43.587878,
     "geom:longitude":-116.597138,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1309 Camelot Dr",
     "sg:city":"Nampa",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":185720651,
-    "wof:lastmodified":1449006993,
+    "wof:lastmodified":1466487686,
     "wof:name":"Camelot Water Assoc Inc",
     "wof:parent_id":85827787,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-116.597138,43.587878,-116.597138,43.587878],
+  "bbox": [
+    -116.597138,
+    43.587878,
+    -116.597138,
+    43.587878
+],
   "geometry": {"coordinates":[-116.597138,43.587878],"type":"Point"}
 }

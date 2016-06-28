@@ -2,13 +2,14 @@
   "id": 185674019,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.467887,42.55283,-114.467887,42.55283",
     "geom:latitude":42.55283,
     "geom:longitude":-114.467887,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"363 2nd Ave S",
     "sg:city":"Twin Falls",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":185674019,
-    "wof:lastmodified":1449007806,
+    "wof:lastmodified":1466487320,
     "wof:name":"Car Treck Sales & Service",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "general"
     ]
 },
-  "bbox": [-114.467887,42.55283,-114.467887,42.55283],
+  "bbox": [
+    -114.467887,
+    42.55283,
+    -114.467887,
+    42.55283
+],
   "geometry": {"coordinates":[-114.467887,42.55283],"type":"Point"}
 }

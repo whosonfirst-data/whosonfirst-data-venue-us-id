@@ -2,13 +2,14 @@
   "id": 185857859,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.568366,43.571993,-116.568366,43.571993",
     "geom:latitude":43.571993,
     "geom:longitude":-116.568366,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"916 12th Ave S",
     "sg:city":"Nampa",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":185857859,
-    "wof:lastmodified":1449007642,
+    "wof:lastmodified":1466488382,
     "wof:name":"Twelfth Avenue Cleaners",
     "wof:parent_id":85827787,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "cleaners"
     ]
 },
-  "bbox": [-116.568366,43.571993,-116.568366,43.571993],
+  "bbox": [
+    -116.568366,
+    43.571993,
+    -116.568366,
+    43.571993
+],
   "geometry": {"coordinates":[-116.568366,43.571993],"type":"Point"}
 }

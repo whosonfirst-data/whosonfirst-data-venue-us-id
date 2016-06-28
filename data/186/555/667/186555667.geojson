@@ -2,13 +2,14 @@
   "id": 186555667,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.303741,43.641051,-116.303741,43.641051",
     "geom:latitude":43.641051,
     "geom:longitude":-116.303741,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3845 Patton St",
     "sg:city":"Boise",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186555667,
-    "wof:lastmodified":1449052633,
+    "wof:lastmodified":1466488892,
     "wof:name":"Village Shoe and Boots",
     "wof:parent_id":85876357,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "footwear"
     ]
 },
-  "bbox": [-116.303741,43.641051,-116.303741,43.641051],
+  "bbox": [
+    -116.303741,
+    43.641051,
+    -116.303741,
+    43.641051
+],
   "geometry": {"coordinates":[-116.303741,43.641051],"type":"Point"}
 }

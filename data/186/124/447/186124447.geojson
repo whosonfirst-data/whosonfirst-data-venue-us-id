@@ -2,13 +2,14 @@
   "id": 186124447,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.355858,46.501748,-116.355858,46.501748",
     "geom:latitude":46.501748,
     "geom:longitude":-116.355858,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"14615 US Hwy 12",
     "sg:city":"Orofino",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":186124447,
-    "wof:lastmodified":1449052823,
+    "wof:lastmodified":1466488100,
     "wof:name":"Hidden Village Mobile Home Pk",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "community"
     ]
 },
-  "bbox": [-116.355858,46.501748,-116.355858,46.501748],
+  "bbox": [
+    -116.355858,
+    46.501748,
+    -116.355858,
+    46.501748
+],
   "geometry": {"coordinates":[-116.355858,46.501748],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186390647,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.32862,43.595249,-116.32862,43.595249",
     "geom:latitude":43.595249,
     "geom:longitude":-116.32862,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1196 Lizaso Ave",
     "sg:city":"Boise",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186390647,
-    "wof:lastmodified":1449053055,
+    "wof:lastmodified":1466488780,
     "wof:name":"James W Barham Backhoe",
     "wof:parent_id":85805083,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-116.32862,43.595249,-116.32862,43.595249],
+  "bbox": [
+    -116.32862,
+    43.595249,
+    -116.32862,
+    43.595249
+],
   "geometry": {"coordinates":[-116.32862,43.595249],"type":"Point"}
 }

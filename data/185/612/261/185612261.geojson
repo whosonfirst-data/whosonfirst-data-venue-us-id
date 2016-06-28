@@ -2,13 +2,14 @@
   "id": 185612261,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.956729,46.381997,-116.956729,46.381997",
     "geom:latitude":46.381997,
     "geom:longitude":-116.956729,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1420 Linden Ave",
     "sg:city":"Lewiston",
     "sg:classifiers":[
@@ -61,16 +62,22 @@
         }
     ],
     "wof:id":185612261,
-    "wof:lastmodified":1449007319,
+    "wof:lastmodified":1466486856,
     "wof:name":"Bill Chandler Drafting-Design",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "drafting"
     ]
 },
-  "bbox": [-116.956729,46.381997,-116.956729,46.381997],
+  "bbox": [
+    -116.956729,
+    46.381997,
+    -116.956729,
+    46.381997
+],
   "geometry": {"coordinates":[-116.956729,46.381997],"type":"Point"}
 }

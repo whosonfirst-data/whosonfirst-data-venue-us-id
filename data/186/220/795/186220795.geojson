@@ -2,13 +2,14 @@
   "id": 186220795,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.689992,43.877865,-116.689992,43.877865",
     "geom:latitude":43.877865,
     "geom:longitude":-116.689992,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9739 Bill Burns Rd",
     "sg:city":"Emmett",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":186220795,
-    "wof:lastmodified":1449052939,
+    "wof:lastmodified":1466488471,
     "wof:name":"Duck Buster Kennels",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "sitting"
     ]
 },
-  "bbox": [-116.689992,43.877865,-116.689992,43.877865],
+  "bbox": [
+    -116.689992,
+    43.877865,
+    -116.689992,
+    43.877865
+],
   "geometry": {"coordinates":[-116.689992,43.877865],"type":"Point"}
 }

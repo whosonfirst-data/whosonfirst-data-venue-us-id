@@ -2,13 +2,14 @@
   "id": 186448439,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.810926,47.718291,-116.810926,47.718291",
     "geom:latitude":47.718291,
     "geom:longitude":-116.810926,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1800 W Shawna Ave",
     "sg:city":"Coeur D Alene",
     "sg:classifiers":[
@@ -61,16 +62,22 @@
         }
     ],
     "wof:id":186448439,
-    "wof:lastmodified":1449052911,
+    "wof:lastmodified":1466488820,
     "wof:name":"WCLA",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "establishment"
     ]
 },
-  "bbox": [-116.810926,47.718291,-116.810926,47.718291],
-  "geometry": {"coordinates":[-116.810926,47.718291],"type":"Point"}
+  "bbox": [
+    -116.810926,
+    47.718291,
+    -116.810926,
+    47.718291
+],
+  "geometry": {"coordinates":[-116.81092599999999,47.718291],"type":"Point"}
 }

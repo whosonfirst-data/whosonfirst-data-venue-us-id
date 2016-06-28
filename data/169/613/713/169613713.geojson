@@ -2,13 +2,14 @@
   "id": 169613713,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.949008,47.716897,-116.949008,47.716897",
     "geom:latitude":47.716897,
     "geom:longitude":-116.949008,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"104 W 9th Ave",
     "sg:city":"Post Falls",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":169613713,
-    "wof:lastmodified":1449034213,
+    "wof:lastmodified":1466487017,
     "wof:name":"Expressions School Of Dance",
     "wof:parent_id":85833263,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-116.949008,47.716897,-116.949008,47.716897],
-  "geometry": {"coordinates":[-116.949008,47.716897],"type":"Point"}
+  "bbox": [
+    -116.949008,
+    47.716897,
+    -116.949008,
+    47.716897
+],
+  "geometry": {"coordinates":[-116.94900800000001,47.716897],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 185972113,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.428434,43.618635,-116.428434,43.618635",
     "geom:latitude":43.618635,
     "geom:longitude":-116.428434,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2813 W Leroy Ct",
     "sg:city":"Meridian",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":185972113,
-    "wof:lastmodified":1449007440,
+    "wof:lastmodified":1466488701,
     "wof:name":"Fairy Godmother",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-116.428434,43.618635,-116.428434,43.618635],
+  "bbox": [
+    -116.428434,
+    43.618635,
+    -116.428434,
+    43.618635
+],
   "geometry": {"coordinates":[-116.428434,43.618635],"type":"Point"}
 }

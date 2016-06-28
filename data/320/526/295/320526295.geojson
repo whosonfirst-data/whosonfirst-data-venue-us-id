@@ -2,13 +2,14 @@
   "id": 320526295,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-117.003329,46.406181,-117.003329,46.406181",
     "geom:latitude":46.406181,
     "geom:longitude":-117.003329,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2007 14th Ave",
     "sg:city":"Lewiston",
     "sg:classifiers":[
@@ -58,10 +59,11 @@
         }
     ],
     "wof:id":320526295,
-    "wof:lastmodified":1449012415,
+    "wof:lastmodified":1466487380,
     "wof:name":"Nez Perce County Farm Bur Ins",
     "wof:parent_id":85837769,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -69,6 +71,11 @@
         "resume"
     ]
 },
-  "bbox": [-117.003329,46.406181,-117.003329,46.406181],
-  "geometry": {"coordinates":[-117.003329,46.406181],"type":"Point"}
+  "bbox": [
+    -117.003329,
+    46.406181,
+    -117.003329,
+    46.406181
+],
+  "geometry": {"coordinates":[-117.00332899999999,46.406181],"type":"Point"}
 }

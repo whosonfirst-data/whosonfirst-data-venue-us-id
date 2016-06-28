@@ -2,13 +2,14 @@
   "id": 186244405,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.798561,47.637796,-116.798561,47.637796",
     "geom:latitude":47.637796,
     "geom:longitude":-116.798561,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1330 W Kidd Island Rd",
     "sg:city":"Coeur D Alene",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186244405,
-    "wof:lastmodified":1449051437,
+    "wof:lastmodified":1466488577,
     "wof:name":"Al-Anon",
     "wof:parent_id":85821457,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "treatment"
     ]
 },
-  "bbox": [-116.798561,47.637796,-116.798561,47.637796],
-  "geometry": {"coordinates":[-116.798561,47.637796],"type":"Point"}
+  "bbox": [
+    -116.798561,
+    47.637796,
+    -116.798561,
+    47.637796
+],
+  "geometry": {"coordinates":[-116.79856100000001,47.637796],"type":"Point"}
 }

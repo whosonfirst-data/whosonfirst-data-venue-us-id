@@ -2,13 +2,14 @@
   "id": 186001411,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.196017,43.585773,-116.196017,43.585773",
     "geom:latitude":43.585773,
     "geom:longitude":-116.196017,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1112 Dundee St",
     "sg:city":"Boise",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186001411,
-    "wof:lastmodified":1449051006,
+    "wof:lastmodified":1466487367,
     "wof:name":"Au Inc",
     "wof:parent_id":85876343,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "custom"
     ]
 },
-  "bbox": [-116.196017,43.585773,-116.196017,43.585773],
+  "bbox": [
+    -116.196017,
+    43.585773,
+    -116.196017,
+    43.585773
+],
   "geometry": {"coordinates":[-116.196017,43.585773],"type":"Point"}
 }

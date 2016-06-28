@@ -2,13 +2,14 @@
   "id": 186352039,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.401703,43.622009,-116.401703,43.622009",
     "geom:latitude":43.622009,
     "geom:longitude":-116.401703,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2018 N Crestmont Dr",
     "sg:city":"Meridian",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186352039,
-    "wof:lastmodified":1449052012,
+    "wof:lastmodified":1466488743,
     "wof:name":"W C Transportation",
     "wof:parent_id":85876351,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "trucking"
     ]
 },
-  "bbox": [-116.401703,43.622009,-116.401703,43.622009],
+  "bbox": [
+    -116.401703,
+    43.622009,
+    -116.401703,
+    43.622009
+],
   "geometry": {"coordinates":[-116.401703,43.622009],"type":"Point"}
 }

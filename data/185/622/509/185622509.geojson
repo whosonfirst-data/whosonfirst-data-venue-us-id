@@ -2,13 +2,14 @@
   "id": 185622509,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.796199,47.890959,-116.796199,47.890959",
     "geom:latitude":47.890959,
     "geom:longitude":-116.796199,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"24297 N Ramsey Rd",
     "sg:city":"Rathdrum",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":185622509,
-    "wof:lastmodified":1449007934,
+    "wof:lastmodified":1466486934,
     "wof:name":"Round Mountain Sod & Hydroseed",
     "wof:parent_id":85821457,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "contractor"
     ]
 },
-  "bbox": [-116.796199,47.890959,-116.796199,47.890959],
+  "bbox": [
+    -116.796199,
+    47.890959,
+    -116.796199,
+    47.890959
+],
   "geometry": {"coordinates":[-116.796199,47.890959],"type":"Point"}
 }

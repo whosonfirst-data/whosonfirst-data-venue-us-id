@@ -2,13 +2,14 @@
   "id": 169634305,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.023226,44.831285,-116.023226,44.831285",
     "geom:latitude":44.831285,
     "geom:longitude":-116.023226,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9 Huckleberry Pl",
     "sg:city":"Mccall",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":169634305,
-    "wof:lastmodified":1449034255,
+    "wof:lastmodified":1466487345,
     "wof:name":"Warren Wagon Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "removal"
     ]
 },
-  "bbox": [-116.023226,44.831285,-116.023226,44.831285],
-  "geometry": {"coordinates":[-116.023226,44.831285],"type":"Point"}
+  "bbox": [
+    -116.023226,
+    44.831285,
+    -116.023226,
+    44.831285
+],
+  "geometry": {"coordinates":[-116.02322599999999,44.831285],"type":"Point"}
 }

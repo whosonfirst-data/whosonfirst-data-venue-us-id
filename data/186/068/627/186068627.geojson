@@ -2,13 +2,14 @@
   "id": 186068627,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.45535,42.548348,-114.45535,42.548348",
     "geom:latitude":42.548348,
     "geom:longitude":-114.45535,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"126 Locust St S",
     "sg:city":"Twin Falls",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186068627,
-    "wof:lastmodified":1449051754,
+    "wof:lastmodified":1466487525,
     "wof:name":"Snake River Glass",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "plate"
     ]
 },
-  "bbox": [-114.45535,42.548348,-114.45535,42.548348],
+  "bbox": [
+    -114.45535,
+    42.548348,
+    -114.45535,
+    42.548348
+],
   "geometry": {"coordinates":[-114.45535,42.548348],"type":"Point"}
 }

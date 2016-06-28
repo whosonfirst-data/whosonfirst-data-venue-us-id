@@ -2,13 +2,14 @@
   "id": 320531135,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.926701,44.005187,-116.926701,44.005187",
     "geom:latitude":44.005187,
     "geom:longitude":-116.926701,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"525 Cornwall Way",
     "sg:city":"Fruitland",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":320531135,
-    "wof:lastmodified":1449012148,
+    "wof:lastmodified":1466488167,
     "wof:name":"Jjj Electric",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "electrician"
     ]
 },
-  "bbox": [-116.926701,44.005187,-116.926701,44.005187],
-  "geometry": {"coordinates":[-116.926701,44.005187],"type":"Point"}
+  "bbox": [
+    -116.926701,
+    44.005187,
+    -116.926701,
+    44.005187
+],
+  "geometry": {"coordinates":[-116.92670099999999,44.005187],"type":"Point"}
 }

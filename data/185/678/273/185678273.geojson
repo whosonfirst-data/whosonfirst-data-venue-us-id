@@ -2,13 +2,14 @@
   "id": 185678273,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.307643,46.496051,-116.307643,46.496051",
     "geom:latitude":46.496051,
     "geom:longitude":-116.307643,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"12271 Hartford Ave",
     "sg:city":"Orofino",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":185678273,
-    "wof:lastmodified":1449007402,
+    "wof:lastmodified":1466487353,
     "wof:name":"Riverside Assembly of God",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-116.307643,46.496051,-116.307643,46.496051],
+  "bbox": [
+    -116.307643,
+    46.496051,
+    -116.307643,
+    46.496051
+],
   "geometry": {"coordinates":[-116.307643,46.496051],"type":"Point"}
 }

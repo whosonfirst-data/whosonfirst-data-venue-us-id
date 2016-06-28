@@ -2,13 +2,14 @@
   "id": 185893513,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.272665,43.554097,-116.272665,43.554097",
     "geom:latitude":43.554097,
     "geom:longitude":-116.272665,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7259 Desert Ave",
     "sg:city":"Boise",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":185893513,
-    "wof:lastmodified":1449007924,
+    "wof:lastmodified":1466488550,
     "wof:name":"Ed Riche Photography",
     "wof:parent_id":85876331,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "photographer"
     ]
 },
-  "bbox": [-116.272665,43.554097,-116.272665,43.554097],
+  "bbox": [
+    -116.272665,
+    43.554097,
+    -116.272665,
+    43.554097
+],
   "geometry": {"coordinates":[-116.272665,43.554097],"type":"Point"}
 }

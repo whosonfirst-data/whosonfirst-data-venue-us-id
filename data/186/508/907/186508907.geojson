@@ -2,13 +2,14 @@
   "id": 186508907,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.785011,47.678416,-116.785011,47.678416",
     "geom:latitude":47.678416,
     "geom:longitude":-116.785011,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"112 E Foster Ave",
     "sg:city":"Coeur D Alene",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":186508907,
-    "wof:lastmodified":1449051886,
+    "wof:lastmodified":1466488919,
     "wof:name":"Jaz Digital Solutions Inc",
     "wof:parent_id":85821457,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-116.785011,47.678416,-116.785011,47.678416],
+  "bbox": [
+    -116.785011,
+    47.678416,
+    -116.785011,
+    47.678416
+],
   "geometry": {"coordinates":[-116.785011,47.678416],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169720899,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.518557,43.549422,-116.518557,43.549422",
     "geom:latitude":43.549422,
     "geom:longitude":-116.518557,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2100 S Secretariat Way",
     "sg:city":"Nampa",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":169720899,
-    "wof:lastmodified":1449033484,
+    "wof:lastmodified":1466488198,
     "wof:name":"GCP",
     "wof:parent_id":85827787,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-116.518557,43.549422,-116.518557,43.549422],
+  "bbox": [
+    -116.518557,
+    43.549422,
+    -116.518557,
+    43.549422
+],
   "geometry": {"coordinates":[-116.518557,43.549422],"type":"Point"}
 }

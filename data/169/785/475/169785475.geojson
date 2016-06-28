@@ -2,13 +2,14 @@
   "id": 169785475,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.893261,47.697804,-116.893261,47.697804",
     "geom:latitude":47.697804,
     "geom:longitude":-116.893261,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"700 S Ross Point Rd",
     "sg:city":"Post Falls",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":169785475,
-    "wof:lastmodified":1449035398,
+    "wof:lastmodified":1466488548,
     "wof:name":"Subway Sandwiches & Salads",
     "wof:parent_id":85821457,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-116.893261,47.697804,-116.893261,47.697804],
+  "bbox": [
+    -116.893261,
+    47.697804,
+    -116.893261,
+    47.697804
+],
   "geometry": {"coordinates":[-116.893261,47.697804],"type":"Point"}
 }

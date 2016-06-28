@@ -2,13 +2,14 @@
   "id": 320525999,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.972713,46.378236,-116.972713,46.378236",
     "geom:latitude":46.378236,
     "geom:longitude":-116.972713,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"450 Thain Rd",
     "sg:city":"Lewiston",
     "sg:classifiers":[
@@ -63,14 +64,20 @@
         }
     ],
     "wof:id":320525999,
-    "wof:lastmodified":1449014190,
+    "wof:lastmodified":1466487278,
     "wof:name":"Radiance Facial Spa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-116.972713,46.378236,-116.972713,46.378236],
+  "bbox": [
+    -116.972713,
+    46.378236,
+    -116.972713,
+    46.378236
+],
   "geometry": {"coordinates":[-116.972713,46.378236],"type":"Point"}
 }

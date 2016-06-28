@@ -2,13 +2,14 @@
   "id": 169624423,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.480049,42.566622,-114.480049,42.566622",
     "geom:latitude":42.566622,
     "geom:longitude":-114.480049,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"287 Washington St N",
     "sg:city":"Twin Falls",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":169624423,
-    "wof:lastmodified":1449034956,
+    "wof:lastmodified":1466487190,
     "wof:name":"Beats A Buggy Auto Sales",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "used"
     ]
 },
-  "bbox": [-114.480049,42.566622,-114.480049,42.566622],
-  "geometry": {"coordinates":[-114.480049,42.566622],"type":"Point"}
+  "bbox": [
+    -114.480049,
+    42.566622,
+    -114.480049,
+    42.566622
+],
+  "geometry": {"coordinates":[-114.48004899999999,42.566622],"type":"Point"}
 }

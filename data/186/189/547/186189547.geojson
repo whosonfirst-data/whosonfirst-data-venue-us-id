@@ -2,13 +2,14 @@
   "id": 186189547,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.09715,44.899477,-116.09715,44.899477",
     "geom:latitude":44.899477,
     "geom:longitude":-116.09715,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"207 N 3rd St",
     "sg:city":"Mccall",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186189547,
-    "wof:lastmodified":1449052246,
+    "wof:lastmodified":1466488383,
     "wof:name":"Sidney Resources Corp",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "conservation"
     ]
 },
-  "bbox": [-116.09715,44.899477,-116.09715,44.899477],
+  "bbox": [
+    -116.09715,
+    44.899477,
+    -116.09715,
+    44.899477
+],
   "geometry": {"coordinates":[-116.09715,44.899477],"type":"Point"}
 }

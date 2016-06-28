@@ -2,13 +2,14 @@
   "id": 169672303,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.493806,48.415474,-116.493806,48.415474",
     "geom:latitude":48.415474,
     "geom:longitude":-116.493806,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1833 N Center Valley Rd",
     "sg:city":"Sandpoint",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":169672303,
-    "wof:lastmodified":1449032888,
+    "wof:lastmodified":1466487910,
     "wof:name":"Panhandle Satellite Comms",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "television"
     ]
 },
-  "bbox": [-116.493806,48.415474,-116.493806,48.415474],
-  "geometry": {"coordinates":[-116.493806,48.415474],"type":"Point"}
+  "bbox": [
+    -116.493806,
+    48.415474,
+    -116.493806,
+    48.415474
+],
+  "geometry": {"coordinates":[-116.49380600000001,48.415474],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 185632975,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.362193,43.613923,-116.362193,43.613923",
     "geom:latitude":43.613923,
     "geom:longitude":-116.362193,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1325 N Hickory Ave",
     "sg:city":"Meridian",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":185632975,
-    "wof:lastmodified":1449007622,
+    "wof:lastmodified":1466487013,
     "wof:name":"Watkins Motor Lines",
     "wof:parent_id":85811491,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "trucking"
     ]
 },
-  "bbox": [-116.362193,43.613923,-116.362193,43.613923],
+  "bbox": [
+    -116.362193,
+    43.613923,
+    -116.362193,
+    43.613923
+],
   "geometry": {"coordinates":[-116.362193,43.613923],"type":"Point"}
 }

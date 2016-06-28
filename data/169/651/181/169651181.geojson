@@ -2,13 +2,14 @@
   "id": 169651181,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.163401,43.56156,-116.163401,43.56156",
     "geom:latitude":43.56156,
     "geom:longitude":-116.163401,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1698 E Pineridge Dr",
     "sg:city":"Boise",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":169651181,
-    "wof:lastmodified":1449033346,
+    "wof:lastmodified":1466487608,
     "wof:name":"ASK Consulting",
     "wof:parent_id":85876329,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "consulting"
     ]
 },
-  "bbox": [-116.163401,43.56156,-116.163401,43.56156],
-  "geometry": {"coordinates":[-116.163401,43.56156],"type":"Point"}
+  "bbox": [
+    -116.163401,
+    43.56156,
+    -116.163401,
+    43.56156
+],
+  "geometry": {"coordinates":[-116.16340099999999,43.56156],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186014531,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.539563,43.565094,-116.539563,43.565094",
     "geom:latitude":43.565094,
     "geom:longitude":-116.539563,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2503 2nd St S Exd",
     "sg:city":"Nampa",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186014531,
-    "wof:lastmodified":1449051692,
+    "wof:lastmodified":1466486907,
     "wof:name":"Tiller Fuel",
     "wof:parent_id":85827787,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "coke"
     ]
 },
-  "bbox": [-116.539563,43.565094,-116.539563,43.565094],
+  "bbox": [
+    -116.539563,
+    43.565094,
+    -116.539563,
+    43.565094
+],
   "geometry": {"coordinates":[-116.539563,43.565094],"type":"Point"}
 }

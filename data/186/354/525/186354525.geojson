@@ -2,13 +2,14 @@
   "id": 186354525,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.126944,45.929926,-116.126944,45.929926",
     "geom:latitude":45.929926,
     "geom:longitude":-116.126944,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"514 N B St",
     "sg:city":"Grangeville",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186354525,
-    "wof:lastmodified":1449052722,
+    "wof:lastmodified":1466488751,
     "wof:name":"Allstar Auto Glass",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "plate"
     ]
 },
-  "bbox": [-116.126944,45.929926,-116.126944,45.929926],
-  "geometry": {"coordinates":[-116.126944,45.929926],"type":"Point"}
+  "bbox": [
+    -116.126944,
+    45.929926,
+    -116.126944,
+    45.929926
+],
+  "geometry": {"coordinates":[-116.12694399999999,45.929926],"type":"Point"}
 }

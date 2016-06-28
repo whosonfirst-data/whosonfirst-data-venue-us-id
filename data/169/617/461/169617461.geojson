@@ -2,13 +2,14 @@
   "id": 169617461,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.862893,47.704892,-116.862893,47.704892",
     "geom:latitude":47.704892,
     "geom:longitude":-116.862893,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6606 E Seltice Way",
     "sg:city":"Post Falls",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":169617461,
-    "wof:lastmodified":1449032800,
+    "wof:lastmodified":1466487073,
     "wof:name":"Advanced Printing",
     "wof:parent_id":85821457,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "printer"
     ]
 },
-  "bbox": [-116.862893,47.704892,-116.862893,47.704892],
+  "bbox": [
+    -116.862893,
+    47.704892,
+    -116.862893,
+    47.704892
+],
   "geometry": {"coordinates":[-116.862893,47.704892],"type":"Point"}
 }

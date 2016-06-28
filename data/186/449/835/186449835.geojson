@@ -2,13 +2,14 @@
   "id": 186449835,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.96606,42.03252,-111.96606,42.03252",
     "geom:latitude":42.03252,
     "geom:longitude":-111.96606,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"563 E 2nd S",
     "sg:city":"Weston",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":186449835,
-    "wof:lastmodified":1449052828,
+    "wof:lastmodified":1466488862,
     "wof:name":"Auto Select",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "dealer"
     ]
 },
-  "bbox": [-111.96606,42.03252,-111.96606,42.03252],
+  "bbox": [
+    -111.96606,
+    42.03252,
+    -111.96606,
+    42.03252
+],
   "geometry": {"coordinates":[-111.96606,42.03252],"type":"Point"}
 }

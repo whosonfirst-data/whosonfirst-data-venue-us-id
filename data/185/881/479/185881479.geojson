@@ -2,13 +2,14 @@
   "id": 185881479,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.860932,43.632637,-116.860932,43.632637",
     "geom:latitude":43.632637,
     "geom:longitude":-116.860932,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"23441 Ustick Rd",
     "sg:city":"Wilder",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":185881479,
-    "wof:lastmodified":1449007543,
+    "wof:lastmodified":1466488626,
     "wof:name":"Indart Farm",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-116.860932,43.632637,-116.860932,43.632637],
-  "geometry": {"coordinates":[-116.860932,43.632637],"type":"Point"}
+  "bbox": [
+    -116.860932,
+    43.632637,
+    -116.860932,
+    43.632637
+],
+  "geometry": {"coordinates":[-116.86093200000001,43.632637],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186071919,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.247375,43.634632,-116.247375,43.634632",
     "geom:latitude":43.634632,
     "geom:longitude":-116.247375,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4240 Adams St",
     "sg:city":"Boise",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186071919,
-    "wof:lastmodified":1449052060,
+    "wof:lastmodified":1466487562,
     "wof:name":"Associated Systems Inc",
     "wof:parent_id":85876339,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-116.247375,43.634632,-116.247375,43.634632],
-  "geometry": {"coordinates":[-116.247375,43.634632],"type":"Point"}
+  "bbox": [
+    -116.247375,
+    43.634632,
+    -116.247375,
+    43.634632
+],
+  "geometry": {"coordinates":[-116.24737500000001,43.634632],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 185908191,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.334486,43.662895,-116.334486,43.662895",
     "geom:latitude":43.662895,
     "geom:longitude":-116.334486,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"11800 Joplin Rd",
     "sg:city":"Boise",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":185908191,
-    "wof:lastmodified":1449007518,
+    "wof:lastmodified":1466488573,
     "wof:name":"Lombac Construction Svc Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "contractor"
     ]
 },
-  "bbox": [-116.334486,43.662895,-116.334486,43.662895],
+  "bbox": [
+    -116.334486,
+    43.662895,
+    -116.334486,
+    43.662895
+],
   "geometry": {"coordinates":[-116.334486,43.662895],"type":"Point"}
 }

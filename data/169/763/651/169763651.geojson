@@ -2,13 +2,14 @@
   "id": 169763651,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.694179,43.131795,-115.694179,43.131795",
     "geom:latitude":43.131795,
     "geom:longitude":-115.694179,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"140 E 2nd N",
     "sg:city":"Mountain Home",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":169763651,
-    "wof:lastmodified":1449035955,
+    "wof:lastmodified":1466488445,
     "wof:name":"Arc High Reachers",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "establishment"
     ]
 },
-  "bbox": [-115.694179,43.131795,-115.694179,43.131795],
-  "geometry": {"coordinates":[-115.694179,43.131795],"type":"Point"}
+  "bbox": [
+    -115.694179,
+    43.131795,
+    -115.694179,
+    43.131795
+],
+  "geometry": {"coordinates":[-115.69417900000001,43.131795],"type":"Point"}
 }

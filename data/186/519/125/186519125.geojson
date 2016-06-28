@@ -2,13 +2,14 @@
   "id": 186519125,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.471642,42.57786,-114.471642,42.57786",
     "geom:latitude":42.57786,
     "geom:longitude":-114.471642,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"315 Falls Ave",
     "sg:city":"Twin Falls",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":186519125,
-    "wof:lastmodified":1449052856,
+    "wof:lastmodified":1466488870,
     "wof:name":"KBSW",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "establishment"
     ]
 },
-  "bbox": [-114.471642,42.57786,-114.471642,42.57786],
+  "bbox": [
+    -114.471642,
+    42.57786,
+    -114.471642,
+    42.57786
+],
   "geometry": {"coordinates":[-114.471642,42.57786],"type":"Point"}
 }

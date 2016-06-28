@@ -2,13 +2,14 @@
   "id": 186380269,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.923644,44.012269,-116.923644,44.012269",
     "geom:latitude":44.012269,
     "geom:longitude":-116.923644,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"212 N Whitley Dr",
     "sg:city":"Fruitland",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186380269,
-    "wof:lastmodified":1449051620,
+    "wof:lastmodified":1466488769,
     "wof:name":"Tom's Motorcycle ATV Repair",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "motor"
     ]
 },
-  "bbox": [-116.923644,44.012269,-116.923644,44.012269],
+  "bbox": [
+    -116.923644,
+    44.012269,
+    -116.923644,
+    44.012269
+],
   "geometry": {"coordinates":[-116.923644,44.012269],"type":"Point"}
 }

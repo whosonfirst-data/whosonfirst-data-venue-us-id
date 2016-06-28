@@ -2,13 +2,14 @@
   "id": 185648533,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.369799,43.582579,-116.369799,43.582579",
     "geom:latitude":43.582579,
     "geom:longitude":-116.369799,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2001 E Party Jet St",
     "sg:city":"Meridian",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":185648533,
-    "wof:lastmodified":1449007046,
+    "wof:lastmodified":1466487128,
     "wof:name":"Floor Mechanic",
     "wof:parent_id":85805083,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "contractor"
     ]
 },
-  "bbox": [-116.369799,43.582579,-116.369799,43.582579],
+  "bbox": [
+    -116.369799,
+    43.582579,
+    -116.369799,
+    43.582579
+],
   "geometry": {"coordinates":[-116.369799,43.582579],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 185797821,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.175325,43.579035,-116.175325,43.579035",
     "geom:latitude":43.579035,
     "geom:longitude":-116.175325,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"701 E Boise Ave",
     "sg:city":"Boise",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":185797821,
-    "wof:lastmodified":1449008065,
+    "wof:lastmodified":1466488293,
     "wof:name":"Timberline High School",
     "wof:parent_id":85876329,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-116.175325,43.579035,-116.175325,43.579035],
+  "bbox": [
+    -116.175325,
+    43.579035,
+    -116.175325,
+    43.579035
+],
   "geometry": {"coordinates":[-116.175325,43.579035],"type":"Point"}
 }

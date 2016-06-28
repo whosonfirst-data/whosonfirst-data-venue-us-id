@@ -2,13 +2,14 @@
   "id": 186240335,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.587266,43.580525,-116.587266,43.580525",
     "geom:latitude":43.580525,
     "geom:longitude":-116.587266,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"73 N Elijah Dr",
     "sg:city":"Nampa",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186240335,
-    "wof:lastmodified":1449050525,
+    "wof:lastmodified":1466488573,
     "wof:name":"Robert R Cooper Contractor",
     "wof:parent_id":85827787,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-116.587266,43.580525,-116.587266,43.580525],
+  "bbox": [
+    -116.587266,
+    43.580525,
+    -116.587266,
+    43.580525
+],
   "geometry": {"coordinates":[-116.587266,43.580525],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186195847,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.823189,47.726737,-116.823189,47.726737",
     "geom:latitude":47.726737,
     "geom:longitude":-116.823189,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5940 St Croix Dr",
     "sg:city":"Coeur D Alene",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186195847,
-    "wof:lastmodified":1449052131,
+    "wof:lastmodified":1466488494,
     "wof:name":"Jason Swain Consulting",
     "wof:parent_id":85821457,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "training"
     ]
 },
-  "bbox": [-116.823189,47.726737,-116.823189,47.726737],
+  "bbox": [
+    -116.823189,
+    47.726737,
+    -116.823189,
+    47.726737
+],
   "geometry": {"coordinates":[-116.823189,47.726737],"type":"Point"}
 }

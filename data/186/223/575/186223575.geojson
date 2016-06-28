@@ -2,13 +2,14 @@
   "id": 186223575,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.680526,43.673024,-116.680526,43.673024",
     "geom:latitude":43.673024,
     "geom:longitude":-116.680526,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"505 Hannibal St",
     "sg:city":"Caldwell",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":186223575,
-    "wof:lastmodified":1449050438,
+    "wof:lastmodified":1466488478,
     "wof:name":"I-84 Motor Inn",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-116.680526,43.673024,-116.680526,43.673024],
+  "bbox": [
+    -116.680526,
+    43.673024,
+    -116.680526,
+    43.673024
+],
   "geometry": {"coordinates":[-116.680526,43.673024],"type":"Point"}
 }

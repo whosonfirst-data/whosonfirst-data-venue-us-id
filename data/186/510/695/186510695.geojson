@@ -2,13 +2,14 @@
   "id": 186510695,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.786633,47.726838,-116.786633,47.726838",
     "geom:latitude":47.726838,
     "geom:longitude":-116.786633,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5808 N Government Way",
     "sg:city":"Coeur D Alene",
     "sg:classifiers":[
@@ -63,10 +64,11 @@
         }
     ],
     "wof:id":186510695,
-    "wof:lastmodified":1449051976,
+    "wof:lastmodified":1466488921,
     "wof:name":"J T Auto Sales",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -75,6 +77,11 @@
         "dealer"
     ]
 },
-  "bbox": [-116.786633,47.726838,-116.786633,47.726838],
-  "geometry": {"coordinates":[-116.786633,47.726838],"type":"Point"}
+  "bbox": [
+    -116.786633,
+    47.726838,
+    -116.786633,
+    47.726838
+],
+  "geometry": {"coordinates":[-116.78663299999999,47.726838],"type":"Point"}
 }

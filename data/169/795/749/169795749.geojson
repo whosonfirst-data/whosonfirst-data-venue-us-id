@@ -2,13 +2,14 @@
   "id": 169795749,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.502379,43.892602,-116.502379,43.892602",
     "geom:latitude":43.892602,
     "geom:longitude":-116.502379,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1646 N Washington Ave",
     "sg:city":"Emmett",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":169795749,
-    "wof:lastmodified":1449034641,
+    "wof:lastmodified":1466488399,
     "wof:name":"All God's Children Pre-School",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-116.502379,43.892602,-116.502379,43.892602],
+  "bbox": [
+    -116.502379,
+    43.892602,
+    -116.502379,
+    43.892602
+],
   "geometry": {"coordinates":[-116.502379,43.892602],"type":"Point"}
 }

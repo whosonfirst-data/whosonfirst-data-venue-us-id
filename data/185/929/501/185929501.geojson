@@ -2,13 +2,14 @@
   "id": 185929501,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.363586,43.621781,-116.363586,43.621781",
     "geom:latitude":43.621781,
     "geom:longitude":-116.363586,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2485 E Apricot Ct",
     "sg:city":"Meridian",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":185929501,
-    "wof:lastmodified":1449007229,
+    "wof:lastmodified":1466488622,
     "wof:name":"Idaho Irrigation",
     "wof:parent_id":85811491,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-116.363586,43.621781,-116.363586,43.621781],
+  "bbox": [
+    -116.363586,
+    43.621781,
+    -116.363586,
+    43.621781
+],
   "geometry": {"coordinates":[-116.363586,43.621781],"type":"Point"}
 }

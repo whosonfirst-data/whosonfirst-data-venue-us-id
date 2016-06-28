@@ -2,13 +2,14 @@
   "id": 185914489,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.689324,43.130091,-115.689324,43.130091",
     "geom:latitude":43.130091,
     "geom:longitude":-115.689324,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"330 S 4th E",
     "sg:city":"Mountain Home",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":185914489,
-    "wof:lastmodified":1449007222,
+    "wof:lastmodified":1466488585,
     "wof:name":"Mountain Home Roofing",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "contractor"
     ]
 },
-  "bbox": [-115.689324,43.130091,-115.689324,43.130091],
+  "bbox": [
+    -115.689324,
+    43.130091,
+    -115.689324,
+    43.130091
+],
   "geometry": {"coordinates":[-115.689324,43.130091],"type":"Point"}
 }

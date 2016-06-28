@@ -2,13 +2,14 @@
   "id": 185795483,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.917356,46.350165,-115.917356,46.350165",
     "geom:latitude":46.350165,
     "geom:longitude":-115.917356,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3056 Larson Rd",
     "sg:city":"Weippe",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":185795483,
-    "wof:lastmodified":1449007565,
+    "wof:lastmodified":1466488274,
     "wof:name":"Weippe Volunteer Fire Dept",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "volunteer"
     ]
 },
-  "bbox": [-115.917356,46.350165,-115.917356,46.350165],
+  "bbox": [
+    -115.917356,
+    46.350165,
+    -115.917356,
+    46.350165
+],
   "geometry": {"coordinates":[-115.917356,46.350165],"type":"Point"}
 }

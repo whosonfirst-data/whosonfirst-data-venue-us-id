@@ -2,13 +2,14 @@
   "id": 186140813,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.777719,43.557628,-116.777719,43.557628",
     "geom:latitude":43.557628,
     "geom:longitude":-116.777719,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"19251 Cathie Dr",
     "sg:city":"Caldwell",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":186140813,
-    "wof:lastmodified":1449050755,
+    "wof:lastmodified":1466488232,
     "wof:name":"Quality Greens",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-116.777719,43.557628,-116.777719,43.557628],
+  "bbox": [
+    -116.777719,
+    43.557628,
+    -116.777719,
+    43.557628
+],
   "geometry": {"coordinates":[-116.777719,43.557628],"type":"Point"}
 }

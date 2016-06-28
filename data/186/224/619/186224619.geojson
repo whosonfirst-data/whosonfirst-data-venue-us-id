@@ -2,13 +2,14 @@
   "id": 186224619,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.863976,43.712237,-111.863976,43.712237",
     "geom:latitude":43.712237,
     "geom:longitude":-111.863976,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"577 N 4200 E",
     "sg:city":"Rigby",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":186224619,
-    "wof:lastmodified":1449052317,
+    "wof:lastmodified":1466488551,
     "wof:name":"H & W Development",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.863976,43.712237,-111.863976,43.712237],
-  "geometry": {"coordinates":[-111.863976,43.712237],"type":"Point"}
+  "bbox": [
+    -111.863976,
+    43.712237,
+    -111.863976,
+    43.712237
+],
+  "geometry": {"coordinates":[-111.86397599999999,43.712237],"type":"Point"}
 }

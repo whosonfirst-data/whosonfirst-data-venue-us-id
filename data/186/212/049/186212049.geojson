@@ -2,13 +2,14 @@
   "id": 186212049,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.179508,43.594925,-116.179508,43.594925",
     "geom:latitude":43.594925,
     "geom:longitude":-116.179508,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1509 Tyrell Ln",
     "sg:city":"Boise",
     "sg:classifiers":[
@@ -63,10 +64,11 @@
         }
     ],
     "wof:id":186212049,
-    "wof:lastmodified":1449052109,
+    "wof:lastmodified":1466488610,
     "wof:name":"US Geothermal Inc",
     "wof:parent_id":85876305,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -80,6 +82,11 @@
         "drilling"
     ]
 },
-  "bbox": [-116.179508,43.594925,-116.179508,43.594925],
+  "bbox": [
+    -116.179508,
+    43.594925,
+    -116.179508,
+    43.594925
+],
   "geometry": {"coordinates":[-116.179508,43.594925],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 320539283,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.958391,44.245103,-116.958391,44.245103",
     "geom:latitude":44.245103,
     "geom:longitude":-116.958391,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"355 E 7th St",
     "sg:city":"Weiser",
     "sg:classifiers":[
@@ -59,10 +60,11 @@
         }
     ],
     "wof:id":320539283,
-    "wof:lastmodified":1449015041,
+    "wof:lastmodified":1466486877,
     "wof:name":"Campbell Auto Sales & Svc Ctr",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -73,6 +75,11 @@
         "car"
     ]
 },
-  "bbox": [-116.958391,44.245103,-116.958391,44.245103],
-  "geometry": {"coordinates":[-116.958391,44.245103],"type":"Point"}
+  "bbox": [
+    -116.958391,
+    44.245103,
+    -116.958391,
+    44.245103
+],
+  "geometry": {"coordinates":[-116.95839100000001,44.245103],"type":"Point"}
 }

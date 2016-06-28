@@ -2,13 +2,14 @@
   "id": 185797363,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.498899,48.30709,-116.498899,48.30709",
     "geom:latitude":48.30709,
     "geom:longitude":-116.498899,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"177 Nancy Rd",
     "sg:city":"Sandpoint",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":185797363,
-    "wof:lastmodified":1449008066,
+    "wof:lastmodified":1466488290,
     "wof:name":"Stephanie A Flesher",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "radiologist"
     ]
 },
-  "bbox": [-116.498899,48.30709,-116.498899,48.30709],
-  "geometry": {"coordinates":[-116.498899,48.30709],"type":"Point"}
+  "bbox": [
+    -116.498899,
+    48.30709,
+    -116.498899,
+    48.30709
+],
+  "geometry": {"coordinates":[-116.49889899999999,48.30709],"type":"Point"}
 }

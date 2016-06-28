@@ -2,13 +2,14 @@
   "id": 185992895,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.357037,43.607103,-116.357037,43.607103",
     "geom:latitude":43.607103,
     "geom:longitude":-116.357037,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2975 Lanark St",
     "sg:city":"Meridian",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":185992895,
-    "wof:lastmodified":1449007371,
+    "wof:lastmodified":1466488750,
     "wof:name":"YMC Inc",
     "wof:parent_id":85805083,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "contractor"
     ]
 },
-  "bbox": [-116.357037,43.607103,-116.357037,43.607103],
-  "geometry": {"coordinates":[-116.357037,43.607103],"type":"Point"}
+  "bbox": [
+    -116.357037,
+    43.607103,
+    -116.357037,
+    43.607103
+],
+  "geometry": {"coordinates":[-116.35703700000001,43.607103],"type":"Point"}
 }

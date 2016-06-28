@@ -2,13 +2,14 @@
   "id": 185780593,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.792941,46.395143,-116.792941,46.395143",
     "geom:latitude":46.395143,
     "geom:longitude":-116.792941,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"27237 Sumac Ln",
     "sg:city":"Lapwai",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":185780593,
-    "wof:lastmodified":1449007812,
+    "wof:lastmodified":1466488166,
     "wof:name":"Atkinson Home Improvement",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-116.792941,46.395143,-116.792941,46.395143],
+  "bbox": [
+    -116.792941,
+    46.395143,
+    -116.792941,
+    46.395143
+],
   "geometry": {"coordinates":[-116.792941,46.395143],"type":"Point"}
 }

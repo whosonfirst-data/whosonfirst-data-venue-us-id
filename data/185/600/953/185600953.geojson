@@ -2,13 +2,14 @@
   "id": 185600953,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.43537,42.56652,-114.43537,42.56652",
     "geom:latitude":42.56652,
     "geom:longitude":-114.43537,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"295 Cedar Park Cir",
     "sg:city":"Twin Falls",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":185600953,
-    "wof:lastmodified":1449006760,
+    "wof:lastmodified":1466487242,
     "wof:name":"Aardvark Janitorial",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "janitorial"
     ]
 },
-  "bbox": [-114.43537,42.56652,-114.43537,42.56652],
-  "geometry": {"coordinates":[-114.43537,42.56652],"type":"Point"}
+  "bbox": [
+    -114.43537,
+    42.56652,
+    -114.43537,
+    42.56652
+],
+  "geometry": {"coordinates":[-114.43537000000001,42.56652],"type":"Point"}
 }

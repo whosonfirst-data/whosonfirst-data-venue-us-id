@@ -2,13 +2,14 @@
   "id": 186430143,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.528647,43.375469,-116.528647,43.375469",
     "geom:latitude":43.375469,
     "geom:longitude":-116.528647,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"319 Randolph St",
     "sg:city":"Melba",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186430143,
-    "wof:lastmodified":1449052087,
+    "wof:lastmodified":1466488803,
     "wof:name":"Melba Community Baptist Church",
     "wof:parent_id":85827787,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-116.528647,43.375469,-116.528647,43.375469],
-  "geometry": {"coordinates":[-116.528647,43.375469],"type":"Point"}
+  "bbox": [
+    -116.528647,
+    43.375469,
+    -116.528647,
+    43.375469
+],
+  "geometry": {"coordinates":[-116.52864700000001,43.375469],"type":"Point"}
 }

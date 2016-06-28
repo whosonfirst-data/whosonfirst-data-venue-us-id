@@ -2,13 +2,14 @@
   "id": 320543465,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.336877,43.66295,-116.336877,43.66295",
     "geom:latitude":43.66295,
     "geom:longitude":-116.336877,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"12375 W Chinden Blvd",
     "sg:city":"Boise",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":320543465,
-    "wof:lastmodified":1449011988,
+    "wof:lastmodified":1466486967,
     "wof:name":"Guido's Original New York",
     "wof:parent_id":85876351,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "italian"
     ]
 },
-  "bbox": [-116.336877,43.66295,-116.336877,43.66295],
+  "bbox": [
+    -116.336877,
+    43.66295,
+    -116.336877,
+    43.66295
+],
   "geometry": {"coordinates":[-116.336877,43.66295],"type":"Point"}
 }

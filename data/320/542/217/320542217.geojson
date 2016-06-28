@@ -2,13 +2,14 @@
   "id": 320542217,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.243599,43.578869,-116.243599,43.578869",
     "geom:latitude":43.578869,
     "geom:longitude":-116.243599,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2777 S Orchard St",
     "sg:city":"Boise",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":320542217,
-    "wof:lastmodified":1449014134,
+    "wof:lastmodified":1466486938,
     "wof:name":"Dennis Dillon Nissan",
     "wof:parent_id":85825393,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-116.243599,43.578869,-116.243599,43.578869],
+  "bbox": [
+    -116.243599,
+    43.578869,
+    -116.243599,
+    43.578869
+],
   "geometry": {"coordinates":[-116.243599,43.578869],"type":"Point"}
 }

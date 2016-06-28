@@ -2,13 +2,14 @@
   "id": 185953273,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.611391,43.619864,-116.611391,43.619864",
     "geom:latitude":43.619864,
     "geom:longitude":-116.611391,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2420 Chacartegui Ln",
     "sg:city":"Nampa",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":185953273,
-    "wof:lastmodified":1449007698,
+    "wof:lastmodified":1466488599,
     "wof:name":"Fw Agency LLC",
     "wof:parent_id":85835387,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "establishment"
     ]
 },
-  "bbox": [-116.611391,43.619864,-116.611391,43.619864],
+  "bbox": [
+    -116.611391,
+    43.619864,
+    -116.611391,
+    43.619864
+],
   "geometry": {"coordinates":[-116.611391,43.619864],"type":"Point"}
 }

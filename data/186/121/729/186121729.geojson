@@ -2,13 +2,14 @@
   "id": 186121729,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-117.012357,46.516735,-117.012357,46.516735",
     "geom:latitude":46.516735,
     "geom:longitude":-117.012357,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"19020 Moser Rd",
     "sg:city":"Genesee",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186121729,
-    "wof:lastmodified":1449052410,
+    "wof:lastmodified":1466488077,
     "wof:name":"Ashburn Farms",
     "wof:parent_id":85852537,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "general"
     ]
 },
-  "bbox": [-117.012357,46.516735,-117.012357,46.516735],
-  "geometry": {"coordinates":[-117.012357,46.516735],"type":"Point"}
+  "bbox": [
+    -117.012357,
+    46.516735,
+    -117.012357,
+    46.516735
+],
+  "geometry": {"coordinates":[-117.01235699999999,46.516735],"type":"Point"}
 }

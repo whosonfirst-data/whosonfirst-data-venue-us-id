@@ -2,13 +2,14 @@
   "id": 169845013,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.454335,43.627736,-116.454335,43.627736",
     "geom:latitude":43.627736,
     "geom:longitude":-116.454335,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2621 N Valley Green Way",
     "sg:city":"Meridian",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":169845013,
-    "wof:lastmodified":1449033235,
+    "wof:lastmodified":1466488692,
     "wof:name":"Aldrich Security Consulting LL",
     "wof:parent_id":85876351,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "business"
     ]
 },
-  "bbox": [-116.454335,43.627736,-116.454335,43.627736],
+  "bbox": [
+    -116.454335,
+    43.627736,
+    -116.454335,
+    43.627736
+],
   "geometry": {"coordinates":[-116.454335,43.627736],"type":"Point"}
 }

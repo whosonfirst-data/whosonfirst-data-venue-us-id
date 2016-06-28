@@ -2,13 +2,14 @@
   "id": 186428729,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.632612,43.778918,-116.632612,43.778918",
     "geom:latitude":43.778918,
     "geom:longitude":-116.632612,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"28143 Cemetery Rd",
     "sg:city":"Middleton",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":186428729,
-    "wof:lastmodified":1449052852,
+    "wof:lastmodified":1466488855,
     "wof:name":"Masterpiece Floor Covering",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -66,6 +68,11 @@
         "refinishing"
     ]
 },
-  "bbox": [-116.632612,43.778918,-116.632612,43.778918],
-  "geometry": {"coordinates":[-116.632612,43.778918],"type":"Point"}
+  "bbox": [
+    -116.632612,
+    43.778918,
+    -116.632612,
+    43.778918
+],
+  "geometry": {"coordinates":[-116.63261199999999,43.778918],"type":"Point"}
 }

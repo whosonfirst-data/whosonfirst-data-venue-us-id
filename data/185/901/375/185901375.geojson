@@ -2,13 +2,14 @@
   "id": 185901375,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.972773,46.728994,-116.972773,46.728994",
     "geom:latitude":46.728994,
     "geom:longitude":-116.972773,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2201 Westview Dr",
     "sg:city":"Moscow",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":185901375,
-    "wof:lastmodified":1449007276,
+    "wof:lastmodified":1466488486,
     "wof:name":"Brook Crowne Investments LLC",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "skilled"
     ]
 },
-  "bbox": [-116.972773,46.728994,-116.972773,46.728994],
+  "bbox": [
+    -116.972773,
+    46.728994,
+    -116.972773,
+    46.728994
+],
   "geometry": {"coordinates":[-116.972773,46.728994],"type":"Point"}
 }

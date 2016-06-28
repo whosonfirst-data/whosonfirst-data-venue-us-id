@@ -2,13 +2,14 @@
   "id": 169741191,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.253276,47.007672,-116.253276,47.007672",
     "geom:latitude":47.007672,
     "geom:longitude":-116.253276,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"377 Poplar St",
     "sg:city":"Clarkia",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":169741191,
-    "wof:lastmodified":1449032863,
+    "wof:lastmodified":1466488388,
     "wof:name":"Clarkia Free Library Dist",
     "wof:parent_id":85849049,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-116.253276,47.007672,-116.253276,47.007672],
+  "bbox": [
+    -116.253276,
+    47.007672,
+    -116.253276,
+    47.007672
+],
   "geometry": {"coordinates":[-116.253276,47.007672],"type":"Point"}
 }

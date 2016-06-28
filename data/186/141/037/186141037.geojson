@@ -2,13 +2,14 @@
   "id": 186141037,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.20098,43.618857,-116.20098,43.618857",
     "geom:latitude":43.618857,
     "geom:longitude":-116.20098,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"880 W State St",
     "sg:city":"Boise",
     "sg:classifiers":[
@@ -52,16 +53,22 @@
         }
     ],
     "wof:id":186141037,
-    "wof:lastmodified":1449051335,
+    "wof:lastmodified":1466488234,
     "wof:name":"First Church-Christ Scientist",
     "wof:parent_id":85876341,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-116.20098,43.618857,-116.20098,43.618857],
+  "bbox": [
+    -116.20098,
+    43.618857,
+    -116.20098,
+    43.618857
+],
   "geometry": {"coordinates":[-116.20098,43.618857],"type":"Point"}
 }

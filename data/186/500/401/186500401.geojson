@@ -2,13 +2,14 @@
   "id": 186500401,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.271822,43.613712,-116.271822,43.613712",
     "geom:latitude":43.613712,
     "geom:longitude":-116.271822,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7269 Cascade Dr",
     "sg:city":"Boise",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":186500401,
-    "wof:lastmodified":1449051062,
+    "wof:lastmodified":1466488914,
     "wof:name":"Rachel S Gilbert",
     "wof:parent_id":85841319,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-116.271822,43.613712,-116.271822,43.613712],
+  "bbox": [
+    -116.271822,
+    43.613712,
+    -116.271822,
+    43.613712
+],
   "geometry": {"coordinates":[-116.271822,43.613712],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 185999899,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.561042,48.269286,-116.561042,48.269286",
     "geom:latitude":48.269286,
     "geom:longitude":-116.561042,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"407 S Marion Ave",
     "sg:city":"Sandpoint",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":185999899,
-    "wof:lastmodified":1449008024,
+    "wof:lastmodified":1466488748,
     "wof:name":"A-1 Towing",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "wrecker"
     ]
 },
-  "bbox": [-116.561042,48.269286,-116.561042,48.269286],
+  "bbox": [
+    -116.561042,
+    48.269286,
+    -116.561042,
+    48.269286
+],
   "geometry": {"coordinates":[-116.561042,48.269286],"type":"Point"}
 }

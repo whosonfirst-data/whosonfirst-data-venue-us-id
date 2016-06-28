@@ -2,13 +2,14 @@
   "id": 169719963,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.50627,42.491157,-114.50627,42.491157",
     "geom:latitude":42.491157,
     "geom:longitude":-114.50627,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2763 E 3400 N",
     "sg:city":"Twin Falls",
     "sg:classifiers":[
@@ -48,16 +49,22 @@
         }
     ],
     "wof:id":169719963,
-    "wof:lastmodified":1449033110,
+    "wof:lastmodified":1466488190,
     "wof:name":"Renditions",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "bronze"
     ]
 },
-  "bbox": [-114.50627,42.491157,-114.50627,42.491157],
+  "bbox": [
+    -114.50627,
+    42.491157,
+    -114.50627,
+    42.491157
+],
   "geometry": {"coordinates":[-114.50627,42.491157],"type":"Point"}
 }

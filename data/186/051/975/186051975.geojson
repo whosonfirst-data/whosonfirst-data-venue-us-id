@@ -2,13 +2,14 @@
   "id": 186051975,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.55884,46.801909,-116.55884,46.801909",
     "geom:latitude":46.801909,
     "geom:longitude":-116.55884,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"605 5th Ave",
     "sg:city":"Deary",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":186051975,
-    "wof:lastmodified":1449052024,
+    "wof:lastmodified":1466487334,
     "wof:name":"L D Mc Farland Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "pole"
     ]
 },
-  "bbox": [-116.55884,46.801909,-116.55884,46.801909],
+  "bbox": [
+    -116.55884,
+    46.801909,
+    -116.55884,
+    46.801909
+],
   "geometry": {"coordinates":[-116.55884,46.801909],"type":"Point"}
 }

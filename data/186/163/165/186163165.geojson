@@ -2,13 +2,14 @@
   "id": 186163165,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.210137,43.621344,-116.210137,43.621344",
     "geom:latitude":43.621344,
     "geom:longitude":-116.210137,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1408 W Bannock St",
     "sg:city":"Boise",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":186163165,
-    "wof:lastmodified":1449052977,
+    "wof:lastmodified":1466488406,
     "wof:name":"Marshall D Ogden DPM",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-116.210137,43.621344,-116.210137,43.621344],
+  "bbox": [
+    -116.210137,
+    43.621344,
+    -116.210137,
+    43.621344
+],
   "geometry": {"coordinates":[-116.210137,43.621344],"type":"Point"}
 }

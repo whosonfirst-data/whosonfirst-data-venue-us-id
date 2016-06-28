@@ -2,13 +2,14 @@
   "id": 169806111,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.953951,47.716154,-116.953951,47.716154",
     "geom:latitude":47.716154,
     "geom:longitude":-116.953951,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"312 W Mullan Ave",
     "sg:city":"Post Falls",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":169806111,
-    "wof:lastmodified":1449032677,
+    "wof:lastmodified":1466488435,
     "wof:name":"Cenex-Cooperative Supply Inc",
     "wof:parent_id":85833263,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "feed"
     ]
 },
-  "bbox": [-116.953951,47.716154,-116.953951,47.716154],
+  "bbox": [
+    -116.953951,
+    47.716154,
+    -116.953951,
+    47.716154
+],
   "geometry": {"coordinates":[-116.953951,47.716154],"type":"Point"}
 }

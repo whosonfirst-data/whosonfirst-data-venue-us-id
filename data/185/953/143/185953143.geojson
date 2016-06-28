@@ -2,13 +2,14 @@
   "id": 185953143,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.181198,43.584187,-116.181198,43.584187",
     "geom:latitude":43.584187,
     "geom:longitude":-116.181198,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"215 E Boise Ave",
     "sg:city":"Boise",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":185953143,
-    "wof:lastmodified":1449007698,
+    "wof:lastmodified":1466488597,
     "wof:name":"All Around Construction",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "contractor"
     ]
 },
-  "bbox": [-116.181198,43.584187,-116.181198,43.584187],
-  "geometry": {"coordinates":[-116.181198,43.584187],"type":"Point"}
+  "bbox": [
+    -116.181198,
+    43.584187,
+    -116.181198,
+    43.584187
+],
+  "geometry": {"coordinates":[-116.18119799999999,43.584187],"type":"Point"}
 }

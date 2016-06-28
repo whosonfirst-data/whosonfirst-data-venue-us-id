@@ -2,13 +2,14 @@
   "id": 186329059,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.122604,43.112831,-114.122604,43.112831",
     "geom:latitude":43.112831,
     "geom:longitude":-114.122604,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1452 E 1220 N",
     "sg:city":"Richfield",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":186329059,
-    "wof:lastmodified":1449051131,
+    "wof:lastmodified":1466488717,
     "wof:name":"C F Livestock",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "general"
     ]
 },
-  "bbox": [-114.122604,43.112831,-114.122604,43.112831],
+  "bbox": [
+    -114.122604,
+    43.112831,
+    -114.122604,
+    43.112831
+],
   "geometry": {"coordinates":[-114.122604,43.112831],"type":"Point"}
 }

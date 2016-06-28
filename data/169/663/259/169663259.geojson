@@ -2,13 +2,14 @@
   "id": 169663259,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-113.661793,42.630275,-113.661793,42.630275",
     "geom:latitude":42.630275,
     "geom:longitude":-113.661793,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1710 Gingko St",
     "sg:city":"Rupert",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":169663259,
-    "wof:lastmodified":1449035105,
+    "wof:lastmodified":1466487786,
     "wof:name":"S & S Custom Woodworking Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "handyman"
     ]
 },
-  "bbox": [-113.661793,42.630275,-113.661793,42.630275],
+  "bbox": [
+    -113.661793,
+    42.630275,
+    -113.661793,
+    42.630275
+],
   "geometry": {"coordinates":[-113.661793,42.630275],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186472571,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-117.008628,44.266057,-117.008628,44.266057",
     "geom:latitude":44.266057,
     "geom:longitude":-117.008628,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"793 Hale Rd",
     "sg:city":"Weiser",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":186472571,
-    "wof:lastmodified":1449050458,
+    "wof:lastmodified":1466488898,
     "wof:name":"Professional Code Service",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "custom"
     ]
 },
-  "bbox": [-117.008628,44.266057,-117.008628,44.266057],
+  "bbox": [
+    -117.008628,
+    44.266057,
+    -117.008628,
+    44.266057
+],
   "geometry": {"coordinates":[-117.008628,44.266057],"type":"Point"}
 }

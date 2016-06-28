@@ -2,13 +2,14 @@
   "id": 185907197,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.265256,43.632144,-116.265256,43.632144",
     "geom:latitude":43.632144,
     "geom:longitude":-116.265256,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6714 Pomona Rd",
     "sg:city":"Boise",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":185907197,
-    "wof:lastmodified":1449008095,
+    "wof:lastmodified":1466488669,
     "wof:name":"Metro Couriers",
     "wof:parent_id":85876349,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "delivery"
     ]
 },
-  "bbox": [-116.265256,43.632144,-116.265256,43.632144],
-  "geometry": {"coordinates":[-116.265256,43.632144],"type":"Point"}
+  "bbox": [
+    -116.265256,
+    43.632144,
+    -116.265256,
+    43.632144
+],
+  "geometry": {"coordinates":[-116.26525599999999,43.632144],"type":"Point"}
 }

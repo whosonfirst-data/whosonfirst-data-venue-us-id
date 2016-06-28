@@ -2,13 +2,14 @@
   "id": 185977777,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.655163,43.653713,-116.655163,43.653713",
     "geom:latitude":43.653713,
     "geom:longitude":-116.655163,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1312 Industrial Way",
     "sg:city":"Caldwell",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":185977777,
-    "wof:lastmodified":1449008263,
+    "wof:lastmodified":1466488817,
     "wof:name":"Quality Machine Products Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "shop"
     ]
 },
-  "bbox": [-116.655163,43.653713,-116.655163,43.653713],
+  "bbox": [
+    -116.655163,
+    43.653713,
+    -116.655163,
+    43.653713
+],
   "geometry": {"coordinates":[-116.655163,43.653713],"type":"Point"}
 }

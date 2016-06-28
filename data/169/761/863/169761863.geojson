@@ -2,13 +2,14 @@
   "id": 169761863,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.317641,43.614529,-116.317641,43.614529",
     "geom:latitude":43.614529,
     "geom:longitude":-116.317641,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"551 Silver City Dr",
     "sg:city":"Boise",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":169761863,
-    "wof:lastmodified":1449035178,
+    "wof:lastmodified":1466488438,
     "wof:name":"Red Wagon Consulting",
     "wof:parent_id":85811491,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "consultant"
     ]
 },
-  "bbox": [-116.317641,43.614529,-116.317641,43.614529],
-  "geometry": {"coordinates":[-116.317641,43.614529],"type":"Point"}
+  "bbox": [
+    -116.317641,
+    43.614529,
+    -116.317641,
+    43.614529
+],
+  "geometry": {"coordinates":[-116.31764099999999,43.614529],"type":"Point"}
 }

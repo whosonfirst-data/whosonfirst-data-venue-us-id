@@ -2,13 +2,14 @@
   "id": 169667355,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.023909,43.495318,-112.023909,43.495318",
     "geom:latitude":43.495318,
     "geom:longitude":-112.023909,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"280 S Holmes Ave",
     "sg:city":"Idaho Falls",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":169667355,
-    "wof:lastmodified":1449034842,
+    "wof:lastmodified":1466487844,
     "wof:name":"Decisionone",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "repair"
     ]
 },
-  "bbox": [-112.023909,43.495318,-112.023909,43.495318],
+  "bbox": [
+    -112.023909,
+    43.495318,
+    -112.023909,
+    43.495318
+],
   "geometry": {"coordinates":[-112.023909,43.495318],"type":"Point"}
 }

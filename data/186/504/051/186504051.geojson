@@ -2,13 +2,14 @@
   "id": 186504051,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.195686,43.612812,-116.195686,43.612812",
     "geom:latitude":43.612812,
     "geom:longitude":-116.195686,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"101 N 2nd St",
     "sg:city":"Boise",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186504051,
-    "wof:lastmodified":1449050888,
+    "wof:lastmodified":1466488916,
     "wof:name":"Diamond Parking Svc",
     "wof:parent_id":85876345,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "garage"
     ]
 },
-  "bbox": [-116.195686,43.612812,-116.195686,43.612812],
-  "geometry": {"coordinates":[-116.195686,43.612812],"type":"Point"}
+  "bbox": [
+    -116.195686,
+    43.612812,
+    -116.195686,
+    43.612812
+],
+  "geometry": {"coordinates":[-116.19568599999999,43.612812],"type":"Point"}
 }

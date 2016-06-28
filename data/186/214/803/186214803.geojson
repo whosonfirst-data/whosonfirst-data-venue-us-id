@@ -2,13 +2,14 @@
   "id": 186214803,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.780085,43.865715,-116.780085,43.865715",
     "geom:latitude":43.865715,
     "geom:longitude":-116.780085,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5230 Black Canyon Rd",
     "sg:city":"Caldwell",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":186214803,
-    "wof:lastmodified":1449052953,
+    "wof:lastmodified":1466488524,
     "wof:name":"S&B Barber & Beauty Shop",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "shop"
     ]
 },
-  "bbox": [-116.780085,43.865715,-116.780085,43.865715],
+  "bbox": [
+    -116.780085,
+    43.865715,
+    -116.780085,
+    43.865715
+],
   "geometry": {"coordinates":[-116.780085,43.865715],"type":"Point"}
 }

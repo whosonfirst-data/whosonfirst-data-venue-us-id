@@ -2,13 +2,14 @@
   "id": 186201057,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.893031,44.074997,-116.893031,44.074997",
     "geom:latitude":44.074997,
     "geom:longitude":-116.893031,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2875 Center Ave",
     "sg:city":"Payette",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":186201057,
-    "wof:lastmodified":1449052657,
+    "wof:lastmodified":1466488497,
     "wof:name":"North West Mill Works",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "maintenance"
     ]
 },
-  "bbox": [-116.893031,44.074997,-116.893031,44.074997],
-  "geometry": {"coordinates":[-116.893031,44.074997],"type":"Point"}
+  "bbox": [
+    -116.893031,
+    44.074997,
+    -116.893031,
+    44.074997
+],
+  "geometry": {"coordinates":[-116.89303099999999,44.074997],"type":"Point"}
 }

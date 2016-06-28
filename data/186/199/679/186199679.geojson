@@ -2,13 +2,14 @@
   "id": 186199679,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.09832,44.903102,-116.09832,44.903102",
     "geom:latitude":44.903102,
     "geom:longitude":-116.09832,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"321 N 3rd St",
     "sg:city":"Mccall",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":186199679,
-    "wof:lastmodified":1449050519,
+    "wof:lastmodified":1466488501,
     "wof:name":"Creed Noah Real Estate Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-116.09832,44.903102,-116.09832,44.903102],
+  "bbox": [
+    -116.09832,
+    44.903102,
+    -116.09832,
+    44.903102
+],
   "geometry": {"coordinates":[-116.09832,44.903102],"type":"Point"}
 }

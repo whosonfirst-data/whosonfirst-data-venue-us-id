@@ -2,13 +2,14 @@
   "id": 186448469,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.335737,43.688393,-116.335737,43.688393",
     "geom:latitude":43.688393,
     "geom:longitude":-116.335737,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1505 Riverside St",
     "sg:city":"Eagle",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186448469,
-    "wof:lastmodified":1449052913,
+    "wof:lastmodified":1466488820,
     "wof:name":"Lonesome Dove Ranch",
     "wof:parent_id":85876351,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "stable"
     ]
 },
-  "bbox": [-116.335737,43.688393,-116.335737,43.688393],
-  "geometry": {"coordinates":[-116.335737,43.688393],"type":"Point"}
+  "bbox": [
+    -116.335737,
+    43.688393,
+    -116.335737,
+    43.688393
+],
+  "geometry": {"coordinates":[-116.33573699999999,43.688393],"type":"Point"}
 }

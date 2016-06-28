@@ -2,13 +2,14 @@
   "id": 185677169,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.246091,43.597133,-116.246091,43.597133",
     "geom:latitude":43.597133,
     "geom:longitude":-116.246091,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1001 S Hilton St",
     "sg:city":"Boise",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":185677169,
-    "wof:lastmodified":1449007171,
+    "wof:lastmodified":1466487345,
     "wof:name":"Hillcrest Rehabilitation Ctr",
     "wof:parent_id":85876295,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "convalescent"
     ]
 },
-  "bbox": [-116.246091,43.597133,-116.246091,43.597133],
-  "geometry": {"coordinates":[-116.246091,43.597133],"type":"Point"}
+  "bbox": [
+    -116.246091,
+    43.597133,
+    -116.246091,
+    43.597133
+],
+  "geometry": {"coordinates":[-116.24609100000001,43.597133],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186148025,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.797825,43.720192,-116.797825,43.720192",
     "geom:latitude":43.720192,
     "geom:longitude":-116.797825,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"24010 Notus Rd",
     "sg:city":"Caldwell",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":186148025,
-    "wof:lastmodified":1449052585,
+    "wof:lastmodified":1466488293,
     "wof:name":"Cheney Transportation",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "hauling"
     ]
 },
-  "bbox": [-116.797825,43.720192,-116.797825,43.720192],
+  "bbox": [
+    -116.797825,
+    43.720192,
+    -116.797825,
+    43.720192
+],
   "geometry": {"coordinates":[-116.797825,43.720192],"type":"Point"}
 }

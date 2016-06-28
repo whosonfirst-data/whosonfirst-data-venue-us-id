@@ -2,13 +2,14 @@
   "id": 186122091,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.548661,48.273968,-116.548661,48.273968",
     "geom:latitude":48.273968,
     "geom:longitude":-116.548661,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"109 Church St",
     "sg:city":"Sandpoint",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":186122091,
-    "wof:lastmodified":1449051899,
+    "wof:lastmodified":1466488080,
     "wof:name":"Bill Farrell Trucking",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "trucking"
     ]
 },
-  "bbox": [-116.548661,48.273968,-116.548661,48.273968],
+  "bbox": [
+    -116.548661,
+    48.273968,
+    -116.548661,
+    48.273968
+],
   "geometry": {"coordinates":[-116.548661,48.273968],"type":"Point"}
 }

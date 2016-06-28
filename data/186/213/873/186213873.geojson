@@ -2,13 +2,14 @@
   "id": 186213873,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.574399,43.736737,-116.574399,43.736737",
     "geom:latitude":43.736737,
     "geom:longitude":-116.574399,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9024 Willowview Dr",
     "sg:city":"Middleton",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":186213873,
-    "wof:lastmodified":1449050284,
+    "wof:lastmodified":1466488443,
     "wof:name":"Lazy J Enterprises",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-116.574399,43.736737,-116.574399,43.736737],
+  "bbox": [
+    -116.574399,
+    43.736737,
+    -116.574399,
+    43.736737
+],
   "geometry": {"coordinates":[-116.574399,43.736737],"type":"Point"}
 }

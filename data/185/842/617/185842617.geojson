@@ -2,13 +2,14 @@
   "id": 185842617,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.114248,47.536485,-116.114248,47.536485",
     "geom:latitude":47.536485,
     "geom:longitude":-116.114248,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"220 E Cameron Ave",
     "sg:city":"Kellogg",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":185842617,
-    "wof:lastmodified":1449006722,
+    "wof:lastmodified":1466488450,
     "wof:name":"Berean Baptist Church",
     "wof:parent_id":85849049,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-116.114248,47.536485,-116.114248,47.536485],
+  "bbox": [
+    -116.114248,
+    47.536485,
+    -116.114248,
+    47.536485
+],
   "geometry": {"coordinates":[-116.114248,47.536485],"type":"Point"}
 }

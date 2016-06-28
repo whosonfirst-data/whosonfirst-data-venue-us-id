@@ -2,13 +2,14 @@
   "id": 185978663,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.573012,48.270773,-116.573012,48.270773",
     "geom:latitude":48.270773,
     "geom:longitude":-116.573012,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2026 Janelle Way",
     "sg:city":"Sandpoint",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":185978663,
-    "wof:lastmodified":1449007534,
+    "wof:lastmodified":1466488643,
     "wof:name":"Lytton Research & Analysis",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-116.573012,48.270773,-116.573012,48.270773],
-  "geometry": {"coordinates":[-116.573012,48.270773],"type":"Point"}
+  "bbox": [
+    -116.573012,
+    48.270773,
+    -116.573012,
+    48.270773
+],
+  "geometry": {"coordinates":[-116.57301200000001,48.270773],"type":"Point"}
 }

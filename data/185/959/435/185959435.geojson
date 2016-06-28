@@ -2,13 +2,14 @@
   "id": 185959435,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.721528,47.663326,-116.721528,47.663326",
     "geom:latitude":47.663326,
     "geom:longitude":-116.721528,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1736 S Grouse Meadow Dr",
     "sg:city":"Coeur D Alene",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":185959435,
-    "wof:lastmodified":1449008063,
+    "wof:lastmodified":1466488689,
     "wof:name":"Cedar Mountain Supply Inc",
     "wof:parent_id":85821457,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "distribution"
     ]
 },
-  "bbox": [-116.721528,47.663326,-116.721528,47.663326],
-  "geometry": {"coordinates":[-116.721528,47.663326],"type":"Point"}
+  "bbox": [
+    -116.721528,
+    47.663326,
+    -116.721528,
+    47.663326
+],
+  "geometry": {"coordinates":[-116.72152800000001,47.663326],"type":"Point"}
 }

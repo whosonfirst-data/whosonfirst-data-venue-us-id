@@ -2,13 +2,14 @@
   "id": 169645729,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.279609,43.660841,-116.279609,43.660841",
     "geom:latitude":43.660841,
     "geom:longitude":-116.279609,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5870 Glenwood St",
     "sg:city":"Boise",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":169645729,
-    "wof:lastmodified":1449033004,
+    "wof:lastmodified":1466487523,
     "wof:name":"Ada County Paramedics Adm Ofc",
     "wof:parent_id":85876349,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-116.279609,43.660841,-116.279609,43.660841],
-  "geometry": {"coordinates":[-116.279609,43.660841],"type":"Point"}
+  "bbox": [
+    -116.279609,
+    43.660841,
+    -116.279609,
+    43.660841
+],
+  "geometry": {"coordinates":[-116.27960899999999,43.660841],"type":"Point"}
 }

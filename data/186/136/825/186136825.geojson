@@ -2,13 +2,14 @@
   "id": 186136825,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.218712,43.590921,-116.218712,43.590921",
     "geom:latitude":43.590921,
     "geom:longitude":-116.218712,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1515 Shoshone St",
     "sg:city":"Boise",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186136825,
-    "wof:lastmodified":1449052992,
+    "wof:lastmodified":1466488194,
     "wof:name":"Ames Appraisal Co Inc",
     "wof:parent_id":85825393,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "appraiser"
     ]
 },
-  "bbox": [-116.218712,43.590921,-116.218712,43.590921],
+  "bbox": [
+    -116.218712,
+    43.590921,
+    -116.218712,
+    43.590921
+],
   "geometry": {"coordinates":[-116.218712,43.590921],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169610551,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.403052,43.684027,-114.403052,43.684027",
     "geom:latitude":43.684027,
     "geom:longitude":-114.403052,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"215 Picabo St",
     "sg:city":"Ketchum",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":169610551,
-    "wof:lastmodified":1449035909,
+    "wof:lastmodified":1466486968,
     "wof:name":"Engl Alpine Training Ctr",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "skiing"
     ]
 },
-  "bbox": [-114.403052,43.684027,-114.403052,43.684027],
+  "bbox": [
+    -114.403052,
+    43.684027,
+    -114.403052,
+    43.684027
+],
   "geometry": {"coordinates":[-114.403052,43.684027],"type":"Point"}
 }

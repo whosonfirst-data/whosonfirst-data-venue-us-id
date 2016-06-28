@@ -2,13 +2,14 @@
   "id": 169630429,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.380931,43.613835,-116.380931,43.613835",
     "geom:latitude":43.613835,
     "geom:longitude":-116.380931,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1151 E Ashford St",
     "sg:city":"Meridian",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":169630429,
-    "wof:lastmodified":1449033872,
+    "wof:lastmodified":1466487284,
     "wof:name":"Screens 4 Less",
     "wof:parent_id":85811491,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "window"
     ]
 },
-  "bbox": [-116.380931,43.613835,-116.380931,43.613835],
+  "bbox": [
+    -116.380931,
+    43.613835,
+    -116.380931,
+    43.613835
+],
   "geometry": {"coordinates":[-116.380931,43.613835],"type":"Point"}
 }

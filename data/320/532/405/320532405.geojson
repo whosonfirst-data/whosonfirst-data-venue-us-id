@@ -2,13 +2,14 @@
   "id": 320532405,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.948829,43.617657,-116.948829,43.617657",
     "geom:latitude":43.617657,
     "geom:longitude":-116.948829,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"621 W Idaho Ave",
     "sg:city":"Homedale",
     "sg:classifiers":[
@@ -55,10 +56,11 @@
         }
     ],
     "wof:id":320532405,
-    "wof:lastmodified":1449012528,
+    "wof:lastmodified":1466488287,
     "wof:name":"Mt Calvary Lutheran Church",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -68,6 +70,11 @@
         "churches-lutheran-evangelical"
     ]
 },
-  "bbox": [-116.948829,43.617657,-116.948829,43.617657],
+  "bbox": [
+    -116.948829,
+    43.617657,
+    -116.948829,
+    43.617657
+],
   "geometry": {"coordinates":[-116.948829,43.617657],"type":"Point"}
 }

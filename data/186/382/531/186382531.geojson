@@ -2,13 +2,14 @@
   "id": 186382531,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.751136,47.77372,-116.751136,47.77372",
     "geom:latitude":47.77372,
     "geom:longitude":-116.751136,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"11761 N Eastshore Dr",
     "sg:city":"Hayden",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":186382531,
-    "wof:lastmodified":1449051097,
+    "wof:lastmodified":1466488772,
     "wof:name":"Travis Energy & Environment",
     "wof:parent_id":85821457,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-116.751136,47.77372,-116.751136,47.77372],
+  "bbox": [
+    -116.751136,
+    47.77372,
+    -116.751136,
+    47.77372
+],
   "geometry": {"coordinates":[-116.751136,47.77372],"type":"Point"}
 }

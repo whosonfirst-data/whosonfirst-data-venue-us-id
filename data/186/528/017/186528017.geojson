@@ -2,13 +2,14 @@
   "id": 186528017,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.594292,43.58233,-116.594292,43.58233",
     "geom:latitude":43.58233,
     "geom:longitude":-116.594292,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1015 W Hudson Ave",
     "sg:city":"Nampa",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186528017,
-    "wof:lastmodified":1449051102,
+    "wof:lastmodified":1466488930,
     "wof:name":"H & L Dairy Heifers Inc",
     "wof:parent_id":85827787,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "engineer"
     ]
 },
-  "bbox": [-116.594292,43.58233,-116.594292,43.58233],
+  "bbox": [
+    -116.594292,
+    43.58233,
+    -116.594292,
+    43.58233
+],
   "geometry": {"coordinates":[-116.594292,43.58233],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 185716231,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.86259,47.66072,-116.86259,47.66072",
     "geom:latitude":47.66072,
     "geom:longitude":-116.86259,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6642 W Meadowbrook Loop",
     "sg:city":"Coeur D Alene",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":185716231,
-    "wof:lastmodified":1449006834,
+    "wof:lastmodified":1466487651,
     "wof:name":"Manzo Vocal Studio",
     "wof:parent_id":85821457,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-116.86259,47.66072,-116.86259,47.66072],
+  "bbox": [
+    -116.86259,
+    47.66072,
+    -116.86259,
+    47.66072
+],
   "geometry": {"coordinates":[-116.86259,47.66072],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 185785361,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.513237,43.604606,-116.513237,43.604606",
     "geom:latitude":43.604606,
     "geom:longitude":-116.513237,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"15989 Garrity Blvd",
     "sg:city":"Nampa",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":185785361,
-    "wof:lastmodified":1449007958,
+    "wof:lastmodified":1466488196,
     "wof:name":"Quality Beeboards Inc",
     "wof:parent_id":85827787,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-116.513237,43.604606,-116.513237,43.604606],
+  "bbox": [
+    -116.513237,
+    43.604606,
+    -116.513237,
+    43.604606
+],
   "geometry": {"coordinates":[-116.513237,43.604606],"type":"Point"}
 }

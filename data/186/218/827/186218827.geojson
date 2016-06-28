@@ -2,13 +2,14 @@
   "id": 186218827,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.195209,46.488296,-116.195209,46.488296",
     "geom:latitude":46.488296,
     "geom:longitude":-116.195209,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2348 Grangemont Rd",
     "sg:city":"Orofino",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":186218827,
-    "wof:lastmodified":1449052072,
+    "wof:lastmodified":1466488460,
     "wof:name":"Clearwater Concrete Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "concrete"
     ]
 },
-  "bbox": [-116.195209,46.488296,-116.195209,46.488296],
-  "geometry": {"coordinates":[-116.195209,46.488296],"type":"Point"}
+  "bbox": [
+    -116.195209,
+    46.488296,
+    -116.195209,
+    46.488296
+],
+  "geometry": {"coordinates":[-116.19520900000001,46.488296],"type":"Point"}
 }

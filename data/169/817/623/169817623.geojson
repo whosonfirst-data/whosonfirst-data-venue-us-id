@@ -2,13 +2,14 @@
   "id": 169817623,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.613918,43.736566,-116.613918,43.736566",
     "geom:latitude":43.736566,
     "geom:longitude":-116.613918,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"25114 Triangle Dr",
     "sg:city":"Middleton",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":169817623,
-    "wof:lastmodified":1449035316,
+    "wof:lastmodified":1466488631,
     "wof:name":"Advanced Lawn Care Systems",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "grounds"
     ]
 },
-  "bbox": [-116.613918,43.736566,-116.613918,43.736566],
+  "bbox": [
+    -116.613918,
+    43.736566,
+    -116.613918,
+    43.736566
+],
   "geometry": {"coordinates":[-116.613918,43.736566],"type":"Point"}
 }

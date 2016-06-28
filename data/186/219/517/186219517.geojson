@@ -2,13 +2,14 @@
   "id": 186219517,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.945729,46.367718,-116.945729,46.367718",
     "geom:latitude":46.367718,
     "geom:longitude":-116.945729,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1639 Birch Ave",
     "sg:city":"Lewiston",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186219517,
-    "wof:lastmodified":1449052928,
+    "wof:lastmodified":1466488464,
     "wof:name":"Unique Care By S&J",
     "wof:parent_id":85837769,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "intermediate"
     ]
 },
-  "bbox": [-116.945729,46.367718,-116.945729,46.367718],
+  "bbox": [
+    -116.945729,
+    46.367718,
+    -116.945729,
+    46.367718
+],
   "geometry": {"coordinates":[-116.945729,46.367718],"type":"Point"}
 }

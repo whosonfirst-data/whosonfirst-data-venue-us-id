@@ -2,13 +2,14 @@
   "id": 185823821,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.314505,43.488094,-116.314505,43.488094",
     "geom:latitude":43.488094,
     "geom:longitude":-116.314505,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"12625 S Five Mile Rd",
     "sg:city":"Kuna",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":185823821,
-    "wof:lastmodified":1449008180,
+    "wof:lastmodified":1466488409,
     "wof:name":"Shay Ward Enterprises Inc",
     "wof:parent_id":85876331,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-116.314505,43.488094,-116.314505,43.488094],
+  "bbox": [
+    -116.314505,
+    43.488094,
+    -116.314505,
+    43.488094
+],
   "geometry": {"coordinates":[-116.314505,43.488094],"type":"Point"}
 }

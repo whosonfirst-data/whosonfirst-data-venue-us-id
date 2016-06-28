@@ -2,13 +2,14 @@
   "id": 186103273,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.272321,43.605777,-116.272321,43.605777",
     "geom:latitude":43.605777,
     "geom:longitude":-116.272321,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7265 Bethel St",
     "sg:city":"Boise",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":186103273,
-    "wof:lastmodified":1449052041,
+    "wof:lastmodified":1466487895,
     "wof:name":"Pioneer Coatings Inc",
     "wof:parent_id":85841319,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "product"
     ]
 },
-  "bbox": [-116.272321,43.605777,-116.272321,43.605777],
-  "geometry": {"coordinates":[-116.272321,43.605777],"type":"Point"}
+  "bbox": [
+    -116.272321,
+    43.605777,
+    -116.272321,
+    43.605777
+],
+  "geometry": {"coordinates":[-116.27232100000001,43.605777],"type":"Point"}
 }

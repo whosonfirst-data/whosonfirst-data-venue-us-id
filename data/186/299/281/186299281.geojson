@@ -2,13 +2,14 @@
   "id": 186299281,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.24109,43.964998,-112.24109,43.964998",
     "geom:latitude":43.964998,
     "geom:longitude":-112.24109,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2263 E 2350 N",
     "sg:city":"Hamer",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":186299281,
-    "wof:lastmodified":1449051077,
+    "wof:lastmodified":1466488729,
     "wof:name":"Upper Vly Flight Instruction",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.24109,43.964998,-112.24109,43.964998],
+  "bbox": [
+    -112.24109,
+    43.964998,
+    -112.24109,
+    43.964998
+],
   "geometry": {"coordinates":[-112.24109,43.964998],"type":"Point"}
 }

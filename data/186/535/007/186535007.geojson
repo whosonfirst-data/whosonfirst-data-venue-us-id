@@ -2,13 +2,14 @@
   "id": 186535007,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.309803,43.611025,-116.309803,43.611025",
     "geom:latitude":43.611025,
     "geom:longitude":-116.309803,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"600 N Armstrong Pl",
     "sg:city":"Boise",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":186535007,
-    "wof:lastmodified":1449050903,
+    "wof:lastmodified":1466488931,
     "wof:name":"Syngenta",
     "wof:parent_id":85876309,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "seed"
     ]
 },
-  "bbox": [-116.309803,43.611025,-116.309803,43.611025],
+  "bbox": [
+    -116.309803,
+    43.611025,
+    -116.309803,
+    43.611025
+],
   "geometry": {"coordinates":[-116.309803,43.611025],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 185850377,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.486382,43.87914,-116.486382,43.87914",
     "geom:latitude":43.87914,
     "geom:longitude":-116.486382,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1024 E Locust St",
     "sg:city":"Emmett",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":185850377,
-    "wof:lastmodified":1449007539,
+    "wof:lastmodified":1466488463,
     "wof:name":"Immanuel Benjamin MD",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "surgeon"
     ]
 },
-  "bbox": [-116.486382,43.87914,-116.486382,43.87914],
-  "geometry": {"coordinates":[-116.486382,43.87914],"type":"Point"}
+  "bbox": [
+    -116.486382,
+    43.87914,
+    -116.486382,
+    43.87914
+],
+  "geometry": {"coordinates":[-116.48638200000001,43.87914],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186432011,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.718365,48.247994,-116.718365,48.247994",
     "geom:latitude":48.247994,
     "geom:longitude":-116.718365,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2839 Wrenco Loop",
     "sg:city":"Sandpoint",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":186432011,
-    "wof:lastmodified":1449050188,
+    "wof:lastmodified":1466488712,
     "wof:name":"Peggys Prettys",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "mfg"
     ]
 },
-  "bbox": [-116.718365,48.247994,-116.718365,48.247994],
-  "geometry": {"coordinates":[-116.718365,48.247994],"type":"Point"}
+  "bbox": [
+    -116.718365,
+    48.247994,
+    -116.718365,
+    48.247994
+],
+  "geometry": {"coordinates":[-116.71836500000001,48.247994],"type":"Point"}
 }

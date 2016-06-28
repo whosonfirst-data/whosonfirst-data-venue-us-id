@@ -2,13 +2,14 @@
   "id": 185874937,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.233316,43.645389,-116.233316,43.645389",
     "geom:latitude":43.645389,
     "geom:longitude":-116.233316,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2716 N 36th St",
     "sg:city":"Boise",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":185874937,
-    "wof:lastmodified":1449008104,
+    "wof:lastmodified":1466488522,
     "wof:name":"Special Attntion For Hair Nils",
     "wof:parent_id":85876339,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "shop"
     ]
 },
-  "bbox": [-116.233316,43.645389,-116.233316,43.645389],
+  "bbox": [
+    -116.233316,
+    43.645389,
+    -116.233316,
+    43.645389
+],
   "geometry": {"coordinates":[-116.233316,43.645389],"type":"Point"}
 }

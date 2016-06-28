@@ -2,13 +2,14 @@
   "id": 186016267,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.025693,43.475924,-112.025693,43.475924",
     "geom:latitude":43.475924,
     "geom:longitude":-112.025693,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"425 E 24th St",
     "sg:city":"Idaho Falls",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":186016267,
-    "wof:lastmodified":1449050885,
+    "wof:lastmodified":1466486926,
     "wof:name":"Mindy Christianse",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "day"
     ]
 },
-  "bbox": [-112.025693,43.475924,-112.025693,43.475924],
+  "bbox": [
+    -112.025693,
+    43.475924,
+    -112.025693,
+    43.475924
+],
   "geometry": {"coordinates":[-112.025693,43.475924],"type":"Point"}
 }

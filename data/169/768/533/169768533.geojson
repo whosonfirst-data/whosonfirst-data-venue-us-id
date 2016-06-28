@@ -2,13 +2,14 @@
   "id": 169768533,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.042785,43.493636,-112.042785,43.493636",
     "geom:latitude":43.493636,
     "geom:longitude":-112.042785,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"490 Memorial Dr",
     "sg:city":"Idaho Falls",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":169768533,
-    "wof:lastmodified":1449033951,
+    "wof:lastmodified":1466488440,
     "wof:name":"Anderson Nelson Hall Smith",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "attorney"
     ]
 },
-  "bbox": [-112.042785,43.493636,-112.042785,43.493636],
-  "geometry": {"coordinates":[-112.042785,43.493636],"type":"Point"}
+  "bbox": [
+    -112.042785,
+    43.493636,
+    -112.042785,
+    43.493636
+],
+  "geometry": {"coordinates":[-112.04278499999999,43.493636],"type":"Point"}
 }

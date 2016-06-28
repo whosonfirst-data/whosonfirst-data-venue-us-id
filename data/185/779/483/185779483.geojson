@@ -2,13 +2,14 @@
   "id": 185779483,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.300917,43.671482,-116.300917,43.671482",
     "geom:latitude":43.671482,
     "geom:longitude":-116.300917,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9460 W Pebble Brook Ln",
     "sg:city":"Boise",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":185779483,
-    "wof:lastmodified":1449006857,
+    "wof:lastmodified":1466488158,
     "wof:name":"Whiterock Investments LLC",
     "wof:parent_id":85876315,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "advisory"
     ]
 },
-  "bbox": [-116.300917,43.671482,-116.300917,43.671482],
+  "bbox": [
+    -116.300917,
+    43.671482,
+    -116.300917,
+    43.671482
+],
   "geometry": {"coordinates":[-116.300917,43.671482],"type":"Point"}
 }

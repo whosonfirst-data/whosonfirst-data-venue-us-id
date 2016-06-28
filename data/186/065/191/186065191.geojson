@@ -2,13 +2,14 @@
   "id": 186065191,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.68198,47.754563,-116.68198,47.754563",
     "geom:latitude":47.754563,
     "geom:longitude":-116.68198,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"12480 E Hayden Lake Rd",
     "sg:city":"Hayden",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":186065191,
-    "wof:lastmodified":1449053008,
+    "wof:lastmodified":1466487486,
     "wof:name":"Msm Design Inc",
     "wof:parent_id":85821457,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "supply"
     ]
 },
-  "bbox": [-116.68198,47.754563,-116.68198,47.754563],
+  "bbox": [
+    -116.68198,
+    47.754563,
+    -116.68198,
+    47.754563
+],
   "geometry": {"coordinates":[-116.68198,47.754563],"type":"Point"}
 }

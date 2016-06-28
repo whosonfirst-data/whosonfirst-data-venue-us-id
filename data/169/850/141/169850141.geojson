@@ -2,13 +2,14 @@
   "id": 169850141,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.279249,43.666534,-116.279249,43.666534",
     "geom:latitude":43.666534,
     "geom:longitude":-116.279249,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6736 Glenwood St",
     "sg:city":"Boise",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":169850141,
-    "wof:lastmodified":1449034600,
+    "wof:lastmodified":1466488619,
     "wof:name":"Granny's Restaurant",
     "wof:parent_id":85876315,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-116.279249,43.666534,-116.279249,43.666534],
-  "geometry": {"coordinates":[-116.279249,43.666534],"type":"Point"}
+  "bbox": [
+    -116.279249,
+    43.666534,
+    -116.279249,
+    43.666534
+],
+  "geometry": {"coordinates":[-116.27924899999999,43.666534],"type":"Point"}
 }

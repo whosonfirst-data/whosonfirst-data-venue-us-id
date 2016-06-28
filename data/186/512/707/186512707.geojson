@@ -2,13 +2,14 @@
   "id": 186512707,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.546332,43.605119,-116.546332,43.605119",
     "geom:latitude":43.605119,
     "geom:longitude":-116.546332,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2016 E Karcher Rd",
     "sg:city":"Nampa",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186512707,
-    "wof:lastmodified":1449052307,
+    "wof:lastmodified":1466488922,
     "wof:name":"Titus Manufacturing",
     "wof:parent_id":85827787,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "metal"
     ]
 },
-  "bbox": [-116.546332,43.605119,-116.546332,43.605119],
-  "geometry": {"coordinates":[-116.546332,43.605119],"type":"Point"}
+  "bbox": [
+    -116.546332,
+    43.605119,
+    -116.546332,
+    43.605119
+],
+  "geometry": {"coordinates":[-116.54633200000001,43.605119],"type":"Point"}
 }

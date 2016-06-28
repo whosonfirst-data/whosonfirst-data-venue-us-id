@@ -2,13 +2,14 @@
   "id": 320551235,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.992976,47.756754,-116.992976,47.756754",
     "geom:latitude":47.756754,
     "geom:longitude":-116.992976,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"21595 W Highway 53",
     "sg:city":"Rathdrum",
     "sg:classifiers":[
@@ -57,10 +58,11 @@
         }
     ],
     "wof:id":320551235,
-    "wof:lastmodified":1449012010,
+    "wof:lastmodified":1466487053,
     "wof:name":"Noah's",
     "wof:parent_id":85833263,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -69,6 +71,11 @@
         "cat"
     ]
 },
-  "bbox": [-116.992976,47.756754,-116.992976,47.756754],
+  "bbox": [
+    -116.992976,
+    47.756754,
+    -116.992976,
+    47.756754
+],
   "geometry": {"coordinates":[-116.992976,47.756754],"type":"Point"}
 }

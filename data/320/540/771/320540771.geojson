@@ -2,13 +2,14 @@
   "id": 320540771,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.508578,43.605039,-116.508578,43.605039",
     "geom:latitude":43.605039,
     "geom:longitude":-116.508578,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5700 E Franklin Rd Suite 200",
     "sg:city":"Nampa",
     "sg:classifiers":[
@@ -67,10 +68,11 @@
         }
     ],
     "wof:id":320540771,
-    "wof:lastmodified":1449012736,
+    "wof:lastmodified":1466486903,
     "wof:name":"White Peterson PA Attorneys At Law",
     "wof:parent_id":85827787,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -92,6 +94,11 @@
         "law"
     ]
 },
-  "bbox": [-116.508578,43.605039,-116.508578,43.605039],
+  "bbox": [
+    -116.508578,
+    43.605039,
+    -116.508578,
+    43.605039
+],
   "geometry": {"coordinates":[-116.508578,43.605039],"type":"Point"}
 }

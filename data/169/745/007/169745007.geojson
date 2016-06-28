@@ -2,13 +2,14 @@
   "id": 169745007,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.938412,44.088263,-116.938412,44.088263",
     "geom:latitude":44.088263,
     "geom:longitude":-116.938412,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1307 N 6th St",
     "sg:city":"Payette",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":169745007,
-    "wof:lastmodified":1449035813,
+    "wof:lastmodified":1466488335,
     "wof:name":"Rudy's Concrete",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "contractor"
     ]
 },
-  "bbox": [-116.938412,44.088263,-116.938412,44.088263],
+  "bbox": [
+    -116.938412,
+    44.088263,
+    -116.938412,
+    44.088263
+],
   "geometry": {"coordinates":[-116.938412,44.088263],"type":"Point"}
 }

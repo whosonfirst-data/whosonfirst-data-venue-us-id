@@ -2,13 +2,14 @@
   "id": 185625499,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-113.302054,43.635256,-113.302054,43.635256",
     "geom:latitude":43.635256,
     "geom:longitude":-113.302054,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"256 W Grand Ave",
     "sg:city":"Arco",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":185625499,
-    "wof:lastmodified":1449008238,
+    "wof:lastmodified":1466486957,
     "wof:name":"Butte County Sheriff's Office",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "department"
     ]
 },
-  "bbox": [-113.302054,43.635256,-113.302054,43.635256],
+  "bbox": [
+    -113.302054,
+    43.635256,
+    -113.302054,
+    43.635256
+],
   "geometry": {"coordinates":[-113.302054,43.635256],"type":"Point"}
 }

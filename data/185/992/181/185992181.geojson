@@ -2,13 +2,14 @@
   "id": 185992181,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.472796,42.891514,-112.472796,42.891514",
     "geom:latitude":42.891514,
     "geom:longitude":-112.472796,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"978 W Alameda Rd",
     "sg:city":"Pocatello",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":185992181,
-    "wof:lastmodified":1449007371,
+    "wof:lastmodified":1466488742,
     "wof:name":"Greater Pocatello Assoc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.472796,42.891514,-112.472796,42.891514],
+  "bbox": [
+    -112.472796,
+    42.891514,
+    -112.472796,
+    42.891514
+],
   "geometry": {"coordinates":[-112.472796,42.891514],"type":"Point"}
 }

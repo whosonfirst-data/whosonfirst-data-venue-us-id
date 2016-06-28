@@ -2,13 +2,14 @@
   "id": 186237629,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.314109,43.647689,-116.314109,43.647689",
     "geom:latitude":43.647689,
     "geom:longitude":-116.314109,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4750 N Five Mile Rd",
     "sg:city":"Boise",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186237629,
-    "wof:lastmodified":1449050332,
+    "wof:lastmodified":1466488571,
     "wof:name":"Mc Millan Medical Ctr",
     "wof:parent_id":85876357,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "surgeon"
     ]
 },
-  "bbox": [-116.314109,43.647689,-116.314109,43.647689],
+  "bbox": [
+    -116.314109,
+    43.647689,
+    -116.314109,
+    43.647689
+],
   "geometry": {"coordinates":[-116.314109,43.647689],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186123649,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.235045,47.53648,-116.235045,47.53648",
     "geom:latitude":47.53648,
     "geom:longitude":-116.235045,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"111 S Division St",
     "sg:city":"Pinehurst",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":186123649,
-    "wof:lastmodified":1449051182,
+    "wof:lastmodified":1466488092,
     "wof:name":"Gary's Drug & Gift Ctr",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-116.235045,47.53648,-116.235045,47.53648],
+  "bbox": [
+    -116.235045,
+    47.53648,
+    -116.235045,
+    47.53648
+],
   "geometry": {"coordinates":[-116.235045,47.53648],"type":"Point"}
 }

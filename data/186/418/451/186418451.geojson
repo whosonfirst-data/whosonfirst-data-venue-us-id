@@ -2,13 +2,14 @@
   "id": 186418451,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.380461,43.615054,-116.380461,43.615054",
     "geom:latitude":43.615054,
     "geom:longitude":-116.380461,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1291 N Sandlin Ave",
     "sg:city":"Meridian",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186418451,
-    "wof:lastmodified":1449052426,
+    "wof:lastmodified":1466488799,
     "wof:name":"Young Scholars",
     "wof:parent_id":85811491,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "mfg"
     ]
 },
-  "bbox": [-116.380461,43.615054,-116.380461,43.615054],
+  "bbox": [
+    -116.380461,
+    43.615054,
+    -116.380461,
+    43.615054
+],
   "geometry": {"coordinates":[-116.380461,43.615054],"type":"Point"}
 }

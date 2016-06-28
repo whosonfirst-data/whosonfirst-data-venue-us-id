@@ -2,13 +2,14 @@
   "id": 169637431,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.513426,43.451848,-116.513426,43.451848",
     "geom:latitude":43.451848,
     "geom:longitude":-116.513426,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5197 S Can Ada Rd",
     "sg:city":"Kuna",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":169637431,
-    "wof:lastmodified":1449032687,
+    "wof:lastmodified":1466487398,
     "wof:name":"Carousel Carriage Co",
     "wof:parent_id":85827787,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "carriage"
     ]
 },
-  "bbox": [-116.513426,43.451848,-116.513426,43.451848],
+  "bbox": [
+    -116.513426,
+    43.451848,
+    -116.513426,
+    43.451848
+],
   "geometry": {"coordinates":[-116.513426,43.451848],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186036997,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.545834,43.550174,-116.545834,43.550174",
     "geom:latitude":43.550174,
     "geom:longitude":-116.545834,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2100 E Maryland Ave",
     "sg:city":"Nampa",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186036997,
-    "wof:lastmodified":1449050995,
+    "wof:lastmodified":1466487161,
     "wof:name":"All American Fmly Pageants Ida",
     "wof:parent_id":85827787,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "theatrical"
     ]
 },
-  "bbox": [-116.545834,43.550174,-116.545834,43.550174],
+  "bbox": [
+    -116.545834,
+    43.550174,
+    -116.545834,
+    43.550174
+],
   "geometry": {"coordinates":[-116.545834,43.550174],"type":"Point"}
 }

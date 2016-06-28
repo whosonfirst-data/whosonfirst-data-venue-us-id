@@ -2,13 +2,14 @@
   "id": 169784315,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.71314,43.700852,-116.71314,43.700852",
     "geom:latitude":43.700852,
     "geom:longitude":-116.71314,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"22689 Farmway Rd",
     "sg:city":"Caldwell",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":169784315,
-    "wof:lastmodified":1449034897,
+    "wof:lastmodified":1466488474,
     "wof:name":"Buddy Yuen",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "contractor"
     ]
 },
-  "bbox": [-116.71314,43.700852,-116.71314,43.700852],
+  "bbox": [
+    -116.71314,
+    43.700852,
+    -116.71314,
+    43.700852
+],
   "geometry": {"coordinates":[-116.71314,43.700852],"type":"Point"}
 }

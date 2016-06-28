@@ -2,13 +2,14 @@
   "id": 169597819,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.564037,43.834802,-116.564037,43.834802",
     "geom:latitude":43.834802,
     "geom:longitude":-116.564037,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2825 W South Slope Rd",
     "sg:city":"Emmett",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":169597819,
-    "wof:lastmodified":1449035920,
+    "wof:lastmodified":1466488087,
     "wof:name":"Bob Birdhouse Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "mfg"
     ]
 },
-  "bbox": [-116.564037,43.834802,-116.564037,43.834802],
+  "bbox": [
+    -116.564037,
+    43.834802,
+    -116.564037,
+    43.834802
+],
   "geometry": {"coordinates":[-116.564037,43.834802],"type":"Point"}
 }

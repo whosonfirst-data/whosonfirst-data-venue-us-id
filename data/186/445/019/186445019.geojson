@@ -2,13 +2,14 @@
   "id": 186445019,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-117.012894,46.417968,-117.012894,46.417968",
     "geom:latitude":46.417968,
     "geom:longitude":-117.012894,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1440 Main St",
     "sg:city":"Lewiston",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":186445019,
-    "wof:lastmodified":1449050690,
+    "wof:lastmodified":1466488858,
     "wof:name":"Stillings & Embry Florists",
     "wof:parent_id":85837769,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-117.012894,46.417968,-117.012894,46.417968],
+  "bbox": [
+    -117.012894,
+    46.417968,
+    -117.012894,
+    46.417968
+],
   "geometry": {"coordinates":[-117.012894,46.417968],"type":"Point"}
 }

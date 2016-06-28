@@ -2,13 +2,14 @@
   "id": 169811237,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.215668,43.618518,-116.215668,43.618518",
     "geom:latitude":43.618518,
     "geom:longitude":-116.215668,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"527 Americana Blvd",
     "sg:city":"Boise",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":169811237,
-    "wof:lastmodified":1449034269,
+    "wof:lastmodified":1466488622,
     "wof:name":"Design Station",
     "wof:parent_id":85876355,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "designer"
     ]
 },
-  "bbox": [-116.215668,43.618518,-116.215668,43.618518],
-  "geometry": {"coordinates":[-116.215668,43.618518],"type":"Point"}
+  "bbox": [
+    -116.215668,
+    43.618518,
+    -116.215668,
+    43.618518
+],
+  "geometry": {"coordinates":[-116.21566799999999,43.618518],"type":"Point"}
 }

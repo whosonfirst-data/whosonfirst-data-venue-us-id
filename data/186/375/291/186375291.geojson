@@ -2,13 +2,14 @@
   "id": 186375291,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.556615,43.582931,-116.556615,43.582931",
     "geom:latitude":43.582931,
     "geom:longitude":-116.556615,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"211 11th Ave N",
     "sg:city":"Nampa",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186375291,
-    "wof:lastmodified":1449050365,
+    "wof:lastmodified":1466488764,
     "wof:name":"Rainbow Recovery Of Nampa Inc",
     "wof:parent_id":85827787,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "welfare"
     ]
 },
-  "bbox": [-116.556615,43.582931,-116.556615,43.582931],
-  "geometry": {"coordinates":[-116.556615,43.582931],"type":"Point"}
+  "bbox": [
+    -116.556615,
+    43.582931,
+    -116.556615,
+    43.582931
+],
+  "geometry": {"coordinates":[-116.55661499999999,43.582931],"type":"Point"}
 }

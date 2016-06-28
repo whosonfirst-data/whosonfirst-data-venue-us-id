@@ -2,13 +2,14 @@
   "id": 186176723,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.9218,44.014664,-116.9218,44.014664",
     "geom:latitude":44.014664,
     "geom:longitude":-116.9218,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"605 NW 4th St",
     "sg:city":"Fruitland",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":186176723,
-    "wof:lastmodified":1449052124,
+    "wof:lastmodified":1466488450,
     "wof:name":"Payette Coca Cola Bottling Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "bottler"
     ]
 },
-  "bbox": [-116.9218,44.014664,-116.9218,44.014664],
+  "bbox": [
+    -116.9218,
+    44.014664,
+    -116.9218,
+    44.014664
+],
   "geometry": {"coordinates":[-116.9218,44.014664],"type":"Point"}
 }

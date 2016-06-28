@@ -2,13 +2,14 @@
   "id": 169778127,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.583782,48.191109,-116.583782,48.191109",
     "geom:latitude":48.191109,
     "geom:longitude":-116.583782,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"468022 Hwy 95",
     "sg:city":"Sagle",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":169778127,
-    "wof:lastmodified":1449032752,
+    "wof:lastmodified":1466488537,
     "wof:name":"Alpine Lawn Care",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "contractor"
     ]
 },
-  "bbox": [-116.583782,48.191109,-116.583782,48.191109],
+  "bbox": [
+    -116.583782,
+    48.191109,
+    -116.583782,
+    48.191109
+],
   "geometry": {"coordinates":[-116.583782,48.191109],"type":"Point"}
 }

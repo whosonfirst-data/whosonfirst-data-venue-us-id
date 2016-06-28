@@ -2,13 +2,14 @@
   "id": 186057595,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.204967,43.617586,-116.204967,43.617586",
     "geom:latitude":43.617586,
     "geom:longitude":-116.204967,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"910 W Idaho St",
     "sg:city":"Boise",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186057595,
-    "wof:lastmodified":1449051703,
+    "wof:lastmodified":1466487401,
     "wof:name":"Lavender",
     "wof:parent_id":85876297,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "skin"
     ]
 },
-  "bbox": [-116.204967,43.617586,-116.204967,43.617586],
+  "bbox": [
+    -116.204967,
+    43.617586,
+    -116.204967,
+    43.617586
+],
   "geometry": {"coordinates":[-116.204967,43.617586],"type":"Point"}
 }

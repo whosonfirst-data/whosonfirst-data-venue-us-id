@@ -2,13 +2,14 @@
   "id": 186038419,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.219571,43.616051,-116.219571,43.616051",
     "geom:latitude":43.616051,
     "geom:longitude":-116.219571,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1471 Shoreline Dr",
     "sg:city":"Boise",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":186038419,
-    "wof:lastmodified":1449052101,
+    "wof:lastmodified":1466487177,
     "wof:name":"Investment Planning Svc",
     "wof:parent_id":85876325,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "financial"
     ]
 },
-  "bbox": [-116.219571,43.616051,-116.219571,43.616051],
+  "bbox": [
+    -116.219571,
+    43.616051,
+    -116.219571,
+    43.616051
+],
   "geometry": {"coordinates":[-116.219571,43.616051],"type":"Point"}
 }

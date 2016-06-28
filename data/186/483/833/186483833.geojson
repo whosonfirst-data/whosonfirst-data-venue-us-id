@@ -2,13 +2,14 @@
   "id": 186483833,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.69827,43.668486,-116.69827,43.668486",
     "geom:latitude":43.668486,
     "geom:longitude":-116.69827,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"306 Paynter Ave",
     "sg:city":"Caldwell",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":186483833,
-    "wof:lastmodified":1449052435,
+    "wof:lastmodified":1466488905,
     "wof:name":"Greenway Seed Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "camping"
     ]
 },
-  "bbox": [-116.69827,43.668486,-116.69827,43.668486],
-  "geometry": {"coordinates":[-116.69827,43.668486],"type":"Point"}
+  "bbox": [
+    -116.69827,
+    43.668486,
+    -116.69827,
+    43.668486
+],
+  "geometry": {"coordinates":[-116.69826999999999,43.668486],"type":"Point"}
 }

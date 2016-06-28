@@ -2,13 +2,14 @@
   "id": 185995893,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.275182,43.673815,-116.275182,43.673815",
     "geom:latitude":43.673815,
     "geom:longitude":-116.275182,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6809 Baron Ave",
     "sg:city":"Boise",
     "sg:classifiers":[
@@ -58,10 +59,11 @@
         }
     ],
     "wof:id":185995893,
-    "wof:lastmodified":1449008045,
+    "wof:lastmodified":1466488748,
     "wof:name":"Victory Christmas Tree Farm",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -71,6 +73,11 @@
         "christmas"
     ]
 },
-  "bbox": [-116.275182,43.673815,-116.275182,43.673815],
+  "bbox": [
+    -116.275182,
+    43.673815,
+    -116.275182,
+    43.673815
+],
   "geometry": {"coordinates":[-116.275182,43.673815],"type":"Point"}
 }

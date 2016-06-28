@@ -2,13 +2,14 @@
   "id": 185756341,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.320312,43.612071,-116.320312,43.612071",
     "geom:latitude":43.612071,
     "geom:longitude":-116.320312,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"11175 Emerald St",
     "sg:city":"Boise",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":185756341,
-    "wof:lastmodified":1449007575,
+    "wof:lastmodified":1466487974,
     "wof:name":"Aero Cyclos",
     "wof:parent_id":85811491,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "establishment"
     ]
 },
-  "bbox": [-116.320312,43.612071,-116.320312,43.612071],
+  "bbox": [
+    -116.320312,
+    43.612071,
+    -116.320312,
+    43.612071
+],
   "geometry": {"coordinates":[-116.320312,43.612071],"type":"Point"}
 }

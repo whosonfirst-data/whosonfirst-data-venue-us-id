@@ -2,13 +2,14 @@
   "id": 186464657,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.157337,43.567745,-116.157337,43.567745",
     "geom:latitude":43.567745,
     "geom:longitude":-116.157337,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4033 Yorktown Way",
     "sg:city":"Boise",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186464657,
-    "wof:lastmodified":1449051104,
+    "wof:lastmodified":1466488839,
     "wof:name":"Surspot Plastics",
     "wof:parent_id":85876329,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "mfg"
     ]
 },
-  "bbox": [-116.157337,43.567745,-116.157337,43.567745],
+  "bbox": [
+    -116.157337,
+    43.567745,
+    -116.157337,
+    43.567745
+],
   "geometry": {"coordinates":[-116.157337,43.567745],"type":"Point"}
 }

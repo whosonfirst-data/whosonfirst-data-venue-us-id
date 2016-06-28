@@ -2,13 +2,14 @@
   "id": 186113663,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-117.009232,46.391315,-117.009232,46.391315",
     "geom:latitude":46.391315,
     "geom:longitude":-117.009232,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"419 Stewart Ave",
     "sg:city":"Lewiston",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":186113663,
-    "wof:lastmodified":1449052803,
+    "wof:lastmodified":1466488000,
     "wof:name":"Central Security Alarm Systems",
     "wof:parent_id":85837769,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "system"
     ]
 },
-  "bbox": [-117.009232,46.391315,-117.009232,46.391315],
+  "bbox": [
+    -117.009232,
+    46.391315,
+    -117.009232,
+    46.391315
+],
   "geometry": {"coordinates":[-117.009232,46.391315],"type":"Point"}
 }

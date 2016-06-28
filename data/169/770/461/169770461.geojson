@@ -2,13 +2,14 @@
   "id": 169770461,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.568601,47.316186,-116.568601,47.316186",
     "geom:latitude":47.316186,
     "geom:longitude":-116.568601,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"827 Main Ave",
     "sg:city":"Saint Maries",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":169770461,
-    "wof:lastmodified":1449036034,
+    "wof:lastmodified":1466488445,
     "wof:name":"Saint Mries Cncil For The Arts",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-116.568601,47.316186,-116.568601,47.316186],
+  "bbox": [
+    -116.568601,
+    47.316186,
+    -116.568601,
+    47.316186
+],
   "geometry": {"coordinates":[-116.568601,47.316186],"type":"Point"}
 }

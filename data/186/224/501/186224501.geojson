@@ -2,13 +2,14 @@
   "id": 186224501,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.222087,43.634573,-116.222087,43.634573",
     "geom:latitude":43.634573,
     "geom:longitude":-116.222087,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1514 N 27th St",
     "sg:city":"Boise",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186224501,
-    "wof:lastmodified":1449052322,
+    "wof:lastmodified":1466488550,
     "wof:name":"Boyer Drafting & Design",
     "wof:parent_id":85876313,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "designer"
     ]
 },
-  "bbox": [-116.222087,43.634573,-116.222087,43.634573],
+  "bbox": [
+    -116.222087,
+    43.634573,
+    -116.222087,
+    43.634573
+],
   "geometry": {"coordinates":[-116.222087,43.634573],"type":"Point"}
 }

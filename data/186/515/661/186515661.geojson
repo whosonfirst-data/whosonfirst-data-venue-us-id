@@ -2,13 +2,14 @@
   "id": 186515661,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.353351,43.192928,-112.353351,43.192928",
     "geom:latitude":43.192928,
     "geom:longitude":-112.353351,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"718 W Bridge St",
     "sg:city":"Blackfoot",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":186515661,
-    "wof:lastmodified":1449051027,
+    "wof:lastmodified":1466488924,
     "wof:name":"Armstong Dental Office",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "dentist"
     ]
 },
-  "bbox": [-112.353351,43.192928,-112.353351,43.192928],
+  "bbox": [
+    -112.353351,
+    43.192928,
+    -112.353351,
+    43.192928
+],
   "geometry": {"coordinates":[-112.353351,43.192928],"type":"Point"}
 }

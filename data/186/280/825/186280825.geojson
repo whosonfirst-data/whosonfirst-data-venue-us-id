@@ -2,13 +2,14 @@
   "id": 186280825,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.20465,43.631924,-116.20465,43.631924",
     "geom:latitude":43.631924,
     "geom:longitude":-116.20465,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1607 N 14th St",
     "sg:city":"Boise",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186280825,
-    "wof:lastmodified":1449051697,
+    "wof:lastmodified":1466488651,
     "wof:name":"Michael Stoy",
     "wof:parent_id":85876313,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "attorney"
     ]
 },
-  "bbox": [-116.20465,43.631924,-116.20465,43.631924],
+  "bbox": [
+    -116.20465,
+    43.631924,
+    -116.20465,
+    43.631924
+],
   "geometry": {"coordinates":[-116.20465,43.631924],"type":"Point"}
 }

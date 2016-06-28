@@ -2,13 +2,14 @@
   "id": 186128765,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.490337,43.739628,-116.490337,43.739628",
     "geom:latitude":43.739628,
     "geom:longitude":-116.490337,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4866 N High Prairie Pl",
     "sg:city":"Star",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":186128765,
-    "wof:lastmodified":1449051411,
+    "wof:lastmodified":1466488140,
     "wof:name":"Basket Divas",
     "wof:parent_id":85876351,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-116.490337,43.739628,-116.490337,43.739628],
+  "bbox": [
+    -116.490337,
+    43.739628,
+    -116.490337,
+    43.739628
+],
   "geometry": {"coordinates":[-116.490337,43.739628],"type":"Point"}
 }

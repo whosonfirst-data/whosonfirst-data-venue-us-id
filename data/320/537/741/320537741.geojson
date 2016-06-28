@@ -2,13 +2,14 @@
   "id": 320537741,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.915871,44.067724,-116.915871,44.067724",
     "geom:latitude":44.067724,
     "geom:longitude":-116.915871,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2149 6th Ave S Apt B",
     "sg:city":"Payette",
     "sg:classifiers":[
@@ -58,10 +59,11 @@
         }
     ],
     "wof:id":320537741,
-    "wof:lastmodified":1449012174,
+    "wof:lastmodified":1466486857,
     "wof:name":"D & D Transportation Services, Inc.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -70,6 +72,11 @@
         "trucking"
     ]
 },
-  "bbox": [-116.915871,44.067724,-116.915871,44.067724],
+  "bbox": [
+    -116.915871,
+    44.067724,
+    -116.915871,
+    44.067724
+],
   "geometry": {"coordinates":[-116.915871,44.067724],"type":"Point"}
 }

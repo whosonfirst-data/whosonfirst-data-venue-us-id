@@ -2,13 +2,14 @@
   "id": 185658313,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.880184,47.698501,-116.880184,47.698501",
     "geom:latitude":47.698501,
     "geom:longitude":-116.880184,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4934 E River Walk Ave",
     "sg:city":"Post Falls",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":185658313,
-    "wof:lastmodified":1449006563,
+    "wof:lastmodified":1466487200,
     "wof:name":"Intermountain Appraisal Svc",
     "wof:parent_id":85821457,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "appraiser"
     ]
 },
-  "bbox": [-116.880184,47.698501,-116.880184,47.698501],
+  "bbox": [
+    -116.880184,
+    47.698501,
+    -116.880184,
+    47.698501
+],
   "geometry": {"coordinates":[-116.880184,47.698501],"type":"Point"}
 }

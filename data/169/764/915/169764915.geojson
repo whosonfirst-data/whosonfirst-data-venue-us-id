@@ -2,13 +2,14 @@
   "id": 169764915,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.41384,43.523219,-116.41384,43.523219",
     "geom:latitude":43.523219,
     "geom:longitude":-116.41384,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1286 W Wild Sheep Ln",
     "sg:city":"Meridian",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":169764915,
-    "wof:lastmodified":1449035806,
+    "wof:lastmodified":1466488446,
     "wof:name":"AV Air LLC",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-116.41384,43.523219,-116.41384,43.523219],
-  "geometry": {"coordinates":[-116.41384,43.523219],"type":"Point"}
+  "bbox": [
+    -116.41384,
+    43.523219,
+    -116.41384,
+    43.523219
+],
+  "geometry": {"coordinates":[-116.41383999999999,43.523219],"type":"Point"}
 }

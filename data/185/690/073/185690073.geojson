@@ -2,13 +2,14 @@
   "id": 185690073,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.533368,43.442802,-116.533368,43.442802",
     "geom:latitude":43.442802,
     "geom:longitude":-116.533368,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5008 Southside Blvd",
     "sg:city":"Nampa",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":185690073,
-    "wof:lastmodified":1449007476,
+    "wof:lastmodified":1466487446,
     "wof:name":"Rockin 2 Farms",
     "wof:parent_id":85827787,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-116.533368,43.442802,-116.533368,43.442802],
+  "bbox": [
+    -116.533368,
+    43.442802,
+    -116.533368,
+    43.442802
+],
   "geometry": {"coordinates":[-116.533368,43.442802],"type":"Point"}
 }

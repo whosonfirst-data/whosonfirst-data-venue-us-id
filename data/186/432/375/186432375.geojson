@@ -2,13 +2,14 @@
   "id": 186432375,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.252362,43.646735,-116.252362,43.646735",
     "geom:latitude":43.646735,
     "geom:longitude":-116.252362,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4925 Wymosa St",
     "sg:city":"Boise",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186432375,
-    "wof:lastmodified":1449050186,
+    "wof:lastmodified":1466488806,
     "wof:name":"J and J Thompson Construction",
     "wof:parent_id":85876339,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "house"
     ]
 },
-  "bbox": [-116.252362,43.646735,-116.252362,43.646735],
-  "geometry": {"coordinates":[-116.252362,43.646735],"type":"Point"}
+  "bbox": [
+    -116.252362,
+    43.646735,
+    -116.252362,
+    43.646735
+],
+  "geometry": {"coordinates":[-116.25236200000001,43.646735],"type":"Point"}
 }

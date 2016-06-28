@@ -2,13 +2,14 @@
   "id": 186005111,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.180025,43.544703,-116.180025,43.544703",
     "geom:latitude":43.544703,
     "geom:longitude":-116.180025,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6803 Business Way",
     "sg:city":"Boise",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186005111,
-    "wof:lastmodified":1449052813,
+    "wof:lastmodified":1466488172,
     "wof:name":"BOC Edwards",
     "wof:parent_id":85876329,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "gas"
     ]
 },
-  "bbox": [-116.180025,43.544703,-116.180025,43.544703],
+  "bbox": [
+    -116.180025,
+    43.544703,
+    -116.180025,
+    43.544703
+],
   "geometry": {"coordinates":[-116.180025,43.544703],"type":"Point"}
 }

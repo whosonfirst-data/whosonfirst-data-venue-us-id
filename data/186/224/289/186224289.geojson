@@ -2,13 +2,14 @@
   "id": 186224289,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.905406,47.704353,-116.905406,47.704353",
     "geom:latitude":47.704353,
     "geom:longitude":-116.905406,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"358 S Ponderosa Loop",
     "sg:city":"Post Falls",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":186224289,
-    "wof:lastmodified":1449052320,
+    "wof:lastmodified":1466488482,
     "wof:name":"Stephen M Clark",
     "wof:parent_id":85833263,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "artist"
     ]
 },
-  "bbox": [-116.905406,47.704353,-116.905406,47.704353],
+  "bbox": [
+    -116.905406,
+    47.704353,
+    -116.905406,
+    47.704353
+],
   "geometry": {"coordinates":[-116.905406,47.704353],"type":"Point"}
 }

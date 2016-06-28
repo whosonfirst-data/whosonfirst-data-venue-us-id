@@ -2,13 +2,14 @@
   "id": 186497167,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.306783,42.317861,-111.306783,42.317861",
     "geom:latitude":42.317861,
     "geom:longitude":-111.306783,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"120 N 8th St",
     "sg:city":"Montpelier",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":186497167,
-    "wof:lastmodified":1449052997,
+    "wof:lastmodified":1466488865,
     "wof:name":"Jensen's AG Market",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.306783,42.317861,-111.306783,42.317861],
+  "bbox": [
+    -111.306783,
+    42.317861,
+    -111.306783,
+    42.317861
+],
   "geometry": {"coordinates":[-111.306783,42.317861],"type":"Point"}
 }

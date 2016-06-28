@@ -2,13 +2,14 @@
   "id": 186231229,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.228779,47.543421,-116.228779,47.543421",
     "geom:latitude":47.543421,
     "geom:longitude":-116.228779,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"109 N Division St",
     "sg:city":"Pinehurst",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":186231229,
-    "wof:lastmodified":1449051740,
+    "wof:lastmodified":1466488563,
     "wof:name":"Christy's Bakery",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "baker"
     ]
 },
-  "bbox": [-116.228779,47.543421,-116.228779,47.543421],
+  "bbox": [
+    -116.228779,
+    47.543421,
+    -116.228779,
+    47.543421
+],
   "geometry": {"coordinates":[-116.228779,47.543421],"type":"Point"}
 }

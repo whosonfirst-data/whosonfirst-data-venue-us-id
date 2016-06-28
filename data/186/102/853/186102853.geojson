@@ -2,13 +2,14 @@
   "id": 186102853,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.791881,47.827276,-116.791881,47.827276",
     "geom:latitude":47.827276,
     "geom:longitude":-116.791881,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"17113 N Wrangler Rd",
     "sg:city":"Rathdrum",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":186102853,
-    "wof:lastmodified":1449052827,
+    "wof:lastmodified":1466487892,
     "wof:name":"Sandpoint Waterfront Retreat",
     "wof:parent_id":85821457,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "lessor"
     ]
 },
-  "bbox": [-116.791881,47.827276,-116.791881,47.827276],
+  "bbox": [
+    -116.791881,
+    47.827276,
+    -116.791881,
+    47.827276
+],
   "geometry": {"coordinates":[-116.791881,47.827276],"type":"Point"}
 }

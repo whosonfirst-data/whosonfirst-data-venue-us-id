@@ -2,13 +2,14 @@
   "id": 169834917,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.382028,43.604841,-116.382028,43.604841",
     "geom:latitude":43.604841,
     "geom:longitude":-116.382028,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"910 E Franklin Rd",
     "sg:city":"Meridian",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":169834917,
-    "wof:lastmodified":1449032975,
+    "wof:lastmodified":1466488675,
     "wof:name":"Tile Outlet Always In Stock",
     "wof:parent_id":85805083,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "dealer"
     ]
 },
-  "bbox": [-116.382028,43.604841,-116.382028,43.604841],
-  "geometry": {"coordinates":[-116.382028,43.604841],"type":"Point"}
+  "bbox": [
+    -116.382028,
+    43.604841,
+    -116.382028,
+    43.604841
+],
+  "geometry": {"coordinates":[-116.38202800000001,43.604841],"type":"Point"}
 }

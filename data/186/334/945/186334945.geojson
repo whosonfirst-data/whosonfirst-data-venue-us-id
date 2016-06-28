@@ -2,13 +2,14 @@
   "id": 186334945,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.906693,47.715816,-116.906693,47.715816",
     "geom:latitude":47.715816,
     "geom:longitude":-116.906693,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3134 E Mullan Ave",
     "sg:city":"Post Falls",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":186334945,
-    "wof:lastmodified":1449051159,
+    "wof:lastmodified":1466488823,
     "wof:name":"Cash",
     "wof:parent_id":85833263,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "check"
     ]
 },
-  "bbox": [-116.906693,47.715816,-116.906693,47.715816],
+  "bbox": [
+    -116.906693,
+    47.715816,
+    -116.906693,
+    47.715816
+],
   "geometry": {"coordinates":[-116.906693,47.715816],"type":"Point"}
 }

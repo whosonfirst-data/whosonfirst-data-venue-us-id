@@ -2,13 +2,14 @@
   "id": 185825923,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.314268,43.643992,-116.314268,43.643992",
     "geom:latitude":43.643992,
     "geom:longitude":-116.314268,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10696 W Richey Ct",
     "sg:city":"Boise",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":185825923,
-    "wof:lastmodified":1449006640,
+    "wof:lastmodified":1466488414,
     "wof:name":"PIRATECUSTOMZ.COM",
     "wof:parent_id":85876357,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "customizing"
     ]
 },
-  "bbox": [-116.314268,43.643992,-116.314268,43.643992],
+  "bbox": [
+    -116.314268,
+    43.643992,
+    -116.314268,
+    43.643992
+],
   "geometry": {"coordinates":[-116.314268,43.643992],"type":"Point"}
 }

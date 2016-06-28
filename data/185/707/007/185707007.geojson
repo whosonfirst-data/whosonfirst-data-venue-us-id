@@ -2,13 +2,14 @@
   "id": 185707007,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.904644,47.71096,-116.904644,47.71096",
     "geom:latitude":47.71096,
     "geom:longitude":-116.904644,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2700 E Seltice Way",
     "sg:city":"Post Falls",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":185707007,
-    "wof:lastmodified":1449007982,
+    "wof:lastmodified":1466487581,
     "wof:name":"Cigarette Express LLC",
     "wof:parent_id":85833263,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "dealer"
     ]
 },
-  "bbox": [-116.904644,47.71096,-116.904644,47.71096],
+  "bbox": [
+    -116.904644,
+    47.71096,
+    -116.904644,
+    47.71096
+],
   "geometry": {"coordinates":[-116.904644,47.71096],"type":"Point"}
 }

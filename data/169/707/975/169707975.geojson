@@ -2,13 +2,14 @@
   "id": 169707975,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.737475,43.126494,-115.737475,43.126494",
     "geom:latitude":43.126494,
     "geom:longitude":-115.737475,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3285 W 6th S",
     "sg:city":"Mountain Home",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":169707975,
-    "wof:lastmodified":1449035442,
+    "wof:lastmodified":1466488106,
     "wof:name":"Base Benefit Bingo",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "game"
     ]
 },
-  "bbox": [-115.737475,43.126494,-115.737475,43.126494],
+  "bbox": [
+    -115.737475,
+    43.126494,
+    -115.737475,
+    43.126494
+],
   "geometry": {"coordinates":[-115.737475,43.126494],"type":"Point"}
 }

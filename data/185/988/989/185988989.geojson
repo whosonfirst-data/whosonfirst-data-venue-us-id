@@ -2,13 +2,14 @@
   "id": 185988989,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.551099,43.579125,-116.551099,43.579125",
     "geom:latitude":43.579125,
     "geom:longitude":-116.551099,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1623 3rd St N",
     "sg:city":"Nampa",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":185988989,
-    "wof:lastmodified":1449007146,
+    "wof:lastmodified":1466488742,
     "wof:name":"Sign Man",
     "wof:parent_id":85827787,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "specialty"
     ]
 },
-  "bbox": [-116.551099,43.579125,-116.551099,43.579125],
-  "geometry": {"coordinates":[-116.551099,43.579125],"type":"Point"}
+  "bbox": [
+    -116.551099,
+    43.579125,
+    -116.551099,
+    43.579125
+],
+  "geometry": {"coordinates":[-116.55109899999999,43.579125],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186022027,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-117.023545,46.840233,-117.023545,46.840233",
     "geom:latitude":46.840233,
     "geom:longitude":-117.023545,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1300 Main St",
     "sg:city":"Viola",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":186022027,
-    "wof:lastmodified":1449051282,
+    "wof:lastmodified":1466486985,
     "wof:name":"US Post Office",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-117.023545,46.840233,-117.023545,46.840233],
+  "bbox": [
+    -117.023545,
+    46.840233,
+    -117.023545,
+    46.840233
+],
   "geometry": {"coordinates":[-117.023545,46.840233],"type":"Point"}
 }

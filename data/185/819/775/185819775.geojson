@@ -2,13 +2,14 @@
   "id": 185819775,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.70003,43.137105,-115.70003,43.137105",
     "geom:latitude":43.137105,
     "geom:longitude":-115.70003,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"706 N Main St",
     "sg:city":"Meridian",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":185819775,
-    "wof:lastmodified":1449006991,
+    "wof:lastmodified":1466488402,
     "wof:name":"Southwestern Gifts & Decor",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "shop"
     ]
 },
-  "bbox": [-115.70003,43.137105,-115.70003,43.137105],
+  "bbox": [
+    -115.70003,
+    43.137105,
+    -115.70003,
+    43.137105
+],
   "geometry": {"coordinates":[-115.70003,43.137105],"type":"Point"}
 }

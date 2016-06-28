@@ -2,13 +2,14 @@
   "id": 186197381,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.474098,43.691905,-116.474098,43.691905",
     "geom:latitude":43.691905,
     "geom:longitude":-116.474098,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9882 W State St",
     "sg:city":"Star",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186197381,
-    "wof:lastmodified":1449052675,
+    "wof:lastmodified":1466488569,
     "wof:name":"Northstar Physical Therapy",
     "wof:parent_id":85876351,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "physical"
     ]
 },
-  "bbox": [-116.474098,43.691905,-116.474098,43.691905],
+  "bbox": [
+    -116.474098,
+    43.691905,
+    -116.474098,
+    43.691905
+],
   "geometry": {"coordinates":[-116.474098,43.691905],"type":"Point"}
 }

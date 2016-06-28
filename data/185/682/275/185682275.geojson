@@ -2,13 +2,14 @@
   "id": 185682275,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.329077,43.576847,-116.329077,43.576847",
     "geom:latitude":43.576847,
     "geom:longitude":-116.329077,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"11734 Peconic Dr",
     "sg:city":"Boise",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":185682275,
-    "wof:lastmodified":1449006893,
+    "wof:lastmodified":1466487383,
     "wof:name":"Prudhomme Accounting",
     "wof:parent_id":85876331,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-116.329077,43.576847,-116.329077,43.576847],
+  "bbox": [
+    -116.329077,
+    43.576847,
+    -116.329077,
+    43.576847
+],
   "geometry": {"coordinates":[-116.329077,43.576847],"type":"Point"}
 }

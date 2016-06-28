@@ -2,13 +2,14 @@
   "id": 186426355,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.786411,47.767515,-116.786411,47.767515",
     "geom:latitude":47.767515,
     "geom:longitude":-116.786411,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10664 N Government Way",
     "sg:city":"Hayden",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":186426355,
-    "wof:lastmodified":1449050973,
+    "wof:lastmodified":1466488804,
     "wof:name":"R C Transmissions",
     "wof:parent_id":85821457,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "automobile"
     ]
 },
-  "bbox": [-116.786411,47.767515,-116.786411,47.767515],
+  "bbox": [
+    -116.786411,
+    47.767515,
+    -116.786411,
+    47.767515
+],
   "geometry": {"coordinates":[-116.786411,47.767515],"type":"Point"}
 }

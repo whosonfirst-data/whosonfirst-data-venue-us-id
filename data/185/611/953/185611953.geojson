@@ -2,13 +2,14 @@
   "id": 185611953,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.797808,47.933554,-116.797808,47.933554",
     "geom:latitude":47.933554,
     "geom:longitude":-116.797808,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"745 W Remington Rd",
     "sg:city":"Spirit Lake",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":185611953,
-    "wof:lastmodified":1449007884,
+    "wof:lastmodified":1466486854,
     "wof:name":"Star Cdl School",
     "wof:parent_id":85821457,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "driving"
     ]
 },
-  "bbox": [-116.797808,47.933554,-116.797808,47.933554],
+  "bbox": [
+    -116.797808,
+    47.933554,
+    -116.797808,
+    47.933554
+],
   "geometry": {"coordinates":[-116.797808,47.933554],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186415915,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.239684,43.645661,-116.239684,43.645661",
     "geom:latitude":43.645661,
     "geom:longitude":-116.239684,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2821 Tamarack Dr",
     "sg:city":"Boise",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186415915,
-    "wof:lastmodified":1449052294,
+    "wof:lastmodified":1466488803,
     "wof:name":"American Heritage Pntg Contrs",
     "wof:parent_id":85876339,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-116.239684,43.645661,-116.239684,43.645661],
+  "bbox": [
+    -116.239684,
+    43.645661,
+    -116.239684,
+    43.645661
+],
   "geometry": {"coordinates":[-116.239684,43.645661],"type":"Point"}
 }

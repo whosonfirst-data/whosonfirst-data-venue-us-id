@@ -2,13 +2,14 @@
   "id": 185902141,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.179036,43.605601,-116.179036,43.605601",
     "geom:latitude":43.605601,
     "geom:longitude":-116.179036,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1312 Warm Springs Ave",
     "sg:city":"Boise",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":185902141,
-    "wof:lastmodified":1449007791,
+    "wof:lastmodified":1466488560,
     "wof:name":"Reuling Development Consulting",
     "wof:parent_id":85876345,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "business"
     ]
 },
-  "bbox": [-116.179036,43.605601,-116.179036,43.605601],
+  "bbox": [
+    -116.179036,
+    43.605601,
+    -116.179036,
+    43.605601
+],
   "geometry": {"coordinates":[-116.179036,43.605601],"type":"Point"}
 }

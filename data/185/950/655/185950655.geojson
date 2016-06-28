@@ -2,13 +2,14 @@
   "id": 185950655,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.991677,43.487087,-111.991677,43.487087",
     "geom:latitude":43.487087,
     "geom:longitude":-111.991677,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2090 12th St",
     "sg:city":"Idaho Falls",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":185950655,
-    "wof:lastmodified":1449007248,
+    "wof:lastmodified":1466488595,
     "wof:name":"A-1 Pest Control",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.991677,43.487087,-111.991677,43.487087],
+  "bbox": [
+    -111.991677,
+    43.487087,
+    -111.991677,
+    43.487087
+],
   "geometry": {"coordinates":[-111.991677,43.487087],"type":"Point"}
 }

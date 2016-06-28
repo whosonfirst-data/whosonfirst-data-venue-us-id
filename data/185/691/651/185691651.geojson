@@ -2,13 +2,14 @@
   "id": 185691651,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.57275,43.562336,-116.57275,43.562336",
     "geom:latitude":43.562336,
     "geom:longitude":-116.57275,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"704 12th Ave Rd",
     "sg:city":"Nampa",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":185691651,
-    "wof:lastmodified":1449006737,
+    "wof:lastmodified":1466487458,
     "wof:name":"Squeaky Clean Carwash",
     "wof:parent_id":85827787,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "washing"
     ]
 },
-  "bbox": [-116.57275,43.562336,-116.57275,43.562336],
+  "bbox": [
+    -116.57275,
+    43.562336,
+    -116.57275,
+    43.562336
+],
   "geometry": {"coordinates":[-116.57275,43.562336],"type":"Point"}
 }

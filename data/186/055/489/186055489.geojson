@@ -2,13 +2,14 @@
   "id": 186055489,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.97001,44.245467,-116.97001,44.245467",
     "geom:latitude":44.245467,
     "geom:longitude":-116.97001,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"18 E Idaho St",
     "sg:city":"Weiser",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":186055489,
-    "wof:lastmodified":1449051000,
+    "wof:lastmodified":1466487375,
     "wof:name":"Signal American Printers",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "commercial"
     ]
 },
-  "bbox": [-116.97001,44.245467,-116.97001,44.245467],
+  "bbox": [
+    -116.97001,
+    44.245467,
+    -116.97001,
+    44.245467
+],
   "geometry": {"coordinates":[-116.97001,44.245467],"type":"Point"}
 }

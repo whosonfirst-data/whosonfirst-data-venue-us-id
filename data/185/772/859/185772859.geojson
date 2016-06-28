@@ -2,13 +2,14 @@
   "id": 185772859,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.679289,47.370646,-116.679289,47.370646",
     "geom:latitude":47.370646,
     "geom:longitude":-116.679289,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"150 Garnet Dr",
     "sg:city":"Saint Maries",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":185772859,
-    "wof:lastmodified":1449007337,
+    "wof:lastmodified":1466488105,
     "wof:name":"Clay Julian Construction",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "contractor"
     ]
 },
-  "bbox": [-116.679289,47.370646,-116.679289,47.370646],
+  "bbox": [
+    -116.679289,
+    47.370646,
+    -116.679289,
+    47.370646
+],
   "geometry": {"coordinates":[-116.679289,47.370646],"type":"Point"}
 }

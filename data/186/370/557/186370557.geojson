@@ -2,13 +2,14 @@
   "id": 186370557,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.945829,43.788641,-116.945829,43.788641",
     "geom:latitude":43.788641,
     "geom:longitude":-116.945829,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1 E McConnell Ave",
     "sg:city":"Parma",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":186370557,
-    "wof:lastmodified":1449051843,
+    "wof:lastmodified":1466488760,
     "wof:name":"Parma Seventh Day Adventist",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-116.945829,43.788641,-116.945829,43.788641],
+  "bbox": [
+    -116.945829,
+    43.788641,
+    -116.945829,
+    43.788641
+],
   "geometry": {"coordinates":[-116.945829,43.788641],"type":"Point"}
 }

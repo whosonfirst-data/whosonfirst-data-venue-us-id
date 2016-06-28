@@ -2,13 +2,14 @@
   "id": 185962897,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.290257,43.633281,-116.290257,43.633281",
     "geom:latitude":43.633281,
     "geom:longitude":-116.290257,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3072 Maywood Ave",
     "sg:city":"Boise",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":185962897,
-    "wof:lastmodified":1449007564,
+    "wof:lastmodified":1466488787,
     "wof:name":"Olympic Printing Inc",
     "wof:parent_id":85841319,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "offset"
     ]
 },
-  "bbox": [-116.290257,43.633281,-116.290257,43.633281],
+  "bbox": [
+    -116.290257,
+    43.633281,
+    -116.290257,
+    43.633281
+],
   "geometry": {"coordinates":[-116.290257,43.633281],"type":"Point"}
 }

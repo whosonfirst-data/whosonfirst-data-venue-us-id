@@ -2,13 +2,14 @@
   "id": 320529203,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.692552,43.808078,-116.692552,43.808078",
     "geom:latitude":43.808078,
     "geom:longitude":-116.692552,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7484 El Paso Rd",
     "sg:city":"Caldwell",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":320529203,
-    "wof:lastmodified":1449012887,
+    "wof:lastmodified":1466487825,
     "wof:name":"Douglas Ratites",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -66,6 +68,11 @@
         "livestock"
     ]
 },
-  "bbox": [-116.692552,43.808078,-116.692552,43.808078],
-  "geometry": {"coordinates":[-116.692552,43.808078],"type":"Point"}
+  "bbox": [
+    -116.692552,
+    43.808078,
+    -116.692552,
+    43.808078
+],
+  "geometry": {"coordinates":[-116.69255200000001,43.808078],"type":"Point"}
 }

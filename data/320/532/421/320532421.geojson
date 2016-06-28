@@ -2,13 +2,14 @@
   "id": 320532421,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.932511,43.621341,-116.932511,43.621341",
     "geom:latitude":43.621341,
     "geom:longitude":-116.932511,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"19 E Oregon Ave",
     "sg:city":"Homedale",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":320532421,
-    "wof:lastmodified":1449012528,
+    "wof:lastmodified":1466488287,
     "wof:name":"Foreign Missionionary Service",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-116.932511,43.621341,-116.932511,43.621341],
-  "geometry": {"coordinates":[-116.932511,43.621341],"type":"Point"}
+  "bbox": [
+    -116.932511,
+    43.621341,
+    -116.932511,
+    43.621341
+],
+  "geometry": {"coordinates":[-116.93251100000001,43.621341],"type":"Point"}
 }

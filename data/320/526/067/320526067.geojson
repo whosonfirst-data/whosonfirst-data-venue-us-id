@@ -2,13 +2,14 @@
   "id": 320526067,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-117.029381,46.421951,-117.029381,46.421951",
     "geom:latitude":46.421951,
     "geom:longitude":-117.029381,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"301 D St Ste D",
     "sg:city":"Lewiston",
     "sg:classifiers":[
@@ -64,10 +65,11 @@
         }
     ],
     "wof:id":320526067,
-    "wof:lastmodified":1449012410,
+    "wof:lastmodified":1466487375,
     "wof:name":"Bank of America Home Loans",
     "wof:parent_id":85852537,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -76,6 +78,11 @@
         "saving"
     ]
 },
-  "bbox": [-117.029381,46.421951,-117.029381,46.421951],
+  "bbox": [
+    -117.029381,
+    46.421951,
+    -117.029381,
+    46.421951
+],
   "geometry": {"coordinates":[-117.029381,46.421951],"type":"Point"}
 }

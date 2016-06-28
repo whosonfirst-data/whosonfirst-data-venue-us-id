@@ -2,13 +2,14 @@
   "id": 186209745,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.681828,43.641781,-116.681828,43.641781",
     "geom:latitude":43.641781,
     "geom:longitude":-116.681828,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1409 Cedar St",
     "sg:city":"Caldwell",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186209745,
-    "wof:lastmodified":1449052736,
+    "wof:lastmodified":1466488516,
     "wof:name":"Tia's Dog-Cat Grooming",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "washing"
     ]
 },
-  "bbox": [-116.681828,43.641781,-116.681828,43.641781],
+  "bbox": [
+    -116.681828,
+    43.641781,
+    -116.681828,
+    43.641781
+],
   "geometry": {"coordinates":[-116.681828,43.641781],"type":"Point"}
 }

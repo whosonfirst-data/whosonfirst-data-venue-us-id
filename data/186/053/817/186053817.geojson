@@ -2,13 +2,14 @@
   "id": 186053817,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.88633,47.713372,-116.88633,47.713372",
     "geom:latitude":47.713372,
     "geom:longitude":-116.88633,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"765 Chisholm Ct",
     "sg:city":"Post Falls",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":186053817,
-    "wof:lastmodified":1449050912,
+    "wof:lastmodified":1466487356,
     "wof:name":"Vision Service Plan",
     "wof:parent_id":85821457,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-116.88633,47.713372,-116.88633,47.713372],
+  "bbox": [
+    -116.88633,
+    47.713372,
+    -116.88633,
+    47.713372
+],
   "geometry": {"coordinates":[-116.88633,47.713372],"type":"Point"}
 }

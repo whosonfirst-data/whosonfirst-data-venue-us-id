@@ -2,13 +2,14 @@
   "id": 186433387,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.010981,43.482567,-112.010981,43.482567",
     "geom:latitude":43.482567,
     "geom:longitude":-112.010981,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1259 E 17th St",
     "sg:city":"Idaho Falls",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":186433387,
-    "wof:lastmodified":1449050561,
+    "wof:lastmodified":1466488810,
     "wof:name":"Quik Cash",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "check"
     ]
 },
-  "bbox": [-112.010981,43.482567,-112.010981,43.482567],
+  "bbox": [
+    -112.010981,
+    43.482567,
+    -112.010981,
+    43.482567
+],
   "geometry": {"coordinates":[-112.010981,43.482567],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186307091,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.27413,43.624619,-116.27413,43.624619",
     "geom:latitude":43.624619,
     "geom:longitude":-116.27413,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2128 N Cole Rd",
     "sg:city":"Boise",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186307091,
-    "wof:lastmodified":1449051083,
+    "wof:lastmodified":1466488609,
     "wof:name":"White Knight Mortgage",
     "wof:parent_id":85841319,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "real estate"
     ]
 },
-  "bbox": [-116.27413,43.624619,-116.27413,43.624619],
+  "bbox": [
+    -116.27413,
+    43.624619,
+    -116.27413,
+    43.624619
+],
   "geometry": {"coordinates":[-116.27413,43.624619],"type":"Point"}
 }

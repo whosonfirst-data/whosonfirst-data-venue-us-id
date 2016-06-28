@@ -2,13 +2,14 @@
   "id": 185923443,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.023525,43.624529,-112.023525,43.624529",
     "geom:latitude":43.624529,
     "geom:longitude":-112.023525,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"14122 N 5th E",
     "sg:city":"Idaho Falls",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":185923443,
-    "wof:lastmodified":1449008137,
+    "wof:lastmodified":1466488607,
     "wof:name":"Keebler Electric",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "contractor"
     ]
 },
-  "bbox": [-112.023525,43.624529,-112.023525,43.624529],
-  "geometry": {"coordinates":[-112.023525,43.624529],"type":"Point"}
+  "bbox": [
+    -112.023525,
+    43.624529,
+    -112.023525,
+    43.624529
+],
+  "geometry": {"coordinates":[-112.02352500000001,43.624529],"type":"Point"}
 }

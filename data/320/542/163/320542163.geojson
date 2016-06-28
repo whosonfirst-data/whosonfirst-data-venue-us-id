@@ -2,13 +2,14 @@
   "id": 320542163,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.213669,43.585995,-116.213669,43.585995",
     "geom:latitude":43.585995,
     "geom:longitude":-116.213669,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1924 S Vista Ave",
     "sg:city":"Boise",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":320542163,
-    "wof:lastmodified":1449014134,
+    "wof:lastmodified":1466486937,
     "wof:name":"Roedel Law Offices",
     "wof:parent_id":85876343,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "bankruptcy"
     ]
 },
-  "bbox": [-116.213669,43.585995,-116.213669,43.585995],
+  "bbox": [
+    -116.213669,
+    43.585995,
+    -116.213669,
+    43.585995
+],
   "geometry": {"coordinates":[-116.213669,43.585995],"type":"Point"}
 }

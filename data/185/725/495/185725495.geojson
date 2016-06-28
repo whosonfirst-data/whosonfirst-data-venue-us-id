@@ -2,13 +2,14 @@
   "id": 185725495,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.326302,43.254209,-112.326302,43.254209",
     "geom:latitude":43.254209,
     "geom:longitude":-112.326302,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"352 N 150 W",
     "sg:city":"Blackfoot",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":185725495,
-    "wof:lastmodified":1449007003,
+    "wof:lastmodified":1466487723,
     "wof:name":"Lifestyle Solutions",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.326302,43.254209,-112.326302,43.254209],
+  "bbox": [
+    -112.326302,
+    43.254209,
+    -112.326302,
+    43.254209
+],
   "geometry": {"coordinates":[-112.326302,43.254209],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 185916589,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.994205,47.718057,-116.994205,47.718057",
     "geom:latitude":47.718057,
     "geom:longitude":-116.994205,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3540 W Elk Dr",
     "sg:city":"Post Falls",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":185916589,
-    "wof:lastmodified":1449007495,
+    "wof:lastmodified":1466488590,
     "wof:name":"Panther Engineering & Sales",
     "wof:parent_id":85833263,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "engine"
     ]
 },
-  "bbox": [-116.994205,47.718057,-116.994205,47.718057],
-  "geometry": {"coordinates":[-116.994205,47.718057],"type":"Point"}
+  "bbox": [
+    -116.994205,
+    47.718057,
+    -116.994205,
+    47.718057
+],
+  "geometry": {"coordinates":[-116.99420499999999,47.718057],"type":"Point"}
 }

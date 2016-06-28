@@ -2,13 +2,14 @@
   "id": 320549263,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-117.007064,46.720253,-117.007064,46.720253",
     "geom:latitude":46.720253,
     "geom:longitude":-117.007064,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"494 Ridge Rd",
     "sg:city":"Moscow",
     "sg:classifiers":[
@@ -56,10 +57,11 @@
         }
     ],
     "wof:id":320549263,
-    "wof:lastmodified":1449012287,
+    "wof:lastmodified":1466487031,
     "wof:name":"Adaama Capital And Realty Lp",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "broker"
     ]
 },
-  "bbox": [-117.007064,46.720253,-117.007064,46.720253],
+  "bbox": [
+    -117.007064,
+    46.720253,
+    -117.007064,
+    46.720253
+],
   "geometry": {"coordinates":[-117.007064,46.720253],"type":"Point"}
 }

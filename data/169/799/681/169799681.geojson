@@ -2,13 +2,14 @@
   "id": 169799681,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.426387,43.622837,-116.426387,43.622837",
     "geom:latitude":43.622837,
     "geom:longitude":-116.426387,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2582 Jeffery Ct",
     "sg:city":"Meridian",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":169799681,
-    "wof:lastmodified":1449035985,
+    "wof:lastmodified":1466488419,
     "wof:name":"Alfaserv International",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "datum"
     ]
 },
-  "bbox": [-116.426387,43.622837,-116.426387,43.622837],
-  "geometry": {"coordinates":[-116.426387,43.622837],"type":"Point"}
+  "bbox": [
+    -116.426387,
+    43.622837,
+    -116.426387,
+    43.622837
+],
+  "geometry": {"coordinates":[-116.42638700000001,43.622837],"type":"Point"}
 }

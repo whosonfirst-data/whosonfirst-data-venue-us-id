@@ -2,13 +2,14 @@
   "id": 185796087,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.864717,47.703544,-116.864717,47.703544",
     "geom:latitude":47.703544,
     "geom:longitude":-116.864717,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6075 E Commerce Loop",
     "sg:city":"Post Falls",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":185796087,
-    "wof:lastmodified":1449007376,
+    "wof:lastmodified":1466488280,
     "wof:name":"Aspen Nursery",
     "wof:parent_id":85821457,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "contractor"
     ]
 },
-  "bbox": [-116.864717,47.703544,-116.864717,47.703544],
+  "bbox": [
+    -116.864717,
+    47.703544,
+    -116.864717,
+    47.703544
+],
   "geometry": {"coordinates":[-116.864717,47.703544],"type":"Point"}
 }

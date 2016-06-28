@@ -2,13 +2,14 @@
   "id": 186355277,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.678046,43.675866,-116.678046,43.675866",
     "geom:latitude":43.675866,
     "geom:longitude":-116.678046,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"720 N Illinois Ave",
     "sg:city":"Caldwell",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":186355277,
-    "wof:lastmodified":1449051135,
+    "wof:lastmodified":1466488753,
     "wof:name":"Maverik Country Store",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-116.678046,43.675866,-116.678046,43.675866],
-  "geometry": {"coordinates":[-116.678046,43.675866],"type":"Point"}
+  "bbox": [
+    -116.678046,
+    43.675866,
+    -116.678046,
+    43.675866
+],
+  "geometry": {"coordinates":[-116.67804599999999,43.675866],"type":"Point"}
 }

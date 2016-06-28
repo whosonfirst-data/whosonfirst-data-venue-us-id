@@ -2,13 +2,14 @@
   "id": 185914571,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.253629,43.614518,-116.253629,43.614518",
     "geom:latitude":43.614518,
     "geom:longitude":-116.253629,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1000 N Curtis Rd",
     "sg:city":"Boise",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":185914571,
-    "wof:lastmodified":1449007223,
+    "wof:lastmodified":1466488585,
     "wof:name":"CBDMS",
     "wof:parent_id":85876311,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "dentist"
     ]
 },
-  "bbox": [-116.253629,43.614518,-116.253629,43.614518],
+  "bbox": [
+    -116.253629,
+    43.614518,
+    -116.253629,
+    43.614518
+],
   "geometry": {"coordinates":[-116.253629,43.614518],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 185943201,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.411499,43.577178,-116.411499,43.577178",
     "geom:latitude":43.577178,
     "geom:longitude":-116.411499,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3180 Model Farm Dr",
     "sg:city":"Meridian",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":185943201,
-    "wof:lastmodified":1449007037,
+    "wof:lastmodified":1466488567,
     "wof:name":"All In One Drywall",
     "wof:parent_id":85805083,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-116.411499,43.577178,-116.411499,43.577178],
-  "geometry": {"coordinates":[-116.411499,43.577178],"type":"Point"}
+  "bbox": [
+    -116.411499,
+    43.577178,
+    -116.411499,
+    43.577178
+],
+  "geometry": {"coordinates":[-116.41149900000001,43.577178],"type":"Point"}
 }

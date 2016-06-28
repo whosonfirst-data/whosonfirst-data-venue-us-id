@@ -2,13 +2,14 @@
   "id": 185934567,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.532741,43.53642,-116.532741,43.53642",
     "geom:latitude":43.53642,
     "geom:longitude":-116.532741,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3400 Southside Blvd",
     "sg:city":"Nampa",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":185934567,
-    "wof:lastmodified":1449006663,
+    "wof:lastmodified":1466488636,
     "wof:name":"Reagan Elementary School",
     "wof:parent_id":85827787,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-116.532741,43.53642,-116.532741,43.53642],
+  "bbox": [
+    -116.532741,
+    43.53642,
+    -116.532741,
+    43.53642
+],
   "geometry": {"coordinates":[-116.532741,43.53642],"type":"Point"}
 }

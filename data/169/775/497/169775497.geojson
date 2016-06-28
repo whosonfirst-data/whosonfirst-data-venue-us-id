@@ -2,13 +2,14 @@
   "id": 169775497,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.518117,43.594273,-116.518117,43.594273",
     "geom:latitude":43.594273,
     "geom:longitude":-116.518117,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4426 Garrity Blvd",
     "sg:city":"Nampa",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":169775497,
-    "wof:lastmodified":1449035119,
+    "wof:lastmodified":1466488530,
     "wof:name":"Garrity 66",
     "wof:parent_id":85827787,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-116.518117,43.594273,-116.518117,43.594273],
+  "bbox": [
+    -116.518117,
+    43.594273,
+    -116.518117,
+    43.594273
+],
   "geometry": {"coordinates":[-116.518117,43.594273],"type":"Point"}
 }

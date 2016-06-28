@@ -2,13 +2,14 @@
   "id": 186207589,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.036968,43.490207,-112.036968,43.490207",
     "geom:latitude":43.490207,
     "geom:longitude":-112.036968,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"258 N Water Ave",
     "sg:city":"Idaho Falls",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":186207589,
-    "wof:lastmodified":1449052237,
+    "wof:lastmodified":1466488431,
     "wof:name":"Micro Wise Laboratories",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "laboratory"
     ]
 },
-  "bbox": [-112.036968,43.490207,-112.036968,43.490207],
+  "bbox": [
+    -112.036968,
+    43.490207,
+    -112.036968,
+    43.490207
+],
   "geometry": {"coordinates":[-112.036968,43.490207],"type":"Point"}
 }

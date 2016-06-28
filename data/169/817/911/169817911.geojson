@@ -2,13 +2,14 @@
   "id": 169817911,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.021175,43.471975,-112.021175,43.471975",
     "geom:latitude":43.471975,
     "geom:longitude":-112.021175,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"616 Cedar Ridge Dr",
     "sg:city":"Idaho Falls",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":169817911,
-    "wof:lastmodified":1449035315,
+    "wof:lastmodified":1466488631,
     "wof:name":"Nature's Way Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.021175,43.471975,-112.021175,43.471975],
+  "bbox": [
+    -112.021175,
+    43.471975,
+    -112.021175,
+    43.471975
+],
   "geometry": {"coordinates":[-112.021175,43.471975],"type":"Point"}
 }

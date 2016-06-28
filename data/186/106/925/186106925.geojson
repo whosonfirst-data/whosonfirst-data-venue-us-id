@@ -2,13 +2,14 @@
   "id": 186106925,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.550652,48.273031,-116.550652,48.273031",
     "geom:latitude":48.273031,
     "geom:longitude":-116.550652,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"323 Pine St",
     "sg:city":"Sandpoint",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186106925,
-    "wof:lastmodified":1449050202,
+    "wof:lastmodified":1466487932,
     "wof:name":"SANDPOINT.COM",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "internet"
     ]
 },
-  "bbox": [-116.550652,48.273031,-116.550652,48.273031],
+  "bbox": [
+    -116.550652,
+    48.273031,
+    -116.550652,
+    48.273031
+],
   "geometry": {"coordinates":[-116.550652,48.273031],"type":"Point"}
 }

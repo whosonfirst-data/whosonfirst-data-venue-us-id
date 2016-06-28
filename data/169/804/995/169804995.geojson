@@ -2,13 +2,14 @@
   "id": 169804995,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-115.691114,43.131928,-115.691114,43.131928",
     "geom:latitude":43.131928,
     "geom:longitude":-115.691114,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"320 E Jackson St",
     "sg:city":"Mountain Home",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":169804995,
-    "wof:lastmodified":1449034989,
+    "wof:lastmodified":1466488522,
     "wof:name":"Atlanta Education Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "educational"
     ]
 },
-  "bbox": [-115.691114,43.131928,-115.691114,43.131928],
+  "bbox": [
+    -115.691114,
+    43.131928,
+    -115.691114,
+    43.131928
+],
   "geometry": {"coordinates":[-115.691114,43.131928],"type":"Point"}
 }

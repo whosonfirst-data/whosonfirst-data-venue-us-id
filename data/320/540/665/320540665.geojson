@@ -2,13 +2,14 @@
   "id": 320540665,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.559471,43.619621,-116.559471,43.619621",
     "geom:latitude":43.619621,
     "geom:longitude":-116.559471,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8305 Cherry Ln",
     "sg:city":"Nampa",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":320540665,
-    "wof:lastmodified":1449012737,
+    "wof:lastmodified":1466486900,
     "wof:name":"Ncr Truck & Equipment Repair",
     "wof:parent_id":85827787,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "truck"
     ]
 },
-  "bbox": [-116.559471,43.619621,-116.559471,43.619621],
+  "bbox": [
+    -116.559471,
+    43.619621,
+    -116.559471,
+    43.619621
+],
   "geometry": {"coordinates":[-116.559471,43.619621],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 185851437,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.273872,43.608217,-116.273872,43.608217",
     "geom:latitude":43.608217,
     "geom:longitude":-116.273872,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"400 N Cole Rd",
     "sg:city":"Boise",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":185851437,
-    "wof:lastmodified":1449007659,
+    "wof:lastmodified":1466488372,
     "wof:name":"Ethan Allen Galleries Inc",
     "wof:parent_id":85841319,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-116.273872,43.608217,-116.273872,43.608217],
+  "bbox": [
+    -116.273872,
+    43.608217,
+    -116.273872,
+    43.608217
+],
   "geometry": {"coordinates":[-116.273872,43.608217],"type":"Point"}
 }

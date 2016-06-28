@@ -2,13 +2,14 @@
   "id": 186389611,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.296262,47.549098,-116.296262,47.549098",
     "geom:latitude":47.549098,
     "geom:longitude":-116.296262,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"41845 Silver Valley Rd",
     "sg:city":"Kingston",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":186389611,
-    "wof:lastmodified":1449052463,
+    "wof:lastmodified":1466488778,
     "wof:name":"Hill Top Inn",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-116.296262,47.549098,-116.296262,47.549098],
+  "bbox": [
+    -116.296262,
+    47.549098,
+    -116.296262,
+    47.549098
+],
   "geometry": {"coordinates":[-116.296262,47.549098],"type":"Point"}
 }

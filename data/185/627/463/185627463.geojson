@@ -2,13 +2,14 @@
   "id": 185627463,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.659343,43.702628,-116.659343,43.702628",
     "geom:latitude":43.702628,
     "geom:longitude":-116.659343,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"22844 Ballard Ln",
     "sg:city":"Caldwell",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":185627463,
-    "wof:lastmodified":1449008255,
+    "wof:lastmodified":1466486971,
     "wof:name":"Jz LLC",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "mfg"
     ]
 },
-  "bbox": [-116.659343,43.702628,-116.659343,43.702628],
-  "geometry": {"coordinates":[-116.659343,43.702628],"type":"Point"}
+  "bbox": [
+    -116.659343,
+    43.702628,
+    -116.659343,
+    43.702628
+],
+  "geometry": {"coordinates":[-116.65934300000001,43.702628],"type":"Point"}
 }

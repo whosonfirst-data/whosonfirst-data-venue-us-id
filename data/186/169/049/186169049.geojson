@@ -2,13 +2,14 @@
   "id": 186169049,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.936214,43.614274,-116.936214,43.614274",
     "geom:latitude":43.614274,
     "geom:longitude":-116.936214,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"408 S 1st St W",
     "sg:city":"Homedale",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":186169049,
-    "wof:lastmodified":1449052019,
+    "wof:lastmodified":1466488511,
     "wof:name":"Tim's Appliance Repair-Refrig",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "appliance"
     ]
 },
-  "bbox": [-116.936214,43.614274,-116.936214,43.614274],
-  "geometry": {"coordinates":[-116.936214,43.614274],"type":"Point"}
+  "bbox": [
+    -116.936214,
+    43.614274,
+    -116.936214,
+    43.614274
+],
+  "geometry": {"coordinates":[-116.93621400000001,43.614274],"type":"Point"}
 }

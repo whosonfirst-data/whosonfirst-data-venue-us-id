@@ -2,13 +2,14 @@
   "id": 185654881,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.546051,43.549161,-116.546051,43.549161",
     "geom:latitude":43.549161,
     "geom:longitude":-116.546051,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2005 Belle Aire Dr",
     "sg:city":"Nampa",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":185654881,
-    "wof:lastmodified":1449007142,
+    "wof:lastmodified":1466487174,
     "wof:name":"Brundages Gnld International",
     "wof:parent_id":85827787,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "health"
     ]
 },
-  "bbox": [-116.546051,43.549161,-116.546051,43.549161],
-  "geometry": {"coordinates":[-116.546051,43.549161],"type":"Point"}
+  "bbox": [
+    -116.546051,
+    43.549161,
+    -116.546051,
+    43.549161
+],
+  "geometry": {"coordinates":[-116.54605100000001,43.549161],"type":"Point"}
 }

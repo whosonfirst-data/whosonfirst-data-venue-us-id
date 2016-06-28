@@ -2,13 +2,14 @@
   "id": 186304721,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-117.020733,46.42032,-117.020733,46.42032",
     "geom:latitude":46.42032,
     "geom:longitude":-117.020733,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1013 D St",
     "sg:city":"Lewiston",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":186304721,
-    "wof:lastmodified":1449052348,
+    "wof:lastmodified":1466488607,
     "wof:name":"Melody Mufflers & Hitch Ctr",
     "wof:parent_id":85837769,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "system"
     ]
 },
-  "bbox": [-117.020733,46.42032,-117.020733,46.42032],
-  "geometry": {"coordinates":[-117.020733,46.42032],"type":"Point"}
+  "bbox": [
+    -117.020733,
+    46.42032,
+    -117.020733,
+    46.42032
+],
+  "geometry": {"coordinates":[-117.02073300000001,46.42032],"type":"Point"}
 }
