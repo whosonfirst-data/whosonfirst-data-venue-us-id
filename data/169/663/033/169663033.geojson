@@ -2,14 +2,20 @@
   "id": 169663033,
   "type": "Feature",
   "properties": {
+    "addr:full":"505 W Kathleen Ave Coeur D Alene ID 83815",
+    "addr:housenumber":"505",
+    "addr:postcode":"83815",
+    "addr:street":"W Kathleen Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-116.795969,47.71554,-116.795969,47.71554",
     "geom:latitude":47.71554,
     "geom:longitude":-116.795969,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"505 W Kathleen Ave",
     "sg:city":"Coeur D Alene",
     "sg:classifiers":[
@@ -32,12 +38,13 @@
         85806325,
         85821457
     ],
+    "wof:brand_id":1125151861,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1L25euRQJ2aA0sddvIv85e_47.715540_-116.795969@1294099250"
     },
     "wof:country":"US",
-    "wof:geomhash":"29f6c0e3a96e6d1b888cdad5e1c8ff92",
+    "wof:geomhash":"77acb0212b10164d0354df22229dd8a5",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -59,7 +66,7 @@
         }
     ],
     "wof:id":169663033,
-    "wof:lastmodified":1466487783,
+    "wof:lastmodified":1510699639,
     "wof:name":"Stock Building Supply",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

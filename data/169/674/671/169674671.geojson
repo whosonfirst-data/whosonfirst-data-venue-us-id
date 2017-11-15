@@ -2,14 +2,20 @@
   "id": 169674671,
   "type": "Feature",
   "properties": {
+    "addr:full":"1105 E Merrill Rd Exd Mccammon ID 83250",
+    "addr:housenumber":"1105",
+    "addr:postcode":"83250",
+    "addr:street":"E Merrill Rd Exd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-112.197909,42.661078,-112.197909,42.661078",
     "geom:latitude":42.661078,
     "geom:longitude":-112.197909,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1105 E Merrill Rd Exd",
     "sg:city":"Mccammon",
     "sg:classifiers":[
@@ -34,12 +40,13 @@
         85633793,
         85688657
     ],
+    "wof:brand_id":1125153383,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2zDUvmpin2wiCE2o4F1HVe_42.661078_-112.197909@1294099250"
     },
     "wof:country":"US",
-    "wof:geomhash":"3ec2ecec6d32b08c275921ccca505ef1",
+    "wof:geomhash":"20650b288c6971b5b859a97abb404179",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":169674671,
-    "wof:lastmodified":1466487942,
+    "wof:lastmodified":1510695717,
     "wof:name":"Flying J Travel Plaza",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

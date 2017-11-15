@@ -2,14 +2,20 @@
   "id": 857511931,
   "type": "Feature",
   "properties": {
+    "addr:full":"1120 W Ironwood Dr Coeur D Alene ID 83814",
+    "addr:housenumber":"1120",
+    "addr:postcode":"83814",
+    "addr:street":"W Ironwood Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-116.800153,47.69638,-116.800153,47.69638",
     "geom:latitude":47.69638,
     "geom:longitude":-116.800153,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1120 W Ironwood Dr",
     "sg:city":"Coeur D Alene",
     "sg:classifiers":[
@@ -34,13 +40,14 @@
         85821457,
         102086085
     ],
+    "wof:brand_id":1125150769,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1SYPHU7LlWN3re5RffboFH_47.696380_-116.800153@1294099250"
     },
     "wof:country":"US",
     "wof:created":1464202184,
-    "wof:geomhash":"498224fb41aa7f53dfac382ee0df4477",
+    "wof:geomhash":"9da5e8c6450b7a6cb82b2fd9806bfb52",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":857511931,
-    "wof:lastmodified":1466486926,
+    "wof:lastmodified":1510697653,
     "wof:name":"Child Support Enforcement",
     "wof:parent_id":85821457,
     "wof:placetype":"venue",

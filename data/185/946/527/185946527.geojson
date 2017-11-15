@@ -2,14 +2,20 @@
   "id": 185946527,
   "type": "Feature",
   "properties": {
+    "addr:full":"5677 Bethel St Boise ID 83706",
+    "addr:housenumber":"5677",
+    "addr:postcode":"83706",
+    "addr:street":"Bethel St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-116.249749,43.606119,-116.249749,43.606119",
     "geom:latitude":43.606119,
     "geom:longitude":-116.249749,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"5677 Bethel St",
     "sg:city":"Boise",
     "sg:classifiers":[
@@ -35,12 +41,13 @@
         102086087,
         85806577
     ],
+    "wof:brand_id":1125152413,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4FrtqKhmMej2LZS2v2CIiP_43.606119_-116.249749@1294099250"
     },
     "wof:country":"US",
-    "wof:geomhash":"9dc03b63bd0d180aa46ad8c78e9d9d7a",
+    "wof:geomhash":"0bac68cf6ca59ab5acced48c6657903f",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":185946527,
-    "wof:lastmodified":1466488660,
+    "wof:lastmodified":1510694882,
     "wof:name":"Loomis Fargo & Co",
     "wof:parent_id":85806577,
     "wof:placetype":"venue",

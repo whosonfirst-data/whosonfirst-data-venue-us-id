@@ -2,14 +2,20 @@
   "id": 185659701,
   "type": "Feature",
   "properties": {
+    "addr:full":"4848 N Five Mile Rd Boise ID 83713",
+    "addr:housenumber":"4848",
+    "addr:postcode":"83713",
+    "addr:street":"N Five Mile Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-116.314095,43.649764,-116.314095,43.649764",
     "geom:latitude":43.649764,
     "geom:longitude":-116.314095,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"4848 N Five Mile Rd",
     "sg:city":"Boise",
     "sg:classifiers":[
@@ -35,12 +41,13 @@
         102086087,
         85876357
     ],
+    "wof:brand_id":1125152861,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5JDE3FQrxLuJE1NCecWoie_43.649764_-116.314095@1294099250"
     },
     "wof:country":"US",
-    "wof:geomhash":"69ec369c0fb0b1d8f294c164b9fb2e63",
+    "wof:geomhash":"3896b220bc3b0a82c3326aabae6f0901",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":185659701,
-    "wof:lastmodified":1466487213,
+    "wof:lastmodified":1510613358,
     "wof:name":"Covenant Presbyterian Church",
     "wof:parent_id":85876357,
     "wof:placetype":"venue",

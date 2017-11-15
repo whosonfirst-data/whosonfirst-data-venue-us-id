@@ -2,14 +2,20 @@
   "id": 185921045,
   "type": "Feature",
   "properties": {
+    "addr:full":"1953 E Commercial St Meridian ID 83642",
+    "addr:housenumber":"1953",
+    "addr:postcode":"83642",
+    "addr:street":"E Commercial St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-116.369708,43.609635,-116.369708,43.609635",
     "geom:latitude":43.609635,
     "geom:longitude":-116.369708,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1953 E Commercial St",
     "sg:city":"Meridian",
     "sg:classifiers":[
@@ -35,12 +41,13 @@
         102086087,
         85805083
     ],
+    "wof:brand_id":1125153723,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1UfqAZ09Spnxr2PjXZC368_43.609635_-116.369708@1294099250"
     },
     "wof:country":"US",
-    "wof:geomhash":"ce4e11758c4fe4efcff194f33caeda7e",
+    "wof:geomhash":"80aac3be5b7e3fec82cadf2640a17822",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":185921045,
-    "wof:lastmodified":1466488680,
+    "wof:lastmodified":1510695748,
     "wof:name":"Sunbelt Rentals Inc",
     "wof:parent_id":85805083,
     "wof:placetype":"venue",

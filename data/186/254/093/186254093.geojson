@@ -2,14 +2,20 @@
   "id": 186254093,
   "type": "Feature",
   "properties": {
+    "addr:full":"98 S 200 W Rupert ID 83350",
+    "addr:housenumber":"98;200",
+    "addr:postcode":"83350",
+    "addr:street":"S;W Rupert",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-113.70516,42.605137,-113.70516,42.605137",
     "geom:latitude":42.605137,
     "geom:longitude":-113.70516,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"98 S 200 W",
     "sg:city":"Rupert",
     "sg:classifiers":[
@@ -36,12 +42,13 @@
         85633793,
         85688657
     ],
+    "wof:brand_id":1125153175,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2RiEn4DYUn4WlzNA9QCb0C_42.605137_-113.705160@1294099250"
     },
     "wof:country":"US",
-    "wof:geomhash":"8cd282a3fd316b16a7ff2456d0aea0d8",
+    "wof:geomhash":"f5f0331bad8013ee5c590c0a3e90d0c5",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":186254093,
-    "wof:lastmodified":1466488679,
+    "wof:lastmodified":1510699293,
     "wof:name":"Rural Development",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

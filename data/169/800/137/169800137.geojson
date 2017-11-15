@@ -2,14 +2,20 @@
   "id": 169800137,
   "type": "Feature",
   "properties": {
+    "addr:full":"3780 W State St Boise ID 83703",
+    "addr:housenumber":"3780",
+    "addr:postcode":"83703",
+    "addr:street":"W State St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-116.233973,43.638893,-116.233973,43.638893",
     "geom:latitude":43.638893,
     "geom:longitude":-116.233973,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"3780 W State St",
     "sg:city":"Boise",
     "sg:classifiers":[
@@ -31,12 +37,13 @@
         102086087,
         85876339
     ],
+    "wof:brand_id":1125156755,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3D81lgG1AR1se1nNetkL27_43.638893_-116.233973@1294099250"
     },
     "wof:country":"US",
-    "wof:geomhash":"74242d5c4058b62808ae577b6e51cd4e",
+    "wof:geomhash":"2add24819d6f2700079d4fc505fa2bc5",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -49,7 +56,7 @@
         }
     ],
     "wof:id":169800137,
-    "wof:lastmodified":1466488422,
+    "wof:lastmodified":1510694896,
     "wof:name":"Flowerama",
     "wof:parent_id":85876339,
     "wof:placetype":"venue",

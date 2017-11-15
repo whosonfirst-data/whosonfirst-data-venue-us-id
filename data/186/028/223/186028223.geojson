@@ -2,6 +2,10 @@
   "id": 186028223,
   "type": "Feature",
   "properties": {
+    "addr:full":"13456 N Smith Rd Pocatello ID 83202",
+    "addr:housenumber":"13456",
+    "addr:postcode":"83202",
+    "addr:street":"N Smith Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":186028223,
-    "wof:lastmodified":1466487059,
+    "wof:lastmodified":1472620605,
     "wof:name":"Old Time Revival Clock Repair",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

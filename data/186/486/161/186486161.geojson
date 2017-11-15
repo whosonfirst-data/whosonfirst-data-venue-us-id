@@ -2,14 +2,20 @@
   "id": 186486161,
   "type": "Feature",
   "properties": {
+    "addr:full":"970 Dam Rd Cascade ID 83611",
+    "addr:housenumber":"970",
+    "addr:postcode":"83611",
+    "addr:street":"Dam Rd Cascade",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-116.046258,44.520592,-116.046258,44.520592",
     "geom:latitude":44.520592,
     "geom:longitude":-116.046258,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"970 Dam Rd",
     "sg:city":"Cascade",
     "sg:classifiers":[
@@ -33,12 +39,13 @@
         85938117,
         102086079
     ],
+    "wof:brand_id":1125152177,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5o1jPEg3i0AQhX3RMFmfKg_44.520592_-116.046258@1294099250"
     },
     "wof:country":"US",
-    "wof:geomhash":"4681920985df691a1ea10e73d2e62b3c",
+    "wof:geomhash":"0b154e9b9a98e6ed68d5ea927005a254",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":186486161,
-    "wof:lastmodified":1466488906,
+    "wof:lastmodified":1510699944,
     "wof:name":"US Interior Dept",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

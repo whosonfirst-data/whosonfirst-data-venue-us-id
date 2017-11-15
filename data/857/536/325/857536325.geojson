@@ -2,14 +2,20 @@
   "id": 857536325,
   "type": "Feature",
   "properties": {
+    "addr:full":"112 N 4th St Coeur D Alene ID 83814",
+    "addr:housenumber":"112",
+    "addr:postcode":"83814",
+    "addr:street":"N 4Th St Coeur D",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-116.781099,47.673779,-116.781099,47.673779",
     "geom:latitude":47.673779,
     "geom:longitude":-116.781099,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"112 N 4th St",
     "sg:city":"Coeur D Alene",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         85821457,
         102086085
     ],
+    "wof:brand_id":420575865,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6Czz9Hi2F2eWi4J4MhOIx7_47.673779_-116.781099@1294099250"
     },
     "wof:country":"US",
     "wof:created":1464202669,
-    "wof:geomhash":"e0563769b603f703630ea677f4722de6",
+    "wof:geomhash":"93b409f6d21a128a2cbcaa041ffa037a",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":857536325,
-    "wof:lastmodified":1466487176,
+    "wof:lastmodified":1510602525,
     "wof:name":"US Air Force Recruiting",
     "wof:parent_id":85821457,
     "wof:placetype":"venue",

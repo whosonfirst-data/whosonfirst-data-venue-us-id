@@ -2,14 +2,20 @@
   "id": 169834209,
   "type": "Feature",
   "properties": {
+    "addr:full":"215 Jantoni Dr Boise ID 83712",
+    "addr:housenumber":"215",
+    "addr:postcode":"83712",
+    "addr:street":"Jantoni Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-116.175398,43.604885,-116.175398,43.604885",
     "geom:latitude":43.604885,
     "geom:longitude":-116.175398,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"215 Jantoni Dr",
     "sg:city":"Boise",
     "sg:classifiers":[
@@ -35,12 +41,13 @@
         102086087,
         85876305
     ],
+    "wof:brand_id":1125159997,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5HzD9AZdDenpb67cB1aHh5_43.604885_-116.175398@1294099250"
     },
     "wof:country":"US",
-    "wof:geomhash":"5c4def773abe8e1437c95f40e4ec443c",
+    "wof:geomhash":"2040027f8e82964359d8cb4a8a425ddb",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":169834209,
-    "wof:lastmodified":1466488594,
+    "wof:lastmodified":1510697734,
     "wof:name":"Quality Plumbing",
     "wof:parent_id":85876305,
     "wof:placetype":"venue",

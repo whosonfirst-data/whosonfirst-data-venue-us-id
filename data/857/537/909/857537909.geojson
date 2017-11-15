@@ -2,14 +2,20 @@
   "id": 857537909,
   "type": "Feature",
   "properties": {
+    "addr:full":"8895 N Commerce Dr Hayden Lake ID 83835",
+    "addr:housenumber":"8895",
+    "addr:postcode":"83835",
+    "addr:street":"N Commerce Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-116.790161,47.752406,-116.790161,47.752406",
     "geom:latitude":47.752406,
     "geom:longitude":-116.790161,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"8895 N Commerce Dr",
     "sg:city":"Hayden Lake",
     "sg:classifiers":[
@@ -34,13 +40,14 @@
         85821457,
         102086085
     ],
+    "wof:brand_id":1125151397,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6dM0vuHCZszILCfrVWJJZz_47.752406_-116.790161@1294099250"
     },
     "wof:country":"US",
     "wof:created":1464202696,
-    "wof:geomhash":"afb88301ab7ef4fc54b716e56205d3c9",
+    "wof:geomhash":"4f6d3cc1040bd7994b42e7ef12af711f",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":857537909,
-    "wof:lastmodified":1466487264,
+    "wof:lastmodified":1510613539,
     "wof:name":"Texaco Xpress Lube",
     "wof:parent_id":85821457,
     "wof:placetype":"venue",

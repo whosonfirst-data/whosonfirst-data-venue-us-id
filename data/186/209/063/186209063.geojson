@@ -2,14 +2,20 @@
   "id": 186209063,
   "type": "Feature",
   "properties": {
+    "addr:full":"433 State St Weiser ID 83672",
+    "addr:housenumber":"433",
+    "addr:postcode":"83672",
+    "addr:street":"State St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-116.970048,44.246095,-116.970048,44.246095",
     "geom:latitude":44.246095,
     "geom:longitude":-116.970048,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"433 State St",
     "sg:city":"Weiser",
     "sg:classifiers":[
@@ -36,12 +42,13 @@
         85937739,
         102085079
     ],
+    "wof:brand_id":1125158395,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_61ghwY9vtHn9yQp2rVmpPO_44.246095_-116.970048@1294099250"
     },
     "wof:country":"US",
-    "wof:geomhash":"76840343443e5968beba142afabbd22d",
+    "wof:geomhash":"a4416fc360b28d79ac84a59c0eea33ed",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -54,7 +61,7 @@
         }
     ],
     "wof:id":186209063,
-    "wof:lastmodified":1466488432,
+    "wof:lastmodified":1510694744,
     "wof:name":"Showtime Video",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -2,14 +2,20 @@
   "id": 186034461,
   "type": "Feature",
   "properties": {
+    "addr:full":"2065 12th Ave Rd Nampa ID 83686",
+    "addr:housenumber":"2065",
+    "addr:postcode":"83686",
+    "addr:street":"12Th Ave Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-116.572867,43.549474,-116.572867,43.549474",
     "geom:latitude":43.549474,
     "geom:longitude":-116.572867,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2065 12th Ave Rd",
     "sg:city":"Nampa",
     "sg:classifiers":[
@@ -34,12 +40,13 @@
         102085081,
         85827787
     ],
+    "wof:brand_id":1125159857,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2BVZ0GF2Cd7VlaS2vZfoNh_43.549474_-116.572867@1294099250"
     },
     "wof:country":"US",
-    "wof:geomhash":"e9d00193bdd2f453f508af3b65b74ad5",
+    "wof:geomhash":"30ae67f2a477eef14080cb88b9ebb35b",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":186034461,
-    "wof:lastmodified":1466487131,
+    "wof:lastmodified":1510696722,
     "wof:name":"Family Dental Ctr",
     "wof:parent_id":85827787,
     "wof:placetype":"venue",

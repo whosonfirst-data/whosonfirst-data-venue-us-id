@@ -2,14 +2,20 @@
   "id": 186015467,
   "type": "Feature",
   "properties": {
+    "addr:full":"220 E 10th N Mountain Home ID 83647",
+    "addr:housenumber":"220",
+    "addr:postcode":"83647",
+    "addr:street":"E 10Th N",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-115.699592,43.141168,-115.699592,43.141168",
     "geom:latitude":43.141168,
     "geom:longitude":-115.699592,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"220 E 10th N",
     "sg:city":"Mountain Home",
     "sg:classifiers":[
@@ -36,12 +42,13 @@
         85938027,
         102086075
     ],
+    "wof:brand_id":1125155507,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7cdOg0CWB7iTGZYZvQjjk8_43.141168_-115.699592@1294099250"
     },
     "wof:country":"US",
-    "wof:geomhash":"0bc53f83b9e2f534cf6b052bf9692da9",
+    "wof:geomhash":"a6c312a45419d92bdb16591f7445bef2",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -54,7 +61,7 @@
         }
     ],
     "wof:id":186015467,
-    "wof:lastmodified":1466486917,
+    "wof:lastmodified":1510696756,
     "wof:name":"KOA Kampgrounds",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

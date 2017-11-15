@@ -2,14 +2,20 @@
   "id": 857597999,
   "type": "Feature",
   "properties": {
+    "addr:full":"4454 W Riverbend Rd Post Falls ID 83854",
+    "addr:housenumber":"4454",
+    "addr:postcode":"83854",
+    "addr:street":"W Riverbend Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-117.005809,47.706478,-117.005809,47.706478",
     "geom:latitude":47.706478,
     "geom:longitude":-117.005809,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"4454 W Riverbend Rd",
     "sg:city":"Post Falls",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         102086085,
         85833263
     ],
+    "wof:brand_id":1125156047,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_71g7kcm2ZXhMHmhhhsINLj_47.706478_-117.005809@1294099250"
     },
     "wof:country":"US",
     "wof:created":1464203941,
-    "wof:geomhash":"c3cca0ee5f1c087f71e3e11d11cfdda5",
+    "wof:geomhash":"c1de04069aa9ace22a8ce4f5016b3793",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -54,7 +61,7 @@
         }
     ],
     "wof:id":857597999,
-    "wof:lastmodified":1466487969,
+    "wof:lastmodified":1510695018,
     "wof:name":"Book Warehouse",
     "wof:parent_id":85833263,
     "wof:placetype":"venue",

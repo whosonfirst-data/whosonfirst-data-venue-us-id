@@ -2,14 +2,20 @@
   "id": 186511245,
   "type": "Feature",
   "properties": {
+    "addr:full":"2984 S 25th E Idaho Falls ID 83404",
+    "addr:housenumber":"2984",
+    "addr:postcode":"83404",
+    "addr:street":"S 25Th E",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-111.984579,43.47181,-111.984579,43.47181",
     "geom:latitude":43.47181,
     "geom:longitude":-111.984579,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2984 S 25th E",
     "sg:city":"Idaho Falls",
     "sg:classifiers":[
@@ -30,12 +36,13 @@
         85937963,
         102085163
     ],
+    "wof:brand_id":1125158565,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3rnAWrQW0VIQ5KUYdxm1fh_43.471810_-111.984579@1294099250"
     },
     "wof:country":"US",
-    "wof:geomhash":"499788a68772c1dea37e9ad1a558394e",
+    "wof:geomhash":"23efe14aad97d9811d44fd102fc8ef5d",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -48,7 +55,7 @@
         }
     ],
     "wof:id":186511245,
-    "wof:lastmodified":1466488921,
+    "wof:lastmodified":1510698988,
     "wof:name":"Lamar Outdoor Advertising",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

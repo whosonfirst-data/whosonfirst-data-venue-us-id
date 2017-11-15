@@ -2,14 +2,20 @@
   "id": 857591849,
   "type": "Feature",
   "properties": {
+    "addr:full":"3213 N Government Way Coeur D Alene ID 83815",
+    "addr:housenumber":"3213",
+    "addr:postcode":"83815",
+    "addr:street":"N Government Way",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-116.786484,47.709877,-116.786484,47.709877",
     "geom:latitude":47.709877,
     "geom:longitude":-116.786484,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"3213 N Government Way",
     "sg:city":"Coeur D Alene",
     "sg:classifiers":[
@@ -33,13 +39,14 @@
         85938163,
         85806325
     ],
+    "wof:brand_id":1125157625,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1bo1sjzH6da4WwQwtWCliv_47.709877_-116.786484@1294099250"
     },
     "wof:country":"US",
     "wof:created":1464203803,
-    "wof:geomhash":"092e8f85c2860167b2b90d3748bc44f2",
+    "wof:geomhash":"12405f6b64cba1819494dc7d8f6aa7f6",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -59,7 +66,7 @@
         }
     ],
     "wof:id":857591849,
-    "wof:lastmodified":1466487884,
+    "wof:lastmodified":1510694694,
     "wof:name":"Hair Solutions",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

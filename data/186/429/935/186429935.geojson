@@ -2,14 +2,20 @@
   "id": 186429935,
   "type": "Feature",
   "properties": {
+    "addr:full":"220 E 2nd S Rexburg ID 83440",
+    "addr:housenumber":"220",
+    "addr:postcode":"83440",
+    "addr:street":"E 2Nd S",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-111.777393,43.821752,-111.777393,43.821752",
     "geom:latitude":43.821752,
     "geom:longitude":-111.777393,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"220 E 2nd S",
     "sg:city":"Rexburg",
     "sg:classifiers":[
@@ -34,12 +40,13 @@
         85937903,
         102086101
     ],
+    "wof:brand_id":1125150189,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3jKAK2pZ5EJp5L81fSQwH7_43.821752_-111.777393@1294099250"
     },
     "wof:country":"US",
-    "wof:geomhash":"71b7a096464b1f76743e22fc134919a9",
+    "wof:geomhash":"2deb41dd46475194df6bf4d26821bc13",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":186429935,
-    "wof:lastmodified":1466488855,
+    "wof:lastmodified":1510697305,
     "wof:name":"Quik Cash",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

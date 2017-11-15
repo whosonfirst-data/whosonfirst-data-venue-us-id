@@ -2,14 +2,20 @@
   "id": 186067553,
   "type": "Feature",
   "properties": {
+    "addr:full":"2491 Kimberly Rd Twin Falls ID 83301",
+    "addr:housenumber":"2491",
+    "addr:postcode":"83301",
+    "addr:street":"Kimberly Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-114.433447,42.548541,-114.433447,42.548541",
     "geom:latitude":42.548541,
     "geom:longitude":-114.433447,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2491 Kimberly Rd",
     "sg:city":"Twin Falls",
     "sg:classifiers":[
@@ -30,12 +36,13 @@
         85937881,
         102085153
     ],
+    "wof:brand_id":1125158565,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6m1KdFW3K7c7UifLAq0FI8_42.548541_-114.433447@1294099250"
     },
     "wof:country":"US",
-    "wof:geomhash":"ba57ec6ce1cb1b4d302fd47212e47811",
+    "wof:geomhash":"91d26d050088d54c21959f4893175d64",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -48,7 +55,7 @@
         }
     ],
     "wof:id":186067553,
-    "wof:lastmodified":1466487512,
+    "wof:lastmodified":1510698987,
     "wof:name":"Lamar Outdoor Advertising",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

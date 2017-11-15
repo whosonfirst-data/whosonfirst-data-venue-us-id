@@ -2,14 +2,20 @@
   "id": 169645701,
   "type": "Feature",
   "properties": {
+    "addr:full":"10009 Emerald St Boise ID 83704",
+    "addr:housenumber":"10009",
+    "addr:postcode":"83704",
+    "addr:street":"Emerald St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-116.305178,43.609537,-116.305178,43.609537",
     "geom:latitude":43.609537,
     "geom:longitude":-116.305178,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"10009 Emerald St",
     "sg:city":"Boise",
     "sg:classifiers":[
@@ -31,12 +37,13 @@
         102086087,
         85876309
     ],
+    "wof:brand_id":1125150797,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6dKLpORy7uC522BrU0GwHN_43.609537_-116.305178@1294099250"
     },
     "wof:country":"US",
-    "wof:geomhash":"e0fb3f345a68cc571c787031e5846eb3",
+    "wof:geomhash":"277d81512e45a35ad1d65c6c3fbe9744",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -49,7 +56,7 @@
         }
     ],
     "wof:id":169645701,
-    "wof:lastmodified":1466487522,
+    "wof:lastmodified":1510694178,
     "wof:name":"Corporate Express",
     "wof:parent_id":85876309,
     "wof:placetype":"venue",

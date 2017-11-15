@@ -2,14 +2,20 @@
   "id": 185631809,
   "type": "Feature",
   "properties": {
+    "addr:full":"710 W Quinn Rd Pocatello ID 83202",
+    "addr:housenumber":"710",
+    "addr:postcode":"83202",
+    "addr:street":"W Quinn Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-112.463712,42.906018,-112.463712,42.906018",
     "geom:latitude":42.906018,
     "geom:longitude":-112.463712,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"710 W Quinn Rd",
     "sg:city":"Pocatello",
     "sg:classifiers":[
@@ -34,12 +40,13 @@
         85937925,
         102086113
     ],
+    "wof:brand_id":1125150239,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0ncNNiMfsJLPsJEXrsQ4wp_42.906018_-112.463712@1294099250"
     },
     "wof:country":"US",
-    "wof:geomhash":"0ded5d634da00bb121265f355a16e2c8",
+    "wof:geomhash":"babc296525caf1a2498db2175e74170c",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":185631809,
-    "wof:lastmodified":1466487002,
+    "wof:lastmodified":1510696770,
     "wof:name":"Grease Monkey",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

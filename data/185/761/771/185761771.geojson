@@ -2,14 +2,20 @@
   "id": 185761771,
   "type": "Feature",
   "properties": {
+    "addr:full":"726 Vista Ave Boise ID 83705",
+    "addr:housenumber":"726",
+    "addr:postcode":"83705",
+    "addr:street":"Vista Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-116.213537,43.597955,-116.213537,43.597955",
     "geom:latitude":43.597955,
     "geom:longitude":-116.213537,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"726 Vista Ave",
     "sg:city":"Boise",
     "sg:classifiers":[
@@ -34,12 +40,13 @@
         102086087,
         85876303
     ],
+    "wof:brand_id":1125159143,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3rawIBzNmqe4AOSIH8ZTBM_43.597955_-116.213537@1294099250"
     },
     "wof:country":"US",
-    "wof:geomhash":"18c6a07e7b05fd921bd300ba535e6a69",
+    "wof:geomhash":"39b2b1771da2c415377058bd06410499",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":185761771,
-    "wof:lastmodified":1466488014,
+    "wof:lastmodified":1510698656,
     "wof:name":"American Lenders Svc Co",
     "wof:parent_id":85876303,
     "wof:placetype":"venue",

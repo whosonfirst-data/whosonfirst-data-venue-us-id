@@ -2,14 +2,20 @@
   "id": 857609503,
   "type": "Feature",
   "properties": {
+    "addr:full":"307 E Fairview Ave Meridian ID 83642",
+    "addr:housenumber":"307",
+    "addr:postcode":"83642",
+    "addr:street":"E Fairview Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-116.389707,43.619225,-116.389707,43.619225",
     "geom:latitude":43.619225,
     "geom:longitude":-116.389707,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"307 E Fairview Ave",
     "sg:city":"Meridian",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         102086087,
         85811491
     ],
+    "wof:brand_id":1125154441,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4JzQUhHR2lzyVFAyxfzpZq_43.619225_-116.389707@1294099250"
     },
     "wof:country":"US",
     "wof:created":1464204197,
-    "wof:geomhash":"90c0cbff58c7bae7e2b491e66aa15135",
+    "wof:geomhash":"3548f5e966b8a581a636721f3e66de8e",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -54,7 +61,7 @@
         }
     ],
     "wof:id":857609503,
-    "wof:lastmodified":1466488046,
+    "wof:lastmodified":1510694787,
     "wof:name":"Kelley-Moore Paint Co",
     "wof:parent_id":85811491,
     "wof:placetype":"venue",

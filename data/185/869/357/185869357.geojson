@@ -2,14 +2,20 @@
   "id": 185869357,
   "type": "Feature",
   "properties": {
+    "addr:full":"1735 W Franklin Rd Meridian ID 83642",
+    "addr:housenumber":"1735",
+    "addr:postcode":"83642",
+    "addr:street":"W Franklin Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-116.415101,43.604626,-116.415101,43.604626",
     "geom:latitude":43.604626,
     "geom:longitude":-116.415101,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1735 W Franklin Rd",
     "sg:city":"Meridian",
     "sg:classifiers":[
@@ -34,12 +40,13 @@
         102086087,
         85805083
     ],
+    "wof:brand_id":1125156387,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7EsT1FHujYcu7OeTAywANx_43.604626_-116.415101@1294099250"
     },
     "wof:country":"US",
-    "wof:geomhash":"461f252bdcd1dcadf906ba9fc2552018",
+    "wof:geomhash":"cb50db186c395ff436ca212dd8a9a29b",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":185869357,
-    "wof:lastmodified":1466488423,
+    "wof:lastmodified":1510698491,
     "wof:name":"Elite Cleaners",
     "wof:parent_id":85805083,
     "wof:placetype":"venue",

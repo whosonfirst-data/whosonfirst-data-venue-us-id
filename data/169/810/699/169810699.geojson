@@ -2,14 +2,20 @@
   "id": 169810699,
   "type": "Feature",
   "properties": {
+    "addr:full":"1921 Center Ave Payette ID 83661",
+    "addr:housenumber":"1921",
+    "addr:postcode":"83661",
+    "addr:street":"Center Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-116.919587,44.074931,-116.919587,44.074931",
     "geom:latitude":44.074931,
     "geom:longitude":-116.919587,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1921 Center Ave",
     "sg:city":"Payette",
     "sg:classifiers":[
@@ -34,12 +40,13 @@
         85937905,
         102086023
     ],
+    "wof:brand_id":1125153633,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6BsS0w6q5e2OMmD7HHqYfB_44.074931_-116.919587@1294099250"
     },
     "wof:country":"US",
-    "wof:geomhash":"e7ca548f148f421d1bbf9fc565aaf820",
+    "wof:geomhash":"388aa86a982d2a62613befc761e2c4bc",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":169810699,
-    "wof:lastmodified":1466488532,
+    "wof:lastmodified":1510695777,
     "wof:name":"National Guard Recruiter",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -2,14 +2,20 @@
   "id": 185726373,
   "type": "Feature",
   "properties": {
+    "addr:full":"12170 W Ustick Rd Boise ID 83713",
+    "addr:housenumber":"12170",
+    "addr:postcode":"83713",
+    "addr:street":"W Ustick Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-116.333399,43.633961,-116.333399,43.633961",
     "geom:latitude":43.633961,
     "geom:longitude":-116.333399,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"12170 W Ustick Rd",
     "sg:city":"Boise",
     "sg:classifiers":[
@@ -31,12 +37,13 @@
         102086087,
         85876351
     ],
+    "wof:brand_id":1125158813,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6LxioAXhhAJ0wCvHAvI2fF_43.633961_-116.333399@1294099250"
     },
     "wof:country":"US",
-    "wof:geomhash":"9cad6ef6de9ff8426a0913c2c0df01b5",
+    "wof:geomhash":"0daf479b670e17f320e64b78306b121c",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -49,7 +56,7 @@
         }
     ],
     "wof:id":185726373,
-    "wof:lastmodified":1466487732,
+    "wof:lastmodified":1510697442,
     "wof:name":"Maverik Country Store",
     "wof:parent_id":85876351,
     "wof:placetype":"venue",

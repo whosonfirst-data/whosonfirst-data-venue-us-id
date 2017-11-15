@@ -2,14 +2,20 @@
   "id": 186140795,
   "type": "Feature",
   "properties": {
+    "addr:full":"5511 Kendall St Boise ID 83706",
+    "addr:housenumber":"5511",
+    "addr:postcode":"83706",
+    "addr:street":"Kendall St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-116.246248,43.617553,-116.246248,43.617553",
     "geom:latitude":43.617553,
     "geom:longitude":-116.246248,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"5511 Kendall St",
     "sg:city":"Boise",
     "sg:classifiers":[
@@ -34,12 +40,13 @@
         102086087,
         85876311
     ],
+    "wof:brand_id":1125158743,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1PrXn5ZXYrxdtp74hUnxoM_43.617553_-116.246248@1294099250"
     },
     "wof:country":"US",
-    "wof:geomhash":"6cbe2e6905cba41148a12c84850e74d1",
+    "wof:geomhash":"22a9b5c4c33270426b2a56ce0bb57c90",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":186140795,
-    "wof:lastmodified":1466488232,
+    "wof:lastmodified":1510697764,
     "wof:name":"Crown Castle USA",
     "wof:parent_id":85876311,
     "wof:placetype":"venue",

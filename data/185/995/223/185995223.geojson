@@ -2,6 +2,10 @@
   "id": 185995223,
   "type": "Feature",
   "properties": {
+    "addr:full":"345 N 1800 E St Anthony ID 83445",
+    "addr:housenumber":"345;1800",
+    "addr:postcode":"83445",
+    "addr:street":"N;E St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":185995223,
-    "wof:lastmodified":1466488743,
+    "wof:lastmodified":1472620693,
     "wof:name":"Camas Meadow Packers",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

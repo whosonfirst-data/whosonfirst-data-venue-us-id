@@ -2,14 +2,20 @@
   "id": 185774053,
   "type": "Feature",
   "properties": {
+    "addr:full":"260 Rich Ln Blackfoot ID 83221",
+    "addr:housenumber":"260",
+    "addr:postcode":"83221",
+    "addr:street":"Rich Ln",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-112.332927,43.196521,-112.332927,43.196521",
     "geom:latitude":43.196521,
     "geom:longitude":-112.332927,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"260 Rich Ln",
     "sg:city":"Blackfoot",
     "sg:classifiers":[
@@ -34,12 +40,13 @@
         85938001,
         102086105
     ],
+    "wof:brand_id":1125152567,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6W1Lt4briFaPMOsvP0UEnL_43.196521_-112.332927@1294099250"
     },
     "wof:country":"US",
-    "wof:geomhash":"c1b2a934f16d3bd9d27d6a0e8b5304b1",
+    "wof:geomhash":"316655482ff46b8c36a2046e9ee8ffce",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":185774053,
-    "wof:lastmodified":1466488114,
+    "wof:lastmodified":1510693933,
     "wof:name":"Army National Guard Recruiter",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

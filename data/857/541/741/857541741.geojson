@@ -2,14 +2,20 @@
   "id": 857541741,
   "type": "Feature",
   "properties": {
+    "addr:full":"1250 W Ironwood Dr Coeur D Alene ID 83814",
+    "addr:housenumber":"1250",
+    "addr:postcode":"83814",
+    "addr:street":"W Ironwood Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-116.802001,47.697135,-116.802001,47.697135",
     "geom:latitude":47.697135,
     "geom:longitude":-116.802001,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1250 W Ironwood Dr",
     "sg:city":"Coeur D Alene",
     "sg:classifiers":[
@@ -37,13 +43,14 @@
         85938163,
         85806325
     ],
+    "wof:brand_id":1125151591,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6If5iWhOpgLP1Yu4DTePhk_47.697135_-116.802001@1294099250"
     },
     "wof:country":"US",
     "wof:created":1464202769,
-    "wof:geomhash":"a43a995887e7c05bf6fc6bffef4daa04",
+    "wof:geomhash":"ccb433e0c45f214e8783e7850fa932ac",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -63,7 +70,7 @@
         }
     ],
     "wof:id":857541741,
-    "wof:lastmodified":1466487295,
+    "wof:lastmodified":1510693873,
     "wof:name":"First Horizon Home Loan Corp",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

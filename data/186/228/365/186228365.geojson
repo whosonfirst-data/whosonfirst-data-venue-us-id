@@ -2,14 +2,20 @@
   "id": 186228365,
   "type": "Feature",
   "properties": {
+    "addr:full":"1069 E 1500 N Terreton ID 83450",
+    "addr:housenumber":"1069",
+    "addr:postcode":"83450",
+    "addr:street":"E 1500 N",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-112.483884,43.841274,-112.483884,43.841274",
     "geom:latitude":43.841274,
     "geom:longitude":-112.483884,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1069 E 1500 N",
     "sg:city":"Terreton",
     "sg:classifiers":[
@@ -32,12 +38,13 @@
         85633793,
         85688657
     ],
+    "wof:brand_id":1125151077,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5M1Y7XxGVECR1ZYr5LwKxP_43.841274_-112.483884@1294099250"
     },
     "wof:country":"US",
-    "wof:geomhash":"8fdfeb95036024ffaebdabff293c910e",
+    "wof:geomhash":"e168edb14dda83d2185cc4b961ab6cd1",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -49,7 +56,7 @@
         }
     ],
     "wof:id":186228365,
-    "wof:lastmodified":1466488551,
+    "wof:lastmodified":1510696089,
     "wof:name":"Natural Rsrces Cnservation Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

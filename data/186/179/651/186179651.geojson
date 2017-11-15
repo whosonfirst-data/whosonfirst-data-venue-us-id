@@ -2,14 +2,20 @@
   "id": 186179651,
   "type": "Feature",
   "properties": {
+    "addr:full":"127 Broadway Ave S Buhl ID 83316",
+    "addr:housenumber":"127",
+    "addr:postcode":"83316",
+    "addr:street":"Broadway Ave S",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-114.759511,42.598689,-114.759511,42.598689",
     "geom:latitude":42.598689,
     "geom:longitude":-114.759511,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"127 Broadway Ave S",
     "sg:city":"Buhl",
     "sg:classifiers":[
@@ -33,12 +39,13 @@
         85937891,
         102085153
     ],
+    "wof:brand_id":1125153851,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6NQcIWZWybK2lBmhANDOLh_42.598689_-114.759511@1294099250"
     },
     "wof:country":"US",
-    "wof:geomhash":"981fcc3cd5f2a4c2af10c9c896d5f54d",
+    "wof:geomhash":"325dce1a17ee19a6af39918a3085839f",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":186179651,
-    "wof:lastmodified":1466488454,
+    "wof:lastmodified":1510697169,
     "wof:name":"China Dragon",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -2,14 +2,20 @@
   "id": 186514565,
   "type": "Feature",
   "properties": {
+    "addr:full":"11311 Chinden Blvd Boise ID 83714",
+    "addr:housenumber":"11311",
+    "addr:postcode":"83714",
+    "addr:street":"Chinden Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-116.321842,43.661142,-116.321842,43.661142",
     "geom:latitude":43.661142,
     "geom:longitude":-116.321842,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"11311 Chinden Blvd",
     "sg:city":"Boise",
     "sg:classifiers":[
@@ -36,12 +42,13 @@
         102086087,
         85876357
     ],
+    "wof:brand_id":1125154649,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_11ds6oACsHePcWOnVE2eYN_43.661142_-116.321842@1294099250"
     },
     "wof:country":"US",
-    "wof:geomhash":"bd1daf48c2d78a82296c09628d1ae58c",
+    "wof:geomhash":"b3e2769d49e75ca22d293df9b162d924",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -54,7 +61,7 @@
         }
     ],
     "wof:id":186514565,
-    "wof:lastmodified":1466488923,
+    "wof:lastmodified":1510699365,
     "wof:name":"Hewlett-Packard Co",
     "wof:parent_id":85876357,
     "wof:placetype":"venue",

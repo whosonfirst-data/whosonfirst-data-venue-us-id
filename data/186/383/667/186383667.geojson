@@ -2,14 +2,20 @@
   "id": 186383667,
   "type": "Feature",
   "properties": {
+    "addr:full":"811 Main St Salmon ID 83467",
+    "addr:housenumber":"811",
+    "addr:postcode":"83467",
+    "addr:street":"Main St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-113.891164,45.174462,-113.891164,45.174462",
     "geom:latitude":45.174462,
     "geom:longitude":-113.891164,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"811 Main St",
     "sg:city":"Salmon",
     "sg:classifiers":[
@@ -33,12 +39,13 @@
         85938133,
         102085123
     ],
+    "wof:brand_id":1125158123,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5OVLHF5ryHFfdoFTAd54KS_45.174462_-113.891164@1294099250"
     },
     "wof:country":"US",
-    "wof:geomhash":"ed3e95ca071d0df3efbaa7e98e842a3e",
+    "wof:geomhash":"223e50f0ad7d490cc3bb06e51db081f4",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":186383667,
-    "wof:lastmodified":1466488774,
+    "wof:lastmodified":1510695053,
     "wof:name":"Lab Corp",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

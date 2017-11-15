@@ -2,14 +2,20 @@
   "id": 320543647,
   "type": "Feature",
   "properties": {
+    "addr:full":"11575 W President Dr Boise ID 83713",
+    "addr:housenumber":"11575",
+    "addr:postcode":"83713",
+    "addr:street":"W President Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-116.326115,43.611119,-116.326115,43.611119",
     "geom:latitude":43.611119,
     "geom:longitude":-116.326115,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"11575 W President Dr",
     "sg:city":"Boise",
     "sg:classifiers":[
@@ -42,12 +48,13 @@
         102086087,
         85805083
     ],
+    "wof:brand_id":1125150785,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3JU4orxir14oEedKBBLCHu_43.611119_-116.326115@1303263095"
     },
     "wof:country":"US",
-    "wof:geomhash":"018b5c34e84764c65f6ef3d4308c59fa",
+    "wof:geomhash":"8bd0a68f4fcac3a0b1d5251b34593731",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -60,7 +67,7 @@
         }
     ],
     "wof:id":320543647,
-    "wof:lastmodified":1466486972,
+    "wof:lastmodified":1510698798,
     "wof:name":"SAFELITE AUTO GLASS",
     "wof:parent_id":85805083,
     "wof:placetype":"venue",

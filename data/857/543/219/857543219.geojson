@@ -2,14 +2,20 @@
   "id": 857543219,
   "type": "Feature",
   "properties": {
+    "addr:full":"215 Oregon St Kellogg ID 83837",
+    "addr:housenumber":"215",
+    "addr:postcode":"83837",
+    "addr:street":"Oregon St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-116.127179,47.542622,-116.127179,47.542622",
     "geom:latitude":47.542622,
     "geom:longitude":-116.127179,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"215 Oregon St",
     "sg:city":"Kellogg",
     "sg:classifiers":[
@@ -31,13 +37,14 @@
         102086103,
         85849049
     ],
+    "wof:brand_id":1125159043,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5wGqH33PXbCR2ukoxXxUBf_47.542622_-116.127179@1294099250"
     },
     "wof:country":"US",
     "wof:created":1464202806,
-    "wof:geomhash":"a8a6cbe13d789062c4b075e5a159efb1",
+    "wof:geomhash":"584e54064399159abfe20b4ef5189d53",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -49,7 +56,7 @@
         }
     ],
     "wof:id":857543219,
-    "wof:lastmodified":1466487279,
+    "wof:lastmodified":1510613107,
     "wof:name":"Medical Center Pharmacy",
     "wof:parent_id":85849049,
     "wof:placetype":"venue",

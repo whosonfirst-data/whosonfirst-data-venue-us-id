@@ -2,14 +2,20 @@
   "id": 857509499,
   "type": "Feature",
   "properties": {
+    "addr:full":"534 N Milwaukee St Boise ID 83704",
+    "addr:housenumber":"534",
+    "addr:postcode":"83704",
+    "addr:street":"N Milwaukee St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-116.284683,43.609051,-116.284683,43.609051",
     "geom:latitude":43.609051,
     "geom:longitude":-116.284683,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"534 N Milwaukee St",
     "sg:city":"Boise",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102086087,
         85841319
     ],
+    "wof:brand_id":1125150133,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3bvMMzehRNG6r17xYB3vVk_43.609051_-116.284683@1294099250"
     },
     "wof:country":"US",
     "wof:created":1464202133,
-    "wof:geomhash":"e72b3e4469eaaf806377224608bb6353",
+    "wof:geomhash":"f21e24209782aa27f1378759ef7d9a3a",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -55,7 +62,7 @@
         }
     ],
     "wof:id":857509499,
-    "wof:lastmodified":1466486886,
+    "wof:lastmodified":1510696875,
     "wof:name":"Linens 'n Things",
     "wof:parent_id":85841319,
     "wof:placetype":"venue",

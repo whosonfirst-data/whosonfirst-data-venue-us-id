@@ -2,14 +2,20 @@
   "id": 857575211,
   "type": "Feature",
   "properties": {
+    "addr:full":"3036 Lanark St Meridian ID 83642",
+    "addr:housenumber":"3036",
+    "addr:postcode":"83642",
+    "addr:street":"Lanark St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-116.356601,43.607244,-116.356601,43.607244",
     "geom:latitude":43.607244,
     "geom:longitude":-116.356601,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"3036 Lanark St",
     "sg:city":"Meridian",
     "sg:classifiers":[
@@ -34,13 +40,14 @@
         102086087,
         85805083
     ],
+    "wof:brand_id":1125153617,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4r0eYUYpTufA8JD6GLs4Xu_43.607244_-116.356601@1294099250"
     },
     "wof:country":"US",
     "wof:created":1464203455,
-    "wof:geomhash":"38ca11c2ccc9bd0b5f41d717d8900616",
+    "wof:geomhash":"5f51bdd81c62697e0229ffaceee9bcfb",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":857575211,
-    "wof:lastmodified":1466487633,
+    "wof:lastmodified":1510697971,
     "wof:name":"John Deere Landscapes",
     "wof:parent_id":85805083,
     "wof:placetype":"venue",

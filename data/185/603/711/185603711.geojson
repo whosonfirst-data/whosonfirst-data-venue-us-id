@@ -2,14 +2,20 @@
   "id": 185603711,
   "type": "Feature",
   "properties": {
+    "addr:full":"617 N Orchard St Boise ID 83706",
+    "addr:housenumber":"617",
+    "addr:postcode":"83706",
+    "addr:street":"N Orchard St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-116.243529,43.610559,-116.243529,43.610559",
     "geom:latitude":43.610559,
     "geom:longitude":-116.243529,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"617 N Orchard St",
     "sg:city":"Boise",
     "sg:classifiers":[
@@ -34,12 +40,13 @@
         102086087,
         85876311
     ],
+    "wof:brand_id":1125157595,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7TghkhFVuKZUyPnN7hIYUh_43.610559_-116.243529@1294099250"
     },
     "wof:country":"US",
-    "wof:geomhash":"b28c373825d341d91049a395f6ed6375",
+    "wof:geomhash":"4b36c36a0b5d587eb351eb77c40017b4",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":185603711,
-    "wof:lastmodified":1466487973,
+    "wof:lastmodified":1510695420,
     "wof:name":"Exotic Nails",
     "wof:parent_id":85876311,
     "wof:placetype":"venue",

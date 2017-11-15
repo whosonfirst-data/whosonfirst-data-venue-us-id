@@ -2,14 +2,20 @@
   "id": 185843761,
   "type": "Feature",
   "properties": {
+    "addr:full":"823 D St Lewiston ID 83501",
+    "addr:housenumber":"823",
+    "addr:postcode":"83501",
+    "addr:street":"D St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-117.023291,46.421333,-117.023291,46.421333",
     "geom:latitude":46.421333,
     "geom:longitude":-117.023291,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"823 D St",
     "sg:city":"Lewiston",
     "sg:classifiers":[
@@ -36,12 +42,13 @@
         102086039,
         85837769
     ],
+    "wof:brand_id":1125155589,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3PnYHroE8Tj2tOaNk2bUSA_46.421333_-117.023291@1294099250"
     },
     "wof:country":"US",
-    "wof:geomhash":"8dd234d0079ebb10c6796a2dee9d3826",
+    "wof:geomhash":"8ecd91a184d194c526809f218d270b65",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -54,7 +61,7 @@
         }
     ],
     "wof:id":185843761,
-    "wof:lastmodified":1466488528,
+    "wof:lastmodified":1510694031,
     "wof:name":"Crescent Electric Supply Co",
     "wof:parent_id":85837769,
     "wof:placetype":"venue",

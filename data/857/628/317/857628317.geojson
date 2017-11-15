@@ -2,14 +2,20 @@
   "id": 857628317,
   "type": "Feature",
   "properties": {
+    "addr:full":"1400 N Eagle Rd Meridian ID 83642",
+    "addr:housenumber":"1400",
+    "addr:postcode":"83642",
+    "addr:street":"N Eagle Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-116.354473,43.616841,-116.354473,43.616841",
     "geom:latitude":43.616841,
     "geom:longitude":-116.354473,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1400 N Eagle Rd",
     "sg:city":"Meridian",
     "sg:classifiers":[
@@ -38,13 +44,14 @@
         102086087,
         85811491
     ],
+    "wof:brand_id":420575303,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_48OPJ4avMgdHiSzDe7Xupo_43.616841_-116.354473@1299784598"
     },
     "wof:country":"US",
     "wof:created":1464204630,
-    "wof:geomhash":"8b2c5ea6b17c3be68247adb3b211222d",
+    "wof:geomhash":"39857c371273fd2058546d4f0c35dada",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -57,7 +64,7 @@
         }
     ],
     "wof:id":857628317,
-    "wof:lastmodified":1466488251,
+    "wof:lastmodified":1510601934,
     "wof:name":"Cold Stone Creamery",
     "wof:parent_id":85811491,
     "wof:placetype":"venue",

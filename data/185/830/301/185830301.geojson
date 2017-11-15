@@ -2,14 +2,20 @@
   "id": 185830301,
   "type": "Feature",
   "properties": {
+    "addr:full":"1525 N Milwaukee St Boise ID 83704",
+    "addr:housenumber":"1525",
+    "addr:postcode":"83704",
+    "addr:street":"N Milwaukee St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-116.284235,43.616535,-116.284235,43.616535",
     "geom:latitude":43.616535,
     "geom:longitude":-116.284235,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1525 N Milwaukee St",
     "sg:city":"Boise",
     "sg:classifiers":[
@@ -35,12 +41,13 @@
         102086087,
         85841319
     ],
+    "wof:brand_id":1125153985,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4RWDDWomPV501STKDMkMLI_43.616535_-116.284235@1294099250"
     },
     "wof:country":"US",
-    "wof:geomhash":"27de88f1ab74ad682d19612f0942dc89",
+    "wof:geomhash":"bccfad3612b6e4f9c0a803cbe3b9a81d",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":185830301,
-    "wof:lastmodified":1466488415,
+    "wof:lastmodified":1510699548,
     "wof:name":"Oreck Floor Care Ctr",
     "wof:parent_id":85841319,
     "wof:placetype":"venue",

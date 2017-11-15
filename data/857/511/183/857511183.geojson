@@ -2,14 +2,20 @@
   "id": 857511183,
   "type": "Feature",
   "properties": {
+    "addr:full":"1233 W Northwood Center Ct Coeur D Alene ID 83814",
+    "addr:housenumber":"1233",
+    "addr:postcode":"83814",
+    "addr:street":"W;Center Ct",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-116.805206,47.698285,-116.805206,47.698285",
     "geom:latitude":47.698285,
     "geom:longitude":-116.805206,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1233 W Northwood Center Ct",
     "sg:city":"Coeur D Alene",
     "sg:classifiers":[
@@ -37,13 +43,14 @@
         85938163,
         85806325
     ],
+    "wof:brand_id":420574961,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4R8YzdjuMlriE5s4L4d1kM_47.698285_-116.805206@1294099250"
     },
     "wof:country":"US",
     "wof:created":1464202171,
-    "wof:geomhash":"359c37fb7b614e034717a7203aca0bb7",
+    "wof:geomhash":"3a17b37d7454d47f0863f8488d68b626",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -63,7 +70,7 @@
         }
     ],
     "wof:id":857511183,
-    "wof:lastmodified":1466486850,
+    "wof:lastmodified":1510604135,
     "wof:name":"Smith Barney",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

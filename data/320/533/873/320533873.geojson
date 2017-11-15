@@ -2,6 +2,10 @@
   "id": 320533873,
   "type": "Feature",
   "properties": {
+    "addr:full":"104 E Fairview Ave 106 Meridian ID 83642",
+    "addr:housenumber":"104;106",
+    "addr:postcode":"83642",
+    "addr:street":"E Fairview Ave;Meridian",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -59,7 +63,7 @@
         }
     ],
     "wof:id":320533873,
-    "wof:lastmodified":1466488382,
+    "wof:lastmodified":1472620547,
     "wof:name":"Professional Business Forms",
     "wof:parent_id":85811491,
     "wof:placetype":"venue",

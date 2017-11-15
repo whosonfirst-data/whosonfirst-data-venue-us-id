@@ -2,14 +2,20 @@
   "id": 169611943,
   "type": "Feature",
   "properties": {
+    "addr:full":"760 1st Ave Ketchum ID 83340",
+    "addr:housenumber":"760",
+    "addr:postcode":"83340",
+    "addr:street":"1St Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-114.369132,43.681753,-114.369132,43.681753",
     "geom:latitude":43.681753,
     "geom:longitude":-114.369132,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"760 1st Ave",
     "sg:city":"Ketchum",
     "sg:classifiers":[
@@ -33,12 +39,13 @@
         85937951,
         102086031
     ],
+    "wof:brand_id":1125151831,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3xJ9hyG9sNeGlnH02niEeC_43.681753_-114.369132@1294099250"
     },
     "wof:country":"US",
-    "wof:geomhash":"9012325cc116f892795db38ac6a8f617",
+    "wof:geomhash":"f89bb4279dac053b9fed052f695121be",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":169611943,
-    "wof:lastmodified":1466486989,
+    "wof:lastmodified":1510700056,
     "wof:name":"Christian Science Society",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

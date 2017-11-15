@@ -2,14 +2,20 @@
   "id": 185833697,
   "type": "Feature",
   "properties": {
+    "addr:full":"560 East Ave Ketchum ID 83340",
+    "addr:housenumber":"560",
+    "addr:postcode":"83340",
+    "addr:street":"East Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-114.364401,43.68309,-114.364401,43.68309",
     "geom:latitude":43.68309,
     "geom:longitude":-114.364401,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"560 East Ave",
     "sg:city":"Ketchum",
     "sg:classifiers":[
@@ -33,12 +39,13 @@
         85937951,
         102086031
     ],
+    "wof:brand_id":1125157037,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_00vHvTOcd4MfYCNAtnsV1m_43.683090_-114.364401@1294099250"
     },
     "wof:country":"US",
-    "wof:geomhash":"938a7f13d74303c4684056857b2880f9",
+    "wof:geomhash":"9709599c31616e54eee636ef1f9fc687",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":185833697,
-    "wof:lastmodified":1466488421,
+    "wof:lastmodified":1510709781,
     "wof:name":"Picket Fence",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

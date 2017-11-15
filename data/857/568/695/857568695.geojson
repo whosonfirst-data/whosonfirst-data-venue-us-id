@@ -2,14 +2,20 @@
   "id": 857568695,
   "type": "Feature",
   "properties": {
+    "addr:full":"347 N Milwaukee St Boise ID 83704",
+    "addr:housenumber":"347",
+    "addr:postcode":"83704",
+    "addr:street":"N Milwaukee St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-116.284828,43.609707,-116.284828,43.609707",
     "geom:latitude":43.609707,
     "geom:longitude":-116.284828,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"347 N Milwaukee St",
     "sg:city":"Boise",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         102086087,
         85841319
     ],
+    "wof:brand_id":1125151241,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0Naj1X35iFJbszHkXQQIwL_43.609707_-116.284828@1294099250"
     },
     "wof:country":"US",
     "wof:created":1464203327,
-    "wof:geomhash":"cc60cbb7d88c910f4dbf2996d9ff5886",
+    "wof:geomhash":"c2ec6d89ebf5feb68379464b13d15a4d",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -54,7 +61,7 @@
         }
     ],
     "wof:id":857568695,
-    "wof:lastmodified":1466487584,
+    "wof:lastmodified":1510697263,
     "wof:name":"Vitamin Shoppe",
     "wof:parent_id":85841319,
     "wof:placetype":"venue",

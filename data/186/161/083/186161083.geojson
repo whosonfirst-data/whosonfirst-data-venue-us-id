@@ -2,14 +2,20 @@
   "id": 186161083,
   "type": "Feature",
   "properties": {
+    "addr:full":"703 E Main St Weiser ID 83672",
+    "addr:housenumber":"703",
+    "addr:postcode":"83672",
+    "addr:street":"E Main St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-116.958352,44.245544,-116.958352,44.245544",
     "geom:latitude":44.245544,
     "geom:longitude":-116.958352,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"703 E Main St",
     "sg:city":"Weiser",
     "sg:classifiers":[
@@ -30,12 +36,13 @@
         85937739,
         102085079
     ],
+    "wof:brand_id":1125158813,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7PYxI9VN6cCeJ6iBfv3voW_44.245544_-116.958352@1294099250"
     },
     "wof:country":"US",
-    "wof:geomhash":"f078d749a6c4309212cb3f716b016095",
+    "wof:geomhash":"ee67b7879eb43e57553032db6a8e0245",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -48,7 +55,7 @@
         }
     ],
     "wof:id":186161083,
-    "wof:lastmodified":1466488405,
+    "wof:lastmodified":1510697442,
     "wof:name":"Maverik Country Store",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

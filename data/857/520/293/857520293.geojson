@@ -2,14 +2,20 @@
   "id": 857520293,
   "type": "Feature",
   "properties": {
+    "addr:full":"1975 E Fairview Ave Meridian ID 83642",
+    "addr:housenumber":"1975",
+    "addr:postcode":"83642",
+    "addr:street":"E Fairview Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-116.369954,43.619369,-116.369954,43.619369",
     "geom:latitude":43.619369,
     "geom:longitude":-116.369954,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1975 E Fairview Ave",
     "sg:city":"Meridian",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102086087,
         85811491
     ],
+    "wof:brand_id":1125152869,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4UN5t5Di15YOihqNRG8kCX_43.619369_-116.369954@1294099250"
     },
     "wof:country":"US",
     "wof:created":1464202359,
-    "wof:geomhash":"04dd42f0a7b7ea8c2493a8d738d792ff",
+    "wof:geomhash":"7c9c2795d744d3ede1bc163610a281cf",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -55,7 +62,7 @@
         }
     ],
     "wof:id":857520293,
-    "wof:lastmodified":1466487006,
+    "wof:lastmodified":1510613359,
     "wof:name":"Econo Lube N' Tune",
     "wof:parent_id":85811491,
     "wof:placetype":"venue",

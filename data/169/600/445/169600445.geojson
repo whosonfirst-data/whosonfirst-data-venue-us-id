@@ -2,14 +2,20 @@
   "id": 169600445,
   "type": "Feature",
   "properties": {
+    "addr:full":"4279 W Harvard St Boise ID 83705",
+    "addr:housenumber":"4279",
+    "addr:postcode":"83705",
+    "addr:street":"W Harvard St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-116.234142,43.556953,-116.234142,43.556953",
     "geom:latitude":43.556953,
     "geom:longitude":-116.234142,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"4279 W Harvard St",
     "sg:city":"Boise",
     "sg:classifiers":[
@@ -35,12 +41,13 @@
         102086087,
         85825393
     ],
+    "wof:brand_id":1125157087,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7kYT2K9zgJnw8XV2xbqd9O_43.556953_-116.234142@1294099250"
     },
     "wof:country":"US",
-    "wof:geomhash":"897c9015b5d4efe46ef1adf1e52efc48",
+    "wof:geomhash":"08d18555c567c5024b2cd1a5079473fc",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":169600445,
-    "wof:lastmodified":1466488320,
+    "wof:lastmodified":1510693785,
     "wof:name":"US Army Reserve Ctr",
     "wof:parent_id":85825393,
     "wof:placetype":"venue",

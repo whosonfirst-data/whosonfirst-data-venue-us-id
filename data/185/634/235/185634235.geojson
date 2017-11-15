@@ -2,14 +2,20 @@
   "id": 185634235,
   "type": "Feature",
   "properties": {
+    "addr:full":"270 N Placer Ave Idaho Falls ID 83402",
+    "addr:housenumber":"270",
+    "addr:postcode":"83402",
+    "addr:street":"N Placer Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-112.034698,43.489158,-112.034698,43.489158",
     "geom:latitude":43.489158,
     "geom:longitude":-112.034698,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"270 N Placer Ave",
     "sg:city":"Idaho Falls",
     "sg:classifiers":[
@@ -33,12 +39,13 @@
         85937963,
         102085163
     ],
+    "wof:brand_id":1125155053,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4dehT6HlMHfTPI2wpinWKj_43.489158_-112.034698@1294099250"
     },
     "wof:country":"US",
-    "wof:geomhash":"edca137a25866191f50f7d87b83451bb",
+    "wof:geomhash":"d893cbf24a990b662dc2749a69f7c8e9",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":185634235,
-    "wof:lastmodified":1466487022,
+    "wof:lastmodified":1510694929,
     "wof:name":"St Luke's Episcopal Church",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

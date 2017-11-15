@@ -2,14 +2,20 @@
   "id": 186152231,
   "type": "Feature",
   "properties": {
+    "addr:full":"1222 Broadway Ave Boise ID 83706",
+    "addr:housenumber":"1222",
+    "addr:postcode":"83706",
+    "addr:street":"Broadway Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-116.193519,43.597426,-116.193519,43.597426",
     "geom:latitude":43.597426,
     "geom:longitude":-116.193519,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1222 Broadway Ave",
     "sg:city":"Boise",
     "sg:classifiers":[
@@ -34,12 +40,13 @@
         85937923,
         102086087
     ],
+    "wof:brand_id":1125150189,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_17nDVhPXifgcaqNqRQnpQh_43.597426_-116.193519@1294099250"
     },
     "wof:country":"US",
-    "wof:geomhash":"c2deb895167fb3d14e976d5219be6f7c",
+    "wof:geomhash":"3d70a01004eb9bb0b3345873fc169270",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":186152231,
-    "wof:lastmodified":1466488379,
+    "wof:lastmodified":1510697305,
     "wof:name":"Quik Cash",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

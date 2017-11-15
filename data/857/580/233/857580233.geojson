@@ -2,6 +2,10 @@
   "id": 857580233,
   "type": "Feature",
   "properties": {
+    "addr:full":"12324 N Pinetree Rd Hayden ID 83835",
+    "addr:housenumber":"12324",
+    "addr:postcode":"83835",
+    "addr:street":"N Pinetree Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":857580233,
-    "wof:lastmodified":1466487690,
+    "wof:lastmodified":1472620590,
     "wof:name":"Carrel Brothers Delivery Svc",
     "wof:parent_id":85821457,
     "wof:placetype":"venue",

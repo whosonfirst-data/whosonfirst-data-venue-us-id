@@ -2,6 +2,10 @@
   "id": 186282091,
   "type": "Feature",
   "properties": {
+    "addr:full":"628 S 300 W Heyburn ID 83336",
+    "addr:housenumber":"628;300",
+    "addr:postcode":"83336",
+    "addr:street":"S;W Heyburn",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":186282091,
-    "wof:lastmodified":1466488644,
+    "wof:lastmodified":1472620711,
     "wof:name":"Wages Livestock",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

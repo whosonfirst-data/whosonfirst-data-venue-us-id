@@ -2,14 +2,20 @@
   "id": 186500933,
   "type": "Feature",
   "properties": {
+    "addr:full":"430 Yellowstone Ave Pocatello ID 83201",
+    "addr:housenumber":"430",
+    "addr:postcode":"83201",
+    "addr:street":"Yellowstone Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-112.451371,42.883625,-112.451371,42.883625",
     "geom:latitude":42.883625,
     "geom:longitude":-112.451371,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"430 Yellowstone Ave",
     "sg:city":"Pocatello",
     "sg:classifiers":[
@@ -33,12 +39,13 @@
         85937925,
         102086113
     ],
+    "wof:brand_id":1125150189,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5jCeDYnvpvbKtzB8AEMp0J_42.883625_-112.451371@1294099250"
     },
     "wof:country":"US",
-    "wof:geomhash":"d67721c6a445cba28588e8fd96ce2e38",
+    "wof:geomhash":"3bbe5c58ca8f1d18580afc838aa7671f",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":186500933,
-    "wof:lastmodified":1466488915,
+    "wof:lastmodified":1510697305,
     "wof:name":"Quik Cash",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

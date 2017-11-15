@@ -2,14 +2,20 @@
   "id": 857629079,
   "type": "Feature",
   "properties": {
+    "addr:full":"350 N Milwaukee St Boise ID 83704",
+    "addr:housenumber":"350",
+    "addr:postcode":"83704",
+    "addr:street":"N Milwaukee St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-116.279714,43.610226,-116.279714,43.610226",
     "geom:latitude":43.610226,
     "geom:longitude":-116.279714,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"350 N Milwaukee St",
     "sg:city":"Boise",
     "sg:classifiers":[
@@ -37,13 +43,14 @@
         102086087,
         85841319
     ],
+    "wof:brand_id":1125152831,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0UfjxQOr2daARKZnIURsst_43.610226_-116.279714@1299784598"
     },
     "wof:country":"US",
     "wof:created":1464204644,
-    "wof:geomhash":"2e316d882e6c81a4966f9e93cd8e0088",
+    "wof:geomhash":"808170bec6eb75725211e59cd6a6c9ed",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -56,7 +63,7 @@
         }
     ],
     "wof:id":857629079,
-    "wof:lastmodified":1466488257,
+    "wof:lastmodified":1510695932,
     "wof:name":"Wetzel's Pretzels",
     "wof:parent_id":85841319,
     "wof:placetype":"venue",

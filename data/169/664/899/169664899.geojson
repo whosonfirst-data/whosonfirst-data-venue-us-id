@@ -2,14 +2,20 @@
   "id": 169664899,
   "type": "Feature",
   "properties": {
+    "addr:full":"1537 N Milwaukee St Boise ID 83704",
+    "addr:housenumber":"1537",
+    "addr:postcode":"83704",
+    "addr:street":"N Milwaukee St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-116.284234,43.616404,-116.284234,43.616404",
     "geom:latitude":43.616404,
     "geom:longitude":-116.284234,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1537 N Milwaukee St",
     "sg:city":"Boise",
     "sg:classifiers":[
@@ -34,12 +40,13 @@
         102086087,
         85841319
     ],
+    "wof:brand_id":1125159339,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1KX5OZesryRZQI2xf4NLUm_43.616404_-116.284234@1294099250"
     },
     "wof:country":"US",
-    "wof:geomhash":"add5e3c0391936d5d21cf60c4fba4b04",
+    "wof:geomhash":"aa7bca3e2dd734b1f964b114d138f823",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":169664899,
-    "wof:lastmodified":1466487810,
+    "wof:lastmodified":1510695228,
     "wof:name":"Prints Plus",
     "wof:parent_id":85841319,
     "wof:placetype":"venue",

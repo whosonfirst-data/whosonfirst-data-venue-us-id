@@ -2,14 +2,20 @@
   "id": 186552755,
   "type": "Feature",
   "properties": {
+    "addr:full":"2620 E Amity Rd Boise ID 83716",
+    "addr:housenumber":"2620",
+    "addr:postcode":"83716",
+    "addr:street":"E Amity Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-116.143091,43.560547,-116.143091,43.560547",
     "geom:latitude":43.560547,
     "geom:longitude":-116.143091,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2620 E Amity Rd",
     "sg:city":"Boise",
     "sg:classifiers":[
@@ -34,12 +40,13 @@
         102086087,
         85876329
     ],
+    "wof:brand_id":1125153653,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3HR0yxSDOulYd58WJCLruU_43.560547_-116.143091@1294099250"
     },
     "wof:country":"US",
-    "wof:geomhash":"7f8aa0bfa570729eed28ab902d6d7d0f",
+    "wof:geomhash":"a21d9dbba29458d801a980ee5b15c2e1",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":186552755,
-    "wof:lastmodified":1466488893,
+    "wof:lastmodified":1510697209,
     "wof:name":"Weyerhaeuser Co",
     "wof:parent_id":85876329,
     "wof:placetype":"venue",

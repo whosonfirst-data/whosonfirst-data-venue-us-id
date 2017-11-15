@@ -2,14 +2,20 @@
   "id": 857612343,
   "type": "Feature",
   "properties": {
+    "addr:full":"707 N Post St Post Falls ID 83854",
+    "addr:housenumber":"707",
+    "addr:postcode":"83854",
+    "addr:street":"N Post St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-116.941931,47.71472,-116.941931,47.71472",
     "geom:latitude":47.71472,
     "geom:longitude":-116.941931,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"707 N Post St",
     "sg:city":"Post Falls",
     "sg:classifiers":[
@@ -32,13 +38,14 @@
         102086085,
         85833263
     ],
+    "wof:brand_id":420573749,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5FEdMsJv3PizWG5Jrc5lXA_47.714720_-116.941931@1294099250"
     },
     "wof:country":"US",
     "wof:created":1464204265,
-    "wof:geomhash":"175c472b16ee5d4ec1a594d85b0025f6",
+    "wof:geomhash":"68b401de0eba2a05157ec052e4047d4c",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":857612343,
-    "wof:lastmodified":1466488090,
+    "wof:lastmodified":1510603029,
     "wof:name":"US Post Office",
     "wof:parent_id":85833263,
     "wof:placetype":"venue",

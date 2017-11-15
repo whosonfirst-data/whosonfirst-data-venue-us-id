@@ -2,14 +2,20 @@
   "id": 857605831,
   "type": "Feature",
   "properties": {
+    "addr:full":"117 Thain Rd Lewiston ID 83501",
+    "addr:housenumber":"117",
+    "addr:postcode":"83501",
+    "addr:street":"Thain Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-116.989621,46.390259,-116.989621,46.390259",
     "geom:latitude":46.390259,
     "geom:longitude":-116.989621,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"117 Thain Rd",
     "sg:city":"Lewiston",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102191575,
         85830385
     ],
+    "wof:brand_id":1125154875,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7FMvunsgE9SdXT2EIx47XH_46.390259_-116.989621@1294099250"
     },
     "wof:country":"US",
     "wof:created":1464204113,
-    "wof:geomhash":"5634e6042679fc9d92dc5ad14d0f92f9",
+    "wof:geomhash":"67ed93d833d51ff2ea74d3b89ed3027b",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -63,7 +70,7 @@
         }
     ],
     "wof:id":857605831,
-    "wof:lastmodified":1466488021,
+    "wof:lastmodified":1510696908,
     "wof:name":"Grocery Outlet",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

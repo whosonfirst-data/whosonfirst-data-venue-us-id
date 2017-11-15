@@ -2,14 +2,20 @@
   "id": 186434881,
   "type": "Feature",
   "properties": {
+    "addr:full":"337 N Milwaukee St Boise ID 83704",
+    "addr:housenumber":"337",
+    "addr:postcode":"83704",
+    "addr:street":"N Milwaukee St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-116.284742,43.609842,-116.284742,43.609842",
     "geom:latitude":43.609842,
     "geom:longitude":-116.284742,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"337 N Milwaukee St",
     "sg:city":"Boise",
     "sg:classifiers":[
@@ -35,12 +41,13 @@
         102086087,
         85841319
     ],
+    "wof:brand_id":1125150775,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3t4X85RaJl5UcESFMrfNaj_43.609842_-116.284742@1294099250"
     },
     "wof:country":"US",
-    "wof:geomhash":"34d7aae8eb00022cd654c9cdb83469c1",
+    "wof:geomhash":"a10f7ca543776fd150e182ad25783680",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":186434881,
-    "wof:lastmodified":1466488814,
+    "wof:lastmodified":1510698788,
     "wof:name":"L A Weight Loss Ctr",
     "wof:parent_id":85841319,
     "wof:placetype":"venue",

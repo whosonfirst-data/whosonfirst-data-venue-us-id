@@ -2,14 +2,20 @@
   "id": 857595677,
   "type": "Feature",
   "properties": {
+    "addr:full":"312 Caldwell Blvd Nampa ID 83651",
+    "addr:housenumber":"312",
+    "addr:postcode":"83651",
+    "addr:street":"Caldwell Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-116.580405,43.590194,-116.580405,43.590194",
     "geom:latitude":43.590194,
     "geom:longitude":-116.580405,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"312 Caldwell Blvd",
     "sg:city":"Nampa",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         102085081,
         85827787
     ],
+    "wof:brand_id":1125151591,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1UKhmVMDxjrudqHDvXUN1J_43.590194_-116.580405@1294099250"
     },
     "wof:country":"US",
     "wof:created":1464203887,
-    "wof:geomhash":"c014232197a802f323760afdd7601154",
+    "wof:geomhash":"0833a9b4b796157bffd584abac9bf3db",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":857595677,
-    "wof:lastmodified":1466487900,
+    "wof:lastmodified":1510693873,
     "wof:name":"First Horizon Home Loan Corp",
     "wof:parent_id":85827787,
     "wof:placetype":"venue",

@@ -2,6 +2,10 @@
   "id": 320532845,
   "type": "Feature",
   "properties": {
+    "addr:full":"3240 E Louise Dr # 100 Meridian ID 83642",
+    "addr:housenumber":"3240;100",
+    "addr:postcode":"83642",
+    "addr:street":"E Louise Dr #;Meridian",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -63,7 +67,7 @@
         }
     ],
     "wof:id":320532845,
-    "wof:lastmodified":1466488294,
+    "wof:lastmodified":1472620544,
     "wof:name":"Starbucks Coffee",
     "wof:parent_id":85805083,
     "wof:placetype":"venue",

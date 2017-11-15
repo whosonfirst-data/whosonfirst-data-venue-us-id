@@ -2,14 +2,20 @@
   "id": 186346213,
   "type": "Feature",
   "properties": {
+    "addr:full":"6890 S Eisenman Rd Boise ID 83716",
+    "addr:housenumber":"6890",
+    "addr:postcode":"83716",
+    "addr:street":"S Eisenman Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-116.165045,43.54264,-116.165045,43.54264",
     "geom:latitude":43.54264,
     "geom:longitude":-116.165045,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"6890 S Eisenman Rd",
     "sg:city":"Boise",
     "sg:classifiers":[
@@ -35,12 +41,13 @@
         102086087,
         85876329
     ],
+    "wof:brand_id":1125156449,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5kmEltycG7jFVZRA8It47p_43.542640_-116.165045@1294099250"
     },
     "wof:country":"US",
-    "wof:geomhash":"32fb1169f1fb883f8d248a8455971d87",
+    "wof:geomhash":"f28f61b4b32ca5b9e4fb72e6d9f2f1d4",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":186346213,
-    "wof:lastmodified":1466488733,
+    "wof:lastmodified":1510694602,
     "wof:name":"Osh Kosh B'Gosh",
     "wof:parent_id":85876329,
     "wof:placetype":"venue",

@@ -2,14 +2,20 @@
   "id": 186027807,
   "type": "Feature",
   "properties": {
+    "addr:full":"47 W 3rd N St Anthony ID 83445",
+    "addr:housenumber":"47",
+    "addr:postcode":"83445",
+    "addr:street":"W 3Rd N",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-111.683373,43.969337,-111.683373,43.969337",
     "geom:latitude":43.969337,
     "geom:longitude":-111.683373,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"47 W 3rd N",
     "sg:city":"St Anthony",
     "sg:classifiers":[
@@ -33,12 +39,13 @@
         85937757,
         102085125
     ],
+    "wof:brand_id":1125159837,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5cDXBY8dERMmiDf0MGvGko_43.969337_-111.683373@1294099250"
     },
     "wof:country":"US",
-    "wof:geomhash":"c87430b971f309905e245f7d7e780c68",
+    "wof:geomhash":"00f7d2bd6b774a9c98266f7569bbb434",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":186027807,
-    "wof:lastmodified":1466487055,
+    "wof:lastmodified":1510613377,
     "wof:name":"Community Presbyterian Church",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

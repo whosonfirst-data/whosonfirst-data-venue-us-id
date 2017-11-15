@@ -2,14 +2,20 @@
   "id": 320526355,
   "type": "Feature",
   "properties": {
+    "addr:full":"504 24th St N Lewiston ID 83501",
+    "addr:housenumber":"504",
+    "addr:postcode":"83501",
+    "addr:street":"24Th St N",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-116.996452,46.42588,-116.996452,46.42588",
     "geom:latitude":46.42588,
     "geom:longitude":-116.996452,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"504 24th St N",
     "sg:city":"Lewiston",
     "sg:classifiers":[
@@ -42,12 +48,13 @@
         102086039,
         85837769
     ],
+    "wof:brand_id":1125150785,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_40iLKNm26QBSRs3YAM0yj5_46.425880_-116.996452@1303263095"
     },
     "wof:country":"US",
-    "wof:geomhash":"eb3367f6b32fe9f35911109c4f7ab92f",
+    "wof:geomhash":"ba4d089695447fefc8bdcc3b363f1db5",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -60,7 +67,7 @@
         }
     ],
     "wof:id":320526355,
-    "wof:lastmodified":1466487382,
+    "wof:lastmodified":1510698798,
     "wof:name":"SAFELITE AUTO GLASS",
     "wof:parent_id":85837769,
     "wof:placetype":"venue",

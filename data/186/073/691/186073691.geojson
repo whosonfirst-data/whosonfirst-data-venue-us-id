@@ -2,14 +2,20 @@
   "id": 186073691,
   "type": "Feature",
   "properties": {
+    "addr:full":"9947 Emerald St Boise ID 83704",
+    "addr:housenumber":"9947",
+    "addr:postcode":"83704",
+    "addr:street":"Emerald St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-116.306081,43.609559,-116.306081,43.609559",
     "geom:latitude":43.609559,
     "geom:longitude":-116.306081,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"9947 Emerald St",
     "sg:city":"Boise",
     "sg:classifiers":[
@@ -36,12 +42,13 @@
         102086087,
         85876309
     ],
+    "wof:brand_id":1125156727,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4vKgZ5PTI9vRzmUDLmzh6U_43.609559_-116.306081@1294099250"
     },
     "wof:country":"US",
-    "wof:geomhash":"ff62e51a7db7d54dded4cf1d6cc6c0f8",
+    "wof:geomhash":"c65134bc455ca245365640ffcd6a73aa",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -54,7 +61,7 @@
         }
     ],
     "wof:id":186073691,
-    "wof:lastmodified":1466487582,
+    "wof:lastmodified":1510699518,
     "wof:name":"Diebold Inc",
     "wof:parent_id":85876309,
     "wof:placetype":"venue",

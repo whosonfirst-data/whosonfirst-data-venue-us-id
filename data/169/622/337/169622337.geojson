@@ -2,14 +2,20 @@
   "id": 169622337,
   "type": "Feature",
   "properties": {
+    "addr:full":"150 Bullock St Chubbuck ID 83202",
+    "addr:housenumber":"150",
+    "addr:postcode":"83202",
+    "addr:street":"Bullock St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-112.46337,42.912383,-112.46337,42.912383",
     "geom:latitude":42.912383,
     "geom:longitude":-112.46337,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"150 Bullock St",
     "sg:city":"Chubbuck",
     "sg:classifiers":[
@@ -33,12 +39,13 @@
         85937935,
         102086113
     ],
+    "wof:brand_id":1125154875,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5R67SQ9zHWPG3Dezbhr6Zi_42.912383_-112.463370@1294099250"
     },
     "wof:country":"US",
-    "wof:geomhash":"85b37af514c3dcdbbffc458a7a734c9b",
+    "wof:geomhash":"837ea9da4b9e784487a93b0b0209cddb",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":169622337,
-    "wof:lastmodified":1466487153,
+    "wof:lastmodified":1510696908,
     "wof:name":"Grocery Outlet",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

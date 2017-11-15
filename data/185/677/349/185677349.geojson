@@ -2,14 +2,20 @@
   "id": 185677349,
   "type": "Feature",
   "properties": {
+    "addr:full":"8515 W Canary Ct Boise ID 83714",
+    "addr:housenumber":"8515",
+    "addr:postcode":"83714",
+    "addr:street":"W Canary Ct",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-116.287348,43.661159,-116.287348,43.661159",
     "geom:latitude":43.661159,
     "geom:longitude":-116.287348,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"8515 W Canary Ct",
     "sg:city":"Boise",
     "sg:classifiers":[
@@ -34,12 +40,13 @@
         102086087,
         85876357
     ],
+    "wof:brand_id":1125151163,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4tDsxIhTjbRpou3nw5d1GE_43.661159_-116.287348@1294099250"
     },
     "wof:country":"US",
-    "wof:geomhash":"da515f0f6820fd497f698804617886b8",
+    "wof:geomhash":"e430af6d1d5b67dceb09c62e397999c4",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":185677349,
-    "wof:lastmodified":1466487346,
+    "wof:lastmodified":1510698755,
     "wof:name":"Ameri Spec Home Inspection Svc",
     "wof:parent_id":85876357,
     "wof:placetype":"venue",

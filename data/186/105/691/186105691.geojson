@@ -2,6 +2,10 @@
   "id": 186105691,
   "type": "Feature",
   "properties": {
+    "addr:full":"3543 N 3800 E Hansen ID 83334",
+    "addr:housenumber":"3543;3800 e",
+    "addr:postcode":"83334",
+    "addr:street":"N;Hansen",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":186105691,
-    "wof:lastmodified":1466487918,
+    "wof:lastmodified":1472620693,
     "wof:name":"Marvin Anderson",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

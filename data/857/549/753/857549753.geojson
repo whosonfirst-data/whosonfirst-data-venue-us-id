@@ -2,14 +2,20 @@
   "id": 857549753,
   "type": "Feature",
   "properties": {
+    "addr:full":"7200 N Ramsey Rd Coeur D Alene ID 83815",
+    "addr:housenumber":"7200",
+    "addr:postcode":"83815",
+    "addr:street":"N Ramsey Rd Coeur D",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-116.808316,47.737352,-116.808316,47.737352",
     "geom:latitude":47.737352,
     "geom:longitude":-116.808316,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"7200 N Ramsey Rd",
     "sg:city":"Coeur D Alene",
     "sg:classifiers":[
@@ -33,13 +39,14 @@
         85821457,
         102086085
     ],
+    "wof:brand_id":1125153247,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2YaFkaL881lT5yhlymNag1_47.737352_-116.808316@1294099250"
     },
     "wof:country":"US",
     "wof:created":1464202926,
-    "wof:geomhash":"e44fd32bc46f67ab640ea8701fe8010c",
+    "wof:geomhash":"415bbb51bbf78058a68375b41666e8f3",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -50,7 +57,7 @@
         }
     ],
     "wof:id":857549753,
-    "wof:lastmodified":1466487384,
+    "wof:lastmodified":1510697611,
     "wof:name":"Shaklee Products",
     "wof:parent_id":85821457,
     "wof:placetype":"venue",

@@ -2,14 +2,20 @@
   "id": 857619695,
   "type": "Feature",
   "properties": {
+    "addr:full":"4921 N Duncan Dr Coeur D Alene ID 83815",
+    "addr:housenumber":"4921",
+    "addr:postcode":"83815",
+    "addr:street":"N Duncan Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-116.795087,47.717577,-116.795087,47.717577",
     "geom:latitude":47.717577,
     "geom:longitude":-116.795087,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"4921 N Duncan Dr",
     "sg:city":"Coeur D Alene",
     "sg:classifiers":[
@@ -38,13 +44,14 @@
         85938163,
         85806325
     ],
+    "wof:brand_id":420575127,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5yqz4a6Rgpis0tgEiBREg4_47.717577_-116.795087@1294099250"
     },
     "wof:country":"US",
     "wof:created":1464204425,
-    "wof:geomhash":"c36a48a53a91d9d2851d7204bcabb8e0",
+    "wof:geomhash":"4357e9a9d4cf67f612494ce1963d8d5f",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -64,7 +71,7 @@
         }
     ],
     "wof:id":857619695,
-    "wof:lastmodified":1466488365,
+    "wof:lastmodified":1510602801,
     "wof:name":"Service Master Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

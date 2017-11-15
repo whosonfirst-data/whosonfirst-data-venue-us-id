@@ -2,14 +2,20 @@
   "id": 186527519,
   "type": "Feature",
   "properties": {
+    "addr:full":"807 Mill Rd Lewiston ID 83501",
+    "addr:housenumber":"807",
+    "addr:postcode":"83501",
+    "addr:street":"Mill Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-116.972872,46.423313,-116.972872,46.423313",
     "geom:latitude":46.423313,
     "geom:longitude":-116.972872,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"807 Mill Rd",
     "sg:city":"Lewiston",
     "sg:classifiers":[
@@ -36,12 +42,13 @@
         102086039,
         85837769
     ],
+    "wof:brand_id":1125152751,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0L670f5sP7hywK0H7RzqaG_46.423313_-116.972872@1294099250"
     },
     "wof:country":"US",
-    "wof:geomhash":"94051b66861d1b08f4cc004c44eb00a2",
+    "wof:geomhash":"67e0c7ec372c3a3a8542341e1f97e8c0",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -54,7 +61,7 @@
         }
     ],
     "wof:id":186527519,
-    "wof:lastmodified":1466488874,
+    "wof:lastmodified":1510693928,
     "wof:name":"Wesco Distributing Inc",
     "wof:parent_id":85837769,
     "wof:placetype":"venue",

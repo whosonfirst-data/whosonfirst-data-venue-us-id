@@ -2,6 +2,10 @@
   "id": 186562231,
   "type": "Feature",
   "properties": {
+    "addr:full":"322 S 600 W Heyburn ID 83336",
+    "addr:housenumber":"322;600",
+    "addr:postcode":"83336",
+    "addr:street":"S;W Heyburn",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":186562231,
-    "wof:lastmodified":1466488936,
+    "wof:lastmodified":1472620733,
     "wof:name":"Lake City Intl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

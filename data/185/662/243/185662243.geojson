@@ -2,14 +2,20 @@
   "id": 185662243,
   "type": "Feature",
   "properties": {
+    "addr:full":"304 N 8th St Boise ID 83702",
+    "addr:housenumber":"304",
+    "addr:postcode":"83702",
+    "addr:street":"N 8Th St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-116.201235,43.617846,-116.201235,43.617846",
     "geom:latitude":43.617846,
     "geom:longitude":-116.201235,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"304 N 8th St",
     "sg:city":"Boise",
     "sg:classifiers":[
@@ -35,12 +41,13 @@
         102086087,
         85876341
     ],
+    "wof:brand_id":1125159731,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3cAoxunxLlA2jR7HqyfW1w_43.617846_-116.201235@1294099250"
     },
     "wof:country":"US",
-    "wof:geomhash":"ef4b61c7c2bb00366db104712bd6ffc0",
+    "wof:geomhash":"be20e1733d3a7d7f7dd89512a122f7ca",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":185662243,
-    "wof:lastmodified":1466487231,
+    "wof:lastmodified":1510698013,
     "wof:name":"US Food & Drug Adm",
     "wof:parent_id":85876341,
     "wof:placetype":"venue",

@@ -2,14 +2,20 @@
   "id": 185832457,
   "type": "Feature",
   "properties": {
+    "addr:full":"3975 Rickenbacker St Boise ID 83705",
+    "addr:housenumber":"3975",
+    "addr:postcode":"83705",
+    "addr:street":"Rickenbacker St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-116.226848,43.571105,-116.226848,43.571105",
     "geom:latitude":43.571105,
     "geom:longitude":-116.226848,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"3975 Rickenbacker St",
     "sg:city":"Boise",
     "sg:classifiers":[
@@ -34,12 +40,13 @@
         102086087,
         85876337
     ],
+    "wof:brand_id":1125153727,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4xjFVjzKt8fT0IJsqqmEqK_43.571105_-116.226848@1294099250"
     },
     "wof:country":"US",
-    "wof:geomhash":"041e7ed252fa4ae6c41be52ccbd65f94",
+    "wof:geomhash":"04f2370444eb708e3cd38ddf1740e323",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":185832457,
-    "wof:lastmodified":1466488507,
+    "wof:lastmodified":1510695746,
     "wof:name":"System Support Center",
     "wof:parent_id":85876337,
     "wof:placetype":"venue",

@@ -2,14 +2,20 @@
   "id": 857585063,
   "type": "Feature",
   "properties": {
+    "addr:full":"723 12th Ave Rd Nampa ID 83686",
+    "addr:housenumber":"723",
+    "addr:postcode":"83686",
+    "addr:street":"12Th Ave Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-116.573041,43.562167,-116.573041,43.562167",
     "geom:latitude":43.562167,
     "geom:longitude":-116.573041,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"723 12th Ave Rd",
     "sg:city":"Nampa",
     "sg:classifiers":[
@@ -32,13 +38,14 @@
         102085081,
         85827787
     ],
+    "wof:brand_id":1125158813,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0pwSxfdgk5P3DWlcoFzjE1_43.562167_-116.573041@1294099250"
     },
     "wof:country":"US",
     "wof:created":1464203647,
-    "wof:geomhash":"76b918b25498b9dc2bc815fbbb4bb6a6",
+    "wof:geomhash":"844c6f14ab6354dad1e3d87c24c39b4c",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -50,7 +57,7 @@
         }
     ],
     "wof:id":857585063,
-    "wof:lastmodified":1466487721,
+    "wof:lastmodified":1510697442,
     "wof:name":"Maverik Country Store",
     "wof:parent_id":85827787,
     "wof:placetype":"venue",

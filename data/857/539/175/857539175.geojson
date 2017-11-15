@@ -2,14 +2,20 @@
   "id": 857539175,
   "type": "Feature",
   "properties": {
+    "addr:full":"459 N Cole Rd Boise ID 83704",
+    "addr:housenumber":"459",
+    "addr:postcode":"83704",
+    "addr:street":"N Cole Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-116.274076,43.607753,-116.274076,43.607753",
     "geom:latitude":43.607753,
     "geom:longitude":-116.274076,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"459 N Cole Rd",
     "sg:city":"Boise",
     "sg:classifiers":[
@@ -32,13 +38,14 @@
         102086087,
         85841319
     ],
+    "wof:brand_id":420575359,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0YaVs0kIrHII7eVBqWHHZh_43.607753_-116.274076@1294099250"
     },
     "wof:country":"US",
     "wof:created":1464202722,
-    "wof:geomhash":"12d2ae2e490023c3508584e097b01991",
+    "wof:geomhash":"c6b8bb51689518098f86d9510baf9d38",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":857539175,
-    "wof:lastmodified":1466487199,
+    "wof:lastmodified":1510602456,
     "wof:name":"Sizzler",
     "wof:parent_id":85841319,
     "wof:placetype":"venue",

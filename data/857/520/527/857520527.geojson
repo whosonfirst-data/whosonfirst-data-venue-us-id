@@ -2,14 +2,20 @@
   "id": 857520527,
   "type": "Feature",
   "properties": {
+    "addr:full":"5372 Waterwheel Dr Boise ID 83703",
+    "addr:housenumber":"5372",
+    "addr:postcode":"83703",
+    "addr:street":"Waterwheel Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-116.255238,43.660835,-116.255238,43.660835",
     "geom:latitude":43.660835,
     "geom:longitude":-116.255238,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"5372 Waterwheel Dr",
     "sg:city":"Boise",
     "sg:classifiers":[
@@ -37,13 +43,14 @@
         102086087,
         85811879
     ],
+    "wof:brand_id":1125152601,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7HPsXwJ6cNbN44vWuKEdMl_43.660835_-116.255238@1294099250"
     },
     "wof:country":"US",
     "wof:created":1464202363,
-    "wof:geomhash":"ab97ffda53ad46345f3fda01bd90557a",
+    "wof:geomhash":"feab302f224195ece7de70f236f91ce8",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -56,7 +63,7 @@
         }
     ],
     "wof:id":857520527,
-    "wof:lastmodified":1466487029,
+    "wof:lastmodified":1510693817,
     "wof:name":"Kitchen Tune-Up",
     "wof:parent_id":85811879,
     "wof:placetype":"venue",

@@ -2,14 +2,20 @@
   "id": 186356901,
   "type": "Feature",
   "properties": {
+    "addr:full":"1410 Franklin Blvd Nampa ID 83687",
+    "addr:housenumber":"1410",
+    "addr:postcode":"83687",
+    "addr:street":"Franklin Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-116.553042,43.596558,-116.553042,43.596558",
     "geom:latitude":43.596558,
     "geom:longitude":-116.553042,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1410 Franklin Blvd",
     "sg:city":"Nampa",
     "sg:classifiers":[
@@ -35,12 +41,13 @@
         102085081,
         85827787
     ],
+    "wof:brand_id":1125158351,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0BtK1zKrv9UCMjAM2ftJKs_43.596558_-116.553042@1294099250"
     },
     "wof:country":"US",
-    "wof:geomhash":"22bb17c909a2c5753545b02b45e93f97",
+    "wof:geomhash":"59bdc40fdab865a967eba7b692987f35",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":186356901,
-    "wof:lastmodified":1466488835,
+    "wof:lastmodified":1510694185,
     "wof:name":"Morton Buildings",
     "wof:parent_id":85827787,
     "wof:placetype":"venue",

@@ -2,14 +2,20 @@
   "id": 857588599,
   "type": "Feature",
   "properties": {
+    "addr:full":"1111 S Orchard St Boise ID 83705",
+    "addr:housenumber":"1111",
+    "addr:postcode":"83705",
+    "addr:street":"S Orchard St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-116.243637,43.59384,-116.243637,43.59384",
     "geom:latitude":43.59384,
     "geom:longitude":-116.243637,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1111 S Orchard St",
     "sg:city":"Boise",
     "sg:classifiers":[
@@ -32,13 +38,14 @@
         102086087,
         85876295
     ],
+    "wof:brand_id":1125151027,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4koHocJl03XYTzB2qx5gG8_43.593840_-116.243637@1294099250"
     },
     "wof:country":"US",
     "wof:created":1464203733,
-    "wof:geomhash":"3bf55120000c78a7d771b16c0c2d1580",
+    "wof:geomhash":"596c970db5659282b82456cf47950806",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":857588599,
-    "wof:lastmodified":1466487832,
+    "wof:lastmodified":1510699653,
     "wof:name":"Alzheimer's Association",
     "wof:parent_id":85876295,
     "wof:placetype":"venue",

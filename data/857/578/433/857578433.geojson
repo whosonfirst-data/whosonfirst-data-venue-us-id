@@ -2,14 +2,20 @@
   "id": 857578433,
   "type": "Feature",
   "properties": {
+    "addr:full":"205 N 4th St Coeur D Alene ID 83814",
+    "addr:housenumber":"205",
+    "addr:postcode":"83814",
+    "addr:street":"N 4Th St Coeur D",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-116.781211,47.674658,-116.781211,47.674658",
     "geom:latitude":47.674658,
     "geom:longitude":-116.781211,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"205 N 4th St",
     "sg:city":"Coeur D Alene",
     "sg:classifiers":[
@@ -33,13 +39,14 @@
         85821457,
         102086085
     ],
+    "wof:brand_id":1125152687,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1GPQaerUsIcAhXFeL5tMfQ_47.674658_-116.781211@1294099250"
     },
     "wof:country":"US",
     "wof:created":1464203519,
-    "wof:geomhash":"650fe1359753b6055ac150ae89c777ed",
+    "wof:geomhash":"2712a828d902da07761349031026ee25",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -50,7 +57,7 @@
         }
     ],
     "wof:id":857578433,
-    "wof:lastmodified":1466487694,
+    "wof:lastmodified":1510697341,
     "wof:name":"US General Svc Adm",
     "wof:parent_id":85821457,
     "wof:placetype":"venue",

@@ -2,14 +2,20 @@
   "id": 857566965,
   "type": "Feature",
   "properties": {
+    "addr:full":"1674 W Hill Rd Boise ID 83702",
+    "addr:housenumber":"1674",
+    "addr:postcode":"83702",
+    "addr:street":"W Hill Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-116.208735,43.640545,-116.208735,43.640545",
     "geom:latitude":43.640545,
     "geom:longitude":-116.208735,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1674 W Hill Rd",
     "sg:city":"Boise",
     "sg:classifiers":[
@@ -33,13 +39,14 @@
         102086087,
         85825211
     ],
+    "wof:brand_id":1125154455,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3sEZUHtgX2oEvOLIoJRlPN_43.640545_-116.208735@1294099250"
     },
     "wof:country":"US",
     "wof:created":1464203298,
-    "wof:geomhash":"b62a31ed915f66a1af2775bc69ca56f7",
+    "wof:geomhash":"9230435908b1df9c1459a8cc7b6596a2",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":857566965,
-    "wof:lastmodified":1466487604,
+    "wof:lastmodified":1510695918,
     "wof:name":"National Multiple Sclerosis",
     "wof:parent_id":85825211,
     "wof:placetype":"venue",

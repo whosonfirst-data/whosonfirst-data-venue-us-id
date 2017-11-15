@@ -2,6 +2,10 @@
   "id": 169592529,
   "type": "Feature",
   "properties": {
+    "addr:full":"123 W Main St Grangeville ID 83530",
+    "addr:housenumber":"123",
+    "addr:postcode":"83530",
+    "addr:street":"W Main St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":169592529,
-    "wof:lastmodified":1466488297,
+    "wof:lastmodified":1472620497,
     "wof:name":"Camas Cafe",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

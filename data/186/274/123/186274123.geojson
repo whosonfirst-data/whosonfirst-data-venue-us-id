@@ -2,14 +2,20 @@
   "id": 186274123,
   "type": "Feature",
   "properties": {
+    "addr:full":"105 E 10th Ave Post Falls ID 83854",
+    "addr:housenumber":"105",
+    "addr:postcode":"83854",
+    "addr:street":"E 10Th Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-116.948005,47.717957,-116.948005,47.717957",
     "geom:latitude":47.717957,
     "geom:longitude":-116.948005,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"105 E 10th Ave",
     "sg:city":"Post Falls",
     "sg:classifiers":[
@@ -30,12 +36,13 @@
         102086085,
         85833263
     ],
+    "wof:brand_id":1125159337,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0xgh0G6eFPMJYUh5XgB0ww_47.717957_-116.948005@1294099250"
     },
     "wof:country":"US",
-    "wof:geomhash":"8840e344b8a024e61a102540de44174e",
+    "wof:geomhash":"6e5a8c16c8b6812f7cac3e2a6b5cda37",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -48,7 +55,7 @@
         }
     ],
     "wof:id":186274123,
-    "wof:lastmodified":1466488636,
+    "wof:lastmodified":1510695226,
     "wof:name":"Premier Properties",
     "wof:parent_id":85833263,
     "wof:placetype":"venue",

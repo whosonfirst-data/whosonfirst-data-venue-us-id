@@ -2,14 +2,20 @@
   "id": 169728649,
   "type": "Feature",
   "properties": {
+    "addr:full":"615 21st St Lewiston ID 83501",
+    "addr:housenumber":"615",
+    "addr:postcode":"83501",
+    "addr:street":"21St St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-117.001839,46.414149,-117.001839,46.414149",
     "geom:latitude":46.414149,
     "geom:longitude":-117.001839,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"615 21st St",
     "sg:city":"Lewiston",
     "sg:classifiers":[
@@ -34,12 +40,13 @@
         102086039,
         85837769
     ],
+    "wof:brand_id":1125155731,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_47YKVDa892ejnvIuxxgAlC_46.414149_-117.001839@1294099250"
     },
     "wof:country":"US",
-    "wof:geomhash":"211c43c82cfa09e452c8ed90fedfa378",
+    "wof:geomhash":"17fa14cbc81f8730b703a37263336b29",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":169728649,
-    "wof:lastmodified":1466488268,
+    "wof:lastmodified":1510699772,
     "wof:name":"Cash Tyme",
     "wof:parent_id":85837769,
     "wof:placetype":"venue",

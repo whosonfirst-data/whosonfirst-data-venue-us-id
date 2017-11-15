@@ -2,14 +2,20 @@
   "id": 185635271,
   "type": "Feature",
   "properties": {
+    "addr:full":"2500 Vista Ave Boise ID 83705",
+    "addr:housenumber":"2500",
+    "addr:postcode":"83705",
+    "addr:street":"Vista Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-116.213539,43.580654,-116.213539,43.580654",
     "geom:latitude":43.580654,
     "geom:longitude":-116.213539,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2500 Vista Ave",
     "sg:city":"Boise",
     "sg:classifiers":[
@@ -32,12 +38,13 @@
         102086087,
         85876343
     ],
+    "wof:brand_id":1125152471,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7L9bdP0kvYpalqcRbaYd4H_43.580654_-116.213539@1294099250"
     },
     "wof:country":"US",
-    "wof:geomhash":"33d19ec3c4918352da63f182940cf695",
+    "wof:geomhash":"49a1d9d2abaedd2a80ca4006211e0c61",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -50,7 +57,7 @@
         }
     ],
     "wof:id":185635271,
-    "wof:lastmodified":1466487030,
+    "wof:lastmodified":1510696665,
     "wof:name":"Extended Stay America",
     "wof:parent_id":85876343,
     "wof:placetype":"venue",

@@ -2,14 +2,20 @@
   "id": 169812851,
   "type": "Feature",
   "properties": {
+    "addr:full":"550 W Fort St Boise ID 83702",
+    "addr:housenumber":"550",
+    "addr:postcode":"83702",
+    "addr:street":"W Fort St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-116.195326,43.62033,-116.195326,43.62033",
     "geom:latitude":43.62033,
     "geom:longitude":-116.195326,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"550 W Fort St",
     "sg:city":"Boise",
     "sg:classifiers":[
@@ -34,12 +40,13 @@
         102086087,
         85876291
     ],
+    "wof:brand_id":1125154013,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4F2hQqYCCzIDmI42ZPMRNQ_43.620330_-116.195326@1294099250"
     },
     "wof:country":"US",
-    "wof:geomhash":"1e125004f0064fd0e1d2482e072f5777",
+    "wof:geomhash":"15bf68bb88252dee121f6877f8d1e1dd",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":169812851,
-    "wof:lastmodified":1466488465,
+    "wof:lastmodified":1510695148,
     "wof:name":"US Army Dept",
     "wof:parent_id":85876291,
     "wof:placetype":"venue",

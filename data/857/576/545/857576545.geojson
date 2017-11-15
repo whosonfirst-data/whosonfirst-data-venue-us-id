@@ -2,14 +2,20 @@
   "id": 857576545,
   "type": "Feature",
   "properties": {
+    "addr:full":"250 W Dalton Ave Coeur D Alene ID 83815",
+    "addr:housenumber":"250",
+    "addr:postcode":"83815",
+    "addr:street":"W Dalton Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-116.792093,47.722696,-116.792093,47.722696",
     "geom:latitude":47.722696,
     "geom:longitude":-116.792093,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"250 W Dalton Ave",
     "sg:city":"Coeur D Alene",
     "sg:classifiers":[
@@ -39,13 +45,14 @@
         85938163,
         85806325
     ],
+    "wof:brand_id":1125155589,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4OmF9xsEb6ofJnDcUVGbpo_47.722696_-116.792093@1294099250"
     },
     "wof:country":"US",
     "wof:created":1464203480,
-    "wof:geomhash":"f32b3c176657644229694056095cf624",
+    "wof:geomhash":"992f8afe0bd8e594e6782af8fb61f76c",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -65,7 +72,7 @@
         }
     ],
     "wof:id":857576545,
-    "wof:lastmodified":1466487663,
+    "wof:lastmodified":1510694031,
     "wof:name":"Crescent Electric Supply Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

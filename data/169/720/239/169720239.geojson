@@ -2,14 +2,20 @@
   "id": 169720239,
   "type": "Feature",
   "properties": {
+    "addr:full":"2407 S Mariner Way Boise ID 83706",
+    "addr:housenumber":"2407",
+    "addr:postcode":"83706",
+    "addr:street":"S Mariner Way",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-116.163517,43.581243,-116.163517,43.581243",
     "geom:latitude":43.581243,
     "geom:longitude":-116.163517,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2407 S Mariner Way",
     "sg:city":"Boise",
     "sg:classifiers":[
@@ -30,12 +36,13 @@
         85937923,
         102086087
     ],
+    "wof:brand_id":1125150715,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_49SsuWJ8vGVBFPFXHO2UUa_43.581243_-116.163517@1294099250"
     },
     "wof:country":"US",
-    "wof:geomhash":"d05a0eb72991f79b2ce80e3e68b85654",
+    "wof:geomhash":"7d6b761abb70cb39d4ccc91d0266a84a",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -48,7 +55,7 @@
         }
     ],
     "wof:id":169720239,
-    "wof:lastmodified":1466488193,
+    "wof:lastmodified":1510698924,
     "wof:name":"Pillar To Post",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

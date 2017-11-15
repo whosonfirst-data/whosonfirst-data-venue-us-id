@@ -2,14 +2,20 @@
   "id": 186541395,
   "type": "Feature",
   "properties": {
+    "addr:full":"5480 Irving St Boise ID 83706",
+    "addr:housenumber":"5480",
+    "addr:postcode":"83706",
+    "addr:street":"Irving St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-116.250531,43.615322,-116.250531,43.615322",
     "geom:latitude":43.615322,
     "geom:longitude":-116.250531,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"5480 Irving St",
     "sg:city":"Boise",
     "sg:classifiers":[
@@ -37,12 +43,13 @@
         102086087,
         85876311
     ],
+    "wof:brand_id":1125152751,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5bYAf5OmH0JD74p7pKGSaa_43.615322_-116.250531@1294099250"
     },
     "wof:country":"US",
-    "wof:geomhash":"cc906bd4b8ee9c2200ee9c0efe2f9ee7",
+    "wof:geomhash":"775a8bbea924b83b60e548a93f10cec2",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -55,7 +62,7 @@
         }
     ],
     "wof:id":186541395,
-    "wof:lastmodified":1466488931,
+    "wof:lastmodified":1510693928,
     "wof:name":"Wesco Distributing Inc",
     "wof:parent_id":85876311,
     "wof:placetype":"venue",

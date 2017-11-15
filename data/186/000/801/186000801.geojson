@@ -2,14 +2,20 @@
   "id": 186000801,
   "type": "Feature",
   "properties": {
+    "addr:full":"10460 Roan Meadows Dr Boise ID 83709",
+    "addr:housenumber":"10460",
+    "addr:postcode":"83709",
+    "addr:street":"Roan Meadows Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-116.313627,43.573038,-116.313627,43.573038",
     "geom:latitude":43.573038,
     "geom:longitude":-116.313627,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"10460 Roan Meadows Dr",
     "sg:city":"Boise",
     "sg:classifiers":[
@@ -33,12 +39,13 @@
         102086087,
         85876331
     ],
+    "wof:brand_id":1125157287,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5I1KF9II7Kn9dn4faT4zdc_43.573038_-116.313627@1294099250"
     },
     "wof:country":"US",
-    "wof:geomhash":"7ceb12adb7d0d192e7beb79e6646710d",
+    "wof:geomhash":"aa47a6a633fb9004c7ec5ea0a1bb613c",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":186000801,
-    "wof:lastmodified":1466487250,
+    "wof:lastmodified":1510696750,
     "wof:name":"Unishippers Association",
     "wof:parent_id":85876331,
     "wof:placetype":"venue",

@@ -2,14 +2,20 @@
   "id": 857578081,
   "type": "Feature",
   "properties": {
+    "addr:full":"1509 Caldwell Blvd Nampa ID 83651",
+    "addr:housenumber":"1509",
+    "addr:postcode":"83651",
+    "addr:street":"Caldwell Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-116.600663,43.6036,-116.600663,43.6036",
     "geom:latitude":43.6036,
     "geom:longitude":-116.600663,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1509 Caldwell Blvd",
     "sg:city":"Nampa",
     "sg:classifiers":[
@@ -32,13 +38,14 @@
         102085081,
         85827787
     ],
+    "wof:brand_id":420575005,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1I86B1pOxAt4zlaIBqos37_43.603600_-116.600663@1294099250"
     },
     "wof:country":"US",
     "wof:created":1464203512,
-    "wof:geomhash":"f1a907c54162091e04880295c8752836",
+    "wof:geomhash":"a0f8ac5dd4a805061cbe1472919723a4",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -50,7 +57,7 @@
         }
     ],
     "wof:id":857578081,
-    "wof:lastmodified":1466487657,
+    "wof:lastmodified":1510602455,
     "wof:name":"Big 5 Sporting Goods",
     "wof:parent_id":85827787,
     "wof:placetype":"venue",

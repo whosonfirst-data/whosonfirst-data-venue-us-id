@@ -2,14 +2,20 @@
   "id": 169618327,
   "type": "Feature",
   "properties": {
+    "addr:full":"268 E James Court Dr Meridian ID 83646",
+    "addr:housenumber":"268",
+    "addr:postcode":"83646",
+    "addr:street":"E James Court Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-116.389466,43.62417,-116.389466,43.62417",
     "geom:latitude":43.62417,
     "geom:longitude":-116.389466,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"268 E James Court Dr",
     "sg:city":"Meridian",
     "sg:classifiers":[
@@ -34,12 +40,13 @@
         102086087,
         85876351
     ],
+    "wof:brand_id":1125154069,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7H0unjURZAbtx3ROyufqmt_43.624170_-116.389466@1294099250"
     },
     "wof:country":"US",
-    "wof:geomhash":"924b4921e737e380539e9d78b04c555b",
+    "wof:geomhash":"42a9c7545aa299c358bab0101a641eb6",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":169618327,
-    "wof:lastmodified":1466487088,
+    "wof:lastmodified":1510709747,
     "wof:name":"Perfect Touch",
     "wof:parent_id":85876351,
     "wof:placetype":"venue",

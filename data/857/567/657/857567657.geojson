@@ -2,14 +2,20 @@
   "id": 857567657,
   "type": "Feature",
   "properties": {
+    "addr:full":"613 Bryden Ave Lewiston ID 83501",
+    "addr:housenumber":"613",
+    "addr:postcode":"83501",
+    "addr:street":"Bryden Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-117.000732,46.380622,-117.000732,46.380622",
     "geom:latitude":46.380622,
     "geom:longitude":-117.000732,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"613 Bryden Ave",
     "sg:city":"Lewiston",
     "sg:classifiers":[
@@ -31,13 +37,14 @@
         102086039,
         85837769
     ],
+    "wof:brand_id":1125154659,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3dB4u6wyz2dqDWaq4PDVUe_46.380622_-117.000732@1294099250"
     },
     "wof:country":"US",
     "wof:created":1464203309,
-    "wof:geomhash":"28d06d3ba9785db18fc5f1b64fd5a45f",
+    "wof:geomhash":"13e9fc4cd631355bf4e2295f3867b16b",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -49,7 +56,7 @@
         }
     ],
     "wof:id":857567657,
-    "wof:lastmodified":1466487574,
+    "wof:lastmodified":1510694720,
     "wof:name":"Lamar Advertising Co",
     "wof:parent_id":85837769,
     "wof:placetype":"venue",

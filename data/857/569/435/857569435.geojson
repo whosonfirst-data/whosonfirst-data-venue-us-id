@@ -2,14 +2,20 @@
   "id": 857569435,
   "type": "Feature",
   "properties": {
+    "addr:full":"1400 W Northwood Center Ct Coeur D Alene ID 83814",
+    "addr:housenumber":"1400",
+    "addr:postcode":"83814",
+    "addr:street":"W;Center Ct",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-116.804027,47.697931,-116.804027,47.697931",
     "geom:latitude":47.697931,
     "geom:longitude":-116.804027,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1400 W Northwood Center Ct",
     "sg:city":"Coeur D Alene",
     "sg:classifiers":[
@@ -37,13 +43,14 @@
         85938163,
         85806325
     ],
+    "wof:brand_id":1125151591,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0Y95hves9iJzppTT2cXU14_47.697931_-116.804027@1294099250"
     },
     "wof:country":"US",
     "wof:created":1464203342,
-    "wof:geomhash":"73de0b4f4ea4fa420d98a84a61f4295e",
+    "wof:geomhash":"4ad59fc51d8d600383aaf9a31200d6e9",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -63,7 +70,7 @@
         }
     ],
     "wof:id":857569435,
-    "wof:lastmodified":1466487589,
+    "wof:lastmodified":1510693873,
     "wof:name":"First Horizon Home Loan Corp",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -2,14 +2,20 @@
   "id": 185756419,
   "type": "Feature",
   "properties": {
+    "addr:full":"200 W Hanley Ave Coeur D Alene ID 83815",
+    "addr:housenumber":"200",
+    "addr:postcode":"83815",
+    "addr:street":"W Hanley Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-116.788417,47.729844,-116.788417,47.729844",
     "geom:latitude":47.729844,
     "geom:longitude":-116.788417,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"200 W Hanley Ave",
     "sg:city":"Coeur D Alene",
     "sg:classifiers":[
@@ -33,12 +39,13 @@
         102086085,
         85821457
     ],
+    "wof:brand_id":1125158231,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4Og99Q3qlDdkNy1T26Lpn7_47.729844_-116.788417@1294099250"
     },
     "wof:country":"US",
-    "wof:geomhash":"6406b20a4e3bf1a5b0711e00562e408a",
+    "wof:geomhash":"d93e2bb6ef578301378da80a2e524b48",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":185756419,
-    "wof:lastmodified":1466487975,
+    "wof:lastmodified":1510697370,
     "wof:name":"Wonder Nails",
     "wof:parent_id":85821457,
     "wof:placetype":"venue",

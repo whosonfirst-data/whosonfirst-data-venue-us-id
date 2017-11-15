@@ -2,6 +2,10 @@
   "id": 186053745,
   "type": "Feature",
   "properties": {
+    "addr:full":"331 S 230 W Jerome ID 83338",
+    "addr:housenumber":"331;230",
+    "addr:postcode":"83338",
+    "addr:street":"S;W Jerome",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":186053745,
-    "wof:lastmodified":1466487354,
+    "wof:lastmodified":1472620649,
     "wof:name":"Five Acres West",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

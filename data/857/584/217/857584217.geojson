@@ -2,14 +2,20 @@
   "id": 857584217,
   "type": "Feature",
   "properties": {
+    "addr:full":"9045 N Blossom Dr Hayden ID 83835",
+    "addr:housenumber":"9045",
+    "addr:postcode":"83835",
+    "addr:street":"N Blossom Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-116.800905,47.754593,-116.800905,47.754593",
     "geom:latitude":47.754593,
     "geom:longitude":-116.800905,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"9045 N Blossom Dr",
     "sg:city":"Hayden",
     "sg:classifiers":[
@@ -30,13 +36,14 @@
         85821457,
         102086085
     ],
+    "wof:brand_id":1125156217,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2izmORWQ9OVNuzxPnn8ZEe_47.754593_-116.800905@1294099250"
     },
     "wof:country":"US",
     "wof:created":1464203629,
-    "wof:geomhash":"c51385100a41032ae17ad5a3a0d9b4ba",
+    "wof:geomhash":"01e076508f0a87527f5833de43a2765c",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -47,7 +54,7 @@
         }
     ],
     "wof:id":857584217,
-    "wof:lastmodified":1466487738,
+    "wof:lastmodified":1510699588,
     "wof:name":"Computer Guy",
     "wof:parent_id":85821457,
     "wof:placetype":"venue",

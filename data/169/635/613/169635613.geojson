@@ -2,14 +2,20 @@
   "id": 169635613,
   "type": "Feature",
   "properties": {
+    "addr:full":"1840 Mill Rd Moscow ID 83843",
+    "addr:housenumber":"1840",
+    "addr:postcode":"83843",
+    "addr:street":"Mill Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-116.948315,46.718295,-116.948315,46.718295",
     "geom:latitude":46.718295,
     "geom:longitude":-116.948315,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1840 Mill Rd",
     "sg:city":"Moscow",
     "sg:classifiers":[
@@ -33,12 +39,13 @@
         85633793,
         85688657
     ],
+    "wof:brand_id":1125152115,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_459R6Uih6uh4KALIsc6R1P_46.718295_-116.948315@1294099250"
     },
     "wof:country":"US",
-    "wof:geomhash":"25cc70284ef99ad6e9e9be5c9e2a48f5",
+    "wof:geomhash":"d385aef28297546a89fe3480108d6d08",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -50,7 +57,7 @@
         }
     ],
     "wof:id":169635613,
-    "wof:lastmodified":1466487368,
+    "wof:lastmodified":1510628021,
     "wof:name":"US Navy Recruiting",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

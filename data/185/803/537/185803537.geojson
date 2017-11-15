@@ -2,14 +2,20 @@
   "id": 185803537,
   "type": "Feature",
   "properties": {
+    "addr:full":"4977 W Fairview Ave Boise ID 83706",
+    "addr:housenumber":"4977",
+    "addr:postcode":"83706",
+    "addr:street":"W Fairview Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-116.242706,43.618912,-116.242706,43.618912",
     "geom:latitude":43.618912,
     "geom:longitude":-116.242706,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"4977 W Fairview Ave",
     "sg:city":"Boise",
     "sg:classifiers":[
@@ -38,12 +44,13 @@
         102086087,
         85876301
     ],
+    "wof:brand_id":1125153167,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6Jh4WQgbgJR0LB8V2AsPXV_43.618912_-116.242706@1294099250"
     },
     "wof:country":"US",
-    "wof:geomhash":"86c66886b006f78ebdee7d0d60ef6b73",
+    "wof:geomhash":"a7d51603f6625f9f305e3b5bf53ba064",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -56,7 +63,7 @@
         }
     ],
     "wof:id":185803537,
-    "wof:lastmodified":1466488320,
+    "wof:lastmodified":1510694655,
     "wof:name":"Narcotics Anonymous",
     "wof:parent_id":85876301,
     "wof:placetype":"venue",

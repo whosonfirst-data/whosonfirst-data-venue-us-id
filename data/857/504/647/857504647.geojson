@@ -2,14 +2,20 @@
   "id": 857504647,
   "type": "Feature",
   "properties": {
+    "addr:full":"1230 Caldwell Blvd Nampa ID 83651",
+    "addr:housenumber":"1230",
+    "addr:postcode":"83651",
+    "addr:street":"Caldwell Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-116.595538,43.600583,-116.595538,43.600583",
     "geom:latitude":43.600583,
     "geom:longitude":-116.595538,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1230 Caldwell Blvd",
     "sg:city":"Nampa",
     "sg:classifiers":[
@@ -31,13 +37,14 @@
         102085081,
         85827787
     ],
+    "wof:brand_id":420574337,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6dMrClqQ5VVgDyTnBZNtvZ_43.600583_-116.595538@1294099250"
     },
     "wof:country":"US",
     "wof:created":1464202021,
-    "wof:geomhash":"243cb9d9431cf255d52fba28e612968f",
+    "wof:geomhash":"dcc8dfe376618c0e4052450f285757a6",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -49,7 +56,7 @@
         }
     ],
     "wof:id":857504647,
-    "wof:lastmodified":1466486881,
+    "wof:lastmodified":1510604655,
     "wof:name":"Fantastic Sam's",
     "wof:parent_id":85827787,
     "wof:placetype":"venue",

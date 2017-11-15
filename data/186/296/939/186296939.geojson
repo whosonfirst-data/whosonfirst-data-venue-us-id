@@ -2,14 +2,20 @@
   "id": 186296939,
   "type": "Feature",
   "properties": {
+    "addr:full":"1505 E 17th St Idaho Falls ID 83404",
+    "addr:housenumber":"1505",
+    "addr:postcode":"83404",
+    "addr:street":"E 17Th St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-112.00622,43.48253,-112.00622,43.48253",
     "geom:latitude":43.48253,
     "geom:longitude":-112.00622,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1505 E 17th St",
     "sg:city":"Idaho Falls",
     "sg:classifiers":[
@@ -34,12 +40,13 @@
         85937963,
         102085163
     ],
+    "wof:brand_id":1125152655,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1U4OPF0086drLiJ19A8AfM_43.482530_-112.006220@1294099250"
     },
     "wof:country":"US",
-    "wof:geomhash":"3af512022b5fcca980f0cf87b05fe4c0",
+    "wof:geomhash":"08fd58dc1c9501370765f0a803d9e189",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":186296939,
-    "wof:lastmodified":1466488669,
+    "wof:lastmodified":1510698889,
     "wof:name":"Great Harvest Bread Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

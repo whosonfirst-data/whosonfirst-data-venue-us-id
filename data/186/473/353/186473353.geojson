@@ -2,14 +2,20 @@
   "id": 186473353,
   "type": "Feature",
   "properties": {
+    "addr:full":"900 Lansing St Blackfoot ID 83221",
+    "addr:housenumber":"900",
+    "addr:postcode":"83221",
+    "addr:street":"Lansing St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-112.366112,43.185022,-112.366112,43.185022",
     "geom:latitude":43.185022,
     "geom:longitude":-112.366112,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"900 Lansing St",
     "sg:city":"Blackfoot",
     "sg:classifiers":[
@@ -33,12 +39,13 @@
         85938001,
         102086105
     ],
+    "wof:brand_id":1125159171,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5zKR0a7wzrYyDLt9YCviKt_43.185022_-112.366112@1294099250"
     },
     "wof:country":"US",
-    "wof:geomhash":"b43537e3eb01c029f13f08f875deb672",
+    "wof:geomhash":"42c8f20676329a19704f93f8ff1e0850",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":186473353,
-    "wof:lastmodified":1466488899,
+    "wof:lastmodified":1510694040,
     "wof:name":"Briarwood Apartments",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

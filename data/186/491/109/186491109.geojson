@@ -2,14 +2,20 @@
   "id": 186491109,
   "type": "Feature",
   "properties": {
+    "addr:full":"8460 Emerald St Boise ID 83704",
+    "addr:housenumber":"8460",
+    "addr:postcode":"83704",
+    "addr:street":"Emerald St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-116.286623,43.611361,-116.286623,43.611361",
     "geom:latitude":43.611361,
     "geom:longitude":-116.286623,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"8460 Emerald St",
     "sg:city":"Boise",
     "sg:classifiers":[
@@ -32,12 +38,13 @@
         102086087,
         85841319
     ],
+    "wof:brand_id":1125154751,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5LxztjpK85ZRav24MEhBT1_43.611361_-116.286623@1294099250"
     },
     "wof:country":"US",
-    "wof:geomhash":"ea1ea83f494be8813a46224957bcfd12",
+    "wof:geomhash":"cca231dcbc0af39f858cde7d3783c179",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -50,7 +57,7 @@
         }
     ],
     "wof:id":186491109,
-    "wof:lastmodified":1466488908,
+    "wof:lastmodified":1510697727,
     "wof:name":"Golden Corral Buffet & Grill",
     "wof:parent_id":85841319,
     "wof:placetype":"venue",

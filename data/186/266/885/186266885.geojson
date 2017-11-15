@@ -2,14 +2,20 @@
   "id": 186266885,
   "type": "Feature",
   "properties": {
+    "addr:full":"113 N Main St Cascade ID 83611",
+    "addr:housenumber":"113",
+    "addr:postcode":"83611",
+    "addr:street":"N Main St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-116.042486,44.516734,-116.042486,44.516734",
     "geom:latitude":44.516734,
     "geom:longitude":-116.042486,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"113 N Main St",
     "sg:city":"Cascade",
     "sg:classifiers":[
@@ -35,12 +41,13 @@
         85938117,
         102086079
     ],
+    "wof:brand_id":1125158547,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5SOlLGYQiAQOWJ3BZy1ZFE_44.516734_-116.042486@1294099250"
     },
     "wof:country":"US",
-    "wof:geomhash":"147e1ba60d62d57c7cc2e25112a5d5da",
+    "wof:geomhash":"161111ee0be6ca19ea176e636cfe4063",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":186266885,
-    "wof:lastmodified":1466488697,
+    "wof:lastmodified":1510699702,
     "wof:name":"Happy Tails",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

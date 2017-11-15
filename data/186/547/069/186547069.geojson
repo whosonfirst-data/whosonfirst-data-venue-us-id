@@ -2,14 +2,20 @@
   "id": 186547069,
   "type": "Feature",
   "properties": {
+    "addr:full":"1358 Oakley Ave Burley ID 83318",
+    "addr:housenumber":"1358",
+    "addr:postcode":"83318",
+    "addr:street":"Oakley Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-113.794648,42.536015,-113.794648,42.536015",
     "geom:latitude":42.536015,
     "geom:longitude":-113.794648,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1358 Oakley Ave",
     "sg:city":"Burley",
     "sg:classifiers":[
@@ -33,12 +39,13 @@
         85937773,
         102086095
     ],
+    "wof:brand_id":1125152041,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0meYu6P3ihImkLNnwB7rFg_42.536015_-113.794648@1294099250"
     },
     "wof:country":"US",
-    "wof:geomhash":"c3e9c1e62156994236a7ad16989ea079",
+    "wof:geomhash":"8b6701db7c0d6d0b1d88c4fe51e6fea0",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":186547069,
-    "wof:lastmodified":1466488884,
+    "wof:lastmodified":1510694907,
     "wof:name":"IOOF",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -2,14 +2,20 @@
   "id": 185927335,
   "type": "Feature",
   "properties": {
+    "addr:full":"2380 Gallatin Ave Idaho Falls ID 83402",
+    "addr:housenumber":"2380",
+    "addr:postcode":"83402",
+    "addr:street":"Gallatin Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-112.048406,43.476583,-112.048406,43.476583",
     "geom:latitude":43.476583,
     "geom:longitude":-112.048406,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2380 Gallatin Ave",
     "sg:city":"Idaho Falls",
     "sg:classifiers":[
@@ -35,12 +41,13 @@
         85937963,
         102085163
     ],
+    "wof:brand_id":1125151467,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3MZHzcA9lSTR1MBM8XAqcO_43.476583_-112.048406@1294099250"
     },
     "wof:country":"US",
-    "wof:geomhash":"a14c5c61fa7aec7439788a95e3c6ad0c",
+    "wof:geomhash":"ad2c3c1db87d12007300ccacd9f7885e",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":185927335,
-    "wof:lastmodified":1466488620,
+    "wof:lastmodified":1510613179,
     "wof:name":"Consolidated Electrical Distr",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

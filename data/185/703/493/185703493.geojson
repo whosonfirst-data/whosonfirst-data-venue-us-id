@@ -2,14 +2,20 @@
   "id": 185703493,
   "type": "Feature",
   "properties": {
+    "addr:full":"3320 W South Slope Rd Emmett ID 83617",
+    "addr:housenumber":"3320",
+    "addr:postcode":"83617",
+    "addr:street":"W South Slope Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-116.576372,43.835999,-116.576372,43.835999",
     "geom:latitude":43.835999,
     "geom:longitude":-116.576372,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"3320 W South Slope Rd",
     "sg:city":"Emmett",
     "sg:classifiers":[
@@ -32,12 +38,13 @@
         85633793,
         85688657
     ],
+    "wof:brand_id":1125159773,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_133cHhTIia9EpEvE1PoIzw_43.835999_-116.576372@1294099250"
     },
     "wof:country":"US",
-    "wof:geomhash":"6e748b093bb522fece1ac1c88d7581f6",
+    "wof:geomhash":"7ffc5f09020e05052db78ed0b7066096",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -49,7 +56,7 @@
         }
     ],
     "wof:id":185703493,
-    "wof:lastmodified":1466487551,
+    "wof:lastmodified":1510699930,
     "wof:name":"Affordable Plumbing",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

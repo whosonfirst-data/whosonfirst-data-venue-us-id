@@ -2,14 +2,20 @@
   "id": 169670179,
   "type": "Feature",
   "properties": {
+    "addr:full":"2445 S 5th Ave Pocatello ID 83201",
+    "addr:housenumber":"2445",
+    "addr:postcode":"83201",
+    "addr:street":"S 5Th Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-112.423984,42.849516,-112.423984,42.849516",
     "geom:latitude":42.849516,
     "geom:longitude":-112.423984,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2445 S 5th Ave",
     "sg:city":"Pocatello",
     "sg:classifiers":[
@@ -34,12 +40,13 @@
         85937925,
         102086113
     ],
+    "wof:brand_id":1125150773,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1Ux3r8aa12kYYhqhAfnCap_42.849516_-112.423984@1294099250"
     },
     "wof:country":"US",
-    "wof:geomhash":"1f069cfb86fdbaa25046bd1c85c17576",
+    "wof:geomhash":"02adb3e52d3fa9d4b126211426290c41",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":169670179,
-    "wof:lastmodified":1466487881,
+    "wof:lastmodified":1510698790,
     "wof:name":"Harbor Freight Tools USA Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

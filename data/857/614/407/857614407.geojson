@@ -2,14 +2,20 @@
   "id": 857614407,
   "type": "Feature",
   "properties": {
+    "addr:full":"420 E 5th Ave Post Falls ID 83854",
+    "addr:housenumber":"420",
+    "addr:postcode":"83854",
+    "addr:street":"E 5Th Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-116.943244,47.71202,-116.943244,47.71202",
     "geom:latitude":47.71202,
     "geom:longitude":-116.943244,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"420 E 5th Ave",
     "sg:city":"Post Falls",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102086085,
         85833263
     ],
+    "wof:brand_id":1125150313,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6cuB6WI1IJSYvGhMc9nQ93_47.712020_-116.943244@1294099250"
     },
     "wof:country":"US",
     "wof:created":1464204308,
-    "wof:geomhash":"d6ce4f7aae59f0a813b3bd9aea8b79a9",
+    "wof:geomhash":"545ffe67e754b3ae8cfe328a4c0a3c32",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -55,7 +62,7 @@
         }
     ],
     "wof:id":857614407,
-    "wof:lastmodified":1466488106,
+    "wof:lastmodified":1510697391,
     "wof:name":"Overhead Door Corp",
     "wof:parent_id":85833263,
     "wof:placetype":"venue",

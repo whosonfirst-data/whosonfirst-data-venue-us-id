@@ -2,14 +2,20 @@
   "id": 857600341,
   "type": "Feature",
   "properties": {
+    "addr:full":"206 W Ironwood Dr Coeur D Alene ID 83814",
+    "addr:housenumber":"206",
+    "addr:postcode":"83814",
+    "addr:street":"W Ironwood Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-116.787741,47.694895,-116.787741,47.694895",
     "geom:latitude":47.694895,
     "geom:longitude":-116.787741,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"206 W Ironwood Dr",
     "sg:city":"Coeur D Alene",
     "sg:classifiers":[
@@ -31,13 +37,14 @@
         85821457,
         102086085
     ],
+    "wof:brand_id":420574649,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3KrdzlZ4MDzF1f9y7Up4C6_47.694895_-116.787741@1294099250"
     },
     "wof:country":"US",
     "wof:created":1464203994,
-    "wof:geomhash":"3644a3770e44cd32eab841ebd7624977",
+    "wof:geomhash":"0bd4a79c416032a34a4d95a8d346d3ea",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -48,7 +55,7 @@
         }
     ],
     "wof:id":857600341,
-    "wof:lastmodified":1466487935,
+    "wof:lastmodified":1510603989,
     "wof:name":"Staples The Office Superstore",
     "wof:parent_id":85821457,
     "wof:placetype":"venue",

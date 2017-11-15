@@ -2,14 +2,20 @@
   "id": 186190519,
   "type": "Feature",
   "properties": {
+    "addr:full":"311 N 2nd E Soda Springs ID 83276",
+    "addr:housenumber":"311",
+    "addr:postcode":"83276",
+    "addr:street":"N 2Nd E",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-111.597625,42.665327,-111.597625,42.665327",
     "geom:latitude":42.665327,
     "geom:longitude":-111.597625,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"311 N 2nd E",
     "sg:city":"Soda Springs",
     "sg:classifiers":[
@@ -34,12 +40,13 @@
         85938031,
         102085097
     ],
+    "wof:brand_id":1125159437,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6RpYVP4XbekxSYj2yq8FxF_42.665327_-111.597625@1294099250"
     },
     "wof:country":"US",
-    "wof:geomhash":"cdda4876c08f51d3a90ecde68b5cb1fd",
+    "wof:geomhash":"21e543460d31563e9e090f3b70d0fdb5",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":186190519,
-    "wof:lastmodified":1466488486,
+    "wof:lastmodified":1510697979,
     "wof:name":"Wingfoot Commercial Tire Systs",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

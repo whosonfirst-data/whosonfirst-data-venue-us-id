@@ -2,14 +2,20 @@
   "id": 169721439,
   "type": "Feature",
   "properties": {
+    "addr:full":"470 Pershing Ave Pocatello ID 83201",
+    "addr:housenumber":"470",
+    "addr:postcode":"83201",
+    "addr:street":"Pershing Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-112.450142,42.882891,-112.450142,42.882891",
     "geom:latitude":42.882891,
     "geom:longitude":-112.450142,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"470 Pershing Ave",
     "sg:city":"Pocatello",
     "sg:classifiers":[
@@ -33,12 +39,13 @@
         85937925,
         102086113
     ],
+    "wof:brand_id":1125158441,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4XlTEJjgYg986mXDIkD4va_42.882891_-112.450142@1294099250"
     },
     "wof:country":"US",
-    "wof:geomhash":"ae5d14a4af9ae18550ee324488809b36",
+    "wof:geomhash":"96f3e3d5dc4fb81e5051a6ca8af3b116",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":169721439,
-    "wof:lastmodified":1466488205,
+    "wof:lastmodified":1510694226,
     "wof:name":"American Classifieds",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

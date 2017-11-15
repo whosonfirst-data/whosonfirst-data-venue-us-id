@@ -2,14 +2,20 @@
   "id": 169765349,
   "type": "Feature",
   "properties": {
+    "addr:full":"697 E Dakota Ave Hayden Lake ID 83835",
+    "addr:housenumber":"697",
+    "addr:postcode":"83835",
+    "addr:street":"E Dakota Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-116.777788,47.762669,-116.777788,47.762669",
     "geom:latitude":47.762669,
     "geom:longitude":-116.777788,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"697 E Dakota Ave",
     "sg:city":"Hayden Lake",
     "sg:classifiers":[
@@ -33,12 +39,13 @@
         102086085,
         85821457
     ],
+    "wof:brand_id":1125154201,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6J4Z7CeyHJdduhTYzdb6aF_47.762669_-116.777788@1294099250"
     },
     "wof:country":"US",
-    "wof:geomhash":"1d3779468828c603e0779b2df9e79546",
+    "wof:geomhash":"2181f38d611f69c1ca15847f1c6ee108",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":169765349,
-    "wof:lastmodified":1466488440,
+    "wof:lastmodified":1510694738,
     "wof:name":"Family Worship Ctr",
     "wof:parent_id":85821457,
     "wof:placetype":"venue",

@@ -2,14 +2,20 @@
   "id": 186230467,
   "type": "Feature",
   "properties": {
+    "addr:full":"202 W Ironwood Dr Coeur D Alene ID 83814",
+    "addr:housenumber":"202",
+    "addr:postcode":"83814",
+    "addr:street":"W Ironwood Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-116.787713,47.694897,-116.787713,47.694897",
     "geom:latitude":47.694897,
     "geom:longitude":-116.787713,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"202 W Ironwood Dr",
     "sg:city":"Coeur D Alene",
     "sg:classifiers":[
@@ -33,12 +39,13 @@
         102086085,
         85821457
     ],
+    "wof:brand_id":1125156781,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2YGl1ciZdNtv20uKr0TCEj_47.694897_-116.787713@1294099250"
     },
     "wof:country":"US",
-    "wof:geomhash":"d12b4c5dc0e726e1c64a1c1835e4b040",
+    "wof:geomhash":"37f60a6f6b3bd3cfcd8db8142b83f1c6",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":186230467,
-    "wof:lastmodified":1466488560,
+    "wof:lastmodified":1510696933,
     "wof:name":"Mattress Outlet",
     "wof:parent_id":85821457,
     "wof:placetype":"venue",

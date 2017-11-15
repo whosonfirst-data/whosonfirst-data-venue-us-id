@@ -2,14 +2,20 @@
   "id": 185976169,
   "type": "Feature",
   "properties": {
+    "addr:full":"5137 Glenwood St Boise ID 83714",
+    "addr:housenumber":"5137",
+    "addr:postcode":"83714",
+    "addr:street":"Glenwood St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-116.279825,43.651053,-116.279825,43.651053",
     "geom:latitude":43.651053,
     "geom:longitude":-116.279825,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"5137 Glenwood St",
     "sg:city":"Boise",
     "sg:classifiers":[
@@ -36,12 +42,13 @@
         102086087,
         85876349
     ],
+    "wof:brand_id":1125155407,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0v0wW3lXgZTJMYQevXC6Wq_43.651053_-116.279825@1294099250"
     },
     "wof:country":"US",
-    "wof:geomhash":"340f84d08f9882cb93cdc1432fd5b86b",
+    "wof:geomhash":"401c5f4b222db8f1713e0f3711038ef9",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -54,7 +61,7 @@
         }
     ],
     "wof:id":185976169,
-    "wof:lastmodified":1466488714,
+    "wof:lastmodified":1510695073,
     "wof:name":"New Horizons Computer Learning",
     "wof:parent_id":85876349,
     "wof:placetype":"venue",

@@ -2,14 +2,20 @@
   "id": 857612091,
   "type": "Feature",
   "properties": {
+    "addr:full":"1303 S Midland Blvd Nampa ID 83686",
+    "addr:housenumber":"1303",
+    "addr:postcode":"83686",
+    "addr:street":"S Midland Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-116.592703,43.557379,-116.592703,43.557379",
     "geom:latitude":43.557379,
     "geom:longitude":-116.592703,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1303 S Midland Blvd",
     "sg:city":"Nampa",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         102085081,
         85827787
     ],
+    "wof:brand_id":1125157911,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2REVO601XEE94QhlX08SYE_43.557379_-116.592703@1294099250"
     },
     "wof:country":"US",
     "wof:created":1464204260,
-    "wof:geomhash":"04a617d95d1e83bd496e7927bfdcc0be",
+    "wof:geomhash":"b2285a07dad74b5781fddfca22209aa3",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":857612091,
-    "wof:lastmodified":1466488059,
+    "wof:lastmodified":1510697541,
     "wof:name":"Mexico Lindo",
     "wof:parent_id":85827787,
     "wof:placetype":"venue",

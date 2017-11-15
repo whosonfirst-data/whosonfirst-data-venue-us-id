@@ -2,6 +2,10 @@
   "id": 186027425,
   "type": "Feature",
   "properties": {
+    "addr:full":"1234 N Hayes Ave Pocatello ID 83204",
+    "addr:housenumber":"1234",
+    "addr:postcode":"83204",
+    "addr:street":"N Hayes Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":186027425,
-    "wof:lastmodified":1466487050,
+    "wof:lastmodified":1472620587,
     "wof:name":"Twiss Construction",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

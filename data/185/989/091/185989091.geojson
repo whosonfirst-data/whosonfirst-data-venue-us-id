@@ -2,14 +2,20 @@
   "id": 185989091,
   "type": "Feature",
   "properties": {
+    "addr:full":"350 N Milwaukee St Boise ID 83704",
+    "addr:housenumber":"350",
+    "addr:postcode":"83704",
+    "addr:street":"N Milwaukee St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-116.28222,43.607228,-116.28222,43.607228",
     "geom:latitude":43.607228,
     "geom:longitude":-116.28222,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"350 N Milwaukee St",
     "sg:city":"Boise",
     "sg:classifiers":[
@@ -32,12 +38,13 @@
         102086087,
         85841319
     ],
+    "wof:brand_id":1125152247,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0ocZZMrjWvmaa73mcBXVHR_43.607228_-116.282220@1294099250"
     },
     "wof:country":"US",
-    "wof:geomhash":"37a95453fec8389ad45f78a5d84fc015",
+    "wof:geomhash":"5a7f5d99435ccfeae8353dab04bb6096",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -50,7 +57,7 @@
         }
     ],
     "wof:id":185989091,
-    "wof:lastmodified":1466488735,
+    "wof:lastmodified":1510694093,
     "wof:name":"Williams-Sonoma",
     "wof:parent_id":85841319,
     "wof:placetype":"venue",

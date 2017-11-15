@@ -2,14 +2,20 @@
   "id": 857576891,
   "type": "Feature",
   "properties": {
+    "addr:full":"200 E Railroad Ave Post Falls ID 83854",
+    "addr:housenumber":"200",
+    "addr:postcode":"83854",
+    "addr:street":"E Railroad Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-116.94655,47.709958,-116.94655,47.709958",
     "geom:latitude":47.709958,
     "geom:longitude":-116.94655,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"200 E Railroad Ave",
     "sg:city":"Post Falls",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         102086085,
         85833263
     ],
+    "wof:brand_id":1125152041,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6Md19lWLCP04eXruByIOS3_47.709958_-116.946550@1294099250"
     },
     "wof:country":"US",
     "wof:created":1464203487,
-    "wof:geomhash":"db7e48335026df076c5cf471280f4ef2",
+    "wof:geomhash":"15485c1f2aebc6eac01db7711d456d26",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -54,7 +61,7 @@
         }
     ],
     "wof:id":857576891,
-    "wof:lastmodified":1466487697,
+    "wof:lastmodified":1510709550,
     "wof:name":"IOOF",
     "wof:parent_id":85833263,
     "wof:placetype":"venue",

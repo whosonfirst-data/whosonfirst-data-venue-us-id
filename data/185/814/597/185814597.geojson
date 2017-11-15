@@ -2,14 +2,20 @@
   "id": 185814597,
   "type": "Feature",
   "properties": {
+    "addr:full":"4712 Chinden Blvd Boise ID 83714",
+    "addr:housenumber":"4712",
+    "addr:postcode":"83714",
+    "addr:street":"Chinden Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-116.261874,43.638684,-116.261874,43.638684",
     "geom:latitude":43.638684,
     "geom:longitude":-116.261874,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"4712 Chinden Blvd",
     "sg:city":"Boise",
     "sg:classifiers":[
@@ -31,12 +37,13 @@
         102086087,
         85876349
     ],
+    "wof:brand_id":1125156569,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_45GpSB0Qbt7SnHwJXTOT2M_43.638684_-116.261874@1294099250"
     },
     "wof:country":"US",
-    "wof:geomhash":"6ba3b103eb710faba9973f7798c1b9c8",
+    "wof:geomhash":"97a365db33d10db988a5c09634ab6206",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -49,7 +56,7 @@
         }
     ],
     "wof:id":185814597,
-    "wof:lastmodified":1466488403,
+    "wof:lastmodified":1510695193,
     "wof:name":"Fleetwood Homes",
     "wof:parent_id":85876349,
     "wof:placetype":"venue",

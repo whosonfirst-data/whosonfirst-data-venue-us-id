@@ -2,14 +2,20 @@
   "id": 857540981,
   "type": "Feature",
   "properties": {
+    "addr:full":"2393 E Commercial St Meridian ID 83642",
+    "addr:housenumber":"2393",
+    "addr:postcode":"83642",
+    "addr:street":"E Commercial St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-116.367207,43.609644,-116.367207,43.609644",
     "geom:latitude":43.609644,
     "geom:longitude":-116.367207,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2393 E Commercial St",
     "sg:city":"Meridian",
     "sg:classifiers":[
@@ -37,13 +43,14 @@
         102086087,
         85805083
     ],
+    "wof:brand_id":1125150695,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_55p9v2RorVDlFl8JPk26Lt_43.609644_-116.367207@1294099250"
     },
     "wof:country":"US",
     "wof:created":1464202755,
-    "wof:geomhash":"91477e7a0380df1f96e0ab2ed8048a43",
+    "wof:geomhash":"12dc39383f8e99c2aa4283062a911ee4",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -55,7 +62,7 @@
         }
     ],
     "wof:id":857540981,
-    "wof:lastmodified":1466487306,
+    "wof:lastmodified":1510697252,
     "wof:name":"Tru Green Chem Lawn",
     "wof:parent_id":85805083,
     "wof:placetype":"venue",

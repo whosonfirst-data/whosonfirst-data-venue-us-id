@@ -2,14 +2,20 @@
   "id": 857614469,
   "type": "Feature",
   "properties": {
+    "addr:full":"8000 Overland Rd Boise ID 83709",
+    "addr:housenumber":"8000",
+    "addr:postcode":"83709",
+    "addr:street":"Overland Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-116.281036,43.590322,-116.281036,43.590322",
     "geom:latitude":43.590322,
     "geom:longitude":-116.281036,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"8000 Overland Rd",
     "sg:city":"Boise",
     "sg:classifiers":[
@@ -38,13 +44,14 @@
         102086087,
         85876293
     ],
+    "wof:brand_id":1125153383,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0e12vy2j1KHgznPe2UyTN4_43.590322_-116.281036@1294099250"
     },
     "wof:country":"US",
     "wof:created":1464204309,
-    "wof:geomhash":"857df8c799f52009ff9197fa66c9e2aa",
+    "wof:geomhash":"0bd3561ae512bfab5740d5cf42742519",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -57,7 +64,7 @@
         }
     ],
     "wof:id":857614469,
-    "wof:lastmodified":1466488112,
+    "wof:lastmodified":1510695717,
     "wof:name":"Flying J Travel Plaza",
     "wof:parent_id":85876293,
     "wof:placetype":"venue",

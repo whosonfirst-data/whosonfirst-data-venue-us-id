@@ -2,14 +2,20 @@
   "id": 185972973,
   "type": "Feature",
   "properties": {
+    "addr:full":"369 E Anderson St Idaho Falls ID 83401",
+    "addr:housenumber":"369",
+    "addr:postcode":"83401",
+    "addr:street":"E Anderson St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-112.028097,43.511456,-112.028097,43.511456",
     "geom:latitude":43.511456,
     "geom:longitude":-112.028097,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"369 E Anderson St",
     "sg:city":"Idaho Falls",
     "sg:classifiers":[
@@ -34,12 +40,13 @@
         85937963,
         102085163
     ],
+    "wof:brand_id":1125155221,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5nDHR9snjSDc3txVW3xYG5_43.511456_-112.028097@1294099250"
     },
     "wof:country":"US",
-    "wof:geomhash":"dcc003418f66b6290dc6d7a409ff5cdd",
+    "wof:geomhash":"07c492f99352b1228c1a851666a53409",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":185972973,
-    "wof:lastmodified":1466488708,
+    "wof:lastmodified":1510697564,
     "wof:name":"Auto Trim Design",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

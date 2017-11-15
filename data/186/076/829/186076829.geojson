@@ -2,14 +2,20 @@
   "id": 186076829,
   "type": "Feature",
   "properties": {
+    "addr:full":"102 E Wyoming Ave Homedale ID 83628",
+    "addr:housenumber":"102",
+    "addr:postcode":"83628",
+    "addr:street":"E Wyoming Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-116.932453,43.616691,-116.932453,43.616691",
     "geom:latitude":43.616691,
     "geom:longitude":-116.932453,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"102 E Wyoming Ave",
     "sg:city":"Homedale",
     "sg:classifiers":[
@@ -30,12 +36,13 @@
         85938065,
         102086017
     ],
+    "wof:brand_id":1125153959,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4kBiqZUeYGfYorlA8vZ279_43.616691_-116.932453@1294099250"
     },
     "wof:country":"US",
-    "wof:geomhash":"1373a0ad64aa3203757d63cdf1dd5ff5",
+    "wof:geomhash":"a8b68fb0347dd3d8711ccace4b4697e9",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -48,7 +55,7 @@
         }
     ],
     "wof:id":186076829,
-    "wof:lastmodified":1466487620,
+    "wof:lastmodified":1510700012,
     "wof:name":"Hair Depot",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

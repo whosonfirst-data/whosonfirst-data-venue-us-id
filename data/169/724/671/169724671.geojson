@@ -2,14 +2,20 @@
   "id": 169724671,
   "type": "Feature",
   "properties": {
+    "addr:full":"2106 N Government Way Coeur D Alene ID 83814",
+    "addr:housenumber":"2106",
+    "addr:postcode":"83814",
+    "addr:street":"N Government Way",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-116.786216,47.697088,-116.786216,47.697088",
     "geom:latitude":47.697088,
     "geom:longitude":-116.786216,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2106 N Government Way",
     "sg:city":"Coeur D Alene",
     "sg:classifiers":[
@@ -34,12 +40,13 @@
         102086085,
         85821457
     ],
+    "wof:brand_id":1125152655,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2tbpsgRNGlse0AV5v6xAgR_47.697088_-116.786216@1294099250"
     },
     "wof:country":"US",
-    "wof:geomhash":"4a5b979aa4959ca2dd58a2dc40d10f0d",
+    "wof:geomhash":"754f98393d749e8f4af0546c29e3d467",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":169724671,
-    "wof:lastmodified":1466488233,
+    "wof:lastmodified":1510698890,
     "wof:name":"Great Harvest Bread Co",
     "wof:parent_id":85821457,
     "wof:placetype":"venue",

@@ -2,14 +2,20 @@
   "id": 169845189,
   "type": "Feature",
   "properties": {
+    "addr:full":"6868 S Eisenman Rd Boise ID 83716",
+    "addr:housenumber":"6868",
+    "addr:postcode":"83716",
+    "addr:street":"S Eisenman Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-116.165078,43.542357,-116.165078,43.542357",
     "geom:latitude":43.542357,
     "geom:longitude":-116.165078,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"6868 S Eisenman Rd",
     "sg:city":"Boise",
     "sg:classifiers":[
@@ -35,12 +41,13 @@
         102086087,
         85876329
     ],
+    "wof:brand_id":1125157425,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_78MK8MGBMDPn0hzbtTJP5l_43.542357_-116.165078@1294099250"
     },
     "wof:country":"US",
-    "wof:geomhash":"5e48a7b667870a9926cc5952652cebdf",
+    "wof:geomhash":"96805b22631ce1a1311a500af5c44057",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":169845189,
-    "wof:lastmodified":1466488692,
+    "wof:lastmodified":1510699717,
     "wof:name":"Kitchen Collection",
     "wof:parent_id":85876329,
     "wof:placetype":"venue",

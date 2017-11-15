@@ -2,6 +2,10 @@
   "id": 169665717,
   "type": "Feature",
   "properties": {
+    "addr:full":"293 S 600 W Heyburn ID 83336",
+    "addr:housenumber":"293;600",
+    "addr:postcode":"83336",
+    "addr:street":"S;W Heyburn",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":169665717,
-    "wof:lastmodified":1466487823,
+    "wof:lastmodified":1472620657,
     "wof:name":"First Response",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

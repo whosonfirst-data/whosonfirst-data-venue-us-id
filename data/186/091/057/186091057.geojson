@@ -2,14 +2,20 @@
   "id": 186091057,
   "type": "Feature",
   "properties": {
+    "addr:full":"836 Pine St Lewiston ID 83501",
+    "addr:housenumber":"836",
+    "addr:postcode":"83501",
+    "addr:street":"Pine St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-116.984617,46.392001,-116.984617,46.392001",
     "geom:latitude":46.392001,
     "geom:longitude":-116.984617,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"836 Pine St",
     "sg:city":"Lewiston",
     "sg:classifiers":[
@@ -35,12 +41,13 @@
         85837769,
         85830385
     ],
+    "wof:brand_id":1125156331,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_34k1uOFq7wucTrY1VZw8Hl_46.392001_-116.984617@1294099250"
     },
     "wof:country":"US",
-    "wof:geomhash":"29961f31182e2cc6e5f1d0eb9ce32dda",
+    "wof:geomhash":"326f075212992d57476d271e44dab635",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -62,7 +69,7 @@
         }
     ],
     "wof:id":186091057,
-    "wof:lastmodified":1466487769,
+    "wof:lastmodified":1510697031,
     "wof:name":"A Stitch In Time",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

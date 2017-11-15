@@ -2,14 +2,20 @@
   "id": 169615383,
   "type": "Feature",
   "properties": {
+    "addr:full":"215 115th St Orofino ID 83544",
+    "addr:housenumber":"215",
+    "addr:postcode":"83544",
+    "addr:street":"115Th St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-116.300191,46.495173,-116.300191,46.495173",
     "geom:latitude":46.495173,
     "geom:longitude":-116.300191,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"215 115th St",
     "sg:city":"Orofino",
     "sg:classifiers":[
@@ -34,12 +40,13 @@
         85938045,
         102086071
     ],
+    "wof:brand_id":1125159785,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1NZTU2nBw82jQjDCFTorPO_46.495173_-116.300191@1294099250"
     },
     "wof:country":"US",
-    "wof:geomhash":"48c73a0b9870f0064e8d9064cd130a3c",
+    "wof:geomhash":"590409b93198a0897519c490022beec9",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":169615383,
-    "wof:lastmodified":1466487044,
+    "wof:lastmodified":1510696644,
     "wof:name":"Ascension Lutheran Church",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

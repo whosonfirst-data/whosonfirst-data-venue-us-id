@@ -2,14 +2,20 @@
   "id": 185950959,
   "type": "Feature",
   "properties": {
+    "addr:full":"400 N Spokane Rd Post Falls ID 83854",
+    "addr:housenumber":"400",
+    "addr:postcode":"83854",
+    "addr:street":"N Spokane Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-116.996276,47.711103,-116.996276,47.711103",
     "geom:latitude":47.711103,
     "geom:longitude":-116.996276,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"400 N Spokane Rd",
     "sg:city":"Post Falls",
     "sg:classifiers":[
@@ -35,12 +41,13 @@
         102086085,
         85833263
     ],
+    "wof:brand_id":1125153383,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1St8QRHWTQoKIDIfT6zICn_47.711103_-116.996276@1294099250"
     },
     "wof:country":"US",
-    "wof:geomhash":"cc7dafe66774bfade73a45483aa305ec",
+    "wof:geomhash":"a292e1c61476e5415ed97bd8427dede0",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":185950959,
-    "wof:lastmodified":1466488675,
+    "wof:lastmodified":1510695717,
     "wof:name":"Flying J Travel Plaza",
     "wof:parent_id":85833263,
     "wof:placetype":"venue",

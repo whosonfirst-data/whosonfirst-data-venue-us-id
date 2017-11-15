@@ -2,14 +2,20 @@
   "id": 857628385,
   "type": "Feature",
   "properties": {
+    "addr:full":"790 S Progress Ave Meridian ID 83642",
+    "addr:housenumber":"790",
+    "addr:postcode":"83642",
+    "addr:street":"S Progress Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-116.391807,43.597163,-116.391807,43.597163",
     "geom:latitude":43.597163,
     "geom:longitude":-116.391807,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"790 S Progress Ave",
     "sg:city":"Meridian",
     "sg:classifiers":[
@@ -37,13 +43,14 @@
         102086087,
         85805083
     ],
+    "wof:brand_id":1125156315,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6JEpa0rsWE9uWxTp70iyeU_43.597163_-116.391807@1299784598"
     },
     "wof:country":"US",
     "wof:created":1464204631,
-    "wof:geomhash":"ce542dfb3f7b40862c0aed8ff67fa7e6",
+    "wof:geomhash":"081a9c17f896f7fdd0e7785b1d0cc89a",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -55,7 +62,7 @@
         }
     ],
     "wof:id":857628385,
-    "wof:lastmodified":1466488258,
+    "wof:lastmodified":1510693709,
     "wof:name":"Tony Romas",
     "wof:parent_id":85805083,
     "wof:placetype":"venue",

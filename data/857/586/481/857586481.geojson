@@ -2,14 +2,20 @@
   "id": 857586481,
   "type": "Feature",
   "properties": {
+    "addr:full":"8665 Emerald St Boise ID 83704",
+    "addr:housenumber":"8665",
+    "addr:postcode":"83704",
+    "addr:street":"Emerald St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-116.289114,43.611221,-116.289114,43.611221",
     "geom:latitude":43.611221,
     "geom:longitude":-116.289114,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"8665 Emerald St",
     "sg:city":"Boise",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102086087,
         85841319
     ],
+    "wof:brand_id":1125154471,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4dp1XFI0GA0alewzsTnVGd_43.611221_-116.289114@1294099250"
     },
     "wof:country":"US",
     "wof:created":1464203683,
-    "wof:geomhash":"38bf1c71b26f7bb96efea82d0565f06c",
+    "wof:geomhash":"4a89efe97831dfb6b22230db76f5d97e",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -55,7 +62,7 @@
         }
     ],
     "wof:id":857586481,
-    "wof:lastmodified":1466487770,
+    "wof:lastmodified":1510699499,
     "wof:name":"RBC Mortgage Co",
     "wof:parent_id":85841319,
     "wof:placetype":"venue",

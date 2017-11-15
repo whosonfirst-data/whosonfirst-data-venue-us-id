@@ -2,14 +2,20 @@
   "id": 186506129,
   "type": "Feature",
   "properties": {
+    "addr:full":"3132 Brown St Boise ID 83714",
+    "addr:housenumber":"3132",
+    "addr:postcode":"83714",
+    "addr:street":"Brown St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-116.23824,43.620255,-116.23824,43.620255",
     "geom:latitude":43.620255,
     "geom:longitude":-116.23824,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"3132 Brown St",
     "sg:city":"Boise",
     "sg:classifiers":[
@@ -34,12 +40,13 @@
         102086087,
         85876301
     ],
+    "wof:brand_id":1125153635,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6bxXBn7kI3rYtK3KxE2ARN_43.620255_-116.238240@1294099250"
     },
     "wof:country":"US",
-    "wof:geomhash":"32f3bc208331f6e210bf82c1d0fa3af0",
+    "wof:geomhash":"231d370b0da00479ed20a0b831bae68a",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":186506129,
-    "wof:lastmodified":1466488918,
+    "wof:lastmodified":1510695774,
     "wof:name":"Otis Elevator Co",
     "wof:parent_id":85876301,
     "wof:placetype":"venue",

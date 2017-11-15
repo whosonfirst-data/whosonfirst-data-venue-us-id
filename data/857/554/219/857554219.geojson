@@ -2,14 +2,20 @@
   "id": 857554219,
   "type": "Feature",
   "properties": {
+    "addr:full":"904 12th Ave Rd Nampa ID 83686",
+    "addr:housenumber":"904",
+    "addr:postcode":"83686",
+    "addr:street":"12Th Ave Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-116.572786,43.557742,-116.572786,43.557742",
     "geom:latitude":43.557742,
     "geom:longitude":-116.572786,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"904 12th Ave Rd",
     "sg:city":"Nampa",
     "sg:classifiers":[
@@ -31,13 +37,14 @@
         102085081,
         85827787
     ],
+    "wof:brand_id":1125152639,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5gippFUMWJ9o4Bie5IC9h5_43.557742_-116.572786@1294099250"
     },
     "wof:country":"US",
     "wof:created":1464203012,
-    "wof:geomhash":"cf0175752ecd088059df49ffd49a406f",
+    "wof:geomhash":"a16a26372af8c0145616cb5b583cc463",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -49,7 +56,7 @@
         }
     ],
     "wof:id":857554219,
-    "wof:lastmodified":1466487391,
+    "wof:lastmodified":1510697378,
     "wof:name":"Berean Baptist Church",
     "wof:parent_id":85827787,
     "wof:placetype":"venue",

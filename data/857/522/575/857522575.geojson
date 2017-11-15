@@ -2,14 +2,20 @@
   "id": 857522575,
   "type": "Feature",
   "properties": {
+    "addr:full":"590 W Clearwater Loop Post Falls ID 83854",
+    "addr:housenumber":"590",
+    "addr:postcode":"83854",
+    "addr:street":"W Clearwater Loop",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-117.010323,47.696801,-117.010323,47.696801",
     "geom:latitude":47.696801,
     "geom:longitude":-117.010323,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"590 W Clearwater Loop",
     "sg:city":"Post Falls",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         102086085,
         85833263
     ],
+    "wof:brand_id":1125153617,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5fRLNjCXAMBGtX92WZfUv9_47.696801_-117.010323@1294099250"
     },
     "wof:country":"US",
     "wof:created":1464202400,
-    "wof:geomhash":"625396cbcde85b0c2f478537e364de1c",
+    "wof:geomhash":"c3a7396786c4f2d4da266a244f79096b",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -54,7 +61,7 @@
         }
     ],
     "wof:id":857522575,
-    "wof:lastmodified":1466487059,
+    "wof:lastmodified":1510697971,
     "wof:name":"John Deere Landscapes",
     "wof:parent_id":85833263,
     "wof:placetype":"venue",

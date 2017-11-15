@@ -2,6 +2,10 @@
   "id": 185808389,
   "type": "Feature",
   "properties": {
+    "addr:full":"315 N 3500 E Lewisville ID 83431",
+    "addr:housenumber":"315",
+    "addr:postcode":"3500;83431",
+    "addr:street":"N;E",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":185808389,
-    "wof:lastmodified":1466488390,
+    "wof:lastmodified":1472620673,
     "wof:name":"Agriculture Concept Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

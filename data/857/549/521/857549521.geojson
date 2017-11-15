@@ -2,14 +2,20 @@
   "id": 857549521,
   "type": "Feature",
   "properties": {
+    "addr:full":"705 12th Ave Rd Nampa ID 83686",
+    "addr:housenumber":"705",
+    "addr:postcode":"83686",
+    "addr:street":"12Th Ave Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-116.57304,43.562337,-116.57304,43.562337",
     "geom:latitude":43.562337,
     "geom:longitude":-116.57304,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"705 12th Ave Rd",
     "sg:city":"Nampa",
     "sg:classifiers":[
@@ -34,13 +40,14 @@
         102085081,
         85827787
     ],
+    "wof:brand_id":1125156919,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1p1kAwtQwvvA1DOfxTcWBz_43.562337_-116.573040@1294099250"
     },
     "wof:country":"US",
     "wof:created":1464202922,
-    "wof:geomhash":"9d0f9d6615fbe6d2ba0c063da3eb4fcd",
+    "wof:geomhash":"6783a63292f331968fabaef22e41ba60",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":857549521,
-    "wof:lastmodified":1466487362,
+    "wof:lastmodified":1510698506,
     "wof:name":"Book Nook",
     "wof:parent_id":85827787,
     "wof:placetype":"venue",

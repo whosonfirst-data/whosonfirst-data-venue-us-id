@@ -2,14 +2,20 @@
   "id": 857614983,
   "type": "Feature",
   "properties": {
+    "addr:full":"810 W Park Ct Coeur D Alene ID 83815",
+    "addr:housenumber":"810",
+    "addr:postcode":"83815",
+    "addr:street":"W Park Ct",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-116.798989,47.728989,-116.798989,47.728989",
     "geom:latitude":47.728989,
     "geom:longitude":-116.798989,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"810 W Park Ct",
     "sg:city":"Coeur D Alene",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         85821457,
         102086085
     ],
+    "wof:brand_id":1125153707,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3bBNmGIwLb1aOuWq1aueFX_47.728989_-116.798989@1294099250"
     },
     "wof:country":"US",
     "wof:created":1464204322,
-    "wof:geomhash":"abbf4df9d9fdf7a00fdd6ab5d953197f",
+    "wof:geomhash":"3ac07cfadaab965fd3b63eb4d8348a7e",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":857614983,
-    "wof:lastmodified":1466488164,
+    "wof:lastmodified":1510693862,
     "wof:name":"Pampered Chef",
     "wof:parent_id":85821457,
     "wof:placetype":"venue",

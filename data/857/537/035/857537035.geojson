@@ -2,14 +2,20 @@
   "id": 857537035,
   "type": "Feature",
   "properties": {
+    "addr:full":"102 Thain Rd Lewiston ID 83501",
+    "addr:housenumber":"102",
+    "addr:postcode":"83501",
+    "addr:street":"Thain Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-116.990419,46.391208,-116.990419,46.391208",
     "geom:latitude":46.391208,
     "geom:longitude":-116.990419,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"102 Thain Rd",
     "sg:city":"Lewiston",
     "sg:classifiers":[
@@ -37,13 +43,14 @@
         102191575,
         85830385
     ],
+    "wof:brand_id":1125151161,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3lmv4XeNCtAikrTa0vnEtk_46.391208_-116.990419@1294099250"
     },
     "wof:country":"US",
     "wof:created":1464202681,
-    "wof:geomhash":"9b1418a357f520b16c37bb1f9762239f",
+    "wof:geomhash":"150778aa6ab49f3c34fa261105aef856",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -64,7 +71,7 @@
         }
     ],
     "wof:id":857537035,
-    "wof:lastmodified":1466487174,
+    "wof:lastmodified":1510698756,
     "wof:name":"Allied Cash Advance",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
