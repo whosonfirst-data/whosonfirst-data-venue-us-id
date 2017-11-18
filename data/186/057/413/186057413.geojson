@@ -7,13 +7,16 @@
     "addr:postcode":"83642",
     "addr:street":"E Franklin Rd",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-116.387602,43.604807,-116.387602,43.604807",
     "geom:latitude":43.604807,
     "geom:longitude":-116.387602,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"660 E Franklin Rd",
     "sg:city":"Meridian",
     "sg:classifiers":[
@@ -43,7 +46,7 @@
         "sg:id":"SG_54NEX2ZTZvNMQHB5hb5Kh1_43.604807_-116.387602@1294099250"
     },
     "wof:country":"US",
-    "wof:geomhash":"88b892570629ebe0b53af818beeb3286",
+    "wof:geomhash":"9e05975cbbd9692ffef4f8a69ed7b1a9",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -56,12 +59,14 @@
         }
     ],
     "wof:id":186057413,
-    "wof:lastmodified":1472620650,
+    "wof:lastmodified":1510942417,
     "wof:name":"Blackburn Law PC",
     "wof:parent_id":85805083,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-id",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        320534071
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "attorney"

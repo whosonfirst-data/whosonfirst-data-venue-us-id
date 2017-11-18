@@ -7,13 +7,16 @@
     "addr:postcode":"83501",
     "addr:street":"D St Ste 107",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-117.029367,46.421951,-117.029367,46.421951",
     "geom:latitude":46.421951,
     "geom:longitude":-117.029367,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"313 D St Ste 107",
     "sg:city":"Lewiston",
     "sg:classifiers":[],
@@ -34,7 +37,7 @@
         "sg:id":"SG_6MqYxvNNQnn8682rPAndU3_46.421951_-117.029367@1303263095"
     },
     "wof:country":"US",
-    "wof:geomhash":"2b9531ce1cae53f8f746e95e2a640f7c",
+    "wof:geomhash":"97e8ef69141eb09779d6dac38f3abc88",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -47,12 +50,14 @@
         }
     ],
     "wof:id":320525457,
-    "wof:lastmodified":1472620517,
+    "wof:lastmodified":1510942673,
     "wof:name":"Havana Salon",
     "wof:parent_id":85852537,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-id",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        857583785
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

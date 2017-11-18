@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-117.029315,46.422014,-117.029315,46.422014",
     "geom:latitude":46.422014,
     "geom:longitude":-117.029315,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"313 D St",
     "sg:city":"Lewiston",
     "sg:classifiers":[
@@ -41,7 +43,7 @@
     },
     "wof:country":"US",
     "wof:created":1464203621,
-    "wof:geomhash":"339e62ca08181b4ede11baedd354f01e",
+    "wof:geomhash":"13dbb902fdd69cbd44822d224733d571",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -53,13 +55,15 @@
         }
     ],
     "wof:id":857583785,
-    "wof:lastmodified":1472620616,
+    "wof:lastmodified":1510942673,
     "wof:name":"Havana Salon",
     "wof:parent_id":85852537,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        320525457
+    ],
     "wof:tags":[]
 },
   "bbox": [

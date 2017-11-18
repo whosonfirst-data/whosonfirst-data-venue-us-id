@@ -7,13 +7,16 @@
     "addr:postcode":"83706",
     "addr:street":"S Capitol Blvd",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-116.211578,43.605591,-116.211578,43.605591",
     "geom:latitude":43.605591,
     "geom:longitude":-116.211578,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"1301 S Capitol Blvd",
     "sg:city":"Boise",
     "sg:classifiers":[],
@@ -34,7 +37,7 @@
         "sg:id":"SG_58X6NgUfrrxNj8fewcKX1r_43.605591_-116.211578@1303263095"
     },
     "wof:country":"US",
-    "wof:geomhash":"ec760fa03f8d2701c35d34f9b115000e",
+    "wof:geomhash":"617352b8c2f2853deda3bb5e3839aefd",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -47,12 +50,14 @@
         }
     ],
     "wof:id":320542597,
-    "wof:lastmodified":1472620551,
+    "wof:lastmodified":1510942840,
     "wof:name":"Papa Joe's",
     "wof:parent_id":85876325,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-id",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        857629549
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

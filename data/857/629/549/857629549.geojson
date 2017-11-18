@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-116.211643,43.605481,-116.211643,43.605481",
     "geom:latitude":43.605481,
     "geom:longitude":-116.211643,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1301 S Capitol Blvd",
     "sg:city":"Boise",
     "sg:classifiers":[
@@ -39,16 +41,18 @@
     },
     "wof:country":"US",
     "wof:created":1464204652,
-    "wof:geomhash":"b020b40c11cb98b10268913287fd4849",
+    "wof:geomhash":"9f37a655a0e352436141cab03418bb63",
     "wof:hierarchy":[],
     "wof:id":857629549,
-    "wof:lastmodified":1472620627,
+    "wof:lastmodified":1510942840,
     "wof:name":"Papa Joe's",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        320542597
+    ],
     "wof:tags":[
         "italian"
     ]

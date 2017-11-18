@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-117.028346,46.732538,-117.028346,46.732538",
     "geom:latitude":46.732538,
     "geom:longitude":-117.028346,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1952 W Pullman Rd",
     "sg:city":"Moscow",
     "sg:classifiers":[
@@ -40,7 +42,7 @@
         "sg:id":"SG_6K898v4AU1Up9Q3hnBPkOJ_46.732538_-117.028346@1294099250"
     },
     "wof:country":"US",
-    "wof:geomhash":"99878950aed64a09d64c123c4460a8b8",
+    "wof:geomhash":"76479acba673cf3a304027b5d6078044",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -53,13 +55,15 @@
         }
     ],
     "wof:id":186392929,
-    "wof:lastmodified":1472620722,
+    "wof:lastmodified":1510943077,
     "wof:name":"Regis Salons",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        320546671
+    ],
     "wof:tags":[]
 },
   "bbox": [

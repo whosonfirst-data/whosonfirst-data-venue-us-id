@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-116.92919,46.549587,-116.92919,46.549587",
     "geom:latitude":46.549587,
     "geom:longitude":-116.92919,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"355 W Chestnut St",
     "sg:city":"Genesee",
     "sg:classifiers":[
@@ -44,7 +46,7 @@
         "sg:id":"SG_1DaoeGDryhAakwENxh4whL_46.549587_-116.929190@1294099250"
     },
     "wof:country":"US",
-    "wof:geomhash":"41f6f7249eaf057f60a8364674f27394",
+    "wof:geomhash":"a0b0e359b024c6a8592639bdd1756467",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -57,13 +59,15 @@
         }
     ],
     "wof:id":186492941,
-    "wof:lastmodified":1472620736,
+    "wof:lastmodified":1510943135,
     "wof:name":"S I Corp",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        857572859
+    ],
     "wof:tags":[
         "control",
         "erosion"
