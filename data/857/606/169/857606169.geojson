@@ -2,18 +2,24 @@
   "id": 857606169,
   "type": "Feature",
   "properties": {
-    "addr:full":"4748 S Lindbergh St Boise ID 83705",
+    "addr:city":"Boise",
+    "addr:full":"4748 S Lindbergh St Boise, Id 83705",
+    "addr:house_number":"4748",
     "addr:housenumber":"4748",
+    "addr:phone":"+1 208-272-4841",
     "addr:postcode":"83705",
+    "addr:road":"S Lindbergh St",
+    "addr:state":"ID",
     "addr:street":"S Lindbergh St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"-116.238601,43.558617,-116.238601,43.558617",
-    "geom:latitude":43.558617,
-    "geom:longitude":-116.238601,
+    "geom:bbox":"-116.23173,43.55746,-116.23173,43.55746",
+    "geom:latitude":43.55746,
+    "geom:longitude":-116.23173,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"4748 S Lindbergh St",
     "sg:city":"Boise",
     "sg:classifiers":[
@@ -27,7 +33,10 @@
     "sg:phone":"+1 208 422 4841",
     "sg:postcode":"83705",
     "sg:province":"ID",
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[
+        102527733
+    ],
     "wof:belongsto":[
         102527733,
         85876337,
@@ -39,11 +48,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8401600023,
         "sg:id":"SG_2WhmIZec8zODDrGU2hX4bp_43.558617_-116.238601@1294099250"
     },
     "wof:country":"US",
     "wof:created":1464204119,
-    "wof:geomhash":"555dfebb76226d472775ba75c548cfe8",
+    "wof:geomhash":"8fa04b22912347718f00d5cd5c298050",
     "wof:hierarchy":[
         {
             "campus_id":102527733,
@@ -57,7 +67,7 @@
         }
     ],
     "wof:id":857606169,
-    "wof:lastmodified":1472620568,
+    "wof:lastmodified":1534184929,
     "wof:name":"Idaho Military History Museum",
     "wof:parent_id":102527733,
     "wof:placetype":"venue",
@@ -67,10 +77,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -116.238601,
-    43.558617,
-    -116.238601,
-    43.558617
+    -116.23173,
+    43.55746,
+    -116.23173,
+    43.55746
 ],
-  "geometry": {"coordinates":[-116.238601,43.558617],"type":"Point"}
+  "geometry": {"coordinates":[-116.23173,43.55746],"type":"Point"}
 }

@@ -14,6 +14,7 @@
     "geom:longitude":-116.213717,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1013 Vista Ave",
     "sg:city":"Boise",
     "sg:classifiers":[
@@ -44,7 +45,7 @@
         "sg:id":"SG_5lTKbdlfxYHFXYUI2Zhaq2_43.595175_-116.213717@1294099250"
     },
     "wof:country":"US",
-    "wof:geomhash":"ba66c398fb824720b38e4758918e230b",
+    "wof:geomhash":"ac93f43e0af9b62db867be067e3f16a1",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -57,13 +58,15 @@
         }
     ],
     "wof:id":186258143,
-    "wof:lastmodified":1472620710,
+    "wof:lastmodified":1534184929,
     "wof:name":"Domino's Pizza",
     "wof:parent_id":85876303,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-id",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        857629333
+    ],
     "wof:tags":[
         "eating"
     ]

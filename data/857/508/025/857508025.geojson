@@ -2,18 +2,24 @@
   "id": 857508025,
   "type": "Feature",
   "properties": {
-    "addr:full":"611 S Ella Ave Sandpoint ID 83864",
+    "addr:city":"Sandpoint",
+    "addr:full":"611 S Ella Ave Sandpoint, Id 83864-1100",
+    "addr:house_number":"611",
     "addr:housenumber":"611",
-    "addr:postcode":"83864",
+    "addr:phone":"+1 208-263-2344",
+    "addr:postcode":"83864-1100",
+    "addr:road":"S Ella Ave",
+    "addr:state":"ID",
     "addr:street":"S Ella Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"-116.562381,48.265597,-116.562381,48.265597",
-    "geom:latitude":48.265597,
-    "geom:longitude":-116.562381,
+    "geom:bbox":"-116.56248,48.26403,-116.56248,48.26403",
+    "geom:latitude":48.26403,
+    "geom:longitude":-116.56248,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"611 S Ella Ave",
     "sg:city":"Sandpoint",
     "sg:classifiers":[
@@ -32,19 +38,21 @@
     "sg:phone":"+1 208 263 2344",
     "sg:postcode":"83864",
     "sg:province":"ID",
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[],
     "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8401600051,
         "sg:id":"SG_0NsQWk1YztC9c5fp6vAjQS_48.265597_-116.562381@1294099250"
     },
     "wof:country":"US",
     "wof:created":1464202106,
-    "wof:geomhash":"e24d3810ad7f5a2c97ee89fc0aac9f4b",
+    "wof:geomhash":"b0640385a0931c122eb53dd805198294",
     "wof:hierarchy":[],
     "wof:id":857508025,
-    "wof:lastmodified":1472620505,
-    "wof:name":"Bonner County Historical Soc",
+    "wof:lastmodified":1534184929,
+    "wof:name":"Bonner County Historical Society",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-id",
@@ -53,10 +61,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -116.562381,
-    48.265597,
-    -116.562381,
-    48.265597
+    -116.56248,
+    48.26403,
+    -116.56248,
+    48.26403
 ],
-  "geometry": {"coordinates":[-116.562381,48.265597],"type":"Point"}
+  "geometry": {"coordinates":[-116.56247999999999,48.26403],"type":"Point"}
 }

@@ -7,6 +7,7 @@
     "addr:postcode":"83709",
     "addr:street":"Overland Rd",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-13",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.268807,43.590194,-116.268807,43.590194",
@@ -14,6 +15,7 @@
     "geom:longitude":-116.268807,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"7070 Overland Rd",
     "sg:city":"Boise",
     "sg:classifiers":[
@@ -42,7 +44,7 @@
         "sg:id":"SG_2zX1bTSI8cP0krClxQBCDB_43.590194_-116.268807@1294099250"
     },
     "wof:country":"US",
-    "wof:geomhash":"27e99919b053fb2b831695bb763ecde8",
+    "wof:geomhash":"90dea657c6be3f7862c7f13f462a5334",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -55,12 +57,14 @@
         }
     ],
     "wof:id":186035271,
-    "wof:lastmodified":1472620636,
+    "wof:lastmodified":1534184929,
     "wof:name":"Taco Bell",
     "wof:parent_id":85876293,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-id",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        857629703
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

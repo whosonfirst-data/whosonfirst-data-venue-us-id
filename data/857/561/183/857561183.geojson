@@ -2,18 +2,24 @@
   "id": 857561183,
   "type": "Feature",
   "properties": {
-    "addr:full":"201 Municipal Way Nampa ID 83687",
+    "addr:city":"Nampa",
+    "addr:full":"201 Municipal Way Nampa, Id 83687-8582",
+    "addr:house_number":"201",
     "addr:housenumber":"201",
-    "addr:postcode":"83687",
+    "addr:phone":"+1 208-465-6446",
+    "addr:postcode":"83687-8582",
+    "addr:road":"Municipal Way",
+    "addr:state":"ID",
     "addr:street":"Municipal Way",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"-116.523274,43.584938,-116.523274,43.584938",
-    "geom:latitude":43.584938,
-    "geom:longitude":-116.523274,
+    "geom:bbox":"-116.52328,43.58486,-116.52328,43.58486",
+    "geom:latitude":43.58486,
+    "geom:longitude":-116.52328,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"201 Municipal Way",
     "sg:city":"Nampa",
     "sg:classifiers":[
@@ -30,21 +36,23 @@
     "sg:tags":[
         "gallery"
     ],
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[],
     "wof:belongsto":[
-        85688657,
+        85827787,
         85633793,
         85938009,
         102085081,
-        85827787
+        85688657
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8401600197,
         "sg:id":"SG_6T7HDFAkpluuRJUI6n30yC_43.584938_-116.523274@1294099250"
     },
     "wof:country":"US",
     "wof:created":1464203186,
-    "wof:geomhash":"c47624af4700979287e4308f65667025",
+    "wof:geomhash":"61b16b5954e7928e14d5776d3b1d56ae",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -56,8 +64,8 @@
         }
     ],
     "wof:id":857561183,
-    "wof:lastmodified":1472620569,
-    "wof:name":"Warhawk Air Museum Inc",
+    "wof:lastmodified":1534184929,
+    "wof:name":"Warhawk Air Museum",
     "wof:parent_id":85827787,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-id",
@@ -68,10 +76,10 @@
     ]
 },
   "bbox": [
-    -116.523274,
-    43.584938,
-    -116.523274,
-    43.584938
+    -116.52328,
+    43.58486,
+    -116.52328,
+    43.58486
 ],
-  "geometry": {"coordinates":[-116.523274,43.584938],"type":"Point"}
+  "geometry": {"coordinates":[-116.52328,43.58486],"type":"Point"}
 }

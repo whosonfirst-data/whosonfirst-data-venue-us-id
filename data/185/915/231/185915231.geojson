@@ -2,18 +2,24 @@
   "id": 185915231,
   "type": "Feature",
   "properties": {
-    "addr:full":"611 Grove St Boise ID 83702",
+    "addr:city":"Boise",
+    "addr:full":"611 W Grove St Boise, Id 83702-5971",
+    "addr:house_number":"611",
     "addr:housenumber":"611",
-    "addr:postcode":"83702",
+    "addr:phone":"+1 208-343-2671",
+    "addr:postcode":"83702-5971",
+    "addr:road":"W Grove St",
+    "addr:state":"ID",
     "addr:street":"Grove St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"-116.203043,43.614095,-116.203043,43.614095",
-    "geom:latitude":43.614095,
-    "geom:longitude":-116.203043,
+    "geom:bbox":"-116.20246,43.61363,-116.20246,43.61363",
+    "geom:latitude":43.61363,
+    "geom:longitude":-116.20246,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"611 Grove St",
     "sg:city":"Boise",
     "sg:classifiers":[
@@ -28,7 +34,10 @@
     "sg:postcode":"83702",
     "sg:province":"ID",
     "sg:website":"www.basquemuseum.com",
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[
+        102527733
+    ],
     "wof:belongsto":[
         85688657,
         85633793,
@@ -38,10 +47,11 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8401600128,
         "sg:id":"SG_7YVU9MEZvLp7LPFQTSb3jV_43.614095_-116.203043@1294099250"
     },
     "wof:country":"US",
-    "wof:geomhash":"c6210df4e6b425cd8952f8997d075f31",
+    "wof:geomhash":"a9c56ceb3963bcdbce1416e65963098c",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -54,8 +64,8 @@
         }
     ],
     "wof:id":185915231,
-    "wof:lastmodified":1472620692,
-    "wof:name":"Basque Museum & Cultural Ctr",
+    "wof:lastmodified":1534184929,
+    "wof:name":"Basque Museum & Cultural Center",
     "wof:parent_id":85876319,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-id",
@@ -64,10 +74,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -116.203043,
-    43.614095,
-    -116.203043,
-    43.614095
+    -116.20246,
+    43.61363,
+    -116.20246,
+    43.61363
 ],
-  "geometry": {"coordinates":[-116.20304299999999,43.614095],"type":"Point"}
+  "geometry": {"coordinates":[-116.20246,43.61363],"type":"Point"}
 }

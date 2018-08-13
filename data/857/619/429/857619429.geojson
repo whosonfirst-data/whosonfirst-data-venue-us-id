@@ -2,18 +2,24 @@
   "id": 857619429,
   "type": "Feature",
   "properties": {
-    "addr:full":"2295 Paddock Ave Weiser ID 83672",
+    "addr:city":"Weiser",
+    "addr:full":"2295 Paddock Ave Weiser, Id 83672",
+    "addr:house_number":"2295",
     "addr:housenumber":"2295",
+    "addr:phone":"+1 208-549-0205",
     "addr:postcode":"83672",
+    "addr:road":"Paddock Ave",
+    "addr:state":"ID",
     "addr:street":"Paddock Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"-116.980415,44.264173,-116.980415,44.264173",
-    "geom:latitude":44.264173,
-    "geom:longitude":-116.980415,
+    "geom:bbox":"-116.96359,44.25514,-116.96359,44.25514",
+    "geom:latitude":44.25514,
+    "geom:longitude":-116.96359,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"2295 Paddock Ave",
     "sg:city":"Weiser",
     "sg:classifiers":[
@@ -27,19 +33,21 @@
     "sg:phone":"+1 208 549 0205",
     "sg:postcode":"83672",
     "sg:province":"ID",
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[],
     "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8401600006,
         "sg:id":"SG_05xez9NygfJojudvArR4Hs_44.264173_-116.980415@1294099250"
     },
     "wof:country":"US",
     "wof:created":1464204419,
-    "wof:geomhash":"1c85521b88508c4daea3887ba4312ab5",
+    "wof:geomhash":"04a75b264669db09d266cd1bf83a1af6",
     "wof:hierarchy":[],
     "wof:id":857619429,
-    "wof:lastmodified":1472620616,
-    "wof:name":"Snake River Heritage Ctr",
+    "wof:lastmodified":1534184929,
+    "wof:name":"Snake River Heritage Center",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-id",
@@ -48,10 +56,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -116.980415,
-    44.264173,
-    -116.980415,
-    44.264173
+    -116.96359,
+    44.25514,
+    -116.96359,
+    44.25514
 ],
-  "geometry": {"coordinates":[-116.98041499999999,44.264173],"type":"Point"}
+  "geometry": {"coordinates":[-116.96359,44.25514],"type":"Point"}
 }

@@ -2,18 +2,24 @@
   "id": 857567139,
   "type": "Feature",
   "properties": {
-    "addr:full":"900 John Adams Pkwy Idaho Falls ID 83401",
+    "addr:city":"Idaho Falls",
+    "addr:full":"900 John Adams Pkwy Idaho Falls, Id 83401",
+    "addr:house_number":"900",
     "addr:housenumber":"900",
+    "addr:phone":"+1 208-528-9900",
     "addr:postcode":"83401",
+    "addr:road":"John Adams Pkwy",
+    "addr:state":"ID",
     "addr:street":"John Adams Pkwy",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"-112.014744,43.493644,-112.014744,43.493644",
-    "geom:latitude":43.493644,
-    "geom:longitude":-112.014744,
+    "geom:bbox":"-112.01243,43.49332,-112.01243,43.49332",
+    "geom:latitude":43.49332,
+    "geom:longitude":-112.01243,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"900 John Adams Pkwy",
     "sg:city":"Idaho Falls",
     "sg:classifiers":[
@@ -27,19 +33,23 @@
     "sg:phone":"+1 208 528 9900",
     "sg:postcode":"83401",
     "sg:province":"ID",
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[
+        102528385
+    ],
     "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8401600031,
         "sg:id":"SG_6q5ky0ldNQHji8sdRy0ocs_43.493644_-112.014744@1294099250"
     },
     "wof:country":"US",
     "wof:created":1464203301,
-    "wof:geomhash":"1e29032ad72f07f20fa97431dbdd7a6e",
+    "wof:geomhash":"14a5c9b2843ea94cf1d3b8055259a342",
     "wof:hierarchy":[],
     "wof:id":857567139,
-    "wof:lastmodified":1472620572,
-    "wof:name":"Collectors Corner Museum",
+    "wof:lastmodified":1534184929,
+    "wof:name":"Collectors' Corner Museum",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-id",
@@ -48,10 +58,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -112.014744,
-    43.493644,
-    -112.014744,
-    43.493644
+    -112.01243,
+    43.49332,
+    -112.01243,
+    43.49332
 ],
-  "geometry": {"coordinates":[-112.01474399999999,43.493644],"type":"Point"}
+  "geometry": {"coordinates":[-112.01242999999999,43.49332],"type":"Point"}
 }
